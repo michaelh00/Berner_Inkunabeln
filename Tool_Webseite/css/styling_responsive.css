@@ -1,0 +1,105 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    background-image: url(../bilder/Zesk_1_fol_1r_Detail.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: Book Antiqua, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.container {
+    width: 70%;
+    max-width: 30vw;
+    background-color: rgb(227, 225, 231);
+    padding-left: 2vw;
+    padding-right: 2vw;
+    padding-top: 0.3vw;
+    padding-bottom: 2vw;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    opacity: 0.85;
+    margin: 2.6vw auto; /* Anpassung des Abstands oben/unten */
+    display: flex; /* Hinzufügen */
+    flex-direction: column; /* Hinzufügen */
+    position: relative; /* Container als Referenz für das .subtitle::after-Pseudo-Element */
+}
+
+.title {
+    font-size: 2.8vw;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin-bottom: 0.8vw; /* Anpassung des Abstands unten */
+    position: relative;
+}
+
+.subtitle {
+    font-size: 1.8vw;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-bottom: 2vw; /* Anpassung des Abstands zur Box */
+    position: relative;
+}
+
+.subtitle::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    /* left: 50%;
+    transform: translate(-50%, -50%); */
+    left: 0;
+    right: 0;
+    transform: translateY(-50%);
+    height: 2.4vw;
+    width: 27vw;
+    background-color: #29296d;
+    z-index: -1;
+    width: 100%; /* Breite auf 100% setzen */
+}
+
+/* .attributes {
+    margin-left: 5%;
+} */
+
+.button {
+    display: inline-block;
+    padding: 0.4vw 0.8vw;
+    background-color: #4c4e4e;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 2px;
+    font-weight: bold;
+    /* margin-left: 5%; */
+    font-size: 0.9vw;
+    align-self: flex-start; /* Hinzufügen */
+}
+
+.bigspace {
+    font-size: 2vw;
+}
+
+.middlespace {
+    font-size: 1.2vw;
+}
+
+.smallspace {
+    font-size: 0.3vw;
+}
+
+
+
+/* .parent_catalogue{
+    display: inline-block;
+} */
+
+.catalogue_single{
+    display: inline-block;
+}
+
+.catalogue_concat{
+    display: inline-block;
+    float: right;
+}

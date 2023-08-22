@@ -1,0 +1,92 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    background-image: url(../bilder/Zesk_1_fol_1r_Detail.jpg);
+
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: Book Antiqua, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.container {
+    width: 70%;
+    max-width: 30vw;
+    background-color: rgb(227, 225, 231);
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    opacity: 0.9;
+}
+
+.title
+{
+    font-size: 1.8vw;
+    color: black;
+    text-align: center;
+}
+
+.index-entry{
+    margin-bottom: 25px;
+}
+
+.index-entry-term
+{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(75, 73, 73);
+    text-align: left;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5px;
+}
+
+.index-entry-term-place
+{
+    font-size: 25px;
+    font-weight: bold;
+    /* color: rgb(100, 0, 0); */
+    color: rgb(30, 22, 56);
+    text-align: left;
+    margin-left: 8%;
+    margin-right: 10%;
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+
+.index-entry-term-person
+{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(75, 73, 73);
+    text-align: left;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5px;
+}
+
+.index-entry-term-owner
+{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(82, 14, 14);
+    text-align: left;
+    margin-left: 5%;
+    margin-right: 10%;
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+
+.nav-pointer-group
+{
+    font-size: 20px;
+    color: rgb(35, 14, 92);
+    text-align: left;
+    margin-left: 15%;
+    margin-right: 10%;
+    margin-bottom: 0px;
+}

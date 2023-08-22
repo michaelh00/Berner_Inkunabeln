@@ -1,0 +1,145 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    background-image: url(../bilder/Zesk_1_fol_1r_Detail.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: Book Antiqua, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.container {
+    width: 70%;
+    max-width: 40vw;
+    background-color: rgb(227, 225, 231);
+    padding-left: 8vw;
+    padding-right: 8vw;
+    padding-top: 4vw;
+    padding-bottom: 6vw;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    opacity: 0.95;
+    margin: auto auto; /* Anpassung des Abstands oben/unten */
+    display: flex; /* Hinzufügen */
+    flex-direction: column; /* Hinzufügen */
+    position: relative; /* Container als Referenz für das .subtitle::after-Pseudo-Element */
+}
+
+.upper_title {
+    font-size: 1.8vw;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin-bottom: 1.2vw; /* Anpassung des Abstands unten */
+    position: relative;
+}
+
+h1 {
+    font-size: 2.2vw;
+    line-height: 3vw;
+    /* word-spacing: 12pt; */
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin-bottom: 3vw; /* Anpassung des Abstands unten */
+    position: relative;
+}
+
+.author{
+    font-size: 1.8vw;
+    /* line-height: 32pt;
+    word-spacing: 8pt; */
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin-bottom: 4vw; /* Anpassung des Abstands unten */
+    position: relative;
+}
+
+h2 {
+    font-size: 1.8vw;
+    line-height: 2.4vw;
+    /* word-spacing: 1vw; */
+    color: rgb(0, 0, 0);
+    text-align: left;
+    margin-bottom: 1vw; /* Anpassung des Abstands unten */
+    position: relative;
+}
+
+h3 {
+    font-size: 1.6vw;
+    line-height: 2.2vw;
+    /* word-spacing: 0.6vw; */
+    color: rgb(0, 0, 0);
+    text-align: left;
+    margin-bottom: 1vw; /* Anpassung des Abstands unten */
+    position: relative;
+    /* hyphens: auto; 
+	text-align: justify; */
+}
+
+h4 {
+    font-size: 1.4vw;
+    color: rgb(0, 0, 0);
+    text-align: left;
+    margin-bottom: 0.8vw; /* Anpassung des Abstands unten */
+    position: relative;
+}
+
+p{ 
+    font-size: 1.4vw;
+    line-height: 2.2vw;
+    word-spacing: 0.6vw;
+
+    hyphens: auto; 
+
+    /* Blockdatensatz */
+	/* text-align: justify;  */
+
+    /* kein Blockdatensatz */
+    text-align: initial;
+
+    margin-top: 0vw;
+    margin-bottom: 1.5vw; 
+}
+
+td{
+    font-size: 1.4vw;
+}
+
+
+ul{
+    font-size: 1.4vw;
+    line-height: 2vw;
+    word-spacing: 0.6vw;
+
+    /* hyphens: auto; 
+	text-align: justify; */
+
+    margin-top: 0vw;
+    margin-bottom: 1.5vw; 
+}
+
+.li{
+    margin-bottom: 1.2vw; 
+}
+
+.fussnotenliste p{
+    font-size: 1vw; 
+    line-height: 1.4vw;
+    word-spacing: 0.4vw;
+
+    hyphens: auto; 
+
+    /* Blockdatensatz */
+	/* text-align: justify;  */
+
+
+
+    /* kein Blockdatensatz */
+    text-align: initial;
+
+    margin-top: 0vw;
+    margin-bottom: 1.5vw; 
+}
+
