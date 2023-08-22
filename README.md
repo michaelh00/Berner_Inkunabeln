@@ -1,7 +1,7 @@
 # Berner_Inkunabeln
 Dieses Repositiory wird die Materialien (Code und Daten) für die Erstellung des Berner Inkunabelkatalogs ("Die Inkunabeln in der Universität Bern") enthalten.
 
-## 01_Code_Download_Daten
+## 01_Code_Download_Metadaten_Inkunabeln
 
 ## 02_Code_Erstellung_Rohdatensätze
 
@@ -14,6 +14,7 @@ Dieses Repositiory wird die Materialien (Code und Daten) für die Erstellung des
 ## 06_Code_Datenzusammenstellung_BOP
 
 ## 10_Daten_Grundlage
+Enthält die manuell bearbeiteten Daten nach dem automatisierten Download der Inkunabel-Metadaten und der automatisierten Erstellung der Inkunabel-Rohdatensätze. Die hier vorhandenen Textfiles stellen die Datengrundlage des Inkunabelkatalogs dar.
 
 ## Tool_Webseite
 Enthält den Code für eine Webseitenversion des Katalogs, an die sich das Endprodukt (der Berner Inkunabelkatalog als BOP-Publikation) orientiert.
