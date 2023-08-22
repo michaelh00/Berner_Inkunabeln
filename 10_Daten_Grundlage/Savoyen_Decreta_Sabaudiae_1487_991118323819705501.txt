@@ -1,0 +1,150 @@
+﻿<-1-1-START->
+Savoyen
+<-1-1-STOP->
+
+<-1-2-START->
+Decreta Sabaudiae ducalia; Statuta seu decreta novissima; Reformatio Statutorum super causarum acceleratione; Declaratio clausularum nisi et si quis
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Widmungsbrief des Druckers Jacobinus Suigus an den Herausgeber Petrus Cara und Widmungsbrief Caras an Herzog Karl I. von Savoyen<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Turin: Jacobinus Suigus, 1487
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, LXXX Blätter, 1 ungezähltes Blatt, Blatt LXXXI-LXXXVII, 1 ungezähltes Blatt, Blatt LXXXVIII-LXXXXII, 1 ungezähltes Blatt, Blatt LXXXXIIII-LXXXXVI, 1 ungezähltes Blatt, 11 ungezählte Seiten; 28 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M43632.htm<-L-5-STOP-><-VI-5-START->GW M43632<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/is00002000<-L-5-STOP-><-VI-5-START->ISTC is00002000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+106 von 106 Blättern, in Tinte ausgezeichnete Initialen auf Blatt LXXXIII recto
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Holzdeckeln (braun, Kalbleder, später ergänzt) mit mittiger Schliesse
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Niklaus Friedrich von Mülinen; Bibliothek von Mülinen
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116825906905511<-L-11-STOP-><-VI-11-START->MUE Inc I 108<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991118323819705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Savoyen<-P-STOP->
+<-P-START->Cara, Petrus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Turin<-O-STOP->
+<-P-START->Suigus, Jacobinus<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Mülinen, Niklaus Friedrich von<-P-STOP->
+<-P-START->Bibliothek von Mülinen<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991118323819705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 108<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05207nam a2200685 c 4500
+001 991118323819705501
+005 20211215202459.0
+007 cr#|||||||||||
+008 180131s1487    it ||||| l    00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/31.01.2018/B404/faf    
+024 7    |a 10.3931/e-rara-88624    |2 doi    
+035      |a (swissbib)072280379-41slsp_network    
+035      |a 072280379    |9 ExL    
+035      |a (IDSBB)006770252DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991118323819705501    
+035      |a (41SLSP_UBE)99116825906905511    |9 (41SLSP_UBE)99116825906905511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+110 1    |a Savoyen    |0 (DE-588)4051850-4    |e Normerlassende Gebietskörperschaft    |4 enj    
+245 1 0  |a [Decreta Sabaudiae ducalia]    
+246 1    |i Incipit    |a Clarissimo Iuris vtriusq[ue] doctori: [et] Comiti Domino Petro Care: Ducali Senatori [et] Collaterali dignissimo. Jacobinus Suicus: Inter litterarum impressores minimus: Sal. Plu. D    
+246 1    |i Incipit in normalisierter Form    |a Clarissimo iuris utriusque doctori et comiti domino Petro Care, ducali senatori et collaterali dignissimo, Jacobinus Suicus, inter litterarum impressores minimus, sal. plu. d    
+246 1    |i Explicit    |a Explicit liber quintus [et] vltimus decretorum dominicalium    
+246 1    |i Explicit in normalisierter Form    |a Explicit liber quintus et ultimus decretorum dominicalium    
+246 1    |i Titel gemäss GW    |a Statuta regnorum    |b Decreta Sabaudiae ducalia    
+246 1    |i Titel gemäss ISTC    |a Sabaudiae decreta ducalia    
+264   1  |a Impressum Taurini    |b Jacobinus Suicus    |c Anno Salutis nostre. M.cccc.lxxxvij. [1487]    
+300      |a 1 ungezähltes Blatt, LXXX Blätter, 1 ungezähltes Blatt, Blatt LXXXI-LXXXVII, 1 ungezähltes Blatt, Blatt LXXXVIII-LXXXXII, 1 ungezähltes Blatt, Blatt LXXXXIIII-LXXXXVI, 1 ungezähltes Blatt, 11 ungezählte Seiten    |c 28 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+337      |b c    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+338      |b cr    |2 rdacarrier    
+500      |a Mit Widmungsbrief des Druckers Jacobinus Suigus an den Herausgeber Petrus Cara, drei weiteren savoyischen Gesetzestexten, Widmungsbrief Caras an Herzog Karl I. von Savoyen und Inhaltsverzeichnis des Hauptwerks    
+500      |a Keine Titelseite, Titel gemäss GND    
+500      |a Druckort und Druckjahr gemäss Kolophon, Drucker gemäss Widmungsbrief    
+500      |a Signaturformel: a-i⁸, k¹⁰, l⁸, m¹⁰, []⁶    
+500      |a Die Blätter k₁₀, l₈, m₆ und m₁₀ sind unbedruckt    
+505 0 0  |t Statuta seu decreta nouissima    |t Reformatio statutorum super causarum aceleratione nouiter edictorum    |t Karolus dux sabaudie chablasij [et] auguste sacri romani imperij princeps ...    
+510 4    |a GW    |c M43632    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M43632.htm    
+510 4    |a ISTC    |c is00002000    |u http://data.cerl.org/istc/is00002000    
+561      |a Exlibris auf vorderem Spiegel: "Aus der Büchersam[m]lung N. Friedrichs von Mülinen." (Wegmann 5013)    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Holzdeckeln (braun, Kalbleder, später ergänzt) mit mittiger Schliesse, Linien-Goldprägung sowie Titelschild in Goldprägung auf dem Rücken    
+563      |a Vorsätze: Vorne und hinten jeweils 4 fliegende Blätter (Kombination aus ursprünglichen und ergänzten Vorsätzen)    
+563      |a Masse Einband: 28 x 20.5 x 4 cm    
+563      |a Zustand Einband: Rückenleder vollständig ergänzt (Reste des alten Einbandleders sichtbar), Schliesse vollständig ergänzt, Spiegel der ursprünglichen Vorsätze hochgelöst und zusätzliches Doppelblatt vorgeklebt, Reste eines Buntpapierbezuges unterhalb des ergänzten Vorsatzes sichtbar    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 106 von 106 Blättern, Foliierungsfehler in Tinte korrigiert, vorgesehene Stellen für Initialen frei gelassen, in Tinte ausgezeichnete Initialen auf Blatt LXXXIII recto, Titel "Decreta Sabaud." in Tintenschrift auf dem Kopfschnitt (Buch auf dem Vorderdeckel liegend)    
+590      |a Zustand Buchblock: Schädlingsfrass mit geringem Textverlust    
+590      |a Handschriftliche Annotationen und Unterstreichungen in Tinte    
+700 1    |a Cara, Petrus    |d 1440-1501    |0 (DE-588)104280174    |e Herausgeber    |4 edt    
+700 1    |a Suigus, Jacobinus    |d ca. 15. Jh.    |0 (DE-588)129072052    |e Drucker    |4 prt    
+700 1    |a Mülinen, Niklaus Friedrich <<von>>    |d 1760-1833    |0 (DE-588)117166111    |e Früherer Eigentümer    |4 fmo    
+710 2    |a Bibliothek von Mülinen    |0 (DE-588)1131176316    |e Früherer Eigentümer    |4 fmo    
+710 1    |a Savoyen    |t Decreta Sabaudiae ducalia    |0 (DE-588)1151582859    
+710 1 2  |a Savoyen    |t Statuta seu decreta novissima    |0 (DE-588)1151588482    
+710 1 2  |a Savoyen    |t Reformatio Statutorum super causarum acceleratione    |0 (DE-588)1151598879    
+710 1 2  |a Savoyen    |t Declaratio clausularum nisi et si quis    |0 (DE-588)1151602264    
+751      |a Turin    |0 (DE-588)4061245-4    
+852 4    |b B404    |c 404U3    |j MUE Inc I 108    |9 (41SLSP_UBE)99116825906905511    
+856 4    |u https://doi.org/10.3931/e-rara-88624    |z Digitalisat in e-rara    
+900      |a IDSIxunikat    
+900      |a IDSIxhybrid-el    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc I 108    |b B404    |9 (41SLSP_UBE)99116825906905511    
+986      |a (41SLSP_UBE)99116825906905511    |9 (41SLSP_UBE)99116825906905511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116825906905511    
+990      |f erarabe    |9 local    |9 (41SLSP_UBE)99116825906905511    
+990      |f lza-cc0    |9 local    |9 (41SLSP_UBE)99116825906905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

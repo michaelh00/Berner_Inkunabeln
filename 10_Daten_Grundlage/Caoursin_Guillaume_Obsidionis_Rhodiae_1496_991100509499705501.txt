@@ -1,0 +1,157 @@
+﻿<-1-1-START->
+Caoursin, Guillaume
+<-1-1-STOP->
+
+<-1-2-START->
+Obsidionis Rhodiae urbis descriptio; De terrae motus labore, quo Rhodii affecti sunt; Oratio in senatu Rhodiorum, de morte Turci, habita pridie Kalendas junias M.CCCC.LXXXI.; De casu regis Zyzymy commentarium; De foedere cum Turcorum rege Bagyazit per Rhodios inito commentarium; De admissione regis Zyzymi in Gallias exhortatio; De translatione sacrae dextrae sancti Johannis Baptistae praecursoris ex Constantinopoli ad Rhodios commentarium; Oratio ad Innocentium VIII. papam; De traductione Zyzymi suldani fratris magni Turci ad Urbem commentarium
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Enthält 9 Werke zu Ereignissen in Bezug auf Rhodos, 1480 bis 1485<-500-STOP->
+
+<-2-1-STOP->
+
+<-3-1-START->
+Ulm: Johann Reger, 24.10.1496
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 117 ungezählte Seiten: 36 Illustrationen, Holzschnittinitialen; 30 cm (2°)
+<-500-START->Druckvariante: Hier ohne die in einigen Exemplaren vorhandene Druckermarke auf Blatt h₄ recto<-500-STOP->
+<-500-START->Die Illustrationen sind ganzseitige Holzschnitte<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_C-85.html<-L-5-STOP-><-VI-5-START->BSB-Ink C-85<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW06003.htm<-L-5-STOP-><-VI-5-START->GW 06003<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ic00113000<-L-5-STOP-><-VI-5-START->ISTC ic00113000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+60 von 60 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (grün, Velours), Spuren vormaliger Verschlussbänder (Leder)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Nicolas Daniel Amet; François Talloin; Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116842533905511<-L-11-STOP-><-VI-11-START->MUE Bong V 933<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991100509499705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Caoursin, Guillaume<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Ulm<-O-STOP->
+<-P-START->Reger, Johann<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Amet, Nicolas Daniel<-P-STOP->
+<-P-START->Talloin, François<-P-STOP->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991100509499705501<-DOI-STOP->
+<-SIGN-START->MUE Bong V 933<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06966nam a2200733 c 4500
+001 991100509499705501
+005 20211215185403.0
+008 100505s1496    gw            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/05.05.2010    
+035      |a (swissbib)061487082-41slsp_network    
+035      |a 061487082    |9 ExL    
+035      |a (IDSBB)005225664DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991100509499705501    
+035      |a (41SLSP_UBE)99116842533905511    |9 (41SLSP_UBE)99116842533905511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Caoursin, Guillaume    |d 1430-1501    |0 (DE-588)100068944    |e Verfasser    |4 aut    
+240 1 0  |a Obsidionis Rhodiae urbis descriptio    
+245 1 0  |a Guillelmi Caonrsin Rhodiorum Uicecancellarij: obsidionis Rhodie Urbis descriptio    
+246 1    |i Titel gemäss GW und ISTC    |a Rhodiorum historia    
+246 1    |i Titel gemäss BSB-Ink    |a Historiae    
+246 1    |i Titel in normalisierter Form    |a Guillelmi Caoursin Rhodiorum Vicecancellarii: obsidionis Rhodie Urbis descriptio    
+246 1    |a Obsidionis Rhodie urbis descriptio    
+264   1  |a Impressum vlme    |b p[er] ioanne[m] Reger    |c Anno d[omi]ni [et]c[etera] Mccccxcvj. Die. xxiiij. Octob[ris] [24.10.1496]    
+300      |a 1 ungezähltes Blatt, 117 ungezählte Seiten    |b 36 Illustrationen    |c 30 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, nur Kopftitel    
+500      |a Haupttitel ist Kopftitel des ersten Werks    
+500      |a Enthält 9 Werke zu Ereignissen in Bezug auf Rhodos, 1480 bis 1485    
+500      |a Ohne die in einer Druckvariante vorhandene Druckermarke auf Blatt h₄ recto    
+500      |a Die Illustrationen sind ganzseitige Holzschnitte    
+500      |a Die Initialien jeweils zu Beginn eines Werks sind gedruckte Holzschnittinitialen    
+500      |a Signaturformel: a-f⁸, g-h⁶    
+505 0 0  |g Blatt b₇ recto    |t Guillelmi Caonrsin Rhodiorum Uicecancellarij de Terremotus labe qua Rhodij affecti sunt    |g Blatt c₂ recto    |t Guillelmi Caornsin Uicecancellarij oratio in Senatu Rhodiorum de morte magni Thurci habita pridie Kalendas Iunias. M.cccc.lxxxj.    |g Blatt c₅ recto    |t Cuillelmi Caornsin: Galli. Belge. Duacij: Rhodiorum vicecancellarij: de casu Regis Zyzymy: Commentarium incipit    |g Blatt e₅ recto    |t Guillelmi Caonrsin Rhodioru[m] Uicecancellarij de celeberrimo foedere: cu[m] thurco[rum] Rege Bagyazit per Rhodios inito: Commentariu[m] lege feliciter    |g Blatt f₄ recto    |t Guillelmi Caonrsin Rhodioru[m] vicecancellarij de admissione regis Zyzymy in Gallias [et] diligenti custodia asseruatione: exhortatio    |g Blatt f₈ recto    |t Guillelmi caonrsin Galli Belge Duacij Rhodioru[m] viceca[n]cellarij de tra[n]slatione sacre dextre sancti ioa[n]nis baptiste chr[ist]i p[re]cursoris: ex co[n]sta[n]tinopoli ad rhodios: co[m]me[n]tariu[m] lege feliciter    |g Blatt h₃ recto    |t Guillelmi caonrsin Rhodiorum Uicecancellarij Oratoris: p[re]cellentissimi Magistri Rhodi: ad summu[m] pontifice[m] Innocenciu[m] papam octauu[m] oratio    |g Blatt h₅ recto    |t Guillelmi Caonrsin Rhodiorum viceca[n]cellarij: de traductione Zyzymy Suldani fratris magni Thurci ad vrbem. Commentarium    
+510 4    |a BSB-Ink    |c C-85    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_C-85.html    
+510 4    |a GW    |c 06003    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW06003.htm    
+510 4    |a ISTC    |c ic00113000    |u http://data.cerl.org/istc/ic00113000    
+530      |a Digitalisat (Exemplar der Herzog August Bibliothek Wolfenbüttel)    |u http://diglib.hab.de/inkunabeln/236-4-hist-2f/start.htm    
+561      |a Sammlung Bongars; handschriftliche Besitzvermerke auf Blatt a₁ recto: "Ego sum ex bybliotheca nicolai danielis Amet"; "NDamet"; auf Blatt h₆ verso: "rancoys Talloin[?]", "francoys"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (grün, Velours), Spuren vormaliger Verschlussbänder (Leder)    
+563      |a Vorsätze: Vorne und hinten ohne fliegende Blätter, jedoch hochgelöste Spiegel: Fragmente (Blätter n₄ und n₇) aus: Jacques Milet: Histoire de la destruction de Troie la grant. - Paris: Jean Bonhomme, 1484. - GW M23428    
+563      |a Masse Einband: 29.5 x 21.2 x 2.5 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, Lederüberklebungen an beiden Deckeln, Verschlussbänder fehlend, beide Spiegel hochgelöst, hinterer Spiegel zur Hälfte abgetrennt    
+590      |a Buchblockbeschreibung: 60 von 60 Blättern, Papierfalz zwischen den Blättern a₈ und b₁ sowie zwischen g₆ und h₁ gehört zur Vorsatzkonstruktion, Blinddruckmarken an nicht vollständig bedruckten Blättern in Form von Letternzeilen (z. B. Blätter b₄ und b₆) oder Linienblöcken (Blätter b₈ und g₅)    
+590      |a Zustand Buchblock: Zahlreiche Verfleckungen, Buchblock stark verwellt, gesamter Buchblock mit beiden Deckeln punktförmig von vorne nach hinten durchstossen (teilweise zwei Löcher sichtbar)    
+590      |a Vereinzelte handschriftliche Annotationen und Anstreichungen in Tinte; auf den Blättern a₁ recto und h₆ verso diverse handschriftliche Vermerke und Zeichnungen in Tinte    
+590      |a Historische Signatur: "Hist: Prof: - 75", Zahl korrigiert zu "94."    
+590      |a Frühere Signaturen: Inc 69 a; Inc 70; Inc III 47; X 14    
+590      |a Unvollständige Dublette: Thun alt fol 121    
+700 1 2  |a Caoursin, Guillaume    |d 1430-1501    |t Obsidionis Rhodiae urbis descriptio    |0 (DE-588)1046800922    
+700 1 2  |a Caoursin, Guillaume    |d 1430-1501    |t De terrae motus labore, quo Rhodii affecti sunt    |0 (DE-588)1143152409    
+700 1 2  |a Caoursin, Guillaume    |d 1430-1501    |t Oratio in senatu Rhodiorum, de morte Turci, habita pridie Kalendas junias M.CCCC.LXXXI.    |0 (DE-588)1143153421    
+700 1 2  |a Caoursin, Guillaume    |d 1430-1501    |t De casu regis Zyzymy commentarium    |0 (DE-588)1143153839    
+700 1 2  |a Caoursin, Guillaume    |d 1430-1501    |t De foedere cum Turcorum rege Bagyazit per Rhodios inito commentarium    |0 (DE-588)1143154142    
+700 1 2  |a Caoursin, Guillaume    |d 1430-1501    |t De admissione regis Zyzymi in Gallias exhortatio    |0 (DE-588)1143156358    
+700 1 2  |a Caoursin, Guillaume    |d 1430-1501    |t De translatione sacrae dextrae sancti Johannis Baptistae praecursoris ex Constantinopoli ad Rhodios commentarium    |0 (DE-588)1143154916    
+700 1 2  |a Caoursin, Guillaume    |d 1430-1501    |t Oratio ad Innocentium VIII. papam    |0 (DE-588)1143155408    
+700 1 2  |a Caoursin, Guillaume    |d 1430-1501    |t De traductione Zyzymi suldani fratris magni Turci ad Urbem commentarium    |0 (DE-588)1143156064    
+700 1    |a Reger, Johann    |d -1499    |0 (DE-588)129059072    |e Drucker    |4 prt    
+700 1    |a Amet, Nicolas Daniel    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Talloin, François    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+751      |a Ulm    |0 (DE-588)4061529-7    
+852 4    |b B404    |c 404U3    |j MUE Bong V 933    |9 (41SLSP_UBE)99116842533905511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc III 47    |c 404U3    |p 12    |j MUE Bong V 933    |b B404    |9 (41SLSP_UBE)99116842533905511    
+986      |a (41SLSP_UBE)99116842533905511    |9 (41SLSP_UBE)99116842533905511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116842533905511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116842533905511    
+991      |a Bongars: 02370    |5 IZ UBE/B400/05.05.2010    |9 LOCAL    |9 (41SLSP_UBE)99116842533905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

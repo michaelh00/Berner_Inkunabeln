@@ -1,0 +1,141 @@
+﻿<-1-1-START->
+Rolevinck, Werner
+<-1-1-STOP->
+
+<-1-2-START->
+Fasciculus temporum
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Vorwort des Verfassers<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Memmingen: Albert Kunne, 1482
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 141 ungezählte Seiten: 11 Illustrationen; 28 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_R-244.html<-L-5-STOP-><-VI-5-START->BSB-Ink R-244<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M38704.htm<-L-5-STOP-><-VI-5-START->GW M38704<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ir00268000<-L-5-STOP-><-VI-5-START->ISTC ir00268000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+72 von 72 Blättern, Illustrationen teilweise rot und blau koloriert, rot und blau ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen und Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien-, Ornamentstempel- und Ornamentrollen-Blindprägung auf beiden Deckeln; Buchbinder: Hans Leman
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Kloster Thorberg
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 2 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116800279605511<-L-11-STOP-><-VI-11-START->MUE Inc I 82 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991137455019705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Rolevinck, Werner<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Memmingen<-O-STOP->
+<-P-START->Kunne, Albert<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-P-START->Leman, Hans<-P-STOP->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Kloster Thorberg<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991137455019705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 82 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05626nam a2200601 c 4500
+001 991137455019705501
+005 20211215201650.0
+008 171026s1482    gw |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/26.10.2017/B404/faf    
+035      |a (swissbib)074888854-41slsp_network    
+035      |a 074888854    |9 ExL    
+035      |a (IDSBB)006742767DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991137455019705501    
+035      |a (41SLSP_UBE)99116800279605511    |9 (41SLSP_UBE)99116800279605511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Rolevinck, Werner    |d 1425-1502    |0 (DE-588)118749536    |e Verfasser    |4 aut    
+240 1 0  |a Fasciculus temporum    
+245 1 0  |a Opusculum vtiq[ue] omni statui. atq[ue] hominum gradui ad vitam exemplandam p[er]utile. [con]tinens succincte p[ro]gressum patru[m] ab initio mundi vsq[ue] ad hoc nostrum temp[us]. cum actis notabilioribus eorundem. Quod deuotus quida[m] Carthusien[sis]. eius autor primus: Fasciculu[m] tempo[rum] nuncupauit    
+246 1    |i Incipit (Haupttext)    |a Fasciculus te[m]porum omnes antiquorum cronicas complectens admissus ab alma vniuersitate Colon[iensi]: incipit feliciter    
+246 1    |i Incipit (Haupttext) in normalisierter Form    |a Fasciculus temporum omnes antiquorum cronicas complectens admissus ab alma universitate Coloniensi incipit feliciter    
+246 1    |i Incipit (Prolog)    |a Generatio et g[e]n[er]atio laudabit op[er]a tua et pote[n]tia[m] tua[m] p[ro]nu[n]ciabu[n]t ...    
+246 1    |i Incipit (Prolog) in normalisierter Form    |a Generatio et generatio laudabit opera tua et potentiam tuam pronunciabunt ...    
+246 1    |i Titel in normalisierter Form    |a Opusculum utique omni statui atque hominum gradui ad vitam exemplandam perutile, continens succincte progressum patrum ab initio mundi usque ad hoc nostrum tempus cum actis notabilioribus eorundem, quod devotus quidam Carthusiensis eius autor primus fasciculum temporum nuncupavit    
+264   1  |a Impressus Memmingen    |b Impressum p[er] me Albertu[m] ku[n]ne de Duderstat Magunt[inensis] dyoce[sis] Et admissum ab alma vniu[er]sitate Colonien[si] Explicit feliciter    |c Sub a[n]no d[omi]ni Millesimoquadringentesimooctuagesimosecundo [1482]    
+300      |a 1 ungezähltes Blatt, 141 ungezählte Seiten    |b 11 Illustrationen    |c 28 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Vorwort des Verfassers und Register    
+500      |a Keine Titelseite, Titel gemäss Kolophon am Ende des Haupttextes    
+500      |a Druckort gemäss Kolophon am Ende des Registers, Drucker und Druckjahr gemäss Kolophon am Ende des Haupttextes    
+500      |a Signaturformel: a⁸, b⁶, c⁸, d–f⁶, g¹⁰, h–i⁸, k⁶    
+500      |a Blatt a₁ ist unbedruckt    
+510 4    |a BSB-Ink    |c R-244    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_R-244.html    
+510 4    |a GW    |c M38704    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M38704.htm    
+510 4    |a ISTC    |c ir00268000    |u http://data.cerl.org/istc/ir00268000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0003/bsb00031332/images    
+561      |a Handschriftlicher Besitzvermerk auf vorderem Spiegel: "Pertinet Carthusiensibus Jn Torrberg."    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen und Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien-, Ornamentstempel- und Ornamentrollen-Blindprägung auf beiden Deckeln, handschriftlich in Tinte auf Vorderdeckel: "Fasciculus temporum. Tabula Calderini.", daneben von anderer Hand: "et De horis canonicis.", auf Rücken über verblassenden handschriftlichen Titeln rote Thorberg-Signatur: "C XVII"    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 27.9 x 20.8 x 5.7 cm    
+563      |a Zustand Einband: Loch von vormaliger Ankettung und massiver Korrosionsschaden mit Ausbrüchen am Rückdeckel, Lederüberklebungen an den Häubchen, unterer Schliessenriemen ergänzt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 72 von 72 Blättern, handschriftliche Foliierung in Rot (Blätter a₂-k₁, 1-66) und Graphit (1-72), Lagen aussen mit Papierfälzen verstärkt vereinzelt nur auf Fitzbundstationen begrenzt (an äusserem Doppelblatt der Lage k innen zur Stabilisierung der Fehlstelle an Blatt k₆ angebracht), Pergamentverstärkung (Makulaturpergament) aussen an den Heftstationen der Lage a, Illustrationen teilweise rot und blau koloriert, rot und blau ausgezeichnete Initialen, Rubrizierung    
+590      |a Zustand Buchblock: Farbverwischungen am roten Farbmittel, Brüche entlang der verstärkenden Papierfälze (Blätter k₁ und k₆)    
+590      |a Wenige handschriftliche Annotationen in Tinte, auf Blatt a₁ recto in Rot mit grosser Zierinitiale: "Cum autem esset Steffan[us]"    
+590      |a Zusammengebunden mit 2 weiteren Drucken in Sammelband    
+590      |a Historische Signatur auf vorderem Spiegel: "Hist: Prof 386:"; auf vorderem fliegendem Vorsatzblatt recto: "Inc: 75"    
+590      |a Frühere Signatur: Inc 97    
+700 1    |a Kunne, Albert    |0 (DE-588)119107228    |e Drucker    |4 prt    
+700 1 2  |a Rolevinck, Werner    |d 1425-1502    |t Fasciculus temporum    |0 (DE-588)7539276-8    
+710 2    |a Kloster Thorberg    |0 (DE-588)7725716-9    |e Früherer Eigentümer    |4 fmo    
+751      |a Memmingen    |0 (DE-588)4038586-3    
+852 4    |b B404    |c 404U3    |j MUE Inc I 82 : 1    |9 (41SLSP_UBE)99116800279605511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 2 weiteren Drucken in Sammelband    |p 12    |j MUE Inc I 82 : 1    |b B404    |9 (41SLSP_UBE)99116800279605511    
+986      |a (41SLSP_UBE)99116800279605511    |9 (41SLSP_UBE)99116800279605511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116800279605511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

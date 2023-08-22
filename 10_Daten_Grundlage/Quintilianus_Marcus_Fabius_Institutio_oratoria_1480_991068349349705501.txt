@@ -1,0 +1,152 @@
+﻿<-1-1-START->
+Quintilianus, Marcus Fabius
+<-1-1-STOP->
+
+<-1-2-START->
+Institutio oratoria
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit einem Widmungsbrief des Herausgebers Omnibonus Leonicenus an Moyses de Bufarelis, Bischof von Belluno, und einem Widmungsbrief von Quintilianus an den Buchhändler Trypho<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Venedig oder Treviso: Drucker von Valla, Elegantiae (H 15809) (Giovanni Rosso?), um 1480]
+<-500-START->Gemäss BMC ist der Drucker von Valla, Elegantiae (H 15809) identisch oder steht in enger Verbindung mit Giovanni Rosso<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+3 ungezählte Seiten, 397 ungezählte Seiten, 1 ungezähltes Blatt; 31 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_Q-14.html<-L-5-STOP-><-VI-5-START->BSB-Ink Q-14<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M36815.htm<-L-5-STOP-><-VI-5-START->GW M36815<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/iq00028000<-L-5-STOP-><-VI-5-START->ISTC iq00028000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+202 von 202 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jahrhundert) 
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Pierre Daniel; Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116838265305511<-L-11-STOP-><-VI-11-START->MUE Bong IV 865<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991068349349705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Quintilianus, Marcus Fabius<-P-STOP->
+<-P-START->Omnibonus Leonicenus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Drucker von Valla, Elegantiae (H 15809)<-P-STOP->
+<-O-START->Treviso<-O-STOP->
+<-P-START->Rosso, Giovanni<-P-STOP->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Rosso, Giovanni<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-P-START->Daniel, Pierre<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991068349349705501<-DOI-STOP->
+<-SIGN-START->MUE Bong IV 865<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05140nam a2200649 c 4500
+001 991068349349705501
+005 20221214110005.0
+008 100722s1480    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/09.05.2019/B404/faf    
+035      |a (swissbib)061721875-41slsp_network    
+035      |a 061721875    |9 ExL    
+035      |a (IDSBB)005282018DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991068349349705501    
+035      |a (41SLSP_UBE)99116838265305511    |9 (41SLSP_UBE)99116838265305511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Quintilianus, Marcus Fabius    |d 35-100    |0 (DE-588)118597396    |e Verfasser    |4 aut    
+240 1 0  |a Institutio oratoria    
+245 1 0  |a M. Fabii Qvintiliani Oratoriarvm Institvtionvm Libri Dvodecimi Et Vltimi Finis    
+246 1 0  |a Oratoriarvm Institvtionvm Libri Dvodecimi Et Vltimi Finis    
+246 1    |i Titel in normalisierter Form    |a M. Fabii Quintiliani oratoriarum institutionum libri duodecimi et ultimi finis    
+246 1    |i Incipit (Tabula)    |a Tabvla Quintiliani    
+246 1    |i Incipit (Tabula) in normalisierter Form    |a Tabula Quintiliani    
+246 1    |i Incipit (Haupttext)    |a .M. Celivs Fabivs Qvintilianvs Triphoni Bibliopolle Salvtem    
+246 1    |i Incipit (Haupttext) in normalisierter Form    |a M. Celius Fabius Quintilianus Triphoni bibliopolle salutem    
+246 1    |i Titel gemäss GW und ISTC    |a Institutiones oratoriae    
+264   1  |a [Venedig oder Treviso]    |b [Drucker von Valla, Elegantiae (H 15809) (Giovanni Rosso?)]    |c [um 1480]    
+300      |a 3 ungezählte Seiten, 397 ungezählte Seiten, 1 ungezähltes Blatt    |c 31 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit einem Widmungsbrief des Herausgebers Omnibonus Leonicenus an Moyses de Bufarelis, Bischof von Belluno, und einem Widmungsbrief von Quintilianus an den Buchhändler Trypho    
+500      |a Keine Titelseite, Titel gemäss Explicit    
+500      |a Impressum gemäss ISTC; gemäss BMC ist der Drucker von Valla, Elegantiae (H 15809) identisch oder steht in enger Verbindung mit Giovanni Rosso    
+500      |a Signaturformel: []², a-b⁸, c⁶d⁸-r⁶s⁸, t-z⁸, &⁸, A⁶, B⁸, C⁶, D⁴    
+500      |a Die Blätter []₁ recto, a₁ recto und D₄ sind unbedruckt    
+510 4    |a BSB-Ink    |c Q-14    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_Q-14.html    
+510 4    |a GW    |c M36815    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M36815.htm    
+510 4    |a ISTC    |c iq00028000    |u http://data.cerl.org/istc/iq00028000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/0006/bsb00060431/images    
+561      |a Handschriftlicher Besitzvermerk auf Blatt []₁ recto: "Bongars"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jh.), Titelschild in Goldprägung auf dem Rücken: "Quintiliani: Tabula", darunter handschriftlich in Tinte: "circa 1476"    
+563      |a Vorsätze: Vorne und hinten mit zwei fliegenden Blättern    
+563      |a Masse Einband: 30.6 x 21.5 x 4.2 cm    
+563      |a Zustand Einband: Abspaltungen am Einbandleder, Lederüberklebungen am Rücken und den Deckeln    
+590      |a Buchblockbeschreibung: 202 von 202 Blättern, handschriftliche Blattzählung in Tinte auf Blatt a₂ bis D₃ (1-198, mit Fehlern), Blätter nach D₄ als Einzelblätter um Lage D gelegt und mitgeheftet (siehe Papierfälze zwischen den Lagen C und D), vorgesehene Stellen für Initialen frei gelassen, Kapitel eines Buchs jeweils handschriftlich in Tinte durchnummeriert    
+590      |a Zustand Buchblock: Papierüberklebungen an Fehlstellen von Blatt []₁, Blatt D₄ stark verbräunt mit Knicken, Rissen und Fehlstellen sowie Spuren eines vormaligen Schimmelschadens    
+590      |a Zahlreiche handschriftliche Annotationen in Tinte, unter anderem von Pierre Daniel und Jacques Bongars; vor Blatt f₈ Zettel mit zusätzlichen Annotationen eingebunden    
+590      |a Historische Signatur auf vorderem Spiegel: "Lit. 244.", überschrieben mit "Lit. 268."; auf Blatt []₁ recto: "Lit. A. 204.", Zahl korrigiert zu "104"; auf Blatt []₁ verso: "Bong. A. III. T. IX. n. 36."    
+590      |a Frühere Signaturen: Inc 24; Inc 35; Inc II 71; IX 36    
+700 0    |a Omnibonus    |c Leonicenus    |d 1412-1474    |0 (DE-588)11883827X    |e Herausgeber    |e Verfasser von ergänzendem Text    |4 edt    |4 wst    
+700 1    |a Drucker von Valla, Elegantiae (H 15809)    |d ca. 15. Jh.    |0 (DE-588)1141237318    |e Drucker    |4 prt    
+700 1    |a Rosso, Giovanni    |0 (DE-588)1037570634    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |e Annotierende Person    |4 fmo    |4 ann    
+700 1    |a Daniel, Pierre    |d 1530-1603    |0 (DE-588)101087934    |e Früherer Eigentümer    |e Annotierende Person    |4 fmo    |4 ann    
+700 1 2  |a Quintilianus, Marcus Fabius    |d 35-100    |t Institutio oratoria    |0 (DE-588)4202573-4    
+751      |a Venedig    |0 (DE-588)4062501-1    
+751      |a Treviso    |0 (DE-588)4119702-1    
+852 4    |b B404    |c 404U3    |j MUE Bong IV 865    |9 (41SLSP_UBE)99116838265305511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc II 71    |c 404U3    |p 12    |j MUE Bong IV 865    |b B404    |9 (41SLSP_UBE)99116838265305511    
+986      |a (41SLSP_UBE)99116838265305511    |9 (41SLSP_UBE)99116838265305511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116838265305511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116838265305511    
+991      |a Bongars: 11732    |5 IZ UBE/B400/22.07.2010    |9 local    |9 (41SLSP_UBE)99116838265305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

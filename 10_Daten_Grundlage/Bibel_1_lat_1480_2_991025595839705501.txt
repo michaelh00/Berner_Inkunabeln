@@ -1,0 +1,149 @@
+﻿<-1-1-START->
+Bibel [lateinisch]
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Biblia Vulgata mit der Übersetzung des Hieronymus, sowie seinen Prologen und Briefen an Paulinus von Nola und Papst Damasus I.<-500-STOP->
+<-500-START->Mit Anmerkungen von Menardus Eisnacensis: Generalis et compendiosa librorum bibliae notitia<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Nürnberg: Anton Koberger, 14.04.1480
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, cccclxi Blätter, 12 ungezählte Seiten; 43 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_B-439.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-439<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/GW04243.htm<-L-5-STOP-><-VI-5-START->GW 04243<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib00568000<-L-5-STOP-><-VI-5-START->ISTC ib00568000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+468 von 468 Blättern, rot und blau ausgezeichnete Initialen, die Anfangsinitialen einzelner Bücher rot, blau und grün ausgezeichnet und geschmückt, grosse Schmuckinitiale auf Blatt I mehrfarbig und mit Blattgold koloriert und mit Schmuckranken versehen; Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen, Linien- und Ornamentrollen- sowie Ornamentstempel- und Platten-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Alphons Bandelier; N. Zimmermann; Bartholomäus Keckermann
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116814583805511<-L-11-STOP-><-VI-11-START->MUE Inc II 3<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991025595839705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Menardus Eisnacensis<-P-STOP->
+<-P-START->Hieronymus, Sophronius Eusebius<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Nürnberg<-O-STOP->
+<-P-START->Koberger, Anton<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bandelier, Alphons<-P-STOP->
+<-P-START->Zimmermann, N.<-P-STOP->
+<-P-START->Keckermann, Bartholomäus<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991025595839705501<-DOI-STOP->
+<-SIGN-START->MUE Inc II 3<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06362nam a2200673 c 4500
+001 991025595839705501
+005 20211215174427.0
+008 191004s1480    gw |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/04.10.2019/B404/vha    
+035      |a (swissbib)075277778-41slsp_network    
+035      |a 075277778    |9 ExL    
+035      |a (IDSBB)007122833DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991025595839705501    
+035      |a (41SLSP_UBE)99116814583805511    |9 (41SLSP_UBE)99116814583805511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a lat    |h grc    |h heb    
+130 0    |a Bibel    |0 (DE-588)4006406-2    
+245 1 0  |a Q[uod] insigne veteris nouiq[ue] testamenti opus    |b cum canonib[us] euangelistarumq[ue] concordantijs    
+246 1    |i Titel in normalisierter Form    |a Quod insigne veteris novique testamenti opus    |b cum canonibus evangelistarumque concordantiis    
+246 1 0  |a Veteris novique testamenti opus    |b cum canonibus evangelistarumque concordantiis    
+246 1    |i Titel gemäss BSB-Ink und GW    |a Biblia    
+246 1    |i Titel gemäss ISTC    |a Biblia latina    
+264   1  |a In temerate virginisq[ue] Marie impressum. In oppido Nurnberg[e]n[si]    |b per Antoniu[m] Coburger p[rae]fati oppidi incolam industria ...    |c Anno incarnationis d[omi]nice. Millesimoquadringentesimooctuagesimo. Mai vero k[a]l[endas] octauodecimo [14.04.1480]    
+300      |a 1 ungezähltes Blatt, cccclxi Blätter, 12 ungezählte Seiten    |c 43 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Ausgabe der Vulgata, mit Brief an Paulinus und Vorreden zu den einzelnen Büchern von Hieronymus    
+500      |a Mit Inhaltsverzeichnis (Blatt [a₁] verso), einem Text von Menardus Eisnacensis (Blatt [cc₁] recto) und kanonischen Tafeln (Blatt [cc₄] verso)    
+500      |a Titel gemäss Kolophon (Blatt [bb₁₀] verso)    
+500      |a Impressum gemäss Kolophon; vollständig und in der Reihenfolge der Vorlage: "Anno incarnationis d[omi]nice. Millesimoquadringentesimooctuagesimo. Mai vero k[a]l[endas] octauodecimo. Q[uod] insigne veteris nouiq[ue] testamenti opuscum canonib[us] euangelistarumq[ue] concordantijs. In laudem [et] gloriam sancte ac indiuidue trinitatis. In temerate virginisq[ue] Marie impressum. In oppido Nurnberg[e]n[si]. per Antoniu[m] Coburger p[rae]fati oppidi incolam industria cuius q[uam] dilige[n]tissime fabrefactum. finit feliciter;"    
+500      |a Signaturformel: [a¹², b–y¹⁰, z⁶, A⁶, B–N¹⁰, O-P⁶, Q–S¹⁰, T-V⁸, X–Z¹⁰, aa-bb¹⁰, cc⁶]    
+500      |a Blatt [a₁] recto unbedruckt    
+505 0 0  |g Blatt [cc₁] recto    |t [V]enerabili viro domino Jacobo de ÿsenaco. Menard[us] solo nomine monachus ... Rogatus nuper a vobis in loco solitudinis mee quatenus aliqua[m] generale[m] [et] compendiosa[m] libroru[m] biblie conscribere[m] noticia[m] ...    
+510 4    |a BSB-Ink    |c B-439    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_B-439.html    
+510 4    |a GW    |c 04243    |u https://www.gesamtkatalogderwiegendrucke.de/docs/GW04243.htm    
+510 4    |a ISTC    |c ib00568000    |u http://data.cerl.org/istc/ib00568000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00041404/image_4    
+561      |a Handschriftlicher Besitzvermerk auf vorderem Spiegel: "Fiat liber N. Zimmermanni Dankscani[?], quonda[m] Canoni Frawenburgensis" (möglicherweise aus Danzig?)    
+561      |a Handschriftlicher Besitzvermerk auf Blatt [a₁] recto: "B. Keckermanni" (mutmasslich der Danziger Theologe Bartholomäus Keckermann)    
+561      |a Exlibris auf vorderem Spiegel: "Bibliotheca Bernensis", darunter: "Geschenk von", darunter handschriftlich: "Herrn Stadtschreiber Bandelier"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen, Linien- und Ornamentrollen- sowie Ornamentstempel- und Platten-Blindprägung auf beiden Deckeln    
+563      |a Vorsätze: vorne mit zwei fliegenden Blättern, hinten mit einem    
+563      |a Masse Einband: 43.0 x 31.2 x 12.0 cm    
+563      |a Zustand Einband: Lederüberklebungen an den unteren Ecken und dem unteren Häubchen, Klebspuren und Nagelfixierungen an den oberen Kanteneinschlägen, beide Hakenteile ergänzt, Papierübeklebungen am hinteren Spiegel, Japanpapierüberklebungen an den fliegenden Blättern des vorderen Vorsatzes    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 468 von 468 Blättern, handschriftliche Lagensignatur (gemäss GW) in Graphit, jeweils auf der ersten Recto-Seite jeder Lage; rot und blau ausgezeichnete Initialen, die Anfangsinitialen einzelner Bücher rot, blau und grün ausgezeichnet und geschmückt, grosse Schmuckinitiale auf Blatt I ([a₂]) mehrfarbig und mit Blattgold koloriert und mit Schmuckranken versehen (am Fuss der Seite innerhalb der Ranken mit Brustbildern zweier Männer); Rubrizierung    
+590      |a Zustand Buchblock: Japanpapierüberklebung am unbedruckten Blatt [a₁], Abplatzungen und Craqueleé in den Vergoldungen sowie Abrieb und Fehlstellen am Farbmittelauftrag an Blatt I ([a₂]) recto    
+590      |a Eintrag auf vorderem fliegenden Blatt: "constat 3 1/2 fl."    
+700 0    |a Menardus    |c Eisnacensis    |0 (DE-588)102518688    |e Verfasser von ergänzendem Text    |4 wst    
+700 0 2  |a Menardus    |c Eisnacensis    |t Generalis et compendiosa librorum bibliae notitia    |0 (DE-588)1196384738    
+700 1    |a Hieronymus, Sophronius Eusebius    |d 345-420    |0 (DE-588)118550853    |e Übersetzer    |e Verfasser von ergänzendem Text    |4 trl    |4 wst    
+700 0    |a Jakob    |c von Eisenach    |d ca. 15. Jh.    |0 (DE-588)129032735    |e Widmungsempfänger    |4 dte    
+700 1    |a Koberger, Anton    |d 1440-1513    |0 (DE-588)118563890    |e Drucker    |4 prt    
+700 1    |a Bandelier, Alphons    |d 1843-1918    |0 (DE-588)1196378851    |e Früherer Eigentümer    |e Stifter    |4 fmo    |4 dnr    
+700 1    |a Zimmermann, N.    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Keckermann, Bartholomäus    |d 1572-1609    |0 (DE-588)119215918    |e Früherer Eigentümer    |4 fmo    
+730 0    |a Bibel    |g Vulgata    |0 (DE-588)4188770-0    
+751      |a Nürnberg    |0 (DE-588)4042742-0    
+852 4    |b B404    |c 404U3    |j MUE Inc II 3    |9 (41SLSP_UBE)99116814583805511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc II 3    |b B404    |9 (41SLSP_UBE)99116814583805511    
+986      |a (41SLSP_UBE)99116814583805511    |9 (41SLSP_UBE)99116814583805511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116814583805511    
+991      |a AAK: 88099    |5 IZ UBE/04.10.2019/B404/vha    |9 local    |9 (41SLSP_UBE)99116814583805511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

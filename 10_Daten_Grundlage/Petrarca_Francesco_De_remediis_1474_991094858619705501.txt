@@ -1,0 +1,151 @@
+﻿<-1-1-START->
+Petrarca, Francesco
+<-1-1-STOP->
+
+<-1-2-START->
+De remediis utriusque fortunae
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Straßburg: Heinrich Eggestein?, nicht nach 1474]
+<-500-START->Als möglicher Drucker wurde auch Conrad Fyner, Esslingen, vermutet<-500-STOP->
+<-500-START->Druckjahr gemäss GW, aufgrund von datierten Rubrikatorenvermerken; BSB-Ink und ISTC: um 1473-1475<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+374 ungezählte Seiten, 2 ungezählte Blätter; 29 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_P-262.html<-L-5-STOP-><-VI-5-START->BSB-Ink P-262<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M31620.htm<-L-5-STOP-><-VI-5-START->GW M31620<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ip00407000<-L-5-STOP-><-VI-5-START->ISTC ip00407000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+188 von 189 Blättern (BSB-Ink gibt fälschlich 191, GW 194 statt 189 Blätter an, weil aus Lagen entfernte, unbedruckte Blätter mitgezählt wurden), rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (rot, Ziege) mit Schliessen, Spuren einer vormaligen Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung an beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Kloster Thorberg
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Unbedrucktes, letztes Blatt [*]₄ weggeschnitten 
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116852269705511<-L-11-STOP-><-VI-11-START->MUE Inc II 69<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991094858619705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Petrarca, Francesco<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Eggestein, Heinrich<-P-STOP->
+<-O-START->Esslingen am Neckar<-O-STOP->
+<-P-START->Fyner, Konrad<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Kloster Thorberg<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991094858619705501<-DOI-STOP->
+<-SIGN-START->MUE Inc II 69<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 07646nam a2200673 c 4500
+001 991094858619705501
+005 20211215182939.0
+008 200715q14741475fr |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/15.07.2020/B404/vha    
+035      |a (swissbib)074299581-41slsp_network    
+035      |a 074299581    |9 ExL    
+035      |a (IDSBB)007205196DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991094858619705501    
+035      |a (41SLSP_UBE)99116852269705511    |9 (41SLSP_UBE)99116852269705511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Petrarca, Francesco    |d 1304-1374    |0 (DE-588)118593234    |e Verfasser    |4 aut    
+240 1 0  |a De remediis utriusque fortunae    
+245 1 0  |a Explicit liber iste d[e] remedys vtriusq[ue] fortune d[omi]ni francisci petrarche laureati poete [et]c    
+246 1    |i Titel in normalisierter Form    |a Explicit liber iste de remedys utriusque fortune domini Francisci Petrarche laureati poete etc    
+246 1    |i Titel in moderner Orthografie    |a Explicit liber iste de remediis utriusque fortunae domini Francisci Petrarchae laureati poetae etc    
+246 1    |i Incipit    |a [C]Vm res fortunasq[ue] hominu[m] cogito/ incertos [et] subitos reru[m] mot[us] ...    
+246 1    |i Incipit in normalisierter Form    |a Cum res fortunasque hominum cogito, incertos et subitos rerum motus ...    
+264   1  |a [Straßburg]    |b [Heinrich Eggestein?]    |c [nicht nach 1474]    
+300      |a 374 ungezählte Seiten, 2 ungezählte Blätter    |c 29 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Titel gemäss Kolophon (am Ende des Registers, Blatt [*]₄ verso)    
+500      |a Druckort und Drucker gemäss BSB-Ink, GW und ISTC, Druckjahr gemäss GW, aufgrund von datierten Rubrikatorenvermerken (BSB-Ink und ISTC: um 1473-1475)    
+500      |a Als möglicher Drucker wurde auch Conrad Fyner, Esslingen, vermutet    
+500      |a Signaturformel: [a–e¹⁰, f¹⁶–², g¹⁰, h¹⁴–², i–m¹⁰, n¹²-¹, o–q¹⁰, r⁸, s¹⁰, *⁴]    
+500      |a Blatt [s]₁₀ verso unbedruckt, Blätter [*]₃ und [*]₄ unbedruckt    
+500      |a BSB-Ink mit abweichender Blattzahl bei Lagen mit weggeschnittenen Blättern: [... f¹⁴-² ... h¹⁴-¹ ... n¹² ...]; fälschlich gibt BSB-Ink 191 statt 189 Blätter an    
+500      |a Das 2. und 3. Blatt in Lage [f], das 1. und 6. Blatt in Lage [h] und das 3. Blatt in Lage [n] blieben unbedruckt und wurden in der Regel weggeschnitten; anders als BSB-Ink zählt GW diese fünf Blätter mit und gibt deshalb 194 statt 189 Blätter an    
+510 4    |a BSB-Ink    |c P-262    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_P-262.html    
+510 4    |a GW    |c M31620    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M31620.htm    
+510 4    |a ISTC    |c ip00407000    |u http://data.cerl.org/istc/ip00407000    
+530      |a Digitalisat (Exemplar der Staatsbibliothek zu Berlin, Preußischer Kulturbesitz)    |u http://resolver.staatsbibliothek-berlin.de/SBB00021D4200000000    
+561      |a Handschriftlicher Besitzvermerk auf vorderem Spiegel: "P[er]tinet Carthusiensib[us] in torberg"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (rot, Ziege) mit Schliessen, Spuren einer vormaligen Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung an beiden Deckeln, Signatur und TItelschild auf Papier und Pergament am Rücken: Verfassername "Franciscus petrarcha" in schwarzer Tinte, sowie Thorberger Signatur in roter Tinte: "B XXI"; von späterer Hand im Bundfeld darunter vermutetes Erscheinungsjahr "1476?"; Verfassername "Petrarcha" auf vorderem Schnitt    
+563      |a Vorsätze: vorne mit einem, hinten ohne fliegendes Blatt; im hinteren Spiegel eingeklebt ist der Verschnitt einer handschriftlichen Privaturkunde, Pergament, 15. Jahrhundert: "Ich Steffan Bemerlin vnd Ich Barbara tabelerin hand elich gemecht vnd buergere ze Esslingen ..." (Hinweis auf Herkunft des Bands?)    
+563      |a Masse: 28.9 x 22.0 x 5.6 cm    
+563      |a Zustand Einband: Abrieb und Schädlingsfrass mit Fehlstellen im Einbandleder an beiden Deckeln, Verschwärzung im Falzbereich des Vordedeckels, Brüche mit Fehlstellen im Einbandleder am Rücken, Lederüberklebungen am Rücken, Loch mit Korrosionspuren am Rückdeckel von vormaliger Ankettung, ergänzte Schliessenriemen und Schliessenhaken    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 188 von 189 Blättern, handschriftliche Lagensignatur in Graphit (gemäss BSB-Ink: Register ist Lage *, Text von Lage a-s), jeweils auf dem ersten Blatt jeder Lage rechts unten; Papierfalz hinter Blatt [*]₃ gehört zu Blatt [*]₁, zweiter Papierfalz hinter Blatt [*]₃ gehört zum vorderen fliegenden Blatt, Pergamentfalz vor Blatt [a]₁ gehört zum Ansatzfalz auf den vorderen Deckel, Pergamentfalz (Velours, Manuskriptmakulatur) vor Blatt [s]₁ gehört zum Ansatzfalz auf den Rückdeckel; rot ausgezeichnete Initialen, Rubrizierung, mit Kapitelüberschriften in roter Tinte; Blattweiser auf Blatt [a]₁, Reste von Blattweisern auf Blättern [f]₂ und [i]₆    
+590      |a Zustand Buchblock: Blattweiser aus Pergament, deformiert und verhärtet, Heftung in Lage [*] gelöst, Japanpapierüberklebung an letztem Blatt, Blatt [c]₇ mit Riss rechts oben im Papier; auf Blatt [n]₈ verso gibt es einen Doppeldruck im unteren Teil - Blatt während Druckvorgang verrutscht? (Im digitalisierten Exemplar der Staatsbibliothek zu Berlin ist die Seite sauber gedruckt)    
+590      |a Blatt [*]₄ (unbedruckt) weggeschnitten (bis auf einen Streifen im Falz)    
+590      |a Die nicht gezählten, unbedruckten Blätter in den Lagen [f], [h] und [n] sind weggeschnitten, bis auf schmale Streifen im Falz    
+590      |a Blätter [*]₁-[*]₃ (Register und ein unbedrucktes Blatt), vorne eingebunden    
+590      |a Im vorderen Spiegel handschriftlich lateinische Grabinschriften: "Epita[ph]ium c[uius]d[am] rustici" (6 Zeilen), "Alius von Hans calb" (2 Zeilen) ...; eine weitere auf dem fliegenden Blatt verso: "Epita[ph]ium Jesu Christi" (8 Zeilen)    
+590      |a Auf fliegendem Blatt recto handschriftliche Verfasser- und Titelnotiz: "francisc[us] petrarcha d[e] remedio Vtriusq[ue] fo[r]tune"; darunter Motto "Cadit superbu[m]" mit Kritzelei eines fallenden Turmes (Federzeichnung); darunter von der Hand des Thorberger Besitzvermerks nochmal der Verfassername: "Francisc[us] petrarcha"    
+590      |a Auf dem letzten Blatt [s]₁₀ verso handschriftliche Notizen zu den Regierungsjahren Kaiser Friedrichs III    
+590      |a Auf hinterem Spiegel noch einmal Motto "Cadit sup[er]bu[m]" und Kritzelei des Turms; darunter (schlecht lesbar) Jahreszahl?    
+590      |a Im Text wenige handschrifliche Annotationen in Tinte; Anstreichungen durch gewellte oder geschweifte Linien am Rand, vereinzelt daraus Gesichter gezeichnet (Blätter [d]₈ recto oder [p]₆ recto), Handweiser (Blatt [d]₁₀ recto)    
+590      |a Historische Signatur auf Blatt [*]₁ recto: "Phil 184"    
+590      |a Frühere Signatur: Inc 30 (davor Inc 21)    
+700 1 2  |a Petrarca, Francesco    |d 1304-1374    |t De remediis utriusque fortunae    |0 (DE-588)4126318-2 
+700 1    |a Eggestein, Heinrich    |d 1415-1488    |0 (DE-588)100965024    |e Drucker    |4 prt     
+710 2    |a Kloster Thorberg    |0 (DE-588)7725716-9    |e Früherer Eigentümer    |4 fmo    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Inc II 69    |9 (41SLSP_UBE)99116852269705511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc II 69    |b B404    |9 (41SLSP_UBE)99116852269705511    
+986      |a (41SLSP_UBE)99116852269705511    |9 (41SLSP_UBE)99116852269705511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116852269705511    
+991      |a AAK: 684678    |5 IZ UBE/15.07.2020/B404/vha    |9 local    |9 (41SLSP_UBE)99116852269705511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

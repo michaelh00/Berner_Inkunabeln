@@ -1,0 +1,144 @@
+﻿<-1-1-START->
+Baldus de Ubaldis
+<-1-1-STOP->
+
+<-1-2-START->
+In Justiniani Codicem
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Additiones von Alexander de Imola<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Battista Torti, 1496
+<-500-START->Druckdaten der einzelnen Bände: 1: 03.06., 2: 04.07., 3: 25.07., 4: 19.05., 5: 05.09.<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+5 Bände; 44 cm (2°)
+<-500-START->Band 4: 175 Blätter, 1 ungezähltes Blatt<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_U-26.html<-L-5-STOP-><-VI-5-START->BSB-Ink U-26<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M48523.htm<-L-5-STOP-><-VI-5-START->GW M48523<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/iu00015000<-L-5-STOP-><-VI-5-START->ISTC iu00015000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+176 von 176 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Holzdeckeln (braun, Schaf) mit Ziernägel-Beschlägen am Rand des Lederbezuges, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Nur Band 4 vorhanden
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116909037605511<-L-11-STOP-><-VI-11-START->MUE Inc I 19<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991045683999705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Baldus de Ubaldis<-P-STOP->
+<-P-START->Alexander de Imola<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Torti, Battista<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991045683999705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 19<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04155nam a2200625 ca4500
+001 991045683999705501
+005 20211215162358.0
+008 170808s1496    it |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/08.08.2017/B404/faf    
+035      |a (swissbib)071969594-41slsp_network    
+035      |a 071969594    |9 ExL    
+035      |a (IDSBB)006720509DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991045683999705501    
+035      |a (41SLSP_UBE)99116909037605511    |9 (41SLSP_UBE)99116909037605511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Baldus    |c de Ubaldis    |d 1327-1400    |0 (DE-588)118803085    |e Verfasser    |4 aut    
+240 1 0  |a In Justiniani Codicem    
+245 1 0  |a Baldus super Codice    |b cum apostillis    
+246 1 0  |a Super Codice    
+246 1    |i Incipit (Band 4)    |a Opus d[omi]ni bal. de Perusio iuris vtriusq[ue] doctoris sup[er] sexto libro Codicis    |b vna cu[m] additio[n]ibus d[omi]ni Alexandri tartagni Immolensis    
+246 1    |i Incipit (Band 4) in normalisierter Form    |a Opus domini Bal. de Perusio iuris utriusque doctoris super sexto libro Codicis    |b una cum additionibus domini Alexandri Tartagni Immolensis    
+246 1    |i Titel gemäss BSB-Ink    |a Lectura super Codice    |n Liber 1–9    
+246 1    |i Titel gemäss GW    |a Lectura super partes Codicis    
+246 1    |i Titel gemäss ISTC    |a Super I-IX Codicis    
+264   1  |a Venetijs    |b per Baptistam de Tortis    |c M.cccc.lxxxxvj. die. xix. Maij [19.05.1496]    
+300      |a 5 Bände    |c 44 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Additiones von Alexander de Imola    
+500      |a Impressum gemäss Kolophon von Band 4; abweichende Daten der anderen Bände: 1: 03.06., 2: 04.07., 3: 25.07., 5: 05.09.    
+500      |a Band 4: 175 Blätter, 1 ungezähltes Blatt    
+500      |a Signaturformel Band 4: A–Y⁸    
+500      |a Blatt Y₈ ist unbedruckt    
+505 0 0  |g 4    |t Baldus super sexto Codicis    
+510 4    |a BSB-Ink    |c U-26    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_U-26.html    
+510 4    |a GW    |c M48523    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M48523.htm    
+510 4    |a ISTC    |c iu00015000    |u http://data.cerl.org/istc/iu00015000    
+530      |a Digitalisat Band 4 (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0005/bsb00057672/images    
+530      |a Digitalisat Band 5 (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0005/bsb00057674/images    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Holzdeckeln (braun, Schaf) mit Ziernägel-Beschlägen am Rand des Lederbezuges, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, handschriftlich mit Tinte auf Vorderdeckel: "Bal. In. Vj. C.", auf Rücken "Bal. Vi. C" sowie "Venet 1496"    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 43.3 x 29.3 x 6.3 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, Ziernägel teilweise fehlend und verquetscht, Risse im Rückdeckel, Schädlingsfrass, Vorsätze im Falz verstärkt, Lederüberklebungen am Rücken, untere Ecke des Vorderdeckels ergänzt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 176 von 176 Blättern, Lage Y aussen mit Papierstreifen überklebt, vorgesehene Stellen für Initialen frei gelassen    
+590      |a Zustand Buchblock: Feuchtigkeitsränder, Schädlingsfrass mit geringem Textverlust    
+590      |a Unvollständiges Exemplar: Nur Band 4 vorhanden    
+590      |a Handschriftliche Annotationen und Anstreichungen in Tinte    
+590      |a Historische Signatur auf Blatt a₁ recto: "Jurid Pol 31"    
+590      |a Frühere Signatur: Inc 201    
+700 0    |a Alexander    |c de Imola    |d 1424-1477    |0 (DE-588)100935958    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Torti, Battista    |0 (DE-588)134140680    |e Drucker    |4 prt    
+700 0 2  |a Baldus    |c de Ubaldis    |d 1327-1400    |t In Justiniani Codicem    |0 (DE-588)1137886757    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Inc I 19    |9 (41SLSP_UBE)99116909037605511    
+866      |a Band 4    |8 22238273890005511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |q Band 4    |p 12    |j MUE Inc I 19    |b B404    |9 (41SLSP_UBE)99116909037605511    
+986      |a (41SLSP_UBE)99116909037605511    |9 (41SLSP_UBE)99116909037605511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116909037605511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

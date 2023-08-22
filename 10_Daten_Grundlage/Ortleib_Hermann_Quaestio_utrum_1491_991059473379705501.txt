@@ -1,0 +1,134 @@
+﻿<-1-1-START->
+Ortleib, Hermann
+<-1-1-STOP->
+
+<-1-2-START->
+Quaestio utrum omnes christifideles in die resurrectionis praecise ad eucharistiae susceptionem sint adstricti, cum decem propositionibus
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit dem Dekret "De non vitandis excommunicatis, antequam per iudicem fuerint declarati et denunciati" vom Konzil von Konstanz<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Straßburg: Johann Prüss, um 1491]
+<-500-START->Drucker gemäss GW: Johann Amerbach, Basel<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+15 ungezählte Seiten: Holzschnittinitiale; 20 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_O-90.html<-L-5-STOP-><-VI-5-START->BSB-Ink O-90<-VI-5-STOP->; <-L-5-START->http://gesamtkataloglderwiegendrucke.de/docs/M28445.htm<-L-5-STOP-><-VI-5-START->GW M28445<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/io00107000<-L-5-STOP-><-VI-5-START->ISTC io00107000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+8 von 8 Blättern, Holzschnittinitiale rot ausgezeichnet, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Pergamenteinband auf Kartondeckeln mit Marmorpapier (20. Jahrhundert), Buchbinder: W. Schüpbach (1933)
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116908925305511<-L-11-STOP-><-VI-11-START->MUE Inc V 198<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991059473379705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Ortleib, Hermann<-P-STOP->
+<-P-START->Konzil von Konstanz, 1414-1418<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Prüss, Johann<-P-STOP->
+<-O-START->Basel<-O-STOP->
+<-P-START->Amerbach, Johannes<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-P-START->Schüpbach, W.<-P-STOP->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991059473379705501<-DOI-STOP->
+<-SIGN-START->MUE Inc V 198<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03956nam a2200493 c 4500
+001 991059473379705501
+005 20211215175321.0
+008 981203s1491    fr       |||| 100 0 lat|d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/29.01.2016/B400/az    
+035      |a (swissbib)06983542X-41slsp_network    
+035      |a 06983542X    |9 ExL    
+035      |a (IDSBB)006477772DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991059473379705501    
+035      |a (41SLSP_UBE)99116908925305511    |9 (41SLSP_UBE)99116908925305511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Ortleib, Hermann    |d 14XX-15XX    |e Verfasser    |4 aut    |0 (DE-588)119778521    
+240 1 0  |a Quaestio utrum omnes christifideles in die resurrectionis praecise ad eucharistiae susceptionem sint adstricti, cum decem propositionibus    
+245 1 0  |a Questio cum decem propositionibus    |c per magistrum Herma[n]um ortleib ad disputandum scholastice intimatis cu[m] suis probationib[us] per vniuersalem inclyti studij Moguntinensis rectorem aliosq[ue] doctores approbatis. vt infra in fine    
+246 1    |i Titel in moderner Orthografie    |a Quaestio cum decem propositionibus    
+246 1    |i Titel gemäss GW    |a Quaestio utrum omnes christifideles in die resurrectionis praecise ad eucharistiae susceptionem sint abstricti    
+264   1  |a [Straßburg]    |b [Johann Prüss]    |c [um 1491]    
+300      |a 15 ungezählte Seiten    |c 20 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Blatt [a₈] recto mit dem Dekret "De non vitandis excommunicatis, antequam per iudicem fuerint declarati et denunciati" (vom Konzil von Konstanz)    
+500      |a Impressum gemäss BSB-Ink, dort ergänzt hinter Druckerangabe: "teilweise mit Typ. von Peter Drach den Mittleren in Speyer"; Drucker gemäss GW: Johann Amerbach, Basel    
+500      |a Signaturformel: [a⁸]    
+500      |a Blatt [a₁] (Titelblatt) verso und [a₈] verso unbedruckt    
+505 0 0  |g Blatt [a₈]    |t Ad euitandum scandala [et] multa pericula ...    |r In concilio Constantiensi sub Martino. v.    
+510 4    |a BSB-Ink    |c O-90    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_O-90.html    
+510 4    |a GW    |c M28445    |u http://gesamtkataloglderwiegendrucke.de/docs/M28445.htm    
+510 4    |a ISTC    |c io00107000    |u http://data.cerl.org/istc/io00107000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00076955/image_5    
+563      |a Einbandbeschreibung: Halbbezogener Pergamenteinband auf Kartondeckeln mit Marmorpapier (20. Jahrhundert)    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 19.6 x 14.8 x 0.7 cm    
+563      |a Zustand Einband: Heftung und Einband neu (20. Jahrhundert); Bleistift-Notiz auf hinterem Spiegel: "Einband von Bibl.-Buchbinder W. Schüpbach, 1933."    
+590      |a Buchblockbeschreibung: 8 von 8 Blättern, handschriftliche Foliierung in Graphit, jeweils rechts oben auf den Recto-Seiten, von Blatt [a₂] bis [a₈] (= 1-7); handschriftliche Lagensignatur in Tinte jeweils rechts unten auf den Recto-Seiten, von Blatt [a₂] bis [a₄] (als m₂, m₃ und m₄ bezeichnet!); äusserstes Doppelblatt (Blätter [a₁] und [a₈]) im Falz mit Papier verstärkt, Holzschnitt-Initiale (Blatt [a₂]) rot ausgezeichnet, Rubrizierung    
+700 1 2  |a Ortleib, Hermann    |d 14XX-15XX    |t Quaestio utrum omnes christifideles in die resurrectionis praecise ad eucharistiae susceptionem sint adstricti, cum decem propositionibus    |0 (DE-588)1169803032    
+700 1    |a Prüss, Johann    |d 1447-1510    |0 (DE-588)135917018    |e Drucker    |4 prt    
+700 1    |a Schüpbach, W.    |e Buchbinder    |4 bnd    
+711 2    |a Konzil von Konstanz    |d 1414-1418    |c Konstanz    |t De non vitandis excommunicatis, antequam per iudicem fuerint declarati et denunciati    |0 (DE-588)116980375X    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Inc V 198    |9 (41SLSP_UBE)99116908925305511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc V 198    |b B404    |9 (41SLSP_UBE)99116908925305511    
+986      |a (41SLSP_UBE)99116908925305511    |9 (41SLSP_UBE)99116908925305511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116908925305511    
+991      |a AAK: 663750    |5 IZ UBE/24.10.2018/B404/vha    |9 local    |9 (41SLSP_UBE)99116908925305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

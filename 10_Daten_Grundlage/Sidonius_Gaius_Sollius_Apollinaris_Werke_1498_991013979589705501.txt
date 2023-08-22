@@ -1,0 +1,166 @@
+﻿<-1-1-START->
+Sidonius, Gaius Sollius Apollinaris
+<-1-1-STOP->
+
+<-1-2-START->
+Werke [lateinisch]. — Pio, Giovanni Battista: Commentarius in Sidonium; Elegidion amatorium
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Herausgegeben und kommentiert von Giovanni Battista Pio<-500-STOP->
+<-500-START->Mit Privileg von Ludovico Maria Sforza, Herzog von Mailand und Widmungsbrief von Pio an Gianfrancesco Marliani<-500-STOP->
+<-500-START->Mit kurzen Gedichten von Baldassar Taccone und Sebastianus Ducius, sowie Auszüge aus den "Caesares" von Decimus Magnus Ausonius<-500-STOP->
+<-500-START->Kurze Angaben zum Leben des Sidonius von Johannes Trithemius auf dem letzten Blatt<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Mailand: Ulrich Scinzenzeler, 04.05.1498
+<-3-1-STOP->
+
+<-4-1-START->
+287 ungezählte Seiten: Holzschnittinitialen; 31 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_S-378.html<-L-5-STOP-><-VI-5-START->BSB-Ink S-378<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M42001.htm<-L-5-STOP-><-VI-5-START->GW M42001<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/is00494000<-L-5-STOP-><-VI-5-START->ISTC is00494000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+143 von 144 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Pergamenteinband auf Kartondeckeln (17./18. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Werke [lateinisch] / Hrotsvita Gandeshemensis. Nürnberg: Drucker für die Sodalitas Celtica, 1501
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Letztes Blatt mit Kolophon fehlt (Angaben aus dem Digitalisat der Herzog August Bibliothek Wolfenbüttel)
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116868264905511<-L-11-STOP-><-VI-11-START->MUE Bong VI 259 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991013979589705501	
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Sidonius, Gaius Sollius Apollinaris<-P-STOP->
+<-P-START->Pio, Giovanni Battista<-P-STOP->
+<-P-START->Taccone, Baldassare<-P-STOP->
+<-P-START->Ducius, Sebastianus<-P-STOP->
+<-P-START->Ausonius, Decimus Magnus<-P-STOP->
+<-P-START->Trithemius, Johannes<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Mailand<-O-STOP->
+<-P-START->Scinzenzeler, Ulrich<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991013979589705501<-DOI-STOP->
+<-SIGN-START->MUE Bong VI 259 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06079nam a2200781 c 4500
+001 991013979589705501
+005 20230209104950.0
+008 100730s1498    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/30.07.2010    
+035      |a (swissbib)062148303-41slsp_network    
+035      |a 062148303    |9 ExL    
+035      |a (IDSBB)005285839DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991013979589705501    
+035      |a (41SLSP_UBE)99116868264905511    |9 (41SLSP_UBE)99116868264905511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Sidonius, Gaius Sollius Apollinaris    |d 431-487    |0 (DE-588)118797069    |e Verfasser    |4 aut    
+240 1 0  |a Werke    
+245 1 0  |a Sidonii apollinaris poema Aureum eiusdemq[ue] epistole    
+246 1    |i Titel in normalisierter Form    |a Sidonii Apollinaris poema aureum eiusdemque epistole    
+246 1 0  |a Poema aureum eiusdemque epistole    
+246 1    |i Titel in moderner Orthografie    |a Poema aureum eiusdemque epistolae    
+246 1    |i Titel gemäss BSB-Ink    |a Epistulae et carmina    
+246 1    |i Titel gemäss GW    |a Opera    
+246 1    |i Titel gemäss ISTC    |a Epistolae et carmina    
+264   1  |a Impressum Mediolanni    |b per magistrum Vldericum scizenzeler    |b Impensis uenerabilium dominorum Presbyteri Hyeronimi de Asula necnon Ioannis de abbatibus place[n]tini    |c Sub Anno domini .M.cccc.Lxxxxyiii. Quarto Nonas maias [04.05.1498]    
+300      |a 287 ungezählte Seiten    |c 31 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Herausgegeben und kommentiert von Giovanni Battista Pio    
+500      |a Mit Privileg von Ludovico Maria Sforza, Herzog von Mailand (Blatt A₁ verso) und Widmungsbrief von Pio an Gianfrancesco Marliani ("Ad ... Ioannemfranciscum Marlianum"; Blatt A₂ recto)    
+500      |a Neben den Gedichten von Balthasar Tachonus (Blatt A₁ verso) und Giovanni Battista Pio (Blatt A₄ recto) ein weiteres kurzes Gedicht von Sebastianus Ducius ("Sebastiani decii[!]"; Blatt s₇ verso), sowie Auszüge aus Ausonius, Decimus Magnus: Caesares (Blatt s₇ recto und verso)    
+500      |a Kurze Angaben zu Sidonius von Johannes Trithemius ("Sidonii uita ex Ioanne erithenemio", aus "De scriptoribus ecclesiaticis", Blatt s₈ recto)    
+500      |a Impressum gemäss Kolophon (Blatt s₈ recto; wegen fehlendem Blatt Angaben aus dem Digitalisat der Herzog August Bibliothek Wolfenbüttel)    
+500      |a Signaturformel: A⁴, a⁶, b⁶, c–s⁸    
+500      |a Blatt s₈ verso (letzte Seite) unbedruckt    
+500      |a Holzschnittinitialen    
+505 0 0  |g Blatt A₁ verso    |t Balthasaris tachoni ducalis scribæ ad Nicolaum Corrigium uirum illustrem. Monosyllabi    |g Blatt A₄ recto    |t Ioannisbaptistæ pii elegidion amatorium    
+510 4    |a BSB-Ink    |c S-378    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_S-378.html    
+510 4    |a GW    |c M42001    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M42001.htm    
+510 4    |a ISTC    |c is00494000    |u https://data.cerl.org/istc/is00494000    
+530      |a Digitalisat (Exemplar der Herzog August Bibliothek Wolfenbüttel)    |u http://diglib.hab.de/inkunabeln/153-quod-2f/start.htm    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Ganzbezogener Pergamenteinband auf Kartondeckeln (17./18. Jahrhundert)    
+563      |a Vorsätze: vorne und hinten mit zwei fliegenden Blättern    
+563      |a Masse Einband: 30.5 x 20.7 x 4.7 cm    
+563      |a Zustand Einband: Verfärbungen und Schädlingsfrass am Einbandpergament, vollflächige Japanpapierüberklebung am Rücken, Japanpapier-Überklebung im Falz beider Vorsätze    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 143 von 144 Blättern, handschriftliche Foliierung in Tinte (jeweils rechts oben auf der Recto-Seite), keine Rubrizierung    
+590      |a Zustand Buchblock: Massive Feuchtigkeitsränder an den unteren Blattkanten und in den Fälzen, durchgehend Schädlingsfrass, Schädlingsfrass mit Ausbrüchen an den letzten Blättern, Papierfalz vor Blatt s₁ gehört zu Blatt s₇    
+590      |a Unvollständiges Exemplar: Blatt s₈, (letztes Blatt mit Kolophon) fehlt    
+590      |a Wenige handschriftliche Annotationen in Tinte, von Bongars und von anderer Hand (zum Beispiel Blatt r₁ recto)    
+590      |a Auf der Titelseite, über dem Titel, handschriftliches Motto in Tinte: "Confide et ama"    
+590      |a Zusammengebunden mit: Hrotsvita Gandeshemensis: [Werke]. Opera Hrosvite illustris virginis et monialis Germane gente Saxonica orte nuper a Conrado Celte inventa ... - Nürnberg : Drucker für die Sodalitas Celtica, 1501    
+590      |a Historische Signatur auf der Titelseite des ersten Werkes im Band: "Poet 58"    
+590      |a Frühere Signaturen: Inc III 51; Inc 63; Hortin XIIX 8    
+700 1 2  |a Sidonius, Gaius Sollius Apollinaris    |d 431-487    |t Werke    |0 (DE-588)1186103876    
+700 1 2  |a Pio, Giovanni Battista    |d 1475-1543    |t Commentarius in Sidonium    |0 (DE-588)1186091738    
+700 1 2  |a Pio, Giovanni Battista    |d 1475-1543    |t Elegidion amatorium    |0 (DE-588)1186091967    
+700 1 2  |a Taccone, Baldassare    |d 1461-1521    |t Monosyllabi    |0 (DE-588)1186093528    
+700 1    |a Pio, Giovanni Battista    |d 1475-1543    |0 (DE-588)129355682    |e Herausgeber    |e Kommentarverfasser    |4 edt    |4 wac    
+700 1    |a Marliani, Gianfrancesco    |d -1524    |0 (DE-588)129043567    |e Widmungsempfänger    |4 dte    
+700 1    |a Ducius, Sebastianus    |d ca. 15./16. Jh.    |0 (DE-588)129006297    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Ausonius, Decimus Magnus    |d 310-395    |0 (DE-588)118505165    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Trithemius, Johannes    |d 1462-1516    |0 (DE-588)118642960    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Scinzenzeler, Ulrich    |d -1500    |0 (DE-588)13839413X    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+751      |a Mailand    |0 (DE-588)4037100-1    
+852 4    |b B404    |c 404U3    |j MUE Bong VI 259 : 2    |9 (41SLSP_UBE)99116868264905511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc III 51 : 2    |c 404U3    |z Zusammengebunden mit 1 weiteren Druck in Sammelband    |p 12    |j MUE Bong VI 259 : 2    |b B404    |9 (41SLSP_UBE)99116868264905511    
+986      |a (41SLSP_UBE)99116868264905511    |9 (41SLSP_UBE)99116868264905511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116868264905511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116868264905511    
+991      |a Bongars: 13010    |5 IZ UBE/B400/30.07.2010    |9 local    |9 (41SLSP_UBE)99116868264905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

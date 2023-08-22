@@ -1,0 +1,138 @@
+﻿<-1-1-START->
+Laurentius Guilelmus Traversagnus
+<-1-1-STOP->
+
+<-1-2-START->
+Modus conficiendi epistolas
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Köln: Bartholomäus von Unckel, um 1480]
+<-500-START->GW datiert "um 1481"<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 28 ungezählte Seiten, 1 ungezähltes Blatt; 20 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW12059.htm<-L-5-STOP-><-VI-5-START->GW 12059<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/it00427810<-L-5-STOP-><-VI-5-START->ISTC it00427810<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+16 von 16 Blättern, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Pergamenteinband auf Kartondeckeln (Papier chamois, 17. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 4 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116816268705511<-L-11-STOP-><-VI-11-START->MUE Bong IV 886 : 5<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991026714129705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Laurentius Guilelmus Traversagnus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Köln<-O-STOP->
+<-P-START->Unckel, Bartholomäus von<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991026714129705501<-DOI-STOP->
+<-SIGN-START->MUE Bong IV 886 : 5<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03565nam a2200553 c 4500
+001 991026714129705501
+005 20211215162745.0
+008 100618s1480    gw            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/16.01.2020/B404/faf    
+035      |a (swissbib)059773529-41slsp_network    
+035      |a 059773529    |9 ExL    
+035      |a (IDSBB)005266114DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991026714129705501    
+035      |a (41SLSP_UBE)99116816268705511    |9 (41SLSP_UBE)99116816268705511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Laurentius Guilelmus    |c Traversagnus    |d 1425-1503    |0 (DE-588)1021024139    |e Verfasser    |4 aut    
+240 1 0  |a Modus conficiendi epistolas    
+245 1 0  |a Epistola[rum] [con]ficie[n]da[rum] ars p[er]util[is] atq[ue] necessaria pr[ae]s[er]tim iuue[n]ib[us] aliq[ua] formula[m] i[n]dige[n]tib[us]    
+246 1    |i Titel in normalisierter Form    |a Epistolarum conficiendarum ars perutilis atque necessaria praesertim iuvenibus aliqua formulam indigentibus    
+246 1    |i Explicit    |a Modus [con]ficie[n]di epistolas p[er]breuis fratri Guillermi Saphone[n]sis orato[r]is elegantissimi feliciter finem habet    
+246 1    |i Explicit in normalisierter Form    |a Modus conficiendi epistolas perbrevis fratri Guillermi Saphonensis oratoris elegantissimi feliciter finem habet    
+246 1    |i Titel gemäss GW    |a De conficiendis epistolis    
+264   1  |a [Köln]    |b [Barholomäus von Unckel]    |c [um 1480]    
+300      |a 1 ungezähltes Blatt, 28 ungezählte Seiten, 1 ungezähltes Blatt    |c 20 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, nur Kopftitel    
+500      |a Impressum gemäss ISTC; GW datiert "um 1481"    
+500      |a Signaturformel: A-B₈    
+500      |a Die Blätter A₁ und B₈ sind unbedruckt    
+510 4    |a GW    |c 12059    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW12059.htm    
+510 4    |a ISTC    |c it00427810    |u http://data.cerl.org/istc/it00427810    
+530      |a Digitalisat (Exemplar der Staatsbibliothek zu Berlin)    |u http://resolver.staatsbibliothek-berlin.de/SBB0001E0C200000000    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Halbbezogener Pergamenteinband auf Kartondeckeln (Papier chamois, 17. Jh.)    
+563      |a Vorsätze: Vorne und hinten mit zwei fliegenden Blättern    
+563      |a Masse Einband: 19.9 x 14.8 x 3.3 cm    
+563      |a Zustand Einband: Zahlreiche Verfleckungen, Tintenschrift am Pergamentrücken fast vollständig abgelöst    
+590      |a Buchblockbeschreibung: 16 von 16 Blättern, Blinddruckmarken in Kolummnenformat an den Blättern A₁ und B₈, rot ausgezeichnete Initialen, Rubrizierung    
+590      |a Zustand Buchblock: Brüche in rotem Farbauftrag (Fehlstellen an Initiale an Blatt A₁), Japanpapier-Überklebung an erstem Blattfalz recto    
+590      |a Einige handschriftliche Korrekturen in Tinte    
+590      |a Zusammengebunden mit 4 weiteren Drucken in Sammelband    
+590      |a Historische Signatur auf Vorderdeckel: "308."; auf vorderem Spiegel: "Hist: Eccl: 232.", Zahl korrigiert zu "134."    
+590      |a Frühere Signaturen: Inc 433; Inc III 114; XV S 53    
+700 1    |a Unckel, Bartholomäus <<von>>    |d ca. 2. H. 15. Jh.    |0 (DE-588)12236273X    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 0 2  |a Laurentius Guilelmus    |c Traversagnus    |d 1425-1503    |t Modus conficiendi epistolas    |0 (DE-588)1202954030    
+751      |a Köln    |0 (DE-588)4031483-2    
+852 4    |b B404    |c 404U3    |j MUE Bong IV 886 : 5    |9 (41SLSP_UBE)99116816268705511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc III 114 : 5    |c 404U3    |z Zusammengebunden mit 4 weiteren Drucken in Sammelband    |p 12    |j MUE Bong IV 886 : 5    |b B404    |9 (41SLSP_UBE)99116816268705511    
+986      |a (41SLSP_UBE)99116816268705511    |9 (41SLSP_UBE)99116816268705511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116816268705511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116816268705511    
+991      |a Bongars: 06534    |5 IZ UBE/B400/18.06.2010    |9 LOCAL    |9 (41SLSP_UBE)99116816268705511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

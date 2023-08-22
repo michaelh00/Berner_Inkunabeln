@@ -1,0 +1,141 @@
+﻿<-1-1-START->
+Libri feudorum
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit der von Jacobus Columbi oder Accursius verfassten Glossa ordinaria<-500-STOP->
+
+<-2-1-STOP->
+
+<-3-1-START->
+[Basel: Michael Wenssler, um 1478?]
+<-500-START->Meistens zu finden als Teil einer bei Wenssler gedruckten Sammlung des Corpus iuris civilis mit den Novellae und den Büchern 10-12 des Codex Iustinianus<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+72 ungezählte Seiten; 42 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_C-546.html<-L-5-STOP-><-VI-5-START->BSB-Ink C-546<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW07752.htm<-L-5-STOP-><-VI-5-START->GW 07752<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ij00590000<-L-5-STOP-><-VI-5-START->ISTC ij00590000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+36 von 36 Blättern, rot und blau ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen sowie Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Johannes Büchler; Kloster Thorberg
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Institutiones. Basel: Michael Wenssler, 1476
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116748433005511<-L-11-STOP-><-VI-11-START->MUE Inc II 17 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991146721169705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Jacobus Columbi<-P-STOP->
+<-P-START->Accursius, Franciscus (Senior)<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Wenssler, Michael<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Büchler, Johannes<-P-STOP->
+<-P-START->Kloster Thorberg<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991146721169705501<-DOI-STOP->
+<-SIGN-START->MUE Inc II 17 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04603nam a2200577 c 4500
+001 991146721169705501
+005 20211215194115.0
+008 170531s1478    sz ||||| l    00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/31.05.2017/B404/faf    
+035      |a (swissbib)069693129-41slsp_network    
+035      |a 069693129    |9 ExL    
+035      |a (IDSBB)006703279DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991146721169705501    
+035      |a (41SLSP_UBE)99116748433005511    |9 (41SLSP_UBE)99116748433005511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+130 0    |a Libri feudorum    |0 (DE-588)4250704-2    
+245 1 0  |a Incipiu[n]t [con]suetudines feudo[rum]    
+246 1 0  |a Consuetudines feudorum    
+246 1    |i Incipit (Kommentar)    |a Incipiu[n]t. Quidam habe[n]t aliter rubrica[m]    
+264   1  |a [Basel]    |b [Michael Wenssler]    |c [um 1478?]    
+300      |a 72 ungezählte Seiten    |c 42 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Meistens zu finden als Teil einer Sammlung des Corpus iuris civilis mit den Novellae und den Büchern 10-12 des Codex Iustinianus, gedruckt 1478 in Basel durch Michael Wenssler (siehe bibliographische Nachweise)    
+500      |a Mit der von Jacobus Columbi oder Accursius verfassten Glossa ordinaria    
+500      |a Keine Titelseite, Titel gemäss Incipit    
+500      |a Rot- und Schwarzdruck    
+500      |a Signaturformel: [a–c¹⁰, d⁶]    
+510 4    |a BSB-Ink    |c C-546    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_C-546.html    
+510 4    |a GW    |c 07752    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW07752.htm    
+510 4    |a ISTC    |c ij00590000    |u http://data.cerl.org/istc/ij00590000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/0008/bsb00080149/images    
+561      |a Handschriftlicher Besitzvermerk auf vorderem Spiegel: "Liber Carthusie[nsium] In Torrberg/ p[ro]ueniens a Magistro Joanne Büchler d[e] Herrenb[er]g plebano ac d[e]cano In Walkringenn"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen sowie Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, verblassend in Tinte auf Vorderdeckel: "Jnstitutiones", auf Rücken rote Thorberg-Signatur (teils über Tintenschrift): "G LXIIII", dazu mit Tinte "Justiniani Element ..." verblassend direkt auf dem Leder und "Institut[i]o[n]es Justiniani." auf Pergamentschild    
+563      |a Vorsätze: Vorne mit einem fliegenden Blatt sowie 2 Papierfälzen und einem Pergamentfalz (Makulaturpergament); hinten mit einem fliegenden Blatt sowie 2 Papierfälzen    
+563      |a Masse Einband: 41.5 x 29.5 x 6 cm    
+563      |a Zustand Einband: Fehlstellen im Einbandleder vor der Blindprägung mit Leder unterlegt, Rostabdruck von vormaliger Kettenöse am Rückdeckel und den letzten Blättern, Lederüberklebung am unteren Häubchen    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 36 von 36 Blättern, handschriftliche Lagensignatur in Tinte (zum Teil beschnitten), Pergamentverstärkung in den Lagenmitten an den Heftstationen (auch in den Vorsätzen), rot und blau ausgezeichnete Initialen, Rubrizierung (rote und blaue Paragraphenzeichen)    
+590      |a Zustand Buchblock (ganzer Sammelband): Craquelés in rotem Farbauftrag der Initialen, Ausbrüche im Blau mit dunklen Verfleckungen, Schädlingsfrass mit Fehlstellen und Einrissen an den letzten Blättern    
+590      |a Signaturformel der handschriftlichen Lagensignatur: o-q¹⁰, r⁶ (Zählung setzt vorgebundenen Druck fort)    
+590      |a Zusammengebunden mit: Institutiones. Basel : Michael Wenssler, 1476    
+590      |a Historische Signatur auf vorderem Spiegel: "Jur: Pol: N: 40."; auf Blatt [a₂] recto des vorgebundenen Drucks: "Jur Pol 47"    
+590      |a Frühere Signatur: Inc 334    
+700 0    |a Jacobus    |c Columbi    |d ca. um 1221/44    |0 (DE-588)102506892    |e Kommentarverfasser    |4 wac    
+700 1    |a Accursius, Franciscus    |c Senior    |d 1185-1263    |0 (DE-588)100956599    |e Kommentarverfasser    |4 wac    
+700 1    |a Wenssler, Michael    |d 14XX-1512    |0 (DE-588)134121260    |e Drucker    |4 prt    
+700 1    |a Büchler, Johannes    |d 1450-1521    |0 (DE-588)1113671742    |e Früherer Eigentümer    |4 fmo    
+710 2    |a Kloster Thorberg    |0 (DE-588)7725716-9    |e Früherer Eigentümer    |4 fmo    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc II 17 : 2    |9 (41SLSP_UBE)99116748433005511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 1 weiteren Druck in Sammelband    |p 12    |j MUE Inc II 17 : 2    |b B404    |9 (41SLSP_UBE)99116748433005511    
+986      |a (41SLSP_UBE)99116748433005511    |9 (41SLSP_UBE)99116748433005511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116748433005511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,137 @@
+﻿<-1-1-START->
+Brant, Sebastian
+<-1-1-STOP->
+
+<-1-2-START->
+Carmina in laudem virginis Mariae multorumque sanctorum
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Gemäss BSB-Ink möglicherweise mit Holzschnitten von Albrecht Dürer<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Basel: Johann Bergmann, nicht vor 1494]
+<-500-START->Druckvariante: Auf Blatt A₄ verso, Zeile 1 steht hier "semine"  statt "fœmina" (siehe GW, Anmerkung 1)<-500-STOP->
+<-500-START->Ausgabe mit zusätzlicher Lage F (einem Teil der Auflage nachträglich hinzugefügt; siehe GW, Anmerkung 3)<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+96 ungezählte Seiten: Illustrationen; 23 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-807.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-807<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW05067.htm<-L-5-STOP-><-VI-5-START->GW 5067<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib01077000<-L-5-STOP-><-VI-5-START->ISTC ib01077000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+48 von 48 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband (braun, Schaf) auf Holzdeckeln mit mittiger Schliesse, Linien- sowie Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 4 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116885223105511<-L-11-STOP-><-VI-11-START->MUE Inc IV 31 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991089884619705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Brant, Sebastian<-P-STOP->
+<-P-START->Dürer, Albrecht<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Bergmann, Johann<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991089884619705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 31 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03714nam a2200553 c 4500
+001 991089884619705501
+005 20211215175649.0
+008 170602s1494    sz |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/02.06.2017/B404/az    
+035      |a (swissbib)069807396-41slsp_network    
+035      |a 069807396    |9 ExL    
+035      |a (IDSBB)006704196DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991089884619705501    
+035      |a (41SLSP_UBE)99116885223105511    |9 (41SLSP_UBE)99116885223105511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Brant, Sebastian    |d 1458-1521    |0 (DE-588)118514474    |e Verfasser    |4 aut    
+240 1 0  |a Carmina in laudem virginis Mariae multorumque sanctorum    
+245 1 0  |a Jn Laude[m] gloriose virginis Marie multoru[m]q[ue] sanctoru[m] varij generis carmina Sebastiani Brant vtriusq[ue] juris doctoris famosissimi    
+246 1    |i Titel gemäss GW und ISTC    |a Carmina in laudem B. Mariae Virginis multorumque sanctorum    
+246 1    |i Titel in normalisierter Form    |a In Laudem gloriosae virginis Mariae multorumque sanctorum varii generis carmina    
+264   1  |a [Basel]    |b [Johann Bergmann]    |c [nicht vor 1494]    
+300      |a 96 ungezählte Seiten    |b Illustrationen    |c 23 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Druckort, Drucker und Druckjahr gemäss GW, BSB-Ink und ISTC    
+500      |a Gemäss BSB-Ink, mit Holzschnitten (teilweise?) von Albrecht Dürer?    
+500      |a Auf Blatt A₄ verso, Zeile 1 steht femine statt fœmina (Vgl. GW, Anmerkung 1)    
+500      |a Signaturformel: A⁸-F⁸    
+500      |a Blatt E₈ ist unbedruckt    
+500      |a Ausgabe mit zusätzlicher Lage F (Vgl. GW, Anmerkung 3)    
+510 4    |a BSB-Ink    |c B-807    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-807.html    
+510 4    |a GW    |c 5067    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW05067.htm    
+510 4    |a ISTC    |c ib01077000    |u http://data.cerl.org/istc/ib01077000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0002/bsb00025676/images    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband (braun, Schaf) auf Holzdeckeln mit mittiger Schliesse, Linien- sowie Ornamentstempel-Blindprägung auf beiden Deckeln, drei Titel in Tintenschrift auf vorderem Holzdeckel, 4. Titelangabe durch Auskratzen getilgt    
+563      |a Vorsätze: jeweils mit einem fliegenden Blatt    
+563      |a Masse Einband: 22.6 x 16.5 x 3.1    
+563      |a Zustand Einband: Lederüberklebungen am Einband mit Ergänzung der Blindprägung, Schliesse restauriert (Hakenteil inkl. Schliessenriemen und -plättchen sowie Nieten am Ösenteil ergänzt), Vorsätze im Falz verstärkt    
+563      |a Detaillierte Beschreibung im Inkunabel-Einbandkatalog (Lindt/Mülinen)    
+563      |a Zustand Buchblock: Abspaltungen und Einrisse mit Fehlstellen im Textbereich in Lagen C und F, Feuchtigkeitsränder am Fussschnitt, Schädlingsfrass    
+590      |a Buchblockbeschreibung: Falz von Vorsatzkonstruktion zwischen Blatt A₈ verso und Blatt B₁ recto    
+590      |a Masse Buchblock: 21.5 x 15.1 x 0.9 cm    
+590      |a Detaillierte Beschreibung Buchblock im Inkunabel-Einbandkatalog (Lindt/Mülinen)    
+590      |a Zusammengebunden mit 4 weiteren Drucken in Sammelband    
+700 1 2  |a Brant, Sebastian    |d 1458-1521    |t Carmina in laudem virginis Mariae multorumque sanctorum    |0 (DE-588)1133391516    
+700 1    |a Dürer, Albrecht    |d 1471-1528    |0 (DE-588)11852786X    |e Illustrator    |4 ill    
+700 1    |a Bergmann, Johann    |d 1455-1532    |0 (DE-588)128982918    |e Drucker    |4 prt    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 31 : 1    |9 (41SLSP_UBE)99116885223105511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc IV 31 : 1    |b B404    |9 (41SLSP_UBE)99116885223105511    
+986      |a (41SLSP_UBE)99116885223105511    |9 (41SLSP_UBE)99116885223105511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116885223105511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

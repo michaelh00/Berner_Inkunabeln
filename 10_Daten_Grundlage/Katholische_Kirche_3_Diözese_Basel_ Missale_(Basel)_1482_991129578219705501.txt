@@ -1,0 +1,147 @@
+﻿<-1-1-START->
+Katholische Kirche, Diözese Basel
+<-1-1-STOP->
+
+<-1-2-START->
+Missale (Basel)
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Basel: Bernhard Richel oder Michael Wenssler oder Peter Kollicker und Johann Koch genannt Meister, 1482 oder 1483?]
+<-3-1-STOP->
+
+<-4-1-START->
+379 ungezählte Seiten: 1 Illustration; 31 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_M-420.html<-L-5-STOP-><-VI-5-START->BSB-Ink M-420<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M24267.htm<-L-5-STOP-><-VI-5-START->GW M24267<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/im00649000<-L-5-STOP-><-VI-5-START->ISTC im00649000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+189 von 190 Blättern, rot und blau ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jahrhundert) mit Sprenkelpapier (braun)
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Blatt 2. []₁ mit dem Holzschnitt fehlt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116735639705511<-L-11-STOP-><-VI-11-START->MUE Inc II 77<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991129578219705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Katholische Kirche, Diözese Basel<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Richel, Bernhard<-P-STOP->
+<-O-START->Basel<-O-STOP->
+<-P-START->Kollicker, Peter<-P-STOP->
+<-O-START->Basel<-O-STOP->
+<-P-START->Johann Koch genannt Meister<-P-STOP->
+<-O-START->Basel<-O-STOP->
+<-P-START->Wenssler, Michael<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991129578219705501<-DOI-STOP->
+<-SIGN-START->MUE Inc II 77<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03966nam a2200625 c 4500
+001 991129578219705501
+005 20211215193501.0
+007 cr#|||||||||||
+008 180628q14821483sz |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/28.06.2018/B404/faf    
+024 7    |a 10.3931/e-rara-89627    |2 doi    
+035      |a (swissbib)07085744X-41slsp_network    
+035      |a 07085744X    |9 ExL    
+035      |a (IDSBB)006809395DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991129578219705501    
+035      |a (41SLSP_UBE)99116735639705511    |9 (41SLSP_UBE)99116735639705511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+110 2    |a Katholische Kirche    |0 (DE-588)2009545-4    |e Verfasser    |4 aut    
+245 1 0  |a [Missale (Basel)]    
+246 1    |i Incipit (Kalendarium)    |a Januarius habet dies xxxj. luna xxx    
+246 1    |i Incipit (Kalendarium) in normalisierter Form    |a Ianuarius habet dies xxxi. luna xxx    
+246 1    |i Incipit (Haupttext)    |a Ad te leuaui anima[m] meam deus meus in te confido no[n] erubesca[m] ...    
+246 1    |i Incipit (Haupttext) in normalisierter Form    |a Ad te levavi animam meam, Deus meus, in te confido, non erubescam ...    
+246 1    |i Titel gemäss BSB-Ink, GW und ISTC    |a Missale Basiliense    
+264   1  |a [Basel]    |b [Bernhard Richel oder Peter Kollicker und Johannes Meister]    |c [1482 oder 1483?]    
+300      |a 379 ungezählte Seiten    |b 1 Illustration    |c 31 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+337      |b c    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+338      |b cr    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss GND    
+500      |a Impressum gemäss BSB-Ink, GW und ISTC; teilweise wird der Druck auch Michael Wenssler zugeschrieben    
+500      |a Rot- und Schwarzdruck    
+500      |a Signaturformel: []⁶, a–f¹⁰, g¹², []⁶, h–k¹⁰, A–F¹⁰, G–H⁸    
+510 4    |a BSB-Ink    |c M-420    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_M-420.html    
+510 4    |a GW    |c M24267    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M24267.htm    
+510 4    |a ISTC    |c im00649000    |u http://data.cerl.org/istc/im00649000    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jh.) mit Sprenkelpapier (braun), Linien-Blindprägung sowie Titelschild in Goldprägung auf dem Rücken    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 30.6 x 22.8 x 4.6 cm    
+563      |a Zustand Einband: Einbandleder in den Fälzen gerissen mit Fehlstellen, Lederüberklebungen am Rücken und an den Deckelecken, Vorsätze im Falz mit Japanpapier verstärkt    
+590      |a Buchblockbeschreibung: 189 von 190 Blättern, Papierfalz zwischen Lagen 1. [] und a sowie G und H gehört zur Vorsatzkonstruktion, rot und blau ausgezeichnete Initialen, vorgesehene Stellen für grössere Initialen teilweise frei gelassen, Rubrizierung    
+590      |a Zustand Buchblock: Teilweise grossflächige Verbräunung des Papiers, Papierfaseranklebungen an blau ausgezeichneten Initialen, Blattweiser vollständig abgelöst oder abgerissen, Fehlstellen im Papier mit Büttenpapier und vereinzelt mit Pergamentstreifen hinterklebt (Blatt D₂)    
+590      |a Unvollständiges Exemplar: Blatt 2. []₁ mit dem Holzschnitt fehlt    
+590      |a Wenige handschriftliche Annotationen in Graphit    
+590      |a Frühere Signatur: Inc 21    
+700 1    |a Richel, Bernhard    |d -1482    |0 (DE-588)136009115    |e Drucker    |4 prt    
+700 1    |a Kollicker, Peter    |d -1486    |0 (DE-588)136408265    |e Drucker    |4 prt    
+700 1    |a Johann    |c Koch genannt Meister    |d 1430-1487    |0 (DE-588)137110979    |e Drucker    |4 prt    
+700 1    |a Wenssler, Michael    |d 14XX-1512    |0 (DE-588)134121260    |e Drucker    |4 prt    
+710 2    |a Katholische Kirche    |t Missale (Basel)    |0 (DE-588)108806308X    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc II 77    |9 (41SLSP_UBE)99116735639705511    
+856 4    |u https://doi.org/10.3931/e-rara-89627    |z Digitalisat in e-rara    
+900      |a IDSIxunikat    
+900      |a IDSIxhybrid-el    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc II 77    |b B404    |9 (41SLSP_UBE)99116735639705511    
+986      |a (41SLSP_UBE)99116735639705511    |9 (41SLSP_UBE)99116735639705511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116735639705511    
+990      |f erarabe    |9 local    |9 (41SLSP_UBE)99116735639705511    
+990      |f lza-cc0    |9 local    |9 (41SLSP_UBE)99116735639705511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,141 @@
+﻿<-1-1-START->
+Rolevinck, Werner
+<-1-1-STOP->
+
+<-1-2-START->
+Fasciculus temporum [deutsch]
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Basel]: Bernhard Richel, 31.08.1481
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 30 ungezählte Seiten, Seite i, Doppelseiten ii-cxxix, das heisst 126, Seite cxxx, das heisst 127: Illustrationen; 29 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_R-253.html<-L-5-STOP-><-VI-5-START->BSB-Ink R-253<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M38743.htm<-L-5-STOP-><-VI-5-START->GW M38743<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ir00281000<-L-5-STOP-><-VI-5-START->ISTC ir00281000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+141 von 142 Blättern, Illustration auf Doppelseite xlv rechts (Stadt Köln) und auf Doppelseite xlix rechts (Christus) blassrot ankoloriert, ebenso Anfangsinitiale auf Blatt [a₁] recto
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (gelb-braun, Ziege, 19./20. Jahrhundert), Ornamentstempel- und Rollen-Blindprägung auf beiden Deckeln sowie an den Steh- und Innenkanten beider Deckel
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Werner Zesiger
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Blatt [*₁] (unbedruckt) fehlt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116801583205511<-L-11-STOP-><-VI-11-START->MUE Zesk 27<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991065195999705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Rolevinck, Werner<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Richel, Bernhard<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Zesiger, Werner<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991065195999705501<-DOI-STOP->
+<-SIGN-START->MUE Zesk 27<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05609nam a2200625 c 4500
+001 991065195999705501
+005 20211215182255.0
+008 950711s1481    sz ||||| |||| 00| ||ger d
+019      |a Altbestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von Signaturen.    |5 IDSBB/21.03.1995/bestub/mes    
+035      |a (swissbib)028133455-41slsp_network    
+035      |a 028133455    |9 ExL    
+035      |a (IDSBB)001127095DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991065195999705501    
+035      |a (41SLSP_UBE)99116801583205511    |9 (41SLSP_UBE)99116801583205511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a ger    |h lat    
+072   7  |a ag    |2 SzZuIDS BS/BE    
+082 1 4  |a 930    |2 15    
+100 1    |a Rolevinck, Werner    |d 1425-1502    |0 (DE-588)118749536    |e Verfasser    |4 aut    
+240 1 0  |a Fasciculus temporum    
+245 1 0  |a Hie endet sich die Cronick die man nempt eyn bürdin oder versamlung der zyt    |b in der man vindet von anfang der welt byß vff die zyt karoli eyns herczogen von burgund wz namhafftiger lüt in iudenschafft heydenschafft vnd cristenheyt gewesen sint vn[d] zů welchen zyten vnd wer zů der ieglichs zyten Jn ieglichem glouben mit ihm regiert hat    
+246 1 3  |a Hier endet sich die Chronik, die man nennt ein Bürdlein oder Versammlung der Zeit    |b in der man findet von Anfang der Welt bis auf die Zeit Karoli, eines Herzogen von Burgund, was namhaftiger Leut in Judenschaft, Heidenschaft und Christenheit gewesen sind und zu welchen Zeiten und wer zu der jeglichs Zeiten in jeglichem Glauben mit ihm regiert hat    
+246 1    |i In der Einleitung zum Register    |a <<Ein>> bürdlin der zit    
+246 1    |i Titel gemäss BSB-Ink    |a <<Die>> Cronick die man nempt eyn bürdin oder versamlung der zyt    
+246 1    |i Titel gemäss ISTC    |a <<Eyn>> bürdin oder versamlung der zyt    
+264   1  |a [Basel]    |b Gedruckt aber gerecht suber vnd rein durch Hermeyster Bernhart Richel burger zů Basel    |c alß ma[n] zalt nocht der geburt christi. M.cccc.lxxxi. ior pridie Kl. Septembris [31.08.1481]    
+300      |a 1 ungezähltes Blatt, 30 ungezählte Seiten, Seite i, Doppelseiten ii-cxxix, das heisst 126, Seite cxxx, das heisst 127    |b Illustrationen    |c 29 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss Explicit (Seite cxxx)    
+500      |a Registerbeginn: Hie hebt sich an das register über das ga[n]tz bůch das man ne[n]net ein bürdlin d[er] zit    
+500      |a Impressum gemäss Kolophon    
+500      |a Zählung der Doppelseiten mit zahlreichen Fehlern    
+500      |a Zur falschen Zählung am Ende führen: auf Doppelseite lxxvij (rechts: lxxviij(!)) folgt Doppelseite lxxix; auf Doppelseite lxxxvi (rechts: xcv) folgt Doppelseite lxxxviij; auf Doppelseite xciiij folgt xcvi (links: lxxxvij(!))    
+500      |a Signaturformel: [*⁸, **⁶, a–c¹⁰, d–o⁸, p¹⁰]    
+500      |a Blatt [*₁] (erstes Blatt) unbedruckt    
+500      |a Illustrationen: Holzschnitte als textstrukturierende Linien und Kreisformen, bildliche Holzschnitte innerhalb des Textspiegels gedruckt (Ausnahme Doppelseite xlv rechts), zum Teil figurativer Textspiegel (Evangelisten, Doppelseite xlix rechts)    
+510 4    |a BSB-Ink    |c R-253    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_R-253.html    
+510 4    |a GW    |c M38743    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M38743.htm    
+510 4    |a ISTC    |c ir00281000    |u http://data.cerl.org/istc/ir00281000    
+530      |a Digitalisat (Exemplar der Universitätsbibliothek Basel)    |u http://dx.doi.org/10.3931/e-rara-16252    
+561      |a Stempel auf zusätzlich eingebundenem leeren Blatt, hinter vorderem fliegenden Blatt: "Dr. Zesiger"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (gelb-braun, Ziege, 19./20. Jahrhundert), Ornamentstempel- und Rollen-Blindprägung auf beiden Deckeln sowie an den Steh- und Innenkanten beider Deckel, Linien- und Titel-Blindprägung auf dem Rücken, künstliche erhabene Bünde und Innenfacette an den Häubchen (statt Kapital)    
+563      |a Vorsätze: Vorne mit vier und hinten mit sechs fliegenden Blättern (teilweise mit Marmorpapier, Franzbandtechnik)    
+563      |a Masse: 28.4 x 20.4 x 2.6 cm    
+563      |a Zustand Einband: Zum Teil massive Kratzer im Einbandleder, dunkle Klebespur einer vormaligen Selbstklebeband-Überklebung am Vorderdeckel    
+590      |a Buchblockbeschreibung: 141 von 142 Blättern, handschriftliche Lagensignatur (Nummerierung) in Graphit, jeweils erste Recto-Seite jeder Lage rechts unten, Illustration auf Doppelseite xlv rechts (Stadt Köln) und auf Doppelseite xlix rechts (Christus) blassrot ankoloriert, ebenso Anfangsinitiale auf Blatt [a₁] recto    
+590      |a Zustand Buchblock: Papierüberklebung an der Verso-Seite des ersten bedruckten Blattes [*₂] (Schwächung des Blattes mit Lochbildung durch radierte Tintenschrift); Lochung an der mittigen Vorderkante der letzten Blätter (teilweise ausgerissen mit Fehlstellen)    
+590      |a Blatt [*₁] (unbedruckt) fehlt    
+590      |a Zahlreiche handschriftliche Annotationen in Tinte im Register, wenige Annotationen im Text; Druckunterbrüche an den Kreiselementen mit Tinte ergänzt (zum Beispiel Doppelblätter lxxxix undxcii)    
+700 1 2  |a Rolevinck, Werner    |d 1425-1502    |t Fasciculus temporum    |0 (DE-588)7539276-8    
+700 1    |a Richel, Bernhard    |d -1482    |0 (DE-588)136009115    |e Drucker    |4 prt    
+700 1    |a Zesiger, Werner    |d 1902-1958    |0 (DE-588)121027392    |e Früherer Eigentümer    |4 fmo    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Zesk 27    |9 (41SLSP_UBE)99116801583205511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Zesk 27    |b B404    |9 (41SLSP_UBE)99116801583205511    
+986      |a (41SLSP_UBE)99116801583205511    |9 (41SLSP_UBE)99116801583205511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116801583205511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

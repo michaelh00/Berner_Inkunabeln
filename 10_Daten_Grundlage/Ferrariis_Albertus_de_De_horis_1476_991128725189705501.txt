@@ -1,0 +1,142 @@
+﻿<-1-1-START->
+Ferrariis, Albertus de
+<-1-1-STOP->
+
+<-1-2-START->
+De horis canonicis
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Verfasser oft, aber wohl zu Unrecht mit Alberto Trotti identifiziert<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Ulm: Johannes Zainer der Ältere, um 1476]
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 52 ungezählte Seiten, 1 ungezähltes Blatt: Holzschnittinitialen; 28 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_F-65.html<-L-5-STOP-><-VI-5-START->BSB-Ink F-65<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M47670.htm<-L-5-STOP-><-VI-5-START->GW M47670<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/it00465000<-L-5-STOP-><-VI-5-START->ISTC it00465000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+28 von 28 Blättern, Holzschnittinitialen rot koloriert, teilweise Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen und Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien-, Ornamentstempel- und Ornamentrollen-Blindprägung auf beiden Deckeln; Buchbinder: Hans Leman
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Kloster Thorberg
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 2 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116685425505511<-L-11-STOP-><-VI-11-START->MUE Inc I 82 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991128725189705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Ferrariis, Albertus de<-P-STOP->
+<-P-START->Trotti, Alberto<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Ulm<-O-STOP->
+<-P-START->Zainer, Johannes<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-P-START->Leman, Hans<-P-STOP->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Kloster Thorberg<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991128725189705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 82 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04611nam a2200601 c 4500
+001 991128725189705501
+005 20211215192849.0
+008 171031s1476    gw |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/31.10.2017/B404/faf    
+035      |a (swissbib)075043254-41slsp_network    
+035      |a 075043254    |9 ExL    
+035      |a (IDSBB)006744192DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991128725189705501    
+035      |a (41SLSP_UBE)99116685425505511    |9 (41SLSP_UBE)99116685425505511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Ferrariis, Albertus <<de>>    |0 (DE-588)119670607    |e Verfasser    |4 aut    
+240 1 0  |a De horis canonicis    
+245 1 0  |a D[e] horis canonicis    
+246 1    |i Incipit (Prolog)    |a Materiam hora[rum] quas canonicas appellamus sub breui stilo diuina opitulante gr[ati]a tractandam assumpsi. ego albert[us] de ferrarijs de placentia iuris vtriusq[ue] doctor ...    
+246 1    |i Incipit (Tabula)    |a In nomi[n]e d[omi]ni amen. Incipit tabula [com]posita a domino alberto de ferrarijs iuris vtriusq[ue] doctore de placentia sup[er] infra scripto opusculo d[e] horis canonicis in modum qui sequitur [et]c[etera]    
+246 1    |i Incipit (Tabula) in normalisierter Form    |a In nomine domini amen. Incipit tabula composita a domino Alberto de Ferrariis iuris utriusque doctore de Placentia super infra scripto opusculo de horis canonicis in modum qui sequitur etcetera    
+246 1    |i Incipit (Vorwort) in normalisierter Form    |a Materiam horarum quas canonicas appellamus sub brevi stilo divina opitulante gratia tractandam assumpsi ego Albertus de Ferrariis de Placentia iuris utriusque doctor ...    
+264   1  |a [Ulm]    |b [Johannes Zainer der Ältere]    |c [um 1476]    
+300      |a 1 ungezähltes Blatt, 52 ungezählte Seiten, 1 ungezähltes Blatt    |c 28 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Verfasser oft, aber wohl zu Unrecht mit Alberto Trotti identifiziert    
+500      |a Mit Tabula und Vorwort des Verfassers    
+500      |a Keine Titelseite, Titel aus dem Incipit der Tabula    
+500      |a Impressum gemäss BSB-Ink und ISTC    
+500      |a Signaturformel: [a¹⁰, b⁸, c¹⁰]    
+500      |a Die Blätter [a₁] und [c₁₀] sind unbedruckt    
+500      |a Holzschnittinitialen    
+510 4    |a BSB-Ink    |c F-65    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_F-65.html    
+510 4    |a GW    |c M47670    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M47670.htm    
+510 4    |a ISTC    |c it00465000    |u http://data.cerl.org/istc/it00465000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/0003/bsb00039341/images    
+561      |a Handschriftlicher Besitzvermerk auf vorderem Spiegel: "Pertinet Carthusiensibus Jn Torrberg."    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen und Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien-, Ornamentstempel- und Ornamentrollen-Blindprägung auf beiden Deckeln, handschriftlich in Tinte auf Vorderdeckel: "Fasciculus temporum. Tabula Calderini.", daneben von anderer Hand: "et De horis canonicis.", auf Rücken über verblassenden handschriftlichen Titeln rote Thorberg-Signatur: "C XVII"    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 27.9 x 20.8 x 5.7 cm    
+563      |a Zustand Einband: Loch von vormaliger Ankettung und massiver Korrosionsschaden mit Ausbrüchen am Rückdeckel, Lederüberklebungen an den Häubchen, unterer Schliessenriemen ergänzt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 28 von 28 Blättern, handschriftliche Foliierung in Graphit (1-28), Blatt [a₁] mit Blatt [a₁₀] zusammengesetzt, Holzschnittinitialen rot koloriert, teilweise Rubrizierung    
+590      |a Zusammengebunden mit 2 weiteren Drucken in Sammelband    
+590      |a Historische Signatur auf vorderem Spiegel: "Hist: Prof 386:"; auf vorderem fliegendem Vorsatzblatt recto: "Inc: 75"    
+590      |a Frühere Signatur: Inc 97    
+700 1    |a Trotti, Alberto    |0 (DE-588)100282423    |e Verfasser    |4 aut    
+700 1    |a Zainer, Johannes    |d 14XX-1527    |0 (DE-588)118643479    |e Drucker    |4 prt    
+700 1 2  |a Ferrariis, Albertus <<de>>    |t De horis canonicis    |0 (DE-588)1142945820    
+710 2    |a Kloster Thorberg    |0 (DE-588)7725716-9    |e Früherer Eigentümer    |4 fmo    
+751      |a Ulm    |0 (DE-588)4061529-7    
+852 4    |b B404    |c 404U3    |j MUE Inc I 82 : 2    |9 (41SLSP_UBE)99116685425505511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 2 weiteren Drucken in Sammelband    |p 12    |j MUE Inc I 82 : 2    |b B404    |9 (41SLSP_UBE)99116685425505511    
+986      |a (41SLSP_UBE)99116685425505511    |9 (41SLSP_UBE)99116685425505511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116685425505511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

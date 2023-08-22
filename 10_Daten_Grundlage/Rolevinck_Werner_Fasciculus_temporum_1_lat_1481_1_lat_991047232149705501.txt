@@ -1,0 +1,133 @@
+﻿<-1-1-START->
+Rolevinck, Werner
+<-1-1-STOP->
+
+<-1-2-START->
+Fasciculus temporum
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Herausgegeben vom Drucker Heinrich Wirczburg<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Rougemont: Heinrich Wirczburg, 1481
+<-3-1-STOP->
+
+<-4-1-START->
+191 ungezählte Seiten: Illustrationen; 29 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M38708.htm<-L-5-STOP-><-VI-5-START->GW M38708<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ir00266000<-L-5-STOP-><-VI-5-START->ISTC ir00266000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+96 von 96 Blättern, Illustrationen und Medaillons mit Namen historischer Personen koloriert, Anfangs-Initiale auf Blatt [b₁] recto ausgezeichnet, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert), Linien-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116865625105511<-L-11-STOP-><-VI-11-START->MUE Inc IV 18<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991047232149705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Rolevinck, Werner<-P-STOP->
+<-P-START->Wirczburg, Heinrich<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Rougemont<-O-STOP->
+<-P-START->Wirczburg, Heinrich<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991047232149705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 18<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05207nam a2200529 c 4500
+001 991047232149705501
+005 20211215163619.0
+008 170523s1481    sz |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/23.05.2017/B404/vha    
+035      |a (swissbib)069439877-41slsp_network    
+035      |a 069439877    |9 ExL    
+035      |a (IDSBB)006701418DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991047232149705501    
+035      |a (41SLSP_UBE)99116865625105511    |9 (41SLSP_UBE)99116865625105511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Rolevinck, Werner    |d 1425-1502    |0 (DE-588)118749536    |e Verfasser    |4 aut    
+245 1 0  |a Fasciculus temporum    
+246 1    |i Kolophon    |a Chronica que dicit[ur] fasciculus t[em]p[oru]m    
+246 1    |i Kolophon in normalisierter Form    |a Chronica que dicitur fasciculus temporum    
+246 1 3  |a Chronica quae dicitur fasciculus temporum    
+264   1  |a In prioratu rubeimo[n]tis. ordinis cluniacen[sis]    |b per humile[m] vi[rum] fr[atr]em heinricu[m] wirczburg de vach monachu[m]    |c Anno d[omi]ni. Mcccclxxxi. ... [1481]    
+300      |a 191 ungezählte Seiten    |b Illustrationen    |c 29 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Herausgegeben vom Drucker Heinrich Wirczburg    
+500      |a Impressum gemäss Kolophon; Reihenfolge der Vorlage: "Chronica que dicit[ur] fasciculus t[em]p[oru]m edita in alma vniuersitate colonie agrippine sup[er] renu[m]. a quoda[m] deuoto cartusiensi finit feliciter. Sepi[us] quide[m] ia[m] impressa. sed neglige[n]tia corrector in diuersis locis a vero originali min[us] iuste eme[n]data. Nunc vero non sine magno labore ad p[ri]stinu[m] statu[m] reducta. cu[m] quibusda[m] additionib[us]. per humile[m] vi[rum] fr[atr]em heinricu[m] wirczburg de vach monachu[m]. in prioratu rubeimo[n]tis. ordinis cluniacen[sis]. sub lodouico gruerie comite magnifico Anno d[omi]ni. Mcccclxxxi. Et anno p[rae]cedenti fueru[n]t aqua[rum] inu[n]datio[n]es maxi[m]e. ventusq[ue] horribiles. multa edifitia subuerte[n]tes"    
+500      |a Signaturformel: [a⁶, b-e⁸, f⁶, g-h⁸, i⁶, k-m⁸, n⁶]    
+500      |a Blatt [n₆] verso (letzte Seite) unbedruckt    
+510 4    |a GW    |c M38708    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M38708.htm    
+510 4    |a ISTC    |c ir00266000    |u http://data.cerl.org/istc/ir00266000    
+530      |a Digitalisat (Exemplar der Bibliothèque Nationale de France, Paris)    |u http://gallica.bnf.fr/ark:/12148/btv1b7300074x/f5.item    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert), Linien-Blindprägung auf beiden Deckeln, Linien-Goldprägung sowie Titelschild in Goldprägung auf dem Rücken: "Fasciculus Temporum 1481"    
+563      |a Vorsätze: vorne und hinten mit zwei fliegenden Blättern, mit Marmorpapier    
+563      |a Masse Einband: 28.5 x 20.9 x 2.5 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, vorderes Vorsatz im Falz mit Japanpapier stabilisiert    
+590      |a Buchblockbeschreibung: 96 von 96 Blättern, handschriftliche Lagensignatur (gemäss GW) in Graphit ab Lage [b], jeweils auf der ersten Recto-Seite der Lage unten rechts; handschriftliche Foliierung, von 1 bis 96, auf den Recto-Seiten rechts oben; Illustrationen und Medaillons mit Namen historischer Personen koloriert; Anfangs-Initiale auf Blatt [b₁] recto ausgezeichnet, Rubrizierung    
+590      |a Zustand Buchblock: Massive Tintenüberzeichnung mit Tintenfrass und Ausbrüchen sowie Japanpapier-Hinterklebung an Schmuckvignette auf dem Titelblatt [a₁], mit Textverlust bei einem Teil des Register auf der Rückseite ([a₁] verso); Falz zwischen vorletztem und letztem Blatt, [n₅] und [n₆], mit Japanpapier stabilisiert; starke Korrosion mit Fehlstellen im Falz an Lage [k] von ehemals eingelegtem Metall zwischen Blättern [k₃] und [k₄]; letztes Blatt [n₆] vollflächig mit blau getöntem Papier kaschiert und an Vorsatzlage vorgeklebt    
+590      |a Auf der Titelseite unter dem Titel handschriftlich ergänzt in Tinte: "Cronographia, Anni Milesimj Quadringentesimj Octuagesimj Primj ad pristinum statum redacta. Per Fratrem Henricum Würtzburg monachum in Prioratu Rubeimontis Ordinis Cluniacensium. Sub Ludouico Gruerie Comite magnifico, anno vt supra. M. Quadringentesimo Octuagesimo Primo."    
+590      |a Von anderer Hand darunter: "Coloniae 1481" (in gezeichneter Schmuckvignette)    
+590      |a Handschriftliche Annotationen in Tinte im Text, vereinzelt Zeichnungen (Blatt [k₈] recto, Zeichnung des Torhauses aus nebenstehendem Holzschnitt des Klosters Cluny; Blatt [m₃] verso: Zeichnung eines Mönchs, nach Holzschnitt auf der Seite)    
+590      |a Historische Signatur auf der Titelseite: "are./89."    
+590      |a Frühere Signatur: Inc 80    
+700 1    |a Wirczburg, Heinrich    |d -1512    |0 (DE-588)1019156147    |e Herausgeber    |4 edt    
+700 1    |a Wirczburg, Heinrich    |d -1512    |0 (DE-588)1019156147    |e Drucker    |4 prt    
+700 1 2  |a Rolevinck, Werner    |d 1425-1502    |t Fasciculus temporum    |0 (DE-588)7539276-8    
+751      |a Rougemont    |0 (DE-588)7559144-3    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 18    |9 (41SLSP_UBE)99116865625105511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc IV 18    |b B404    |9 (41SLSP_UBE)99116865625105511    
+986      |a (41SLSP_UBE)99116865625105511    |9 (41SLSP_UBE)99116865625105511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116865625105511    
+991      |a AAK: 00751980    |5 IZ UBE/23.05.2017/B404/vha    |9 LOCAL    |9 (41SLSP_UBE)99116865625105511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

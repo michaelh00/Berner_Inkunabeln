@@ -1,0 +1,144 @@
+﻿<-1-1-START->
+Vocabularius familiaris et compendiosus
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Rouen: Guillaume Le Talleur, zwischen 1487 und 1490]
+<-500-START->Erscheinungszeitraum gemäss GW: um 1485/87<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+672 ungezählte Seiten; 29 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M51275.htm<-L-5-STOP-><-VI-5-START->GW M51275<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/iv00328200<-L-5-STOP-><-VI-5-START->ISTC iv00328200<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+335 von 336 Blättern, rot und blau ausgezeichnete Initialen
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (grün, Velours), Linien-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jehan Maupin; J. Poyer; Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Blatt K₉ fehlt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116786558405511<-L-11-STOP-><-VI-11-START->MUE Bong IV 866<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991140457709705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Rouen<-O-STOP->
+<-P-START->Le Talleur, Guillaume<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-P-START->Maupin, Jehan<-P-STOP->
+<-P-START->Poyer, J.<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991140457709705501<-DOI-STOP->
+<-SIGN-START->MUE Bong IV 866<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04600nam a2200601 c 4500
+001 991140457709705501
+005 20211215203352.0
+007 cr#|||||||||||
+008 100805m14871490fr            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/09.05.2019/B404/faf    
+024 7    |a 10.3931/e-rara-88387    |2 doi    
+035      |a (swissbib)062425072-41slsp_network    
+035      |a 062425072    |9 ExL    
+035      |a (IDSBB)005288342DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991140457709705501    
+035      |a (41SLSP_UBE)99116786558405511    |9 (41SLSP_UBE)99116786558405511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+041 0    |a fre    |a lat    
+130 0    |a Vocabularius familiaris et compendiosus    |0 (DE-588)1185712933    
+245 1 0  |a Vocabularius familiaris et compendiosus ex summa ianue[n]sis (vulgariter catholico[n] dicta) ac papia/ hug. necnon aliis autorib[us] q[uam]plurimis excerptus/ et diligenter emendatus: finit feliciter    
+246 1    |i Titel in normalisierter Form    |a Vocabularius familiaris et compendiosus ex summa Ianuensis (vulgariter catholicon dicta) ac Papia, Hug. necnon aliis autoribus quamplurimis excerptus et diligenter emendatus finit feliciter    
+246 1    |i Incipit    |a Vocabularius familiaris et compendiosus ex su[m]ma ianuensis/ vulgariter catholicon dicta/ et huguicione ac papia presertim excerptus/ circa scriptura[m] sacra[m] q[uam]primum atq[ue] gra[m]maticaliter insiste[n]s: feliciter i[n]cipit    
+246 1    |i Incipit in normalisierter Form    |a Vocabularius familiaris et compendiosus ex summa Ianuensis, vulgariter catholicon dicta, et Huguicione ac Papia presertim excerptus circa scripturam sacram quamprimum atque grammaticaliter insistens feliciter incipit    
+264   1  |a [Rouen]    |b [Guillaume Le Talleur]    |c [zwischen 1487 und 1490]    
+300      |a 672 ungezählte Seiten    |c 29 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+337      |b c    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+338      |b cr    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss Explicit    
+500      |a Impressum gemäss ISTC; Erscheinungszeitraum gemäss GW: um 1485/87    
+500      |a Signaturformel: a-k¹⁰, l⁸, m⁶, A-N¹⁰, O¹², o¹⁰, P¹⁰, p¹⁰, Q¹⁰, q⁸, R-S¹⁰, T¹²    
+510 4    |a GW    |c M51275    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M51275.htm    
+510 4    |a ISTC    |c iv00328200    |u http://data.cerl.org/istc/iv00328200    
+561      |a Handschriftlicher Besitzvermerk auf Blatt a₁ recto: "Bongars"; auf Blatt T₁₂ verso diverse handschriftliche Einträge und Namenszüge in Tinte, davon lesbar: "Jehan maupin", "JPoyer"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (grün, Velours), Linien-Blindprägung auf beiden Deckeln, Titeldruck in Goldprägung auf dem Rücken: "Vocabvlarivs"    
+563      |a Vorsätze: Vorne und hinten mit drei fliegenden Blättern    
+563      |a Masse Einband: 29 x 21.5 x 6.3 cm    
+563      |a Zustand Einband: Schädlingsfrass an Vordeckel und Einbandrücken, Einbandleder nachträglich grün eingefärbt    
+590      |a Buchblockbeschreibung: 335 von 336 Blättern, rot und blau ausgezeichnete Initialen (fehlend auf Blatt h₁ verso)    
+590      |a Zustand Buchblock: Büttenpapier-Ergänzung an abgerissenem unterem Fünftel von Blatt a₁, zahlreiche Verfleckungen, Feuchtigkeitsränder an Lagen a und R, Schädlingsfrass an Lage a, rot und blau ausgezeichnete Initialen an Blättern a₁ recto, T₁₁ verso und T₁₂ recto mit Farbabrieb und Abklatschbildung an gegenüberliegenden Seiten, Fehlstelle an Blatt f1    
+590      |a Unvollständiges Exemplar: Blatt K₉ fehlt    
+590      |a Wenige handschriftliche Annotationen in Tinte, Zeichnung auf Blatt S₁ verso    
+590      |a Historische Signatur auf vorderem Spiegel: "Lit. 290."; auf zweitem vorderem fliegendem Vorsatzblatt recto: "Lit. N°. 268; auf Blatt a₁ recto: "Lit. 90."    
+590      |a Frühere Signaturen: Inc 16; Inc 19; Inc II 76; VI 32    
+700 1    |a Le Talleur, Guillaume    |d 14XX-1492    |0 (DE-588)1037573293    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Maupin, Jehan    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Poyer, J.    |e Früherer Eigentümer    |4 fmo    
+751      |a Rouen    |0 (DE-588)4050751-8    
+852 4    |b B404    |c 404U3    |j MUE Bong IV 866    |9 (41SLSP_UBE)99116786558405511    
+856 4    |u https://doi.org/10.3931/e-rara-88387    |z Digitalisat in e-rara    
+900      |a IDSIxunikat    
+900      |a IDSIxhybrid-el    
+900      |a NOMERGEALEX    
+949      |i ZB Inc II 76    |c 404U3    |p 12    |j MUE Bong IV 866    |b B404    |9 (41SLSP_UBE)99116786558405511    
+986      |a (41SLSP_UBE)99116786558405511    |9 (41SLSP_UBE)99116786558405511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116786558405511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116786558405511    
+990      |f erarabe    |9 local    |9 (41SLSP_UBE)99116786558405511    
+990      |f lza-cc0    |9 local    |9 (41SLSP_UBE)99116786558405511    
+991      |a Bongars: 14519    |5 IZ UBE/B400/05.08.2010    |9 local    |9 (41SLSP_UBE)99116786558405511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

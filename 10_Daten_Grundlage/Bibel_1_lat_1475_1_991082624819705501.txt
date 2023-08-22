@@ -1,0 +1,149 @@
+﻿<-1-1-START->
+Bibel [lateinisch]
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Biblia Vulgata mit der Übersetzung des Hieronymus, sowie seinen Prologen und Briefen an Paulinus von Nola und Papst Damasus I.<-500-STOP->
+<-500-START->Mit Brief von Menardus Eisnacensis an Jakob von Eisenach (auch unter dem Titel "Generalis et compendiosa librorum bibliae notitia")<-500-STOP->
+<-500-START->Dahinter Verse von Guido Vicentius aus der Margarita bibliae ("Qui memor esse cupit librorum bibliotece ...")<-500-STOP->
+<-500-START->Mit Tabula canonum<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Basel]: [Bernhard Richel], 1475
+<-3-1-STOP->
+
+<-4-1-START->
+920 ungezählte Seiten: Holzschnittinitialen; 43 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_B-418.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-418<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/GW04215.htm<-L-5-STOP-><-VI-5-START->GW 04215<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/ib00540000<-L-5-STOP-><-VI-5-START->ISTC ib00540000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+460 von 460 Blättern, Holzschnittinitialen rot und grün koloriert, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (rot, Ziege, Alaun) mit Langriemen-Schliessen und Buckelbeschlägen auf beiden Deckeln, Spuren einer vormaligen Kettenöse am oberen Rand des Rückdeckels, Linien- und Stempel-Blindprägung auf beiden Deckeln; Buchbinder: Hans Leman
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Kloster Thorberg
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116927662405511<-L-11-STOP-><-VI-11-START->MUE Inc II 28<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991082624819705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Hieronymus, Sophronius Eusebius<-P-STOP->
+<-P-START->Menardus Eisnacensis<-P-STOP->
+<-P-START->Capello, Guido<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Richel, Bernhard<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-P-START->Leman, Hans<-P-STOP->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Kloster Thorberg<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991082624819705501<-DOI-STOP->
+<-SIGN-START->MUE Inc II 28<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 07567nam a2200649 c 4500
+001 991082624819705501
+005 20211215184200.0
+008 130911s1475    gw            00| | ger  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/11.09.2013/B400/vha    
+035      |a (swissbib)066258847-41slsp_network    
+035      |a 066258847    |9 ExL    
+035      |a (IDSBB)006168923DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991082624819705501    
+035      |a (41SLSP_UBE)99116927662405511    |9 (41SLSP_UBE)99116927662405511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a lat    |h grc    |h heb    
+130 0    |a Bibel    |0 (DE-588)4006406-2    
+245 1 0  |a [Biblia]    
+264   1  |a [Basel]    |b [Bernhard Richel]    |c 1475    
+300      |a 920 ungezählte Seiten    |c 43 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Vulgata-Übersetzung, mit Brief an Paulinus und Prologen zu den biblischen Büchern von Hieronymus    
+500      |a Mit Brief von Menardus Eisnacensis an Jakob von Eisenach (auch unter dem Titel "Generalis et compendiosa librorum bibliae notitia"; Blatt [cc₁] recto bis [cc₄] verso)    
+500      |a Am Ende des Briefes von Menardus Verse von Guido Vicentius aus der Margarita bibliae ("Qui memor esse cupit librorum bibliotece ...")    
+500      |a Mit Tabula canonum (Blätter [cc₅] und [cc₆])    
+500      |a Drucker und Druckort gemäss BSB-Ink, GW und ISTC; Druckjahr auf Blatt [bb₁₀] verso (mit älteren arabischen Ziffern)    
+500      |a Signaturformel: [a–g¹⁰, h⁸, i–r¹⁰, s⁸, t⁶, v–y¹⁰, z⁸, A⁶, B–N¹⁰, O-P⁶, Q–S¹⁰, T-V⁸, X–Z¹⁰, aa-bb¹⁰, cc⁶]    
+500      |a Holzschnittinitialen; Incipit und Explicit der biblischen Bücher jeweils rot gedruckt    
+510 4    |a BSB-Ink    |c B-418    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_B-418.html    
+510 4    |a GW    |c 04215    |u https://www.gesamtkatalogderwiegendrucke.de/docs/GW04215.htm    
+510 4    |a ISTC    |c ib00540000    |u https://data.cerl.org/istc/ib00540000    
+530      |a Digitalisat (Exemplar der Universitätsbibliothek Basel)    |u https://doi.org/10.3931/e-rara-18240    
+561      |a Band aus dem Kloster Thorberg (Signatur auf dem Rücken)    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (rot, Ziege (Alaun)) mit Langriemen-Schliessen und Buckelbeschlägen auf beiden Deckeln, Spuren einer vormaligen Kettenöse am oberen Rand des Rückdeckels, Linien- und Stempel-Blindprägung auf beiden Deckeln, Papiertitelschild mit Titel und Signatur des Klosters Thorberg längs über Rücken geklebt; Titel in schwarzer Tinte: "Biblia bona", Signatur, in Rot: "D X"    
+563      |a Vorsätze: vorne mit drei, hinten mit sechs fliegenden Blättern    
+563      |a Masse: 40.2 x 30.8 x 14.3 cm    
+563      |a Zustand Einband: Massiver Schädlingsfrass an den Deckeln (am Rückdeckel stärker), Lederüberklebungen am Rücken, Langriemenschliesse ergänzt, Schriftspuren einer zeitgenössischen Handschrift an den Innendeckeln von herausgelösten Spiegeln, vorne mit einem Stempel (Lilie im Kreis), Japanpapierüberklebungen an beiden Deckeln im Falz, Loch von vormaliger Ankettung mit Korrosionsbildung am Rückdeckel    
+563      |a Einbandfragmente aus diesem Band in der Burgerbibliothek, Signatur BBB Cod. 756.15 (Urkunde, Rotulus, 1 Bl., hs., Pergament, lat., 15. Jht.) und BBB Cod. 847.13 (Privaturkunde Meiringen, 1 Bl., hs., Pergament, dt., um 1330)    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 460 von 460 Blättern, handschriftliche Lagensignatur und - auf einzelnen Seiten zu Lagenbeginn - Foliierung in Tinte (zeitgenössisch, beide häufig durch Beschnitt nur zum Teil sichtbar oder verloren), sowie spätere handschriftliche Lagensignatur (gemäss GW) in Graphit, jeweils auf dem ersten Blatt jeder Lage unten rechts; Pergamentverstärkung (Velours, teilweise mit Schriftresten) in den Lagenmitten der ersten und letzten Lage sowie in beiden Vorsatzlagen, Papierfälze vor den vorderen  fliegenden Blättern gehören zur Vorsatzkonstruktion (zu abgetrennten Blättern der Vorsatzlage); Lagenstruktur [a] (Blätter [a₁]-[a₁₀] und Blatt [b₁]): Blatt [b₁] ist um Lage [a] gehängt, Papierfalz vor Blatt [a₁] gehört zu Blatt [b₁]; Struktur Lage [b] (Blätter [b₂]-[b₁₀]): Drei Papierfälze vor Blatt [b₂] gehören zu Blättern [b₈]-[b₁₀], zwei Papierfälze zwischen Blättern [b₇] und [b₈] gehören zu Blättern [b₂] und [b₃]; Lesebändchen aus Spaltleder (ähnlich wie einzelne Blattweiser oder Stabilisierungen an Blattweisern) vor Blatt [bb₁₀], mit Abrissspuren an beiden Enden (oben evtl. von einer Knotung); Holzschnittinitialen rot und grün koloriert, Rubrizierung, Blattweiser aus Pergament und Leder, auch am Fussschnitt    
+590      |a Zustand Buchblock: Heftung in Lage [b] gerissen, Blattweiser aus Leder teilweise abgerissen und durch Schnur ergänzt; verschiedene Blätter leicht beschädigt (Risse oder kleinere Ausrisse am Rand), einige Blätter mit Papierverstärkungen oder Reparaturen an den Rändern, zum Beispiel Blatt [h₁] unten (Rest eines Blattweisers) oder Blatt [x₁₀] aussen    
+590      |a Lage [cc] (Brief von Menardus und "Tabula canonum") an den Anfang gebunden    
+590      |a Signaturformel der handschriftlichen Lagensignatur in Tinte: a⁶, b-h¹⁰, i⁸, k–r¹⁰, z¹⁰, [langes s]⁸, s⁶, t¹⁰, v¹⁰, u¹⁰, w⁸, x⁶, y-z¹⁰, D–K¹⁰, L-M⁶, N–P¹⁰, Q-R⁸, S–Y¹⁰    
+590      |a Lage a der handschriftlichen Lagensignatur ist Lage [cc] der Signaturformel gemäss GW; Blätter b₁-b₃ ([a₁]-[a₂] gemäss GW) als b₂-b₄ bezeichnet    
+590      |a Einzelne Buchstaben (Tagesbuchstaben für die Lesung im Kloster?) in roter Tinte am Rand; sehr wenige handschriftliche Annotationen in roter Tinte, zum Beispiel Blatt [h₁] recto, das Wort "Diui" oder Blatt [o₂] recto: (Klammer um mehrere Zeilen des Texts und das Wort "vacat"    
+590      |a Ein Testamentfragment aus dieser Inkunabel liegt im Staatsarchiv: StABE, Fach Varia II, Gommerkinden, 1355.10.16 (lückenhaftes Fragment eines Testaments der (Deutschordens-)Schwester Mechtild von Gommerkinden (Gomerkinden), gesessen zu Bern    
+700 1    |a Hieronymus, Sophronius Eusebius    |d 345-420    |0 (DE-588)118550853    |e Übersetzer    |e Verfasser von ergänzendem Text    |4 trl    |4 wst    
+700 0    |a Menardus    |c Eisnacensis    |0 (DE-588)102518688    |e Verfasser von ergänzendem Text    |4 wst    
+700 0 2  |a Menardus    |c Eisnacensis    |t Generalis et compendiosa librorum bibliae notitia    |0 (DE-588)1196384738    
+700 1    |a Capello, Guido    |d -1332    |0 (DE-588)102425981    |e Verfasser von ergänzendem Text    |4 wst    
+700 0    |a Jakob    |c von Eisenach    |d ca. 15. Jh.    |0 (DE-588)129032735    |e Widmungsempfänger    |4 dte    
+700 1    |a Richel, Bernhard    |d -1482    |0 (DE-588)136009115    |e Drucker    |4 prt    
+710 2    |a Kloster Thorberg    |0 (DE-588)7725716-9    |e Früherer Eigentümer    |4 fmo    
+730 0    |a Bibel    |g Vulgata    |0 (DE-588)4188770-0    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc II 28    |9 (41SLSP_UBE)99116927662405511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc II 28    |b B404    |9 (41SLSP_UBE)99116927662405511    
+986      |a (41SLSP_UBE)99116927662405511    |9 (41SLSP_UBE)99116927662405511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116927662405511    
+991      |a AAK: 88097    |5 IZ UBE/11.09.2013/B400/vha    |9 local    |9 (41SLSP_UBE)99116927662405511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

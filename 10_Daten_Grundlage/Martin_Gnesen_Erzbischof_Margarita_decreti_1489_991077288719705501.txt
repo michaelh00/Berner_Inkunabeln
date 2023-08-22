@@ -1,0 +1,131 @@
+﻿<-1-1-START->
+Martin (Erzbischof von Gnesen)
+<-1-1-STOP->
+
+<-1-2-START->
+Margarita decreti
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Straßburg: [Georg Husner], 13.06.1489
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 208 ungezählte Seiten, 1 ungezähltes Blatt; 30 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_M-234.html<-L-5-STOP-><-VI-5-START->BSB-Ink M-234<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M21426.htm<-L-5-STOP-><-VI-5-START->GW M21426<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/im00325000<-L-5-STOP-><-VI-5-START->ISTC im00325000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+106 von 106 Blättern, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Kalb) mit Schliessen und Spuren einer vormaligen Kettenöse am oberen Rand des Rückdeckels, Platten-Blindprägung (Platten wie bei MUE Inc III 59) und Linien-Blindprägung an beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 3 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116774622305511<-L-11-STOP-><-VI-11-START->MUE Inc IV 23 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991077288719705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Martin (Erzbischof von Gnesen)<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Husner, Georg<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991077288719705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 23 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03996nam a2200529 c 4500
+001 991077288719705501
+005 20211215181910.0
+008 130501s1489    fr            00| | lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/25.10.2016/B404/az    
+035      |a (swissbib)066214955-41slsp_network    
+035      |a 066214955    |9 ExL    
+035      |a (IDSBB)006121861DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991077288719705501    
+035      |a (41SLSP_UBE)99116774622305511    |9 (41SLSP_UBE)99116774622305511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Martin    |c Gnesen, Erzbischof    |d -1278    |0 (DE-588)118782223    |e Zusammenstellender    |4 com    
+240 1 0  |a Margarita decreti    
+245 1 0  |a Margarita decreti seu tabula martiniana decreti    
+246 1 0  |a Tabula martiniana decreti    
+246 1    |i Kopftitel auf Blatt a₂ recto    |a Margarita decreti seu tabula martiniana edita p[er] fratre[m] Martinu[m] ordinis p[re]dicatorum. domini pape penitentiariu[m] [et] capellanum    
+246 1    |i Explicit    |a Explicit Margarita Decreti que Martiniana vocat[ur]. edita p[er] venerabile[m] viru[m] fr[atr]em Martinum ordinis p[re]dicato[rum] summi pontificis penite[n]tiarium [et] capellanu[m]    
+264   1  |a Impressa Argentine    |b [Georg Husner]    |c Anno Domini .M.cccc.lxxxix. Finita in die sabbati post penth[ecosten] [13.06.1489]    
+300      |a 1 ungezähltes Blatt, 208 ungezählte Seiten, 1 ungezähltes Blatt    |c 30 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Druckort und Druckdatum gemäss Explicit    
+500      |a Drucker gemäss BSB-Ink, GW und ISTC (dort teils angegeben als Drucker des Jordanus von Quedlinburg, mittlerweile mit Georg Husner identifiziert)    
+500      |a Signaturformel: a⁸, b-q⁶, r⁸    
+500      |a Blatt r₈ ist unbedruckt    
+510 4    |a BSB-Ink    |c M-234    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_M-234.html    
+510 4    |a GW    |c M21426    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M21426.htm    
+510 4    |a ISTC    |c im00325000    |u https://data.cerl.org/istc/im00325000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/0007/bsb00070731/images    
+563      |a Ganzbezogener Ledereinband auf Kartondeckeln (braun, Kalb) mit Schliessen und Spuren einer vormaligen Kettenöse am oberen Rand des Rückdeckels, Platten-Blindprägung (Platten wie bei Inc III 59) und Linien-Blindprägung an beiden Deckeln, Papiertitelschild in Blindprägung auf dem Rücken: "Margarita Decreti"    
+563      |a Vorsätze: Hinten mit einem fliegenden Blatt aus dickem Japanpapier    
+563      |a Masse Einband: 29.2 x 20.8 x 7.6 cm    
+563      |a Zustand Einband: Lederrücken neu bezogen (unter Original-Einbandleder der Deckel gezogen) mit aufgeklebten Fragmenten des Original-Einbandleders, ergänzte Schliessenriemen und Schliessenhaken, Loch im Rückdeckel von vormaliger Ankettung, beide Vorsätze inkl. Spiegel ergänzt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 106 von 106 Blättern, Papierfalz vor Blatt b₁ gehört zur ursprünglichen Vorsatzkonstruktion, rot ausgezeichnete Initialen, Rubrizierung    
+590      |a Zustand Buchblock: Blatt a₁ vollständig und Blatt a₂ teilweise aus dem Lagenverbund gerissen, Blätter bis a₄ mit starken Wellen und Knautschungen im Falzbereich, Schwachstellen im Papier (Schöpffehler an Blatt b₄, Bruch an Blatt c₂)    
+590      |a Zusammengebunden mit 3 weiteren Drucken in Sammelband    
+590      |a Historische Signatur auf der Titelseite: "Iur. Pol. 100"    
+590      |a Frühere Signatur: Inc 100    
+700 1    |a Husner, Georg    |d 14XX-1505    |0 (DE-588)136216064    |e Drucker    |4 prt    
+700 0 2  |a Martin    |c Gnesen, Erzbischof    |d -1278    |t Margarita decreti    |0 (DE-588)111704694X    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 23 : 1    |9 (41SLSP_UBE)99116774622305511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 3 weiteren Drucken in Sammelband    |p 12    |j MUE Inc IV 23 : 1    |b B404    |9 (41SLSP_UBE)99116774622305511    
+986      |a (41SLSP_UBE)99116774622305511    |9 (41SLSP_UBE)99116774622305511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116774622305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

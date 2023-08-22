@@ -1,0 +1,147 @@
+﻿<-1-1-START->
+Herolt, Johannes
+<-1-1-STOP->
+
+<-1-2-START->
+Sermones de tempore; Sermones de sanctis; Promptuarium exemplorum secundum ordinem alphabeti; Promptuarium de miraculis Beatae Mariae Virginis
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Basel: Nicolaus Kessler, 02.03.1486
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 470 ungezählte Seiten, 1 ungezähltes Blatt, 288 ungezählte Seiten, 1 ungezähltes Blatt: Druckermarke; 35 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_H-200.html<-L-5-STOP-><-VI-5-START->BSB-Ink H-200<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/GW12359.htm<-L-5-STOP-><-VI-5-START->GW 12359<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ih00113000<-L-5-STOP-><-VI-5-START->ISTC ih00113000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+380 von 382 Blättern, rot ausgezeichnete Initialen, Rubrizierung (mit Ausnahmen)
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert) mit braunem Sprenkelpapier
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: S. Brüggler
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: unbedruckte Blätter Ll₆ und v₈ fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116709269905511<-L-11-STOP-><-VI-11-START->MUE Inc II 44<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991001330479705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Herolt, Johannes<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Kessler, Nicolaus<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Brüggler, S.<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991001330479705501<-DOI-STOP->
+<-SIGN-START->MUE Inc II 44<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06446nam a2200661 c 4500
+001 991001330479705501
+005 20211215171811.0
+007 cr#|||||||||||
+008 191113s1486    sz |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/14.11.2019/B404/vha    
+024 7    |a 10.3931/e-rara-89626    |2 doi    
+035      |a (swissbib)075897016-41slsp_network    
+035      |a 075897016    |9 ExL    
+035      |a (IDSBB)007133687DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991001330479705501    
+035      |a (41SLSP_UBE)99116709269905511    |9 (41SLSP_UBE)99116709269905511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Herolt, Johannes    |d -1468    |0 (DE-588)100162495    |e Verfasser    |4 aut    
+240 1 0  |a Sermones de tempore et de sanctis    
+245 1 0  |a Sermones. Discipuli de tempore et de sanctis cum promptuario exemplorum    
+246 1 0  |a De tempore et de sanctis    
+246 1    |i Kolophon    |a Finit opus p[er]utilem ... p[er] venerabilem [et] deuotu[m] Johanne[m] herolt sancti dominici sectatore[m] p[ro]fessum. de temp[or]e [et] de sanctis    |b cu[m] p[ro]mptuario exemploru[m] atq[ue] tabulis suis collectu[m]    
+246 1    |i Kolophon in normalisierter Form    |a Finit opus perutilem ... per venerabilem et devotum Johannem Herolt Sancti Dominici sectatorem professum, de tempore et de sanctis    |b cum promptuario exemplorum atque tabulis suis collectum    
+264   1  |a Impressum Basilee    |b aspira[n]te deo Nicola kesler feliciter consummauit    |c Sub anno a natiuitate d[omi]ni Millesimoquadringe[n]tesimooctuagesimosexto. S[e]c[un]da die mensis Marcij Cu[n]ctipotenti [02.03.1486]    
+300      |a 1 ungezähltes Blatt, 470 ungezählte Seiten, 1 ungezähltes Blatt, 288 ungezählte Seiten, 1 ungezähltes Blatt    |c 35 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+337      |b c    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+338      |b cr    |2 rdacarrier    
+500      |a Impressum gemäss Kolophon (Blatt v₇ verso); Reihenfolge der Vorlage: "Finit opus p[er]utilem simplicibus curam animaru[m] erentibus. p[er] venerabilem [et] deuotu[m] Johanne[m] herolt sancti dominici sectatore[m] p[ro]fessum. de temp[or]e [et] de sanctis cu[m] p[ro]mptuario exemploru[m] atq[ue] tabulis suis collectu[m]. Discipulus nuncupatu[m] Impressum Basilee Sub anno a natiuitate d[omi]ni Millesimoquadringe[n]tesimooctuagesimosexto. S[e]c[un]da die mensis Marcij Cu[n]ctipotenti aspira[n]te deo Nicola kesler feliciter consummauit    
+500      |a Druckermarke unter dem Kolophon    
+500      |a Signaturformel: A⁸, B-C⁶, D⁸E⁶-Q⁸R⁶, S-T⁸, V⁶X⁸–Y⁶Z⁸, Aa⁶Bb⁸–GG⁶Hh⁸, Ii–Ll⁶; a⁸b⁶–e⁸f⁶, g–i⁸, k⁶l⁸–q⁶r⁸, s–v⁸    
+500      |a Titelblatt (A₁) verso, Blatt C₆ verso und a₁ recto unbedruckt; Blätter Ll₆ (Ende der Sermones de tempore) und v₈ (letztes Blatt) unbedruckt    
+505 0 0  |g Blatt D₁ recto    |t Sermones discipuli de tempore per circulum anni incipiu[n]t ...    |g Blatt Ff₁ recto (Sermo CXXXVII)    |t Incipiu[n]t sermones co[m]munes eiusde[m] discipuli omni temp[or]e p[re]dicabiles    |g Blatt a₂ recto    |t Prologus in sermones discipuli de sanctis p[er] circulu[m] anni incipit    |g Blatt i₁ recto    |t Incipit p[ro]logus in p[ro]mptuariu[m] exemplo[rum] discipuli s[ecundu]m ordine[m] alphabeti    |g Blatt t₁ recto    |t Prolog[us] in promptuariu[m] discipuli de miraculis beate marie v[ir]ginis incipit    
+510 4    |a BSB-Ink    |c H-200    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_H-200.html    
+510 4    |a GW    |c 12359    |u https://www.gesamtkatalogderwiegendrucke.de/docs/GW12359.htm    
+510 4    |a ISTC    |c ih00113000    |u http://data.cerl.org/istc/ih00113000    
+561      |a Handschriftlicher Besitzvermerk auf der Titelseite und auf Blatt D₁ recto: "S Brüggler"; auf Blatt D₁ zusätzlich mit Jahr: "1563"    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert) mit braunem Sprenkelpapier, Titelschild in Goldprägung sowie Linien-Blindprägung am Rücken, auf dem Titelschild: "Joh. Herolt Discipulus"; in Tinte darüber: "Basil.", darunter: "1486"    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 35.1 x 25.1 x 7.0 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, Japanpapierüberklebung im Falz des hinteren Vorsatzes    
+590      |a Buchblockbeschreibung: 380 von 382 Blättern, rot ausgezeichnete Initialen; Anfangsinitiale auf Blatt D₁ recto mit Vorzeichnng in Graphit, nicht koloriert (in der vorgezeichneten Initiale Besitzvermerk von Brüggler); Rubrizierung (ausser auf den Blättern k₂ verso bis m₆ verso, sowie in Lage n auf den Seiten n₁, n₂, n₃ und n₄ recto, sowie n₅, n₆ und n₈ verso!)    
+590      |a Zustand Buchblock: Feuchtigkeitsränder an oberen Blattkanten im Falz, rotes Farbmedium mit Abklatschbildung (Blatt A₁ recto), Papierüberklebungen an Fehlstellen der Blätter A₁ recto und L₁ verso, herstellungsbedingte Schwachstellen im Papier (Blätter Z₄, Cc₅-Cc₇, Dd₄ etc.), umgeknickte Ecke mit Beschnittrest an Blättern Dd₂ und h₂    
+590      |a Wenige handschrifliche Annotationen und Handzeichen in Tinte    
+590      |a Beigelegt ist ein loser Zettel, mit handschriftlichem lateinischem Text in Tinte auf beiden Seiten    
+590      |a Blätter Ll₆ und v₈ (beide unbedruckt) fehlen
+590      |a Frühere Signatur: Inc 341    
+700 1 2  |a Herolt, Johannes    |d -1468    |t Sermones de tempore    |0 (DE-588)1120713315    
+700 1 2  |a Herolt, Johannes    |d -1468    |t Sermones de sanctis    |0 (DE-588)1199659053    
+700 1 2  |a Herolt, Johannes    |d -1468    |t Promptuarium exemplorum secundum ordinem alphabeti    |0 (DE-588)1120713811    
+700 1 2  |a Herolt, Johannes    |d -1468    |t Promptuarium de miraculis Beatae Mariae Virginis    |0 (DE-588)1120713927    
+700 1    |a Kessler, Nicolaus    |d 1445-1519    |0 (DE-588)137735677    |e Drucker    |e Buchhändler    |4 prt    |4 bsl    
+700 1    |a Brüggler, S.    |e Früherer Eigentümer    |4 fmo    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc II 44    |9 (41SLSP_UBE)99116709269905511    
+856 4    |u https://doi.org/10.3931/e-rara-89626    |z Digitalisat in e-rara    
+900      |a IDSIxunikat    
+900      |a IDSIxhybrid-el    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc II 44    |b B404    |9 (41SLSP_UBE)99116709269905511    
+986      |a (41SLSP_UBE)99116709269905511    |9 (41SLSP_UBE)99116709269905511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116709269905511    
+990      |f erarabe    |9 local    |9 (41SLSP_UBE)99116709269905511    
+990      |f lza-cc0    |9 local    |9 (41SLSP_UBE)99116709269905511    
+991      |a AAK: 391862    |5 IZ UBE/14.11.2019/B404/vha    |9 local    |9 (41SLSP_UBE)99116709269905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,182 @@
+﻿<-1-1-START->
+Pico della Mirandola, Giovanni
+<-1-1-STOP->
+
+<-1-2-START->
+Werke [lateinisch]. — Pico della Mirandola, Giovanni Francesco: Ioannis Pici Mirandulae vita
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Widmung des Herausgebers Giovanni Francesco Pico della Mirandola (Neffe des Autors) an Ludovico Maria Sfortia, Herzog von Mailand<-500-STOP->
+<-500-START->Anschliessend an die Vita des Autors: "Epitaphium Mirandulae" und das fälschlich Thascius Caecilius Cyprianus zugeschriebene Gedicht De ligno crucis carmen (Carmen de pascha)<-500-STOP->
+<-500-START->Mit Widmungsvorrede von Giovanni Pico della Mirandola an Lorenzo de' Medici<-500-STOP->
+<-500-START->Neben den Werken und Briefen des Autors enthalten sind Briefe und Exzerpte von Robertus Salviatus, Papst Alexander VI., Antonio Cittadini, Baptista Mantuanus, Hermolaus Barbarus (Iunior), Matteo Bosso, Girolamo Donati, Battista Guarini, Christoforo Landino, Alexander Cortesius, Filippo Beroaldo, Bartolomeo Fonte, Jacobus Antiquarius, Angelo Poliziano, Marsilius Ficinus, Bartolommeo Ugolino, Iunianus Maius, Johannes Trithemius und Girolamo Savonarola<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Bernardino Vitali, 09.10.1498
+<-500-START->Kolophon von Band [1] datiert 09.10.1498, von Band [2] datiert 14.08.1498<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+2 Bände in 1: Holzschnittinitialen; 32 cm (2°)
+<-500-START->Band [1]: 288 ungezählte Seiten; Band [2]: 236 ungezählte Seiten<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_P-481.html<-L-5-STOP-><-VI-5-START->BSB-Ink P-481<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M33286.htm<-L-5-STOP-><-VI-5-START->GW M33286<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ip00634000<-L-5-STOP-><-VI-5-START->ISTC ip00634000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+Band [1]: 144 von 144 Blättern, Band [2]: 118 von 118 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Kartondeckeln (braun gesprenkelt, Schaf, 18./19. Jahrhundert) mit Sprenkelpapier (schwarz auf hellbraun)
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Opera / Giovanni Pico della Mirandola. [Venedig: Bernardino Vitali, nach 1503]
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116886747405511<-L-11-STOP-><-VI-11-START->MUE Inc III 44<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991006065309705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Pico della Mirandola, Giovanni<-P-STOP->
+<-P-START->Pico della Mirandola, Giovanni Francesco<-P-STOP->
+<-P-START->Salviatus, Robertus<-P-STOP->
+<-P-START->Alexander VI. (Papst)<-P-STOP->
+<-P-START->Cittadini, Antonio<-P-STOP->
+<-P-START->Baptista Mantuanus<-P-STOP->
+<-P-START->Barbarus, Hermolaus (Iunior)<-P-STOP->
+<-P-START->Bosso, Matteo<-P-STOP->
+<-P-START->Donati, Girolamo<-P-STOP->
+<-P-START->Guarini, Battista<-P-STOP->
+<-P-START->Landino, Cristoforo<-P-STOP->
+<-P-START->Cortesius, Alexander<-P-STOP->
+<-P-START->Beroaldo, Filippo<-P-STOP->
+<-P-START->Fonte, Bartolomeo<-P-STOP->
+<-P-START->Antiquarius, Jacobus<-P-STOP->
+<-P-START->Poliziano, Angelo<-P-STOP->
+<-P-START->Ficinus, Marsilius<-P-STOP->
+<-P-START->Ugolino, Bartolommeo<-P-STOP->
+<-P-START->Maius, Iunianus<-P-STOP->
+<-P-START->Trithemius, Johannes<-P-STOP->
+<-P-START->Savonarola, Girolamo<-P-STOP->
+<-P-START->Cyprianus, Thascius Caecilius<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Vitali, Bernardino<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991006065309705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 44<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 07179nam a2200805 ca4500
+001 991006065309705501
+005 20211215174500.0
+008 170925s1498    it |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/25.09.2017/B404/vha    
+035      |a (swissbib)073782068-41slsp_network    
+035      |a 073782068    |9 ExL    
+035      |a (IDSBB)006733989DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991006065309705501    
+035      |a (41SLSP_UBE)99116886747405511    |9 (41SLSP_UBE)99116886747405511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Pico della Mirandola, Giovanni    |d 1463-1494    |0 (DE-588)118742418    |e Verfasser    |4 aut    
+240 1 0  |a Werke    
+245 1 0  |a Ioannis Pici Mirandvlae Omnia Opera    |c [Editor:] Ioannes Franciscus Picus Mirandula    
+246 1 0  |a Omnia opera    
+246 1    |i Titel gemäss BSB-Inc    |a Opuscula    
+246 1    |i Titel gemäss GW und ISTC    |a Opera    
+246 1    |i Titel in normalisierter Form    |a Ioannis Pici Mirandulae omnia opera    
+264   1  |a Venetiis    |b Diligenter impressit Bernardinus Venetus ...    |c Anno Salutis. Mcccclxxxxviii. die. ix Octobris [9.10.1498]    
+264 2 1  |a diligenter impressit Venetiis    |b per Bernardinu[m] Venetu[m]    |c Anno salutis. M.CCCCLXXXXVIII. Die uero. XIIII. Augusti. [14.08.1498]    |3 [Teil 2]    
+300      |a 2 Teile (288, 236 ungezählte Seiten)    |c 32 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Das enthaltene Gedicht De ligno crucis carmen (Blatt A₁₀ recto; auch unter dem Titel Carmen de pascha) wurde im Mittelalter fälschlich Caecilius Cyprianus zugeschrieben    
+500      |a 1. Impressum gemäss Kolophon von Teil 1 (Blatt &₆ verso); Reihenfolge der Vorlage: "Opuscula hæc Ioannis Pici Mirandulæ Concordiæ Comitis Diligenter impressit Bernardinus Ventus. adhibita prouiribus solertia & diligentia ne ab archetypo aberraret: Venetiis Anno Salutis. Mcccclxxxxviii. die . ix. Octobris."    
+500      |a 2. Impressum gemäss Kolophon von Teil 2 (Blatt t₄ verso); Reihenfolge der Vorlage: "Disputationes has Ioannis Pici Mirandulæ co[n]cordiæ Comitis/ littera[rum] principis/ aduersus astrologos: diligenter impressit Venetiis per Bernardinu[m] Venetu[m] Anno salutis. M.CCCCLXXXXVIII. Die uero. XIIII. Augusti."    
+500      |a Teilweise Holzschnittinitialen    
+500      |a Signaturformel Teil 1: A¹⁰, A–B⁶, C–E⁴, F–Q⁶, R⁴, S–X⁶, Y⁴, Z⁶, &⁶; Teil 2: a–s⁶, t⁴, u⁶    
+505 0 0  |g (Von der Titelseite)    |t Ioannis Pici Mirandulæ uita    |r per Ioannem Franciscum Illustris principis Galeotti Pici Filium elegantissime conscripta    |t Heptaplus de opere Sex dierum geneseos    |t Deprecatoria ad Deum elegiaco carmine    |t Apologia tredecim quæstionum    |t Tractatus de ente & uno cu[m] obiectio[n]ibus quibusda[m] & respo[n]sionibus    |t Oratio quædam elegantissima    |t Epistolæ plures Ioannis Pici Mirandulæ    |t Testimonia eius uitæ & doctrinæ    |t Disputationum aduersus Astrologos libri duodecim    |t Cæcilii Cypriani episcopi Carthaginenses de ligno crucis carmen    
+505 0 0  |t Hoc in uolumine scribunt Epistolas hi uiri clarissimi: Ioannes Picus Mirandula, Io. Fran. Miran. Gal. comitis filius, Hermolaus barbarus. Angelus politianus. Frater Baptista carmelita. Matheus bossus ueronensis. Hieronymus donatus. Robertus saluiatus. Philipus beroaldus, Baptista guarinus, Christophorus landinus. Alexander cortesius. Bartholomeus fontius. Marsilius ficinus: Baccius ugolinus. Iunianus maius parthenopeus    
+510 4    |a BSB-Ink    |c P-481    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_P-481.html    
+510 4    |a GW    |c M33286    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M33286.htm    
+510 4    |a ISTC    |c ip00634000    |u http://data.cerl.org/istc/ip00634000    
+530      |a Digitalisat Teil 1 (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00078049/image_9    
+530      |a Digitalisat Teil 2 (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00078051/image_1    
+563      |a Einbandbescheibung: Halbbezogener Ledereinband auf Kartondeckeln (braun gesprenkelt, Schaf, 18./19. Jahrhundert) mit Sprenkelpapier (schwarz auf hellbraun), Linien-Goldprägung sowie Titelschild in Goldprägung auf dem Rücken: "Joannis Pici Mirandulae Omnia Opera"    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 31.5 x 22.5 x 5.4 cm    
+563      |a Zustand Einband: Schäden am Einbandleder und Einbandpapier, Fehlstellen am Sprenkelpapier farbig retuschiert    
+590      |a Buchblockbeschreibung: Teil 1: 144 von 144 Blättern, Teil 2: 118 von 118 Blättern, gesprenkelter Schnitt, vorgesehene Stellen für Initialen freigelassen, keine Rubrizierung    
+590      |a Einzige kurze handschriftliche Annotation in Tinte auf Blatt F₄ verso    
+590      |a Zusammengebunden mit: Pico della Mirandola, Giovanni Francesco: Opera. [Venedig: Bernardino Vitali, nach 1503]    
+590      |a Historische Signatur auf vorderem Spiegel: "Y. 28.a"    
+590      |a Frühere Signatur: Inc 293 : 1    
+700 1 2  |a Pico della Mirandola, Giovanni    |d 1463-1494    |t Werke    |0 (DE-588)1151674907    
+700 1 2  |a Pico della Mirandola, Giovanni Francesco    |d 1470-1533    |t Ioannis Pici Mirandulae vita    |0 (DE-588)1140463268    
+700 1    |a Pico della Mirandola, Giovanni Francesco    |d 1470-1533    |0 (DE-588)119299690    |e Herausgeber    |4 edt    
+700 1    |a Salviatus, Robertus    |d ca. -1523    |0 (DE-588)129067385    |e Verfasser von ergänzendem Text    |4 wst    
+700 0    |a Baptista    |c Mantuanus    |d 1447-1516    |0 (DE-588)118615858    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Barbarus, Hermolaus    |c Iunior    |d 1454-1493    |0 (DE-588)118657119    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Bosso, Matteo    |d 1427-1502    |0 (DE-588)100051340    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Donati, Girolamo    |d 1454-1511    |0 (DE-588)104251468    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Guarini, Battista    |d 1435-1505    |0 (DE-588)100943985    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Landino, Cristoforo    |d 1424-1498    |0 (DE-588)118569112    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Cortesius, Alexander    |d 1460-1490    |0 (DE-588)10427896X    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Beroaldo, Filippo    |d 1453-1505    |0 (DE-588)118656589    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Fonte, Bartolomeo    |d 1445-1513    |0 (DE-588)100278760    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Poliziano, Angelo    |d 1454-1494    |0 (DE-588)118595512    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Ficinus, Marsilius    |d 1433-1499    |0 (DE-588)118532855    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Ugolino, Bartolommeo    |d -1494    |0 (DE-588)1023239523    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Maius, Iunianus    |d 1430-1493    |0 (DE-588)101949022    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Cyprianus, Thascius Caecilius    |c Heiliger    |d 200-258    |0 (DE-588)118523112    |e Mitwirkender    |4 ctb    
+700 1    |a Vitali, Bernardino    |0 (DE-588)103623987X    |e Drucker    |4 prt    
+730 0    |a Carmen de pascha    |0 (DE-588)4480477-5    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Inc III 44    |9 (41SLSP_UBE)99116886747405511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 1 weiteren Druck in Sammelband    |h MUE Inc III 44 : 1    |p 12    |j MUE Inc III 44    |b B404    |9 (41SLSP_UBE)99116886747405511    
+986      |a (41SLSP_UBE)99116886747405511    |9 (41SLSP_UBE)99116886747405511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116886747405511    
+991      |a AAK: 00691158    |5 IZ UBE/25.09.2017/B404/vha    |9 LOCAL    |9 (41SLSP_UBE)99116886747405511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

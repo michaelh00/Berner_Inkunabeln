@@ -1,0 +1,142 @@
+﻿<-1-1-START->
+Antonin (Erzbischof von Florenz)
+<-1-1-STOP->
+
+<-1-2-START->
+Summa theologica
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Herausgeber gemäss Vorrede zu Teil 2: Franciscus Moneliensis<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Venetiis]: Nicolas Jenson, 1477-1480
+<-500-START->Druckdatum von Teil 2: 28.06.1480<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+4 Bände; 31 cm (2°)
+<-500-START->Teil 2: 1 ungezähltes Blatt, 640 ungezählte Seiten, 2 ungezählte Blätter<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_A-595.html<-L-5-STOP-><-VI-5-START->BSB-Ink A-595<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/GW02185.htm<-L-5-STOP-><-VI-5-START->GW 02185<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/ia00872000<-L-5-STOP-><-VI-5-START->ISTC ia00872000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+322 von 323 Blättern, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ledereinband auf Holzdeckeln (braun), mit Linien- und Ornamentrollen-Blindprägung auf beiden Deckeln, ursprünglich mit Schliessen, Eck- und Mittelbeschlägen
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Franziskanerkloster Bozen
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Nur Teil 2 vorhanden; letztes Blatt N₉ (Registrum) fehlt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99117245323005511<-L-11-STOP-><-VI-11-START->MUE GDB Gut 4<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991170844156105501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Antonin (Erzbischof von Florenz)<-P-STOP->
+<-P-START->Franciscus Moneliensis<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Jenson, Nicolas<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Franziskanerkloster Bozen<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991170844156105501<-DOI-STOP->
+<-SIGN-START->MUE GDB Gut 4<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04818nam a2200577 c 4500
+001 991170844156105501
+005 20221206160005.0
+008 220120m14771480it ||||      |00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 UBE/B404/20220120/vha    
+035      |a (EXLNZ-41SLSP_NETWORK)991170844156105501    
+035      |a (41SLSP_UBE)99117245323005511    |9 (41SLSP_UBE)99117245323005511    
+040      |a CH-ZuSLS UBE    |b ger    |e rda    
+100 1    |a Antonin    |c Florenz, Erzbischof, Heiliger    |d 1389-1459    |0 (DE-588)118897489    |4 aut    
+245 1 0  |a [Summa theologica]    
+246 1    |i Incipit von Teil 2    |a Incipit Secu[n]da pars summe maioris fratris Anthoninij archiepsicopi florentini    
+246 1    |i Incipit von Teil 2 in normierter Form    |a Incipit secunda pars summe maioris fratris Anthoninii archiepsicopi Florentini    
+246 1 0  |a Secunda pars summe maioris fratris Anthoninii archiepsicopi Florentini    
+246 1    |i Incipit des Vorworts von Teil 2    |a Proemium in secundam parte[m] summe: Clarissimi viri fratris Antonini archiepiscopi flore[n]tini ordinis predicatorum    
+246 1    |i Incipit des Vorworts von Teil 2 in normierter Form    |a Proemium in secundam partem summe clarissimi viri fratris Antonini archiepiscopi Florentini ordinis predicatorum    
+264   1  |a [Venetiis]    |b Actu[m] hoc opus ex i[n]clyta atq[ue] famosa officina Nicolai Je[n]son Gallici olympiadibus dominic[is]    |c [1477-1480]    
+300      |a 4 Bände    |c 31 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Titelaufnahme für unvollständiges Exemplar (nur Teil 2 der Ausgabe)    
+500      |a Keine Titelseite, Titel gemäss GND    
+500      |a Herausgeber in Vorrede zu Teil 2 (Blatt a₂ verso) genannt: "Francisci moneliensis in secundam partem sume fratris Antonini ep[isto]la"    
+500      |a Druckdatum im Kolophon von Teil 2: "Anno videlicet .M.cccc.lxxx. quartas Calendas Julias" [28.06.1480]    
+500      |a Umfang Teil 2: 1 ungezähltes Blatt, 640 ungezählte Seiten, 2 ungezählte Blätter    
+500      |a Signaturformel Teil 2: a–d¹⁰, e–z⁸, [et]⁸, [con]⁸, [rum]⁸, A–L⁸, M¹⁰, N⁹    
+500      |a Blätter a₁ recto und N₈ verso unbedruckt    
+510 4    |a BSB-Ink    |c A-595    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_A-595.html    
+510 4    |a GW    |c 02185    |u https://www.gesamtkatalogderwiegendrucke.de/docs/GW02185.htm    
+510 4    |a ISTC    |c ia00872000    |u https://data.cerl.org/istc/ia00872000    
+530      |a Digitalisat Teil 2 (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00045638/image_6    
+561      |a Depositum der Gesellschaft der Freunde des Gutenbergmuseums    
+561      |a Handschriftlicher Besitzvermerk auf Blatt a¹ recto: "Pro Conuentu Fra[tris] Min. reform. Bolsanensis"    
+563      |a Einbandbeschreibung: Ledereinband auf Holzdeckeln (braun), mit Linien- und Ornamentrollen-Blindprägung auf beiden Deckeln, ursprünglich mit Schliessen, Eck- und Mittelbeschlägen, Papier-Titelschild auf dem Rücken, mit Titel in Tinte: "Pars II Sum[ma] de vitiis D: Antoninio d: Præd.[?] Venetiis 1480."    
+563      |a Vorsätze: Vorne und hinten ohne fliegende Blätter    
+563      |a Masse Einband: 30.2 x 21.5 x 7.5 cm    
+563      |a Zustand Buchblock: Leder auf dem Deckel in Teilen abgelöst und zerkratzt, im Rücken gerissen, Schliessen und Beschläge fehlen, Nagellöcher zur Befestigung der Beschläge aussen und innen, an den Spiegeln, sichtbar    
+590      |a Buchblockbeschreibung von Teil 2: 322 von 323 Blättern, handschriftliche Foliierung in Tinte von Blatt a₂ recto (das ist "1.") bis Blatt c₆ recto ("25."); Pergamentverstärkung der ersten und der letzten Lage (a und N) mit Makulatur einer Notenschrift als Verstärkungsfalz beim Heften; rot ausgezeichnete Initialen, Rubrizierung, Blattweiser    
+590      |a Zustand Buchblock: Bräunung des Papiers und Feuchtigkeitsränder im oberen Teil, von Lage l bis p am äusseren Blattrand oben geringfügiger Brandschaden (Schwärzung); Vorderschnitt oben beschriftet (unleserlich)    
+590      |a Unvollständiges Exemplar: Nur Teil 2; letztes Blatt N₉ (Registrum) fehlt    
+590      |a Wenige handschriftliche Annotationen in den Lagen a und b    
+590      |a Historische Signatur auf dem Rücken unten: "G 498"    
+700 1    |a Franciscus    |c Moneliensis    |d ca. 15. Jh.    |0 (DE-588)129045136    |4 edt    |4 wst    
+700 1    |a Jenson, Nicolas    |d 1420-1480    |0 (DE-588)118917153    |4 prt    
+700 0 2  |a Antonin    |c Florenz, Erzbischof, Heiliger    |d 1389-1459    |t Summa theologica    |0 (DE-588)4431916-2    
+710 2    |a Franziskanerkloster Bozen    |0 (DE-588)1194872611    |4 fmo    
+710 2    |a Gesellschaft der Freunde des Gutenbergmuseums    |0 (DE-588)2137933-6    |4 own    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE GDB Gut 4    |9 (41SLSP_UBE)99117245323005511    
+900      |a IDSIxunikat    
+949      |c 404U3    |z Depositum der Gesellschaft der Freunde des Gutenbergmuseums    |p 12    |j MUE GDB Gut 4    |b B404    |9 (41SLSP_UBE)99117245323005511    
+986      |a (41SLSP_UBE)99117245323005511    |9 (41SLSP_UBE)99117245323005511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99117245323005511    
+990      |n HB404N2201    |9 local    |9 (41SLSP_UBE)99117245323005511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

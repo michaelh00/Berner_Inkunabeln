@@ -1,0 +1,141 @@
+﻿<-1-1-START->
+Concordantiae Bibliorum
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Früher fälschlicherweise Konrad von Halberstadt d.Ä. zugeschrieben<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Straßburg: Johann Mentelin, nicht nach 1474]
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 829 ungezählte Seiten, 1 ungezähltes Blatt; 42 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_C-497.html<-L-5-STOP-><-VI-5-START->BSB-Ink C-497<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW07418.htm<-L-5-STOP-><-VI-5-START->GW 07418<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ic00849000<-L-5-STOP-><-VI-5-START->ISTC ic00849000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+415 von 415 Blättern, rot und blau ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Einteiliger Kartoneinband ganzflächig mit Sprenkelpapier überzogen (schwarz auf hellbraun, 18. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Thüring Frickart; Kloster Thorberg
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116832611805511<-L-11-STOP-><-VI-11-START->MUE Inc I 14<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991022456049705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Conradus Halberstadensis (Senior)<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Mentelin, Johann<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Frickart, Thüring<-P-STOP->
+<-P-START->Kloster Thorberg<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991022456049705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 14<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04920nam a2200625 c 4500
+001 991022456049705501
+005 20211215172822.0
+008 130403s1474    fr            00| | lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/03.08.2017/B404/faf    
+035      |a (swissbib)063867036-41slsp_network    
+035      |a 063867036    |9 ExL    
+035      |a (IDSBB)006100314DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991022456049705501    
+035      |a (41SLSP_UBE)99116832611805511    |9 (41SLSP_UBE)99116832611805511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+130 0    |a Concordantiae Bibliorum    |0 (DE-588)1137646314    
+245 1 0  |a Expliciu[n]t co[n]corda[n]cie f[rat]ris [con]radi d[e] allema[n]ia    
+246 1 0  |a Concordancie fratris Conradi de Allemania    
+246 1    |i Incipit    |a Qvilibet volenti requirere concorda[n]cias in hoc libro ...    
+246 1    |i Incipit in normalisierter Form    |a Quilibet volenti requirere concordancias in hoc libro ...    
+264   1  |a [Straßburg]    |b [Johann Mentelin]    |c [nicht nach 1474]    
+300      |a 1 ungezähltes Blatt, 829 ungezählte Seiten, 1 ungezähltes Blatt    |c 42 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Früher fälschlicherweise Konrad von Halberstadt d.Ä. zugeschrieben    
+500      |a Keine Titelseite, Titel gemäss Explicit    
+500      |a Impressum gemäss BSB-Ink, GW und ISTC    
+500      |a Zur Datierung: In der UB Leipzig ein Exemplar mit Rubrikatorenvermerk von 1474    
+500      |a Signaturformel: 9*a¹⁰, 2*a⁸, a¹⁰, 4*b¹⁰, b⁹, 6*b¹⁰, 8*c¹⁰, c¹², 8*d¹⁰, d⁸, d¹²    
+500      |a Das erste und das letzte Blatt sind unbedruckt    
+510 4    |a BSB-Ink    |c C-497    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_C-497.html    
+510 4    |a GW    |c 07418    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW07418.htm    
+510 4    |a ISTC    |c ic00849000    |u http://data.cerl.org/istc/ic00849000    
+530      |a Digitalisat A-E (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/0010/bsb00103043/images    
+530      |a Digitalisat F-M (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/0010/bsb00103044/images    
+530      |a Digitalisat N-R (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/0010/bsb00103045/images    
+530      |a Digitalisat S-Z (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/0010/bsb00103046/images    
+561      |a Handschriftliche Notiz auf Schachtel: "Laut Aussage Dr. Specker gehörte dieser Band ursprünglich Thüring Fricker, der ihn dem Kloster Thorberg stiftete."    
+563      |a Einbandbeschreibung: Einteiliger Kartoneinband ganzflächig mit Sprenkelpapier überzogen (schwarz auf hellbraun, 18. Jh.)    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 41.6 x 29.5 x 9.5 cm    
+563      |a Zustand Einband: Schäden am Einbandpapier, retuschierte Papierüberklebungen am Rücken und den Ecken, Bünde teilweise gebrochen    
+590      |a Buchblockbeschreibung: 415 von 415 Blättern, zusätzliche handschriftliche Lagensignatur in Tinte (grösstenteils abgeschnitten), Pergamentverstärkung der ersten Lage, Papierfälze in Lage 7. c (handschriftlich G) gehören zur Lagenkonstruktion (Blätter 7. c₁ und 7. c₁₀ als Einzelblätter für Heftung gefalzt), rot und blau ausgezeichnete Initialen, Rubrizierung, handschriftliche Kolumnentitel in Rot (Anfangsbuchstaben der Stichwörter), Titel "co[n]corda[n]cie" in Tintenschrift auf dem Fussschnitt (Buch auf dem Rückdeckel liegend), Blattweiser    
+590      |a Zustand Buchblock: Heftung der ersten drei Lagen zum Teil gerissen, teilweise Schädlingsfrass    
+590      |a Bindefehler: Doppelblatt 8. a₁/8. a₁₀ in der Mitte der Lage 8. a (handschriftlich h) gebunden (mit handschriftlichen Querverweisen zur korrekten Reihenfolge)    
+590      |a Signaturformel der handschriftlichen Lagensignatur: a–i¹⁰, k-l⁸, m-q¹⁰, r₉, s-z¹⁰, A-H¹⁰, I¹², K-R¹⁰, S⁸, T¹²    
+590      |a Wenige handschriftliche Annotationen in Tinte    
+590      |a Historische Signatur auf vorderem Spiegel: "Bibl. 14."    
+590      |a Frühere Signatur: Inc 3    
+700 0    |a Conradus    |c Halberstadensis, Senior    |d ca. um 1321    |0 (DE-588)102435464    |e Verfasser    |4 aut    
+700 1    |a Mentelin, Johann    |d 1410-1478    |0 (DE-588)118783319    |e Drucker    |4 prt    
+700 1    |a Frickart, Thüring    |d 1429-1519    |0 (DE-588)104111887    |e Früherer Eigentümer    |4 fmo    
+710 2    |a Kloster Thorberg    |0 (DE-588)7725716-9    |e Früherer Eigentümer    |4 fmo    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Inc I 14    |9 (41SLSP_UBE)99116832611805511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc I 14    |b B404    |9 (41SLSP_UBE)99116832611805511    
+986      |a (41SLSP_UBE)99116832611805511    |9 (41SLSP_UBE)99116832611805511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116832611805511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

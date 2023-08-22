@@ -1,0 +1,132 @@
+﻿<-1-1-START->
+Heynlin, Johannes
+<-1-1-STOP->
+
+<-1-2-START->
+Resolutorium dubiorum circa celebrationem missarum occurrentium
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Basel: Johann Froben, 1492
+<-3-1-STOP->
+
+<-4-1-START->
+72 ungezählte Seiten; 16 cm (8°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_I-469.html<-L-5-STOP-><-VI-5-START->BSB-Ink I-469<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M07810.htm<-L-5-STOP-><-VI-5-START->GW M07810<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ij00357000<-L-5-STOP-><-VI-5-START->ISTC ij00357000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+36 von 36 Blättern, blau ausgezeichnete Initiale "T" auf Blatt a₂ recto, rot und blau ausgezeichnete Initiale "O" auf Blatt a₇ recto, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun, Ziege) mit mittiger Schliesse, Linien-, Ornamentstempel- und Ornamentrollen-Blindprägung an beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Antidotarius animae / Nicolaus de Saliceto. Straßburg: Johannes Grüninger, 1493
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116770314905511<-L-11-STOP-><-VI-11-START->MUE Inc V 195 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991018928629705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Heynlin, Johannes<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Froben, Johann<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991018928629705501<-DOI-STOP->
+<-SIGN-START->MUE Inc V 195 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05153nam a2200541 c 4500
+001 991018928629705501
+005 20221214141202.0
+008 160209s1492    sz |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/09.02.2016/B400/az    
+035      |a (swissbib)070072655-41slsp_network    
+035      |a 070072655    |9 ExL    
+035      |a (IDSBB)006479735DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991018928629705501    
+035      |a (41SLSP_UBE)99116770314905511    |9 (41SLSP_UBE)99116770314905511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Heynlin, Johannes    |d 1430-1496    |0 (DE-588)119011700    |e Verfasser    |4 aut    
+240 1 0  |a Resolutorium dubiorum circa celebrationem missarum occurrentium    
+245 1 0  |a Resolutoriu[m] dubio[rum] circa celebrationem missaru[m] occurrentiu[m]    |c p[er] vernerabile[m] patre[m] d[omi]n[u]m Joha[n]ne[m] de lapide doctore[m] Theologum parisiensem: ordinis Cartusiensis: ex sacro[rum] canon[m] p[ro]batoru[m]q[ue] docto[rum] sentenijs diligenter collectu[m]. Su[m]ma dubio[rum] in hoc op[er]e resoluto[rum] CLXVI    
+246 1    |i Kolophon (Blatt e₈ verso)    |a Resolutorij dubio[rum] circa celebratione[m] misse occurre[n]tiu[m] ... Finis    
+246 1    |i Titel im Kolophon in normierter Form    |a Resolutorii dubiorum circa celebrationem misse occurrentium ... finis    
+246 1    |i Incipit (Blatt a₇ recto)    |a Incipit tractatus dubio[rum] ac difficultatu[m] circa officium misse [et] ea q[ue] ad debita[m] eiusde[m] celebratione[m] exigunt[ur] freque[n]ti[us] occurrentiu[m]    |b iuxta sacroru[m] canonu[m] co[n]stitutiones: p[ro]batoru[m]q[ue] docto[rum] firmiores atq[ue] tutiores sente[n]tias: resolutorius    
+246 1    |i Incipit in normierter Form    |a Incipit tractatus dubiorum ac difficultatum circa officium misse et ea que ad debitam eiusdem celebrationem exiguntur frequentius occurrentium    |b iuxta sacrorum canonum constitutiones probatorumque doctorum firmiores atque tutiores sententias resolutorius    
+264   1  |a Basilee impressi: ad laudem dei    |b per Johanne[m] Froben de Ha[m]melburg    |c Anno Natiuitatis Jesu christi Mccccxcij. [1492]    
+300      |a 72 ungezählte Seiten    |c 16 cm (8°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Impressum gemäss Kolophon (Blatt e₈ verso); Reihenfolge der Vorlage: "Resolutorij dubio[rum] circa celebratione[m] misse occurre[n]tiu[m]: per Johanne[m] Froben de Ha[m]melburg Basilee impressi: ad laudem dei Finis: Anno Natiuitatis Jesu christi Mccccxcij."    
+500      |a Signaturformel: a-c⁸, d⁴, e⁸    
+500      |a Blatt a₁ (Titelblatt) verso unbedruckt    
+510 4    |a BSB-Ink    |c I-469    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_I-469.html    
+510 4    |a GW    |c M07810    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M07810.htm    
+510 4    |a ISTC    |c ij00357000    |u http://data.cerl.org/istc/ij00357000    
+530      |a Digitalisat (Exemplar der Universitätsbibliothek Basel)    |u http://dx.doi.org/10.3931/e-rara-10654    
+561      |a 1929 erworben von Taeuber & Weil, Antiquariat (München)    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun, Ziege) mit mittiger Schliesse, Linien-, Ornamentstempel- und Ornamentrollen-Blindprägung an beiden Deckeln, Linien-Blindprägung auf dem Rücken    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 15.9 x 11.1 x 4.7 cm    
+563      |a Zustand Einband: Lederüberklebungen an Rücken, Deckel und Deckelkanten mit Nachbildung der Blindprägung, Einbandleder nachgefärbt, Fehlstellen und Falz des hinteren Vorsatzes mit Japanpapier ergänzt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 36 von 36 Blättern, blau ausgezeichnete Initiale "T" auf Blatt a₂ recto, rot und blau ausgezeichnete Initiale "O" auf Blatt a₇ recto, Rubrizierung (Absatzzeichen, geschweifte Klammern, Unterstreichungen, Hervorhebung von Grossbuchstaben)    
+590      |a Zustand Buchblock: Feuchtigkeitsränder auf den Blättern; auf dem Vorderschnitt in schwarzer Tinte die Zahl "82" (oder "8Z"?)    
+590      |a Zustand Buchblock: Abrieb und Verwischungen an rotem und blauem Farbmittel der Rubrizierung und der Initialauszeichnungen, massiver Feuchtigkeitsschaden mit Brüchen und Fehlstellen im Bundsteg im unteren Viertel der Blätter zum Teil mit Papierüberklebungen stabilisiert, Tintenauftrag mit beginnendem Tintenfrass an den vorderen Blattkanten (Zahl "82"(?) in Tinte auf vorderem Schnitt), Spuren eines vormaligen Blattweisers am Titelblatt (a₁)    
+590      |a Zusammengebunden mit: Nicolaus de Saliceto: Antidotarius animae. - Straßburg : Johannes Grüninger, 1493    
+700 1 2  |a Heynlin, Johannes    |d 1430-1496    |t Resolutorium dubiorum circa celebrationem missarum occurrentium    |0 (DE-588)1125043342    
+700 1    |a Froben, Johann    |d 1460-1527    |0 (DE-588)118955179    |e Drucker    |4 prt    
+710 2    |a Taeuber & Weil, Antiquariat    |0 (DE-588)1228876-7    |e Verkäufer    |4 sll    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc V 195 : 2    |9 (41SLSP_UBE)99116770314905511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 1 weiteren Druck in Sammelband    |p 12    |j MUE Inc V 195 : 2    |b B404    |9 (41SLSP_UBE)99116770314905511    
+986      |a (41SLSP_UBE)99116770314905511    |9 (41SLSP_UBE)99116770314905511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116770314905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

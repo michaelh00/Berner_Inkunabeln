@@ -1,0 +1,146 @@
+﻿<-1-1-START->
+Johannes Calderinus
+<-1-1-STOP->
+
+<-1-2-START->
+Tabula auctoritatum et sententiarum Bibliae cum concordantiis decretorum et decretalium
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Vorwort des Herausgebers Thomas Dorniberg<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Speyer]: Peter Drach der Mittlere, 1481
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 152 ungezählte Seiten, 1 ungezähltes Blatt: Druckermarke; 28 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_C-57.html<-L-5-STOP-><-VI-5-START->BSB-Ink C-57<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW05896.htm<-L-5-STOP-><-VI-5-START->GW 05896<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ic00045000<-L-5-STOP-><-VI-5-START->ISTC ic00045000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+78 von 78 Blättern, wenige rot ausgezeichnete Initialen, teilweise Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen und Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien-, Ornamentstempel- und Ornamentrollen-Blindprägung auf beiden Deckeln; Buchbinder: Hans Leman
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Kloster Thorberg
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 2 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116684963705511<-L-11-STOP-><-VI-11-START->MUE Inc I 82 : 3<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991097615119705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Johannes Calderinus<-P-STOP->
+<-P-START->Dorniberg, Thomas<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Speyer<-O-STOP->
+<-P-START->Drach, Peter (der Mittlere)<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-P-START->Leman, Hans<-P-STOP->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Kloster Thorberg<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991097615119705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 82 : 3<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05504nam a2200649 c 4500
+001 991097615119705501
+005 20211215184311.0
+008 171031s1481    gw |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/31.10.2017/B404/faf    
+035      |a (swissbib)075056992-41slsp_network    
+035      |a 075056992    |9 ExL    
+035      |a (IDSBB)006744329DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991097615119705501    
+035      |a (41SLSP_UBE)99116684963705511    |9 (41SLSP_UBE)99116684963705511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Johannes    |c Calderinus    |d 1300-1365    |0 (DE-588)100948545    |e Zusammenstellender    |4 com    
+240 1 0  |a Tabula auctoritatum et sententiarum Bibliae cum concordantiis decretorum et decretalium    
+245 1 0  |a Biblie auctoritatu[m] et sente[n]cia[rum] q[uae] in dec[re]to[rum] et decretaliu[m] [com]pilat[i]onibus sole[n]t induci tabula    |c p[er] Joha[n]ne[m] Caldrini iuriscanonici doctorem famatissimum compilata et p[er] Thoma[m] Dorniberg de memmingen einsde[m] facultatis doctorem eximiu[m] correcta ...    
+246 1    |i Incipit (Haupttext)    |a Seriem huius tabule contine[n]tis Auc[toritat]es [et] sentencias Biblie prout in co[m]pilat[i]onibus decreto[rum] et decretaliu[m] inducuntur ...    
+246 1    |i Incipit (Haupttext) in normalisierter Form    |a Seriem huius tabule continentis auctoritates et sentencias Biblie prout in compilationibus decretorum et decretalium inducuntur ...    
+246 1    |i Incipit (Vorwort)    |a Cvm ego thomas Dorniberg de me[m]mingen decreto[rum] artiu[m]q[ue] liberaliu[m] doctor ac [con]sulatus insignis ciuitatis Spir[e]n[sis] ...    
+246 1    |i Incipit (Vorwort) in normalisierter Form    |a Cum ego Thomas Dorniberg de Memmingen decretorum artiumque liberalium doctor ac consulatus insignis civitatis Spirensis ...    
+246 1    |i Titel gemäss BSB-Ink    |a Tabula auctoritatum et sententiarum bibliae, quae in Decretorum et Decretalium compilationibus solent induci    
+246 1    |i Titel gemäss GW und ISTC    |a Concordantia sive Ambidexterium    
+246 1    |i Titel in normalisierter Form    |a Biblie auctoritatum et sentenciarum quae in decretorum et decretalium compilationibus solent induci tabula    
+264   1  |a [Speyer]    |b p[er] ... Petru[m] Drach Spire[n]sem Imp[re]ssore[m] imp[re]ssa exactissime    |c Anno d[omi]ni. M.cccc.lxxxi. explicit felicit[er] [1481]    
+300      |a 1 ungezähltes Blatt, 152 ungezählte Seiten, 1 ungezähltes Blatt    |c 28 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Vorwort des Herausgebers    
+500      |a Keine Titelseite, Titel gemäss Kolophon    
+500      |a Impressum gemäss Kolophon    
+500      |a Druckermarke am Ende    
+500      |a Signaturformel: a-b⁸, c¹⁰, d–g⁸, h⁴, i-k⁸    
+500      |a Die Blätter a₁ und k₈ sind unbedruckt    
+510 4    |a BSB-Ink    |c C-57    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_C-57.html    
+510 4    |a GW    |c 05896    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW05896.htm    
+510 4    |a ISTC    |c ic00045000    |u http://data.cerl.org/istc/ic00045000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0004/bsb00041733/images    
+561      |a Handschriftlicher Besitzvermerk auf vorderem Spiegel: "Pertinet Carthusiensibus Jn Torrberg."    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen und Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien-, Ornamentstempel- und Ornamentrollen-Blindprägung auf beiden Deckeln, handschriftlich in Tinte auf Vorderdeckel: "Fasciculus temporum. Tabula Calderini.", daneben von anderer Hand: "et De horis canonicis.", auf Rücken über verblassenden handschriftlichen Titeln rote Thorberg-Signatur: "C XVII"    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 27.9 x 20.8 x 5.7 cm    
+563      |a Zustand Einband: Loch von vormaliger Ankettung und massiver Korrosionsschaden mit Ausbrüchen am Rückdeckel, Lederüberklebungen an den Häubchen, unterer Schliessenriemen ergänzt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 78 von 78 Blättern, Pergamentverstärkung aussen an den Heftstationen der Lage k, vorgesehene Stellen für Initialen teilweise frei gelassen, wenige rot ausgezeichnete Initialen, teilweise Rubrizierung (nur bis Blatt a₅ recto)    
+590      |a Zustand Buchblock: Korrosionsschaden an den letzten Blättern von vormaliger Ankettung    
+590      |a Auf Blatt k₅ recto Name Christi in griechischen Buchstaben handschriftlich in Tinte ergänzt    
+590      |a Zusammengebunden mit 2 weiteren Drucken in Sammelband    
+590      |a Historische Signatur auf vorderem Spiegel: "Hist: Prof 386:"; auf vorderem fliegendem Vorsatzblatt recto: "Inc: 75"    
+590      |a Frühere Signatur: Inc 97    
+700 1    |a Dorniberg, Thomas    |d 1440-1497    |0 (DE-588)102761027    |e Herausgeber    |4 edt    
+700 1    |a Drach, Peter    |d 1455-1504    |0 (DE-588)124571905    |e Drucker    |4 prt    
+700 0 2  |a Johannes    |c Calderinus    |d 1300-1365    |t Tabula auctoritatum et sententiarum Bibliae cum concordantiis decretorum et decretalium    |0 (DE-588)1142948765    
+710 2    |a Kloster Thorberg    |0 (DE-588)7725716-9    |e Früherer Eigentümer    |4 fmo    
+751      |a Speyer    |0 (DE-588)4056179-3    
+852 4    |b B404    |c 404U3    |j MUE Inc I 82 : 3    |9 (41SLSP_UBE)99116684963705511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 2 weiteren Drucken in Sammelband    |p 12    |j MUE Inc I 82 : 3    |b B404    |9 (41SLSP_UBE)99116684963705511    
+986      |a (41SLSP_UBE)99116684963705511    |9 (41SLSP_UBE)99116684963705511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116684963705511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

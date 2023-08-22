@@ -1,0 +1,144 @@
+﻿<-1-1-START->
+Gregor I. (Papst)
+<-1-1-STOP->
+
+<-1-2-START->
+Regula pastoralis
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Basel: [Michael Furter], 15.02.1496
+<-3-1-STOP->
+
+<-4-1-START->
+80 ungezählte Seiten, 2 ungezählte Blätter; 24 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW11447.htm<-L-5-STOP-><-VI-5-START->GW 11447<-VI-5-STOP->; <-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_G-328.html<-L-5-STOP-><-VI-5-START->BSB-Ink G-328<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ig00441000<-L-5-STOP-><-VI-5-START->ISTC ig00441000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+42 von 42 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun, Kalb) mit mittiger Schliesse sowie Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien-Blindprägung auf beiden Deckeln, Ornamentstempel-Blindprägung auf dem Vorderdeckel, Buchbinder: Johannes Vatter
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Dominikanerkloster Bern
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 4 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116708399705511<-L-11-STOP-><-VI-11-START->MUE Inc III 84 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991090859279705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Gregor I. (Papst)<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Furter, Michael<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-P-START->Vatter, Johannes<-P-STOP->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Dominikanerkloster Bern<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991090859279705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 84 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05066nam a2200637 c 4500
+001 991090859279705501
+005 20211215180337.0
+008 160921s1496    sz |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/21.09.2016/B404/vha    
+035      |a (swissbib)070803218-41slsp_network    
+035      |a 070803218    |9 ExL    
+035      |a (IDSBB)006623067DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991090859279705501    
+035      |a (41SLSP_UBE)99116708399705511    |9 (41SLSP_UBE)99116708399705511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Gregor    |b I.    |c Papst    |d 542-604    |0 (DE-588)118541838    |e Verfasser    |4 aut    
+240 1 0  |a Regula pastoralis    
+245 1 0  |a Pastorale beati Gregorij pape    
+246 1    |i Titel in normalisierter Form    |a Pastorale beati Gregorii pape    
+246 1 0  |a Pastorale    
+246 1    |i Titel gemäss Kolophon    |a Beati Gregorij pape: Liber cure pastoralis    
+246 1 0  |a Liber cure pastoralis    
+246 1    |i Titel gemäss ISTC    |a Pastorale, sive Regula pastoralis    
+250      |a Diligenti studio eme[n]datus: ac debita distinctio[n]e partitus ...    
+264   1  |a In vrbe Basiliensi arte impressoria perfectus ...    |b [Michael Furter]    |c Sub anno domini. Millesimoquadringe[n]tesimononogesimosexto: die vero decimoqui[n]to Mensis Februarij [15.02.1496]    
+300      |a 80 ungezählte Seiten, 2 ungezählte Blätter    |c 24 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a "Beati Gregorij pape: Liber cure pastoralis insigni laude co[m]me[n]datus: diligenti studio eme[n]datus: ac debita distinctio[n]e partitus: vigilantiq[ue] cura in vrbe Basiliensi arte impressoria perfectus: feliciter explicit. Sub anno domini Millesimoquadringe[n]tesimononogesimosexto: die vero decimoqui[n]to Mensis Februarij. Laus deo." - Kolophon    
+500      |a Drucker gemäss BSB-Ink, GW und ISTC, sowie aufgrund des Kolophons in: Libri dialogorum sancti Gregorii pape, Basel: Furter, 1496    
+500      |a Signaturformel: A⁸B⁴-E⁸F⁴, G⁶    
+500      |a Blätter G₅ und G₆ unbedruckt    
+510 4    |a GW    |c 11447    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW11447.htm    
+510 4    |a BSB-Ink    |c G-328    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_G-328.html    
+510 4    |a ISTC    |c ig00441000    |u http://data.cerl.org/istc/ig00441000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00036672/image_1    
+561      |a Band aus dem ehemaligen Dominikanerkloster Bern (J. Lindt: Berner Einbände, Buchbinder und Buchdrucker, Bern, 1969)    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun, Kalb) mit mittiger Schliesse sowie Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien-Blindprägung auf beiden Deckeln, Ornamentstempel-Blindprägung auf dem Vorderdeckel    
+563      |a Auf dem Rücken Titel in Tinte (teils unleserlich): "Seb. Brant de orig. & conver... bon.reg. & laude civit... Hierosolymæ ... 1495. Gregorius I Dialogi Super Cantica. Pastorale"    
+563      |a Gemäss Johann Lindt (Berner Einbände, Buchbinder und Buchdrucker, Bern, 1969, Seite 50) Einband des Berner Dominikanermönchs Johannes Vatter    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt aus Velours-Pergament (Makulatur einer grossformatigen mittelalterlichen Notenhandschrift, auf hinterem fliegenden Blatt auch mit einem Gebet, 15. Jahrhundert)    
+563      |a Masse Einband: 23.7 x 16.6 x 7.7 cm    
+563      |a Zustand Einband: Loch und Rostspuren am Rückdeckel von vormaliger Ankettung, Unterklebung an Fehlstelle im Einbandleder des Rückdeckels, Lederüberklebungen am Rücken, vorderes Vorsatz im Falz mit Japanpapier verstärkt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 42 von 42 Blättern, vorgesehene Stellen für Initialen frei gelassen, keine Rubrizierung    
+590      |a Vor dem Titelblatt kleineres Blatt eingebunden mit handschriftlicher Notiz in Graphit: "Siehe Scelta cur.[?] Litt XXIX 224 Dati Giuliano" (19. Jahrhundert); auf der Rückseite handschriftliche Anmerkung (italienisch) in Tinte (17./18. Jahrhundert)    
+590      |a Auf der Rückseite der Titelseite handschriftliche Notiz zum Inhalt des Sammelbandes (15./16. Jahrhundert)    
+590      |a Zusammengebunden mit 4 weiteren Drucken in Sammelband    
+590      |a Historische Signaturen auf fliegendem Vorsatzblatt vorne: "Theol. Lit: b. 4[?] No. 62."; "Theol. No. 65"    
+590      |a Frühere Signatur: Inc 599    
+700 0 2  |a Gregor    |b I.    |c Papst    |d 542-604    |t Regula pastoralis    |0 (DE-588)4451195-4    
+700 1    |a Furter, Michael    |d 14XX-1517    |0 (DE-588)102766193    |e Drucker    |4 prt    
+700 1    |a Vatter, Johannes    |d 1470-1509    |0 (DE-588)1114426377    |e Buchbinder    |4 bnd    
+710 2    |a Dominikanerkloster Bern    |0 (DE-588)4302674-6    |e Früherer Eigentümer    |4 fmo    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc III 84 : 1    |9 (41SLSP_UBE)99116708399705511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 4 weiteren Drucken in Sammelband    |p 12    |j MUE Inc III 84 : 1    |b B404    |9 (41SLSP_UBE)99116708399705511    
+986      |a (41SLSP_UBE)99116708399705511    |9 (41SLSP_UBE)99116708399705511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116708399705511    
+991      |a AAK: 337867    |5 IZ UBE/21.09.2016/B404/vha    |9 LOCAL    |9 (41SLSP_UBE)99116708399705511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

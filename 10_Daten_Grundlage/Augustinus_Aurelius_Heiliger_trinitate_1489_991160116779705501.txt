@@ -1,0 +1,135 @@
+﻿<-1-1-START->
+Augustinus, Aurelius
+<-1-1-STOP->
+
+<-1-2-START->
+De trinitate
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Basel]: Johannes Amerbach, 1489
+<-3-1-STOP->
+
+<-4-1-START->
+172 ungezählte Seiten; 34 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW02926.htm<-L-5-STOP-><-VI-5-START->GW 2926<-VI-5-STOP->; <-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-877.html?pos=1&index=indexInkAuf&suche=idnocat:"A-877"&high="A-877"<-L-5-STOP-><-VI-5-START->BSB-Ink A-877<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ia01343000<-L-5-STOP-><-VI-5-START->ISTC ia01343000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+86 von 86 Blättern, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln mit mittiger Schliesse (braun, Kalb), Linien-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Kloster Thorberg
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: De civitate Dei / Aurelius Augustinus. Basel: Johann von Amerbach, 1489
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116708373905511<-L-11-STOP-><-VI-11-START->MUE Inc II 46 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991160116779705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Augustinus, Aurelius<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Amerbach, Johannes<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Kloster Thorberg<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991160116779705501<-DOI-STOP->
+<-SIGN-START->MUE Inc II 46 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04901nam a2200553 c 4500
+001 991160116779705501
+005 20230207110816.0
+008 160920s1489    sz |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/20.09.2016/B404/vha    
+035      |a (swissbib)070739366-41slsp_network    
+035      |a 070739366    |9 ExL    
+035      |a (IDSBB)006622600DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991160116779705501    
+035      |a (41SLSP_UBE)99116708373905511    |9 (41SLSP_UBE)99116708373905511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Augustinus, Aurelius    |c Heiliger    |d 354-430    |0 (DE-588)118505114    |e Verfasser    |4 aut    
+240 1 0  |a De trinitate    
+245 1 0  |a Augustinus de Trinitate    
+264   1  |a [Basel]    |b Joanne[d] De amerbach: presens qui tibi pressit opus    |c Anno domini M.cccc.lxxxix. [1489]    
+300      |a 172 ungezählte Seiten    |c 34 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Drucker gemäss Vers am Ende des Gedichts auf der letzten Seite ("Equora si penetrat ..."): "Numine sancte tuo pater o tueare Joanne[s] De amerbach: presens qui tibi pressit opus."    
+500      |a Erscheinungsjahr gemäss Explicit auf Blatt m₃ verso: "Aurelij Augustini de trinitate liber explicitus est. Anno domini M.cccc.lxxxix."    
+500      |a Ab Blatt m₃ verso: "Incipit Tabula in libros Augustini p[rae]cede[n]tes."    
+500      |a Signaturformel: a-d⁸, e⁶, f⁸, g⁶, h⁸, i⁶, k⁸, l-m⁶    
+510 4    |a GW    |c 2926    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW02926.htm    
+510 4    |a BSB-Ink    |c A-877    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-877.html?pos=1&index=indexInkAuf&suche=idnocat:"A-877"&high="A-877"    
+510 4    |a ISTC    |c ia01343000    |u http://data.cerl.org/istc/ia01343000    
+530      |a Digitalisat (Exemplar der Universitätsbibliothek Basel)    |u http://www.e-rara.ch/doi/10.3931/e-rara-12426    
+561      |a Handschriftlicher Besitzvermerk auf dem vorderen Spiegel ans Kloster Thorberg: "Hic liber p[ertine]t donne s[anc]te paule a[pud] torberg cartusien[sium]". - Es wurde versucht, den Besitzvermerk auszuschneiden (umlaufende Ritzung); er ist teilweise bis auf den Holzdeckel ausgekratzt; die Tintenschrift wurde mit Tinte überzeichnet    
+561      |a Band zeitweise in Privatbesitz; Kaufnotiz in vorderem Spiegel: "Ch. G. Constat 65 b[at]z[en] d[en] 17. Sept. 1661"; weiter unten: "20 batz[en]"; links unten (durch Tintenfleck unkenntlich gemacht): "25 batz[en]"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln mit mittiger Schliesse (braun, Kalb), Linien- Blindprägung auf beiden Deckeln, Titel in Tintenschrift ("Aug de ciuitate dei - de sta trinitate") und Thorberger Signatur ("E XXXVII") mit rotem Farbmittel auf dem Rücken; abgelöster Titel-Papierschild ("Augustinus De Trinitate. 1489. [durchgestrichen:] 195. Basil") in den vorderen Deckel geklebt. - Pergamentverstärkung in der ersten und letzten Lage (Pergamentstreifen zum Teil mit Schrift als Verstärkungsfalz beim Heften)    
+563      |a Vorsätze: jeweils ohne fliegendes Blatt    
+563      |a Masse Einband: 33.8 x 23.5 x 8.5 cm    
+563      |a Zustand Einband: Einband und Schliesse 1946 restauriert: Leder am Rücken neu unterlegt (Pergamentfragmente der alten Rückenhinterklebung zusammen mit Restaurierungsfoto in hinterem Deckel vorhanden), Deckelecken mit Leder überklebt, Schliessenriemen und Hakenteil sowie Nietung am Ösenteil ergänzt, Stabilisierung mit Japanpapierfälzen in vorderem und hinterem Falz    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 86 von 86 Blättern; Pergamentfalz als Heftverstärkung zwischen Blättern a₄ und a₅, rot ausgezeichnete Initialen, Rubrizierung (Paragraphenzeichen, Titelunterstreichungen, Strichelungen)    
+590      |a Zustand Buchblock: Schädlingsfrass mit Fehlstellen an ersten Blättern, Fehlstellenergänzung an Blatt a₁, beginnender Tintenfrass an Annotationen    
+590      |a Wenige handschriftliche Annotationen in Tinte (Blätter a₂ recto und c₁ recto)    
+590      |a Titel in Tinte auf dem Kopfschnitt: "August: De Trinit et De Ciuitate Dei"    
+590      |a Zusammengebunden mit einem weiteren Druck: Aurelius Augustinus:De civitate Dei. Basel :Johann von Amerbach, 1489    
+590      |a Historische Signatur auf vorderem Spiegel: "Patr. No. 195"    
+590      |a Frühere Signatur: Inc 343    
+700 1 2  |a Augustinus, Aurelius    |c Heiliger    |d 354-430    |t De trinitate    |0 (DE-588)4347240-0    
+700 1    |a Amerbach, Johannes    |d 1440-1513    |0 (DE-588)123073189    |e Drucker    |4 prt    
+710 2    |a Kloster Thorberg    |0 (DE-588)7725716-9    |e Früherer Eigentümer    |4 fmo    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc II 46 : 1    |9 (41SLSP_UBE)99116708373905511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 1 weiteren Druck in Sammelband    |p 12    |j MUE Inc II 46 : 1    |b B404    |9 (41SLSP_UBE)99116708373905511    
+986      |a (41SLSP_UBE)99116708373905511    |9 (41SLSP_UBE)99116708373905511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116708373905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

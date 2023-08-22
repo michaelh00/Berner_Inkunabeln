@@ -1,0 +1,157 @@
+﻿<-1-1-START->
+Statius, Publius Papinius
+<-1-1-STOP->
+
+<-1-2-START->
+Silvae. — Ovidius Naso, Publius: Sappho Phaoni. — Domitius de Calderiis: Elucubratio in quaedam Propertii loca, quae difficiliora videbantur; Epilogus et prosphōnēsis de observationibus; Ex tertio libro observationum
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Kommentar zu Statius und Ovid von Domitius de Calderiis, sowie Widmungen von ihm an Augustinus Maffeius und Francisco‏ ‎de Aragón<-500-STOP->
+<-500-START->Am Ende ein kurzes Gedicht "Domitius ad lectorem"<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Venedig: Drucker nicht ermittelbar, 1481 oder 1482?]
+<-500-START->Drucker gemäss GW: D.S., das ist gemäss BSB-Ink (C-358 und C-475) Dominicus de Siliprandis; gemäss ISTC wird der Drucker als: "Printer of Cicero, 'De officiis' (H 5268*)" oder "Printer of Columella" bezeichnet, dieser wiederum wird in BSB-Ink P-214 und C-476.050 als Niccolò Girardengo (Nicolaus Girardengus) identifiziert<-500-STOP->
+<-500-START->Kleine Druckvariante am Ende: In der letzten Zeile steht im vorliegenden Exemplar nur ".FINIS.", im Exemplar der Universidad de Granada steht ".FINIS. .S."<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 163 ungezählte Seiten, 1 ungezähltes Blatt, 33 ungezählte Seiten, 1 ungezähltes Blatt; 31 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M43288.htm<-L-5-STOP-><-VI-5-START->GW M43288<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/is00698000<-L-5-STOP-><-VI-5-START->ISTC is00698000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+101 von 102 Blättern, Initialen teilweise von einem Annotator in Tinte gezeichnet
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener einteiliger Kartoneinband (braun, Leder; chamois, Papier, 17./18. Jahrhundert), Linienblindprägung auf dem Lederbezug beider Deckel
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars; Michel Lefébure; Arnulphe Boucher; Pierre Daniel
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116725260605511<-L-11-STOP-><-VI-11-START->MUE Bong VI 253<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991084309069705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Statius, Publius Papinius<-P-STOP->
+<-P-START->Domitius de Calderiis<-P-STOP->
+<-P-START->Ovidius Naso, Publius<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Siliprandis, Dominicus de<-P-STOP->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Girardengo, Niccolò<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-P-START->Lefébure, Michel<-P-STOP->
+<-P-START->Boucher, Arnulphe<-P-STOP->
+<-P-START->Daniel, Pierre<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991084309069705501<-DOI-STOP->
+<-SIGN-START->MUE Bong VI 253<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06500nam a2200673 c 4500
+001 991084309069705501
+005 20211215184619.0
+008 100802q14811482it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/02.08.2010    
+035      |a (swissbib)062192965-41slsp_network    
+035      |a 062192965    |9 ExL    
+035      |a (IDSBB)005286235DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991084309069705501    
+035      |a (41SLSP_UBE)99116725260605511    |9 (41SLSP_UBE)99116725260605511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Statius, Publius Papinius    |d 45-96    |0 (DE-588)118798502    |e Verfasser    |4 aut    
+240 1 0  |a Silvae    
+245 1 0  |a Hoc Volvmine Domitivs Inservit. Syluarum Statii papinii libros quinque a se emendatos    |b ; Commentarios: quos in Syluas composuit. [Sappho Ovidii]. Commentariolos in Sappho Ouidii quos edidit. propertii loca obscura a se elucubrata. particulam ex tertio libro suarum obseruationum : ubi nonnulla explicata sunt: quæ ad linguæ latinæ rationem magnopere pertine[n]t    
+246 1    |i Titel in normalisierter Form    |a Hoc volumine Domitius inservit Sylvarum Statii Papinii libros quinque a se emendatos    
+246 1    |i Titel gemäss ISTC    |a Silvarum libri V    
+264   1  |a [Venedig]    |b [Drucker nicht ermittelbar]    |c [1481 oder 1482?]    
+300      |a 1 ungezähltes Blatt, 163 ungezählte Seiten, 1 ungezähltes Blatt, 33 ungezählte Seiten, 1 ungezähltes Blatt    |c 31 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Titel mit beigefügten Werken gemäss Inhaltsangabe auf Blatt a₁ verso    
+500      |a Am Ende (Blatt C₃ recto) ein kurzes Gedicht "Domitius ad lectorem", beginnt: "Sic mihi perpetu[a]e contingant murmura laudis ..."    
+500      |a Druckort gemäss GW und ISTC, Druckjahr gemäss ISTC    
+500      |a Drucker gemäss GW: D.S.(!), gemäss ISTC: "Printer of Cicero, 'De officiis' (H 5268*)" oder "Printer of Columella"    
+500      |a Kleine Druckvariante am Ende (Blatt C₃ recto): In der letzten Zeile steht im vorliegenden Exemplar nur ".FINIS.", im Exemplar der Universidad de Granada steht ".FINIS. .S."    
+500      |a Signaturformel: a–c⁸, d⁶, e-f⁸, g-h⁶, i⁸, k–m⁶, A⁸, B⁶, C⁴    
+500      |a Blätter m₆ und D₄ unbedruckt; Blätter a₁ recto, m₅ verso und C₃ verso unbedruckt    
+505 0 0  |g Blatt B₁ recto    |t Domitii elucubratio in qu[a]edam propertii loca. Qu[a]e diffficiliora uidebantur    |g Blatt B₆ recto    |t Domitii Ad Francisvm Aragonvm Epilogvs Et prosphōnēsis De Observationibvs    |g Blatt C₁ recto    |t Ex Tertio Libro Observationvm Domitii    
+510 4    |a GW    |c M43288    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M43288.htm    
+510 4    |a ISTC    |c is00698000    |u https://data.cerl.org/istc/is00698000    
+530      |a Digitalisat (Exemplar der Biblioteca de la Universidad de Granada)    |u http://hdl.handle.net/10481/16192    
+561      |a Handschriftliche Besitzvermerke auf Blatt a₁ recto: "Michael Lefebure" durchgestrichen; darunter: "Petri Danielis"; dahinter von anderer Hand: "Aurelii 1564"; darunter (fast unleserlich gemacht: "Arnulphus Boucherus"; weitere, zum Teil unleserliche Einträge, Notizen und Zeichnungen auf der Seite    
+563      |a Einbandbeschreibung: Halbbezogener einteiliger Kartoneinband (braun, Leder; chamois, Papier, 17./18. Jahrhundert), Linienblindprägung auf dem Lederbezug beider Deckel, Titel in Blindprägung auf dem Rücken    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 30.1 x 21.6 x 2.0 cm    
+563      |a Zustand Einband: Lederüberklebung am Rücken, beide Vorsätze mit Japanpapier-Überklebungen im Falz    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 101 von 102 Blättern, Papierfalz und Pergamentfalz (Manuskript-Makulatur) zwischen Blättern C₁ und C₂ gehören zur Vorsatzkonstruktion, Blinddruckmarken (Letterzeilen) an den Blättern a₃, m₅ und C³; vorgesehene Stellen für Initialen teilweise frei gelassen, teilweise in Tinte gezeichnet, von einem Annotator; keine Rubrizierung    
+590      |a Zustand Buchblock: erste Hälfte des Buchblocks besonders stark verfleckt, Verfärbungen im Bundsteg (in Form von Schwemmrändern, besonders stark an den Lagen l und m), Lagen a bis e punktförmig von vorne nach hinten durchstossen, Blatt m₆ fast vollständig im Falz gelöst, Struktur der letzten Lage unklar (Blatt C₁ als Einzelblatt), Blatt a₁ durch Radierung von Tintenschrift geschwächt, Schnur-Anlängung an gebrochenen und zum Teil fehlenden ursprünglichen Lederbünden, Japanpapier-Überklebungen im Falz zwischen Blättern a₁ und a₂    
+590      |a Blatt C₄ (letztes Blatt, unbedruckt) fehlt    
+590      |a Zahlreiche Annotationen von diversen Händen; einige Federzeichnungen und Kritzeleien (zum Beispiel Kopf eines Mannes auf der letzten Textseite, Blatt C₃ recto)    
+590      |a Historische Signatur in Graphit auf vorderem Spiegel: "Poët 49"; in Tinte auf Blatt a₁ recto: "Poet 57"    
+590      |a Frühere Signaturen: Inc II 65; Inc 288; Hortin XII 23    
+700 1 2  |a Statius, Publius Papinius    |d 45-96    |t Silvae    |0 (DE-588)4139525-6    
+700 1 2  |a Ovidius Naso, Publius    |d v43-17    |t Sappho Phaoni    |0 (DE-588)4475195-3    
+700 0    |a Domitius    |c de Calderiis    |d 1446-1478    |0 (DE-588)100940056    |e Kommentarverfasser    |4 wac    
+700 0 2  |a Domitius    |c de Calderiis    |d 1446-1478    |t Elucubratio in quaedam Propertii loca, quae difficiliora videbantur    |0 (DE-588)1176667149    
+700 0 2  |a Domitius    |c de Calderiis    |d 1446-1478    |t Epilogus et prosphōnēsis de observationibus    |0 (DE-588)1178066746    
+700 0 2  |a Domitius    |c de Calderiis    |d 1446-1478    |t Ex tertio libro observationum    |0 (DE-588)1178063224    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Lefébure, Michel    |d ca. 16. Jh.    |0 (DE-588)1178819817    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Boucher, Arnulphe    |d ca. 16. Jh.    |0 (DE-588)1178822583    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Daniel, Pierre    |d 1530-1603    |0 (DE-588)101087934    |e Früherer Eigentümer    |4 fmo    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Bong VI 253    |9 (41SLSP_UBE)99116725260605511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc II 65    |c 404U3    |p 12    |j MUE Bong VI 253    |b B404    |9 (41SLSP_UBE)99116725260605511    
+986      |a (41SLSP_UBE)99116725260605511    |9 (41SLSP_UBE)99116725260605511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116725260605511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116725260605511    
+991      |a Bongars: 13258    |5 IZ UBE/B400/02.08.2010    |9 LOCAL    |9 (41SLSP_UBE)99116725260605511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,137 @@
+﻿<-1-1-START->
+Der Elende Knabe
+<-1-1-STOP->
+
+<-1-2-START->
+Amor, die Liebe
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Straßburg: Matthias Hupfuff, 1499
+<-3-1-STOP->
+
+<-4-1-START->
+106 ungezählte Seiten, 1 ungezähltes Blatt: 16 Illustrationen; 21 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW01619.htm<-L-5-STOP-><-VI-5-START->GW 1619<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ia00566200<-L-5-STOP-><-VI-5-START->ISTC ia00566200<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+54 von 54 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun, Schaf) mit mittiger Schliesse, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Simon Horman
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 6 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116781820105511<-L-11-STOP-><-VI-11-START->MUE Inc IV 34 : 4<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991078027509705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Elende Knabe, Der<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Hupfuff, Matthias<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Horman, Simon<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991078027509705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 34 : 4<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03087nam a2200553 c 4500
+001 991078027509705501
+005 20211215181956.0
+007 cr#|||||||||||
+008 161104s1499    fr |||||      00| ||ger d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/04.11.2016/B404/az    
+024 7    |a 10.3931/e-rara-52038    |2 doi    
+035      |a (swissbib)072831243-41slsp_network    
+035      |a 072831243    |9 ExL    
+035      |a (IDSBB)006643858DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991078027509705501    
+035      |a (41SLSP_UBE)99116781820105511    |9 (41SLSP_UBE)99116781820105511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Elende Knabe, Der    |d ca. 15 Jh.    |0 (DE-588)12008015X    |e Verfasser    |4 aut    
+240 1 0  |a Amor, die Liebe    
+245 1 0  |a Das dis büchlin werde beka[nn]t. Amor die lieb ist es gena[nn]t    
+246 1 0  |a Amor die Liebe ist es genannt    
+246 1    |i Titel in moderner Orthografie    |a Dass dies Büchlein werde bekannt. Amor die Liebe ist es genannt    
+264   1  |a Zů Stroßburg getruckt    |b Von Mathis hüpffuff vnder der pfaltzstegen    |c In dem nün und nützigsten Jar IC [1499]    
+300      |a 106 ungezählte Seiten, 1 ungezähltes Blatt    |b 16 Illustrationen    |c 21 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+337      |b c    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+338      |b cr    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss Incipit    
+500      |a Druckort, Drucker und Druckjahr gemäss Explicit    
+500      |a Signaturformel: a–c⁶, d⁴, e-f⁶, g⁴, h⁶, j⁴, k⁶    
+500      |a Blatt k₆ unbedruckt    
+510 4    |a GW    |c 1619    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW01619.htm    
+510 4    |a ISTC    |c ia00566200    |u http://data.cerl.org/istc/ia00566200    
+561      |a Handschriftlicher Besitzvermerk auf vorderem Spiegel: "Simon Horman 1596"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun, Schaf) mit mittiger Schliesse, Linien- und Ornamentstempel- Blindprägung auf beiden Deckeln    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 21.2 x 15.0 x 5.6 cm    
+563      |a Zustand Einband: Lederrücken vollständig ergänzt, Lederüberklebungen an den Ecken sowie am Rückdeckel, neue Vorsätze aus Japanpapier eingefügt, Kapitalumstechung gesichert    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 54 von 54 Blättern; keine Rubrizierung    
+590      |a Zusammengebunden mit sechs weiteren Werken in Sammelband    
+700 1 2  |a Elende Knabe, Der    |d ca. 15 Jh.    |t Amor, die Liebe    |0 (DE-588)111794204X    
+700 1    |a Hupfuff, Matthias    |d 14XX-1520    |0 (DE-588)13352583X    |e Drucker    |4 prt    
+700 1    |a Horman, Simon    |d ca. 16./17. Jh.    |e Früherer Eigentümer    |4 fmo    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 34 : 4    |9 (41SLSP_UBE)99116781820105511    
+856 4    |u http://dx.doi.org/10.3931/e-rara-52038    |z Digitalisat in e-rara    
+900      |a IDSIxunikat    
+900      |a IDSIxhybrid-el    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc IV 34 : 4    |b B404    |9 (41SLSP_UBE)99116781820105511    
+986      |a (41SLSP_UBE)99116781820105511    |9 (41SLSP_UBE)99116781820105511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116781820105511    
+990      |f erarabe    |9 local    |9 (41SLSP_UBE)99116781820105511    
+990      |f lza-cc0    |9 local    |9 (41SLSP_UBE)99116781820105511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

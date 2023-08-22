@@ -1,0 +1,164 @@
+﻿<-1-1-START->
+Philelphus, Franciscus
+<-1-1-STOP->
+
+<-1-2-START->
+Orationes; Annotatio legum apud veteres scriptores; Epistula consolatoria ad Petrum Iustinum Philelphum; Instructione del ben vivere. — (Pseudo-)Aristoteles: Rhetorica ad Alexandrum [lateinisch]. — (Pseudo-)Plutarchus: Regum et imperatorum apophthegmata; Apophthegmata Laconica [lateinisch]. — Galenus: Introductio seu medicus [lateinisch]
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Die Schriften von (Pseudo-)Aristoteles und (Pseudo-)Plutarchus aus dem Griechischen übersetzt und jeweils mit Widmungsvorrede von Philelphus<-500-STOP->
+<-500-START->Die Schrift von Galenus aus dem Griechischen übersetzt und mit Vorrede von Georgius Valla<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Bartolomeo Zani, 28.03.1491
+<-3-1-STOP->
+
+<-4-1-START->
+clxvi Blätter; 22 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_P-447.html<-L-5-STOP-><-VI-5-START->BSB-Ink P-447<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M33051.htm<-L-5-STOP-><-VI-5-START->GW M33051<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/ip00609000<-L-5-STOP-><-VI-5-START->ISTC ip00609000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+166 von 166 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 16./17. Jahrhundert), Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, Linien-Blindprägung auf dem Rücken, Spuren von ursprünglich 4 Verschlussbändern (Leder); auf dem Rücken in Tinte: "Ven: 1491"
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars; Johannes Laserno; A. Deligne
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: De Christiana religione / Marsilius Ficinus. Venedig: Otino Luna, 1500
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116683225205511<-L-11-STOP-><-VI-11-START->MUE Bong I 517 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991147147859705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Philelphus, Franciscus<-P-STOP->
+<-P-START->Aristoteles<-P-STOP->
+<-P-START->Plutarchus<-P-STOP->
+<-P-START->Galenus<-P-STOP->
+<-P-START->Valla, Giorgio<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Zani, Bartolomeo<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-P-START->Laserno, Johannes<-P-STOP->
+<-P-START->Deligne, A.<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991147147859705501<-DOI-STOP->
+<-SIGN-START->MUE Bong I 517 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06603nam a2200781 c 4500
+001 991147147859705501
+005 20211215194602.0
+008 100611s1491    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/11.06.2010    
+035      |a (swissbib)063542781-41slsp_network    
+035      |a 063542781    |9 ExL    
+035      |a (IDSBB)005244439DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991147147859705501    
+035      |a (41SLSP_UBE)99116683225205511    |9 (41SLSP_UBE)99116683225205511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Philelphus, Franciscus    |d 1398-1481    |0 (DE-588)118687182    |e Verfasser    |4 aut    
+240 1 0  |a Orationes    
+245 1 0  |a Orationes Philelphi    
+246 1    |i Titel vor den Tabula (Titelblatt verso)    |a Fra[n]cisci Philelphi ... orationes: & nonnulla alia opera    |b in quibus omne bene dicendi genus: omnesque artis rhetorice partes: ac diuinæ philosophorum: & theologorum sententiæ comperiuntur    
+246 1    |i Titel vor den Tabula in normierter Form    |a Francisci Philelphi ... orationes & nonnulla alia opera    |b in quibus omne bene dicendi genus, omnesque artis rhetorice partes, ac divinae philosophorum & theologorum sententiae comperiuntur    
+246 1 0  |a Orationes & nonnulla alia opera    
+246 1    |i Titel gemäss GW    |a Orationes et nonnulla alia opera    
+246 1    |i Titel gemäss ISTC    |a Orationes cum quibusdam aliis eiusdem operibus    
+264   1  |a Impressum Venetiis    |b Per Bartolomeum de Zanis de Portesio    |c die .xxviii. Martii .M.cccclxxxxi. [28.03.1491]    
+300      |a clxvi Blätter    |c 22 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Widmungsbrief an Lodovico Maria Sforza (Titelblatt verso), datiert Mailand, 27.5.1481    
+500      |a Enthält ausserdem von Philelphus: Annotatio legum apud veteres scriptores (Blatt cliiii verso); Epistula consolatoria ad Petrum Iustinum Philelphum (Blatt clvi verso); Instructione del ben vivere (Blatt clvii recto)    
+500      |a Enthält von anderen Autoren: [Pseudo-?]Aristoteles: Rhetorica ad Alexandrum (Blatt lxxxxiii recto); [Pseudo-?]Plutarchus: Regum et imperatorum apophthegmata (Blatt cxiiii verso), [Pseudo-?]Plutarchus: Apophthegmata Laconica (Blatt cxxxv recto), jeweils aus dem Griechischen übersetzt und mit Widmungsvorrede von Philelphus    
+500      |a Enthält ausserdem: [Pseudo-]Galenus: Introductorium ad medicinam, aus dem Griechischen übersetzt und mit Vorrede von Georgius Valla (Blatt clx recto)    
+500      |a Signaturformel: a-u⁸, x⁶    
+500      |a Blatt x₆ (clxvi) verso unbedruckt    
+510 4    |a BSB-Ink    |c P-447    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_P-447.html    
+510 4    |a GW    |c M33051    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M33051.htm    
+510 4    |a ISTC    |c ip00609000    |u https://data.cerl.org/istc/ip00609000    
+530      |a Digitalisat (Exemplar der U.S. National Library of Medicine)    |u http://resource.nlm.nih.gov/2211037R    
+561      |a Handschriftliche Besitzvermerke auf vorderem fliegenden Blatt: "Joannes Laserno[?] me habet 1584" und: "Delengues"; auf erstem Blatt: "A. Deligne" (gemäss Lindt, kaum mehr leserlich)    
+561      |a Handschriftlicher Besitzvermerk am Ende auf Blatt clxvi (x₆) recto (getilgt): "A. Deligne" (gemäss Lindt; kaum mehr leserlich)    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 16./17. Jahrhundert), Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, Linien-Blindprägung auf dem Rücken, Spuren von ursprünglich 4 Verschlussbändern (Leder); auf dem Rücken in Tinte: "Ven: 1491"    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 21.8 x 16.7 x 3.8 cm    
+563      |a Zustand Einband: Lederüberklebungen am Rücken und den Deckeln, Deckelkarton vollständig ergänzt (Bünde im Deckelkarton untypisch angesetzt), Vorsätze vollständig ergänzt (ursprünglicher Spiegel im vorderen Vorsatz eingehängt) Verschlussbänder fehlend, Typoskript mit Recherche-Informationen an das fliegende Blatt des vorderen Vorsatzes vorgeklebt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 166 von 166 Blättern, vorgesehene Stellen für Initialen frei gelassen, keine Rubrizierung    
+590      |a Zustand Buchblock: Feuchtigkeitsränder im unteren Teil der Blätter, etwa ab Lage l; Besitzvermerk in Tinte auf Blatt x₆ recto radiert, mit Schwach- und Fehlstellen im Papier    
+590      |a Handschriftliche Annotationen in Tinte auf den Blättern g₁ und g₂ recto    
+590      |a Auf dem vorderen fliegenden Blatt handschriftliches Fragment eines Briefes: "Hanc ...[?] de d[omi]ne Capellane salute[m]. Composui q[ui] cu[m] calare p[...] tui pro dispone[n]dis [...] pro religione, Rosani de Bustis ac martialis"    
+590      |a Zusammengebunden mit: Marsilii Ficini Florentini de Christiana religione. Venedig : Otino Luna, 1500    
+590      |a Historische Signatur auf vorderem fliegenden Blatt: "Theol. No. 122."; 122 durchgestrichen, daneben: "220"    
+590      |a Frühere Signaturen: Inc IV 60; Inc 531; Hortin XI 12    
+700 1 2  |a Philelphus, Franciscus    |d 1398-1481    |t Orationes    |0 (DE-588)116907264X    
+700 1 2  |a Philelphus, Franciscus    |d 1398-1481    |t Annotatio legum apud veteres scriptores    |0 (DE-588)1169089062    
+700 1 2  |a Philelphus, Franciscus    |d 1398-1481    |t Epistula consolatoria ad Petrum Iustinum Philelphum    |0 (DE-588)1169090397    
+700 1 2  |a Philelphus, Franciscus    |d 1398-1481    |t Instructione del ben vivere    |0 (DE-588)1169091210    
+700 0 2  |a Aristoteles    |d v384-v322    |t Rhetorica ad Alexandrum    |0 (DE-588)4068842-2    
+700 0 2  |a Plutarchus    |d 45-120    |t Regum et imperatorum apophthegmata    |0 (DE-588)4404614-5    
+700 0 2  |a Plutarchus    |d 45-120    |t Apophthegmata Laconica    |0 (DE-588)4404794-0    
+700 0 2  |a Galenus    |d 129-199    |t Introductio seu medicus    |0 (DE-588)4418168-1    
+700 1    |a Valla, Giorgio    |d 1447-1500    |0 (DE-588)124198643    |e Übersetzer    |4 trl    
+700 0    |a Ludovico    |c Milano, Duca    |d 1452-1508    |0 (DE-588)118820745    |e Widmungsempfänger    |4 dte    
+700 1    |a Zani, Bartolomeo    |d 14XX-15XX    |0 (DE-588)103757317X    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Laserno, Johannes    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Deligne, A.    |e Früherer Eigentümer    |4 fmo    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Bong I 517 : 2    |9 (41SLSP_UBE)99116683225205511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc IV 60    |c 404U3    |z Zusammengebunden mit 1 weiteren Druck in Sammelband    |p 12    |j MUE Bong I 517 : 2    |b B404    |9 (41SLSP_UBE)99116683225205511    
+986      |a (41SLSP_UBE)99116683225205511    |9 (41SLSP_UBE)99116683225205511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116683225205511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116683225205511    
+991      |a Bongars: 05333    |5 IZ UBE/B400/11.06.2010    |9 LOCAL    |9 (41SLSP_UBE)99116683225205511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,159 @@
+﻿<-1-1-START->
+Aesopus
+<-1-1-STOP->
+
+<-1-2-START->
+Fabulae
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Kommentar<-500-STOP->
+<-500-START->Mutmasslicher Übersetzer und Autor der metrischen Fassung der Fabulae, liber I-IV, gemäss ISTC: Gualtherus Anglicus<-500-STOP->
+<-500-START->Mutmasslicher Kommentator gemäss GW: Johannes Vincentius Metulinus<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Paris: Antoine Caillaut, nicht nach 1489]
+<-500-START->Im GW ursprünglich auch Philippe Pigouchet als mutmasslicher Drucker genannt<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 108 ungezählte Seiten, 1 ungezähltes Blatt; 19 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/GW00422.htm<-L-5-STOP-><-VI-5-START->GW 00422<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/ia00144800<-L-5-STOP-><-VI-5-START->ISTC ia00144800<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+56 von 56 Blättern, rot ausgezeichnete Initialen, Rubrizierung, Umrandung des Druckspiegels mit roten Linien
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Pergamenteinband auf Kartondeckeln (17. Jahrhundert) mit durchzogenen Bünden und Stosskanten sowie Spuren von Verschlussbändern (grün, Textil), Linien-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars; Pierre Daniel
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 10 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116720500205511<-L-11-STOP-><-VI-11-START->MUE Bong I 528 : 8<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991038216579705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Aesopus<-P-STOP->
+<-P-START->Gualterus Anglicus<-P-STOP->
+<-P-START->Metulinus, Johannes Vincentius<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Paris<-O-STOP->
+<-P-START->Caillaut, Antoine<-P-STOP->
+<-O-START->Paris<-O-STOP->
+<-P-START->Pigouchet, Philippe<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-P-START->Daniel, Pierre<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991038216579705501<-DOI-STOP->
+<-SIGN-START->MUE Bong I 528 : 8<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04262nam a2200685 c 4500
+001 991038216579705501
+005 20211215171139.0
+007 cr#|||||||||||
+008 100317s1489    fr            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/17.03.2010    
+024 7    |a 10.3931/e-rara-88190    |2 doi    
+035      |a (swissbib)06349602X-41slsp_network    
+035      |a 06349602X    |9 ExL    
+035      |a (IDSBB)005194558DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991038216579705501    
+035      |a (41SLSP_UBE)99116720500205511    |9 (41SLSP_UBE)99116720500205511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a lat    |h grc    
+100 0    |a Aesopus    |d ca. v6. Jh.    |0 (DE-588)118647180    |e Verfasser    |4 aut    
+240 1 0  |a Fabulae    
+245 1 0  |a Fabularum liber cum glosa finit feliciter    |c Incipit esopus vel ysopus vel liber magistri esopi    
+246 1    |i Titel gemäss GW und ISTC    |a Aesopus moralisatus    
+264   1  |a [Paris]    |b [Antoine Caillaut]    |c [nicht nach 1489]    
+300      |a 1 ungezähltes Blatt, 108 ungezählte Seiten, 1 ungezähltes Blatt    |c 19 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+337      |b c    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+338      |b cr    |2 rdacarrier    
+500      |a Titel gemäss Explicit; Verfasser gemäss erster Nennung im Kommentar, Blatt a₂ recto    
+500      |a Kommentar beginnt: "In principio huius libri quinq[ue] sunt inquirenda ..."    
+500      |a Gemäss ISTC ist Gualtherus Anglicus mutmasslicher Übersetzer und Autor der metrischen Fassung der Fabulae, liber I-IV (aufgrund einer Erwähnung im Kommentar, Blatt a₂ recto)    
+500      |a Gemäss GW ist Johannes Vincentius Metulinus mutmasslicher Kommentator    
+500      |a Druckort und Drucker gemäss GW und ISTC, vom GW ursprünglich auch Philippe Pigouchet als mutmasslicher Drucker genannt; Druckjahr gemäss ISTC, in GW: "[um 1488/89]"    
+500      |a Signaturformel: a-g⁸    
+500      |a Blätter a₁ und g₈ unbedruckt    
+510 4    |a GW    |c 00422    |u https://www.gesamtkatalogderwiegendrucke.de/docs/GW00422.htm    
+510 4    |a ISTC    |c ia00144800    |u https://data.cerl.org/istc/ia00144800    
+561      |a Handschriftlicher Besitzvermerk auf Blatt a₁: "P. Danielis Aurel." (Pierre Daniel)    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Ganzbezogener Pergamenteinband auf Kartondeckeln (17. Jahrhundert) mit durchzogenen Bünden und Stosskanten sowie Spuren von Verschlussbändern (grün, Textil), Linien-Blindprägung auf beiden Deckeln    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 18.4 x 14.6 x 4.5 cm    
+563      |a Zustand Einband: Einbandpergament an den Deckeln und den Stosskanten deformiert, Verschlussbänder fehlend, Pergamentüberklebung am Rückdeckel, Japanpapierüberklebung in den Fälzen beider Vorsätze    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 56 von 56 Blättern, rot ausgezeichnete Initialen, Rubrizierung, Umrandung des Druckspiegels mit roten Linien in Tinte    
+590      |a Auf Blatt a₂ recto rechts oben in Tinte: "98"    
+590      |a Zusammengebunden mit 10 weiteren Drucken in Sammelband    
+590      |a Historische Signatur auf vorderem Spiegel: "Theol. No. 484."; "484" durchgestrichen, daneben: "642."    
+590      |a Frühere Signaturen: Inc V 153; Inc 410a; Hortin IX 12    
+700 0 2  |a Aesopus    |d ca. v6. Jh.    |t Fabulae    |9 U:Hang    |9 L:kaz    |0 (DE-588)4206676-1    
+700 0    |a Gualterus    |c Anglicus    |d -1194    |0 (DE-588)100943764    |e Übersetzer    |4 trl    
+700 1    |a Metulinus, Johannes Vincentius    |d ca. 15. Jh.    |0 (DE-588)129044652    |e Kommentarverfasser    |4 wac    
+700 1    |a Caillaut, Antoine    |d 14XX-1506    |0 (DE-588)128991100    |e Drucker    |4 prt    
+700 1    |a Pigouchet, Philippe    |d -1518    |0 (DE-588)1037584597    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Daniel, Pierre    |d 1530-1603    |0 (DE-588)101087934    |e Früherer Eigentümer    |4 fmo    
+751      |a Paris    |0 (DE-588)4044660-8    
+852 4    |b B404    |c 404U3    |j MUE Bong I 528 : 8    |9 (41SLSP_UBE)99116720500205511    
+856 4    |u https://doi.org/10.3931/e-rara-88190    |z Digitalisat in e-rara    
+900      |a IDSIxunikat    
+900      |a IDSIxhybrid-el    
+900      |a NOMERGEALEX    
+949      |i ZB Inc V 153 : 8    |c 404U3    |z Zusammengebunden mit 10 weiteren Drucken in Sammelband    |p 12    |j MUE Bong I 528 : 8    |b B404    |9 (41SLSP_UBE)99116720500205511    
+986      |a (41SLSP_UBE)99116720500205511    |9 (41SLSP_UBE)99116720500205511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116720500205511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116720500205511    
+990      |f erarabe    |9 local    |9 (41SLSP_UBE)99116720500205511    
+990      |f lza-cc0    |9 local    |9 (41SLSP_UBE)99116720500205511    
+991      |a Bongars: 00145    |5 IZ UBE/B400/17.03.2010    |9 local    |9 (41SLSP_UBE)99116720500205511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

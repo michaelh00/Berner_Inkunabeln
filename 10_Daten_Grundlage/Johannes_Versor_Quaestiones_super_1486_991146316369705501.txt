@@ -1,0 +1,140 @@
+﻿<-1-1-START->
+Johannes Versor
+<-1-1-STOP->
+
+<-1-2-START->
+Quaestiones super veterem et novam logicam Aristotelis
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Köln: Konrad Welker, 05.06.1486
+<-500-START->Das Druckdatum ("quinto nonas Junij") ist uneindeutig, es könnte auch der 01.06. gemeint sein<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+2 Bände; 30 cm (2°)
+<-500-START->Band 1: lxxx Blätter; Band 2: 1 ungezähltes Blatt, lxxxij (das heisst 80) Blätter, 38 ungezählte Seiten, Blatt lxxxiiij - cv, 3 ungezählte Seiten<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_V-174.html<-L-5-STOP-><-VI-5-START->BSB-Ink V-174<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M50244.htm<-L-5-STOP-><-VI-5-START->GW M50244<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/iv00262000<-L-5-STOP-><-VI-5-START->ISTC iv00262000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+Band 1: 80 von 80 Blättern, Band 2: 124 von 124 Blättern; rot und schwarz (in Band 2 teilweise nur rot) ausgezeichnete und verzierte Initialen; Rubrizierung nur auf wenigen Seiten in Band 1
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (chamois mit Spuren einer rotbraunen Oberflächenbehandlung, Schwein) mit Schliessen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116865820305511<-L-11-STOP-><-VI-11-START->MUE Inc IV 17<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991146316369705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Johannes Versor<-P-STOP->
+<-P-START->Aristoteles<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Köln<-O-STOP->
+<-P-START->Welker, Konrad<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991146316369705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 17<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06025nam a2200601 ca4500
+001 991146316369705501
+005 20211215194033.0
+008 170518s1486    gw |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/18.05.2017/B404/vha    
+035      |a (swissbib)069304130-41slsp_network    
+035      |a 069304130    |9 ExL    
+035      |a (IDSBB)006700383DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991146316369705501    
+035      |a (41SLSP_UBE)99116865820305511    |9 (41SLSP_UBE)99116865820305511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Johannes    |c Versor    |d -1482    |0 (DE-588)102550670    |e Verfasser    |4 aut    
+240 1 0  |a Quaestiones super veterem et novam logicam Aristotelis    
+245 1 0  |a Questiones venerabilis domini Joha[n]nis Versoris super vetere[m] et noua[m] logicam Arestotilis    
+246 1    |i Kolophon    |a Questio[n]es venerabilis d[omi]ni Johannis Versoris artiu[m] m[a]g[ist]ri ac sacre theolgye doctoris p[re]clarissimi sup[er] vetere[m] et noua[m] logicam Arestotilis ...    
+246 1    |i Kolophon in gebräuchlicher Orthografie    |a Quaestiones venerabilis domini Johannis Versoris artium magistri ac sacrae theolgiae doctoris praeclarissimi super veterem et novam logicam Arestotelis ...    
+246 1    |i Kolophon in normalisierter Form    |a Questiones venerabilis domini Johannis Versoris artium magistri ac sacre theolgye doctoris preclarissimi super veterem et novam logicam Arestotilis ...    
+246 1    |i Titel gemäss BSB-Ink    |a Quaestiones super libros Logicae veteris et novae Aristotelis    
+246 1    |i Titel in gebräuchlicher Orthografie    |a Quaestiones venerabilis domini Johannis Versoris super veterem et novam logicam Aristotelis    
+246 1    |i Titel in normalisierter Form    |a Questiones venerabilis domini Johannis Versoris super veterem et novam logicam Arestotilis    
+264   1  |a Colonie su[n]t impresse    |b per me Co[n]radum de Bopardia eiusde[m] opidi incolam    |c Anno d[omi]ni ce incarnat[i]onis. M.cccc.lxxxvi. quinto nonas Junij [5.06.1486]    
+300      |a 2 Bände    |c 30 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Impressum gemäss Kolophon (Band 2, Blatt p₅ recto); das Druckdatum ist uneindeutig, es könnte auch der 1.06. gemeint sein    
+500      |a Umfang Band 1: lxxx Blätter; Band 2: 1 ungezähltes Blatt, lxxxij (das heisst 80) Blätter, 38 ungezählte Seiten, Blatt lxxxiiij - cv, 3 ungezählte Seiten    
+500      |a Blattzählung springt in Band 2 von xxxvi auf xxxix    
+500      |a Signaturformel Band 1: A–B⁸, C⁶D⁸-J⁶K⁸, L⁸; Band 2: a⁸b⁶, c⁸d⁶, e⁸, f⁸g⁶, h⁸, i⁸K⁶, L⁸, m⁶-¹, M⁸N⁶, ²m⁶-¹, n⁸o⁶, p⁶    
+500      |a Band 1: Rückseiten der Titelseite (A₁ verso) und von folio lxxx (L₈ verso) unbedruckt; Band 2: Blatt A₁ unbedruckt, Blatt p₆ verso (letzte Seite) unbedruckt    
+500      |a Band 2: Signaturformel ab Blatt L⁸ gemäss GW: ... L⁸m⁶, n⁸o⁶, p⁶; das heisst, im vorliegenden Exemplar fehlt Blatt m₆ und die Blätter M⁸N⁶, ²m⁶-¹ sind zusätzlich eingebunden (insgesamt 124 statt 106 Blätter)!    
+500      |a Signatur auf Blatt ²m₁ überdruckt, könnte auch als "O" zu lesen sein    
+510 4    |a BSB-Ink    |c V-174    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_V-174.html    
+510 4    |a GW    |c M50244    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M50244.htm    
+510 4    |a ISTC    |c iv00262000    |u http://data.cerl.org/istc/iv00262000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München, nur Band 1!)    |u http://daten.digitale-sammlungen.de/bsb00040467/image_5    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (chamois mit Spuren einer rotbraunen Oberflächenbehandlung, Schwein) mit Schliessen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, Linien-Blindprägung und Titelschild (braunes Ziegenleder) mit ursprünglich Goldprägung auf dem Rücken; geprägter Titel auf Titelschild (schwarz auf dunkelbraun): "Versoris Opera"; derselbe Titel (wegen der Lesbarkeit) im Bundfeld darüber in Tinte; im Bundfeld darunter in Tinte: "Colon. Ag. 1486"    
+563      |a Vorsätze: vorne mit 4 und hinten mit 8 fliegenden Blättern    
+563      |a Masse Einband: 29.7 x 22.1 x 6.5 cm    
+563      |a Zustand Einband: Vorsatzlagen vorne und hinten jeweils aussen und mittig mit Pergamentfalz stabilisiert, Spiegel fast vollständig abgelöst (anhaftende Papierreste), Lederüberklebung am Rücken in oberem Bundfeld    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: Band 1: 80 von 80 Blättern, Band 2: 124 von 124 Blättern; Falzverstärkung aus Pergament innen an den ersten beiden Lagen (A und B) und an der letzten Lage (Band 2, Lage p), Papierfalz nach Blatt ²m₁ gehört zu Blatt ²m₄; rot und schwarz (in Band 2 teilweise nur rot) ausgezeichnete und verzierte Initialen; Rubrizierung nur auf wenigen Seiten (Band 1, folio iii verso und iv recto, folio lx verso und lxi recto und verso)    
+590      |a Zustand Buchblock: Beide Bände in einem Buchbinderband; Craqueleé in rotem Farbauftrag der Initialen; Band 1: Schnitt im Papier mit grossflächiger Tintenverfleckung (unterhalb des Texts) an Blatt K₈; Band 2: Blätter ¹m₆ und ²m₂ weggeschnitten (Reste im Falz sichtbar)    
+590      |a Handschriftliche Annotationen in Tinte, vor allem in Band 1    
+590      |a Historische Signatur auf der Titelseite: "Phil 173"    
+590      |a Frühere Signatur: Inc 78    
+700 1    |a Welker, Konrad    |0 (DE-588)136160883    |e Drucker    |4 prt    
+700 0 2  |a Johannes    |c Versor    |d -1482    |t Quaestiones super veterem et novam logicam Aristotelis    
+751      |a Köln    |0 (DE-588)4031483-2    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 17    |9 (41SLSP_UBE)99116865820305511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |h MUE Inc IV 17    |p 12    |j MUE Inc IV 17    |b B404    |9 (41SLSP_UBE)99116865820305511    
+986      |a (41SLSP_UBE)99116865820305511    |9 (41SLSP_UBE)99116865820305511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116865820305511    
+991      |a AAK: 924124    |5 IZ UBE/18.05.2017/B404/vha    |9 LOCAL    |9 (41SLSP_UBE)99116865820305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

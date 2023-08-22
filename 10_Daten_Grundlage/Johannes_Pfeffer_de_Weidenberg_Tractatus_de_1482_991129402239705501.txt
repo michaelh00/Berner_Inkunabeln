@@ -1,0 +1,163 @@
+﻿<-1-1-START->
+Johannes Pfeffer de Weidenberg
+<-1-1-STOP->
+
+<-1-2-START->
+Tractatus de materiis diversis indulgentiarum. — Katholische Kirche, 1294-1303 : Bonifatius VIII.: Antiquorum habet. — Cum natura humana. — Katholische Kirche, 1342-1352 : Clemens VI.: Unigenitus Dei filius. — Katholische Kirche, 1464-1471 : Paul II.: Ineffabilis providentia. — Katholische Kirche, 1471-1484 : Sixtus IV.: Salvator noster. — Johannes de Anania: Tractatus iubilei
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Die Klemens VI. zugeschriebene Bulle "Cum natura humana" ist gefälscht<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Basel: Johann Besicken, um 1482]
+<-3-1-STOP->
+
+<-4-1-START->
+92 ungezählte Seiten; 33 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_P-405.html<-L-5-STOP-><-VI-5-START->BSB-Ink P-405<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M32796.htm<-L-5-STOP-><-VI-5-START->GW M32796<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ip00541000<-L-5-STOP-><-VI-5-START->ISTC ip00541000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+46 von 46 Blättern, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun, Kalb) mit Schliessen sowie Spuren einer Kettenöse am oberen Rand der Rückdeckel, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, Buchbinder: Johannes Vatter
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Dominikanerkloster Bern
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Repertorium iuris / Johannes de Milis. Basel: Nicolaus Kessler, 1488
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116888117705511<-L-11-STOP-><-VI-11-START->MUE Inc I 88 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991129402239705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Johannes Pfeffer de Weidenberg<-P-STOP->
+<-P-START->Katholische Kirche, 1294-1303 : Bonifatius VIII.<-P-STOP->
+<-P-START->Bonifatius VIII. (Papst)<-P-STOP->
+<-P-START->Katholische Kirche, 1342-1352 : Clemens VI.<-P-STOP->
+<-P-START->Klemens VI. (Papst)<-P-STOP->
+<-P-START->Katholische Kirche, 1464-1471 : Paul II.<-P-STOP->
+<-P-START->Paul II. (Papst)<-P-STOP->
+<-P-START->Katholische Kirche, 1471-1484 : Sixtus IV.<-P-STOP->
+<-P-START->Sixtus IV. (Papst)<-P-STOP->
+<-P-START->Johannes de Anania<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Besicken, Johann<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-P-START->Vatter, Johannes<-P-STOP->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Dominikanerkloster Bern<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991129402239705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 88 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06265nam a2200757 c 4500
+001 991129402239705501
+005 20211215192929.0
+008 800621s1482    sz            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/11.01.2018/B404/faf    
+035      |a (swissbib)065969413-41slsp_network    
+035      |a 065969413    |9 ExL    
+035      |a (IDSBB)006166487DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991129402239705501    
+035      |a (41SLSP_UBE)99116888117705511    |9 (41SLSP_UBE)99116888117705511    
+040      |a ISTC    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Johannes    |c Pfeffer de Weidenberg    |d 1415-1493    |0 (DE-588)118641603    |e Verfasser    |4 aut    
+240 1 0  |a Tractatus de materiis diversis indulgentiarum    
+245 1 0  |a Tractat[us] iam nouiter [com]pilatus de materijs diuersis indulgenciarum p[er] doctissimu[m] ac famosissimu[m] vi[rum] dominu[m] Joha[n]nem pheffer widenberg Sacre theologieq[ue] p[ro]fessorem eximium Ac alme vniuersitatis studij friburge[n]sis ordinarium feliciter incipit    
+246 1    |i Titel gemäss BSB-Ink    |a De materiis diversis indulgentiarum    
+246 1    |i Titel gemäss GW    |a De materiis indulgentiarum    
+246 1    |i Titel gemäss ISTC    |a Tractatus de materiis indulgentiarum    
+246 1    |i Titel in normalisierter Form    |a Tractatus iam noviter compilatus de materiis diversis indulgenciarum per doctissimum ac famosissimum virum dominum Johannem Pheffer Widenberg sacre theologieque professorem eximium ac alme universitatis studii Friburgensis ordinarium feliciter incipit    
+264   1  |a [Basel]    |b [Johann Besicken]    |c [um 1482]    
+300      |a 92 ungezählte Seiten    |c 33 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit fünf Papstbullen zu den Jubeljahren, dem "Tractatus iubilei" des Johannes de Anania und einem Register    
+500      |a Keine Titelseite, Titel gemäss Incipit    
+500      |a Impressum gemäss BSB-Ink, GW und ISTC    
+500      |a Signaturformel: A⁶, B¹⁰, C-D⁶, E⁸, F¹⁰    
+500      |a Auf Blatt A₄ recto, Spalte 2, Zeile 12, bricht der Text ab, gefolgt von Hinweis: "Hic non est defect[us]"; Blatt A₄ verso ist unbedruckt; Text fährt auf Blatt A₅ recto richtig fort    
+505 0 0  |t Bulla pape bonifacij octaui Jubilei    |t <<Sequitur>> bulla Jubilei Clementis sixti    |t Bulla cleme[n]t[is] q[uam] dedit an[n]o sui po[n]tifica. p[ri]mo    |t Bulla anni Jubilei pauli    |t <<Sequit[ur]>> bulla iubilei sixti pape quarti modo nouissimi iam ecclesiam sancta[m] regentis    |t <<Incipit>> tractatus Jubilei    |r edit[us] et [com]pilat[us] p[er] Reuerendum patrem vtriusq[ue] iuris in orbe monorcham dominu[m] Johanne[m] de anania archidia. Bononiens[is] ...    
+510 4    |a BSB-Ink    |c P-405    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_P-405.html    
+510 4    |a GW    |c M32796    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M32796.htm    
+510 4    |a ISTC    |c ip00541000    |u http://data.cerl.org/istc/ip00541000    
+530      |a Digitalisat (Exemplar der Universitätsbibliothek Basel)    |u http://dx.doi.org/10.3931/e-rara-29352    
+561      |a Aus dem Besitz des Dominikanerklosters Bern    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun, Kalb) mit Schliessen sowie Spuren einer Kettenöse am oberen Rand der Rückdeckel, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, auf Vorderdeckel aufgeklebtes Schild aus Pergament mit handschriftlichem Titel: "Rep[er]toriu[m] d[omi]ni ioh[ann]is milis Jn vtroq[ue] Jure doctoris. Cum tractatu sollempni de indulge[n]cijs. inge[nios]i pfeffer widenber theologie p[ro]fessoris", auf Rücken weiteres Schild mit geprägtem Titel: "Repertorium Milis"    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 32.5 x 23.5 x 5.8 cm    
+563      |a Zustand Einband: Loch am Rückdeckel von vormaliger Ankettung, Schäden am Einbandleder, Lederüberklebungen am Rücken, Vorsätze im Falz mit Japanpapier verstärkt    
+563      |a Gemäss Johann Lindt (Berner Einbände, Buchbinder und Buchdrucker, Bern 1969) Einband des Berner Dominikanermönchs Johannes Vatter    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 46 von 46 Blättern, rot ausgezeichnete Initialen, Rubrizierung    
+590      |a Zustand Buchblock: Risse an den Blättern A₁-₃, Schimmelverfleckungen und Schädlingsfrass an den letzten Blättern    
+590      |a Zusammengebunden mit: Repertorium iuris / Johannes de Milis. Basel: Nicolaus Kessler, 1488    
+590      |a Einbandfragmente aus diesem Band in der Burgerbibliothek, Signatur BBB Cod. 756.58 (Clemens: Recognitiones, 1 Doppelblatt, 1 Blatt, handschriftlich, Pergament, lateinisch, 11. Jh.)    
+590      |a Historische Signatur auf Titelseite des vorgebundenen Drucks: "Jur. Pol. 80"    
+590      |a Frühere Signatur: Inc 33    
+700 0    |a Bonifatius    |b VIII.    |c Papst    |d 1230-1303    |0 (DE-588)118513257    |e Verfasser    |4 aut    
+700 0    |a Klemens    |b VI.    |c Papst    |d 1292-1352    |0 (DE-588)118563114    |e Verfasser    |4 aut    
+700 0    |a Paul    |b II.    |c Papst    |d 1417-1471    |0 (DE-588)11923212X    |e Verfasser    |4 aut    
+700 0    |a Sixtus    |b IV.    |c Papst    |d 1414-1484    |0 (DE-588)118797476    |e Verfasser    |4 aut    
+700 0    |a Johannes    |c de Anania    |d -1457    |0 (DE-588)100948790    |e Verfasser    |4 aut    
+700 1    |a Besicken, Johann    |d 14XX-15XX    |0 (DE-588)134019652    |e Drucker    |4 prt    
+700 1    |a Vatter, Johannes    |d 1470-1509    |0 (DE-588)1114426377    |e Buchbinder    |4 bnd    
+700 0 2  |a Johannes    |c Pfeffer de Weidenberg    |d 1415-1493    |t Tractatus de materiis diversis indulgentiarum    |0 (DE-588)1150433434    
+700 0 2  |a Bonifatius    |b VIII.    |c Papst    |d 1235-1303    |t Antiquorum habet    |0 (DE-588)1150440724    
+700 0 2  |a Klemens    |b VI.    |c Papst    |d 1292-1352    |t Unigenitus Dei filius    |0 (DE-588)1150442085    
+700 0 2  |a Paul    |b II.    |c Papst    |d 1417-1471    |t Ineffabilis providentia    |0 (DE-588)1150443782    
+700 0 2  |a Sixtus    |b IV.    |c Papst    |d 1414-1484    |t Salvator noster    |0 (DE-588)1150444614    
+700 0 2  |a Johannes    |c de Anania    |d -1457    |t Tractatus iubilei    |0 (DE-588)1150437944    
+710 2    |a Dominikanerkloster Bern    |0 (DE-588)4302674-6    |e Früherer Eigentümer    |4 fmo    
+730 0    |a Cum natura humana    |0 (DE-588)1150446501    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc I 88 : 2    |9 (41SLSP_UBE)99116888117705511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 1 weiteren Druck in Sammelband    |p 12    |j MUE Inc I 88 : 2    |b B404    |9 (41SLSP_UBE)99116888117705511    
+986      |a (41SLSP_UBE)99116888117705511    |9 (41SLSP_UBE)99116888117705511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116888117705511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

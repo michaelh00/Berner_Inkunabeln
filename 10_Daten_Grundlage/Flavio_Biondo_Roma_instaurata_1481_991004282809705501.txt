@@ -1,0 +1,151 @@
+﻿<-1-1-START->
+Flavio Biondo
+<-1-1-STOP->
+
+<-1-2-START->
+Roma instaurata; De origine et gestis Venetorum; Italia illustrata
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Besteht aus zwei Teilen (1: Roma instaurata, De origine et gestis Venetorum; 2: Italia illustrata) mit je eigenem Impressum<-500-STOP->
+<-500-START->Mit zwei Gedichten von Hieronymus Broianicus auf den Verfasser und den Drucker, einem Vorwort des Herausgebers Johannes Antonius Pantheus an Paolo Ramusio, einem Gedicht von Paolo Ramusio, einem Vorwort des Verfassers zur "Roma instaurata" an Papst Eugen IV. und einem Vorwort des Verfassers zu "De origine et gestis Venetorum" an den Dogen Franciscus Foscari und den Senat von Venedig<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Verona: Bonino Bonini, 20.12.1481
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 115 ungezählte Seiten, 1 ungezähltes Blatt, 186 ungezählte Seiten, 1 ungezähltes Blatt; 31 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-554.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-554<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW04423.htm<-L-5-STOP-><-VI-5-START->GW 04423<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib00702000<-L-5-STOP-><-VI-5-START->ISTC ib00702000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+145 von 154 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun, Schaf) mit Schliessen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Die Lage [] und die Blätter M₃-₄ und M₆ fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116800073705511<-L-11-STOP-><-VI-11-START->MUE Bong V 924<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991004282809705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Flavio Biondo<-P-STOP->
+<-P-START->Pantheus, Johannes Antonius<-P-STOP->
+<-P-START->Broianicus, Hieronymus<-P-STOP->
+<-P-START->Ramusio, Paolo<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Verona<-O-STOP->
+<-P-START->Bonini, Bonino<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991004282809705501<-DOI-STOP->
+<-SIGN-START->MUE Bong V 924<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05496nam a2200661 ca4500
+001 991004282809705501
+005 20211215173442.0
+008 100423m14811482it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/25.07.2018/B404/faf    
+035      |a (swissbib)060683880-41slsp_network    
+035      |a 060683880    |9 ExL    
+035      |a (IDSBB)005218436DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991004282809705501    
+035      |a (41SLSP_UBE)99116800073705511    |9 (41SLSP_UBE)99116800073705511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Flavio    |c Biondo    |d 1392-1463    |0 (DE-588)118658867    |e Verfasser    |4 aut    
+240 1 0  |a Roma instaurata    
+245 1 0  |a Roma Instaurata    |b ; De origine et gestis Venetorum ; Blondi Flauii Forliuie[n]sis Italiae illustratae. Liber primus incipit foeliciter    
+246 1    |i Incipit    |a Blondi Forliuensis viri praeclari Romae Instauratae. Primi libri Index    
+246 1    |i Incipit in normalisierter Form    |a Blondi Forlivensis viri praeclari Romae Instauratae. Primi libri Index    
+246 1    |i Explicit des 1. Werks    |a Expliciti sunt in Roma instaurata libri tres    
+246 1    |i Incipit des 3. Werks in normalisierter Form    |a Blondi Flavii Forliviensis Italiae illustratae liber primus incipit foeliciter    
+264   1  |a Impressum Veronae    |b per Boninum de Boniniis de Ragusa    |c a[n]no salutis M.cccc.lxxxi. in uigilia sancti Thomae apostoli [20.12.1481]    
+264 3 1  |a Impressum in inclyta ciuitate Veronae    |c Millesimo quadrige[n]tesimo octuagesimo secu[n]do Die septimo februarii [07.02.1482]    
+300      |a 2 Teile. I: 60 Bl. (1. & 60. leer); II: 94 Bl. (94. leer)    |a 1 ungezähltes Blatt, 115 ungezählte Seiten, 1 ungezähltes Blatt, 186 ungezählte Seiten, 1 ungezähltes Blatt    |c 31 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Besteht aus zwei Teilen (1: Roma instaurata, De origine et gestis Venetorum; 2: Italia illustrata) mit je eigenem Impressum    
+500      |a Mit einem Register über die "Roma instaurata", zwei Gedichten von Hieronymus Broianicus auf den Verfasser und den Drucker, einem Vorwort des Herausgebers Johannes Antonius Pantheus an Paolo Ramusio, einem Gedicht von Paolo Ramusio, einem Vorwort des Verfassers zur "Roma instaurata" an Papst Eugen IV. und einem Vorwort des Verfassers zu "De origine et gestis Venetorum" an den Dogen Franciscus Foscari und den Senat von Venedig    
+500      |a Keine Titelseite, Titel der einzelnen Werke gemäss Blatt a₁ verso, Blatt e₆ recto und Blatt A₁ verso    
+500      |a Signaturformel: []⁶, a¹⁰, b–f⁸, g⁴, A–L⁸, M⁶    
+500      |a Die Blätter []₁, []₂ recto, g₄ und M₆ sind unbedruckt    
+510 4    |a BSB-Ink    |c B-554    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-554.html    
+510 4    |a GW    |c 04423    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW04423.htm    
+510 4    |a ISTC    |c ib00702000    |u http://data.cerl.org/istc/ib00702000    
+530      |a Digitalisat (Exemplar der Biblioteca de la Universidad de Zaragoza)    |u http://zaguan.unizar.es/record/52    
+561      |a Handschriftlicher Besitzvermerk auf Blatt a₁ recto: "Bongars"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun, Schaf) mit Schliessen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, auf Rückdeckel beschädigter Papierstreifen mit Aufschrift in Tinte: "Blondus de ytalia Illus[...] De gestis Venetorum et de roma triump[...]"    
+563      |a Vorsätze: Vorne und hinten mit 2 fliegenden Blättern    
+563      |a Masse Einband: 30.8 x 20.4 x 3.7 cm    
+563      |a Zustand Einband: Zahlreiche Schäden am Einbandleder, Lederüberklebungen am Rücken und den Deckeln (Rücken vollständig ergänzt) mit Ergänzung der Blindprägung, beide Schliessenriemen und Hakenteile ergänzt, Japanpapierverstärkung in den Fälzen beider Vorsätze    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 145 von 154 Blättern, Papierfalz zwischen den Lagen [] und a sowie den Lagen L und M gehört zur Vorsatzkonstruktion, vorgesehene Stellen für Initialen frei gelassen    
+590      |a Zustand Buchblock: Blätter unterschiedlich verbräunt    
+590      |a Historische Signaturen auf vorderem Spiegel: "Jnuent. 74."; "Hist. Prof. 384.", Zahl korrigiert zu "367."    
+590      |a Unvollständiges Exemplar: Die Lage [] und die Blätter M₃-₄ und M₆ fehlen    
+590      |a Wenige handschriftliche Annotationen in Tinte    
+590      |a Frühere Signaturen: Inc 305; Inc I 90; VI 32    
+700 1    |a Pantheus, Johannes Antonius    |d 1446-1496    |0 (DE-588)100238718    |e Herausgeber    |4 edt    
+700 1    |a Broianicus, Hieronymus    |d ca. 15. Jh.    |0 (DE-588)12898547X    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Ramusio, Paolo    |d 1443-1506    |0 (DE-588)129064556    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Bonini, Bonino    |d 1450-1528    |0 (DE-588)1011851857    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 1 2  |a Flavio    |c Biondo    |d 1392-1463    |t Roma instaurata    |0 (DE-588)4589101-1    
+700 1 2  |a Biondo, Flavio    |d 1392-1463    |t De origine et gestis Venetorum    |0 (DE-588)116333331X    
+700 1 2  |a Biondo, Flavio    |d 1392-1463    |t Italia illustrata    |0 (DE-588)4254605-9    
+751      |a Verona    |0 (DE-588)4063110-2    
+852 4    |b B404    |c 404U3    |j MUE Bong V 924    |9 (41SLSP_UBE)99116800073705511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc I 90    |c 404U3    |h MUE Bong V 924    |p 12    |j MUE Bong V 924    |b B404    |9 (41SLSP_UBE)99116800073705511    
+986      |a (41SLSP_UBE)99116800073705511    |9 (41SLSP_UBE)99116800073705511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116800073705511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116800073705511    
+991      |a Bongars: 01615    |5 IZ UBE/B400/23.04.2010    |9 LOCAL    |9 (41SLSP_UBE)99116800073705511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

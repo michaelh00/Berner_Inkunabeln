@@ -1,0 +1,129 @@
+﻿<-1-1-START->
+L'entrée du roi Louis XII à Paris le 2 juillet 1498
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Paris: Pierre Le Caron, nicht vor 02.07.1498]
+<-3-1-STOP->
+
+<-4-1-START->
+12 ungezählte Seiten: 1 Illustration, Holzschnittinitialen; 23 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW09324.htm<-L-5-STOP-><-VI-5-START->GW 09324<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/il00367300<-L-5-STOP-><-VI-5-START->ISTC il00367300<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+6 von 6 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener einteiliger Kartoneinband (chamois, Japanpapier, 17./18. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 8 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116769066005511<-L-11-STOP-><-VI-11-START->MUE Bong V 959 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991049699049705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Paris<-O-STOP->
+<-P-START->Le Caron, Pierre<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991049699049705501<-DOI-STOP->
+<-SIGN-START->MUE Bong V 959 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03112nam a2200481 c 4500
+001 991049699049705501
+005 20211215171128.0
+008 100607s1498    fr            00| | fre  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/24.01.2019/B404/faf    
+035      |a (swissbib)063185113-41slsp_network    
+035      |a 063185113    |9 ExL    
+035      |a (IDSBB)005241075DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991049699049705501    
+035      |a (41SLSP_UBE)99116769066005511    |9 (41SLSP_UBE)99116769066005511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+130 0    |a <<L'>>entrée du roi Louis XII à Paris le 2 juillet 1498    |0 (DE-588)1176160702    
+245 1 0  |a Lentree du roi De France treschrestien Loys douziesme de ce nom a sa bonne ville de paris/ Auecques la reception de luniuersite de paris. [et] aussi de mons[eigneu]r de paris/ [et] le souper qui fut fait au palais. Faicte lan mil .cccc.iiiixx. [et] xviii. le lundi .ii. iour de iuillet    
+246 1    |i Titel in normalisierter Form    |a Lentree du roi de France treschrestien Loys douziesme de ce nom a sa bonne ville de Paris, avecques la reception de luniversite de Paris, et aussi de Monseigneur de Paris, et le souper qui fut fait au palais, faicte lan mil cccc.iiiixx. et xviii. le lundi ii. iour de iuillet    
+264   1  |a [Paris]    |b [Pierre Le Caron]    |c [nicht vor 2. Juli 1498]    
+300      |a 12 ungezählte Seiten    |b 1 Illustration    |c 23 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Impressum gemäss ISTC    
+500      |a Signaturformel: a⁶    
+500      |a Die Ilustration ist ein Titelholzschnitt    
+500      |a Holzschnittinitialen    
+510 4    |a GW    |c 09324    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW09324.htm    
+510 4    |a ISTC    |c il00367300    |u http://data.cerl.org/istc/il00367300    
+530      |a Digitalisat (Exemplar der Bibliothèque Mazarine)    |u http://mazarinum.bibliotheque-mazarine.fr/idurl/1/2316    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Halbbezogener einteiliger Kartoneinband (chamois, Japanpapier, 17./18. Jh.)    
+563      |a Vorsätze: Vorne und hinten mit zwei fliegenden Blättern    
+563      |a Masse Einband: 22.3 x 17 x 3 cm    
+563      |a Zustand Einband: Spuren eines vormaligen Rückenbezuges, Rücken mit Japanpapierüberklebung und Vlieshinterklebung, beide Vorsätze mit Japanpapierüberklebungen und Falzverstärkung aus Japanpapier    
+590      |a Buchblockbeschreibung: 6 von 6 Blättern    
+590      |a Zustand Buchblock: Zahlreiche Verfleckungen und starke Verbräunungen, Fehlstellen und Einrisse an den Blattkanten    
+590      |a Zusammengebunden mit 8 weiteren Drucken in Sammelband    
+590      |a Historische Signatur auf vorderem Spiegel: "Hist: Prof: 497.", Zahl korrigiert zu "61."    
+590      |a Frühere Signaturen: Klein w 13; Inc III 129; XXII 1    
+700 1    |a Le Caron, Pierre    |0 (DE-588)1037651774    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+751      |a Paris    |0 (DE-588)4044660-8    
+852 4    |b B404    |c 404U3    |j MUE Bong V 959 : 1    |9 (41SLSP_UBE)99116769066005511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc III 129 : 1    |c 404U3    |z Zusammengebunden mit 8 weiteren Drucken in Sammelband    |p 12    |j MUE Bong V 959 : 1    |b B404    |9 (41SLSP_UBE)99116769066005511    
+986      |a (41SLSP_UBE)99116769066005511    |9 (41SLSP_UBE)99116769066005511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116769066005511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116769066005511    
+991      |a Bongars: 04729    |5 IZ UBE/B400/07.06.2010    |9 LOCAL    |9 (41SLSP_UBE)99116769066005511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

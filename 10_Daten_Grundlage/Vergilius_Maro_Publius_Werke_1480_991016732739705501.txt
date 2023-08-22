@@ -1,0 +1,163 @@
+﻿<-1-1-START->
+Vergilius Maro, Publius
+<-1-1-STOP->
+
+<-1-2-START->
+Werke [lateinisch]
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Text von Vergil (Bucolica, Georgica und Aeneis) umgeben vom Kommentar des Servius Honoratus<-500-STOP->
+<-500-START->Mit der Vita Vergilii und den Commentarii in Vergilii Eclogas von Aelius Donatus, den pseudo-ovidischen Argumenta zu Georgica und Aeneis (Tetrasticha in cunctis libris Vergilii. Georgica; Argumenta Aeneidis), dem Supplementum Aeneidos von Maphaeus Vegius (mit Argumentum des Giuseppe Brivio), der Appendix Vergiliana, Versen von Alcimus Ecdicius Avitus und Pseudo-Cornelius Gallus, den Epitaphia virorum illustrium, der Summa Virgilianae narrationis in tribus operibus Bucolicis, Georgicis et Aeneide und weiteren Gedichten<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Pietro de' Piasi, Bartolomeo de' Blavi und Andreas Asulanus, 01.08.1480
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 621 ungezählte Seiten; 33 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_V-113.html<-L-5-STOP-><-VI-5-START->BSB-Ink V-113<-VI-5-STOP->; <-L-5-START->http://gesamtkatalogderwiegendrucke.de/docs/M49806.htm<-L-5-STOP-><-VI-5-START->GW M49806<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/iv00169000<-L-5-STOP-><-VI-5-START->ISTC iv00169000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+312 von 312 Blättern, teilweise rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert), Linien und Ornamentrollen-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116753874905511<-L-11-STOP-><-VI-11-START->MUE Inc III 26<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991016732739705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Vergilius Maro, Publius<-P-STOP->
+<-P-START->Servius<-P-STOP->
+<-P-START->Donatus, Aelius<-P-STOP->
+<-P-START->Vegius, Mapheus<-P-STOP->
+<-P-START->Brivio, Giuseppe<-P-STOP->
+<-P-START->Ovidius Naso, Publius<-P-STOP->
+<-P-START->Avitus, Alcimus Ecdicius<-P-STOP->
+<-P-START->Gallus, Gaius Cornelius<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Piasi, Pietro de'<-P-STOP->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Blavi, Bartolomeo de'<-P-STOP->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Asulanus, Andreas<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991016732739705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 26<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06642nam a2200757 c 4500
+001 991016732739705501
+005 20230209143414.0
+008 170809s1480    it |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/09.08.2017/B404/vha    
+035      |a (swissbib)072031700-41slsp_network    
+035      |a 072031700    |9 ExL    
+035      |a (IDSBB)006720963DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991016732739705501    
+035      |a (41SLSP_UBE)99116753874905511    |9 (41SLSP_UBE)99116753874905511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Vergilius Maro, Publius    |d v70-v19    |0 (DE-588)118626574    |e Verfasser    |4 aut    
+240 1 0  |a Werke    
+245 1 0  |a Maronis opus cu[m] Serui honorati enarratione    
+246 1 0  |a Opus cum Servi Honorati enarratione    
+246 1    |i Titel gemäss BSB-Ink, GW und ISTC    |a Opera    
+246 1    |i Titel in normalisierter Form    |a Maronis opus cum Servi Honorati enarratione    
+264   1  |a Impressu[m] Venetiis    |b mira arte et diligentia Petri Piasii Cremonensis: Bartholomei Blauii alexandrini et Andreæ Toresani de Asula    |c Anno domini. M.cccc.lxxx. die pri[m]o Augusti. [01.08.1480]    
+300      |a 1 ungezähltes Blatt, 621 ungezählte Seiten    |c 33 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss Kolophon    
+500      |a Text von Vergil (Bucolica, Georgica und Aeneis) umgeben vom Kommentar des Servius Honoratus (bis Blatt cc₉ verso)    
+500      |a Mit Vita des Vergil und Vorrede zu den Bucolica von Aelius Donatus (Blatt a₁ verso)    
+500      |a Mit dem Supplementum Aeneidos (auch "liber tertiusdecimus") von Maphaeus Vegius (Blatt A₁ recto); mit Argumentum von Giuseppe Brivio    
+500      |a Mit Versen von Pseudo-Ovid (Blätter c₅ recto und C₁ verso), Alcimus Ecdicius Avitus (Blatt A₈ recto) und Pseudo-Cornelius Gallus (Blatt A₈ recto), sowie "Epitaphia virorum illustrium" (Blatt B₅ recto und verso)    
+500      |a Mit dem Appendix Vergiliana (ab Blatt A₈ verso), das sind zahlreiche kleinere Gedichte, die Vergil zugeschrieben wurden, aber mit grosser Sicherheit nicht von ihm stammen; dazu gehören in dieser Ausgabe: Hortulus, De vino et venere, De livore, De cantu Sirenarum, De fortuna, De Orpheo, De se ipso, De aetatibus animalium, De ludo, Monosticha de erumnis Herculis, Argumenta XII librorum Aeneidos, De musarum inventis, Elegia in Moecenatis obitu quae dicitur Virgilii cum non sit, De speculo, Mira Virgilii versus experientia, Mira Virgilii experientia, De quattuor temporius anni, De ortu solis, De Herculis laboribus, De littera y, De signis caelestibus; dazu (Blätter C₂ recto - G₅ verso): Priapea (Ad Priapum), Copa, Est et non, Vir bonus, Rosae, Culex, Dirae, Aetna, Ciris, Catalecton, Moretum    
+500      |a Impressum gemäss Kolophon    
+500      |a Signaturformel: a–z¹⁰, aa–cc¹⁰, A–E⁸, F–G⁶    
+500      |a Blatt a₁ recto und Blatt G₆ verso - erste und letzte Seite - unbedruckt    
+505 0 0  |g Blatt a₁ verso    |t Maronis Vita    |r [Aelius Donatus]    |g Blatt a₆ recto    |t P. Virgilii Maronis Bvcolica ...    |g Blatt c₅ recto    |t P. Virgilii Maronis Georgicoru[m]. Liber Primus    |g Blatt g₄ recto    |t Pvblii Virgilii Maronis Aeneidos Liber Primvs    |g Blatt C₁ verso    |t Su[m]ma Virgilianæ narrationis in tribus operibus Bucolicis: Georgicis: & Aeneide    
+510 4    |a BSB-Ink    |c V-113    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_V-113.html    
+510 4    |a GW    |c M49806    |u http://gesamtkatalogderwiegendrucke.de/docs/M49806.htm    
+510 4    |a ISTC    |c iv00169000    |u http://data.cerl.org/istc/iv00169000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00057282/image_6    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert), Linien und Ornamentrollen- Blindprägung auf beiden Deckeln und dem Rücken sowie Titelschild in Goldprägung auf dem Rücken: "Virgilius", handschriftlich darunter in Tinte: "1480", darunter: "Venet."    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 32.3 x 23.0 x 5.5 cm    
+563      |a Zustand Einband: Schäden am Einbandleder zurückgeklebt bzw. retuschiert, Vorsätze mit Papierfalz verstärkt    
+590      |a Buchblockbeschreibung: 312 von 312 Blättern, vorgesehene Stellen für Initialen teilweise frei gelassen (bei Anfangsinitiale auf Blatt a₁ verso mit Bibliotheksstempel belegt); sonst rot ausgezeichnete Initialen, Rubrizierung    
+590      |a Handschriftliche Marginalien von einer Hand im ersten Teil des Bandes, bis Lage o; von weiterer Hand auf Blättern A₈ und B₁ verso, sowie Blatt G₅    
+590      |a Historische Signatur handschriftlich auf leerer erster Seite (Blatt a₁ recto): "Poet. 25"    
+590      |a Frühere Signatur: Inc 173    
+700 1 2  |a Vergilius Maro, Publius    |d v70-v19    |t Werke    |0 (DE-588)1138731986    
+700 1 2  |a Vergilius Maro, Publius    |d v70-v19    |t Appendix Vergiliana    |0 (DE-588)4078808-8    
+700 0    |a Servius    |d ca. 4./5. Jh.    |0 (DE-588)118796313    |e Kommentarverfasser    |4 wac    
+700 0 2  |a Servius    |d ca. 4./5. Jh.    |t In Vergilii carmina commentarii    |0 (DE-588)4138843-4    
+700 1    |a Donatus, Aelius    |d ca. 4. Jh.    |0 (DE-588)118526715    |e Verfasser    |e Kommentarverfasser    |4 aut    |4 wac    
+700 1 2  |a Donatus, Aelius    |d ca. 4. Jh.    |t Vita Vergilii    |0 (DE-588)4311612-7    
+700 1 2  |a Donatus, Aelius    |d ca. 4. Jh.    |t Commentarii in Vergilii eclogas    |0 (DE-588)4558955-0    
+700 1    |a Vegius, Mapheus    |d 1407-1458    |0 (DE-588)100963757    |e Verfasser    |4 aut    
+700 1 2  |a Vegius, Mapheus    |d 1406-1458    |t Supplementum Aeneidos    |0 (DE-588)4717147-9    
+700 1    |a Brivio, Giuseppe    |d 1378-1450    |0 (DE-588)118967509    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Ovidius Naso, Publius    |d v43-17    |0 (DE-588)118590995    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Avitus, Alcimus Ecdicius    |d 455-518    |0 (DE-588)118966626    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Gallus, Gaius Cornelius    |d v69-v26    |0 (DE-588)118716247    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Piasi, Pietro <<de'>>    |0 (DE-588)1037638131    |e Drucker    |4 prt    
+700 1    |a Blavi, Bartolomeo <<de'>>    |0 (DE-588)1037617150    |e Drucker    |4 prt    
+700 1    |a Asulanus, Andreas    |d 1451-1529    |0 (DE-588)120730030    |e Drucker    |4 prt    
+730 0 2  |a Summa Virgilianae narrationis in tribus operibus Bucolicis, Georgicis et Aeneide    |0 (DE-588)1235857891    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Inc III 26    |9 (41SLSP_UBE)99116753874905511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc III 26    |b B404    |9 (41SLSP_UBE)99116753874905511    
+986      |a (41SLSP_UBE)99116753874905511    |9 (41SLSP_UBE)99116753874905511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116753874905511    
+991      |a AAK: 0921838    |5 IZ UBE/09.08.2017/B404/vha    |9 local    |9 (41SLSP_UBE)99116753874905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

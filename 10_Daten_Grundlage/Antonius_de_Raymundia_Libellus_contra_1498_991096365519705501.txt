@@ -1,0 +1,148 @@
+﻿<-1-1-START->
+Antonius de Raymundia
+<-1-1-STOP->
+
+<-1-2-START->
+Libellus contra beneficiorum reservationes
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Enthält ausserdem: Epistola luciferi<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Paris: Guy Marchant, um 1498]
+<-500-START->Drucker gemäss ISTC: "Guy Marchant, in part for Jean Petit"<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+16 ungezählte Seiten: 1 Illustration, Druckermarke; 19 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://gesamtkatalogderwiegendrucke.de/docs/GW02255.htm<-L-5-STOP-><-VI-5-START->GW 02255<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ia00916000<-L-5-STOP-><-VI-5-START->ISTC ia00916000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+<-6-1-STOP->
+
+<-7-1-START->
+Flexibler Pergamenteinband mit durchzogenen Bünden (Leder) und Stosskanten sowie Spuren von Verschlussbändern (Leder)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars; F. de Perins
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 11 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116720481005511<-L-11-STOP-><-VI-11-START->MUE Bong I 527 : 3<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991096365519705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Antonius de Raymundia<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Paris<-O-STOP->
+<-P-START->Marchant, Guy<-P-STOP->
+<-O-START->Paris<-O-STOP->
+<-P-START->Petit, Jean<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-P-START->Perins, F. de<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991096365519705501<-DOI-STOP->
+<-SIGN-START->MUE Bong I 527 : 3<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05012nam a2200637 c 4500
+001 991096365519705501
+005 20221214114532.0
+008 100325s1498    fr            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/25.03.2010    
+035      |a (swissbib)064015319-41slsp_network    
+035      |a 064015319    |9 ExL    
+035      |a (IDSBB)005199488DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991096365519705501    
+035      |a (41SLSP_UBE)99116720481005511    |9 (41SLSP_UBE)99116720481005511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Antonius    |c de Raymundia    |d ca. 15. Jh.    |0 (DE-588)1089809050    |e Verfasser    |4 aut    
+240 1 0  |a Libellus contra beneficiorum reservationes    
+245 1 0  |a Opusculorum no[m]i[n]a Aureus libellus co[n]tra beneficiorum reseruationes    |b ; Epistola luciferi ad malos principes ecclesiasticos    
+246 1    |i Titel in normalisierter Form    |a Opusculorum nomina Aureus libellus contra beneficiorum reservationes    
+246 1 0  |a Aureus libellus contra beneficiorum reservationes    
+246 1    |i Incipit    |a Tractatus sole[n]nis fratris anthonij de raymu[n]dis ordinis sancti benedicti iuris vtriusq[ue] doctoris ... contra reseruationes speciales [et] no[m]i[n]ales/ fere omniu[m] prelatura[rum]. que hodie abusiue pullularu[n]t in ecclesia gallicana    
+246 1    |i Kolophon    |a Finit tractatus contra speciales [et] no[m]i[n]ales reseruationes dignitatum [et] aliorum beneficiorum ecclesiasticorum    
+246 1    |i Kolophon in normalisierter Form    |a Finit tractatus contra speciales et nominales reservationes dignitatum et aliorum beneficiorum ecclesiasticorum    
+246 1 0  |a Tractatus contra speciales et nominales reservationes dignitatum et aliorum beneficiorum ecclesiasticorum    
+250      |a nuperrime editus et impressus    
+264   1  |a [Paris]    |b [Guy Marchant]    |c [um 1498]    
+300      |a 16 ungezählte Seiten    |b 1 Illustration    |c 19 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Impressum gemäss GW und ISTC (Drucker gemäss ISTC: "Guy Marchant, in part for Jean Petit")    
+500      |a Titelseite mit Druckermarke (mit Initialen G M; Renouard 703), Titelblatt verso mit Holzschnitt-Illustration    
+500      |a Signaturformel: a⁸    
+510 4    |a GW    |c 02255    |u https://gesamtkatalogderwiegendrucke.de/docs/GW02255.htm    
+510 4    |a ISTC    |c ia00916000    |u http://data.cerl.org/istc/ia00916000    
+530      |a Digitalisat (Exemplar der Bibliotèque Mazarine, Paris; Titelblatt verso unbedruckt)    |u http://mazarinum.bibliotheque-mazarine.fr/records/item/2367-redirection    
+530      |a Digitalisat (Exemplar der Médiathèque municipale, Montpellier; Titelblatt verso mit Holzschnitt)    |u https://mediatheques.montpellier3m.fr/Default/doc/IFD/INCUNABLES_17899/libellus-contra-beneficiorum-reservationes    
+561      |a Handschriftliche Widmung auf der Titelseite (verblichen, teils unleserlich): "A mons. ...? F. De Perins ..."    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Flexibler Pergamenteinband mit durchzogenen Bünden (Leder) und Stosskanten sowie Spuren von Verschlussbändern (Leder); auf dem Rücken handschriftlich in Tinte Auflistung von 5 Kurztiteln enthaltener Drucke; auf vorderem Deckel in Tinte Auflistung von Druckorten und Druckjahren enthaltener Drucke    
+563      |a Vorsätze: vorne und hinten mit zwei fliegenden Blättern    
+563      |a Masse Einband: 19.3 x 14.7 x 2.5 cm    
+563      |a Zustand Einband: Einbandpergament deformiert mit Wellenbildung, Spuren verblasster Tintenschrift unterhalb der aktuellen Rückenbeschriftung, Japanpapierüberklebungen an den vorderen Einschlägen des Einbandpergamentes und in vorderem und hinterem Falz, Verschlussbänder fehlend    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung 8 von 8 Blättern, keine Rubrizierung    
+590      |a Zustand Buchblock: grossflächige Feuchtigkeitsränder; Blätter a₁ und a₈ im Falz eingerissen; Druckfarbenabklatsch oder Fehldruck an Blättern a₁ recto, a₃ verso und a₈ verso    
+590      |a Zusammengebunden mit 11 weiteren Drucken in Sammelband    
+590      |a Historische Signatur auf vorderem Innendeckel (Einschlag des Pergaments): "Hist: Eccl: 251."; "251" durchgestrichen, daneben: "154"    
+590      |a Frühere Signaturen: Inc V 129; Inc 501; Hortin XIV 11    
+700 0 2  |a Antonius    |c de Raymundia    |d ca. 15. Jht.    |t Libellus contra beneficiorum reservationes    |0 (DE-588)1169598307    
+700 1    |a Marchant, Guy    |d 14XX-1505    |0 (DE-588)138932433    |e Drucker    |4 prt    
+700 1    |a Petit, Jean    |d 14XX-1540    |0 (DE-588)1037534433    |e Buchhändler    |4 bsl    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Perins, F. <<de>>    |e Widmungsempfänger    |4 dte    |e Früherer Eigentümer    |4 fmo    
+730 0    |a Epistola Luciferi    |0 (DE-588)1169601650    
+751      |a Paris    |0 (DE-588)4044660-8    
+852 4    |b B404    |c 404U3    |j MUE Bong I 527 : 3    |9 (41SLSP_UBE)99116720481005511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc V 129 : 3    |c 404U3    |z Zusammengebunden mit 11 weiteren Drucken in Sammelband    |p 12    |j MUE Bong I 527 : 3    |b B404    |9 (41SLSP_UBE)99116720481005511    
+986      |a (41SLSP_UBE)99116720481005511    |9 (41SLSP_UBE)99116720481005511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116720481005511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116720481005511    
+991      |a Bongars: 00515    |5 IZ UBE/B400/25.03.2010    |9 local    |9 (41SLSP_UBE)99116720481005511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

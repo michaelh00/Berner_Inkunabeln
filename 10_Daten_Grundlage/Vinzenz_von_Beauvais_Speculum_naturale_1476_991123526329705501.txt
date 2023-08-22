@@ -1,0 +1,138 @@
+﻿<-1-1-START->
+Vinzenz von Beauvais
+<-1-1-STOP->
+
+<-1-2-START->
+Speculum naturale
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Straßburg: Adolf Rusch, nicht nach 15.06.1476]
+<-3-1-STOP->
+
+<-4-1-START->
+2 Bände; 49 cm (2°)
+<-500-START->Band 1: 1 ungezähltes Blatt, 736 ungezählte Seiten, 1 ungezähltes Blatt; Band 2: 654 ungezählte Seiten, 1 ungezähltes Blatt<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_V-206.html<-L-5-STOP-><-VI-5-START->BSB-Ink V-206<-VI-5-STOP->; <-L-5-START->http://gesamtkatalogderwiegendrucke.de/docs/M50635.htm<-L-5-STOP-><-VI-5-START->GW M50635<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/iv00292000<-L-5-STOP-><-VI-5-START->ISTC iv00292000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+Band 1: 368 von 370 Blättern, Band 2: 327 von 328 Blättern, in verschiedenen Farben ausgezeichnete und teilweise ausgeschmückte Initialen sowie in Band 1 mehrfarbige Zierinitialen, mit grösserer Federzeichnung ergänzte Initiale auf Blatt [DD]₁ verso, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+2 ganzbezogene Ledereinbände auf Holzdeckeln (chamois, Schwein) mit Schliessen und Spuren vormaliger Eck- und Mittel-Beschläge auf beiden Deckeln (Eckbeschläge an Band 2 noch vorhanden), Linien- und Ornamentstempel-Blindprägung auf allen Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Kloster Sankt Mang Füssen, Werner Zesiger
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Die unbedruckten Blätter [a]₁ und [N₁₀] von Band 1 und [LL₈] von Band 2 fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116790797905511<-L-11-STOP-><-VI-11-START->MUE Zesk 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991123526329705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Vinzenz von Beauvais<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Rusch, Adolph<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Zesiger, Werner<-P-STOP->
+<-P-START->Kloster Sankt Mang Füssen<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991123526329705501<-DOI-STOP->
+<-SIGN-START->MUE Zesk 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 07479nam a2200553 ca4500
+001 991123526329705501
+005 20220106142357.0
+008 941124s1476    gw            00| | lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/22.09.2016/B404/faf    
+035      |a (swissbib)024758736-41slsp_network    
+035      |a 024758736    |9 ExL    
+035      |a (IDSBB)001051018DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991123526329705501    
+035      |a (41SLSP_UBE)99116790797905511    |9 (41SLSP_UBE)99116790797905511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Vinzenz    |c von Beauvais    |d 1190-1264    |0 (DE-588)118627163    |e Verfasser    |4 aut    
+240 1 0  |a Speculum naturale    
+245 1 0  |a Incipit speculu[m] naturale Vincentij beluace[n]s[is] fratris ordinis p[rae]dicatorum    
+264   1  |a [Strassburg]    |b [Adolf Rusch]    |c [nicht nach 15.06.1476]    
+300      |a 2 Bände    |c 49 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Inhaltsverzeichnis    
+500      |a Keine Titelseite, Titel gemäss Incipit    
+500      |a Impressum gemäss BSB-Ink, GW und ISTC    
+500      |a Zur Datierung: In der LB Stuttgart ein Exemplar mit Rubrikatorenvermerk vom 15. Juni 1476    
+500      |a Umfang Band 1: 1 ungezähltes Blatt, 736 ungezählte Seiten, 1 ungezähltes Blatt; Band 2: 654 ungezählte Seiten, 1 ungezähltes Blatt    
+500      |a Signaturformel Band 1: [a-b¹⁰, c⁸, d-m¹⁰, n⁸, o-t¹⁰, v⁸, x-z¹⁰, [con]¹⁰, [rum]¹⁰, A-E¹⁰, F-G⁸, H-N¹⁰]; Band 2: [aa⁸, bb-oo¹⁰, pp⁶, qq⁸, rr-zz¹⁰, AA-II¹⁰, KK-LL⁸]    
+500      |a Die Blätter [a]₁, [N₁₀]  und [LL₈] sind unbedruckt    
+510 4    |a BSB-Ink    |c V-206    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_V-206.html    
+510 4    |a GW    |c M50635    |u http://gesamtkatalogderwiegendrucke.de/docs/M50635.htm    
+510 4    |a ISTC    |c iv00292000    |u http://data.cerl.org/istc/iv00292000    
+530      |a Digitalisat Band 1 (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/0003/bsb00035779/images    
+530      |a Digitalisat Band 2 (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/0003/bsb00035780/images    
+561      |a Stempel auf Blatt [a₁] recto von Band 1 und auf vorderem Spiegel von Band 2: "Dr. Zesiger"; handschriftlicher Besitzvermerk auf Blatt [a₂] recto von Band 1: "S. Magni in Fuessen"    
+563      |a Einbandbeschreibung: 2 ganzbezogene Ledereinbände auf Holzdeckeln (chamois, Schwein) mit Schliessen und Spuren vormaliger Eck- und Mittel-Beschläge auf beiden Deckeln (Eckbeschläge an Band 2 noch vorhanden), Linien- und Ornamentstempel-Blindprägung auf allen Deckeln, Titelschilder in Goldprägung auf den Rücken: "Vincentii Bellovacensis Ord. Præd. Speculi Naturalis Volum. I Lib I-XVIII Editio Perantiqua" (Band 2: "... Volum. II Lib. XIX-XXXIII ..."), Papierstreifen mit Tintenschrift ("Prima p[ar]s speculi naturalis vince[n]cij" bzw. "Secunda ...") und Signaturschild (Tintenschrift auf Papier, "G 8" bzw. "G 9") auf den Vorderdeckeln, "Sine Anno" in Tintenschrift auf den Rücken    
+563      |a Vorsätze: Vorne und hinten ohne fliegendes Blatt    
+563      |a Masse Einbände: 48.3 x 35 x 13.8 cm (Band 1), 49 x 34.2 x 14 cm (Band 2)    
+563      |a Zustand Einbände: Band 1: Schädlingsfrass am Vorderdeckel und vereinzelt am Rückdeckel sowie am braun gefärbten Titelschild, Schäden am Einbandleder mit Fehlstellen an den Ecken und den Deckelkanten, Schliessenriemen und Hakenteile der Schliessen fehlend, Ösenteile und Schliessenplättchen korrodiert, vormalige Eck- und Mittelbeschläge an beiden Deckeln fehlend, korrigierende Pergamentüberklebung an Papierstreifen auf dem Vorderdeckel, Unterklebung an Signaturschild auf dem Vorderdeckel sichtbar, Buchblock über Deckel hinaus stehend, Deckel deformiert, Spiegel später hinzugefügt; Band 2: Abrieb am Einbandleder vor allem am Rücken, vormalige Mittelbeschläge auf beiden Deckeln fehlend, Schädlingsfrass am Vorderdeckel und vereinzelt am Rückdeckel sowie am braun gefärbten Titelschild, korrigierende Pergamentüberklebung an Papierstreifen auf dem Vorderdeckel, 2 übereinander geklebte Signaturschilder auf dem Vorderdeckel zum Teil abgelöst mit Fehlstellen (darunter direkt auf dem Einbandleder Tintenschrift sichtbar), Ösenteile und Schliessenplättchen korrodiert, Hakenteile und Schliessenriemen später ergänzt, Spiegel später hinzugefügt    
+590      |a Buchblockbeschreibung: Band 1: 368 von 370 Blättern, Band 2: 327 von 328 Blättern, handschriftliche Lagensignatur in Graphit, teilweise Reste einer grösstenteils abgeschnittenen Lagensignatur in Tinte zu erkennen, handschriftliche Foliierung in Graphit auf vereinzelten Blättern, an Lagenenden Kustoden in Tinte, Pergamentfalz (Manuskriptmakulatur) hinter Lage [a] und vor Lage [N] gehört zum Ansatzfalz, Blatt [a]₁ bestehend aus Falz von Blatt [a]₁₀ und zwei angeklebten Papierstücken, Blätter [i]₅ und [i]₆ als Einzelblätter mitgeheftet (siehe Papierfälze zwischen Blättern [i]₄-₅ und [i]₅-₆), Blatt [N]₁₀ nur als Falz vorhanden und auf dem Rückdeckel verklebt, Blinddruckmarken entsprechend der Kolumnenbegrenzungen, in verschiedenen Farben ausgezeichnete und teilweise ausgeschmückte Initialen sowie in Band 1 mehrfarbige Zierinitialen, in Band 2 vorgesehene Stellen für grosse Initialen grösstenteils frei gelassen, mit grösserer Federzeichnung ergänzte Initiale auf Blatt [DD]₁ verso, Rubrizierung (gegen Ende von Band 2 teils in Grün), Buchzählung handschriftlich in Rot als Kolumnentitel auf Rectoseiten eingetragen (in Band 1 in arabischen Ziffern, in Band 2 in lateinischen), Doppel-Schnur als Lesezeichen am oberen Kapital von Band 1 angenäht    
+590      |a Zustand Buchblöcke: Band 1: Schädlingsfrass an den unteren Blattkanten (massiver z. B. in Lagen [s] und [y]), unterschiedliche Verbräunung der Blätter, Heftung in Lage [a] gerissen; Band 2: Blatt [aa]₁ mit Rissen, Fehlstellen und Klebespuren aus vormaliger Verklebung als Spiegel oder aus Verklebung mit einem weiteren Textblatt (siehe Abklatsche zweier farbig ausgezeichneter Initialen), Korrosionsspuren an ersten und letzten Blättern entsprechend der Position der Schliessenvernietung, auffällige Schwemmränder einer Schnittfärbung an den Blattkanten (z. B. Blätter [hh]₂ und [hh]₄), Schäden an ausgezeichneter Initiale durch Auskratzen und Übermalen an Blatt [gg]₈ verso    
+590      |a Vereinzelte handschriftliche Annotationen und Zeichnungen in Tinte    
+590      |a Unvollständiges Exemplar: Die unbedruckten Blätter [a]₁ und [N₁₀] von Band 1 und [LL₈] von Band 2 fehlen    
+700 0 2  |a Vinzenz    |c von Beauvais    |d 1190-1264    |t Speculum naturale    |0 (DE-588)1114415146    
+700 1    |a Rusch, Adolph    |d 1435-1489    |0 (DE-588)138421293    |e Drucker    |4 prt    
+700 1    |a Zesiger, Werner    |d 1902-1958    |0 (DE-588)121027392    |e Früherer Eigentümer    |4 fmo    
+710 2    |a Kloster Sankt Mang Füssen    |0 (DE-588)16073170-7    |e Früherer Eigentümer    |4 fmo    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Zesk 2    |9 (41SLSP_UBE)99116790797905511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |h MUE Zesk 2 : 2    |q Pars 2    |p 12    |j MUE Zesk 2    |b B404    |9 (41SLSP_UBE)99116790797905511    
+949      |c 404U3    |h MUE Zesk 2 : 1    |q Pars 1    |p 12    |j MUE Zesk 2    |b B404    |9 (41SLSP_UBE)99116790797905511    
+986      |a (41SLSP_UBE)99116790797905511    |9 (41SLSP_UBE)99116790797905511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116790797905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

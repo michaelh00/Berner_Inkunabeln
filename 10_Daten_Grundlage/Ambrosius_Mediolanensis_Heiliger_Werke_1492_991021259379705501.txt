@@ -1,0 +1,162 @@
+﻿<-1-1-START->
+Ambrosius Mediolanensis
+<-1-1-STOP->
+
+<-1-2-START->
+Werke [lateinisch]
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Band 1 mit Widmungsbrief des Herausgebers Johannes Heynlin (de Lapide) an den Drucker Johann Amerbach<-500-STOP->
+<-500-START->In Band 1 und Band 3 finden sich an unterschiedlichen Stellen Auszüge aus dem Gedicht "In laudem sanctissimi patris Ambrosii" von Sebastian Brant (vergleiche Bod-Inc A-228); das Gedicht erschien vollständig in: Varia carmina / Sebastian Brant. Basel: Johann Bergmann de Olpe, 1498 (GW 5086)<-500-STOP->
+<-500-START->Holzschnitt in Band 1 (Ambrosius am Schreibpult) gemäss BSB-Ink "vom Meister des Haintz Narr"<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Basel: Johannes Amerbach, 1492
+<-3-1-STOP->
+
+<-4-1-START->
+3 Bände: 1 Illustration; 33 cm (2°)
+<-500-START->Band 1: 535 ungezählte Seiten; Band 2: 603 ungezählte Seiten; Band 3: 579 ungezählte Seiten<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://incunables.bodleian.ox.ac.uk/record/A-228<-L-5-STOP-><-VI-5-START->Bod-Inc A-228<-VI-5-STOP->; <-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-480.html<-L-5-STOP-><-VI-5-START->BSB-Ink A-480<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW01599.htm<-L-5-STOP-><-VI-5-START->GW 01599<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ia00551000<-L-5-STOP-><-VI-5-START->ISTC ia00551000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+Band 1: 268 von 268 Blättern, Band 2: 302 von 302 Blättern, Band 3: 290 von 290 Blättern;  Illustration (Holzschnitt, Band 1, Blatt a₁) koloriert, rot oder blau ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+3 ganzbezogene Ledereinbände auf Holzdeckeln (chamois, Schwein) mit mittigen Schliessen sowie Spuren von Kettenösen an den Oberkanten der Rückdeckel, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln; Buchbinder: Hans Leman
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Kloster Thorberg
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116909268205511<-L-11-STOP-><-VI-11-START->MUE Inc III 23<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991021259379705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Ambrosius Mediolanensis<-P-STOP->
+<-P-START->Heynlin, Johannes<-P-STOP->
+<-P-START->Brant, Sebastian<-P-STOP->
+<-P-START->Meister des Haintz Narr<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Amerbach, Johannes<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-P-START->Leman, Hans<-P-STOP->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Kloster Thorberg<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991021259379705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 23<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 09490nam a2200757 ca4500
+001 991021259379705501
+005 20211215172227.0
+008 170807s1492    sz |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/07.08.2017/B404/vha    
+035      |a (swissbib)071900268-41slsp_network    
+035      |a 071900268    |9 ExL    
+035      |a (IDSBB)006720018DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991021259379705501    
+035      |a (41SLSP_UBE)99116909268205511    |9 (41SLSP_UBE)99116909268205511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Ambrosius    |c Mediolanensis, Heiliger    |d 339-397    |0 (DE-588)11850245X    |e Verfasser    |4 aut    
+240 1 0  |a Werke    
+245 1 0  |a Operu[m] sancti Ambrosij pars ...    
+246 1    |i Titel gemäss BSB-Ink, GW und ISTC    |a Opera    
+246 1    |i Titel in normalisierter Form    |a Operum sancti Ambrosii pars ...    
+264   1  |a Basile[a]e    |b p[er] magistru[m] Johannem de Amerbach    |c Anno salutiferi virginalis partus nonagesimosecundo supra millesimum quaterq[ue] centesimum [1492]    
+300      |a 3 Bände    |b 1 Illustration    |c 33 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Titelseiten in Pars 2 und 3; keine Titelseite in Pars 1, Titel auf Blatt a₃ verso    
+500      |a Pars 1, Blatt a₂-a₃ mit Widmungsbrief von Johannes de Lapide an Johann Amerbach ("Ad Impressorem Epistola")    
+500      |a Mehrere Auszüge aus dem Gedicht "In laudem sanctissimi patris Ambrosii" von Sebastian Brant in Pars 1, Blatt a₁ recto (Zeilen 7-16 des Gedichts), Blatt 3l₈ verso (Zeilen 19-24), 3n₂ verso (Zeilen 27-32), 3t₄ verso (Zeilen 33-38), sowie in Pars 3, Blatt 2i₅ verso (Zeilen 39-44) und 2i₆ recto (Zeilen 45-52; vergleiche Bod-Inc A-228); das Gedicht erschien vollständig in: Brant, Sebastiant: Varia carmina, Basel: Johann Bergmann de Olpe, 1498 (GW 5086), Blätter H₇ recto bis H₈ recto    
+500      |a Impressum gemäss Kolophon (Pars 3, Blatt g₇ verso)    
+500      |a Umfang Band 1: 535 ungezählte Seiten; Band 2: 603 ungezählte Seiten; Band 3: 579 ungezählte Seiten    
+500      |a Signaturformel Band 1: a⁸b⁶-c⁸d⁶, e–f⁶, A–C⁶, a⁸b⁶-c⁸d⁶, e⁴, f⁸g⁶, h⁶, i⁸k⁶, l-m⁸, a⁸b⁶-c⁸d⁶, e⁶, f⁸, g⁴, h⁶, i⁸k⁶-n⁸o⁶, p–q⁶, r⁴, s⁸, t¹⁰; Band 2: a⁸b⁶–l⁸m⁶, n⁶, a⁸b⁶–l⁸m⁶, a⁸, b⁸c⁶–q⁸r⁶, s⁸; Band 3: a⁸b⁶–i⁸k⁶, l–o⁶, a⁸b⁶, c–h⁸, i⁶, I⁶, k⁶, l–n⁸, a⁸b⁶-c⁸d⁶, e–f⁶, a⁸b⁶–e⁸f⁶, g¹⁰    
+500      |a Jeweils letzte Verso-Seite in allen drei Bänden unbedruckt    
+500      |a Band 1, Blatt a₁ recto mit Holzschnitt (Ambrosius am Schreibpult); gemäss BSB-Ink "vom Meister des Haintz Narr"    
+500      |a Band 1, Blatt a₁ verso mit Inhaltsverzeichnis der 3 Bände: "Librorum sancti Ambrosij episcopi Basilee impressoru[m] preuia annotatio"    
+505 0 0  |g Libri prime partis    |t De officijs. Libri. iij.    |t De Vocatio[n]e omniu[m] gentiu[m]. libri. ij.    |t Hexaemeron. libri. vj.    |t De Dignitate hu[m]anæ co[n]ditio[n]is. liber j.    |t De Paradiso. liber j.    |t De Cain & Abel. libri. ij.    |t De Noe & arca. liber j.    |t De Abraa[m] patriarcha. libri. ij.    |t De Isaac & anima. liber. j.    |t De Bono mortis. liber. j.    |t De Fuga sæculi. liber. j.    |t De Iacob & uita beata. libri. ij.    |t De Ioseph patriarcha. liber. j.    |t De B[e]n[e]dictionib[us] p[at]riarcha[rum]. liber. j.    |t De Nabuthe Ieçraelita. liber. j.    |t De Helia & ieiunio. liber. j.    |t De Tobia. liber. j.    |t De Interpellatio[n]ibus. libri. iij.    |t De Apologia dauid. liber. j.    |t De Salomone. liber. j.    |t De Mysterijs initia[n]dis. liber. j.    |t De Sacramentis. libri. vj.    |t De Dignitate sacerdotali: uel Cura pastorali. li. j.    |t Or[ati]ones præparatiuæ ad missæ celebratione[m]. ij.    
+505 0 0  |g Libri secunde partis    |t Expositionis in Psalmu[m]. cxviij. uidelicet: Beati imaculati. sectiones. xxij.    |t Expositionis in Eua[n]geliu[m] s[ecundu]m Lucam. libri. x.    |t Expositionis in tredecim Ep[isto]las Pauli ap[osto]li. libri. xiij.    
+505 0 0  |g Libri tertie partis    |t Epistolarum. libri. x.    |t De Fide ad Gratianu[m]. libri. v.    |t De Spiritusancto. libri. iij.    |t De Fide contra Arrianos. liber. j.    |t De Incarnatio[n]is d[omi]nicæ sacrame[n]to. li. j.    |t De Mysterio paschæ. liber. j.    |t De Excessu fratris. liber. j.    |t De Fide resurrectionis. liber. j.    |t De Pœnitentia. libri. ij.    |t Adhortatio ad pœnitentiam    |t De Virginibus. libri. iij.    |t De Viduis. liber. j.    |t Adhortationis ad uirgines. liber. j.    |t De Institutione uirginis. liber. j.    |t Ad Virginem deuotam. liber. j.    |t Ad Virginem corruptam. liber. j.    |t In Corruptore[m] uirginis obiurgatio.    |t Ad Virgine[m] corrupta[m] exhortatio    |t Nonagintaquattuor sermonu[m] declamatorio[rum]. liber j.    
+510 4    |a Bod-Inc    |c A-228    |u http://incunables.bodleian.ox.ac.uk/record/A-228    
+510 4    |a BSB-Ink    |c A-480    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-480.html    
+510 4    |a GW    |c 01599    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW01599.htm    
+510 4    |a ISTC    |c ia00551000    |u http://data.cerl.org/istc/ia00551000    
+530      |a Digitalisat (Exemplar der Universitätsbibliothek Basel)    |u http://dx.doi.org/10.3931/e-rara-14463    
+561      |a Handschriftlicher Besitzvermerk auf vorderem Spiegel von Band 2 und 3 (bei Band 1 vermutlich verloren gegangen): "Pertinet Carthusiensib[us] Jn Torberg"    
+563      |a Einbandbeschreibung: 3 ganzbezogene Ledereinbände auf Holzdeckeln (chamois, Schwein) mit mittigen Schliessen sowie Spuren von Kettenösen an den Oberkanten der Rückdeckel, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln; auf den Buchrücken historische Signaturen des Klosters Thorberg mit roter Tinte, sowie Angabe des Teils und Titel enthaltener Werke mit schwarzer Tinte    
+563      |a Gemäss Johann Lindt (Berner Einbände, Buchbinder und Buchdrucker, Bern 1969) Einbände des Berner Buchbinders Hans Leman    
+563      |a Vorsätze: ohne fliegende Blätter    
+563      |a Masse Einbände: 32.5 x 22.5, Band 1: x 8.0 cm, Band 2: x 8.5 cm, Band 3: 8.3 cm    
+563      |a Zustand Einband: Zustand Einbände: fliegende Blätter vorne und hinten heraus geschnitten, Hakenteil sowie Schliessenriemen an Band 1 und 2 ergänzt, Löcher mit Rostabdruck von vormaliger Ankettung; Band 1: Pergamentfälze vor erstem und letztem Blatt ursprünglich als Ansatzfalz auf den Deckeln verklebt (jetzt hoch gelöst wie auch Teil des Spiegel auf Rückdeckel), Pergamentfalz vorne mit Klebestreifen auf dem Spiegel fixiert, Schäden durch Schädlingsfrass am Rückdeckel; Band 2: Teil des Spiegels auf Rückdeckel heraus gerissen    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: Band 1: 268 von 268 Blättern, Band 2: 302 von 302 Blättern, Band 3: 290 von 290 Blättern; Band 1: Pergamentverstärkung innen in erster und letzter Lage, Pergament aussen um erste und letzte Lage gelegt (Pergamentfälze zwischen erster und zweiter Lage sowie vorletzter und letzter Lage sowie vor erstem und letztem Blatt); Illustration (Holzschnitt) auf Blatt a₁ in Band 1 koloriert, rot oder blau ausgezeichnete Initialen, Rubrizierung; Blattweiser aus Leder (alle drei Bände)    
+590      |a Zustand Buchblöcke: Risse und Fehlstellen mit Büttenpapier verstärkt, Schäden durch Schädlingsfrass vor allem an den ersten Blättern, zum Teil Ränder von gelbem Farbschnitt    
+590      |a Historische Signatur des Klosters Thorberg mit roter Tinte auf den Buchrücken: Band 1: "E XIX"; Band 2: "E XX"; Band 3: "E XXI"    
+590      |a Historische Signatur auf vorderem Spiegel: Band 1: "Patr: No. 204. 140."; Band 2: "Patr: No. 205. 141."; Band 3: "Patr: No. 206. 142."    
+590      |a Auf letzter Seite (Blatt t₁₀ verso) von Band 1 handschriftlich: "Oper[um] s[an]c[t]i ambrosii p[ar]s p[ri]ma"    
+590      |a Historische Signaturen des Klosters Thorberg auf den Buchrücken: Band 1: "E XIX"; Band 2: "E XX"; Band 3: "E XXI"    
+590      |a Historische Signaturen auf vorderem Spiegel: Band 1: "Patr: No. 204. 140."; Band 2: "Patr: No. 205. 141."; Band 3: "Patr: No. 206. 142."    
+590      |a Frühere Signatur: Inc 346    
+700 0 2  |a Ambrosius    |c Mediolanensis    |d 339-397    |t Werke    |0 (DE-588)1151581488    
+700 1 2  |a Brant, Sebastian    |d 1458-1521    |t In laudem sanctissimi patris Ambrosii    |0 (DE-588)1237248140    
+700 1    |a Amerbach, Johannes    |d 1440-1513    |0 (DE-588)123073189    |e Widmungsempfänger    |4 dte    
+700 1    |a Amerbach, Johannes    |d 1440-1513    |0 (DE-588)123073189    |e Drucker    |4 prt    
+700 1    |a Heynlin, Johannes    |d 1430-1496    |0 (DE-588)119011700    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Brant, Sebastian    |d 1458-1521    |0 (DE-588)118514474    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Leman, Hans    |d ca. 1480-1558    |0 (DE-588)1116441802    |e Buchbinder    |4 bnd    
+710 2    |a Kloster Thorberg    |0 (DE-588)7725716-9    |e Früherer Eigentümer    |4 fmo    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc III 23    |9 (41SLSP_UBE)99116909268205511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |h MUE Inc III 23 : 2    |q Pars secunda    |p 12    |j MUE Inc III 23    |b B404    |9 (41SLSP_UBE)99116909268205511    
+949      |c 404U3    |h MUE Inc III 23 : 3    |q Pars tertia    |p 12    |j MUE Inc III 23    |b B404    |9 (41SLSP_UBE)99116909268205511    
+949      |c 404U3    |h MUE Inc III 23 : 1    |q Pars prima    |p 12    |j MUE Inc III 23    |b B404    |9 (41SLSP_UBE)99116909268205511    
+986      |a (41SLSP_UBE)99116909268205511    |9 (41SLSP_UBE)99116909268205511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116909268205511    
+991      |a AAK: 0015912    |5 IZ UBE/07.08.2017/B404/vha    |9 local    |9 (41SLSP_UBE)99116909268205511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

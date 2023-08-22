@@ -1,0 +1,154 @@
+﻿<-1-1-START->
+Cyprianus, Thascius Caecilius
+<-1-1-STOP->
+
+<-1-2-START->
+Werke [lateinisch]
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Widmung des Herausgebers, Johannes Andreas (Bischof von Aleria), an Papst Paul II.<-500-STOP->
+<-500-START->Enthält 54 Briefe und 13 Traktate von Cyprianus, sowie drei Werke, die Cyprianus fälschlich zugeschrieben wurden<-500-STOP->
+<-500-START->Enthaltene Traktate von Cyprianus (neben den Briefen): Ad Donatum; Ad Demetrianum; De opere et eleemosynis; Ad Fortunatum; De zelo et livore; De bono patientiae; De mortalitate; De habitu virginum; De catholicae ecclesiae unitate; De lapsis; De dominica oratione; Quod idola dii non sint; Ad Quirinum<-500-STOP->
+<-500-START->Die drei fälschlich Cyprianus zugeschriebenen Werke sind: De singularitate clericorum, De montibus Sina et Sion und De revelatione capitis beati Johannis Baptistae<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Rom: Konrad Sweynheym und Arnold Pannartz, 1471
+<-500-START->Gemäss BSB-Ink, GW und ISTC im Januar oder Februar 1471 erschienen<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 6 ungezählte Seiten, 1 ungezähltes Blatt, 359 ungezählte Seiten, 1 ungezähltes Blatt; 32 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_C-724.html<-L-5-STOP-><-VI-5-START->BSB-Ink C-724<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW07883.htm<-L-5-STOP-><-VI-5-START->GW 7883<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/ic01010000<-L-5-STOP-><-VI-5-START->ISTC ic01010000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+185 von 186 Blätter
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Pergamenteinband auf Kartondeckeln mit durchzogenen Bünden und Stosskanten (17. Jahrhundert), mit Spuren von Verschlussbändern (grün, Textil), Linien-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Unbedrucktes Blatt [a₁] fehlt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116678851305511<-L-11-STOP-><-VI-11-START->MUE Bong I 502<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991157836289705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Cyprianus, Thascius Caecilius<-P-STOP->
+<-P-START->Johannes Andreas<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Rom<-O-STOP->
+<-P-START->Sweynheym, Konrad<-P-STOP->
+<-O-START->Rom<-O-STOP->
+<-P-START->Pannartz, Arnold<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991157836289705501<-DOI-STOP->
+<-SIGN-START->MUE Bong I 502<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06007nam a2200661 c 4500
+001 991157836289705501
+005 20211215194712.0
+008 100526s1471    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/26.05.2010    
+035      |a (swissbib)062440365-41slsp_network    
+035      |a 062440365    |9 ExL    
+035      |a (IDSBB)005234395DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991157836289705501    
+035      |a (41SLSP_UBE)99116678851305511    |9 (41SLSP_UBE)99116678851305511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Cyprianus, Thascius Caecilius    |c Heiliger    |d 200-258    |0 (DE-588)118523112    |e Verfasser    |4 aut    
+240 1 0  |a Werke    
+245 1 0  |a [Opera]    |c [Thascius Caecilius Cyprianus]    
+264   1  |a Rome impresserunt talia multa simul    |b Co[n]radus suueynheym: Arnoldus pa[n]nartzq[ue] magistri    |c .M.CCCC.LXXI. [1471]    
+300      |a 1 ungezähltes Blatt, 6 ungezählte Seiten, 1 ungezähltes Blatt, 359 ungezählte Seiten, 1 ungezähltes Blatt    |c 32 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Herausgegeben von Johannes Andreas (de Bossis, Bischof von Aleria)    
+500      |a Enthält 54 Briefe und 13 Traktate von Cyprianus, sowie 3 Werke, die Cyprianus fälschlich zugeschrieben wurden    
+500      |a Enthaltene Traktate (neben den Epistolae, ohne die 3 pseudo-cyprianischen Schriften): Ad Donatum; Ad Demetrianum; De opere et eleemosynis; Ad Fortunatum; De zelo et livore; De bono patientiae; De mortalitate; De habitu virginum; De catholicae ecclesiae unitate; De lapsis; De dominica oratione; Quod idola dii non sint; Ad Quirinum    
+500      |a Widmungsbrief "Io. An. Episcopi Alerien[sis] ad Paulum .II. Venetum Pon. Max. in epistolas Diui Cypriani. Epistola" (Blatt [a₂] recto), datiert "Rome Pontificatus tui florentis. Anno. VII." (1470/1471)    
+500      |a Inhaltsverzeichnis: "Epistolaru[m] Sa[n]cti Cypriani Martyris Carthaginensis Episcopi tabula" (Blatt [a₃] verso); es umfasst nicht nur die "Epistolae" im engeren Sinne, sondern auch die Traktate    
+500      |a Impressum gemäss Kolophon (in Versform, Blatt [t₁₁] recto); Reihenfolge der Vorlage: "... Co[n]radus suueynheym: Arnoldus pa[n]nartzq[ue] magistri. / Rome impresserunt talia multa simul. / Petrus cum fratre Francisco Maximus ambo / Huic operi aptatam contribuere domum / .M.CCCC.LXXI."    
+500      |a Gemäss BSB-Ink, GW und ISTC im Januar oder Februar 1471 erschienen    
+500      |a Signaturformel: [a⁴, b¹⁰, c⁸, d–m¹⁰, n¹², o–s¹⁰, t¹²]    
+500      |a Blätter [a₁], [b₁] und [t₁₂] unbedruckt, Blatt [t₁₁] verso unbedruckt    
+505 0 0  |g 3 Traktate, die fälschlich Cyprian zugeschrieben wurden (Pseudo-Cyprianus)    |g Blatt [o₄] recto    |t De singularitate clericorum    |g Blatt [p₁₀] recto    |t De mo[n]tibus Syna et Sion aduersus Iudeos    |g Blatt [t₈] verso    |t Incipit reuelatio capitis beati Ioha[n]nis Baptiste    
+510 4    |a BSB-Ink    |c C-724    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_C-724.html    
+510 4    |a GW    |c 7883    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW07883.htm    
+510 4    |a ISTC    |c ic01010000    |u https://data.cerl.org/istc/ic01010000    
+530      |a Digitalisat (Exemplar der Biblioteca Vaticana)    |u https://digi.vatlib.it/view/Inc.Chig.II.26    
+561      |a Handschriftlicher Besitzvermerk auf Blatt [a₂] recto (erste Textseite): "Bongars"    
+563      |a Einbandbeschreibung: Ganzbezogener Pergamenteinband auf Kartondeckeln mit durchzogenen Bünden und Stosskanten (17. Jahrhundert), mit Spuren von Verschlussbändern (grün, Textil), Linien-Blindprägung auf beiden Deckeln    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Zustand Einband: Brüche und Kratzer im Einbandpergament, starke Verfleckung durch Flüssigkeitsschaden an Vorderdeckel, Stosskanten deformiert, Verschlussbänder fehlend, beide Vorsätze im Falz mit Japanpapier stabilisiert, Japanpapierüberklebung an fliegendem Blatt des vorderen Vorsatzes    
+563      |a Masse Einband: 32.0 x 22.0 x 4.6 cm    
+563      |a Detailliertere Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 185 von 186 Blättern, handschriftliche Lagensignatur in Graphit (gemäss GW) ab Lage b, jeweils auf dem ersten Blatt jeder Lage unten rechts; Papierfalz vor Blatt [a₁] von umgeklebtem Einzelblatt [a₃], vorgesehene Stellen für Initialen frei gelassen, keine Rubrizierung    
+590      |a Zustand Buchblock: starke Verfleckung durch Flüssigkeitsschaden und Schimmelkontamination mit Schwachstellen im Papier der ersten Lagen    
+590      |a Unbedrucktes Blatt [a₁] fehlt    
+590      |a Handschriftliche Annotationen und Unterstreichungen in Tinte, umfangreichere Annotationen auf den unbedruckten Seiten der Blätter [b₁] verso, [t₁₁] verso und [t₁₂] recto und verso    
+590      |a Historische Signatur auf vorderem Spiegel: "Patr: No. 224."; unter der 224: "130."    
+590      |a Frühere Signaturen: Inc III 25; Inc 285; Hortin III 14    
+700 1 2  |a Cyprianus, Thascius Caecilius    |d 200-258    |t Werke    |0 (DE-588)1162206055    
+700 1 2  |a Cyprianus, Thascius Caecilius    |c Heiliger    |d 200-258    |t De singularitate clericorum    |0 (DE-588)4480454-4    
+700 1 2  |a Cyprianus, Thascius Caecilius    |c Heiliger    |d 200-258    |t De montibus Sina et Sion    |0 (DE-588)4480461-1    
+700 0    |a Johannes    |c Andreas    |d 1417-1475    |0 (DE-588)102519552    |e Herausgeber    |4 edt    
+700 1    |a Sweynheym, Konrad    |d -1477    |0 (DE-588)119073595    |e Drucker    |4 prt    
+700 1    |a Pannartz, Arnold    |d -1478    |0 (DE-588)119073587    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+730 0    |a De revelatione capitis beati Johannis Baptistae    |0 (DE-588)1162360852    
+751      |a Rom    |0 (DE-588)4050471-2    
+852 4    |b B404    |c 404U3    |j MUE Bong I 502    |9 (41SLSP_UBE)99116678851305511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc III 25    |c 404U3    |p 12    |j MUE Bong I 502    |b B404    |9 (41SLSP_UBE)99116678851305511    
+986      |a (41SLSP_UBE)99116678851305511    |9 (41SLSP_UBE)99116678851305511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116678851305511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116678851305511    
+991      |a Bongars: 03759    |5 IZ UBE/B400/26.05.2010    |9 local    |9 (41SLSP_UBE)99116678851305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

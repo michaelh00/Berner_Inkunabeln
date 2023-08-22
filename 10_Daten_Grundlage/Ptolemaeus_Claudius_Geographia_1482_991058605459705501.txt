@@ -1,0 +1,164 @@
+﻿<-1-1-START->
+Ptolemaeus, Claudius
+<-1-1-STOP->
+
+<-1-2-START->
+Geographia
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Vorwort des Herausgebers Nicolaus Germanus, mit Widmung an Papst Paul II.<-500-STOP->
+<-500-START->Übersetzung aus dem Griechischen von Jacobus Angelus de Scarperia (gemäss BSB-Ink, GW und ISTC)<-500-STOP->
+
+<-2-1-STOP->
+
+<-3-1-START->
+Ulm: Lienhart Hol, 16.07.1482
+<-500-START->In manchen Exemplaren findet sich als Ergänzung: Registrum alphabeticum super octo libros Ptolemei. De locis ac mirabilibus mundi / Johann Reger. [Nürnberg : Anton Koberger, nicht vor 21.07.1486] (siehe GW und ISTC; nicht im vorliegenden Exemplar)<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+138 ungezählte Seiten, 32 ungezählte Doppelblätter: Diagramme, 32 Karten; 44 cm (2°)
+<-500-START->Mit Textteil und Kartenteil (32 Doppelblätter)<-500-STOP->
+<-500-START->Zusätzlicher Text zu den Karten, umgeben von Holzschnitt-Bordüren, auf den Aussenseiten einiger Doppelblätter<-500-STOP->
+<-500-START->Holzschneider auf der Weltkarte genannt: Johann Schnitzer<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_P-859.html<-L-5-STOP-><-VI-5-START->BSB-Ink P-859<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M36379.htm<-L-5-STOP-><-VI-5-START->GW M36379<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/ip01084000<-L-5-STOP-><-VI-5-START->ISTC ip01084000<-VI-5-STOP->; <-VI-5-START->Ineichen, Elisabeth: Standort-Katalog "Hospinian". [Bern : Stadt- und Universitätsbibliothek, 1972]<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+131 von 131 Blättern (Textteil: 69, Kartenteil: 64), Druck auf grossformatigem, feinem Velourpergament, Karten aufwendig mehrfarbig koloriert, Initialen und Bordüren im Kartenteil mehrfarbig koloriert, Anfangsinitialen sehr aufwendig, mit Goldgrund und gemalten Blatt- und Blütenranken
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen, Linien- und Ornamentrollen-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Leonhard Wirth
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116863696605511<-L-11-STOP-><-VI-11-START->MUE Hospinian 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991058605459705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Ptolemaeus, Claudius<-P-STOP->
+<-P-START->Nicolaus Germanus<-P-STOP->
+<-P-START->Jacobus Angelus de Scarperia<-P-STOP->
+<-P-START->Schnitzer, Johann<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Ulm<-O-STOP->
+<-P-START->Hol, Lienhart<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Wirth, Leonhard<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991058605459705501<-DOI-STOP->
+<-SIGN-START->MUE Hospinian 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 09216nam a2200793 c 4500
+001 991058605459705501
+005 20220325114428.0
+008 961213s1482    gw            00| | lat d
+019      |a Altbestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von Signaturen    |5 IDSBB/10.01.1997/bestub/mes    
+019      |a AAK: 712533    |5 IDSBB/27.07.2020/B404/vha    
+019      |a Nach Vorlage rekatalogisiert    |5 IDSBB/27.07.2020/B404/vha    
+035      |a (swissbib)032510055-41slsp_network    
+035      |a 032510055    |9 ExL    
+035      |a (IDSBB)001327880DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991058605459705501    
+035      |a (41SLSP_UBE)99116863696605511    |9 (41SLSP_UBE)99116863696605511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a lat    |h grc    
+100 1    |a Ptolemaeus, Claudius    |d 100-178    |0 (DE-588)118641786    |e Verfasser    |e Kartograf    |4 aut    |4 ctg    
+240 1 0  |a Geographia    
+245 1 0  |a Clavdii Ptolomei Viri Alexandrini Cosmographie Octavvs Et Vltimvs Liber Explicit    |c Opvs Donni Nicolai Germani Secvndvm Ptolomevm Finit    
+246 1    |i Titel in normalisierter Form    |a Claudii Ptolomei viri Alexandrini Cosmographie octavus et ultimus liber explicit    
+246 1 0  |a Cosmographie octavus et ultimus liber    
+246 1    |i Incipit    |a Clavdii Ptholomei Viri Alexandrini Cosmographie Liber Primvs Incipit    
+246 1    |i Incipit in normalisierter Form    |a Claudii Ptholomei viri Alexandrini Cosmographie liber primus incipit    
+246 1 0  |a Cosmographie liber primus incipit    
+246 1    |i Titel gemäss BSB-Ink, GW und ISTC    |a Cosmographia    
+264   1  |a Imprssvm[!] Vlme    |b Per Ingeniosvm Virvm Leonardvm Hol Prefati Oppidi Civis    |c Anno MCCCCLXXXII. Avgvsti Vero Kalendas .XVII. [16.07.1482]    
+300      |a 138 ungezählte Seiten, 32 ungezählte Doppelblätter    |b Diagramme, 32 Karten    |c 44 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Übersetzung aus dem Griechischen von Jacobus Angelus de Scarperia (gemäss BSB-Ink, GW und ISTC)    
+500      |a Vorwort des Herausgebers, mit Widmung (Blatt a₁ recto): "Beatissimo Patri Pavlo Secvndo Pontifici Maximo. Donis Nicolavs Germanvs"    
+500      |a Auf der Weltkarte (erstes Doppelblatt) oben: "Insculptum est per Johanne[m] Schnitzer de Arnßheim"    
+500      |a Titel und Impressum gemäss Kolophon; Reihenfolge der Vorlage für das Impressum: "Anno MCCCCLXXXII. Avgvsti Vero Kalendas .XVII. Imprssvm Vlme Per Ingeniosvm Virvm Leonardvm Hol Prefati Oppidi Civis."    
+500      |a Signaturformel (Textteil): a¹⁰, b–g⁸, h¹²–¹    
+500      |a Kartenteil: 32 Doppelblätter, jeweils mit einer Karte (Holzschnitte) auf den Innenseiten    
+500      |a Zusätzlicher Text zu den Karten, umgeben von Holzschnitt-Bordüren, auf den vorderen Aussenseiten der Doppelblätter [2-3], [5], [9-19], [20-22] und [24-32], sowie auf den hinteren Aussenseiten der Doppelblätter [19] und [32] (letztere mit Kolophon)    
+500      |a Diagramme im Textteil auf den Blättern a₁₀ verso, b₁ verso und b₂ recto    
+500      |a In manchen Exemplaren findet sich, als Ergänzung zu dieser Ausgabe, von Johann Reger: Registrum alphabeticum super octo libros Ptolemei. De locis ac mirabilibus mundi. [Nürnberg : Anton Koberger, nicht vor 21.07.1486] (siehe Anmerkungen in GW und ISTC; nicht im vorliegenden Exemplar)    
+510 4    |a BSB-Ink    |c P-859    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_P-859.html    
+510 4    |a GW    |c M36379    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M36379.htm    
+510 4    |a ISTC    |c ip01084000    |u https://data.cerl.org/istc/ip01084000    
+510 4    |a Ineichen, Elisabeth: Standort-Katalog "Hospinian". [Bern : Stadt- und Universitätsbibliothek, 1972]    
+530      |a Digitalisat (Exemplar der Universitäts- und Landesbibliothek Darmstadt)    |u http://tudigit.ulb.tu-darmstadt.de/show/inc-v-27/0260    
+561      |a Handschriftlicher Besitzvermerk auf vorderem fliegenden Blatt verso: "Pro Leonardo Hospiniano. Anno M.D.XXXXV." [1545], darüber griechischer Satz, darunter: "Fiat voluntas tua mi Devs"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen, Linien- und Ornamentrollen-Blindprägung auf beiden Deckeln; auf dem Rücken handschriftlich in Tinte: "Ptolomeus / Tab Geogr / MSS / 1482 / Ulm"    
+563      |a Vorsätze: Vorne mit einem fliegenden Velourpergament-Blatt (Spiegel aus Büttenpapier), hinten mit zwei fliegenden Velourpergament-Blättern (zwei ineinandergefalzte Blätter)    
+563      |a Masse: 30.5 x 43.5 x 6.4 cm    
+563      |a Zustand Einband: Lederüberklebungen am Rücken und der unteren Ecke des Vordeckels (am Rücken mit zusätzlichen Japanpapierüberklebungen), Japanpapierüberklebungen in beiden Vorsätzen    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Ausführliche Beschreibung dieses Exemplars im Katalog "Hospinian", zusammengestellt von Elisabeth Ineichen (Signatur: Hospinian App. 1)    
+590      |a Buchblockbeschreibung: 131 von 131 Blättern (Textteil: 69, Kartenteil: 64), handschriftliche Foliierung in Graphit jeweils für ein Doppelblatt im Kartenteil (von 1 bis 32); Druck auf grossformatigem, feinem Velourpergament, doppelt gefalzter Pergamentfalz aussen um erste Lage gelegt (an Blatt a₁₀ verso verklebt), nadelförmige Durchstechungen (teilweise doppelt) an den Blattecken, Schabspuren von gezahntem Werkzeug sichtbar (zum Beispiel Blatt a₅ recto), Blätter mit abweichendem Format in der Blatthöhe (zum Beispiel Blätter g₃ und g₆), Doppelblätter der Karten mit angeklebten Fälzen integriert (Falzschema zum Teil schwer zuzuordnen); Karten aufwendig mehrfarbig koloriert, Initialen und Bordüren im Kartenteil, mehrfarbig koloriert, Anfangsinitialen auf den Blättern a₁ recto und a₂ verso sehr aufwendig, mit Goldgrund und gemalten Blatt- und Blütenranken; keine Rubrizierung    
+590      |a Zustand Buchblock: Hinter Blatt h₇ im Falz Rand vom abgeschnittenen Blatt; kleine Stücke am Rand ausgerissen auf Blatt f₄ bzw. weggeschnitten auf Blatt g₄ (ohne Textverlust); im Kartenteil kleine Löcher im 4. (Nordeuropa) und im 15. Doppelblatt (Griechenland); ein Riss genäht(!) im 24. Doppelblatt (Syrien, Palästina, Zweistromland, Nordteil der arabischen Halbinsel)    
+590      |a Zustand Buchblock: Abrieb und stellenweise Ausbrüche in der Polimentvergoldung der Initialausstattungen (Blätter a₁ recto und a₂ verso), zum Teil starke Verwellung der Seiten mit Knautschfalten (z.B. Blätter a₁₀ und b₁), natürliche Schwach- oder Fehlstellen im Pergament (zum Beispiel an Blättern a₃, c₂, f₄, g₄ und Karte [4], Nordeuropa) teilweise mit Sicherungsspuren aus dem Herstellungsprozess (Blatt b₁ und b₈ mit Nahtspuren einer temporären Loch- oder Risssicherung während der Spanntrocknung der Haut); Pergamentergänzung vor dem Druckprozess an Blatt f₆ (Pergamenthinterklebung in der S-Initiale an der Recto-Seite) und Blatt h₃, Schädlingsfrass an der unteren Ecke des fliegenden Blattes und des ersten Blattes, Frassspuren an doppelseitiger Karte [1] (Orbis Terrarum) am unteren Blattrand, Abrieb und Ausbrüche im Farbauftrag der doppelseitigen Karten vor allem in den Falzbereichen, starker Abrieb vor allem in den grossflächigen blauen Farbbereichen, mit disloziertem blauem Pigment im Falz der Karte [2] (Prima Europe, Britannien und Irland), Verklebung der Fälze an den doppelseitigen Karten teilweise angelöst (Karte [1], 1. Blatt recto), Spuren vormaliger Verklebungen bzw. Anklebungen (zum Beispiel Karte [2] und Karte [5], Tertia Europe, Frankreich, jeweils an 2. Blatt verso), Karten zum Teil über den Vorderschnitt hinausstehend (besonders Karte [4], Nordeuropa)    
+590      |a Handschriftlich in Tinte auf vorderem fliegenden Blatt, recto: "Devs Est Firmamentvm Mevm", eingerahmt von gezeichnetem Wappen; auf der Verso-Seite unter dem Besitzvermerk: "Fiat voluntas tua mi Devs"; im Text nur zwei kurze handschriftliche Annotationen in Tinte (Blätter a₁₀ recto und h₇ verso)    
+590      |a Historische Signatur auf vorderem Spiegel: "Math. No. 105."; auf Blatt a₁ recto: "Math. 29."    
+590      |a Frühere Signaturen: Inc I 18, Inc 67    
+651   7  |a Alte Welt    |0 (DE-588)4347206-0    |2 gnd    
+655   7  |a Atlas    |2 gnd-content    
+700 1 2  |a Ptolemaeus, Claudius    |d 100-178    |t Geographia    |0 (DE-588)4219528-7    
+700 0    |a Nicolaus    |c Germanus    |d ca. 1420 - ca. 1490    |0 (DE-588)100955037    |e Herausgeber    |4 edt    
+700 0    |a Jacobus    |c Angelus de Scarperia    |d 1360-1410    |0 (DE-588)100012558    |e Übersetzer    |4 trl    
+700 0    |a Paul    |b II.    |c Papst    |d 1417-1471    |0 (DE-588)11923212X    |e Widmungsempfänger    |4 dte    
+700 1    |a Hol, Lienhart    |d 14XX-149X    |0 (DE-588)103762043    |e Drucker    |4 prt    
+700 1    |a Schnitzer, Johann    |0 (DE-588)121022161    |e Druckgrafiker    |4 prm    
+700 1    |a Wirth, Leonhard    |d 1505-1564    |0 (DE-588)121204618    |e Früherer Eigentümer    |4 fmo    
+751      |a Ulm    |0 (DE-588)4061529-7    
+852 4    |b B404    |c 404U3    |j MUE Hospinian 2    |9 (41SLSP_UBE)99116863696605511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc I 18    |c 404U3    |p 12    |j MUE Hospinian 2    |b B404    |9 (41SLSP_UBE)99116863696605511    
+986      |a (41SLSP_UBE)99116863696605511    |9 (41SLSP_UBE)99116863696605511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116863696605511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

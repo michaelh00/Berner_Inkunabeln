@@ -1,0 +1,153 @@
+﻿<-1-1-START->
+Berchorius, Petrus
+<-1-1-STOP->
+
+<-1-2-START->
+Repertorium morale
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Ohne die in der GW-Hauptvariante enthaltene Widmungsvorrede des Herausgebers Johann Beckenhub auf Blatt a₁<-500-STOP->
+<-500-START->Mit Vorwort des Verfassers<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Nürnberg: Anton Koberger, 1489]
+<-3-1-STOP->
+
+<-4-1-START->
+3 Bände; 36 cm (2°)
+<-500-START->Band 1: 1 ungezähltes Blatt, CCXCVIII Blätter, 1 ungezähltes Blatt; Band 2: 1 ungezähltes Blatt, CCCLXXXV Blätter; Band 3: 1 ungezähltes Blatt, CCXCVI, das heisst CCXCVIII Blätter, 1 ungezähltes Blatt<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-294.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-294<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW03866.htm<-L-5-STOP-><-VI-5-START->GW 03866<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib00340000<-L-5-STOP-><-VI-5-START->ISTC ib00340000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+Band 1: 300 von 300 Blättern, Band 2: 386 von 386 Blättern, Band 3: 298 von 300 Blättern (plus 2 zusätzliche), rot und blau ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+3 ganzbezogene Ledereinbände auf Holzdeckeln (braun) mit Schliessen und Eck- sowie Mittelbeschlägen teilweise blau unterlegt, Spuren einer Kettenöse am oberen Rand der Rückdeckel, Linien- und Ornamentstempel-Blindprägung auf den Deckeln, Titel-Blindprägung auf den Vorderdeckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Johannes Büchler; Kloster Thorberg
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Das unbedruckte Blatt A₁ in Band 2 wurde zum grösseren Teil herausgerissen; in Band 3 wurde anstelle des Doppelblattes CCLXXIX und CCLXXXII ein zweites Doppelblatt CCLXVII und CCLXX eingebunden
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116799965705511<-L-11-STOP-><-VI-11-START->MUE Inc I 65<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991156657929705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Berchorius, Petrus<-P-STOP->
+<-P-START->Beckenhub, Johann<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Nürnberg<-O-STOP->
+<-P-START->Koberger, Anton<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Büchler, Johannes<-P-STOP->
+<-P-START->Kloster Thorberg<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991156657929705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 65<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 07128nam a2200685 ca4500
+001 991156657929705501
+005 20211215194312.0
+008 171024s1489    gw |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/24.10.2017/B404/faf    
+035      |a (swissbib)074822934-41slsp_network    
+035      |a 074822934    |9 ExL    
+035      |a (IDSBB)006742131DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991156657929705501    
+035      |a (41SLSP_UBE)99116799965705511    |9 (41SLSP_UBE)99116799965705511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Berchorius, Petrus    |d 1290-1362    |0 (DE-588)119521504    |e Verfasser    |4 aut    
+240 1 0  |a Repertorium morale    
+245 1 0  |a In nomine trinitatis indiuidue. Rep[er]toriu[m] morale p[er]utile predicatorib[us]. Editu[m] p[er] fratrem Petrum bercharij pictauiens[em]. ordinis sancti Benedicti. meritoq[ue] Dictionarius appellatu[m] ... Incipit feliciter    
+246 1    |i Incipit von Band 2    |a Secunda pars dictionarij. De litera. E. ante. A. Incipit feliciter    
+246 1    |i Incipit von Band 2 in normalisierter Form    |a Secunda pars dictionarii de litera E ante A incipit feliciter    
+246 1    |i Incipit von Band 3    |a Incipit litera. P    
+246 1    |i Titel in normalisierter Form    |a In nomine trinitatis individue. Repertorium morale perutile predicatoribus, editum per fratrem Petrum Bercharii Pictaviensem ordinis sancti Benedicti, meritoque Dictionarius appellatum ... incipit feliciter    
+264   1  |a [Nürnberg]    |b [Anton Koberger]    |c [1489]    
+300      |a 3 Bände    |c 36 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Ohne die in der GW-Hauptvariante enthaltene Widmungsvorrede des Herausgebers Johann Beckenhub auf Blatt a₁    
+500      |a Mit Vorwort des Verfassers    
+500      |a Keine Titelseiten, Titel gemäss Incipit von Band 1    
+500      |a Impressum gemäss GW-Hauptvariante    
+500      |a Umfang Band 1: 1 ungezähltes Blatt, CCXCVIII Blätter, 1 ungezähltes Blatt; Band 2: 1 ungezähltes Blatt, CCCLXXXV Blätter; Band 3: 1 ungezähltes Blatt, CCXCVI, das heisst CCXCVIII Blätter, 1 ungezähltes Blatt    
+500      |a Foliierungsfehler in Band 3: Die Blattzahlen XXI und CCLXXIIII werden wiederholt    
+500      |a Signaturformel Band 1: a⁸, b–z⁶,aa–zz⁶, [et][et]⁶, [con][con]⁸, [ter][ter]⁸; Band 2: A⁸, B–Z⁶, Aa–Zz⁶, Aaa–Sss⁶; Band 3: AA⁸, BB-CC⁶, DD⁷, EE–ZZ⁶, AAA–YYY⁶, ZZZ⁷, AAAA-BBBB⁶, CCCC⁸    
+500      |a Blätter a₁, A₁ und AA₁-₂ ohne Lagensignatur, Blätter a₂-a₅ mit Signaturen a-a4, Blätter A₂-A₅ mit Signaturen A-A4 und Blätter AA₃-AA₅ mit Signaturen AA2-AA4 bezeichnet    
+500      |a Die Blätter a₁ und [ter][ter]₈ in Band 1, A₁ in Band 2 und AA₁ und CCCC₈ in Band 3 sind unbedruckt    
+510 4    |a BSB-Ink    |c B-294    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-294.html    
+510 4    |a GW    |c 03866    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW03866.htm    
+510 4    |a ISTC    |c ib00340000    |u http://data.cerl.org/istc/ib00340000    
+530      |a Digitalisat Band 1 (Exemplar der Bibliothèque Mazarine Paris)    |u http://mazarinum.bibliotheque-mazarine.fr/idurl/1/1778    
+530      |a Digitalisat Band 2 (Exemplar der Bibliothèque Mazarine Paris)    |u http://mazarinum.bibliotheque-mazarine.fr/idurl/1/1779    
+530      |a Digitalisat Band 3 (Exemplar der Bibliothèque Mazarine Paris)    |u http://mazarinum.bibliotheque-mazarine.fr/idurl/1/1780    
+561      |a Handschriftliche Besitzvermerke auf vorderen Spiegeln aller 3 Bände: "Liber Carthusien[sium] In Torrberg/ prouenie[n]s A reuerendo m[a]g[ist]ro Joanne büchler d[e] herre[n]berg/ quo[n]da[m] plebano ac d[e]cano In Walkringenn" (Band 1, leichte Variationen in den anderen Bänden)    
+563      |a Einbandbeschreibung: 3 ganzbezogene Ledereinbände auf Holzdeckeln (braun) mit Schliessen und Eck- sowie Mittelbeschlägen teilweise blau unterlegt, Spuren einer Kettenöse am oberen Rand der Rückdeckel, Linien- und Ornamentstempel-Blindprägung auf den Deckeln, Titel-Blindprägung auf den Vorderdeckeln: "Pri[m]a [Tertia-] p[ar]s dictüi]onarij", auf Rücken von Band 1 und 3 roter Thorberg-Signaturbuchstabe auf Papierschild: "H",    
+563      |a Vorsätze: Vorne und hinten ohne fliegende Blätter    
+563      |a Masse Einbände: 35.5 x 23.6 x 8.8 cm (Band 1), 35.2 x 24.2 x 10.5 cm (Band 2), 35.2 x 23.7 x 9.1 cm (Band 3)    
+563      |a Zustand Einbände: Einbandleder von Band 1 aus mehreren Teilen zusammengesetzt, Loch mit Rostspuren an den Rückdeckeln von vormaliger Ankettung, Schäden am Einbandleder mit Bruchstellen und abplatzender Oberfläche an den Rücken, Lederüberklebungen an Rücken und Deckeln, Schliessenhaken und -riemen ergänzt, alle Beschläge neu montiert    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: Band 1: 300 von 300 Blättern, Band 2: 386 von 386 Blättern, Band 3: 298 von 300 Blättern (plus 2 zusätzliche), Pergamentverstärkung (Velours) jeweils in erster und letzter Lage, Papier- und Pergamentfälze zwischen jeweils erster und zweiter sowie vorletzter und letzter Lage gehören zur Vorsatzkonstruktion, Papierfalz zwischen den Blättern DD₆ und DD₇ gehört zu hinzugefügtem Blatt DD₂, Papierfalz zwischen den Blättern ZZZ₅ und ZZZ₆ gehört zu hinzugefügtem Blatt ZZZ₃, rot und blau ausgezeichnete Initialen, Rubrizierung, Blattweiser    
+590      |a Zustand Buchblöcke: Aus den Blättern I und II von Band 1, I von Band 2 und I von Band 3 wurde je eine farbige Zierinitiale herausgerissen (mit grösserem Textverlust auf der Rückseite), Blattweiser nur fragmentarisch erhalten    
+590      |a Unvollständiges Exemplar: Das unbedruckte Blatt A₁ in Band 2 wurde zum grösseren Teil herausgerissen; in Band 3 wurde anstelle des Doppelblattes CCLXXIX (AAAA₂) und CCLXXXII (AAAA₅) ein zweites Doppelblatt CCLXVII (YYY₂) und CCLXX (YYY₅) eingebunden    
+590      |a In Band 3 wenige Anstreichungen in Tinte und Graphit (Blatt XXVI verso)    
+590      |a Historische Signatur auf Blatt I von Band 1: "Theol. N°. 28."; auf Blatt I von Band 2: "Theol. N°. 29."; auf Blatt I von Band 3: "Theol. N°. 30."    
+590      |a Frühere Signatur: Inc 23    
+700 1    |a Beckenhub, Johann    |d 1440-1491    |0 (DE-588)100124232    |e Herausgeber    |4 edt    
+700 1    |a Koberger, Anton    |d 1440-1513    |0 (DE-588)118563890    |e Drucker    |4 prt    
+700 1    |a Büchler, Johannes    |d 1450-1521    |0 (DE-588)1113671742    |e Früherer Eigentümer    |4 fmo    
+700 1 2  |a Berchorius, Petrus    |d 1290-1362    |t Repertorium morale    |0 (DE-588)1142178137    
+710 2    |a Kloster Thorberg    |0 (DE-588)7725716-9    |e Früherer Eigentümer    |4 fmo    
+751      |a Nürnberg    |0 (DE-588)4042742-0    
+852 4    |b B404    |c 404U3    |j MUE Inc I 65    |9 (41SLSP_UBE)99116799965705511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |h MUE Inc I 65 : 1    |p 12    |j MUE Inc I 65    |b B404    |9 (41SLSP_UBE)99116799965705511    
+949      |c 404U3    |h MUE Inc I 65 : 2    |p 12    |j MUE Inc I 65    |b B404    |9 (41SLSP_UBE)99116799965705511    
+949      |c 404U3    |h MUE Inc I 65 : 3    |p 12    |j MUE Inc I 65    |b B404    |9 (41SLSP_UBE)99116799965705511    
+986      |a (41SLSP_UBE)99116799965705511    |9 (41SLSP_UBE)99116799965705511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116799965705511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

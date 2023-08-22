@@ -1,0 +1,132 @@
+﻿<-1-1-START->
+Valerius Maximus
+<-1-1-STOP->
+
+<-1-2-START->
+Facta et dicta memorabilia. — Oliverius Arzignanensis: Valerius Maximus
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Ausführlicher Kommentar von Oliverius Arzignanensis, begleitend zum Text von Valerius Maximus<-500-STOP->
+<-500-START->Mit Brief von Petrus de Bruto an Oliverius Arzignanensis und dessen Antwort<-500-STOP->
+<-500-START->Mit einer kurzen Vita des Valerius Maximus<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Bartolomeo Zani, 22.03.1497
+<-3-1-STOP->
+
+<-4-1-START->
+6 ungezählte Seiten, 206 Blätter: Holzschnittinitialen; 32 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_V-24.html<-L-5-STOP-><-VI-5-START->BSB-Ink V-24<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M49194.htm<-L-5-STOP-><-VI-5-START->GW M49194<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/iv00042000<-L-5-STOP-><-VI-5-START->ISTC iv00042000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+210 von 210 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jahrhundert) mit Sprenkelpapier (hellbraun), Ornamentrollen-Blindprägung am Rückenbezug
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Saturae / Aulus Persius Flaccus. Venedig: Pietro Quarengi, 1495
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116730033205511<-L-11-STOP-><-VI-11-START->MUE Inc VI 2 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991082669089705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Valerius Maximus<-P-STOP->
+<-P-START->Oliverius Arzignanensis<-P-STOP->
+<-P-START->Petrus de Bruto<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Zani, Bartolomeo<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991082669089705501<-DOI-STOP->
+<-SIGN-START->MUE Inc VI 2 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03303nam a2200469 c 4500
+001 991082669089705501
+005 20211215184228.0
+008 190704s1497    it |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/04.07.2019/B404/vha    
+035      |a (swissbib)072723335-41slsp_network    
+035      |a 072723335    |9 ExL    
+035      |a (IDSBB)007101658DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991082669089705501    
+035      |a (41SLSP_UBE)99116730033205511    |9 (41SLSP_UBE)99116730033205511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Valerius    |c Maximus    |d ca. Ende 1. Jh. v. Chr.-1. H. 1. Jh.    |0 (DE-588)118625969    |e Verfasser    |4 aut    
+240 1 0  |a Facta et dicta memorabilia    
+245 1 0  |a Valerius Maximus    |c cum commento Oliuerii Arzignanensis Vicentini    
+246 1    |i Kolophon    |a Opus Valerii Maximi    |b cum noua ac præclara Oliuerii Arzignanensis uiri præstantissimi examinata interp[re]tatio[n]e    
+264   1  |a Impressum Venetiis    |b accuratissime p[er] Bartolameum de Zanis: de Portesio    |c anno nostri saluatoris .1497. Die uigesimosecundo mensis Martiis [22.03.1497]    
+300      |a 6 ungezählte Seiten, 206 Blätter    |c 32 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Signaturformel: a-z⁸, &⁸, [con]⁸, [rum]¹⁰    
+500      |a Teilweise Holzschnittinitialen    
+510 4    |a BSB-Ink    |c V-24    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_V-24.html    
+510 4    |a GW    |c M49194    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M49194.htm    
+510 4    |a ISTC    |c iv00042000    |u http://data.cerl.org/istc/iv00042000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00057349/image_1    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jahrhundert) mit Sprenkelpapier (hellbraun), Ornamentrollen-Blindprägung am Rückenbezug, Titelschild mit Goldprägung auf dem Rücken: "Val: Max: Persius"    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 31.3 x 21.7 x 4.7 cm    
+563      |a Zustand Einband: Abspaltungen und Brüche im Leder des Rückenbezuges    
+590      |a Buchblockbeschreibung: 210 von 210 Blätter, zusätzliches Blatt vor Lage a mit ausgeschnittenem "Fenster" für den Titel auf Blatt a₁ sowie verso Abklatsch der Tintenschrift auf der Titelseite; keine Rubrizierung    
+590      |a Zustand Buchblock: Titelblatt (a₁) und zusätzliches Blatt mit Spuren einer vormaligen Verklebung (Blatt a₁ recto zusätzlich mit vormaliger Falzanklebung); Buchblock mit quer verlaufender Verwellung schwer zu blättern    
+590      |a Zusammengebunden mit Persius Flaccus, Aulus: Saturae. - Venedig : Pietro Quarengi, 1495    
+700 0 2  |a Valerius    |c Maximus    |d ca. Ende 1. Jh. v. Chr.-1. H. 1. Jh.    |t Facta et dicta memorabilia    |0 (DE-588)4508899-8    
+700 0 2  |a Oliverius    |c Arzignanensis    |d ca. 15. Jh.    |t Valerius Maximus    |0 (DE-588)1189850907    
+700 0    |a Oliverius    |c Arzignanensis    |d ca. 15. Jh.    |0 (DE-588)100237355    |e Herausgeber    |e Kommentarverfasser    |4 edt    |4 wac    
+700 1    |a Zani, Bartolomeo    |d 14XX-15XX    |0 (DE-588)103757317X    |e Drucker    |4 prt    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Inc VI 2 : 1    |9 (41SLSP_UBE)99116730033205511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc VI 2 : 1    |b B404    |9 (41SLSP_UBE)99116730033205511    
+986      |a (41SLSP_UBE)99116730033205511    |9 (41SLSP_UBE)99116730033205511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116730033205511    
+991      |a AAK: 916416    |5 IZ UBE/04.07.2019/B404/vha    |9 local    |9 (41SLSP_UBE)99116730033205511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

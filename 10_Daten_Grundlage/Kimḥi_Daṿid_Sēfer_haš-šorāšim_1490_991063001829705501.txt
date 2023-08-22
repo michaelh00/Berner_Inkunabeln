@@ -1,0 +1,134 @@
+﻿<-1-1-START->
+Ḳimḥi, Daṿid
+<-1-1-STOP->
+
+<-1-2-START->
+Sēfer haš-šorāšim
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Hebräisches Wörterbuch<-500-STOP->
+<-500-START->Text vollständig in hebräischer Schrift<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Neapel: Joseph ben Jacob Aschkenasi, 1490]
+<-500-START->Erscheinungsdatum gemäss jüdischem Kalender: Elul 5250, das heisst zwischen 18.08. und 15.09.1490<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 6 ungezählte Seiten, 1 ungezähltes Blatt, 278 ungezählte Seiten; 31 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-VI-5-START->Bod-Inc Heb-32<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW08172.htm<-L-5-STOP-><-VI-5-START->GW 08172<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/id00102730<-L-5-STOP-><-VI-5-START->ISTC id00102730<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+142 von 144 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, 18./19. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Unbedruckte Blätter [Alef]₁ und [Bet]₁ fehlen 
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116724313905511<-L-11-STOP-><-VI-11-START->MUE Inc III 43<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991063001829705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Ḳimḥi, Daṿid<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Neapel<-O-STOP->
+<-P-START->Joseph ben Jacob Aschkenasi<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991063001829705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 43<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03368nam a22005177c 4500
+001 991063001829705501
+005 20211215181300.0
+008 170829s1490    it |||||      00| ||heb d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/29.08.2017/B404/vha    
+035      |a (swissbib)072828358-41slsp_network    
+035      |a 072828358    |9 ExL    
+035      |a (IDSBB)006726778DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991063001829705501    
+035      |a (41SLSP_UBE)99116724313905511    |9 (41SLSP_UBE)99116724313905511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Ḳimḥi, Daṿid    |d 1160-1235    |0 (DE-588)10096673X    |e Verfasser    |4 aut    
+245 1 0  |a Sēfer haš-šorāšim    
+246 1    |i Titel gemäss ISTC    |a Sefer ha-Shorashim    
+264   1  |a [Neapel]    |b [Jōsēf ben Ja'aqōb Aškenāzī Gunzenhauser]    |c [1490]    
+300      |a 1 ungezähltes Blatt, 6 ungezählte Seiten, 1 ungezähltes Blatt, 278 ungezählte Seiten    |c 31 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss GW    
+500      |a Hebräisches Wörterbuch    
+500      |a Text vollständig in hebräischer Schrift    
+500      |a Erscheinungsort, Monat und Jahr (Elul 5250, das heisst 18.08.-15.09.1490) in der Vorlage genannt    
+500      |a Signaturformel: [Alef]⁸, [Bet]⁸, [Gimel]⁸, [Dalet]⁸, [He]⁸, [Vav]⁸, [Het]⁸, [Zayin]⁸, [Tet]⁸, [Yod]⁸, [Yod, Alef]⁸, [Yod, Bet]⁸, [Yod, Gimel]⁸, [Yod, Dalet]⁸, [Tet, Vav]⁸, [Yod, Vav]⁸, [Yod, Zayin]⁸, [Yod, Het]⁸    
+500      |a Blätter [Alef]₁ und [Bet]₁ unbedruckt, zusammen 144 Blätter    
+510 4    |a Bod-Ink    |c Heb 32    
+510 4    |a GW    |c 08172    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW08172.htm    
+510 4    |a ISTC    |c id00102730    |u http://data.cerl.org/istc/id00102730    
+530      |a Digitalisat (Exemplar der Israelischen Nationalbibliothek, Jerusalem; Katalogisat mit Link zum Digitalisat)    |u http://aleph.nli.org.il:80/F/?func=direct&doc_number=002060924&local_base=NNLALL    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, 18./19. Jahrhundert), Titelschild in Goldprägung auf dem Rücken: "Kimchii: Miclol:"; darunter in Tinte: "1490"    
+563      |a Vorsätze: Vorne und hinten mit je zwei fliegenden Blättern    
+563      |a Masse Einband: 30.5 x 21.2 x 3.7 cm    
+563      |a Zustand Einband: Wenige Schäden am Einbandleder, starke Verfärbungen an den Vorsätzen vom Ledereinschlag    
+590      |a Buchblockbeschreibung: 142 von 144 Blättern    
+590      |a Zustand Buchblock: Rissschliessung sowie Fehlstellenergänzung mit Büttenpapier; Blatt [Alef]₂ (erste Textseite) beschädigt, mit leichtem Textverlust    
+590      |a Blätter [Alef]₁ und [Bet]₁ (beide unbedruckt) fehlen    
+590      |a Handschriftliche Annotationen in Tinte    
+590      |a Historische Signatur auf Blatt [Alef]₁ recto: "Theolog D 23"    
+590      |a Frühere Signatur: Inc 292 a    
+700 1 2  |a Ḳimḥi, Daṿid    |d 1160-1235    |t Sēfer haš-šorāšim    
+700 0    |a Joseph ben Jacob Aschkenasi    |d 1442-    |0 (DE-588)141457511    |e Drucker    |4 prt    
+751      |a Neapel    |0 (DE-588)4041476-0    
+852 4    |b B404    |c 404U3    |j MUE Inc III 43    |9 (41SLSP_UBE)99116724313905511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc III 43    |b B404    |9 (41SLSP_UBE)99116724313905511    
+986      |a (41SLSP_UBE)99116724313905511    |9 (41SLSP_UBE)99116724313905511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116724313905511    
+991      |a AAK: 0472711    |5 IZ UBE/29.08.2017/B404/vha    |9 LOCAL    |9 (41SLSP_UBE)99116724313905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

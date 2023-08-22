@@ -1,0 +1,179 @@
+﻿<-1-1-START->
+Homiliarius
+<-1-1-STOP->
+
+<-1-2-START->
+. - Contra Felicianum Arianum de unitate Trinitatis
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Herausgeber: Paulus Diaconus<-500-STOP->
+<-500-START->Im Incipit als Verfasser der Predigten genannt: Papst Gregor I., Aurelius Augustinus, Sophronius Eusebius Hieronymus, Ambrosius Autpertus, Beda Venerabilis, Heiricus Altissiodorensis, Papst Leo I., Maximus Taurinensis, Johannes Chrysostomus und Origenes<-500-STOP->
+<-500-START->Mit der Epistula generalis Kaiser Karls des Grossen<-500-STOP->
+<-500-START->"Contra Felicianum Arianum" fälschlich Augustinus, sonst auch Vigilius Thapsensis zugeschrieben<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Speyer: Peter Drach der Mittlere, 07.09.1482
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 787 ungezählte Seiten, 1 ungezähltes Blatt: Druckermarke; 13 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_H-324.html<-L-5-STOP-><-VI-5-START->BSB-Ink H-324<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/GW12928.htm<-L-5-STOP-><-VI-5-START->GW 12928<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/ih00316000<-L-5-STOP-><-VI-5-START->ISTC ih00316000<-VI-5-STOP->; <-VI-5-START->Ineichen, Elisabeth: Standort-Katalog "Hospinian". [Bern], [Stadt- und Universitätsbibliothek], [1972]<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+390 von 396 Blättern, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun, Kalb, 15./16. Jahrhundert) mit Schliessen und Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, zwei Messingschliessen; Buchbinder: Rolet Stoss (gemäss Lindt)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Leonhard Wirth; Johannes Fädminger
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Teil von Blatt F₂ unten weggerissen, mit Textverlust; Lage CC (die letzen 6 Blätter, mit Kolophon) fehlen; dem Band beigelegt ist ein Umschlag mit Fotokopien der fehlenden Blätter
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116885651905511<-L-11-STOP-><-VI-11-START->MUE Hospinian 104<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991078936579705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Paulus Diaconus<-P-STOP->
+<-P-START->Gregor I. (Papst)<-P-STOP->
+<-P-START->Augustinus, Aurelius<-P-STOP->
+<-P-START->Hieronymus, Sophronius Eusebius<-P-STOP->
+<-P-START->Ambrosius Autpertus<-P-STOP->
+<-P-START->Beda<-P-STOP->
+<-P-START->Heiricus Altissiodorensis<-P-STOP->
+<-P-START->Leo I. (Papst)<-P-STOP->
+<-P-START->Maximus Taurinensis<-P-STOP->
+<-P-START->Johannes Chrysostomus<-P-STOP->
+<-P-START->Origenes<-P-STOP->
+<-P-START->Vigilius Thapsensis<-P-STOP->
+<-P-START->Karl I. (Kaiser des HRR)<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Speyer<-O-STOP->
+<-P-START->Drach, Peter (der Mittlere)<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-P-START->Stos, Rolet<-P-STOP->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Wirth, Leonhard<-P-STOP->
+<-P-START->Fädminger, Johannes<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991078936579705501<-DOI-STOP->
+<-SIGN-START->MUE Hospinian 104<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 09433nam a2200865 c 4500
+001 991078936579705501
+005 20211215182418.0
+008 970926s1482    gw            00| | lat d
+019      |a Altbestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von Signaturen    |5 IDSBB/26.09.1997/bestub/mes    
+019      |a Nach Vorlage rekatalogisiert    |5 IDSBB/31.08.2020/B404/vha    
+035      |a (swissbib)03275762X-41slsp_network    
+035      |a 03275762X    |9 ExL    
+035      |a (IDSBB)001429903DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991078936579705501    
+035      |a (41SLSP_UBE)99116885651905511    |9 (41SLSP_UBE)99116885651905511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+130 0    |a Homiliarius    |0 (DE-588)1152047493    
+245 1 0  |a Omelia[rum] opus egregiu[m] plurimo[rum] sa[n]cto[rum] alio[rum] ve famosissimo[rum] docto[rum] super eua[n]gelijs de t[em]p[or]e [et] sanctis. quibusdam eoru[n]dem annexis sermonib[us]    
+246 1    |i Titel in normalisierter Form    |a Omeliarum opus egregium plurimorum sanctorum aliorum ve famosissimorum doctorum super evangeliis de tempore et sanctis, quibusdam eorundem annexis sermonibus    
+246 1    |i Incipit    |a Opus preclarum omnium omeliaru[m] et postillaru[m] venerabiliu[m] ac egregioru[m] docto[rum] gregorij. augustini. hieronimi. ambrosij. bede. herici. leonis. maximi. ioha[n]nis ep[isco]pi atq[ue] origenis integraliter sup[er] eua[n]gelia d[omi]nicalia de t[em]p[or]e et de sanctis ...    
+246 1    |i Incipit in normalisierter Form    |a Opus preclarum omnium omeliarum et postillarum venerabilium ac egregiorum doctorum Gregorii, Augustini, Hieronimi, Ambrosii, Bede, Herici, Leonis, Maximi, Iohannis episcopi atque Origenis integraliter super evangelia dominicalia de tempore et de sanctis ...    
+246 1    |i Titel gemäss BSB-Ink, GW und ISTC    |a Homiliarius doctorum de tempore et de sanctis    
+264   1  |a in inclita Spiresium vrbe impressum    |b factore Petro drach iuniore    |c Anno incarnat[i]onis dominice Millesimoquadringentesimooctoagesimosecundo: In vigilia natiuitatis gloriosissime marie virginis ... [7.09.1482]    
+300      |a 1 ungezähltes Blatt, 787 ungezählte Seiten, 1 ungezähltes Blatt    |c 13 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Titel gemäss Kolophon (gemäss Digitalisat der Bayerischen Staatsbibliothek München)    
+500      |a Herausgeber: Paulus Diaconus    
+500      |a Blatt a₁ verso: "Incipit prologus Karoli magni in omeliariu[m] per totum annu[m]" (darin Herausgeber genannt)    
+500      |a Im Incipit als Verfasser der Predigten genannt: Papst Gregor I., Aurelius Augustinus, Sophronius Eusebius Hieronymus, Ambrosius Autpertus, Beda Venerabilis, Heiricus Altissiodorensis, Papst Leo I., Maximus Taurinensis, Johannes Chrysostomus und Origenes    
+500      |a Impressum gemäss Kolophon; Reihenfolge der Vorlage: "... factore Petro drach iuniore. in inclita Spiresium vrbe impressum. Anno incarnat[i]onis dominice Millesimoquadringentesimooctoagesimosecundo: In vigilia natiuitatis gloriosissime marie virginis: ad eusebia[m] cu[n]ctipote[n]tis dei feliciter est co[n]summatu[m]."    
+500      |a Druckermarke unter dem Kolophon    
+500      |a Signaturformel: a–z⁸, [et]⁸, A–Z⁸, AA⁸, BB–CC⁶    
+500      |a Blatt a₁ unbezeichnet, Blatt a₂ als a₁ bezeichnet; Lagen C und P unbezeichnet; Blätter a₁ recto und CC₅ verso unbedruckt; Blatt CC₆ unbedruckt    
+505 0 0  |g Blatt B₆ verso    |t Sequit[ur] tractatus beati Augustini de trinitate contra Felicianum. de sancta trinitate legendus    |r [sicher nicht von Augustinus; Vigilius Thapsensis zugeschrieben]    
+510 4    |a BSB-Ink    |c H-324    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_H-324.html    
+510 4    |a GW    |c 12928    |u https://www.gesamtkatalogderwiegendrucke.de/docs/GW12928.htm    
+510 4    |a ISTC    |c ih00316000    |u https://data.cerl.org/istc/ih00316000    
+510 3    |a Ineichen, Elisabeth: Standort-Katalog "Hospinian". [Bern], [Stadt- und Universitätsbibliothek], [1972]    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00043093/image_8    
+561      |a Handschriftlicher Besitzvermerk auf Blatt a₁ recto: "Pro Joanne Fedmigero 1559"    
+561      |a Sammlung Hospinian    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun, Kalb, 15./16. Jahrhundert) mit Schliessen und Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, zwei Messingschliessen; gemäss Lindt aus der Werkstatt des Franziskaners Rolet Stoss    
+563      |a Vorsätze: vorne mit vier, hinten mit fünf fliegenden Blättern    
+563      |a Masse Einband: 30.3 x 22.1 x 10.0 cm    
+563      |a Zustand Einband: Schädlingsfrass vor allem am Rückdeckel, sechs Nietenlöcher innerhalb eines geritzten Rechteckes auf dem Vorderdeckel mit Lederüberklebung eines Loches und Nietenresten im Spiegel des Vorderdeckels, Lederüberklebungen am Rücken und den Deckelkanten, Loch und Abdrücke einer Kettenöse am oberen Rand des Rückdeckels von vormaliger Ankettung, Japanpapier-Überklebungen am Spiegel des Rückdeckels und an erstem fliegenden Blatt des vorderen Vorsatzes    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 390 von 396 Blättern, zeitgenössische handschriftliche Lagennummerierung in Tinte (grösstenteils durch Beschnitt verloren), spätere handschriftliche Foliierung in Graphit, auf jeder Recto-Seite rechts oben, von 2 bis 390; Pergamentverstärkung in den Lagenmitten der Vosatzlagen und der ersten und letzten Lage, Pergamentfalz zwischen Blättern a₈ und b₁ sowie zwischen AA₈ und BB₁ gehört zur Vorsatzkonstruktion; rot ausgezeichnete Initialen, Rubrizierung    
+590      |a Zustand Buchblock: Reste eines 6. fliegenden Blattes hinten, starker Schädlingsfrass an den letzten Blättern, Japanpapier-Überklebung im Falz zwischen letztem Blatt und hinterem Vorsatz, braune Verfleckungen der unteren Ecken und oberen Blattkanten teilweise mit Ablagerungen durch ölige Substanz und Schädlingsfrass (zum Beispiel zwischen Blättern u₁ verso und u₂ recto), Japanpapier-Überklebungen an Rissen einzelner Blätter der Lagen e und f (e₅ recto, f₂ und f₅ recto), Papierüberklebung an Blatt h₃ recto    
+590      |a Zahlreiche Blätter mit kleineren Schäden (Löcher, Risse, ausgerissene Stücke), davon ein grosser Teil mit Japanpapier-Überklebungen repariert; zum Teil starke Verbräunungen an den Rändern, Feuchtigkeitsschäden, vor allem im hinteren Teil Löcher durch Schädlingsfrass    
+590      |a Unvollständiges Exemplar: Ein Teil von Blatt F₂ unten weggerissen, mit Textverlust; Lage CC (die letzen 6 Blätter, mit Kolophon) fehlen; dem Band beigelegt ist ein Umschlag mit Fotokopien der fehlenden Blätter    
+590      |a Handschriftliche Lagen- und Blattnummerierung zum Beispiel auf den Blättern y₃ und y₄ ("22.3" und "22.4"), A₂ bis A₄ ("24.2" bis "24.4", eigentlich schon 25. Lage), D₁ bis D₄ ("28.1" bis "28.4", wieder richtig gezählt) oder K₁ bis K₄ ("41.1" bis "41.4", obwohl K die 34. Lage ist!)    
+590      |a Wenige handschriftliche Annotationen in Tinte (zum Teil griechisch oder hebräisch), auf Blättern h₃ verso und G₈ verso in roter Tinte, Handweiser auf Blatt a₇ recto    
+590      |a Historische Signatur auf dem vorderen Spiegel: "Patr: No. 265."; unter der Zahl 265 weitere Zahl: "162."    
+590      |a Frühere Signaturen: Inc III 57, Inc 20    
+700 0    |a Paulus    |c Diaconus    |d 720-799    |0 (DE-588)118789961    |e Herausgeber    |4 edt    
+700 0    |a Gregor    |b I.    |c Papst    |d 542-604    |0 (DE-588)118541838    |e Verfasser    |4 aut    
+700 1    |a Augustinus, Aurelius    |c Heiliger    |d 354-430    |0 (DE-588)118505114    |e Verfasser    |4 aut    
+700 1    |a Hieronymus, Sophronius Eusebius    |d 345-420    |0 (DE-588)118550853    |e Verfasser    |4 aut    
+700 0    |a Ambrosius    |c Autpertus    |d -784    |0 (DE-588)118502441    |e Verfasser    |4 aut    
+700 0    |a Beda    |c Heiliger    |d 672-735    |0 (DE-588)118508237    |e Verfasser    |4 aut    
+700 0    |a Heiricus    |c Altissiodorensis    |d 841-876    |0 (DE-588)119215888    |e Verfasser    |4 aut    
+700 0    |a Leo    |b I.    |c Papst    |d 400-461    |0 (DE-588)118571710    |e Verfasser    |4 aut    
+700 0    |a Maximus    |c Taurinensis, Heiliger    |d ca. 4./5. Jh.    |0 (DE-588)118934996    |e Verfasser    |4 aut    
+700 0    |a Johannes    |c Chrysostomus    |d 344-407    |0 (DE-588)118557831    |e Verfasser    |4 aut    
+700 0    |a Origenes    |d 185-254    |0 (DE-588)118590235    |e Verfasser    |4 aut    
+700 0    |a Vigilius    |c Thapsensis    |d -484    |0 (DE-588)118968319    |e Verfasser    |4 aut    
+700 0    |a Karl    |b I.    |c Heiliges Römisches Reich, Kaiser    |d 747-814    |0 (DE-588)118560034    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Drach, Peter    |d 1475-1530    |0 (DE-588)135708362    |e Drucker    |4 prt    
+700 1    |a Stos, Rolet    |d 14XX-1501    |0 (DE-588)13396650X    |e Buchbinder    |4 bnd    
+700 1    |a Wirth, Leonhard    |d 1505-1564    |0 (DE-588)121204618    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Fädminger, Johannes    |d 1520-1586    |0 (DE-588)1115209973    |e Früherer Eigentümer    |4 fmo    
+730 0    |a Contra Felicianum Arianum de unitate Trinitatis    |0 (DE-588)1124173587    
+751      |a Speyer    |0 (DE-588)4056179-3    
+852 4    |b B404    |c 404U3    |j MUE Hospinian 104    |9 (41SLSP_UBE)99116885651905511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc III 57    |c 404U3    |p 12    |j MUE Hospinian 104    |b B404    |9 (41SLSP_UBE)99116885651905511    
+986      |a (41SLSP_UBE)99116885651905511    |9 (41SLSP_UBE)99116885651905511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116885651905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

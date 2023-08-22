@@ -1,0 +1,166 @@
+﻿<-1-1-START->
+Modus legendi abbreviaturas in utroque iure
+<-1-1-STOP->
+
+<-1-2-START->
+. — Johannes Urbach: Processus judicii. — Tractatus praesumptionum. — Dominicus Dominici de Viseu: Summa dictaminis. — Tractatus notariatus. — Ordo Antequam. — Introductio procurationis. — Gerhardus Monachus: Defensorium iuris. — Innozenz IV. (Papst): De exceptionibus. — Dinus Mugellanus: Tractatus de praescriptionibus. — Petrus Jacobi: De arbitris et arbitratoribus. — Galvanus de Bononia: De differentiis legum et canonum. — Baldus de Ubaldis: Tractatus de tabellionibus
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Der "Modus legendi abbreviaturas in utroque iure" wird von Scholderer Wernher von Schussenried zugeschrieben, von dem aber wohl nur das in der Sammlung enthaltene, mit seinem Akrostichon versehene "Decretum" stammt. Der hier unter dem Namen des Bartolus de Saxoferrato abgedruckte "Tractatus de tabellionibus" wird heute meist Baldus de Ubaldis zugeschrieben.<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Straßburg: [Georg Husner], 09.08.1490
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 248 ungezählte Seiten, 1 ungezähltes Blatt; 30 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_M-509.html<-L-5-STOP-><-VI-5-START->BSB-Ink M-509<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M47350.htm<-L-5-STOP-><-VI-5-START->GW M47350<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/im00757000<-L-5-STOP-><-VI-5-START->ISTC im00757000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+126 von 126 Blättern, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Kalb) mit Schliessen und Spuren einer vormaligen Kettenöse am oberen Rand des Rückdeckels, Platten-Blindprägung (Platten wie bei MUE Inc III 59) und Linien-Blindprägung an beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 3 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116774806505511<-L-11-STOP-><-VI-11-START->MUE Inc IV 23 : 3<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991026596929705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Wernerus Sorotensis<-P-STOP->
+<-P-START->Johannes Urbach<-P-STOP->
+<-P-START->Dominicus Dominici de Viseu<-P-STOP->
+<-P-START->Gerhardus Monachus<-P-STOP->
+<-P-START->Innozenz IV. (Papst)<-P-STOP->
+<-P-START->Dinus Mugellanus<-P-STOP->
+<-P-START->Petrus Jacobi<-P-STOP->
+<-P-START->Galvanus de Bononia<-P-STOP->
+<-P-START->Baldus de Ubaldis<-P-STOP->
+<-P-START->Bartolus de Saxoferrato<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Husner, Georg<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991026596929705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 23 : 3<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 07586nam a2200829 c 4500
+001 991026596929705501
+005 20230209114726.0
+008 130501s1490    fr            00| | lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/30.07.2020/B404/faf    
+035      |a (swissbib)066215277-41slsp_network    
+035      |a 066215277    |9 ExL    
+035      |a (IDSBB)006121864DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991026596929705501    
+035      |a (41SLSP_UBE)99116774806505511    |9 (41SLSP_UBE)99116774806505511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+245 1 0  |a Modus legendi abbreuiaturas in utroq[ue] iure siue processus iuris    
+246 1    |i Gesamttitel gemäss Kolophon    |a Finit liber plurimo[rum] tractatuu[m] iur[is]    
+246 1    |i Titel in normalisierter Form    |a Modus legendi abbreviaturas in utroque iure sive processus iuris    
+246 1    |i Titel gemäss ISTC    |a Modus legendi abbreviaturas    
+264   1  |a impressus Argentine    |b [Georg Husner]    |c Anno d[omi]ni. M.ccccxc. Finitus in vigilia Laurentij [09.08.1490]    
+300      |a 1 ungezähltes Blatt, 248 ungezählte Seiten, 1 ungezähltes Blatt    |c 30 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Der "Modus legendi abbreviaturas in utroque iure" wird von Scholderer Wernher von Schussenried zugeschrieben, von dem aber wohl nur das in der Sammlung enthaltene, mit seinem Akrostichon versehene "Decretum" stammt. Der hier unter dem Namen des Bartolus de Saxoferrato abgedruckte "Tractatus de tabellionibus" wird heute meist Baldus de Ubaldis zugeschrieben.    
+500      |a Druckort und Druckjahr gemäss Kolophon    
+500      |a Drucker gemäss BSB-Ink, GW und ISTC (dort teils angegeben als Drucker des Jordanus von Quedlinburg, mittlerweile mit Georg Husner identifiziert)    
+500      |a Erstes Werk mit eigenem Kolophon (Blatt d₄ recto): "Explicit libell[us] doce[n]s modu[m] studendi et lege[n]di [con]tenta ac abbreuiata vtriusq[ue] iur[is] ta[m] canonici q[uam] ciuilis i[n] se contine[n]s titulos siue rubricas eiusde[m] iuris i[n] ciuitate Arge[n]tinensi impressus Anno d[omi]ni. M.cccc.xc."    
+500      |a Signaturformel: a⁸, b⁶, c⁸, d⁶, e⁸, f–v⁶    
+500      |a Blatt v₆ ist unbedruckt    
+505 0 0  |g Blatt a₂ recto    |t Incipit libell[us] dans modu[m] lege[n]di abbreuiaturas in vtroq[ue] iure    |g Blatt d₄ verso    |t Incipit processus iudiciarius eximij doctor[is] iuris canonici Iohannis de Urbach    |g Blatt k₁ verso    |t Incipit tractatus p[re]sumptionum    |g Blatt k₂ verso    |t Incipit summa magistri Dominici d[e] ciuitate Visentina. qualiter notarij archiepiscopo[rum] [et] episcopo[rum] debeant notarie officium exercere    |g Blatt m₁ recto    |t Incipit tractatus notariatus    |g Blatt q₃ recto    |t Antequam dicam de p[ro]cessu iudicij Notandu[m] est q[ui]d sit iudiciu[m] ...    |g Blatt q₆ verso    |t Una introductio procuratio[n]is    |g Blatt r₂ recto    |t Incipit defensoriu[m] iur[is]    |r ... ego J. monach[us] cistercien[sis] ordi[ni]s ...    |g Blatt s₆ recto    |t Sequit[ur] mo[do] tractat[us] exceptionu[m] d[omi]ni Innoce[n]tij q[ua]rti p[ro]ut videbit[ur] in seq[ue]ntib[us]    |g Blatt t₂ verso    |t Incipit tractat[us] p[re]scriptionu[m] co[m]posit[us] p[er] d[omi]n[u]m Dynu[m] de mugilo legu[m] doctore[m]    |g Blatt t₅ verso    |t Incipit tractat[us] breuis de arbitris [et] arbitratoribus    |r ... d[omi]ni Petri iacobi doctoris legu[m] monte pesselano    |g Blatt v₁ recto    |t Incipiu[n]t differe[n]tie legu[m] [et] canonu[m] domini Galnani de Bononia    |g Blatt v₃ recto    |t Incipit tractatus de tabellionib[us] p[er] d[omi]nu[m] Bar. co[m]pilatus    
+510 4    |a BSB-Ink    |c M-509    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_M-509.html    
+510 4    |a GW    |c M47350    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M47350.htm    
+510 4    |a ISTC    |c im00757000    |u http://data.cerl.org/istc/im00757000    
+530      |a Digitalisat (Exemplar der Katholieke Universiteit Leuven)    |u http://resolver.libis.be/IE6623426/representation    
+563      |a Ganzbezogener Ledereinband auf Kartondeckeln (braun, Kalb) mit Schliessen und Spuren einer vormaligen Kettenöse am oberen Rand des Rückdeckels, Platten-Blindprägung (Platten wie bei Inc III 59) und Linien-Blindprägung an beiden Deckeln, Papiertitelschild in Blindprägung auf dem Rücken: "Margarita Decreti"    
+563      |a Vorsätze: Hinten mit einem fliegenden Blatt aus dickem Japanpapier    
+563      |a Masse Einband: 29.2 x 20.8 x 7.6 cm    
+563      |a Zustand Einband: Lederrücken neu bezogen (unter Original-Einbandleder der Deckel gezogen) mit aufgeklebten Fragmenten des Original-Einbandleders, ergänzte Schliessenriemen und Schliessenhaken, Loch im Rückdeckel von vormaliger Ankettung, beide Vorsätze inkl. Spiegel ergänzt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 126 von 126 Blättern, rot ausgezeichnete Initialen, Rubrizierung    
+590      |a Zustand Buchblock: Feuchtigkeitsränder an unterer Ecke ab Lage g    
+590      |a Wenige handschriftliche Annotationen und Unterstreichungen in Tinte (nur im ersten Traktat)    
+590      |a Zusammengebunden mit 3 weiteren Drucken in Sammelband    
+590      |a Historische Signatur auf der Titelseite des ersten Drucks im Sammelband: "Iur. Pol. 100"    
+590      |a Frühere Signatur: Inc 100    
+700 0    |a Wernerus    |c Sorotensis    |0 (DE-588)100965946    |e Verfasser    |4 aut    
+700 0    |a Johannes    |c Urbach    |d ca. Ende 14. Jh.-Anfang 15. Jh.    |0 (DE-588)100948804    |e Verfasser    |4 aut    
+700 0    |a Dominicus    |c Dominici de Viseu    |d ca. 2. H. 13. Jh.    |0 (DE-588)102432791    |e Verfasser    |4 aut    
+700 0    |a Gerhardus    |c Monachus    |d ca. 14. Jh.    |0 (DE-588)140170499    |e Verfasser    |4 aut    
+700 0    |a Innozenz    |b IV.    |c Papst    |d 1195-1254    |0 (DE-588)118555650    |e Verfasser    |4 aut    
+700 0    |a Dinus    |c Mugellanus    |d 1253-1303    |0 (DE-588)100967396    |e Verfasser    |4 aut    
+700 0    |a Petrus    |c Jacobi    |d ca. 1. H. 14. Jh.    |0 (DE-588)103146989    |e Verfasser    |4 aut    
+700 0    |a Galvanus    |c de Bononia    |d ca. 2. H. 14. Jh.    |0 (DE-588)103146512    |e Verfasser    |4 aut    
+700 0    |a Baldus    |c de Ubaldis    |d 1327-1400    |0 (DE-588)118803085    |e Verfasser    |4 aut    
+700 0    |a Bartolus    |c de Saxoferrato    |d 1314-1357    |0 (DE-588)118652885    |e Verfasser    |4 aut    
+700 1    |a Husner, Georg    |d 14XX-1505    |0 (DE-588)136216064    |e Drucker    |4 prt    
+700 0 2  |a Wernerus    |c Sorotensis    |t Decretum    |0 (DE-588)114387286X    
+700 0 2  |a Johannes    |c Urbach    |d ca. Ende 14. Jh.-Anfang 15. Jh.    |t Processus judicii    |0 (DE-588)1144278856    
+700 0 2  |a Dominicus    |c Dominici de Viseu    |d ca. 2. H. 13. Jh.    |t Summa dictaminis    |0 (DE-588)1144405068    
+700 0 2  |a Gerhardus    |c Monachus    |d ca. 14. Jh.    |t Defensorium iuris    |0 (DE-588)1144514908    
+700 0 2  |a Innozenz    |b IV.    |c Papst    |d 1195-1254    |t De exceptionibus    |0 (DE-588)1144533694    
+700 0 2  |a Dinus    |c Mugellanus    |d 1253-1303    |t Tractatus de praescriptionibus    |0 (DE-588)1144537274    
+700 0 2  |a Petrus    |c Jacobi    |d ca. 1. H. 14. Jh.    |t De arbitris et arbitratoribus    |0 (DE-588)1145075266    
+700 0 2  |a Galvanus    |c de Bononia    |d ca. 2. H. 14. Jh.    |t De differentiis legum et canonum    |0 (DE-588)1145157785    
+700 0 2  |a Baldus    |c de Ubaldis    |d 1327-1400    |t Tractatus de tabellionibus    |0 (DE-588)1145159133    
+730 0    |a Modus legendi abbreviaturas in utroque iure    |0 (DE-588)1143872320    
+730 0    |a Tractatus praesumptionum    |0 (DE-588)1144302609    
+730 0    |a Tractatus notariatus    |0 (DE-588)114441105X    
+730 0    |a Ordo Antequam    |0 (DE-588)114441315X    
+730 0    |a Introductio procurationis    |0 (DE-588)1144504554    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 23 : 3    |9 (41SLSP_UBE)99116774806505511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 3 weiteren Drucken in Sammelband    |p 12    |j MUE Inc IV 23 : 3    |b B404    |9 (41SLSP_UBE)99116774806505511    
+986      |a (41SLSP_UBE)99116774806505511    |9 (41SLSP_UBE)99116774806505511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116774806505511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

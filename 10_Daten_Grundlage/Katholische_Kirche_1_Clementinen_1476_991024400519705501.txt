@@ -1,0 +1,145 @@
+﻿<-1-1-START->
+Katholische Kirche, 1305-1314 : Klemens V.
+<-1-1-STOP->
+
+<-1-2-START->
+Clementinen. — Katholische Kirche, 1316-1334 : Johannes XXII.: Execrabilis
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Text umgeben mit Kommentar von Johann Andreae<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Basel: Michael Wenssler, 2.05.1476
+<-3-1-STOP->
+
+<-4-1-START->
+147 ungezählte Seiten; 41 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_C-436.html<-L-5-STOP-><-VI-5-START->BSB-Ink C-436<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW07087.htm<-L-5-STOP-><-VI-5-START->GW 07087<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ic00718000<-L-5-STOP-><-VI-5-START->ISTC ic00718000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+74 von 74 Blättern, rot oder blau ausgezeichnete Initialen, Anfangsinitiale rot und blau koloriert, mit Zeichnung von zwei Drachen im Buchstaben sowie Rand-Bordüre; Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert) mit Sprenkelpapier (braun)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Studentenbibliothek (Bern)
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116857322805511<-L-11-STOP-><-VI-11-START->MUE Inc III 11<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991024400519705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Katholische Kirche, 1305-1314 : Klemens V.<-P-STOP->
+<-P-START->Klemens V. (Papst)<-P-STOP->
+<-P-START->Johannes Andreae<-P-STOP->
+<-P-START->Katholische Kirche, 1316-1334 : Johannes XXII.<-P-STOP->
+<-P-START->Johannes XXII. (Papst)<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Wenssler, Michael<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Studentenbibliothek (Bern)<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991024400519705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 11<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04711nam a22006137c 4500
+001 991024400519705501
+005 20230207113144.0
+008 130410s1476    sz            00| | lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/24.07.2014/B400/vha    
+035      |a (swissbib)064257266-41slsp_network    
+035      |a 064257266    |9 ExL    
+035      |a (IDSBB)006103531DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991024400519705501    
+035      |a (41SLSP_UBE)99116857322805511    |9 (41SLSP_UBE)99116857322805511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+110 2    |a Katholische Kirche    |b Papst    |g 1305-1314 : Klemens V.    |0 (DE-588)1196386846    |4 aut    
+240 1 0  |a Clementinen    
+245 1 0  |a Jncipiunt constitut[i]ones Cle. pape. v    |b vnacum apparatu d[omi]ni Jo. andree    
+246 1 0  |a Constitutiones Cle. pape V    
+246 1 3  |a Constitutiones Clementis papae V    
+246 1    |i Titel gemäss BSB-Ink, GW und ISTC    |a Constitutiones    
+246 1    |i Titel gemäss Kolophon    |a Opus constitucionum Clementis quinti    
+246 1    |i Titel gemäss Kolophon in moderner Orthografie    |a Opus constitutionum Clementis Quinti    
+246 1    |i Titel in normalisierter Form    |a Incipiunt constitutiones Cle. pape. V    |b unacum apparatu domini Jo. Andree    
+264   1  |a In inclita vrbe Basiliensi ...    |b ingenio et industria .Mihahelis Wenßler. ...    |c Anno salutis nostre .lxxvj. post .M. et .CCCC vj. nonas may [2.05.1476]    
+300      |a 147 ungezählte Seiten    |c 41 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss Incipit    
+500      |a Text umgeben mit Kommentar von Johann Andreae    
+500      |a Impressum gemäss Kolophon; Reihenfolge der Vorlage: "Anno salutis nostre .lxxvj. post .M. et .CCCC vj. nonas may ingenio et industria .Mihahelis Wenßler. n[on] absq[ue] su[m]ma arte et imprimendi pericia. completum est hoc dignum atq[ue] celebratissimum opus constitucionum Clementis quinti. in inclita vrbe Basiliensi ..."    
+500      |a Signaturformel: [a-e¹⁰, f-h⁸]    
+505 0 0  |g Blatt h₇ verso    |t Constitucio execrabilis. Joha[n]nis p[a]pe .xxij.    
+510 4    |a BSB-Ink    |c C-436    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_C-436.html    
+510 4    |a GW    |c 07087    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW07087.htm    
+510 4    |a ISTC    |c ic00718000    |u http://data.cerl.org/istc/ic00718000    
+530      |a Digitalisat (Exemplar der Universitätsbibliothek Basel)    |u http://dx.doi.org/10.3931/e-rara-20226    
+561      |a Handschriftlicher Besitzvermerk mit Tinte auf Blatt [a₁] recto (ausradiert und weitgehend unleserlich): "H Z...[?] 1731."    
+561      |a Stempel der Societas Studiosorum (Studentenbibliothek), Bern, auf Blatt [a₁] recto unten (ebenfalls radiert)    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert) mit Sprenkelpapier (braun), Linien-Blindprägung sowie Titelschild in Goldprägung auf dem Rücken: "Clem: Pape V Const:", darunter in Tinte "Basil 1476"    
+563      |a Vorsätze: hinten und vorne mit einem fliegenden Blatt    
+563      |a Masse Einband: 40.7 x 29.6 x 2.5 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, Vorsätze im Falz verstärkt    
+590      |a Buchblockbeschreibung: 74 von 74 Blättern, handschriftliche Lagensignatur in Graphit (gemäss GW), jeweils auf dem ersten Blatt jeder Lage unten rechts; handschriftliche Foliierung in roter Tinte, mit römischen Zahlen, von I bis LXX, auf den Recto-Seiten oben, Pergamentverstärkung in den Lagenmitten, rot oder blau ausgezeichnete Initialen, Anfangsinitiale des Haupttexts auf Blatt [a₁] rot und blau koloriert, mit Zeichnung von zwei Drachen im Buchstaben sowie Rand-Bordüre; Rubrizierung, rote und blaue Paragraphenzeichen    
+590      |a Zustand Buchblock: Stempel auf Blatt [a₁] recto radiert, mit Rissen und Brüchen im Papier, Abrieb und Abklatsch der Farbmittel vor allem auf Blatt [a₁], Spuren vormaliger Blattweiser, zum Teil starke Feuchtigkeitsränder    
+590      |a Frühere Signatur: Inc 335    
+700 0    |a Klemens    |b V.    |c Papst    |d 1250-1314    |0 (DE-588)118723529    |e Auftraggeber    |4 pat    
+700 0    |a Johannes    |c Andreae    |d 1270-1348    |0 (DE-588)119244071    |e Kommentarverfasser    |4 wac    
+700 0 2  |a Johannes    |b XXII.    |c Papst    |d 1244-1334    |t Execrabilis    |0 (DE-588)1136936092    
+700 1    |a Wenssler, Michael    |d 14XX-1512    |0 (DE-588)134121260    |e Drucker    |4 prt    
+710 2 2  |a Katholische Kirche    |b Papst    |g 1305-1314 : Klemens V.    |t Clementinen    |0 (DE-588)4691099-2    
+710 2    |a Studentenbibliothek    |g Bern    |0 (DE-588)1124859993    |e Früherer Eigentümer    |4 fmo    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc III 11    |9 (41SLSP_UBE)99116857322805511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc III 11    |b B404    |9 (41SLSP_UBE)99116857322805511    
+986      |a (41SLSP_UBE)99116857322805511    |9 (41SLSP_UBE)99116857322805511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116857322805511    
+991      |a AAK: 171886    |5 IZ UBE/18.07.2017/B404/vha    |9 local    |9 (41SLSP_UBE)99116857322805511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

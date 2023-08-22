@@ -1,0 +1,138 @@
+﻿<-1-1-START->
+Johannes Marchesinus
+<-1-1-STOP->
+
+<-1-2-START->
+Mammotrectus super Bibliam
+<-1-2-STOP->
+
+<-2-1-START->
+
+<-2-1-STOP->
+
+<-3-1-START->
+[Beromünster]: Helias Helye von Laufen, 10.11.1470
+<-500-START->Druckvariante: zwei Zeilen unter dem Kolophon: "O Archangele Michahel princeps ac propugnator noster" (Exemplar der British Library) sind hier und in anderen Exemplaren nur als Blinddruck vorhanden<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+599 ungezählte Seiten; 31 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_M-153.html<-L-5-STOP-><-VI-5-START->BSB-Ink M-153<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M20793.htm<-L-5-STOP-><-VI-5-START->GW M20793<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/im00233000<-L-5-STOP-><-VI-5-START->ISTC im00233000<-VI-5-STOP->; <-L-5-START->https://www.e-periodica.ch/digbib/view?pid=lib-006:2004:47#139<-L-5-STOP-><-VI-5-START->Germann, Martin: Mittelalterliche Hilfsmittel zum Bibelstudium. In: Librarium Jahr 47 (Mai 2004), Seite 134-148<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+300 von 300 Blättern, rot oder blau ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert), Linien-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116877917205511<-L-11-STOP-><-VI-11-START->MUE Inc II 68<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991147575359705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Johannes Marchesinus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Beromünster<-O-STOP->
+<-P-START->Helye von Laufen, Helias<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991147575359705501<-DOI-STOP->
+<-SIGN-START->MUE Inc II 68<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06394nam a2200577 c 4500
+001 991147575359705501
+005 20211215194553.0
+008 200603s1470    sz |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/03.06.2020/B404/vha    
+019      |a AAK: 570712    |5 IDSBB/03.06.2020/B404/vha    
+035      |a (swissbib)076211452-41slsp_network    
+035      |a 076211452    |9 ExL    
+035      |a (IDSBB)007195075DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991147575359705501    
+035      |a (41SLSP_UBE)99116877917205511    |9 (41SLSP_UBE)99116877917205511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Johannes    |c Marchesinus    |d ca. 13. Jh.    |0 (DE-588)102547637    |e Verfasser    |4 aut    
+240 1 0  |a Mammotrectus super Bibliam    
+245 1 0  |a Explicit Mamotrectus siue primicereus    
+246 1 0  |a Mamotrectus siue primicereus    
+246 1    |i Titel in normalisierter Form    |a Explicit Mamotrectus sive primicereus    
+246 1 0  |a Mamotrectus sive primicereus    
+246 1    |i Incipit    |a [Im]paciens Proprie I[m]p[er]icie ac ruditati Co[m]pacie[n]s paup[er]u[m] clerico[rum] ...    
+246 1    |i Incipit in normalisierter Form    |a Impaciens proprie impericie ac ruditati compaciens pauperum clericorum ...    
+264   1  |a [Beromünster]    |b arte imprimendi seu caractarizandi per me Helijam helije alias de llouffen Canoncium Eccelesie uille Beronensis in pago Ergowie site absq[ue] calami: exaracione    |c Vigilia sancti Martini Episcopi Sub Anno ab incarnacione domini .Millesimo. Quadringentesimo Septuagesimo. ... [10.11.1470]    
+300      |a 599 ungezählte Seiten    |c 31 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Signaturformel (gemäss BSB-Ink): [a–c¹², d¹²–¹, e–l¹², m⁶, n–x¹², y¹⁰, A–B¹², C¹²–¹, D¹⁰]    
+500      |a Blatt [y]₁₀ unbedruckt; Blatt [m]₆ verso (nach Ende des Texts zum Alten Testament), Blatt [y]₉ verso (nach Ende des Texts zum Neuen Testament) und Blatt D₁₀ verso unbedruckt    
+500      |a Druckvariante im Exemplar der British Library: dort stehen unter dem Kolophon noch zwei Zeilen: "O Archangele Michahel princeps ac propugnator noster"; diese zwei Zeilen sind in anderen Exemplaren (wie auch hier) nur als Blinddruck vorhanden    
+510 4    |a BSB-Ink    |c M-153    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_M-153.html    
+510 4    |a GW    |c M20793    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M20793.htm    
+510 4    |a ISTC    |c im00233000    |u http://data.cerl.org/istc/im00233000    
+510 4    |a Germann, Martin: Mittelalterliche Hilfsmittel zum Bibelstudium. In: Librarium    |c Jahr 47 (Mai 2004), Seite 134-148    |u https://www.e-periodica.ch/digbib/view?pid=lib-006:2004:47#139    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00064091/image_7    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert), Linien-Blindprägung auf beiden Deckeln, Linien-Goldprägung und Titelschild in Goldprägung auf dem Rücken: "Mammotrectus 1470", darüber in Tinte: "Bero-Müns"    
+563      |a Vorsätze: Vorne und hinten mit zwei fliegenden Blättern, teilweise Marmorpapier    
+563      |a Masse Einband: 30.1 x 22.3 x 6.5 cm    
+563      |a Zustand Einband: Schäden am Einbandleder    
+590      |a Buchblockbeschreibung: 300 von 300 Blättern, Goldschnitt, handschriftliche Lagensignatur (gemäss BSB-Ink) in Graphit, jeweils auf der ersten Seite jeder Lage unten rechts; handschriftliche Foliierung in Graphit jeweils auf der Recto-Seite unten (im Teil zum Neuen Testament, ab Blatt [138], beginnt Foliierung unten neu mit 1, oben rechts wird sie mit 138-300 weitergeführt, einschliesslich dem nachfolgenden Register); Papierfalz zwischen Blättern [d]₇ und [d]₈ (= [43] und [44]) gehört zu Einzelblatt [d]₅, Papierfalz zwischen Blättern [C]₁₀ und [C]₁₁ (= [289] und [290]) gehört zu Einzelblatt [C]₂, Papierfalz zwischen Blättern [i]₅ und [i]₆ (= [100] und [101]) gehört zu Blatt [i]₁, Lage [i] in drei Heft-Einheiten teilweise aus Einzelblättern und mit Papierverstärkung in den Fälzen zusammengesetzt; rot oder blau ausgezeichnete Initialen, Rubrizierung, handschriftliche Kolumnentitel in Rot    
+590      |a Zustand Buchblock: Zahlreiche Verfleckungen: Abdrücke und starke Verbräunung von vormals eingelagertem Partikel zwischen Blättern [b]₄ und [b]₅ mit Verbräunung der vorderen und nachfolgenden Blätter, starke Feuchtigkeitsränder ab Lage [t] und an den letzten Blättern, Papierüberklebung an Blatt [i]₅ recto und an Fehlstelle des Blatts [A]₂ verso; Blätter [D]₁ und [D]₁₀ im Falz getrennt, Blatt [D]₁₀ verso vollflächig mit Vorsatzpapier kaschiert, Spuren einer vormaligen Pergamentverstärkung (Makulaturpergament) zwischen Blättern [D]₅ und [D]₆ (= [295] und [296])    
+590      |a Register am Ende eingebunden (im Exemplar der Bayerischen Staatsbibliothek München zwischen Blatt [m]₆ und [n]₁ (= [137] und [138], vor dem Text zum Neuen Testament)    
+590      |a Beiliegend zum Druck ist eine gebundene Fotokopie des Registers (MUE Inc II 68 a)    
+590      |a Wenige Annotationen in roter Tinte, zum Beispiel Blätter [a]₁ und [a]₂ ([1] und [2]) recto, [p]₇ ([168]) verso; im Register in schwarzer Tinte teils Begriffe, häufig Halblagen- und Spaltenangaben (Zahlen und Buchstaben) ergänzt; moderne Annotationen in Graphit, zum Beispiel Blätter [q]₁ (= [174]) recto: "s. Mainz 105a2", [y]₂ (= [247]) recto und weitere, mit kurzen Verweisen auf andere Seiten im Werk    
+590      |a Annotation des Rubrikators unter dem Kolophon: "Laus deo orate deu[m] p[er] me"; (diese Annotation verdeckt teilweise den Blinddruck "O Archangele Michahel princeps ac propugnator noster" unter dem Kolophon)    
+590      |a Frühere Signatur: Inc 387    
+700 0 2  |a Johannes    |c Marchesinus    |d ca. 13. Jh.    |t Mammotrectus super Bibliam    |0 (DE-588)1211426912    
+700 1    |a Helye von Laufen, Helias    |d 1400-1475    |0 (DE-588)124210635    |e Drucker    |4 prt    
+751      |a Beromünster    |0 (DE-588)4080381-8    
+852 4    |b B404    |c 404U3    |j MUE Inc II 68    |9 (41SLSP_UBE)99116877917205511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |h MUE Inc II 68 a    |q Fotokopie des Registers (Lagen [A]-[D], gebunden)    |p 12    |j MUE Inc II 68    |b B404    |9 (41SLSP_UBE)99116877917205511    
+949      |c 404U3    |p 12    |j MUE Inc II 68    |b B404    |9 (41SLSP_UBE)99116877917205511    
+986      |a (41SLSP_UBE)99116877917205511    |9 (41SLSP_UBE)99116877917205511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116877917205511    
+990      |f bern    |9 local    |9 (41SLSP_UBE)99116877917205511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

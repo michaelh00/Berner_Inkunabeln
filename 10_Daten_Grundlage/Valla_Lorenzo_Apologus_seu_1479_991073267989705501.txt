@@ -1,0 +1,150 @@
+﻿<-1-1-START->
+Valla, Lorenzo
+<-1-1-STOP->
+
+<-1-2-START->
+Apologus seu actus scaenicus in Pogium florentinum, 1
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Paris: Louis Simonel et Socii, 1479]
+<-500-START->GW betrachtet den Druck als Teil einer Zusammenstellung mit der ersten "Invectiva in Laurentium Vallam" des Gian Francesco Poggio Bracciolini, ISTC behandelt ihn als Einzeldruck<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+24 ungezählte Seiten; 21 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M34612.htm<-L-5-STOP-><-VI-5-START->GW M34612<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/iv00048500<-L-5-STOP-><-VI-5-START->ISTC iv00048500<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+12 von 12 Blättern, in Tinte eingefügte Initiale auf Blatt 1. b₁ recto, im Druck fehlende letzte Zeile auf Blatt 2. b₂ verso in Tinte eingetragen
+<-6-1-STOP->
+
+<-7-1-START->
+Flexibler Pergamenteinband mit durchzogenen Bünden (Velourspergament)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: François Daniel; Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Epistolae familiares ad Robertum Gaguinum / Carolus Fernandus. [Paris: Johannes Higman, 1487 oder 1488?]
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116725613305511<-L-11-STOP-><-VI-11-START->MUE Bong IV 884 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991073267989705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Valla, Lorenzo<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Paris<-O-STOP->
+<-P-START->Louis Simonel et Socii<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Daniel, François<-P-STOP->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991073267989705501<-DOI-STOP->
+<-SIGN-START->MUE Bong IV 884 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04394nam a2200661 c 4500
+001 991073267989705501
+005 20211215175424.0
+007 cr#|||||||||||
+008 100804s1479    fr            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/14.01.2020/B404/faf    
+024 7    |a 10.3931/e-rara-88381    |2 doi    
+035      |a (swissbib)062349163-41slsp_network    
+035      |a 062349163    |9 ExL    
+035      |a (IDSBB)005287641DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991073267989705501    
+035      |a (41SLSP_UBE)99116725613305511    |9 (41SLSP_UBE)99116725613305511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Valla, Lorenzo    |d 1407-1457    |0 (DE-588)118626000    |e Verfasser    |4 aut    
+240 1 0  |a Apologus seu actus scaenicus in Pogium florentinum    |n 1    
+245 1 0  |a Laurencii valle in pogiu[m] elegans inuectiva    
+246 1    |i Titel in normalisierter Form    |a Laurencii Valle in Pogium elegans invectiva    
+246 1 0  |a In Pogium elegans invectiva    
+246 1    |i Kolophon    |a Laurencii valle in pogiu[m] elegans inuectiva feliciter explicit    
+246 1    |i Titel gemäss GW    |a Invectiva in Poggium    
+246 1    |i Titel gemäss ISTC    |a Apologus in Poggium    
+264   1  |a [Paris]    |b [Louis Simonel et Socii]    |c [1479]    
+300      |a 24 ungezählte Seiten    |c 21 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+337      |b c    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+338      |b cr    |2 rdacarrier    
+500      |a GW betrachtet den Druck als Teil einer Zusammenstellung mit der ersten "Invectiva in Laurentium Vallam" des Gian Francesco Poggio Bracciolini, ISTC behandelt ihn als Einzeldruck    
+500      |a Keine Titelseite, nur Kopftitel    
+500      |a Impressum gemäss GW und ISTC    
+500      |a Signaturformel: 2*b⁶    
+500      |a Das Blatt 1. b₁ ist mit b.i. bezeichnet, das Blatt 2. b₁ mit b.ii.    
+510 4    |a GW    |c M34612    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M34612.htm    
+510 4    |a ISTC    |c iv00048500    |u http://data.cerl.org/istc/iv00048500    
+561      |a Sammlung Bongars; handschriftlicher Besitzvermerk auf vorderem Spiegel: "Franciscus Daniel. 1561"    
+563      |a Einbandbeschreibung: Flexibler Pergamenteinband mit durchzogenen Bünden (Velourpergament)    
+563      |a Vorsätze: Vorne und hinten ohne fliegende Blätter    
+563      |a Masse Einband: 20.6 x 14.6 x 1.3 cm    
+563      |a Zustand Einband: Einbandpergament (Manuskriptmakulatur) stark verschmutzt mit zahlreichen Verfleckungen und Knicken, zwei Einschnitte an vorderer unterer Kante entsprechend der Einschnitte für abgehängtes Siegel, vorderer Spiegel teilweise hochgelöst, hinterer Spiegel mit grossen und teilweise fixierten Rissen für Einsicht der Versoseite des Pergamentüberzuges, Japanpapierüberklebungen an beiden Innenfälzen    
+590      |a Buchblockbeschreibung: 12 von 12 Blättern, in Tinte eingefügte Initiale auf Blatt 1. b₁ recto, im Druck fehlende letzte Zeile auf Blatt 2. b₂ verso in Tinte eingetragen    
+590      |a Zustand Buchblock: Blätter mit Verfleckungen und Knicken    
+590      |a Handschriftliche griechische und lateinische Verse und Sprüche auf beiden Spiegeln    
+590      |a Am Beginn des Sammelbands vorgebunden 9 (ehemals 12) Blätter mit einer Handschrift: "Ad libri 41 Pandectaru[m], qui est de Possessionibus. Tit. 1 de Acquirend. re[rum] dominio Francis. Duareni Methodicus Tractatus."; 14 Seiten erhalten, nach 3 herausgerissenen Blättern folgt 1 Seite mit einer griechischen Psalmenübersetzung    
+590      |a Zusammengebunden mit: Epistolae familiares ad Robertum Gaguinum / Carolus Fernandus. Paris : Johannes Higman, 1487 oder 1488?    
+590      |a Historische Signatur auf vorderem Spiegel: "Lit 198"    
+590      |a Frühere Signaturen: Inc 105; Inc III 107; [E spiegelverkehrt] II R 5    
+700 1    |a Daniel, François    |d 1535-1617    |0 (DE-588)1188762796    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 1 2  |a Valla, Lorenzo    |d 1407-1457    |t Apologus seu actus scaenicus in Pogium florentinum    |n 1    |0 (DE-588)1202935907    
+710 2    |a Louis Simonel et Socii    |0 (DE-588)1090692919    |e Drucker    |4 prt    
+751      |a Paris    |0 (DE-588)4044660-8    
+852 4    |b B404    |c 404U3    |j MUE Bong IV 884 : 2    |9 (41SLSP_UBE)99116725613305511    
+856 4    |u https://doi.org/10.3931/e-rara-88381    |z Digitalisat in e-rara    
+900      |a IDSIxunikat    
+900      |a IDSIxhybrid-el    
+900      |a NOMERGEALEX    
+949      |i ZB Inc III 107 : 2    |c 404U3    |z Zusammengebunden mit 1 weiteren Druck in Sammelband    |p 12    |j MUE Bong IV 884 : 2    |b B404    |9 (41SLSP_UBE)99116725613305511    
+986      |a (41SLSP_UBE)99116725613305511    |9 (41SLSP_UBE)99116725613305511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116725613305511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116725613305511    
+990      |f erarabe    |9 local    |9 (41SLSP_UBE)99116725613305511    
+990      |f lza-cc0    |9 local    |9 (41SLSP_UBE)99116725613305511    
+991      |a Bongars: 14090    |5 IZ UBE/B400/04.08.2010    |9 local    |9 (41SLSP_UBE)99116725613305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

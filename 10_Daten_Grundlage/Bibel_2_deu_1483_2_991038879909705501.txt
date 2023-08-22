@@ -1,0 +1,152 @@
+﻿<-1-1-START->
+Bibel [deutsch]
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Übersetzung der lateinischen Vulgata des Hieronymus, sowie seinen Prologen und Briefen an Paulinus von Nola und Papst Damasus I.<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Nürnberg: Anton Koberger, 17.02.1483
+<-3-1-STOP->
+
+<-4-1-START->
+2 Bände: 109 Illustrationen; 40 cm (2°)
+<-500-START->Band 1: CCXCV Blätter, 1 ungezähltes Blatt; Band 2: 1 ungezähltes Blatt, CCXCVI-CCCCCLXXXIII Blätter, 1 ungezähltes Blatt<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-490.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-490<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW04303.htm<-L-5-STOP-><-VI-5-START->GW 04303<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib00632000<-L-5-STOP-><-VI-5-START->ISTC ib00632000<-VI-5-STOP->; <-VI-5-START->Schramm: Der Bilderschmuck der FrühdruckeBand 17, Seite 3 und 8, Abbildung VIII (Köln) 358-472<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+583 von 586 Blättern, Illustrationen koloriert; rot ausgezeichnete Initialen; Band 1: Initiale auf Blatt [a₁] recto, sowie Illustration und Initiale auf Blatt [b₁] recto koloriert; auf Blatt [b₁] recto gemalte Blütenranke; Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogene Ledereinbände auf Holzdeckeln (braun, Schaf) mit Schliessen und Eck- und Mittelbeschlägen; Linien- und Ornamentstempel-, auf Band 2 auch Ornamentrollen-Blindprägung, auf beiden Deckeln und am Rücken
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Werner Zesiger; Hans Hayner; Georg Franz Burkhard Kloss; Stift St. Michael Ulm; Bibliothek Oberherrlingen
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Unbedruckte Blätter [P₆] (am Ende von Band 1), [Q₁] (erstes Blatt von Band 2) und [FF₆] (am Ende von Band 2) fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116902499505511<-L-11-STOP-><-VI-11-START->MUE Zesk 7<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991038879909705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Hieronymus, Sophronius Eusebius<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Nürnberg<-O-STOP->
+<-P-START->Koberger, Anton<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Zesiger, Werner<-P-STOP->
+<-P-START->Hayner, Hans<-P-STOP->
+<-P-START->Kloss, Georg Franz Burkhard<-P-STOP->
+<-P-START->Stift St. Michael Ulm<-P-STOP->
+<-P-START->Bibliothek Oberherrlingen<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991038879909705501<-DOI-STOP->
+<-SIGN-START->MUE Zesk 7<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 07247nam a2200685 ca4500
+001 991038879909705501
+005 20220218112003.0
+008 950302s1483    gw            00| | ger d
+019      |a Altbestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von Signaturen.    |5 IDSBB/26.1.1995/bestub/mes    
+035      |a (swissbib)028449363-41slsp_network    
+035      |a 028449363    |9 ExL    
+035      |a (IDSBB)001082774DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991038879909705501    
+035      |a (41SLSP_UBE)99116902499505511    |9 (41SLSP_UBE)99116902499505511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a ger    |h lat    |h heb    |h grc    |h arc    
+072   7  |a th    |2 SzZuIDS BS/BE    
+130 0    |a Bibel    |0 (DE-588)4006406-2    
+245 1 0  |a <<Disz>> durchleuchtigist werck der gantzen heyligen geschrifft. genant dy bibel    |b für all and[er] vorgetrücket teutsch bible[n]. lauterer. clarer. vnd warer nach rechter gemeyner teutsch. mit hohe[m] vnd großem vleyß. gege[n] dem lateynischen text gerechtvertigt. vnd[er]schidlich punctirt. mit vberschrifften bey dem meysten teyl der capitel vnd psalm. iren inhalt vnd vrsach. anzaygende. Vn[d] mit schönen figuren dy hystorie[n] bedeute[n]de. hat hie ein ende    
+246 1 0  |a Werck der gantzen heyligen geschrifft. genant dy bibel    
+246 1 3  |a Biblia    
+246 1    |i Teil des Titels in moderner Orthografie    |a Werk der ganzen heiligen Geschrift, genannt die Bibel    
+246 1    |i Titel gemäss GW    |a Biblia, deutsch    
+246 1    |i Titel in moderner Orthografie    |a <<Dies>> durchleuchtigest Werk der ganzen heiligen Geschrift, genannt die Bibel    |b vor all anderer vorgedrucket deutsch Bibeln lauterer, klarer und wahrer nach rechter gemeiner Deutsch, mit hohem und großem Fleiß, gegen den lateinischen Text gerechtfertigt, unterschiedlich punktiert, mit Überschriften bei dem meisten Teil der Kapitel und Psalmen, ihren Inhalt und Ursach anzeigende, und mit schönen Figuren die Historien bedeutende, hat hier ein Ende    
+264   1  |a In der löblichen keyerlichen reychstat Nürenberg    |b Gedruckt durch anthonium koburger    |c Nach der geburt cristi ... vierzehenhundert vnd in dem dreyvndachtzigste[n] iar. am montag nach Jnuocauit ... [17.02.1483]    
+300      |a 2 Bände    |b 109 Illustrationen    |c 40 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Übersetzung aus dem Latein der Vulgata    
+500      |a Titel und Impressum gemäss Kolophon; Reihenfolge der Vorlage: "Disz durchleuchtigist werck ... Gedruckt durch anthonium koburger in der löblichen keyserlichen reychstat Nürenberg. Nach der geburt cristi ..."    
+500      |a Umfang, Band 1: CCXCV Blätter, 1 ungezähltes Blatt; Band 2: 1 ungezähltes Blatt, CCXCVI-CCCCCLXXXIII Blätter, 1 ungezähltes Blatt    
+500      |a Signaturformel: [a⁴, b–d⁸, e⁶, f–z⁸, A–O⁸, P⁶, Q–Z⁸, aa–zz⁸, AA–CC⁸, DD–FF⁶]    
+500      |a Blätter [P₆] (letztes Blatt in Band 1), [Q₁] (erstes Blatt in Band 2), und [FF₆] (letztes Blatt) unbedruckt    
+510 4    |a BSB-Ink    |c B-490    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-490.html    
+510 4    |a GW    |c 04303    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW04303.htm    
+510 4    |a ISTC    |c ib00632000    |u http://data.cerl.org/istc/ib00632000    
+510 4    |a Schramm: Der Bilderschmuck der Frühdrucke    |c Band 17, Seite 3 und 8, Abbildung VIII (Köln) 358-472    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00025544/image_11    
+561      |a Stempel auf Vorsatzblättern von Band 1 und 2: "Dr. Zesiger"    
+561      |a In Band 1 vorne 4 Seiten und am Schluss 2 Seiten handschriftliche Familienchronik aus dem 16. Jahrhundert von Hans Hayner[?]    
+561      |a Exlibris auf vorderem Spiegel von Band 2: "Georgius Kloß, M.D. Francofurti ad Moenum"    
+561      |a Darunter Exlibris: "Bibliothek Oberherrlingen"; in den Ecken: "1839 E.M."    
+561      |a Band 2 auf Blatt CCXCVI. unten handschriftlicher Vermerk: "Exempti Collegii Wengensis, Ulmæ"    
+563      |a Einbandbeschreibung: Ganzbezogene Ledereinbände auf Holzdeckeln (braun, Schaf) mit Schliessen und Eck- und Mittelbeschlägen; Linien- und Ornamentstempel-, auf Band 2 auch Ornamtentrollen-Blindprägung, auf beiden Deckeln und am Rücken, sowie auf den Vorderdeckeln oben der Titel: Band 1: "Erst teill der bibell", Band 2: "Bibel ander teil"    
+563      |a Band 1: Vorne mit zwei und hinten ohne fliegende Blätter; Band 2: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: Band 1: 42.5 x 30.0 x 10.5 cm, Band 2: 42.6 x 29.7 x 8.0 cm    
+563      |a Zustand Einband: Band 1: Massive Schäden am Einbandleder, mit Fehlstellen und hoch stehenden Fragmenten, Schliessenriemen und -haken fehlend, Mittelbeschlag am Rückdeckel fehlend; Band 2: Schäden am Einbandleder mit Fehlstellen, Schliessenriemen und -haken fehlend (unteres Hakenteil als Fragment vorhanden), Lederbünde im vorderen Falz gebrochen, Heftung teilweise gelöst; Rücken vollständig mit Leder ergänzt (unterhalb der Original-Deckelbezüge)    
+590      |a Buchblockbeschreibung: 583 von 586 Blättern; handschriftliche Lagensignatur (Nummerierung) in Graphit, jeweils auf erstem Blatt jeder Lage, rechts unten; Band 1: Pergamentverstärkung in der letzten Lage [P], Pergament- und Papierfalz zwischen vorletzter und letzter Lage gehört zur Deckelverbindung; Illustrationen koloriert; rot ausgezeichnete Initialen; Initiale in Band 1, Blatt [a₁] recto, sowie Illustration und Initiale auf Blatt [b₁] recto koloriert, mit Blattgold; auf Blatt [b₁] recto gemalte Blütenranke; Rubrizierung    
+590      |a Zustand Buchblock: Band 1: Massive Schäden an den ersten Lagen (Schädlingsfrass, Verklebungen der Blätter, Risse) mit zahlreichen Reparaturen, zahlreiche Verfleckungen und Verbräunungen, Blatt VII ([b₃]) aus anderem Exemplar; Band 2: Erste und letzte Lagen mit diversen Reparaturen und Blattverklebungen    
+590      |a Unbedruckte Blätter [P₆] (= 38₆, am Ende von Band 1), [Q₁] (= 39₁, erstes Blatt von Band 2) und [FF₆] (= 75₆, am Ende von Band 2) fehlen    
+590      |a Signaturformel der handschriftlichen Lagensignatur, Band 1: 1⁴, 2–4⁸, 5⁶, 6–37⁸, 38⁶; Band 2: 39-72⁸, 73-75⁶    
+590      |a Weiteres Exemplar dieser Ausgabe in der UB Bern, in einem Band gebunden: MUE Inc III 6    
+700 1    |a Koberger, Anton    |d 1440-1513    |0 (DE-588)118563890    |e Drucker    |4 prt    
+700 1    |a Zesiger, Werner    |d 1902-1958    |0 (DE-588)121027392    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Hayner, Hans    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Kloss, Georg Franz Burkhard    |d 1787-1854    |0 (DE-588)116234679    |e Früherer Eigentümer    |4 fmo    
+710 2    |a Collegium Wengense    |g Ulm    |b Bibliothek    |0 (DE-588)1086687426    |e Früherer Eigentümer    |4 fmo    
+710 2    |a Bibliothek Oberherrlingen    |0 (DE-588)1123042705    |e Früherer Eigentümer    |4 fmo    
+751      |a Nürnberg    |0 (DE-588)4042742-0    
+852 4    |b B404    |c 404U3    |j MUE Zesk 7    |9 (41SLSP_UBE)99116902499505511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |h MUE Zesk 7 : 1    |q [Band 1]    |p 12    |j MUE Zesk 7    |b B404    |9 (41SLSP_UBE)99116902499505511    
+949      |c 404U3    |h MUE Zesk 7 : 2    |q [Band 2]    |p 12    |j MUE Zesk 7    |b B404    |9 (41SLSP_UBE)99116902499505511    
+986      |a (41SLSP_UBE)99116902499505511    |9 (41SLSP_UBE)99116902499505511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116902499505511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

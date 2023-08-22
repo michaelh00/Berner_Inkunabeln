@@ -1,0 +1,129 @@
+﻿<-1-1-START->
+Le Franc, Martin
+<-1-1-STOP->
+
+<-1-2-START->
+Le champion des dames
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Widmungsbrief des Verfassers an Philipp III. von Burgund<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Lyon: Drucker des Champion des Dames (Jean Du Pré?), nicht nach April 1488]
+<-3-1-STOP->
+
+<-4-1-START->
+370 ungezählte Seiten, 1 ungezähltes Blatt: 63 Illustrationen; 28 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M00433.htm<-L-5-STOP-><-VI-5-START->GW M00433<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/if00277000<-L-5-STOP-><-VI-5-START->ISTC if00277000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+178 von 186 Blättern, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jahrhundert), Linien-Goldprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Das Titelblatt und die Blätter a₈, f₁-f₂, f₇-g₁ und A₆ fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116825751505511<-L-11-STOP-><-VI-11-START->MUE Inc I 105<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991003689189705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Le Franc, Martin<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Lyon<-O-STOP->
+<-P-START->Drucker des Champion des Dames<-P-STOP->
+<-O-START->Lyon<-O-STOP->
+<-P-START->Du Pré, Jean<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991003689189705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 105<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03222nam a2200469 c 4500
+001 991003689189705501
+005 20211215173609.0
+008 180130s1488    fr |||||      00| ||fre d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/30.01.2018/B404/faf    
+035      |a (swissbib)072246340-41slsp_network    
+035      |a 072246340    |9 ExL    
+035      |a (IDSBB)006770016DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991003689189705501    
+035      |a (41SLSP_UBE)99116825751505511    |9 (41SLSP_UBE)99116825751505511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Le Franc, Martin    |d 1410-1461    |e Verfasser    |4 aut    |0 (DE-588)118731297    
+245 1 0  |a <<Le>> champion des dames    
+264   1  |a [Lyon]    |b [Drucker des Champion des Dames (Jean Du Pré?)]    |c [nicht nach April 1488]    
+300      |a 370 ungezählte Seiten, 1 ungezähltes Blatt    |b 63 Illustrationen    |c 28 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Widmungsbrief des Verfassers an Philipp III. von Burgund    
+500      |a Impressum gemäss ISTC    
+500      |a Bei der Illustration wurden einige Druckstöcke mehrfach verwendet    
+500      |a Signaturformel: a-x⁸, y-z⁶, A⁶    
+500      |a Blatt A₆ ist unbedruckt    
+510 4    |a GW    |c M00433    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M00433.htm    
+510 4    |a ISTC    |c if00277000    |u http://data.cerl.org/istc/if00277000    
+530      |a Digitalisat (Exemplar der Bibliothèque nationale de France)    |u http://gallica.bnf.fr/ark:/12148/bpt6k701162    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jh.), Linien-Goldprägung auf beiden Deckeln und dem Rücken sowie Ornamentstempel-Goldprägung und Titelschild auf dem Rücken    
+563      |a Vorsätze: Jeweils zwei fliegende Blätter (teilweise Marmorpapier)    
+563      |a Masse Einband: 27.8 x 21 x 3.7 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, Lederüberklebungen am Rücken und den Deckelecken, beide Vorsätze im Falz mit Japanpapier verstärkt    
+590      |a Buchblockbeschreibung: 178 von 186 Blättern, rot ausgezeichnete Initialen, Rubrizierung    
+590      |a Zustand Buchblock: Blätter stark geschädigt durch Brüche und Risse im Papier zum Teil mit Fehlstellen, Riss-Schliessung und Fehlstellen-Ergänzung mit Pergamin- und Japanpapier, Seiten zum Teil ganzflächig mit Japanpapier kaschiert, Seiten sind zum Teil klebrig und wirken wie geölt oder gewachst, Rot der Initialauszeichnungen stark abgerieben mit Abklatschen an den gegenüberliegenden Seiten, Blätter d₈ mit e₁ und f₄ mit f₅ verklebt    
+590      |a An einigen Stellen Textverlust    
+590      |a Unvollständiges Exemplar: Das Titelblatt und die Blätter a₈, f₁-f₂, f₇-g₁ und A₆ fehlen    
+700 0    |a Drucker des Champion des Dames    |d ca. 2. Hälfte 15. Jahrhundert    |0 (DE-588)1163756504    |e Drucker    |4 prt    
+700 1    |a Du Pré, Jean    |d ca. 15. Jh.    |0 (DE-588)1037649958    |e Drucker    |4 prt    
+700 0 2  |a Le Franc, Martin    |d 1410-1461    |t <<Le>> champion des dames    |0 (DE-588)4223924-2    
+751      |a Lyon    |0 (DE-588)4036770-8    
+852 4    |b B404    |c 404U3    |j MUE Inc I 105    |9 (41SLSP_UBE)99116825751505511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc I 105    |b B404    |9 (41SLSP_UBE)99116825751505511    
+986      |a (41SLSP_UBE)99116825751505511    |9 (41SLSP_UBE)99116825751505511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116825751505511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,129 @@
+﻿<-1-1-START->
+Ortolf von Baierland
+<-1-1-STOP->
+
+<-1-2-START->
+Arzneybuch
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Augsburg: Anton Sorg, 09.06.1488
+<-3-1-STOP->
+
+<-4-1-START->
+15 ungezählte Seiten, clxxxvi Blätter: Holzschnittinitialen; 18 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_O-95.html<-L-5-STOP-><-VI-5-START->BSB-Ink O-95<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M28458.htm<-L-5-STOP-><-VI-5-START->GW M28458<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/io00112000<-L-5-STOP-><-VI-5-START->ISTC io00112000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+192 von 194 Blättern, Holzschnittinitiale auf dem ersten Blatt rot und schwarz, die weiteren Holzschnittinitialen schwarz ausgemalt
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Papiereinband auf Kartondeckeln (braun, Sprenkelpapier, frühes 19. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Im Register fehlen das 3. und das 6. Blatt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116697265005511<-L-11-STOP-><-VI-11-START->MUE Inc III 128<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991006861299705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Ortolf von Baierland<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Augsburg<-O-STOP->
+<-P-START->Sorg, Anton<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991006861299705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 128<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04093nam a2200493 c 4500
+001 991006861299705501
+005 20230207150125.0
+008 170502s1488    gw |||||      00| ||ger d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/02.05.2017/B404/vha    
+035      |a (swissbib)074279831-41slsp_network    
+035      |a 074279831    |9 ExL    
+035      |a (IDSBB)006695453DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991006861299705501    
+035      |a (41SLSP_UBE)99116697265005511    |9 (41SLSP_UBE)99116697265005511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Ortolf    |c von Baierland    |d ca. 13. Jh.    |0 (DE-588)119070707    |e Verfasser    |4 aut    
+240 1 0  |a Arzneybuch    
+245 1 0  |a <<Ein>> arczney bůch von allen gepräszten der menschen    |b wye man den helffen sol zů irer gesuntheyt vnd stercke    
+246 1    |i Kolophon    |a <<Das>> erczneÿ bůch    
+246 1    |i Titel gemäss BSB-Ink, GW und ISTC    |a Arzneibuch    
+246 1    |i Titel in moderner Orthografie    |a Ein Arznei-Buch von allen Gebresten der Menschen    |b wie man den helfen soll zu ihrer Gesundheit und Stärke    
+264   1  |a Das erczneÿ bůch ... in der keiserlichen stat Augspurg    |b hat getruckt vn[d] vollendet Anthonius Sorg    |c am montag nach Erasmi. Do man zalt von der gepurt cristi. M.CCCC.vnd im. LXXXVJJJ. jar [09.06.1488]    
+300      |a 15 ungezählte Seiten, clxxxvi Blätter    |c 18 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Impressum gemäss Kolophon: "Das erczneÿ bůch hat getruckt vn[d] vollendet Anthonius Sorg in der keiserlichen stat Augspurg am montag nach Erasmi. Do man zalt von der gepurt cristi. M.CCCC.vnd im. LXXXVJJJ. jar"    
+500      |a Signaturformel (gemäss BSB-Ink): [*⁸, a-y⁸, z¹⁰]    
+500      |a Holzschnittinitialen    
+510 4    |a BSB-Ink    |c O-95    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_O-95.html    
+510 4    |a GW    |c M28458    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M28458.htm    
+510 4    |a ISTC    |c io00112000    |u http://data.cerl.org/istc/io00112000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00034566/image_5    
+563      |a Einbandbeschreibung: Ganzbezogener Papiereinband auf Kartondeckeln (braun, Sprenkelpapier, frühes 19. Jahrhundert); auf dem Rücken Papier-Titelschild mit handschriftlich in Tinte geschriebenem Verfassernamen: "Ortolf von Beyerland."    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 17.7 x 13.0 x 4.6 cm    
+563      |a Zustand Einband: abgestossene Kanten, retuschierte Papierüberklebung im vorderen Falz    
+590      |a Buchblockbeschreibung: 192 von 194 Blättern, Papierfalz zwischen vorletzter und letzter Lage gehört zur Vorsatzkonstruktion, Holzschnittinitiale auf Blatt [a₁] recto ("Das erst blat") rot und schwarz, die weiteren Holzschnittinitialen schwarz ausgemalt, keine Rubrizierung    
+590      |a Zustand Buchblock: Lage [*] zum Teil mit Papierfälzen aus Einzelblättern zusammengesetzt, Titel ausgeschnitten und auf leeres Blatt aufgeklebt; Blatt [*₆] recto vollflächig kaschiert mit sichtbarer Handschrift unter Kaschierung (Rectoseite jetzt auf der Rückseite!), Blatt [a₁] ("Das erst blat") im Falz an Blatt [*₆] vorgeklebt und im Falz zum Teil von Blatt [a₈] gerissen, letztes Blatt [z₁₀] verso vollflächig kaschiert mit sichtbarer Handschrift unter der Kaschierung, nicht passgenau verklebte Risse an den ersten Blättern    
+590      |a Unvollständiges Exemplar: Im Register (Lage [*]) fehlen das 3. und das 6. Blatt    
+590      |a Wenige handschriftliche Annotationen und Unterstreichungen in Tinte; auf Blatt clxxxvi recto, unter dem Kolophon Notiz: "Dem 6 martzii[?] hätt mein Haußfrau...[?] dis bluomen[?] gehatt[?]"    
+700 0 2  |a Ortolf    |c von Baierland    |d ca. 13. Jh.    |t Arzneybuch    |0 (DE-588)4307481-9    
+700 1    |a Sorg, Anton    |d 1430-1493    |0 (DE-588)12146556X    |e Drucker    |4 prt    
+751      |a Augsburg    |0 (DE-588)4003614-5    
+852 4    |b B404    |c 404U3    |j MUE Inc III 128    |9 (41SLSP_UBE)99116697265005511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc III 128    |b B404    |9 (41SLSP_UBE)99116697265005511    
+986      |a (41SLSP_UBE)99116697265005511    |9 (41SLSP_UBE)99116697265005511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116697265005511    
+991      |a AAK: 663837    |5 IZ UBE/02.05.2017/B404/vha    |9 local    |9 (41SLSP_UBE)99116697265005511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,146 @@
+﻿<-1-1-START->
+Katholische Kirche, Diözese Lausanne
+<-1-1-STOP->
+
+<-1-2-START->
+Statuta synodalia Lausannensia
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Von Bischof Georges de Saluces 1447 zusammengestellt und im Auftrag von Bischof Aimon von Montfalcon gedruckt<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Lyon: [Gaspard Ortuin], 3.10.1494
+<-500-START->ISTC gibt auch Mathias Huss als möglichen Drucker an (gemäss Goff S742)<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+xli Blätter, 1 ungezähltes Blatt: 1 Illustration; 18 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_S-561.html<-L-5-STOP-><-VI-5-START->BSB-Ink S-561<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M43397.htm<-L-5-STOP-><-VI-5-START->GW M43397<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/is00742000<-L-5-STOP-><-VI-5-START->ISTC is00742000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+41 von 42 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Pergamenteinband auf Kartondeckeln mit Marmorpapier (20. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Das unbedruckte, letzte Blatt g₆ fehlt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116782367005511<-L-11-STOP-><-VI-11-START->MUE Inc V 201<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991025290369705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Katholische Kirche, Diözese Lausanne<-P-STOP->
+<-P-START->Georges de Saluces<-P-STOP->
+<-P-START->Aimon von Montfalcon<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Lyon<-O-STOP->
+<-P-START->Ortuin, Gaspard<-P-STOP->
+<-O-START->Lyon<-O-STOP->
+<-P-START->Huß, Matthias<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991025290369705501<-DOI-STOP->
+<-SIGN-START->MUE Inc V 201<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04648nam a2200625 c 4500
+001 991025290369705501
+005 20230207113353.0
+008 181026s1494    fr |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/26.10.2018/B404/vha    
+035      |a (swissbib)075083949-41slsp_network    
+035      |a 075083949    |9 ExL    
+035      |a (IDSBB)006842375DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991025290369705501    
+035      |a (41SLSP_UBE)99116782367005511    |9 (41SLSP_UBE)99116782367005511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+110 2    |a Katholische Kirche    |b Diözese Lausanne    |0 (DE-588)1086400755    |e Verfasser    |4 aut    
+240 1 0  |a Statuta synodalia Lausannensia    
+245 1 0  |a Constitutiones synodales ecclesie et diocesis Lausannensis    
+246 1    |i Titel in moderner Orthografie    |a Constitutiones synodales ecclesiae et dioecesis Lausannensis    
+246 1    |i Incipit    |a Incipiunt co[n]stituciones synodales ecclesie [et] Episcopatus Lausanne[n]sis    
+246 1    |i Incipit in normalisierter Form    |a Incipiunt constituciones synodales ecclesie et Episcopatus Lausannensis    
+246 1    |i Incipit in moderner Orthografie    |a Incipiunt constitutiones synodales ecclesiae et episcopatus Lausannensis    
+246 1 0  |a Constitutiones synodales ecclesiae et episcopatus Lausannensis    
+246 1    |i Kolophon    |a Expliciunt co[n]stitutiones synodales s[e]c[un]d[u]m [con]suetudinem Lausannensiu[m] ep[isco]patum    
+246 1    |i Kolophon in normalisierter Form    |a Expliciunt constitutiones synodales secundum consuetudinem Lausannensium episcopatum    
+246 1 0  |a Constitutiones synodales secundum consuetudinem Lausannensium episcopatum    
+264   1  |a Impresse Lugdunij    |b [Gaspard Ortuin]    |c die vero .iij. mensis octobris. Anno d[omi]ni. M.cccc.lxxxxiiij. [3.10.1494]    
+300      |a xli Blätter, 1 ungezähltes Blatt    |b 1 Illustration    |c 18 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Auf der Rückseite der Titelseite: "Per plures [et] diuersos presules lausanne[n]sis edite. Et per ... dominum Georgium de salucijs Ep[isco]p[u]m et comite[m] Lausanne[n]sis co[m]pilate et in vnu[m] volumen redacte. et demu[m]. Per ... Dnm Aymone[m] de mo[n]te falcone dei gr[ati]a. presulem principe[m] et comite[m] lausanne[n]n. modernu[m] co[n]firmate et approbate. Ac de eius ma[n]dato impresse"    
+500      |a Die Zusammenstellung der Statuten durch Bischof Georges de Saluces erfolgte 1447    
+500      |a Impressum gemäss Kolophon (Blatt g₅ verso); Drucker gemäss BSB-Ink, GW und ISTC; ISTC gibt auch Mathias Huss als möglichen Drucker an (gemäss Goff S742)    
+500      |a Signaturformel: a-g⁶    
+500      |a Blatt g₆ unbedruckt    
+510 4    |a BSB-Ink    |c S-561    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_S-561.html    
+510 4    |a GW    |c M43397    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M43397.htm    
+510 4    |a ISTC    |c is00742000    |u http://data.cerl.org/istc/is00742000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00070914/image_5    
+561      |a Erworben 1931 (Stempel)    
+563      |a Einbandbeschreibung: Halbbezogener Pergamenteinband auf Kartondeckeln mit Marmorpapier (20. Jahrhundert)    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 17.6 x 12.7 x 1.3 cm    
+563      |a Zustand Einband: Einband und Heftung neu (20. Jahrhundert)    
+590      |a Buchblockbeschreibung: 41 von 42 Blättern, Einstichmarkierungen im Bundsteg von vormaliger Heftung (Blockheftung); vorgesehene Stellen für Initialen freigelassen, keine Rubrizierung    
+590      |a Zustand Buchblock: Blatt a₁ (Titelblatt) recto halbseitig mit Büttenpapier kaschiert und Ecke mit Vorsatzpapier ergänzt sowie Riss-Schliessung mit Japanpapier, Blätter teilweise mit Papierfälzen stabilisiert, Feuchtigkeitsränder, blauer Stempel auf letzter Seite radiert    
+590      |a Blatt g₆ (letztes Blatt, unbedruckt) fehlt    
+590      |a Annotation in Tinte auf Blatt g₅ verso, über dem Kolophon: "Folio ..." (unleserlich)    
+700 0    |a Georges    |c de Saluces    |d -1461    |0 (DE-588)1024543595    |e Herausgeber    |4 edt    
+700 0    |a Aimon    |c von Montfalcon    |d 1440-1517    |0 (DE-588)123639263    |e Herausgeber    |4 edt    
+700 1    |a Ortuin, Gaspard    |d ca. 2. H. 15. Jh.    |0 (DE-588)1169957579    |e Drucker    |4 prt    
+700 1    |a Huß, Matthias    |d 1455-1507    |0 (DE-588)136216099    |e Drucker    |4 prt    
+710 2 2  |a Katholische Kirche    |b Diözese Lausanne    |t Statuta synodalia Lausannensia    |0 (DE-588)1169965881    
+751      |a Lyon    |0 (DE-588)4036770-8    
+852 4    |b B404    |c 404U3    |j MUE Inc V 201    |9 (41SLSP_UBE)99116782367005511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc V 201    |b B404    |9 (41SLSP_UBE)99116782367005511    
+986      |a (41SLSP_UBE)99116782367005511    |9 (41SLSP_UBE)99116782367005511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116782367005511    
+991      |a AAK: 180927    |5 IZ UBE/26.10.2018/B404/vha    |9 local    |9 (41SLSP_UBE)99116782367005511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

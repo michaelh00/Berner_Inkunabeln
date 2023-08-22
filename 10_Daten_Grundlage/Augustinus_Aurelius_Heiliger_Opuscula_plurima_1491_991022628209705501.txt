@@ -1,0 +1,182 @@
+﻿<-1-1-START->
+Augustinus, Aurelius
+<-1-1-STOP->
+
+<-1-2-START->
+Opuscula plurima
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Enthält 34 Werke, von denen nur 13 gesichert von Augustinus stammen, zum Teil sind ihre Verfasser unbekannt<-500-STOP->
+<-500-START->Ein Teil der pseudo-augustinischen Schriften wird heute anderen Verfassern zugeordnet; das sind: Alcher von Clairvaux, Caesarius Arelatensis, Thascius Caecilius Cyprianus, Claudius Gordianus Fulgentius, Gennadius Massiliensis, Guigo Cartusianus, Sophronius Eusebius Hieronymus, Honorius Augustodunensis, Valerianus Cemenelensis und Possidius Calamensis<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Straßburg: Martin Flach (der Ältere), 11.08.1491
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 9 ungezählte Seiten, CCLXVII Blätter, 1 ungezähltes Blatt; 29 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-899.html<-L-5-STOP-><-VI-5-START->BSB-Ink A-899<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW02868.htm<-L-5-STOP-><-VI-5-START->GW 02868<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ia01221000<-L-5-STOP-><-VI-5-START->ISTC ia01221000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+274 von 274 Blättern, rot und blau ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Werner Zesiger
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116801553305511<-L-11-STOP-><-VI-11-START->MUE Zesk 23<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991022628209705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Augustinus, Aurelius<-P-STOP->
+<-P-START->Alcher von Clairvaux<-P-STOP->
+<-P-START->Caesarius Arelatensis<-P-STOP->
+<-P-START->Cyprianus, Thascius Caecilius<-P-STOP->
+<-P-START->Fulgentius, Claudius Gordianus<-P-STOP->
+<-P-START->Gennadius Massiliensis<-P-STOP->
+<-P-START->Guigo Cartusianus<-P-STOP->
+<-P-START->Hieronymus, Sophronius Eusebius<-P-STOP->
+<-P-START->Honorius Augustodunensis<-P-STOP->
+<-P-START->Valerianus Cemenelensis<-P-STOP->
+<-P-START->Possidius Calamensis<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Flach, Martin (der Ältere)<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Zesiger, Werner<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991022628209705501<-DOI-STOP->
+<-SIGN-START->MUE Zesk 23<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 09787nam a2200985 c 4500
+001 991022628209705501
+005 20211215172850.0
+008 950711s1491    gw            00| | lat d
+019      |a Altbestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von Signaturen.    |5 IDSBB/13.3.1995/bestub/mes    
+035      |a (swissbib)028127447-41slsp_network    
+035      |a 028127447    |9 ExL    
+035      |a (IDSBB)001127022DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991022628209705501    
+035      |a (41SLSP_UBE)99116801553305511    |9 (41SLSP_UBE)99116801553305511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+072   7  |a th    |2 SzZuIDS BS/BE    
+100 1    |a Augustinus, Aurelius    |c Heiliger    |d 354-430    |0 (DE-588)118505114    |e Verfasser    |4 aut    
+240 1 0  |a Opuscula plurima    
+245 1 0  |a Aurelii Augustini opuscula plurima    
+246 1    |i Titel gemäss GW und ISTC    |a Opuscula    
+264   1  |a Arge[n]tinae    |b impensis et op[er]a Martini flach    |c Anno ... M.cccc.xci. die. xi. me[n]sis Augusti [11.08.1491]    
+300      |a 1 ungezähltes Blatt, 9 ungezählte Seiten, CCLXVII Blätter, 1 ungezähltes Blatt    |c 29 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Enthält 34 Werke, von denen nur 13 gesichert von Augustin stammen; 3 weitere (De vera et falsa poenitentia, De contritione cordis, De vita christiana) werden gemäss Normdatei Augustin zugeschrieben, gehören jedoch wohl - mit den anderen - zu den pseudo-augustinischen Schriften; von diesen kann nur ein Teil anderen Verfassern zugeordnet werden    
+500      |a Impressum gemäss Kolophon (Blatt Q₇ verso); vollständig und in der Reihenfolge der Vorlage: "Aurelij Augustini Hippone[n]sis ep[iscop]i: ac doctoris ecclesiae sanctissimi pariter [et] p[er]spicacissimi: pl[uri]mo[rum] opusculo[rum] nec non vitae ei[us] a Possidonio [con]scriptae: impensis et op[er]a Martini flach Arge[n]tinae accuratissime impresso[rum] Finis Anno a natiuitate saluator[is] nostri. M.cccc.xci. die. xi. me[n]sis Augusti"    
+500      |a Signaturformel: a⁶, b⁸, c⁸d⁶-g⁸h⁶, i⁸, k⁸l⁶–y⁸z⁶, A⁸B⁶–I⁸K⁶, L⁶, M⁸N⁶-O⁸P⁶, Q⁸    
+500      |a Blatt Q₈ (letztes Blatt) unbedruckt; Blatt a₁ verso (Rückseite der Titelseite) und Blatt a₆ verso (letzte Seite der Tabula) unbedruckt    
+505 0 0  |g [Blatt a₂ recto:] Tabula Aurelii Augustini Hyppone[n]sis ep[iscop]i libro[rum] in hoc volumine comp[re]he[n]so[rum] tituli    |t Liber meditationu[m]    |r [Pseudo-Augustinus]    |t Liber soliloq[u]o[rum]    |r [Pseudo-Augustinus]    |t Manuale de verbo dei    |r [Pseudo-Augustinus]    |t Enchiridion ad Laure[n]tiu[m]    |t Liber de triplici habitaculo    |r [Pseudo-Augustinus]    |t Liber scale paradisi    |r [Guigo Carthusiensis]    |t Libellus de duodecim abusionu[m] gradibus    |r [Cyprianus?]    |t Liber de beata vita    |t Liber de assu[m]pt[i]o[n]e b[ea]t[e] marie v[ir]gi[ni]s    |r [Augustinus?]    |t Liber de diuinat[i]o[n]e demonu[m] contra paganos    |t Liber de honestate mulie[rum]    |r [Caesarius Arelatensis]    |t Liber de cura age[n]da p[ro] mortuis ad paulin[m] episcopu[m] nolensem    |t Liber de vera [et] falsa penite[n]tia ad christi deuotam    |r [Augustinus?]    |t Libellus de co[n]trit[i]o[n]e cordis    |r [Augustinus?]    |t Tractat[us] d[e] co[n]te[m]ptu m[un]di ad cl[er]icos    |r [Pseudo-Augustinus]    |t Liber de co[n]uenie[n]tia decem p[er]ceptorum. [et] dece[m] plaga[rum] egypti    |r [Pseudo-Augustinus]    |t Libell[us] de cognit[i]o[n]e vere vite    |r [Honorius Augustodunensis]    
+505 0 0  |t Liber confessionu[m]    |t Liber de doctrina christiana    |t Liber de fide ad pet[rum] diacone[m]    |r [Fulgentius]    |t Sermones duo de vita [et] morib[us] clericorum    |t Liber d[e] v[era] r[e]ligio[n]e ad rominianu[m]    |t Liber de spiritu [et] anima    |r [Alcher von Clairvaux?]    |t Liber de vita christiana ad sorore[m] suam viduam    |r [Augustinus?]    |t Liber de diffinit[i]o[n]ib[us] orthodoxe fidei et ecclesiasticis dogmatib[us]    |r [Gennadius]    |t Liber de disciplina christiana siue d[e] domo discipline    |t Sermo de charitate    |t Liber de decem chordis    |t Sermo de ebrietate    |r [Caesarius Arelatensis]    |t Tractat[us] d[e] vanitate h[uius] sec[u]l[i]    |r [Pseudo-Augustinus]    |t Liber de obedie[n]tia [et] hu[m]ilitate    |r [Hieronymus]    |t Liber de agone christiano    |t Liber de bono discipline    |r [Valerianus Cemenelensis]    |t Regula de [com]mu[n]i vita clerico[rum]    |t Possidonius calame[n]sis episcopus d[e] vita [et] moribus sancti augustini    
+510 4    |a BSB-Ink    |c A-899    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-899.html    
+510 4    |a GW    |c 02868    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW02868.htm    
+510 4    |a ISTC    |c ia01221000    |u http://data.cerl.org/istc/ia01221000    
+530      |a Digitalisat (Exemplar der Universitäts- und Landesbibliothek Darmstadt)    |u http://tudigit.ulb.tu-darmstadt.de/show/inc-iv-299/0001    
+561      |a Stempel auf der Titelseite: Dr. Zesiger    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (chamois,Schwein) mit Schliessen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, auf dem Rücken Papier-Titelschild: "Aurel. August. Opuscula plur."    
+563      |a Vorsätze: vorne und hinten ohne fliegendes Blatt    
+563      |a Masse: 29.1 x 20.8 x 6.7 cm    
+563      |a Zustand Einband: Massiver Schädlingsfrass an beiden Deckeln und am Rücken, Risse und Fehlstellen im Einbandleder (zum Teil original unterlegt, grössere Fehlstelle am unteren Häubchen), beide Haken an unterer Schliesse abgebrochen, Schliessenriemen deformiert, oben angerissen    
+590      |a Buchblockbeschreibung: 274 von 274 Blättern, Pergamentverstärkung (Velours, Manuskriptmakulatur) in den Lagenmitten, an erster und letzter Lage auch aussen mit frei liegendem Ansatzfalz, rot und blau ausgezeichnete Initialen, Rubrizierung    
+590      |a Zustand Buchblock: Seiten unterschiedlich stark verbräunt    
+590      |a Titel in Tinte oben auf vorderem Schnitt: "Opera Augustini"    
+590      |a Auf Blatt a₁ recto (Titelseite) zeitgenössischer Vermerk "Loci Cappucinorum Meld...[?]"; letztes Wort getilgt und von späterer Hand dazugesetzt "Kitzbühl"; handschriftlicher, zeitgenössischer Kaufvermerk    
+590      |a Wenige handschrifliche Annotationen in Tinte    
+590      |a Historische Signatur unter dem Stempel "Dr. Zesiger" auf der Titelseite: "H IV 371" (durchgestrichen)    
+700 1 2  |a Augustinus, Aurelius    |d 354-430    |t Opuscula plurima    |0 (DE-588)1155622847    
+700 1 2  |a Augustinus, Aurelius    |c Heiliger    |d 354-430    |t Enchiridion ad Laurentium sive de fide, spe et caritate    |0 (DE-588)4348402-5    
+700 1 2  |a Augustinus, Aurelius    |c Heiliger    |d 354-430    |t De beata vita    |0 (DE-588)4216334-1    
+700 1 2  |a Augustinus, Aurelius    |c Heiliger    |d 354-430    |t De divinatione daemonum    |0 (DE-588)4348448-7    
+700 1 2  |a Augustinus, Aurelius    |c Heiliger    |d 354-430    |t De cura pro mortuis gerenda    |0 (DE-588)4348066-4    
+700 1 2  |a Augustinus, Aurelius    |c Heiliger    |d 354-430    |t Confessiones    |0 (DE-588)4120947-3    
+700 1 2  |a Augustinus, Aurelius    |c Heiliger    |d 354-430    |t De doctrina christiana    |0 (DE-588)4304034-2    
+700 1 2  |a Augustinus, Aurelius    |d 354-430    |t Sermones    |n 355-356    |0 (DE-588)7686924-6    
+700 1 2  |a Augustinus, Aurelius    |c Heiliger    |d 354-430    |t De vera religione    |0 (DE-588)4347352-0    
+700 1 2  |a Augustinus, Aurelius    |c Heiliger    |d 354-430    |t De disciplina christiana    |0 (DE-588)4348416-5    
+700 1 2  |a Augustinus, Aurelius    |d 354-430    |t Sermones    |n 350    |0 (DE-588)1155502566    
+700 1 2  |a Augustinus, Aurelius    |d 354-430    |t Sermones    |n 9    |0 (DE-588)1119116104    
+700 1 2  |a Augustinus, Aurelius    |c Heiliger    |d 354-430    |t De agone christiano    |0 (DE-588)4346075-6    
+700 1 2  |a Augustinus, Aurelius    |c Heiliger    |d 354-430    |t Praeceptum    |0 (DE-588)4352259-2    
+700 1 2  |a Augustinus, Aurelius    |c Heiliger    |d 354-430    |t De vera et falsa poenitentia    |0 (DE-588)7848050-4    
+700 1 2  |a Augustinus, Aurelius    |d 354-430    |t De contritione cordis    |0 (DE-588)1123604436    
+700 1 2  |a Augustinus, Aurelius    |d 354-430    |t De vita christiana    |0 (DE-588)1123604134    
+700 1 2  |a Augustinus, Aurelius    |c Heiliger    |d 354-430    |t Manuale    |0 (DE-588)4257286-1    
+700 1 2  |a Augustinus, Aurelius    |d 354-430    |t Meditationes    |0 (DE-588)4351549-6    
+700 0 2  |a Alcher    |c von Clairvaux    |t De spiritu et anima    |0 (DE-588)1123663122    
+700 0 2  |a Caesarius    |c Arelatensis    |d 470-542    |t Sermo de indignita familiaritate extranearum mulierum et de martyrio    |0 (DE-588)1123606358    
+700 0 2  |a Caesarius    |c Arelatensis    |d 470-542    |t Ammonitio contra ebrietatis malum    |0 (DE-588)1155607864    
+700 1 2  |a Cyprianus, Thascius Caecilius    |c Heiliger    |d 200-258    |t De duodecim abusivis saeculi    |0 (DE-588)4480468-4    
+700 1 2  |a Fulgentius, Claudius Gordianus    |d 467-533    |t De fide ad Petrum    |0 (DE-588)1123602433    
+700 0 2  |a Gennadius    |c Massiliensis    |d -492    |t Definitio ecclesiasticorum dogmatum    |0 (DE-588)1123603243    
+700 0 2  |a Guigo    |c Cartusianus    |d -1193    |t Scala paradisi    |0 (DE-588)1155517881    
+700 1 2  |a Hieronymus, Sophronius Eusebius    |d 345-420    |t Tractatus de oboedientia    |0 (DE-588)1155617266    
+700 0 2  |a Honorius    |c Augustodunensis    |d 1080-1154    |t Cognitio Vitae    |0 (DE-588)113689621X    
+700 0 2  |a Valerianus    |c Cemenelensis    |d -460    |t De bono disciplinae    |0 (DE-588)1155621212    
+700 0 2  |a Possidius    |c Calamensis    |d -437    |t Vita Augustini    |0 (DE-588)4384216-1    
+700 1    |a Flach, Martin    |c der Ältere    |d 1440-1500    |0 (DE-588)129016489    |e Drucker    |4 prt    
+700 1    |a Zesiger, Werner    |d 1902-1958    |0 (DE-588)121027392    |e Früherer Eigentümer    |4 fmo    
+730 0    |a De assumptione beatae Mariae virginis    |0 (DE-588)4722720-5    
+730 0    |a Soliloquia animae ad deum    |0 (DE-588)4353533-1    
+730 0    |a De triplici habitaculo    |0 (DE-588)1155515013    
+730 0    |a De contemptu mundi    |0 (DE-588)1123668051    
+730 0    |a De convenientia decem praeceptorum et decem plagarum Aegypti    |0 (DE-588)1155566610    
+730 0    |a De vanitate saeculi    |0 (DE-588)1155616022    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Zesk 23    |9 (41SLSP_UBE)99116801553305511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Zesk 23    |b B404    |9 (41SLSP_UBE)99116801553305511    
+986      |a (41SLSP_UBE)99116801553305511    |9 (41SLSP_UBE)99116801553305511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116801553305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

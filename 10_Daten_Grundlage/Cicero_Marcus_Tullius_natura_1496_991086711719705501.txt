@@ -1,0 +1,160 @@
+﻿<-1-1-START->
+Cicero, Marcus Tullius
+<-1-1-STOP->
+
+<-1-2-START->
+De natura deorum; De divinatione; De legibus; Academica; De finibus; De fato; Timaei Platonici versio; De re publica. — Cicero, Quintus Tullius: Commentariolum petitionis consulatus
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Simone Bevilacqua, 18.09.1496
+<-500-START->Entspricht der in GW 06905, Anm. 2 beschriebenen Variante mit einem alternativen Druck von "De finibus" (Lagen 2. A-G), der gemäss ISTC mit Typen von Pietro Quarengi gedruckt wurde (ausser den Blättern 2. A₂ und 2. A₇)<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+287 ungezählte Seiten; 34 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_C-375.html<-L-5-STOP-><-VI-5-START->BSB-Ink C-375<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW06905.htm<-L-5-STOP-><-VI-5-START->GW 06905<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ic00572000<-L-5-STOP-><-VI-5-START->ISTC ic00572000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+144 von 144 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf) mit Spuren von Verschlussbändern (chamois, Leder), Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: A. Deligne; Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116906611105511<-L-11-STOP-><-VI-11-START->MUE Bong IV 850<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991086711719705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Cicero, Marcus Tullius<-P-STOP->
+<-P-START->Cicero, Quintus Tullius<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Bevilacqua, Simone<-P-STOP->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Quarengi, Pietro<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-P-START->Deligne, A.<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991086711719705501<-DOI-STOP->
+<-SIGN-START->MUE Bong IV 850<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06354nam a2200757 c 4500
+001 991086711719705501
+005 20220309100253.0
+007 cr#|||||||||||
+008 100511s1496    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/28.02.2019/B404/faf    
+024 7    |a 10.3931/e-rara-89116    |2 doi    
+035      |a (swissbib)06187633X-41slsp_network    
+035      |a 06187633X    |9 ExL    
+035      |a (IDSBB)005229209DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991086711719705501    
+035      |a (41SLSP_UBE)99116906611105511    |9 (41SLSP_UBE)99116906611105511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Cicero, Marcus Tullius    |d v106-v43    |0 (DE-588)118520814    |e Verfasser    |4 aut    
+245 1 0  |a M.T. Ciceronis de natura deorum Libri tres    |b ; M.T. Ciceronis de diuinatione Libri duo ; M.T. Ciceronis de legibus Libri tres ; M.T. Ciceronis Academicarum quæstionum Libri duo ; M.T. Ciceronis de finibus bonorum & malorum Libri quinq[ue]. Q. Ciceronis de petitione consulatus ad Marcum Tullium Ciceronem fratrem Liber unus. M.T. Ciceronis de fato Liber unus ; M.T. Ciceronis de uniuersitate Liber unus ; M.T. Ciceronis de somnio Scipionis fragmentum Sexti libri de republica    
+246 1    |i Beginn der Titelseite    |a Hoc in uolumine hæc .M. Tullii Ciceronis opera continentur. M.T. Ciceronis de natura deorum Libri tres ...    
+246 1    |i Beginn der Titelseite in normalisierter Form    |a Hoc in volumine hæc M. Tullii Ciceronis opera continentur. M.T. Ciceronis de natura deorum libri tres ...    
+246 1    |i Titel des 2. enthaltenen Werks in normalisierter Form    |a M.T. Ciceronis de divinatione libri duo    
+246 1    |i Titel des 8. enthaltenen Werks in normalisierter Form    |a M.T. Ciceronis de universitate liber unus    
+264   1  |a Impræssum Venetiis    |b per Symonem Papiensem dictum Biuilaqua    |c .M.CCCC.Lxxxxvi. Die decimo octauo mensis Septembris [18.09.1496]    
+300      |a 287 ungezählte Seiten    |c 34 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+337      |b c    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+338      |b cr    |2 rdacarrier    
+500      |a Entspricht der in GW 06905, Anm. 2 beschriebenen Variante mit einem alternativen Druck von "De finibus" (Lagen 2. A-G), der gemäss ISTC mit Typen von Pietro Quarengi gedruckt wurde (ausser den Blättern 2. A₂ und 2. A₇)    
+500      |a Impressum gemäss Kolophon    
+500      |a Signaturformel: aa-bb⁶, cc⁴, dd-ff⁶, A-C⁶, D⁴, a-e⁶, A⁸, B-G⁶, HH⁶, II⁸; die GW-Hauptvariante hat AA-FF⁶, GG⁴ anstelle von A⁸, B-G⁶    
+500      |a Die Reihenfolge der einzelnen Teile kann variieren    
+505 0 0  |g (Blatt 2. A₁ recto) In Hoc Volumine Continentur hæc. Marci. T.C.    |t De Finibus Bonorum & Malo[rum]. Libri Quinq[ue]    |t De Natura Deorum. Libri Tres    |t De Diuinatione. Libri Duo    |t De Legibus. Libri Duo    |t Fragmenta ex Academicis. In duobus diuisa libris    |t De Fato. Libellus Vnus    |t De Mundo. Libellus Vnus    |t De Somno Scipionis. Libellus: qui ex. vi. De re. p. exceptus est    
+510 4    |a BSB-Ink    |c C-375    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_C-375.html    
+510 4    |a GW    |c 06905    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW06905.htm    
+510 4    |a ISTC    |c ic00572000    |u http://data.cerl.org/istc/ic00572000    
+561      |a Sammlung Bongars; handschriftliche Besitzvermerke auf vorderem und hinterem Spiegel sowie auf Blatt II₈ recto: "A. Deligno"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf) mit Spuren von Verschlussbändern (chamois, Leder), Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, Linien-Blindprägung und Titelschild in Blinddruck auf dem Rücken: "Tull Cicer: Opera", dazu in Tinte: "1496 Ven:"    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 33.1 x 22.2 x 3.1 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, Verschlussbänder fehlend, Lederüberklebungen am Rücken und den Deckelkanten sowie den Ecken mit Ergänzung der Blindprägung, Japanpapierüberklebungen an Rissen in fliegendem Blatt des vorderen Vorsatzes    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 144 von 144 Blättern, Papierfalz vor Blatt aa₁ und nach Blatt II₈ gehört zur Vorsatzkonstruktion, vorgesehene Stellen für Initialen frei gelassen    
+590      |a Zustand Buchblock: Zahlreiche Verfleckungen und Feuchtigkeitsränder, Blätter verwellt mit Stauchungen und Knicken an den letzten Blättern, Japanpapierüberklebung an Rissen des Titelblattes    
+590      |a Handschriftliche Annotationen und Unterstreichungen in Tinte    
+590      |a Historische Signatur auf vorderem Spiegel: "Lit. N. 107.", Zahl korrigiert zu "129."; auf Titelseite: "Lit. 37."    
+590      |a Frühere Signaturen: Inc 201 a; Inc I 74; IV 20    
+700 1    |a Cicero, Quintus Tullius    |d v102-v43    |0 (DE-588)100442854    |e Verfasser    |4 aut    
+700 1    |a Bevilacqua, Simone    |d 1450-1518    |0 (DE-588)128983388    |e Drucker    |4 prt    
+700 1    |a Quarengi, Pietro    |d 14XX-15XX    |0 (DE-588)1037566556    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Deligne, A.    |e Früherer Eigentümer    |4 fmo    
+700 1 2  |a Cicero, Marcus Tullius    |d v106-v43    |t De natura deorum    |0 (DE-588)4137472-1    
+700 1 2  |a Cicero, Marcus Tullius    |d v106-v43    |t De divinatione    |0 (DE-588)4272506-9    
+700 1 2  |a Cicero, Marcus Tullius    |d v106-v43    |t De legibus    |0 (DE-588)4340135-1    
+700 1 2  |a Cicero, Marcus Tullius    |d v106-v43    |t Academica    |0 (DE-588)4335274-1    
+700 1 2  |a Cicero, Marcus Tullius    |d v106-v43    |t De finibus    |0 (DE-588)4215059-0    
+700 1 2  |a Cicero, Quintus Tullius    |d v102-v43    |t Commentariolum petitionis consulatus    |0 (DE-588)4625970-3    
+700 1 2  |a Cicero, Marcus Tullius    |d v106-v43    |t De fato    |0 (DE-588)4122445-0    
+700 1 2  |a Cicero, Marcus Tullius    |d v106-v43    |t Timaei Platonici versio    |0 (DE-588)4340150-8    
+700 1 2  |a Cicero, Marcus Tullius    |d v106-v43    |t De re publica    |p Somnium Scipionis    |0 (DE-588)4254901-2    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Bong IV 850    |9 (41SLSP_UBE)99116906611105511    
+856 4    |u https://doi.org/10.3931/e-rara-89116    |z Digitalisat in e-rara    
+900      |a IDSIxunikat    
+900      |a IDSIxhybrid-el    
+900      |a NOMERGEALEX    
+949      |i ZB Inc I 74    |c 404U3    |p 12    |j MUE Bong IV 850    |b B404    |9 (41SLSP_UBE)99116906611105511    
+986      |a (41SLSP_UBE)99116906611105511    |9 (41SLSP_UBE)99116906611105511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116906611105511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116906611105511    
+990      |f erarabe    |9 local    |9 (41SLSP_UBE)99116906611105511    
+990      |f lza-cc0    |9 local    |9 (41SLSP_UBE)99116906611105511    
+991      |a Bongars: 03037, 03117    |5 IZ UBE/B400/12.05.2010    |9 local    |9 (41SLSP_UBE)99116906611105511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

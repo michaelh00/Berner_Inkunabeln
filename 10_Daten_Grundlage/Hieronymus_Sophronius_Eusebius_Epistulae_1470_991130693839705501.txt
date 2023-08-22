@@ -1,0 +1,212 @@
+﻿<-1-1-START->
+Hieronymus, Sophronius Eusebius
+<-1-1-STOP->
+
+<-1-2-START->
+Epistulae
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit einer Vorrede und einem "Epitaphium" auf Hieronymus, von Adrianus Brielis herausgegeben<-500-STOP->
+<-500-START->Die Ausgabe enthält, ausser den Briefen im engeren Sinne, etwa 40 weitere Werke, sowohl von Hieronymus (zum Teil ihm nur zugeschrieben), als auch Abhandlungen und Auszüge aus Werken weiterer Verfasser, überwiegend Zeitgenossen und Korrespondenten von Hieronymus<-500-STOP->
+<-500-START->Die in dieser Ausgabe genannten zusätzlichen oder angeblichen Verfasser sind: Damasus I. (Papst), Origines, Epiphanius Constantiensis, Rufinus Aquileiensis, Eusebius Caesariensis,  Pammachius, Oceanus Presbyter, Aurelius Augustinus (auch Pseudo-Augustinus), Paula (Heilige), (Julia) Eustochium, Eusebius Cremonensis (eigentlich pseudo-Eusebius), Cyrillus Hierosolymitanus (eigentlich Pseudo-Cyrillus)<-500-STOP->
+<-500-START->Nicht in der Ausgabe genannte, ermittelte oder mutmassliche Verfasser sind: Pelagius Haereticus, Rufinus Aquileiensis (Tyrannius), Eucherius Lugdunensis, Johannes Chrysostomus, Bachiarius, Pontius Meropius Paulinus (Nolanus), Caelestius Pelagianus, Maximus Taurinensis, Eutropius Presbyter, Nicetas Remesianensis, (Paschasius) Radbert (Abt von Corbie)<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Mainz: Peter Schöffer, 07.09.1470
+<-500-START->Entspricht Ausgabe b (GW 12425), mit Ausnahme von einer Zeile vor dem Kolophon, rechte Spalte, Zeile 2: "... hoc opus iniciare" statt "... istud principiare"; diese Korrektur wie in Ausgabe a (GW 12424)<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+2 Bände: Druckermarke; 48 cm (2°)
+<-500-START->Band [1]: 395 ungezählte Seiten; Band [2]: 420 ungezählte Seiten<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://incunables.bodleian.ox.ac.uk/record/H-086<-L-5-STOP-><-VI-5-START->Bod-Inc H-086<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW12425.htm<-L-5-STOP-><-VI-5-START->GW 12425<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ih00165000<-L-5-STOP-><-VI-5-START->ISTC ih00165000 (issue b)<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogene Ledereinbände auf Holzdeckeln (Veloursleder) mit Schliessen
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Johannes Meskow; Werner Zesiger; Universitätsbibliothek Frankfurt (Oder), 1506-1811; Königliche und Universitätsbibliothek Breslau
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar von Band [1]: Blatt [b₁] fehlt (ersetzt durch eine Kopie, die jedoch aus einem Exemplar der Ausgabe a stammt)
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116902491605511<-L-11-STOP-><-VI-11-START->MUE Zesk 5<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991130693839705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Hieronymus, Sophronius Eusebius<-P-STOP->
+<-P-START->Brielis, Adrianus<-P-STOP->
+<-P-START->Damasus I. (Papst)<-P-STOP->
+<-P-START->Origenes<-P-STOP->
+<-P-START->Epiphanius Constantiensis<-P-STOP->
+<-P-START->Rufinus Aquileiensis<-P-STOP->
+<-P-START->Eusebius Caesariensis<-P-STOP->
+<-P-START->Pammachius<-P-STOP->
+<-P-START->Oceanus Presbyter<-P-STOP->
+<-P-START->Augustinus, Aurelius<-P-STOP->
+<-P-START->Paula (Heilige)<-P-STOP->
+<-P-START->Eustochium<-P-STOP->
+<-P-START->Eusebius Cremonensis<-P-STOP->
+<-P-START->Cyrillus Hierosolymitanus<-P-STOP->
+<-P-START->Pelagius Haereticus<-P-STOP->
+<-P-START->Eucherius Lugdunensis<-P-STOP->
+<-P-START->Johannes Chrysostomus<-P-STOP->
+<-P-START->Bachiarius<-P-STOP->
+<-P-START->Paulinus, Pontius Meropius<-P-STOP->
+<-P-START->Caelestius Pelagianus<-P-STOP->
+<-P-START->Maximus Taurinensis<-P-STOP->
+<-P-START->Eutropius Presbyter<-P-STOP->
+<-P-START->Nicetas Remesianensis<-P-STOP->
+<-P-START->Radbert (Abt von Corbie)<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Mainz<-O-STOP->
+<-P-START->Schöffer, Peter<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Meskow, Johannes<-P-STOP->
+<-P-START->Zesiger, Werner<-P-STOP->
+<-P-START->Universitätsbibliothek Frankfurt (Oder), 1506-1811<-P-STOP->
+<-P-START->Königliche und Universitätsbibliothek Breslau<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991130693839705501<-DOI-STOP->
+<-SIGN-START->MUE Zesk 5<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 11363nam a2201093 ca4500
+001 991130693839705501
+005 20220309113045.0
+008 950302s1470    gw            00| | lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von Signaturen    |5 IDSBB/12.12.1994/bestub/mes    
+035      |a (swissbib)028447379-41slsp_network    
+035      |a 028447379    |9 ExL    
+035      |a (IDSBB)001082756DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991130693839705501    
+035      |a (41SLSP_UBE)99116902491605511    |9 (41SLSP_UBE)99116902491605511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+072   7  |a th    |2 SzZuIDS BS/BE    
+245 0 0  |a Igitur Sophronij Eusebij Jeronimi Orthodoxi. ... Liber Jeronimianus aut si mauis q[uod] et ip[s]e velim Liber ep[isto]laris explicit ...    
+246 1 0  |a Epistolare beati Hieronimi    
+246 1 0  |a Liber epistolaris    
+246 1 0  |a Liber Ieronimianus aut si mavis quod et ipse velim Liber epistolaris    
+246 1    |i Incipit    |a Introductoriu[m] Epistolare b[ea]ti hieronimi    |b impressionis magu[n]tine facte p[er] viru[m] famatum in hac arte Petrum schoiffer de gernßheym    
+246 1    |i Incipit in normalisierter Form    |a Introductorium Epistolare beati Hieronimi    |b impressionis maguntine facte per virum famatum in hac arte Petrum Schoiffer de Gernßheym    
+246 1    |i Titel gemäss BSB-Ink    |a Epistulae    
+246 1    |i Titel gemäss GW und ISTC    |a Epistolae    
+246 1    |i Titel in normalisierter Form    |a Igitur Sophronii Eusebii Ieronimi Orthodoxi. ... Liber Ieronimianus aut si mavis quod et ipse velim Liber epistolaris explicit ...    
+264   1  |a Est aut[em] p[rese]ns opus arte imp[re]ssoria feliciter [con]su[m]matu[m] ... i[n] ciuitate nobili Mogu[n]tina    |b p[er] Petru[m] schoiffer de gernßhem ...    |c Anno domini .M.cccc.lxx. Die septima mensis septe[m]bris que fuit vigilia natiuitatis Marie [7.09.1470]    
+300      |a 2 Bände (395, 420 ungezählte Seiten)    |c 48 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Die Ausgabe enthält, ausser den Briefen im engeren Sinne, etwa 40 weitere Werke, sowohl von Hieronymus (zum Teil ihm nur zugeschrieben), als auch Abhandlungen und Auszüge aus Werken weiterer Verfasser, überwiegend Zeitgenossen und Korrespondenten von Hieronymus    
+500      |a Keine Titelseite, Titel gemäss Kolophon (Blatt [Y₁₁] verso)    
+500      |a Eine Auflistung sämtlicher enthaltener Werke findet sich in GW und in Bod-Inc (in Bod-Inc genauer, mit Blattangabe, teilweise mit unterschiedlicher Zuschreibung der Verfasserschaft)    
+500      |a Die in dieser Ausgabe genannten zusätzlichen oder angeblichen Verfasser sind: Damasus, Pont. Max., Origines, Epiphanius (Constantiensis), Rufinus (Aquileiensis) Tyrannus, (Eusebius) Pamphilius Martyris,  Pammachius, Oceanus (Presbyter), Augustinus (auch Pseudo-Augustinus), Paula (von Rom), (Julia) Eustochium, Eusebius Cremonensis (eigentlich pseudo-Eusebius), Cyrillus (Hierosolymitanus, eigentlich Pseudo-Cyrillus)    
+500      |a Nicht in der Ausgabe genannte, ermittelte oder mutmassliche Verfasser sind: Pelagius (Haereticus), Rufinus, Tyrannius, Eucherius Lugdunensis episcopus, Johannes Chrysostomus, Bachiarius, (Pontius Meropius) Paulinus Nolanus, Caelestius (Pelagianus), Maximus Taurinensis, Eutropius (Presbyter), Nicetas Remesianus, Paschasius Radbertus (Radbert, Abt von Corbie)    
+500      |a Gemäss BSB-Ink, GW und ISTC von Adrianus Brielis herausgegeben    
+500      |a Entspricht Ausgabe b (GW 12425), mit Ausnahme von einer Zeile auf Blatt [Y₁₁] verso, vor dem Kolophon, rechte Spalte, Zeile 2: "[S]Jt decus illi qui dedit hoc opus iniciare" (statt "... istud principiare"); diese Korrektur wie in Ausgabe a (GW 12424)    
+500      |a Impressum gemäss Kolophon; Reihenfolge der Vorlage: "... Est aut[em] p[rese]ns opus arte imp[re]ssoria feliciter [con]su[m]matu[m] p[er] Petru[m] schoiffer de gernßhem i[n] ciuitate nobili Mogu[n]tina ... Anno domini .M.cccc.lxx. Die septima mensis septe[m]bris que fuit vigilia natiuitatis Marie"    
+500      |a Umfang Band [1]: 198 ungezählte Blätter; Band [2]: 210 ungezählte Blätter    
+500      |a Signaturformel Band 1: [a⁴, b–e¹⁰, f⁸+¹, g–t¹⁰, v⁸, x⁶+¹]; Band 2: [A–C¹⁰, D⁶+¹, E-F¹⁰, G⁸, H¹⁰, I⁶, K⁴+¹, L–N¹⁰, O¹²+¹, P–X¹⁰, Y¹⁰+¹]    
+500      |a Signaturformel gemäss Bod-Inc; in GW wurden die ersten beiden Lagen von Band 2 als y und z bezeichnet, die 3. Lage als A etc. bis V    
+500      |a Druckermarke am Ende; zusammen mit Kolophon rot gedruckt    
+500      |a Rot- und Schwarzdruck: Kapitelüberschriften rot gedruckt    
+505 0 0  |g Blatt a₄ recto    |t Epitaphiu[m] beati ieronimi doctoris ecclesie eximij    |r [Adrianus Brielis]    
+510 4    |a Bod-Inc    |c H-086    |u http://incunables.bodleian.ox.ac.uk/record/H-086    
+510 4    |a GW    |c 12425    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW12425.htm    
+510 4    |a ISTC    |c ih00165000 (issue b)    |u http://data.cerl.org/istc/ih00165000    
+561      |a Auf vorderem Spiegel in Band [1] und [2] handschriftlicher Besitzervermerk: "Istum librum de[di]t domui[?] Johannes meskow ...[?] pleba[nus] infrancford ...[?] nu[n]c dei"    
+561      |a Exlibris auf vorderem Spiegel von Band [1]: "Liber Biblioth. Acad. Fran[cof.]" (teilweise beschädigt)    
+561      |a Stempel in Band [1] auf Blatt [a₁] recto, in Band [2] auf Blatt [A₁] recto: "Ex Bibl. Univ. Viad. Vrat." (Universitätsbibliothek Breslau, wohin die Bestände der UB Frankfurt an der Oder nach der Schliessung 1811 gebracht wurden); zwei weitere Stempel auf diesen Seiten sind unleserlich    
+561      |a Stempel auf vorderem Spiegel in Band [1] und [2] und auf letztem Blatt verso in Band [1] sowie hinterem Spiegel in Band [2]: "Dr. Zesiger"    
+563      |a Einbandbeschreibung: Halbbezogene Ledereinbände auf Holzdeckeln (Veloursleder) mit Schliessen    
+563      |a Vorsätze (Band [1] und [2]): Vorne und hinten ohne fliegendes Blatt    
+563      |a Masse, Band 1: 48.3 x 35.0 x 8.1 cm, Band 2: 47.8 x 34.5 x 8.5 cm    
+563      |a Zustand Einband, Band [1]: Absplitterungen an den Holzdeckeln, vorderer Deckel mit geklebtem Bruch und nachträglicher Schwalbenschwanzverstärkung, Schliessen komplett fehlend, Heftung in erster Lage gerissen; Band [2]: Vorderer Deckel mit geklebtem Bruch und nachträglicher Schwalbenschwanzverstärkung, Schliessen fehlend (Schliessenplättchen mit Resten der Schliessenriemen am Rückdeckel erhalten)    
+590      |a Buchblockbeschreibung Band [1]: 197 von 198 Blättern; Band [2]: 210 von 210 Blättern; Band [1]: Papierfalz zwischen erstem und zweitem Blatt der letzten Lage [x] gehört zum vorletzten Blatt dieser Lage, punktuelle Durchstechungen entsprechend der Kolumnen-Aussenlinien (Bundstegseite und Blattvorderkante) an den unteren Blattkanten, teilweise durch Beschnitt nicht mehr sichtbar; handschriftliche Lagensignatur (Nummerierung) in Graphit; rot und blau ausgezeichnete Initialen, teilweise Rubrizierung, teilweise rote und blaue Paragraphenzeichen, Blattweiser aus rot gefärbtem Alaunleder teilweise gerissen    
+590      |a Zustand Buchblock, Band 1: Rest eines Pergamentfalzes (Velours) zwischen erster und zweiter Lage ([a] und [b]), letztes Blatt der Lage [b] vollständig aus dem Lagenverbund gelöst, mit punktueller Sicherung aus Pergaminfälzen; Pergamentfalz zwischen vorletzter und letzter Lage ([v] und [x]), Falz zwischen letztem Blatt und Spiegel fast vollständig abgeschnitten; Buchblock über Deckel hinaus stehend; Band 2: Pergamentfalz (Velours) um erste Lage [A] zum Vorderdeckel hin fast vollständig abgeschnitten; an letzter Lage [Y] grösseres Pergamentstück erhalten; erstes Blatt [A₁] mit massiven Feuchtigkeitsverfleckungen und Papierüberklebungen, Schädlingsfrass teilweise mit Textverlust in letzten zwei Dritteln des Buchblocks    
+590      |a Unvollständiges Exemplar von Band [1]: Blatt [b₁] fehlt (ersetzt durch eine Kopie, die jedoch aus einem Exemplar der Ausgabe a stammt)    
+590      |a Signaturformel der handschriftlichen Lagensignatur Band [1]: [1]⁴, 2–5¹⁰, 6⁹, 7–19¹⁰, 20⁸, 21⁷; Band [2]: 22–24¹⁰, 25⁷, 26-27¹⁰, 28⁸, 29¹⁰, 30⁶, 31⁵, 32–34¹⁰, 35¹³, 36–42¹⁰, 43¹¹    
+590      |a Marginalien in schwarzer und roter Tinte von zeitgenössicher Hand in Band [1], Blatt [a₂]-[d₁₀]    
+590      |a Historische Signaturen auf vorderem Spiegel von Band [1]: "2001"; "D. II. 21." und "H II 367 (1)"; Band 2: "2002" und "H II 367 (2)"    
+700 1    |a Hieronymus, Sophronius Eusebius    |d 345-420    |0 (DE-588)118550853    |e Verfasser    |4 aut    
+700 1    |a Brielis, Adrianus    |d 1410-1472    |0 (DE-588)128985348    |e Herausgeber    |4 edt    
+700 1 2  |a Hieronymus, Sophronius Eusebius    |d 345-420    |t Epistulae    |0 (DE-588)4329905-2    
+700 1 2  |a Brielis, Adrianus    |d ca. 1410-1472/82    |t Epitaphium beati Ieronimi doctoris ecclesiae eximii    
+700 0    |a Damasus    |b I.    |c Papst    |d 305-384    |0 (DE-588)118878689    |4 aut    
+700 0    |a Origenes    |d 185-254    |0 (DE-588)118590235    |4 aut    
+700 0    |a Epiphanius    |c Constantiensis    |d 315-403    |0 (DE-588)118682229    |4 aut    
+700 0    |a Rufinus    |c Aquileiensis    |d 345-410    |0 (DE-588)118750313    |4 aut    
+700 0    |a Eusebius    |c Caesariensis    |d 260-339    |0 (DE-588)118531425    |4 aut    
+700 0    |a Pammachius    |d 4. Jh.    |0 (DE-588)102401349    |4 aut    
+700 0    |a Oceanus    |c Presbyter    |d 420    |0 (DE-588)10240089X    |4 aut    
+700 1    |a Augustinus, Aurelius    |c Heiliger    |d 354-430    |0 (DE-588)118505114    |4 aut    
+700 0    |a Paula    |c Heilige    |d 347-404    |0 (DE-588)118789910    |4 aut    
+700 0    |a Eustochium    |c Sancta    |d 368-419    |0 (DE-588)102393230    |4 aut    
+700 0    |a Eusebius    |c Cremonensis    |d ca. 4./5. Jh.    |0 (DE-588)100125611    |4 aut    
+700 0    |a Cyrillus    |c Hierosolymitanus    |d 312-386    |0 (DE-588)118677594    |4 aut    
+700 0    |a Pelagius    |c Haereticus    |d ca. 360-422    |0 (DE-588)118592432    |4 aut    
+700 0    |a Rufinus    |c Aquileiensis    |d 345-410    |0 (DE-588)118750313    |4 aut    
+700 0    |a Eucherius    |c Lugdunensis    |d -450    |0 (DE-588)118682547    |4 aut    
+700 0    |a Johannes    |c Chrysostomus    |d 344-407    |0 (DE-588)118557831    |4 aut    
+700 0    |a Bachiarius    |0 (DE-588)100727956    |4 aut    
+700 0    |a Paulinus, Pontius Meropius    |d 353-431    |0 (DE-588)118592165    |4 aut    
+700 0    |a Caelestius    |c Pelagianus    |d -431    |0 (DE-588)118666487    |4 aut    
+700 0    |a Maximus    |c Taurinensis, Heiliger    |d ca. 4./5. Jh.    |0 (DE-588)118934996    |4 aut    
+700 0    |a Eutropius    |c Presbyter    |d ca. Um 400/430    |0 (DE-588)118826530    |4 aut    
+700 0    |a Nicetas    |c Remesianensis    |d ca. -nach 414    |0 (DE-588)118786075    |4 aut    
+700      |a Radbert    |c Corbie, Abt, Heiliger    |d 785-865    |0 (DE-588)118739409    
+700 1    |a Schöffer, Peter    |d 1420-1502    |0 (DE-588)118609947    |e Verlag    |e Drucker    |4 pbl    |4 prt    
+700 1    |a Meskow, Johannes    |0 (DE-588)1147526699    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Zesiger, Werner    |d 1902-1958    |0 (DE-588)121027392    |e Früherer Eigentümer    |4 fmo    
+710 2    |a Universitätsbibliothek    |g Frankfurt (Oder), 1506-1811    |0 (DE-588)4727776-2    |e Früherer Eigentümer    |4 fmo    
+710 2    |a Königliche und Universitätsbibliothek Breslau    |0 (DE-588)1147524890    |e Früherer Eigentümer    |4 fmo    
+751      |a Mainz    |0 (DE-588)4037124-4    
+852 4    |b B404    |c 404U3    |j MUE Zesk 5    |9 (41SLSP_UBE)99116902491605511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |h MUE Zesk 5 : 2    |q Band [2]    |p 12    |j MUE Zesk 5    |b B404    |9 (41SLSP_UBE)99116902491605511    
+949      |c 404U3    |h MUE Zesk 5 : 1    |q Band [1]    |p 12    |j MUE Zesk 5    |b B404    |9 (41SLSP_UBE)99116902491605511    
+986      |a (41SLSP_UBE)99116902491605511    |9 (41SLSP_UBE)99116902491605511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116902491605511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

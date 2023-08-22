@@ -1,0 +1,140 @@
+﻿<-1-1-START->
+Positiones circa libros physicorum et de anima Aristotelis
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Gemäss Alcuin, Infothek der Scholastik (online), wurden für diese Schrift Werke von Henricus de Gorrichem verarbeitet, "der Text stammt in der hier gegebenen Form jedoch nicht von ihm".<-500-STOP->
+<-500-START->Mit Vorrede an die Studenten der Bursa Montana (Gymnasium in Köln) auf der Rückseite der Titelseite, datiert 06.12.1493<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Köln]: [Heinrich Quentel], 16.05.1494
+<-3-1-STOP->
+
+<-4-1-START->
+93 ungezählte Seiten : 1 Holzschnittinitiale; 28 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_P-727.html<-L-5-STOP-><-VI-5-START->BSB-Ink P-727<-VI-5-STOP->; <-L-5-START->http://gesamtkatalogderwiegendrucke.de/docs/M35127.htm<-L-5-STOP-><-VI-5-START->GW M35127<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ip00946000<-L-5-STOP-><-VI-5-START->ISTC ip00946000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+47 von 48 Blättern, rot oder blau ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Pergamenteinband auf Kartondeckeln (18. Jahrhundert) mit durchzogenen Bünden
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Johannes Siber
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Copulata super tres libros Aristotelis De anima iuxta doctrinam Thomae de Aquino / Lambertus de Monte Domini. [Köln: Heinrich Quentel, um 1487]
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Unbedrucktes Blatt von Lage a weggeschnitten
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116748652905511<-L-11-STOP-><-VI-11-START->MUE Inc IV 19 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991059156839705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Heinrich von Gorkum<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Köln<-O-STOP->
+<-P-START->Quentell, Heinrich<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Siber, Johannes<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991059156839705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 19 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05498nam a2200577 c 4500
+001 991059156839705501
+005 20211215175410.0
+008 170526s1494    gw |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/26.05.2017/B404/vha    
+035      |a (swissbib)069543909-41slsp_network    
+035      |a 069543909    |9 ExL    
+035      |a (IDSBB)006702153DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991059156839705501    
+035      |a (41SLSP_UBE)99116748652905511    |9 (41SLSP_UBE)99116748652905511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+130 0    |a Positiones circa libros physicorum et de anima Aristotelis    |0 (DE-588)1135634661    
+245 1 0  |a Positiones circa libros phisicoru[m] et de a[n]i[m]a Arestotelis    |b iuxta ordinariu[m] et disputatiuu[m] p[ro]cessum magistroru[m] Colonie in bursa montis rege[n]tiu[m] ad oppene[n]du[m] et respo[n]de[n]du[m] no[n] minus vtiles q[uam] necessarie    
+246 1    |i Kolophon    |a Positiones ad opponendum [et] respondendum per q[uam] necessarie circa octo libros phisicoru[m] [et] tres libros de anima Arestotelis ...    
+246 1    |i Titel gemäss BSB-Ink    |a Positiones circa libros Physicorum et De anima Aristotelis iuxta processum magistrorum Colonie in bursa Montis regentium    
+246 1    |i Titel in moderner Orthografie, gemäss GW und ISTC    |a Positiones circa libros physicorum et de anima Aristotelis    
+246 1    |i Titel in normalisierter Form    |a Positiones circa libros phisicorum et de anima Arestotelis    |b iuxta ordinarium et disputativum processum magistrorum Colonie in bursa montis regentium ad oppenendum et respondendum non minus utiles quam necessarie    
+264   1  |a [Köln]    |b [Heinrich Quentel]    |c Anno salutis. M.cccc.xciiij die. xvi. Maij. [16.05.1494]    
+300      |a 93 ungezählte Seiten    |c 28 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Gemäss Alcuin, Infothek der Scholastik (online, unter Henricus de Gorrichem), wurden für diese Schrift Werke von Henricus de Gorrichem verarbeitet, "der Text stammt in der hier gegebenen Form jedoch nicht von ihm".    
+500      |a Mit Vorrede an die Studenten der Bursa Montana (Gymnasium in Köln) auf der Rückseite der Titelseite, datiert "viij. ydus Decembris Anno. ccccxciij." (6.12.1493)    
+500      |a Drucker und Druckort gemäss BSB-Ink, GW und ISTC    
+500      |a Erscheinungsjahr im Kolophon (Blatt h₆ recto); Vorlage: "Positiones ad opponendum [et] respondendum per q[uam] necessarie circa octo libros phisicoru[m] [et] tres libros de anima Arestotelis comatice congeste. ex scriptis post se relictis diuersorum artium [et] sacre pagine professorum qui suo euo bursam Montis felicissime rexerunt. videlicet magistri nostri Henrici Gorychem. magistri nostri Gerardi de Monte. magistri nostri Gerardi de Elten magistri nostri Henrici de Orsoe. quo[rum] fama in vniuersitate Coloniensi p[rae]celebris est [et] immortalis. ac tandem s[ummu]m doctrinam diui Thome Aquinatis. [et] iuxta p[ro]cessus magistri nostri Lamberti de Monte summa lucubratio[n]e impresse. Finiu[n]t fauste. Anno salutis. M.cccc.xciiij die. xvi. Maij."    
+500      |a Signaturformel: a⁶-¹, b-h⁶    
+500      |a Blatt a₂ als a₁ signiert (davor Titelblatt); unbedrucktes Blatt der Lage meist weggeschnitten; Blatt e₆ verso und letztes Blatt h₆ verso unbedruckt    
+500      |a Holzschnittinitiale auf Blatt a₂ (signiert als a₁) recto    
+510 4    |a BSB-Ink    |c P-727    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_P-727.html    
+510 4    |a GW    |c M35127    |u http://gesamtkatalogderwiegendrucke.de/docs/M35127.htm    
+510 4    |a ISTC    |c ip00946000    |u http://data.cerl.org/istc/ip00946000    
+530      |a Digitalisat (Exemplar der Universitäts- und Landesbibliothek Düsseldorf)    |u http://nbn-resolving.de/urn:nbn:de:hbz:061:1-381858    
+561      |a Handschriftlicher Besitzvermerk auf Blatt a₁: "Doctor[is] Siber."; auf Blatt h₆ recto, unter dem Kolophon: "Doctor[is] Siber can[onicus] [et] scolast[icus] ex S[ancto] Pe[tro] Bas[iliensis]"    
+563      |a Einbandbeschreibung: Ganzbezogener Pergamenteinband auf Kartondeckeln (18. Jahrhundert) mit durchzogenen Bünden; Titel in Tinte auf dem Rücken "De Monte Libri ... [verblasst] 1499. Coloniae Agr."    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 28.0 x 21.3 x 3.4 cm    
+563      |a Zustand Einband: beide Vorsätze im Falz mit Japanpapier stabilisiert, hinterer Spiegel mit Japanpapier ergänzt    
+590      |a Buchblockbeschreibung: 47 von 48 Blättern, rot oder blau ausgezeichnete Initialen; Rubrizierung, rote und teilweise blaue Paragraphenzeichen    
+590      |a Unbedrucktes Blatt von Lage a weggeschnitten, Rest im Falz vor Blatt a₆ sichtbar    
+590      |a Mit handschriftlichen Annotationen (in Lage a, am oberen Seitenrand, teils weggeschnitten; in Lage h, teils in roter Tinte)    
+590      |a Zusammengebunden mit: Lambertus de Monte Domini: Copulata super tres libros Aristotelis De anima iuxta doctrinam Thomae de Aquino. [Köln], [Heinrich Quentel], [um 1487]    
+590      |a Frühere Signatur: Inc 81    
+700 0    |a Heinrich    |c von Gorkum    |d 1378-1431    |0 (DE-588)100945767    |e Mitwirkender    |4 ctb    
+700 1    |a Quentell, Heinrich    |d 14XX-1501    |0 (DE-588)102359229    |e Verlag    |4 pbl    
+700 1    |a Siber, Johannes    |d 14XX-1502    |0 (DE-588)1091070172    |e Früherer Eigentümer    |4 fmo    
+751      |a Köln    |0 (DE-588)4031483-2    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 19 : 2    |9 (41SLSP_UBE)99116748652905511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc IV 19 : 2    |b B404    |9 (41SLSP_UBE)99116748652905511    
+986      |a (41SLSP_UBE)99116748652905511    |9 (41SLSP_UBE)99116748652905511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116748652905511    
+991      |a AAK: 00703650    |5 IZ UBE/26.05.2017/B404/vha    |9 LOCAL    |9 (41SLSP_UBE)99116748652905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

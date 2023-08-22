@@ -1,0 +1,140 @@
+﻿<-1-1-START->
+Reuchlin, Johannes
+<-1-1-STOP->
+
+<-1-2-START->
+Vocabularius breviloquus. — Guarinus Veronensis: Ars diphthongandi. — Heynlin, Johannes: Dialogus de arte punctandi; De accentu
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit einem Vorwort, wahrscheinlich vom Drucker Johann Amerbach, einem Brief von Guarinus Veronensis an Valerius Florus, und den kurzen beigefügten Werken in der ersten Lage<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Basel: [Johann Amerbach], 1480
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 656 ungezählte Seiten, 1 ungezähltes Blatt; 32 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_R-145.html<-L-5-STOP-><-VI-5-START->BSB-Ink R-145<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M37901.htm<-L-5-STOP-><-VI-5-START->GW M37901<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ir00157000<-L-5-STOP-><-VI-5-START->ISTC ir00157000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+328 von 330 Blättern, rot ausgezeichnete Initialen, aufwendig gestaltete Schmuckinitiale auf Blatt a₁ recto, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jahrhundert), Ornamentrollen-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Erstes Blatt (Vorwort) und letztes Blatt (unbedruckt) fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116903164805511<-L-11-STOP-><-VI-11-START->MUE Inc III 53<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991136687529705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Reuchlin, Johannes<-P-STOP->
+<-P-START->Guarinus Veronensis<-P-STOP->
+<-P-START->Heynlin, Johannes<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Amerbach, Johannes<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991136687529705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 53<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04543nam a2200589 c 4500
+001 991136687529705501
+005 20211215200920.0
+008 171010s1480    sz |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/10.10.2017/B404/vha    
+035      |a (swissbib)074347187-41slsp_network    
+035      |a 074347187    |9 ExL    
+035      |a (IDSBB)006738265DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991136687529705501    
+035      |a (41SLSP_UBE)99116903164805511    |9 (41SLSP_UBE)99116903164805511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Reuchlin, Johannes    |d 1455-1522    |0 (DE-588)118744658    |e Verfasser    |4 aut    
+240 1 0  |a Vocabularius breviloquus    
+245 1 0  |a Finit vocabularius breuiloquus    |b tripilici alphabeto diuersis ex autoribus necnon corpore vtriusq[ue] iuris collectus ad latinu[m] sermone[m] capessendum vtilissimus    |c [Johannes Reuchlin]    
+246 1 3  |a Breviloquus vocabularius    
+246 1    |i Incipit in normalisierter Form    |a Incipit Breviloquus vocabularius    
+246 1    |i Incipit (Blatt [*₆] verso)    |a Jncipit Breuiloquus vocabularius    
+246 1    |i Titel in normalisierter Form    |a Finit vocabularius breviloquus    
+264   1  |a Jmpressus. Basile[a]e    |b [Johann Amerbach]    |c Anno d[omi]ni. M.cccc.lxxx. [1480]    
+300      |a 1 ungezähltes Blatt, 656 ungezählte Seiten, 1 ungezähltes Blatt    |c 32 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Titel gemäss Kolophon    
+500      |a Enthält in Lage [*] ein Vorwort (Blatt [*₁] verso, wahrscheinlich vom Drucker, Johann Amerbach), einen Brief von Guarinus Veronensis an Valerius Florus (Blatt [*₂] recto), sowie die im Vorwort genannten kurzen Werke von Guarinus Veronensis und Johannes Heynlin    
+500      |a Druckort und Erscheinungsdatum gemäss Kolophon; Drucker gemäss BSB-Ink, GW und ISTC    
+500      |a Signaturformel: [*⁶], a–r¹⁰, [langes s]⁸, s¹⁰, t⁸, u¹⁰, v¹⁰, w¹⁰, x¹⁰, y¹², 1–5¹⁰, 6-7⁸, 8¹⁰    
+500      |a Blatt 8₁₀ (letztes Blatt) unbedruckt    
+505 0 0  |g [Aus dem Vorwort, Blatt *₁ verso]: Jn pr[a]senti libro continentur [Blatt *₂ recto]    |t <<Jtem>> ars diphthongandi Guarini Veronensis    |g [Blatt *₃ verso]    |t <<Jtem>> compendiosus dialogus de arte punctandi    |r [Johannes Heynlin]    |g [Blatt *₃ verso]    |t <<Jtem>> tractatus vtilis de accentu    |r [Johannes Heynlin]    |g [Blatt a₁ recto]    |t <<Jtem>> Breuiloquus vocabularius    
+510 4    |a BSB-Ink    |c R-145    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_R-145.html    
+510 4    |a GW    |c M37901    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M37901.htm    
+510 4    |a ISTC    |c ir00157000    |u http://data.cerl.org/istc/ir00157000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00082292/image_5    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jh.), Ornamentrollen-Blindprägung auf beiden Deckeln, Linien-Blindprägung sowie Titelschild in Goldprägung auf dem Rücken: "Guarini Vocabularium"; darunter mit Tinte: "1480. Basil."    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 31.3 x 22.3 x 6.7 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, Lederfragmente zurück geklebt    
+590      |a Buchblockbeschreibung: 328 von 330 Blättern, rot ausgezeichnete Initialen, mit aufwendig gestalteter Schmuckinitiale auf Blatt a₁ recto, Rubrizierung    
+590      |a Zustand Buchblock: Papier unterschiedlich stark verbräunt, Blattweiser zum Teil mit Fehlstellenbildung heraus gelöst    
+590      |a Bindefehler: erste Lage [*] verbunden, Reihenfolge: [*₃], [*₂], [*₅], [*₄], [*₆]    
+590      |a Unvollständiges Exemplar: Blatt [*₁] (Vorwort) und Blatt 8₁₀ (letztes Blatt, unbedruckt) fehlen    
+590      |a Frühere Signatur: Inc 336    
+700 1 2  |a Reuchlin, Johannes    |d 1455-1522    |t Vocabularius breviloquus    |0 (DE-588)7695838-3    
+700 0 2  |a Guarinus    |c Veronensis    |d 1374-1460    |t Ars diphthongandi    |0 (DE-588)1115751689    
+700 1 2  |a Heynlin, Johannes    |d 1430-1496    |t Dialogus de arte punctandi    |0 (DE-588)1115752359    
+700 1 2  |a Heynlin, Johannes    |d 1430-1496    |t De accentu    |0 (DE-588)1115752413    
+700 1    |a Amerbach, Johannes    |d 1440-1513    |0 (DE-588)123073189    |e Drucker    |4 prt    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc III 53    |9 (41SLSP_UBE)99116903164805511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc III 53    |b B404    |9 (41SLSP_UBE)99116903164805511    
+986      |a (41SLSP_UBE)99116903164805511    |9 (41SLSP_UBE)99116903164805511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116903164805511    
+991      |a AAK: 00347262    |5 IZ UBE/10.10.2017/B404/vha    |9 LOCAL    |9 (41SLSP_UBE)99116903164805511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

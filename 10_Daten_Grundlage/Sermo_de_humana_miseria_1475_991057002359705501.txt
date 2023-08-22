@@ -1,0 +1,132 @@
+﻿<-1-1-START->
+Sermo de humana miseria
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Nach mittelalterlicher Tradition fälschlich Bernard von Clairvaux zugeschrieben<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Burgdorf: Drucker von Jacobus de Clusa, De apparitionibus animarum (H 9349), ca. 1475]
+<-3-1-STOP->
+
+<-4-1-START->
+12 ungezählte Seiten; 19 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-331.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-331<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW04065.htm<-L-5-STOP-><-VI-5-START->GW 04065<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib00426000<-L-5-STOP-><-VI-5-START->ISTC ib00426000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+6 von 6 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert) mit Sprenkelpapier, Linien-Goldprägung auf dem Rücken
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: De memoria augenda / Matheolus Perusinus. [Burgdorf: Drucker des Jacobus de Clusa, ca. 1475]
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116693010805511<-L-11-STOP-><-VI-11-START->MUE Inc III 121 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991057002359705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Bernard (Abt von Clairvaux)<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Burgdorf<-O-STOP->
+<-P-START->Drucker von Jacobus de Clusa, De apparitionibus animarum (H 9349)<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991057002359705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 121 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 02732nam a2200517 c 4500
+001 991057002359705501
+005 20211215185926.0
+007 cr |||||||||||
+008 801022s1475    sz            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/15.07.2010/baa    
+024 7    |a 10.3931/e-rara-3720    |2 doi    
+035      |a (swissbib)061420239-41slsp_network    
+035      |a 061420239    |9 ExL    
+035      |a (IDSBB)005279360DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991057002359705501    
+035      |a (41SLSP_UBE)99116693010805511    |9 (41SLSP_UBE)99116693010805511    
+040      |a ISTC    |b ger    |e rda    |d CH-ZuSLS    
+130 0    |a Sermo de humana miseria    |0 (DE-588)1121240607    
+245 1 0  |a Incipit sermo beati bernhardi de humana miseria    
+246 1 0  |a De humana miseria    
+246 1 0  |a Sermo beati Bernhardi de humana miseria    
+246 1    |i Titel gemäss BSB-Ink    |a Sermo de miseria humana    
+264   1  |a [Burgdorf]    |b [Drucker von Jacobus de Clusa, De apparitionibus animarum (H 9349)]    |c [ca. 1475]    
+300      |a 12 ungezählte Seiten    |c 19 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b c    |2 rdamedia    
+337      |b n    |2 rdamedia    
+338      |b cr    |2 rdacarrier    
+338      |b nc    |2 rdacarrier    
+500      |a Das Werk gehört zu den im Mittelalter fälschlich Bernardus Claraevallensis (Bernard de Clairvaux) zugeschriebenen Schriften (auch unter "Pseudo-Bernardus" geführt)    
+500      |a Impressum gemäss BSB-Ink, GW und ISTC    
+500      |a Keine Titelseite, nur Incipit    
+500      |a Signaturformel: [a]⁶    
+510 4    |a BSB-Ink    |c B-331    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-331.html    
+510 4    |a GW    |c 04065    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW04065.htm    
+510 4    |a ISTC    |c ib00426000    |u http://data.cerl.org/istc/ib00426000    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert) mit Sprenkelpapier, Linien-Goldprägung sowie Titelschild auf dem Rücken: "Matheolus - Bernardus"    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 19 x 13.9 x 0.7 cm    
+590      |a Buchblockbeschreibung: 6 von 6 Blättern, Foliierung in Graphit unten auf den Recto-Seiten    
+590      |a Zusammengebunden mit: Matheolus Perusinus: "De memoria augenda". Burgdorf: Drucker des Jacobus de Clusa, 1475    
+700 0    |a Bernard    |c Clairvaux, Abt, Heiliger    |d 1090-1153    |0 (DE-588)118509810    |e Verfasser    |4 aut    
+700 0    |a Drucker von Jacobus de Clusa De apparitionibus animarum (H 9349)    |d ca. 15. Jh.    |0 (DE-588)1028579837    |e Drucker    |4 prt    
+751      |a Burgdorf    |g Kanton Bern    |0 (DE-588)4088664-5    
+852 4    |b B404    |c 404U3    |j MUE Inc III 121 : 2    |9 (41SLSP_UBE)99116693010805511    
+856 4    |u http://dx.doi.org/10.3931/e-rara-3720    |z Digitalisat in e-rara    
+900      |a IDSIxhybrid-el    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc III 121 : 2    |b B404    |9 (41SLSP_UBE)99116693010805511    
+986      |a (41SLSP_UBE)99116693010805511    |9 (41SLSP_UBE)99116693010805511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116693010805511    
+990      |f erarabe    |9 LOCAL    |9 (41SLSP_UBE)99116693010805511    
+990      |f lza-cc0    |9 LOCAL    |9 (41SLSP_UBE)99116693010805511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

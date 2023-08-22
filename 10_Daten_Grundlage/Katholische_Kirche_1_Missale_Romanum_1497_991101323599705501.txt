@@ -1,0 +1,145 @@
+﻿<-1-1-START->
+Katholische Kirche
+<-1-1-STOP->
+
+<-1-2-START->
+Missale Romanum
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Lyon: Pierre Mareschal und Barnabé Chaussard, 16.10.1497
+<-3-1-STOP->
+
+<-4-1-START->
+15 ungezählte Seiten, CCxl Blätter, 8 ungezählte Seiten: Druckermarke, Notenbeispiele; 17 cm (8°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M23927.htm<-L-5-STOP-><-VI-5-START->GW M23927<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/im00712500<-L-5-STOP-><-VI-5-START->ISTC im00712500<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+252 von 252 Blättern, rot ausgezeichnete Initialen, grössere Initialen koloriert, auf Blatt i mit Randbordüre; Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (Holzspalten, braun, 17./18. Jahrhundert) mit Schliessen, Linien- und Ornamentrollen-Blindprägung sowie Ornamentstempel-Goldprägung auf beiden Deckeln; Supralibros (Verkündigung Mariä) auf dem Vorderdeckel, gekrönte Gottesmutter mit Kind auf dem Rückdeckel
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Peter Falck; Serge de Diesbach de Belleroche
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116928187905511<-L-11-STOP-><-VI-11-START->MUE Inc V 206<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991101323599705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Katholische Kirche<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Lyon<-O-STOP->
+<-P-START->Mareschal, Pierre<-P-STOP->
+<-O-START->Lyon<-O-STOP->
+<-P-START->Chaussard, Barnabé<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Falck, Peter<-P-STOP->
+<-P-START->Diesbach de Belleroche, Serge de<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991101323599705501<-DOI-STOP->
+<-SIGN-START->MUE Inc V 206<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04873nam a2200613 c 4500
+001 991101323599705501
+005 20230207113739.0
+007 cr#|||||||||||
+008 180305s1497    fr |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/05.03.2018/B404/vha    
+024 7    |a 10.3931/e-rara-89789    |2 doi    
+035      |a (swissbib)073454656-41slsp_network    
+035      |a 073454656    |9 ExL    
+035      |a (IDSBB)006778949DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991101323599705501    
+035      |a (41SLSP_UBE)99116928187905511    |9 (41SLSP_UBE)99116928187905511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+110 2    |a Katholische Kirche    |0 (DE-588)2009545-4    |e Verfasser    |4 aut    
+240 1 0  |a Missale Romanum    
+245 1 0  |a Missale ad vsum romane ecclesie    |b peroptime ordinatu[m] ac diligenti cura castigatu[m] cu[m] pluribus alijs missis valde necessarijs que nunq[uam] in eiusde[m] vsus fueru[n]t impressis    
+246 1    |i Titel in normalisierter Form    |a Missale ad usum Romane ecclesie    |b peroptime ordinatum ac diligenti cura castigatum cum pluribus aliis missis valde necessariis que nunquam in eiusdem usus fuerunt impressis    
+246 1    |i Titel in Standard-Orthographie    |a Missale ad usum Romanae ecclesiae    
+264   1  |a Impressu[m] Lugduni    |b p[er] Petru[m] mareschal [et] Barnaba[m] chaussard impressores    |c Anno incarnatio[n]is d[omi]ni. M.cccc.xcvij. Die vero .xvi. mensis octobris [16.10.1497]    
+300      |a 15 ungezählte Seiten, CCxl Blätter, 8 ungezählte Seiten    |b Notenbeispiele    |c 17 cm (8°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+337      |b c    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+338      |b cr    |2 rdacarrier    
+500      |a Rot- und Schwarzdruck    
+500      |a Auf der Titelseite Anfangsinitiale und Druckermarke (Holzschnitte) schwarz, der Titel selbst rot gedruckt    
+500      |a Impressum gemäss Kolophon (Blatt CCxl recto)    
+500      |a Signaturformel: []⁸, a-z⁸, A-G⁸, [Malteserkreuz]⁴    
+500      |a Die Lage [Malteserkreuz] mit dem Inhaltsverzeichnis kann auch vor Lage a gebunden sein (vergleiche GW)    
+500      |a Blatt cv unbedruckt    
+510 4    |a GW    |c M23927    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M23927.htm    
+510 4    |a ISTC    |c im00712500    |u http://data.cerl.org/istc/im00712500    
+561      |a Handschriftlicher Besitzvermerk auf der Titelseite: "Petrus Falck Dono ... fratris Johannis falck hunc libru[m] possidet"    
+561      |a Wappen-Exlibris von Peter Falck (Wegmann, Schweizer Exlbris, Nr. 2045) als Holzschnitt-Stempel auf der unbedruckten Verso-Seite von Blatt CCxl; Wappen ausserdem gezeichnet auf der unbedruckten Verso-Seite von Blatt []₈    
+561      |a 1943 von der Bibliothek erworben von Serge de Diesbach, Fribourg, für Fr. 200.40 (Erwerbungsjournal)    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (Holzspalten, braun, 17./18. Jahrhundert) mit Schliessen, Linien- und Ornamentrollen-Blindprägung sowie Ornamentstempel-Goldprägung auf beiden Deckeln; Supralibros mit Darstellung der Verkündigung Mariä auf dem Vorderdeckel, Darstellung der gekrönten Gottesmutter mit dem Kind auf dem Rückdeckel    
+563      |a Vorsätze: vorne mit 2 fliegenden Blättern und hinten mit 5 fliegenden Blättern    
+563      |a Masse Einband: 16.6 x 11.5 x 4.1 cm    
+563      |a Zustand Einband: Einbandleder mit Brüchen und Abspaltungen, Goldprägung fast vollständig abgerieben, Lederüberklebungen an den Deckelkanten und am gesamten Rücken mit ergänzter Blindprägung, Schliessenriemen und Hakenteile ergänzt, vorderes Vorsatz im Falz mit Japanpapier verstärkt    
+590      |a Buchblockbeschreibung: 252 von 252 Blättern, Blatt o₈ als Einzelblatt mit ergänztem Blatt o₁ (unbedruckt) zusammengehängt (Papier von Blatt o₁ vergleichbar mit Vorsatzpapier), rot ausgezeichnete Initialen, grössere Initialen auf Blättern i, cvi, cix, und cxxi koloriert, auf Blatt i mit Randbordüre; Rubrizierung, Blattweiser aus Goldleder    
+590      |a Zustand Buchblock: Abrieb und Ausbrüche in der Vergoldung der Initialen und des Rankenwerks, blauer Farbauftrag zum Teil stark abgerieben mit Fehlstellen (Blätter a₂ recto und o₂ recto)    
+700 1    |a Mareschal, Pierre    |d 1460-1529    |0 (DE-588)137324618    |e Drucker    |4 prt    
+700 1    |a Chaussard, Barnabé    |d 1460-1527    |0 (DE-588)1037608453    |e Drucker    |4 prt    
+700 1    |a Falck, Peter    |d 1468-1519    |0 (DE-588)136322956    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Diesbach de Belleroche, Serge <<de>>    |d 1894-1973    |0 (DE-588)1172432325    |e Früherer Eigentümer    |4 fmo    
+710 2 2  |a Katholische Kirche    |t Missale Romanum    |0 (DE-588)4170133-1    
+751      |a Lyon    |0 (DE-588)4036770-8    
+852 4    |b B404    |c 404U3    |j MUE Inc V 206    |9 (41SLSP_UBE)99116928187905511    
+856 4    |u https://doi.org/10.3931/e-rara-89789    |z Digitalisat in e-rara    
+900      |a IDSIxunikat    
+900      |a IDSIxhybrid-el    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc V 206    |b B404    |9 (41SLSP_UBE)99116928187905511    
+986      |a (41SLSP_UBE)99116928187905511    |9 (41SLSP_UBE)99116928187905511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116928187905511    
+990      |f erarabe    |9 local    |9 (41SLSP_UBE)99116928187905511    
+990      |f lza-cc0    |9 local    |9 (41SLSP_UBE)99116928187905511    
+991      |a AAK: 609320    |5 IZ UBE/05.03.2018/B404/vha    |9 local    |9 (41SLSP_UBE)99116928187905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

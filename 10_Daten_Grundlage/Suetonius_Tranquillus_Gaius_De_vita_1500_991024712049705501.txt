@@ -1,0 +1,161 @@
+﻿<-1-1-START->
+Suetonius Tranquillus, Gaius
+<-1-1-STOP->
+
+<-1-2-START->
+De vita Caesarum. — Beroaldo, Filippo: Commentationes in Suetonium Tranquillum. — Sabellicus, Marcus Antonius: Suetonii Tranquilli paraphrasis
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Widmungsbrief von Beroaldo an Annibale Bentivoglio, Widmungsbrief von Sabellicus an Agostino Barbarigo, einem Auszug aus Ausonius' Caesares (Nerva bis Commodus), drei Vitae Suetons (anonym, Beroaldo, Sabellicus), dem Elogium de Iulio Cesare dictatore aus Plinius' Naturalis historia, Beroaldos Appendix Annotamentorum zu seinem Kommentar, einem Nachwort an den Leser und zwei Gedichten von Giovanni Battista Pio und Angelus Ugerius<-500-STOP->
+<-500-START->Gemäss Nachwort an den Leser wurde Beroaldos Kommentar von zwei "scholastici eruditi" herausgegeben, vielleicht Giovanni Battista Pio und Angelus Ugerius<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Bartolomeo Zani, 28.07.1500
+<-3-1-STOP->
+
+<-4-1-START->
+703 ungezählte Seiten: Holzschnittinitialen; 31 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_S-620.html<-L-5-STOP-><-VI-5-START->BSB-Ink S-620<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M44256.htm<-L-5-STOP-><-VI-5-START->GW M44256<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/is00828000<-L-5-STOP-><-VI-5-START->ISTC is00828000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+352 von 352 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun marmoriert, Schaf, 18./19. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Matthäus Kolanus
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116903134605511<-L-11-STOP-><-VI-11-START->MUE Inc I 44<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991024712049705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Suetonius Tranquillus, Gaius<-P-STOP->
+<-P-START->Beroaldo, Filippo<-P-STOP->
+<-P-START->Sabellicus, Marcus Antonius<-P-STOP->
+<-P-START->Ausonius, Decimus Magnus<-P-STOP->
+<-P-START->Plinius Secundus, Gaius<-P-STOP->
+<-P-START->Pio, Giovanni Battista<-P-STOP->
+<-P-START->Ugerius, Angelus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Zani, Bartolomeo<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Kolanus, Matthäus<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991024712049705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 44<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06104nam a2200781 c 4500
+001 991024712049705501
+005 20211215174359.0
+008 171012s1500    it |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/12.10.2017/B404/faf    
+035      |a (swissbib)07441352X-41slsp_network    
+035      |a 07441352X    |9 ExL    
+035      |a (IDSBB)006738808DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991024712049705501    
+035      |a (41SLSP_UBE)99116903134605511    |9 (41SLSP_UBE)99116903134605511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Suetonius Tranquillus, Gaius    |d 70-150    |0 (DE-588)118619918    |e Verfasser    |4 aut    
+240 1 0  |a De vita Caesarum    
+245 1 0  |a Svetonivs Tranqvillvs Cvm Philippi Beroaldi Et Marci Antonii Sabellici Commentariis    
+246 1    |i Kolophon    |a Commentaria Philippi Beroaldi necnon Marci Antonii Sabellici In Suetonium Tranquillum Foeliciter Venetiis exacta    
+246 1    |i Titel gemäss GW und ISTC    |a Vitae XII Caesarum    
+246 1    |i Titel gemäss ISTC    |a Vitae Caesarum    
+246 1    |i Titel in normalisierter Form    |a Suetonius Tranquillus cum Philippi Beroaldi et Marci Antonii Sabellici commentariis    
+264   1  |a Venetiis exacta    |b Per Bertholomeum de zanis de Portesio    |c Anno domini. M.ccccc. die. xxviii. Iulii [28.07.1500]    
+300      |a 703 ungezählte Seiten    |c 31 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Widmungsbrief von Beroaldo an Annibale Bentivoglio, Widmungsbrief von Sabellicus an Agostino Barbarigo, einem Auszug aus Ausonius' Caesares (Nerva-Commodus), drei Vitae Suetons (anonym, Beroaldo, Sabellicus), dem Elogium de Iulio Cesare dictatore aus Plinius' Naturalis historia, Beroaldos Appendix Annotamentorum zu seinem Kommentar, einem Nachwort an den Leser und zwei Gedichten von Ioannesbaptista Pius und Ugerius Pontre    
+500      |a Gemäss Nachwort an den Leser wurde Beroaldos Kommentar von zwei "scholastici eruditi" herausgegeben, vielleicht Ioannesbaptista Pius und Ugerius Pontre    
+500      |a Impressum gemäss Kolophon    
+500      |a Holzschnittinitialen    
+500      |a Signaturformel: aa⁴, a–z⁸, &⁸, [con]⁸, [rum]⁸, A–Q⁸, R–S⁶    
+510 4    |a BSB-Ink    |c S-620    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_S-620.html    
+510 4    |a GW    |c M44256    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M44256.htm    
+510 4    |a ISTC    |c is00828000    |u http://data.cerl.org/istc/is00828000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/0006/bsb00060368/images    
+561      |a Handschriftlicher Besitzvermerk auf der Titelseite: "Matthæi Kolani", dazu mehrere unleserliche Vermerke    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun marmoriert, Schaf, 18./19. Jh.), Ornamentstempel-Goldprägung sowie Titelschild in Goldprägung auf dem Rücken    
+563      |a Vorsätze: Vorne und hinten mit zwei fliegenden Blättern, teilweise Marmorpapier    
+563      |a Masse Einband: 30.6 x 22.3 x 6.1 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, Lederüberklebungen am Rücken, Vorsätze im Falz mit Japanpapier verstärkt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 352 von 352 Blättern, handschriftliche Folierung (1-348) auf rechtem unterem Rand der Rectoseiten ab Blatt a₁ in Tinte (grösstenteils abgeschnitten), vorgesehene Stellen für Initialen frei gelassen    
+590      |a Zustand Buchblock: Erste und letzte Blätter mit starker Verschmutzung und Schädlingsfrass, Fehlstellen (teils mit grösserem Textverlust) mit Büttenpapier ergänzt    
+590      |a Handschriftliche Annotationen und Unterstreichungen in Tinte    
+590      |a Auf Titelseite handschriftlicher Vermerk: "Taxé 3 th"    
+590      |a Umriss einer Hand auf Blatt S₆ verso, dort und auf Titelseite diverse Kritzeleien    
+590      |a Zerstörtes Exlibris ("...ndo") auf vorderem Spiegel    
+590      |a Historische Signatur auf zweitem vorderem fliegendem Vorsatzblatt recto: "N. Litter: fol: 97."    
+590      |a Frühere Signatur: Inc 209    
+700 1    |a Beroaldo, Filippo    |d 1453-1505    |0 (DE-588)118656589    |e Kommentarverfasser    |4 wac    
+700 1    |a Sabellicus, Marcus Antonius    |d 1436-1506    |0 (DE-588)100960170    |e Kommentarverfasser    |4 wac    
+700 1    |a Ausonius, Decimus Magnus    |d 310-395    |0 (DE-588)118505165    |e Verfasser    |4 aut    
+700 1    |a Plinius Secundus, Gaius    |d 23-79    |0 (DE-588)118595083    |e Verfasser    |4 aut    
+700 1    |a Pio, Giovanni Battista    |d 1475-1543    |0 (DE-588)129355682    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Ugerius, Angelus    |d ca. 15. Jh.    |0 (DE-588)129074225    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Zani, Bartolomeo    |d 14XX-15XX    |0 (DE-588)103757317X    |e Drucker    |4 prt    
+700 1    |a Kolanus, Matthäus    |e Früherer Eigentümer    |4 fmo    
+700 1 2  |a Suetonius Tranquillus, Gaius    |d 70-150    |t De vita Caesarum    |0 (DE-588)4297019-2    
+700 1 2  |a Beroaldo, Filippo    |d 1453-1505    |t Commentationes in Suetonium Tranquillum    |0 (DE-588)1141246619    
+700 1 2  |a Sabellicus, Marcus Antonius    |d 1436-1506    |t Suetonii Tranquilli paraphrasis    |0 (DE-588)1141303442    
+700 1 2  |a Ausonius, Decimus Magnus    |d 310-395    |t Caesares    |p De Caesaribus post Tranquillum    |p Nerva    |0 (DE-588)4495538-8    
+700 1 2  |a Ausonius, Decimus Magnus    |d 310-395    |t Caesares    |p De Caesaribus post Tranquillum    |p Traianus    |0 (DE-588)4495541-8    
+700 1 2  |a Ausonius, Decimus Magnus    |d 310-395    |t Caesares    |p De Caesaribus post Tranquillum    |p Hadrianus    |0 (DE-588)4495613-7    
+700 1 2  |a Ausonius, Decimus Magnus    |d 310-395    |t Caesares    |p De Caesaribus post Tranquillum    |p Antoninus Pius    |0 (DE-588)4495692-7    
+700 1 2  |a Ausonius, Decimus Magnus    |d 310-395    |t Caesares    |p De Caesaribus post Tranquillum    |p M. Antonius    |0 (DE-588)4495696-4    
+700 1 2  |a Ausonius, Decimus Magnus    |d 310-395    |t Caesares    |p De Caesaribus post Tranquillum    |p Commodus    |0 (DE-588)4495700-2    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Inc I 44    |9 (41SLSP_UBE)99116903134605511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc I 44    |b B404    |9 (41SLSP_UBE)99116903134605511    
+986      |a (41SLSP_UBE)99116903134605511    |9 (41SLSP_UBE)99116903134605511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116903134605511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,129 @@
+﻿<-1-1-START->
+Sánchez de Arévalo, Rodrigo
+<-1-1-STOP->
+
+<-1-2-START->
+Speculum vitae humanae
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Widmungsvorrede an Papst Paul II.<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Beromünster: Helias Helye von Laufen, 07.12.1472
+<-3-1-STOP->
+
+<-4-1-START->
+217 ungezählte Seiten, 1 ungezähltes Blatt; 27 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_S-61.html<-L-5-STOP-><-VI-5-START->BSB-Ink S-61<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M38460.htm<-L-5-STOP-><-VI-5-START->GW M38460<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ir00217000<-L-5-STOP-><-VI-5-START->ISTC ir00217000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+110 von 110 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert), Linien-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116865352005511<-L-11-STOP-><-VI-11-START->MUE Inc IV 15<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991023589989705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Sánchez de Arévalo, Rodrigo<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Beromünster<-O-STOP->
+<-P-START->Helye von Laufen, Helias<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991023589989705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 15<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03570nam a2200493 c 4500
+001 991023589989705501
+005 20230208104446.0
+008 170516s1472    sz |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/16.05.2017/B404/vha    
+035      |a (swissbib)074791850-41slsp_network    
+035      |a 074791850    |9 ExL    
+035      |a (IDSBB)006699740DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991023589989705501    
+035      |a (41SLSP_UBE)99116865352005511    |9 (41SLSP_UBE)99116865352005511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Sánchez de Arévalo, Rodrigo    |d 1404-1470    |0 (DE-588)119222345    |e Verfasser    |4 aut    
+240 1 0  |a Speculum vitae humanae    
+245 1 0  |a Ad sanctissimum &. B. dominum dominum Paulum secundu[m] pontificem maximum. liber incipit dictus speculum vite humane    
+246 1 0  |a Speculum vite humane    
+246 1    |i Kolophon    |a Finit liber dictus .Speculum vite humane ...    
+246 1    |i Titel in moderner Orthografie    |a Ad sanctissimum & B. dominum dominum Paulum secundum pontificem maximum, liber incipit dictus speculum vitae humanae    
+264   1  |a a .Helya helye alias de .Louffen Canonico .Ecclesie ville .Beronensis in pago .Ergowie ...    |c Vigilia .Concepcionis marie .Sub. Anno ab incarnacione domini. Millesimo Quadringentesimo septuagesimo .Secundo [07.12.1472]    
+300      |a 217 ungezählte Seiten, 1 ungezähltes Blatt    |c 27 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Widmungsvorrede an Papst Paul II.    
+500      |a Signaturformel: [a-l¹⁰]    
+500      |a Blatt [l₉] verso und letztes Blatt [l₁₀] unbedruckt    
+510 4    |a BSB-Ink    |c S-61    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_S-61.html    
+510 4    |a GW    |c M38460    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M38460.htm    
+510 4    |a ISTC    |c ir00217000    |u http://data.cerl.org/istc/ir00217000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München; letzte 3 Blätter fehlen dort)    |u http://daten.digitale-sammlungen.de/bsb00063135/image_5    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert), Linien- Blindprägung auf beiden Deckeln, Linien-Goldprägung sowie Titelschild in Goldprägung auf dem Rücken: "Rodorici Speculum 1472"; darunter in Tinte: "Beronæ"    
+563      |a Vorsätze: jeweils zwei fliegende Blätter (teilweise Marmorpapier)    
+563      |a Masse Einband: 26.5 x 19.9. x 2.8 cm    
+563      |a Zustand Einband: vereinzelt Schäden am Einbandleder, beide Vorsätze im Falz mit Japanpapier verstärkt    
+590      |a Buchblockbeschreibung: 110 von 110 Blättern, handschriftliche Zählung der Papierbögen in Tinte, das heisst, die ersten 5 Blätter jeder Lage (Blatt [a₁]-[a₅] = 1-5, Blatt [b₁]-[b₅] = 6-10 usw. bis Blatt [l₅] = 55; 14./15. Jahrhundert), Lagen innen mit Papierfälzen verstärkt; vorgesehene Stellen für Initialen freigelassen, Spuren eines Blattweisers an erstem Blatt [a₁]    
+590      |a Historische Signaturen auf vorderem fliegenden Blatt: "Repertor. Nr. 208." und "Gal. 17.a.a."    
+590      |a Frühere Signatur: Inc 390    
+700 1 2  |a Sánchez de Arévalo, Rodrigo    |d 1404-1470    |t Speculum vitae humanae    |0 (DE-588)1072829207    
+700 0    |a Paul    |b II.    |c Papst    |d 1417-1471    |0 (DE-588)11923212X    |e Widmungsempfänger    |4 dte    
+700 1    |a Helye von Laufen, Helias    |d 1400-1475    |0 (DE-588)124210635    |e Drucker    |4 prt    
+751      |a Beromünster    |0 (DE-588)4080381-8    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 15    |9 (41SLSP_UBE)99116865352005511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc IV 15    |b B404    |9 (41SLSP_UBE)99116865352005511    
+986      |a (41SLSP_UBE)99116865352005511    |9 (41SLSP_UBE)99116865352005511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116865352005511    
+991      |a AAK: 773412    |5 IZ UBE/16.05.2017/B404/vha    |9 local    |9 (41SLSP_UBE)99116865352005511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

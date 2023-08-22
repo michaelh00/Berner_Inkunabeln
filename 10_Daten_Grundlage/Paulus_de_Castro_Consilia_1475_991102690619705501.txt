@@ -1,0 +1,146 @@
+﻿<-1-1-START->
+Paulus de Castro
+<-1-1-STOP->
+
+<-1-2-START->
+Consilia
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Padua?: Drucker des Alvarottus (GW 1591), nicht vor 20.03.1475]
+<-500-START->Als Druckort auch Treviso oder Venedig angegeben, als Drucker auch Lorenzo Lendinara<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+38 ungezählte Seiten, 1 ungezähltes Blatt, 837 ungezählte Seiten, 1 ungezähltes Blatt; 42 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_P-49.050.html<-L-5-STOP-><-VI-5-START->BSB-Ink F-107<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M30029.htm<-L-5-STOP-><-VI-5-START->GW M30029<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ip00165000<-L-5-STOP-><-VI-5-START->ISTC ip00165000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+216 von 440 Blättern, rot und blau ausgezeichnete Initialen, teilweise Rubrizierung, handgezeichnete Bordüren auf Blatt [F₁]
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Holzdeckeln (braun, 19. Jahrhundert, ev. originale Holzdeckel), Knopfschliessen mit Ornamentbeschlägen, Ornamentrollen- und Stempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: W. Bigler
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Die Lagen [a]-[c] (Register des ersten Teils) und [g]-[E] (erster Teil) fehlen; zweiter Teil mit Register vollständig vorhanden
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116838818105511<-L-11-STOP-><-VI-11-START->MUE Inc I 116<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991102690619705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Paulus de Castro<-P-STOP->
+<-P-START->Bartholomaeus Caepolla<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Padua<-O-STOP->
+<-P-START->Drucker des Alvarottus (GW 1591)<-P-STOP->
+<-O-START->Treviso<-O-STOP->
+<-P-START->Drucker des Alvarottus (GW 1591)<-P-STOP->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Drucker des Alvarottus (GW 1591)<-P-STOP->
+<-O-START->Padua<-O-STOP->
+<-P-START->Lendinara, Lorenzo<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bigler, W.<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991102690619705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 116<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05082nam a2200589 c 4500
+001 991102690619705501
+005 20211215174720.0
+008 180207s1475    it |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/07.02.2018/B404/faf    
+035      |a (swissbib)072629703-41slsp_network    
+035      |a 072629703    |9 ExL    
+035      |a (IDSBB)006772787DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991102690619705501    
+035      |a (41SLSP_UBE)99116838818105511    |9 (41SLSP_UBE)99116838818105511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Paulus    |c de Castro    |d 1360-1441    |0 (DE-588)100957196    |e Verfasser    |4 aut    
+240 1 0  |a Consilia    
+245 1 0  |a Cum itaq[ue] clarissimi ac excellentissimi iure consulti Pauli castrensis dilapsa undiq[ue] neq[ue] in unum corpus redacta consilia cernerentur ... famosissimus Bartholomeus cepolla verone[n]nensis aduocatus consistorialis in florentissimo gymnasio patauino ordinaria[m] iuris ciuilis de mane publice lege[n]s singula queq[ue] ab eo clarissimo uiro hinc inde consulta colligere elaborauit ...    
+246 1    |i Titel in normalisierter Form    |a Cum itaque clarissimi ac excellentissimi iure consulti Pauli Castrensis dilapsa undique neque in unum corpus redacta consilia cernerentur ... famosissimus Bartholomeus Cepolla Veronensis advocatus consistorialis in florentissimo gymnasio Patavino ordinariam iuris civilis de mane publice legens singula queque ab eo clarissimo viro hinc inde consulta colligere elaboravit ...    
+246 1    |i Incipit    |a Abbas Absolutus ...    
+246 1    |i Titel gemäss GW    |a Consilia et allegationes    
+264   1  |a [Padua?]    |b [Drucker des Alvarottus (GW 1591)]    |c [nicht vor 20.03.1475]    
+300      |a 38 ungezählte Seiten, 1 ungezähltes Blatt, 837 ungezählte Seiten, 1 ungezähltes Blatt    |c 42 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Besteht aus zwei Teilen mit je eigenem Register    
+500      |a Keine Titelseite, Titel gemäss Kolophon    
+500      |a Impressum gemäss ISTC; als Druckort auch Treviso oder Venedig angegeben, als Drucker auch Lorenzo Lendinara    
+500      |a Kolophon: "... actum padue .xiii. k[alendas] aprilis .m.cccclxxv. Octaua indictione"    
+500      |a Signaturformel: [a⁸, b-d⁶, e⁸, f-t¹⁰, v-x⁶, y⁸, z¹⁰, A-C⁸, D-F¹⁰, G-H⁸, I¹⁰, K-L⁸, M¹⁰, N⁸, O-P¹⁰, Q-R⁸, S¹⁰, T⁸, V¹⁰, X-Y⁸, Z¹⁰, aa-dd⁸]    
+500      |a Die Blätter [c₆] und [dd₈] sind unbedruckt    
+510 4    |a GW    |c M30029    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M30029.htm    
+510 4    |a ISTC    |c ip00165000    |u http://data.cerl.org/istc/ip00165000    
+530      |a Digitalisat (Exemplar der Bibliothèque municipale de Lyon, nur zweiter Teil mit Register)    |u https://books.google.fr/books?id=LrKZ9ZbzvjMC    
+561      |a 1936 durch die Stadtbibliothek Bern erworben von W. Bigler, Rubigen    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Holzdeckeln (braun, 19. Jh., ev. originale Holzdeckel), Knopfschliessen mit Ornamentbeschlägen, Ornamentrollen- und Stempel-Blindprägung auf beiden Deckeln, Text- sowie Stempel- und Fileten-Goldprägung am Rücken    
+563      |a Vorsätze: Vorne und hinten mit 2 fliegenden Blättern, zum Teil mit Brokatpapier kaschiert    
+563      |a Masse Einband: 41.5 x 29.2 x 7.5 cm    
+563      |a Zustand Einband: Heftung auf eingesägten Bünden aus 19. Jh., Schäden am Einbandleder, Lederüberklebungen am Rücken    
+590      |a Buchblockbeschreibung: 216 von 440 Blättern, handschriftliche Foliierung in Tinte (ohne Register, 1-192, grösstenteils abgeschnitten), handschriftliche Nummerierung der Consilia im Text (198-397) und Verweisung im Register auf Blattzahlen, rot und blau ausgezeichnete Initialen, teilweise Rubrizierung (rote und blaue Paragraphenzeichen), handgezeichnete Bordüren auf Blatt [F₁]    
+590      |a Zustand Buchblock: Papier zum Teil vergilbt mit Verfleckungen (vor allem Lagen [I]-[K]), Schädlingsfrass in den Lagenfälzen, Fehlstellen mit Büttenpapier hinterklebt, Papier wirkt oberflächenbehandelt, Spuren herausgelöster Pergamentverstärkungen in Lagen [d] und [dd]    
+590      |a Unvollständiges Exemplar: Die Lagen [a]-[c] (Register des ersten Teils) und [g]-[E] (erster Teil) fehlen; zweiter Teil mit Register vollständig vorhanden    
+590      |a Handschriftliche Annotationen in Tinte    
+700 0    |a Bartholomaeus    |c Caepolla    |d 1420-1477    |0 (DE-588)100970532    |e Herausgeber    |4 edt    
+700 0    |a Drucker des Alvarottus (GW 1591)    |d ca. 15. Jh.    |0 (DE-588)1152014692    |e Drucker    |4 prt    
+700 1    |a Lendinara, Lorenzo    |d 1425-1477    |0 (DE-588)11906393X    |e Drucker    |4 prt    
+700 1    |a Bigler, W.    |e Früherer Eigentümer    |4 fmo    
+700 0 2  |a Paulus    |c de Castro    |d 1360-1441    |t Consilia    |0 (DE-588)1152013416    
+751      |a Padua    |0 (DE-588)4044295-0    
+751      |a Treviso    |0 (DE-588)4119702-1    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Inc I 116    |9 (41SLSP_UBE)99116838818105511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc I 116    |b B404    |9 (41SLSP_UBE)99116838818105511    
+986      |a (41SLSP_UBE)99116838818105511    |9 (41SLSP_UBE)99116838818105511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116838818105511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

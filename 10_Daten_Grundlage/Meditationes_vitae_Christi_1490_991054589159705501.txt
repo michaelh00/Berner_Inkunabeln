@@ -1,0 +1,140 @@
+﻿<-1-1-START->
+Meditationes vitae Christi
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Das Werk wurde bis ins 19. Jahrhundert fälschlich dem Heiligen Bonaventura zugeschrieben; nach neuerer Forschung kommen Johannes de Caulibus oder Jacopo da San Gimignano als Verfasser in Frage<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Pavia: Giovanni Antonio Beretta, [04.03.1490]
+<-500-START->In einer sonst identischen Druckvariante (BSB-Ink B-682, GW 04748) ist Jacobus des Burgofranco als Verleger angegeben<-500-STOP->
+<-500-START->Jacobus des Burgofranco ist mutmasslich auch Verleger der vorliegenden Variante, Giovanni Antonio Beretta der Drucker<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 4 ungezählte Seiten, 60, das heisst 62 Blätter, 1 ungezähltes Blatt: Holzschnittinitialen; 15 cm (8°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-5-1-STOP->
+
+<-6-1-START->
+63 von 66 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert) mit Kleisterpapier (Abklatschmuster, rot) und Pergamentecken, Linien-Goldprägung
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Sententiae / Isidorus Hispalensis. Paris: Philippe Pigouchet [für die Frères de Marnef], 1491
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: die letzten drei Blätter, nach dem Kolophon, fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116896214905511<-L-11-STOP-><-VI-11-START->MUE Inc V 207 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991054589159705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Johannes Bonaventura<-P-STOP->
+<-P-START->Johannes de Caulibus<-P-STOP->
+<-P-START->Jacopo da San Gimignano<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Pavia<-O-STOP->
+<-P-START->Beretta, Giovanni Antonio<-P-STOP->
+<-O-START->Pavia<-O-STOP->
+<-P-START->Burgofranco, Jacobus de<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991054589159705501<-DOI-STOP->
+<-SIGN-START->MUE Inc V 207 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04961nam a2200553 c 4500
+001 991054589159705501
+005 20211215172038.0
+008 181127s1490    it |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/28.11.2018/B404/vha    
+035      |a (swissbib)070016518-41slsp_network    
+035      |a 070016518    |9 ExL    
+035      |a (IDSBB)006852010DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991054589159705501    
+035      |a (41SLSP_UBE)99116896214905511    |9 (41SLSP_UBE)99116896214905511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+130 0    |a Meditationes vitae Christi    |0 (DE-588)4274792-2    
+245 1 0  |a Incipiu[n]t meditat[i]o[n]es denotissime totius vite d[omi]ni n[ost]ri Jesu [christ]i s[ecundu]m sanctu[m] Bonaue[n]tura[m] cardinale[m] ordinis mino[rum] ...    
+246 1    |i Titel in normalisierter Form    |a Incipiunt meditationes denotissime totius vite domini nostri Jesu Christi secundum Sanctum Bonaventuram cardinalem Ordinis Minorum    
+246 1 0  |a Meditationes denotissime totius vite domini nostri Jesu Christi    
+246 1    |i Titel in moderner Orthografie    |a Incipiunt meditationes denotissimae totius vitae domini nostri Jesu Christi secundum Sanctum Bonaventuram cardinalem Ordinis Minorum    
+246 1 0  |a Meditationes denotissimae totius vitae domini nostri Jesu Christi    
+264   1  |a Papie    |b Per eg. Joanne[m]antonium de birretis    |c 1490. Die. 4. Martij    
+300      |a 1 ungezähltes Blatt, 4 ungezählte Seiten, 60, das heisst 62 Blätter, 1 ungezähltes Blatt    |c 15 cm (8°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss Incipit    
+500      |a Das Werk wurde bis ins 19. Jahrhundert fälschlich dem Heiligen Bonaventura zugeschrieben; nach neuerer Forschung kommen Johannes de Caulibus oder Jacopo da San Gimignano als Verfasser in Frage    
+500      |a Impressum gemäss Kolophon (Blatt 58, das heisst 60, verso); Reihenfolge der Vorlage: "Per eg. Joanne[m]antonium de birretis. Papie. 1490. Die. 4. Martij."    
+500      |a Es existiert eine Druckvariante (BSB-Ink B-682, GW 04748, ISTC ib00896000, siehe Digitalisat), die sich nur im Kolophon vom vorliegenden Exemplar unterscheidet (Impressum dort: "Impresse Papie impensis Jacopi de burgofranco. 1490. die. 4. Martij.")    
+500      |a Signaturformel: a-g⁸, h¹⁰    
+500      |a Blätter a₁ und h₁₀ unbedruckt    
+500      |a Holzschnittinitialen, mit Ausnahme der Anfangsinitiale auf Blatt 1 (a₄) recto    
+500      |a Auf den Blättern 61 (h₈) recto bis 60, das heisst 62 (h₉) recto der Druckvariante (siehe Digitalisat) ein Auszug aus Bonaventura: Lignum vitae, genannt: "Versiculi arboris vite christi"; Auf Blatt h₈ recto und verso: Johannes de Peckham: Canticum de sanctissimo nomine Jesu Christi (beginnt: "Deuotus Bernardus. Jesus dulcis memoria"); diese Blätter fehlen im vorliegenden Exemplar (in dieser Druckvariante?)    
+530      |a Digitalisat der Druckvariante - satzidentisch mit Ausnahme des Kolophons! (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00066055/image_7    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert) mit Kleisterpapier (Abklatschmuster, rot) und Pergamentecken, Linien-Goldprägung und Datumsschild in Goldprägung auf dem Rücken: "1490"    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 14.1 x 10.4 x 2.2 cm    
+563      |a Zustand Einband: Brüche im Lederbezug an Rücken und Fälzen, Papier abgerieben und Ecken gestaucht, Vorsätze im Falz mit Japanpapier stabilisiert, Lederüberklebungen an Rücken und Falz    
+590      |a Buchblockbeschreibung: 63 von 66 Blättern, vorgesehene Stelle für Initiale (Blatt a₄ recto) frei gelassen, keine Rubrizierung    
+590      |a Unvollständiges Exemplar(?): Blätter h₈-h₁₀ fehlen (siehe Digitalisat der Druckvariante)    
+590      |a Zustand Buchblock: Hinter letztem vorhandenen Blatt 58 (das heisst 60, Blatt h₇) ist zum Vergleich eine Fotokopie von Blatt h₇ verso aus dem Exemplar der Thurgauischen Kantonsbibliothek eingeklebt; das Kolophon dort entspricht der Druckvariante, siehe Digitalisat)    
+590      |a Zusammengebunden mit: Isidorus Hispalensis: Sententiae. - Paris : Philippe Pigouchet; [für die Frères de Marnef], 1491    
+590      |a Frühere Signatur: Singer IV 118    
+700 0    |a Johannes Bonaventura    |c Kardinal, Heiliger    |d 1221-1274    |0 (DE-588)118513176    |e Verfasser    |4 aut    
+700 0    |a Johannes    |c de Caulibus    |d ca. um 1376    |0 (DE-588)104359013    |e Verfasser    |4 aut    
+700 0    |a Jacopo    |c da San Gimignano    |0 (DE-588)1160326789    |e Verfasser    |4 aut    
+700 1    |a Beretta, Giovanni Antonio    |d -1496    |0 (DE-588)1037573951    |e Drucker    |4 prt    
+751      |a Pavia    |0 (DE-588)4044970-1    
+852 4    |b B404    |c 404U3    |j MUE Inc V 207 : 2    |9 (41SLSP_UBE)99116896214905511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i MUE Singer IV 118 : 2    |c 404U3    |z Zusammengebunden mit 1 weiteren Druck in Sammelband    |p 12    |j MUE Inc V 207 : 2    |b B404    |9 (41SLSP_UBE)99116896214905511    
+986      |a (41SLSP_UBE)99116896214905511    |9 (41SLSP_UBE)99116896214905511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116896214905511    
+991      |a AAK: 109185    |5 IZ UBE/28.11.2018/B404/vha    |9 LOCAL    |9 (41SLSP_UBE)99116896214905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

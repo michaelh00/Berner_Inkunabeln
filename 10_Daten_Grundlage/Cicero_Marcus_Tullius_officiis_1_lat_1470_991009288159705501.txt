@@ -1,0 +1,146 @@
+﻿<-1-1-START->
+Cicero, Marcus Tullius
+<-1-1-STOP->
+
+<-1-2-START->
+De officiis; Paradoxa Stoicorum; Laelius; Cato maior; De re publica
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Wendelin von Speyer, 13.08.1470
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 265 ungezählte Seiten, 2 ungezählte Blätter; 30 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW06926.htm<-L-5-STOP-><-VI-5-START->GW 6926<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ic00577000<-L-5-STOP-><-VI-5-START->ISTC ic00577000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+132 von 136 Blättern, rot oder blau ausgezeichnete Initialen, Schmuckinitialen am Anfang jedes Werks in rot und blau, Anfangsinitiale (Blatt [a₂] recto) aufwendig in rot, blau und gelb ausgezeichnet (mit Randbordüre), Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Velours) mit Schliessen, Spuren vormaliger Zierbeschläge auf beiden Deckeln, Linien-Blindprägung an beiden Deckeln, Ornamentstempel-Blindprägung am Vorderdeckel
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Stift Rein; Werner Zesiger
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: De oratore / Marcus Tullius Cicero. [Venedig: Wendelin von Speyer, 1470?]
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Letzte Lage [r] fehlt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116801612005511<-L-11-STOP-><-VI-11-START->MUE Zesk 24 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991009288159705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Cicero, Marcus Tullius<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Wendelin von Speyer<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Zesiger, Werner<-P-STOP->
+<-P-START->Stift Rein<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991009288159705501<-DOI-STOP->
+<-SIGN-START->MUE Zesk 24 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05805nam a2200661 c 4500
+001 991009288159705501
+005 20220217140254.0
+008 950711s1470    it ||||| |||| 00| ||lat d
+019      |a Altbestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von Signaturen.    |5 IDSBB/14.3.1995/bestub/mes    
+035      |a (swissbib)028127749-41slsp_network    
+035      |a 028127749    |9 ExL    
+035      |a (IDSBB)001127034DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991009288159705501    
+035      |a (41SLSP_UBE)99116801612005511    |9 (41SLSP_UBE)99116801612005511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+072   7  |a ph    |2 SzZuIDS BS/BE    
+100 1    |a Cicero, Marcus Tullius    |d v106-v43    |0 (DE-588)118520814    |e Verfasser    |4 aut    
+240 1 0  |a De officiis    
+245 1 0  |a Marci Tvlii Ciceronis ... Officio[rum] liber incipit    
+246 1    |i Titel in normalisierter Form    |a Marci Tulii Ciceronis ... Officiorum liber incipit    
+246 1 0  |a Officiorum liber    
+246 1 3  |a Ciceronis opuscula quinque    
+246 1 3  |a Opuscula quinque    
+264   1  |a Venetiis    |b E spira nato Ciceronis opuscula quinque H[a]ec Vindelino formis impressa fuere    |c Anno christi .M.CCCC.lxx. Die uerio xiii. me[n]sis Augusti: [13.08.1470]    
+300      |a 1 ungezähltes Blatt, 265 ungezählte Seiten, 2 ungezählte Blätter    |c 30 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss Incipit    
+500      |a Impressum gemäss Kolophon; Reihenfolge der Vorlage: "Anno christi .M.CCCC.lxx. Die uero xiii. me[n]sis Augusti: Venetiis. E spira nato Ciceronis opuscula quinque H[a]ec Vindelino formis impressa fuere."    
+500      |a Signaturformel: [a¹⁰, b–m⁸, n¹⁰, o–q⁸, r⁴]    
+500      |a Blätter [a₁], [r₃] und [r₄] (erstes Blatt und die letzten beiden Blätter) unbedruckt, Blatt [r₂] verso unbedruckt    
+505 0 0  |g Blatt [k₄] verso    |t Marci Tvlii Ciceronis Paradoxa Incipit    |g Blatt [l₆] recto    |t .M.T. Ciceronis Lelivs Siue De Amicitia Dialogvs ...    |g Blatt [o₁] recto    |t M T Cicfronis [!] Cato Maior Vel De Senectvte ...    |g Blatt [q₃] recto    |t [Somnium Scipionis]    
+510 4    |a GW    |c 6926    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW06926.htm    
+510 4    |a ISTC    |c ic00577000    |u http://data.cerl.org/istc/ic00577000    
+530      |a Digitalisat (Exemplar der Biblioteca Vaticana)    |u https://digi.vatlib.it/view/Prop.Fide.IV.179    
+561      |a Auf Blatt [a₂] recto, über dem Textbeginn, handschriftlicher Vermerk: "Catalogo Runensi inscriptus 1649."    
+561      |a Stempel auf letztem Blatt des Sammelbands, verso: "Dr. Zesiger"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Velours) mit Schliessen, Spuren vormaliger Zierbeschläge auf beiden Deckeln, Linien-Blindprägung an beiden Deckeln, Ornamentstempel-Blindprägung am Vorderdeckel; handbeschriebenes Titelschild auf dem Rücken, in Tinte: "M. Tullij Ciceronis officiorum Libri III. & de Oratione Libri III."    
+563      |a Vorsätze: Vorne und hinten ohne fliegende Blätter, Spiegel: mittelalterliche Handschriften-Makulatur auf Pergament, mit rot oder blau ausgezeichneten Initialen    
+563      |a Masse: 29.4 x 21.0 x 8.3 cm    
+563      |a Zustand Einband: Hinterer Spiegel zum Teil hoch gelöst mit Schnittspuren entsprechend der Oberkante des Spiegels, ungesteppte Häubchen unten ganz abgerissen und oben mit Einrissen und kleineren Fehlstellen erhalten, Zierbeschläge an beiden Deckeln fehlend (3 Vernietungen am Vorderdeckel und eine am Rückdeckel erhalten)    
+590      |a Buchblockbeschreibung: 132 von 136 Blättern; handschriftliche Lagensignatur (Nummerierung) in Graphit ab Lage 2 ([b]), jeweils auf der ersten Seite der Lage unten rechts; handschriftliche Foliierung (nur auf einzelnen Recto-Seiten, gezählt ab Blatt [a₂]) jeweils oben rechts; Pergamentfalz nach erster Lage gehört zum vorderen Pergamentspiegel, Pergamentverstärkung (Manuskriptmakulatur einseitig rötlich gefärbt) in den Lagenmitten der ersten beiden Lagen; rot oder blau ausgezeichnete Initialen, Schmuckinitialen am Anfang jedes Werks rot und blau, Anfangsinitiale (Blatt [a₂] recto) aufwendig in rot, blau und gelb ausgezeichnet, mit Randbordüre; Rubrizierung; Kapitelanfänge und Satzanfänge (Grossbuchstaben) gelb markiert    
+590      |a Unvollständiges Exemplar: Letzte Lage [r] fehlt    
+590      |a Signaturformel der handschriftlichen Lagensignatur: 1¹⁰, 2–12⁸, 13¹⁰, 14–16⁸, 17⁴ (Lage [17] fehlt)    
+590      |a Mit handschriftlicher Inhaltsangabe in Tinte (16./17. Jahrhundert?) auf dem unbedruckten Blatt [a₁] recto    
+590      |a Auf einigen Seiten der Lagen [a]-[d] handschriftliche Annotationen in Tinte    
+590      |a Zusammengebunden mit: Cicero, Marcus Tullius: De oratore. Venedig: Wendelin von Speyer, [1470?]    
+590      |a Historische Signatur(?) in Tinte auf unbedrucktem Blatt [a₁] recto: "1329/a.III. ...[?] F"; in Graphit: "75/Inc"    
+700 1 2  |a Cicero, Marcus Tullius    |d v106-v43    |t De officiis    |0 (DE-588)4140400-2    
+700 1 2  |a Cicero, Marcus Tullius    |d v106-v43    |t Paradoxa Stoicorum    |0 (DE-588)4279577-1    
+700 1 2  |a Cicero, Marcus Tullius    |d v106-v43    |t Laelius    |0 (DE-588)4122446-2    
+700 1 2  |a Cicero, Marcus Tullius    |d v106-v43    |t Cato maior    |0 (DE-588)4140309-5    
+700 1 2  |a Cicero, Marcus Tullius    |d v106-v43    |t De re publica    |p Somnium Scipionis    |0 (DE-588)4254901-2    
+700 0    |a Wendelin    |c von Speyer    |d 14XX-1477    |0 (DE-588)129071226    |e Drucker    |4 prt    
+700 1    |a Zesiger, Werner    |d 1902-1958    |0 (DE-588)121027392    |e Früherer Eigentümer    |4 fmo    
+710 2    |a Stift Rein    |b Bibliothek    |0 (DE-588)1085838803    |e Früherer Eigentümer    |4 fmo    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Zesk 24 : 1    |9 (41SLSP_UBE)99116801612005511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit einem weiteren Druck    |p 12    |j MUE Zesk 24 : 1    |b B404    |9 (41SLSP_UBE)99116801612005511    
+986      |a (41SLSP_UBE)99116801612005511    |9 (41SLSP_UBE)99116801612005511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116801612005511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

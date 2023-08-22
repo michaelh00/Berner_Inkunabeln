@@ -1,0 +1,153 @@
+﻿<-1-1-START->
+Seneca, Lucius Annaeus (Iunior)
+<-1-1-STOP->
+
+<-1-2-START->
+Epistulae morales ad Lucilium [italienisch]
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit einem Vorwort des Übersetzers Sebastiano Manilio und einer von Manilio übersetzen Vita Senecae<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: [Bernardinus Benalius für] Sebastiano Manilio und Bernardino und Stefano Dinali, 14.04.1494
+<-3-1-STOP->
+
+<-4-1-START->
+12 ungezählte Seiten, 170 Blätter; 31 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_S-264.html<-L-5-STOP-><-VI-5-START->BSB-Ink S-264<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M41292.htm<-L-5-STOP-><-VI-5-START->GW M41292<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/is00382000<-L-5-STOP-><-VI-5-START->ISTC is00382000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+176 von 176 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert) mit Sprenkelpapier, vermuteter Buchbinder: Gabriel Freudenberger
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116868115605511<-L-11-STOP-><-VI-11-START->MUE Bong IV 874<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991124734479705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Seneca, Lucius Annaeus (Iunior)<-P-STOP->
+<-P-START->Manilio, Sebastiano<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Benalius, Bernardinus<-P-STOP->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Manilio, Sebastiano<-P-STOP->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Dinali, Bernardino<-P-STOP->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Dinali, Stefano<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-P-START->Freudenberger, Gabriel<-P-STOP->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991124734479705501<-DOI-STOP->
+<-SIGN-START->MUE Bong IV 874<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05420nam a2200649 c 4500
+001 991124734479705501
+005 20211215203308.0
+008 100730s1494    it            00| | ita  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/17.12.2019/B404/faf    
+035      |a (swissbib)062115448-41slsp_network    
+035      |a 062115448    |9 ExL    
+035      |a (IDSBB)005285527DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991124734479705501    
+035      |a (41SLSP_UBE)99116868115605511    |9 (41SLSP_UBE)99116868115605511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a ita    |h lat    
+100 1    |a Seneca, Lucius Annaeus    |c Philosophus    |d -65    |0 (DE-588)118613200    |e Verfasser    |4 aut    
+240 1 0  |a Epistulae morales ad Lucilium    
+245 1 0  |a Pistole    |c Del Moralissimo Seneca ; Nvovamente fatte volgare    
+246 1    |i Titel in normalisierter Form    |a Pistole del moralissimo Seneca nuovamente fatte volgare    
+246 1    |i Incipit (Haupttext)    |a Incominciano Le Morale Epistole Di Lvcio Anneo Seneca Cordvbese A Lvcillo Tradvcte Di Latina Lingva In Toscan Volgare Per Sebastiano Manilio Cittadin Romano    
+246 1    |i Incipit (Haupttext) in normalisierter Form    |a Incominciano le morale epistole di Lucio Anneo Seneca Cordubese a Lucillo traducte di Latina lingua in Toscan volgare per Sebastiano Manilio cittadin Romano    
+246 1    |i Kolophon    |a Finischono le moralissime Pistole di Lucio Anneo Seneca a Lucillo    
+246 1    |i Titel gemäss GW und ISTC    |a Epistolae ad Lucilium    
+264   1  |a Impr[e]sse nella Inclita Citta di Venetia    |b p[er] i[n]dustria di Sebastia[n] Manilio Roma[n]o: el q[ua]le insiemi co[n] li Prouidi huomini Stefano e Bernardi[n]o Dinali Fratelli per comune spesa haue[n]do impressa la sopra ditta opera    |c negli anni della humana restauratione. M.cccclxxxxiiii. a di. xiiii. di aprile: nel Felicissi[m]o Pri[n]cipato del Ser[e]nissimo Agosti[n]o Barbadico [14.04.1494]    
+300      |a 12 ungezählte Seiten, 170 Blätter    |c 31 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Inhaltsverzeichnis, einem Vorwort des Übersetzers Sebastiano Manilio und einer von Manilio übersetzen Vita Senecae    
+500      |a Impressum gemäss Kolophon; Reihenfolge der Vorlage: "Impr[e]sse nella Inclita Citta di Venetia negli anni della humana restauratione. M.cccclxxxxiiii. ...: p[er] i[n]dustria di Sebastia[n] Manilio Roma[n]o ..."    
+500      |a Gemäss GW gedruckt von Bernardinus Benalius    
+500      |a Signaturformel: []⁴, []², a-o⁶, p-q⁴, r-y⁶, z⁴, &⁴, [con]⁴, [rum]⁴, A-E⁴, F⁶    
+500      |a Lagenregister auf Blatt F₆ verso ohne Angabe der ersten beiden Lagen    
+510 4    |a BSB-Ink    |c S-264    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_S-264.html    
+510 4    |a GW    |c M41292    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M41292.htm    
+510 4    |a ISTC    |c is00382000    |u http://data.cerl.org/istc/is00382000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u https://daten.digitale-sammlungen.de/0006/bsb00061087/images    
+561      |a Handschriftlicher Besitzvermerk auf der Titelseite: "Bongarsio."    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jh.) mit Sprenkelpapier, Linien-Goldprägung sowie Titelschild in Goldprägung auf dem Rücken: "Senecæ Epistolæ Jtal:"; gemäss Lindt wahrscheinlich von Gabriel Freudenberger    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 30.5 x 21.1 x 3.4 cm    
+563      |a Zustand Einband: Schäden am Einbandleder durch Signatur-Klebung    
+590      |a Buchblockbeschreibung: 176 von 176 Blättern, Papierfalz zwischen erster und zweiter Lage sowie Lagen E und F gehört zur Vorsatzkonstruktion, vorgesehene Stellen für Initialen frei gelassen    
+590      |a Zustand Buchblock: Feuchtigkeitsränder an den ersten und letzten Blättern, punktueller Schädlingsfrass und Schimmelverfleckungen an Blatt F₆, Spuren von abgelöster Lagenverstärkung (heller Rand) an Blättern []₄ verso und F₆ verso, Verbräunung und Korrosionsspuren in Form eines Binokels (Brille ohne Bügel) an Blättern h₁ verso und h₂ recto sowie in schwächerer Form an den vorangehenden und nachfolgenden 4 Blättern    
+590      |a Historische Signatur auf der Titelseite: "Phil 151"    
+590      |a Frühere Signaturen: Inc 196; Inc III 46; IX 35    
+700 1    |a Manilio, Sebastiano    |d ca. 15. Jahrhundert    |0 (DE-588)1055439072    |e Übersetzer    |e Verfasser eines Vorworts    |4 trl    |4 wpr    
+700 1    |a Benalius, Bernardinus    |d 1458-1550    |0 (DE-588)128981180    |e Drucker    |4 prt    
+700 1    |a Manilio, Sebastiano    |d ca. 15. Jahrhundert    |0 (DE-588)1055439072    |e Verlag    |4 pbl    
+700 1    |a Dinali, Bernardino    |d ca. 15.-16. Jh.    |0 (DE-588)141298529    |e Verlag    |4 pbl    
+700 1    |a Dinali, Stefano    |d ca. 15.-16. Jh.    |0 (DE-588)1170443281    |e Verlag    |4 pbl    
+700 1    |a Freudenberger, Gabriel    |d 1744-1806    |0 (DE-588)1176588613    |e Buchbinder    |4 bnd    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 1 2  |a Seneca, Lucius Annaeus    |c Philosophus    |d -65    |t Epistulae morales ad Lucilium    |0 (DE-588)4203762-1    
+710 2    |a Stefano e Bernardino Dinali fratelli    |0 (DE-588)1201694086    |e Verlag    |4 pbl    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Bong IV 874    |9 (41SLSP_UBE)99116868115605511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc III 46    |c 404U3    |p 12    |j MUE Bong IV 874    |b B404    |9 (41SLSP_UBE)99116868115605511    
+986      |a (41SLSP_UBE)99116868115605511    |9 (41SLSP_UBE)99116868115605511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116868115605511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116868115605511    
+991      |a Bongars: 12915    |5 IZ UBE/B400/30.07.2010    |9 LOCAL    |9 (41SLSP_UBE)99116868115605511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,134 @@
+﻿<-1-1-START->
+Institoris, Heinrich
+<-1-1-STOP->
+
+<-1-2-START->
+Malleus maleficarum
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Vermutlich mitverfasst von Jakob Sprenger<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Speyer: Peter Drach der Mittlere, nicht nach 15.04.1487]
+<-500-START->Von Proctor Johann Prüss in Straßburg zugeordnet<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+257 ungezählte Seiten, 1 ungezähltes Blatt; 30 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_I-225.html<-L-5-STOP-><-VI-5-START->BSB-Ink I-225<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M12484.htm<-L-5-STOP-><-VI-5-START->GW M12484<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ii00163000<-L-5-STOP-><-VI-5-START->ISTC ii00163000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+130 von 130 Blättern, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Papiereinband auf Kartondeckeln (braun, Marmorpapier, 19. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116931919505511<-L-11-STOP-><-VI-11-START->MUE Inc I 24<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991012885419705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Institoris, Heinrich<-P-STOP->
+<-P-START->Sprenger, Jakob<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Speyer<-O-STOP->
+<-P-START->Drach, Peter (der Mittlere)<-P-STOP->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Prüss, Johann<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991012885419705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 24<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03127nam a2200493 c 4500
+001 991012885419705501
+005 20211215162537.0
+008 090316s1487    gw            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/16.08.2017/B404/faf    
+035      |a (swissbib)060907606-41slsp_network    
+035      |a 060907606    |9 ExL    
+035      |a (IDSBB)004796831DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991012885419705501    
+035      |a (41SLSP_UBE)99116931919505511    |9 (41SLSP_UBE)99116931919505511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Institoris, Heinrich    |d 1430-1505    |0 (DE-588)118855484    |e Verfasser    |4 aut    
+245 1 0  |a [Malleus maleficarum]    
+246 1    |i Incipit    |a Appologia auctoris in malleum maleficarum    
+264   1  |a [Speyer]    |b [Peter Drach der Mittlere]    |c [nicht nach 15.04.1487]    
+300      |a 257 ungezählte Seiten, 1 ungezähltes Blatt    |c 30 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss GND    
+500      |a Impressum gemäss GW und ISTC; von Proctor Johann Prüss in Straßburg zugeordnet    
+500      |a Signaturformel: a–p⁸, q¹⁰    
+500      |a Blatt a₁ recto und Blatt q₁₀ sind unbedruckt    
+510 4    |a BSB-Ink    |c I-225    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_I-225.html    
+510 4    |a GW    |c M12484    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M12484.htm    
+510 4    |a ISTC    |c ii00163000    |u http://data.cerl.org/istc/ii00163000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0004/bsb00043229/images    
+563      |a Einbandbeschreibung: Ganzbezogener Papiereinband auf Kartondeckeln (braun, Marmorpapier, 19. Jh.) mit Linien-Goldprägung sowie Titelschild auf dem Rücken    
+563      |a Vorsätze: Vorne und hinten mit einem fliegendem Blatt    
+563      |a Masse Einband: 29.2 x 21 x 2.5 cm    
+590      |a Buchblockbeschreibung: 130 von 130 Blättern, vorgeklebter Falz von Vorsatzkonstruktion sichtbar zwischen Blättern a₈ und b₁ sowie zwischen p₈ und q₁, rot ausgezeichnete Initialen, Rubrizierung, handschriftlicher Titel in Tinte auf Blättern a₁ recto und q₁₀ verso: "Tractat[us] [contra] phitonissas et maleficos m[a]g[ist]ri jacobj sprenger sac[rae] theo[logiae] p[ro]fesso[r]is or. p[raedicatorum]"    
+590      |a Handschriftliche Annotationen in Tinte    
+590      |a In Tasche beigelegt: Artikel aus "Der Bund" 138/113, 16.05.1987, über den Malleus maleficarum mit Bezugnahme auf das vorliegende Exemplar    
+590      |a Frühere Signatur: Inc 76    
+700 1    |a Sprenger, Jakob    |d 1435-1495    |0 (DE-588)118855492    |e Verfasser    |4 aut    
+700 1    |a Drach, Peter    |d 1455-1504    |0 (DE-588)124571905    |e Drucker    |4 prt    
+700 1    |a Prüss, Johann    |d 1447-1510    |0 (DE-588)135917018    |e Drucker    |4 prt    
+700 1 2  |a Institoris, Heinrich    |d 1430-1505    |t Malleus maleficarum    |0 (DE-588)4210558-4    
+751      |a Speyer    |0 (DE-588)4056179-3    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Inc I 24    |9 (41SLSP_UBE)99116931919505511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc I 24    |b B404    |9 (41SLSP_UBE)99116931919505511    
+986      |a (41SLSP_UBE)99116931919505511    |9 (41SLSP_UBE)99116931919505511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116931919505511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116931919505511    
+991      |a MedeaB400: 00848829    |5 IZ UBE/rekat-ubbe    |9 LOCAL    |9 (41SLSP_UBE)99116931919505511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

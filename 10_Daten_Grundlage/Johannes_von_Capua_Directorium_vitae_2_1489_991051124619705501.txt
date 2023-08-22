@@ -1,0 +1,153 @@
+﻿<-1-1-START->
+Johannes von Capua
+<-1-1-STOP->
+
+<-1-2-START->
+Directorium vitae humanae
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Übersetzung einer hebräischen Übersetzung der von ʿAbdallāh Ibn-al-Muqaffaʿ über das Mittelpersische des Burzōe übersetzten und redigierten, unter dem Titel Kalīla wa-Dimna bekannten arabischen Fassung des Viṣṇuśarmā oder Bidpai zugeschriebenen indischen Pañcatantra; mit Vorwort des Übersetzers Johannes von Capua<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Straßburg: Johann Prüss, nicht nach 1489]
+<-3-1-STOP->
+
+<-4-1-START->
+163 ungezählte Seiten: 119 Illustrationen; 30 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-VI-5-START->Hain *4411 Variante<-VI-5-STOP->; <-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_I-375.html<-L-5-STOP-><-VI-5-START->BSB-Ink I-375<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M13174.htm<-L-5-STOP-><-VI-5-START->GW M13174<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ij00268000<-L-5-STOP-><-VI-5-START->ISTC ij00268000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+82 von 82 Blättern, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Kalb) mit Schliessen und Spuren einer vormaligen Kettenöse am oberen Rand des Rückdeckels, Platten-Blindprägung (Platten wie bei MUE Inc III 59) und Linien-Blindprägung an beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 3 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116774644805511<-L-11-STOP-><-VI-11-START->MUE Inc IV 23 : 4<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991051124619705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Viṣṇuśarmā<-P-STOP->
+<-P-START->Bidpai<-P-STOP->
+<-P-START->Burzōe<-P-STOP->
+<-P-START->Ibn-al-Muqaffaʿ, ʿAbdallāh<-P-STOP->
+<-P-START->Johannes de Capua<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Prüss, Johann<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991051124619705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 23 : 4<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04757nam a2200709 c 4500
+001 991051124619705501
+005 20211215164341.0
+007 cr#|||||||||||
+008 130501s1489    fr            00| | lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/30.07.2020/B404/faf    
+024 7    |a 10.3931/e-rara-89726    |2 doi    
+035      |a (swissbib)066215544-41slsp_network    
+035      |a 066215544    |9 ExL    
+035      |a (IDSBB)006121865DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991051124619705501    
+035      |a (41SLSP_UBE)99116774644805511    |9 (41SLSP_UBE)99116774644805511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a lat    |h heb    |h ara    |h pal    |h san    
+130 0    |a Kalīla wa-Dimna    |0 (DE-588)4250623-2    
+245 1 0  |a Directorium humane vite alias parabole antiquoru[m] sapientu[m]    
+246 1    |i Titel in normalisierter Form    |a Directorium humane vite alias parabole antiquorum sapientum    
+246 1    |i Explicit    |a Explicit liber parabola[rum] antiquo[rum] sapientum    
+246 1    |i Explicit in normalisierter Form    |a Explicit liber parabolarum antiquorum sapientum    
+246 1    |i Titel gemäss BSB-Ink, GW und ISTC    |a Directorium humanae vitae    
+264   1  |a [Straßburg]    |b [Johann Prüss]    |c [nicht nach 1489]    
+300      |a 163 ungezählte Seiten    |b 119 Illustrationen    |c 30 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+337      |b c    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+338      |b cr    |2 rdacarrier    
+500      |a Übersetzung einer hebräischen Übersetzung der von ʿAbdallāh Ibn-al-Muqaffaʿ über das Mittelpersische des Burzōe übersetzten und redigierten, unter dem Titel Kalīla wa-Dimna bekannten arabischen Fassung des Viṣṇuśarmā oder Bidpai zugeschriebenen indischen Pañcatantra    
+500      |a Mit Vorwort des Übersetzers Johannes von Capua    
+500      |a Druckort und Drucker gemäss GW und ISTC    
+500      |a Zur Datierung: Ein Exemplar des späteren Drucks H 4411a in der New York Public Library weist einen Besitzvermerk von 1489 auf    
+500      |a Bei der Illustration wurden einige Druckstöcke mehrfach verwendet    
+500      |a Signaturformel: a-m⁶, n¹⁰    
+500      |a Blatt a₁ ohne Lagensignatur, Blätter a₂-a₄ mit Signaturen a-a3 bezeichnet    
+510 4    |a Hain    |c *4411 Variante    
+510 4    |a BSB-Ink    |c I-375    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_I-375.html    
+510 4    |a GW    |c M13174    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M13174.htm    
+510 4    |a ISTC    |c ij00268000    |u http://data.cerl.org/istc/ij00268000    
+563      |a Ganzbezogener Ledereinband auf Kartondeckeln (braun, Kalb) mit Schliessen und Spuren einer vormaligen Kettenöse am oberen Rand des Rückdeckels, Platten-Blindprägung (Platten wie bei Inc III 59) und Linien-Blindprägung an beiden Deckeln, Papiertitelschild in Blindprägung auf dem Rücken: "Margarita Decreti"    
+563      |a Vorsätze: Hinten mit einem fliegenden Blatt aus dickem Japanpapier    
+563      |a Masse Einband: 29.2 x 20.8 x 7.6 cm    
+563      |a Zustand Einband: Lederrücken neu bezogen (unter Original-Einbandleder der Deckel gezogen) mit aufgeklebten Fragmenten des Original-Einbandleders, ergänzte Schliessenriemen und Schliessenhaken, Loch im Rückdeckel von vormaliger Ankettung, beide Vorsätze inkl. Spiegel ergänzt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 82 von 82 Blättern, rot ausgezeichnete Initialen, Rubrizierung    
+590      |a Zustand Buchblock: Starke Feuchtigkeitsränder und bräunliche Verfleckungen an den letzten Blättern    
+590      |a Handschriftliche Annotationen in Tinte    
+590      |a Zusammengebunden mit 3 weiteren Drucken in Sammelband    
+590      |a Historische Signatur auf der Titelseite des ersten Drucks im Sammelband: "Iur. Pol. 100"    
+590      |a Frühere Signatur: Inc 100    
+700 0    |a Viṣṇuśarmā    |0 (DE-588)119300540    |e Verfasser    |4 aut    
+700 0    |a Bidpai    |d Person der Antike oder des Mittelalters    |0 (DE-588)100794211    |e Verfasser    |4 aut    
+700 0    |a Burzōe    |d ca. 6. Jh.    |0 (DE-588)111138604    |e Mitwirkender    |4 ctb    
+700 1    |a Ibn-al-Muqaffaʿ, ʿAbdallāh    |d 724-759    |0 (DE-588)118955985    |e Mitwirkender    |4 ctb    
+700 0    |a Johannes    |c de Capua    |d ca. 13. Jh.    |0 (DE-588)118935607    |e Übersetzer    |e Verfasser eines Vorworts    |4 trl    |4 wpr    
+700 1    |a Prüss, Johann    |d 1447-1510    |0 (DE-588)135917018    |e Drucker    |4 prt    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 23 : 4    |9 (41SLSP_UBE)99116774644805511    
+856 4    |u https://doi.org/10.3931/e-rara-89726    |z Digitalisat in e-rara    
+900      |a IDSIxunikat    
+900      |a IDSIxhybrid-el    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 3 weiteren Drucken in Sammelband    |p 12    |j MUE Inc IV 23 : 4    |b B404    |9 (41SLSP_UBE)99116774644805511    
+986      |a (41SLSP_UBE)99116774644805511    |9 (41SLSP_UBE)99116774644805511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116774644805511    
+990      |f erarabe    |9 local    |9 (41SLSP_UBE)99116774644805511    
+990      |f lza-cc0    |9 local    |9 (41SLSP_UBE)99116774644805511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,143 @@
+﻿<-1-1-START->
+Digestum novum
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Zusammengestellt im Auftrag Justinians I.<-500-STOP->
+<-500-START->Mit der Glossa ordinaria des Accursius und Summaria nach Bartolus de Saxoferrato und Paulus de Castro<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Andreas Calabrensis, 30.04.1491
+<-3-1-STOP->
+
+<-4-1-START->
+305 Blätter, 1 ungezähltes Blatt: Druckermarke; 43 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_C-590.html<-L-5-STOP-><-VI-5-START->BSB-Ink C-590<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW07713.htm<-L-5-STOP-><-VI-5-START->GW 07713<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ij00570000<-L-5-STOP-><-VI-5-START->ISTC ij00570000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+305 von 306 Blättern, vereinzelt Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Kartondeckeln (braun, Kalb, 18./19. Jahrhundert) mit flächig grün gefärbtem Papier
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Das unbedruckte Blatt a₁ fehlt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116748535005511<-L-11-STOP-><-VI-11-START->MUE Inc I 12<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991042688619705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Justinian I. (Kaiser von Byzanz)<-P-STOP->
+<-P-START->Accursius, Franciscus (Senior)<-P-STOP->
+<-P-START->Bartolus de Saxoferrato<-P-STOP->
+<-P-START->Paulus de Castro<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Andreas Calabrensis<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991042688619705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 12<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04448nam a2200625 c 4500
+001 991042688619705501
+005 20211215173638.0
+008 170524s1491    it ||||| l    00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/24.05.2017/B404/faf    
+035      |a (swissbib)06953084X-41slsp_network    
+035      |a 06953084X    |9 ExL    
+035      |a (IDSBB)006702053DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991042688619705501    
+035      |a (41SLSP_UBE)99116748535005511    |9 (41SLSP_UBE)99116748535005511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+130 0    |a Digestum novum    |0 (DE-588)1133310079    
+245 1 0  |a Explicit liber s[e]c[un]de p[ar]tis digesti noui d[omi]ni Justiniani p[ri]ncipis sacratissimi    
+246 1    |i Incipit (Kommentar)    |a De operis noui nunciatione. Rubrica    
+246 1    |i Incipit (Text)    |a D[omi]ni Justiniani sacratissimi principis perpetui sem[per] augusti iuris enucleati ex o[mn]i veteri iure collecti digestoru[m] seu pandecta[rum]. Explicit liber xxxviij. Incipit liber .xxxix    
+246 1    |i Titel gemäss BSB-Ink    |a Corpus iuris civilis    |p Digestum novum    
+246 1    |i Titel gemäss GW    |a Corpus iuris civilis    |p Digesta Iustiniani    |p Digestum novum    
+246 1    |i Titel in normalisierter Form    |a Explicit liber secunde partis digesti novi domini Iustiniani principis sacratissimi    
+264   1  |a Maxima cura atq[ue] dilige[n]tia Venetijs i[m]pressus    |b arte [et] i[m]pe[n]sis Andree calabre[sis]. de papia    |c Anno d[omi]ni .M.cccclxxxxj. die vltimo Aprilis [30.04.1491]    
+300      |a 305 Blätter, 1 ungezähltes Blatt    |c 43 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Zusammengestellt im Auftrag Justinians I.    
+500      |a Mit der Glossa ordinaria des Accursius und Summaria nach Bartolus de Saxoferrato und Paulus de Castro    
+500      |a Keine Titelseite, Titel und Impressum gemäss Kolophon    
+500      |a Rot- und Schwarzdruck (mit rot gedruckten Lombarden und Paragraphenzeichen)    
+500      |a Druckermarke am Ende (rot gedruckt)    
+500      |a Signaturformel: a–f⁸, g-h⁶, i–z⁸, [et]⁸, [con]⁸, [rum]⁸, A–M⁸, N⁶    
+500      |a Die Blätter a₁ und N₆ sind unbedruckt    
+510 4    |a BSB-Ink    |c C-590    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_C-590.html    
+510 4    |a GW    |c 07713    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW07713.htm    
+510 4    |a ISTC    |c ij00570000    |u http://data.cerl.org/istc/ij00570000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0005/bsb00050453/images    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Kartondeckeln (braun, Kalb, 18./19. Jh.) mit flächig grün gefärbtem Papier, Linien-Blindprägung sowie Titelschild in Goldprägung auf dem Rücken    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 42.3 x 30.5 x 7.7 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, Kratzer, Fehlstellen und Farbveränderungen am Einbandpapier    
+590      |a Buchblockbeschreibung: 305 von 306 Blättern, einzelne Paginierungsfehler mit Tinte korrigiert, vorgesehene Stellen für grössere Initialen frei gelassen, vereinzelt Rubrizierung (zusätzliche Paragraphenzeichen) in Braun (z.B. Blatt 2 verso) oder Rot (z.B. Blatt 150 verso)    
+590      |a Zustand Buchblock: Teilweise starke Verbräunungen sowie Feuchtigkeitsränder, vereinzelt Schimmelverfleckungen    
+590      |a Unvollständiges Exemplar: Das unbedruckte Blatt a₁ fehlt    
+590      |a Handschriftliche Annotationen, An- und Unterstreichungen in Tinte    
+590      |a Handschriftliches Register auf Blatt N₆ recto    
+590      |a Historische Signatur auf Blatt a₂: "Jurid Polit 20"    
+590      |a Frühere Signatur: Inc 183    
+700 0    |a Justinian    |b I.    |c Byzantinisches Reich, Kaiser    |d 482-565    |0 (DE-588)11855896X    |e Auftraggeber    |4 pat    
+700 1    |a Accursius, Franciscus    |c Senior    |d 1185-1263    |0 (DE-588)100956599    |e Kommentarverfasser    |4 wac    
+700 0    |a Bartolus    |c de Saxoferrato    |d 1314-1357    |0 (DE-588)118652885    |e Verfasser von ergänzendem Text    |4 wst    
+700 0    |a Paulus    |c de Castro    |d 1360-1441    |0 (DE-588)100957196    |e Verfasser von ergänzendem Text    |4 wst    
+700 0    |a Andreas    |c Calabrensis    |0 (DE-588)1048411834    |e Drucker    |4 prt    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Inc I 12    |9 (41SLSP_UBE)99116748535005511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc I 12    |b B404    |9 (41SLSP_UBE)99116748535005511    
+986      |a (41SLSP_UBE)99116748535005511    |9 (41SLSP_UBE)99116748535005511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116748535005511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

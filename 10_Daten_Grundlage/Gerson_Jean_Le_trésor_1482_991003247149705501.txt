@@ -1,0 +1,126 @@
+﻿<-1-1-START->
+Gerson, Jean
+<-1-1-STOP->
+
+<-1-2-START->
+Le trésor de sapience
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Paris: Antoine Caillaut, um 1482]
+<-3-1-STOP->
+
+<-4-1-START->
+32 ungezählte Seiten; 21 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW10847.htm<-L-5-STOP-><-VI-5-START->GW 10847<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ig00274395<-L-5-STOP-><-VI-5-START->ISTC ig00274395<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+16 von 16 Blättern, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (grün, Velours)
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 5 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116873629105511<-L-11-STOP-><-VI-11-START->MUE Inc IV 54 : 6<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991003247149705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Gerson, Jean<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Paris<-O-STOP->
+<-P-START->Caillaut, Antoine<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991003247149705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 54 : 6<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 02610nam a2200445 c 4500
+001 991003247149705501
+005 20211215172934.0
+008 080616s1482    fr            00| | fre  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/29.04.2016/B400/az    
+035      |a (swissbib)056508034-41slsp_network    
+035      |a 056508034    |9 ExL    
+035      |a (IDSBB)004526689DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991003247149705501    
+035      |a (41SLSP_UBE)99116873629105511    |9 (41SLSP_UBE)99116873629105511    
+040      |a SzZuIDS BS/BE B400    |e rda    |d CH-ZuSLS    
+100 1    |a Gerson, Jean    |d 1363-1429    |0 (DE-588)118557866    |e Verfasser    |4 aut    
+240 1 0  |a <<Le>> trésor de sapience    
+245 1 0  |a Sensuit le liure du tresor de sapience le quel fist et co[m]posa Maistre Jehan Gerson docteur en theologie et chanselier de nostre dame de Paris    
+246 1    |i Titel in moderner Orthografie    |a S'ensuit le livre du trésor de sapience lequel fit et composa Maitre Jehan Gerson docteur en théologie et chancelier de Notre Dame de Paris    
+246 1    |i Titel in normalisierter Form    |a Sensuit le livre du tresor de sapience le quel fist et composa Maistre Jehan Gerson docteur en theologie et chanselier de nostre dame de Paris    
+264   1  |a [Paris]    |b [Antoine Caillaut]    |c [um 1482]    
+300      |a 32 ungezählte Seiten    |c 21 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Signaturformel: a-b⁸    
+500      |a Blatt b₈ verso ist unbedruckt    
+500      |a Mit Versen am Ende (B₇ verso): "Pour bien vouloir a dieu co[m]plaire..."    
+510 4    |a GW    |c 10847    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW10847.htm    
+510 4    |a ISTC    |c ig00274395    |u http://data.cerl.org/istc/ig00274395    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (grün, Velours)    
+563      |a Vorsätze: vorne 2 und hinten drei fliegende Blätter    
+563      |a Masse Einband: 21.2 x 14.7 x 4.6 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, Fehlstellen mit Gewebe unterlegt, Deckel und Vorsätze ergänzt, Verschlussbänder fehlend    
+590      |a Buchblockbeschreibung: 16 von 16 Blättern, rot ausgezeichnete Initialen, Rubrizierung    
+590      |a Zusammengebunden mit fünf weiteren Drucken in Sammelband    
+590      |a Historische Signatur auf vorderem fliegendem Vorsatzblatt: "Theol N° 414 403"    
+700 1 2  |a Gerson, Jean    |d 1363-1429    |t <<Le>> trésor de sapience    |0 (DE-588)1145198821    
+700 1    |a Caillaut, Antoine    |d 14XX-1506    |0 (DE-588)128991100    |e Drucker    |4 prt    
+751      |a Paris    |0 (DE-588)4044660-8    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 54 : 6    |9 (41SLSP_UBE)99116873629105511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc IV 54 : 6    |b B404    |9 (41SLSP_UBE)99116873629105511    
+986      |a (41SLSP_UBE)99116873629105511    |9 (41SLSP_UBE)99116873629105511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116873629105511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116873629105511    
+991      |a AAK: 00312552    |5 IZ UBE/rekat-ubbe    |9 LOCAL    |9 (41SLSP_UBE)99116873629105511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

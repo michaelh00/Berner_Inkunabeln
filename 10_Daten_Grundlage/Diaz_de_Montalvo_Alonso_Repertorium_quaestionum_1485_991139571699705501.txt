@@ -1,0 +1,139 @@
+﻿<-1-1-START->
+Díaz de Montalvo, Alonso
+<-1-1-STOP->
+
+<-1-2-START->
+Repertorium quaestionum super Nicolaum de Tudeschis
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Widmungsbrief des Autors an Petrus Gundisalvus de Mendoza<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Nürnberg: Anton Koberger, um 1485]
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 385 ungezählte Seiten; 42 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_D-124.html<-L-5-STOP-><-VI-5-START->BSB-Ink D-124<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW08305.htm<-L-5-STOP-><-VI-5-START->GW 08305<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/id00174000<-L-5-STOP-><-VI-5-START->ISTC id00174000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+194 von 194 Blättern, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun, Ziege) mit Schliessen sowie Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Johannes Büchler; Kloster Thorberg
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116909043105511<-L-11-STOP-><-VI-11-START->MUE Inc I 13<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991139571699705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Díaz de Montalvo, Alonso<-P-STOP->
+<-P-START->Ludovicus de Campis<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Nürnberg<-O-STOP->
+<-P-START->Koberger, Anton<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Büchler, Johannes<-P-STOP->
+<-P-START->Kloster Thorberg<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991139571699705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 13<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05139nam a2200577 c 4500
+001 991139571699705501
+005 20211215202855.0
+008 170803s1485    gw |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/03.08.2017/B404/faf    
+035      |a (swissbib)071785892-41slsp_network    
+035      |a 071785892    |9 ExL    
+035      |a (IDSBB)006719176DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991139571699705501    
+035      |a (41SLSP_UBE)99116909043105511    |9 (41SLSP_UBE)99116909043105511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Díaz de Montalvo, Alonso    |d 1405-1499    |0 (DE-588)100380425    |e Verfasser    |4 aut    
+240 1 0  |a Repertorium quaestionum super Nicolaum de Tudeschis    
+245 1 0  |a Repertorium siue tabula notabiliu[m] questionum articulo[rum]: dictorum. et de omnib[us] his que ex copiosissime dictis doctoru[m] signanter Reuerendissimi in chr[ist]o patris [et] domini: d[omi]ni Nicolai archiepiscopi panormi. olim Abbatis siculi vtiliora saltim atq[ue] in iuris practica magis necessaria dinoscunt[ur]    |c a reuere[n]dissimo d[omi]no d[omi]no Al. de montaluo sacro[rum] canonum p[ro]fessore Serenissimiq[ue] d[omi]ni Ferdina[n]di regis castelle auditore referendario atq[ue] co[n]siliario dignissimi edita. Ab eximio quoq[ue] viro domino Ludouico de campis eorundem Canonu[m]. necnon sacratissimaru[m] legum doctore celeberrimo diligenter visa. curiose masticata. salubriterq[ue] digesta. necnon suis in loc[is] diligentissimis addit[i]onibus admodum aucta    
+246 1    |i Explicit    |a Finit rep[er]torium panormitani    
+246 1 0  |a Repertorium Panormitani    
+246 1    |i Titel in normalisierter Form    |a Repertorium sive tabula notabilium questionum, articulorum, dictorum et de omnibus his que ex copiosissime dictis doctorum signanter reverendissimi in Christo patris et domini domini Nicolai archiepiscopi Panormi, olim abbatis Siculi, utiliora saltim atque in iuris practica magis necessaria dinoscuntur    
+264   1  |a [Nürnberg]    |b [Anton Koberger]    |c [um 1485]    
+300      |a 1 ungezähltes Blatt, 385 ungezählte Seiten    |c 42 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Widmungsbrief des Autors an Petrus Gundisalvus de Mendoza und Inhaltsverzeichnis    
+500      |a Keine Titelseite, Titel gemäss Incipit    
+500      |a Impressum gemäss BSB-Ink und GW    
+500      |a Signaturformel: [a–l⁸, m⁶, n–p⁸, q-r⁶, s–z⁸, A-B⁸]    
+500      |a Blatt [a₁] ist unbedruckt    
+510 4    |a BSB-Ink    |c D-124    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_D-124.html    
+510 4    |a GW    |c 08305    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW08305.htm    
+510 4    |a ISTC    |c id00174000    |u http://data.cerl.org/istc/id00174000    
+530      |a Digitalisat (Exemplar der Universitäts- und Landesbibliothek Darmstadt)    |u http://tudigit.ulb.tu-darmstadt.de/show/inc-v-153    
+561      |a Handschriftlicher Besitzvermerk auf vorderem Spiegel: "Liber Cartusie[nsium] In Torrberg/ p[ro]ueniens a Reuerendo M[a]g[ist]ro Joanne Büchler d[e] Herre[n]berg plebanus ac d[e]canus In Walkringenn"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun, Ziege) mit Schliessen sowie Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, Pergamentschild aus Thorberg auf Rücken: "Rep[er]toriu[m] s:pano:. LXI"    
+563      |a Vorsätze: Vorne und hinten ohne fliegendes Blatt    
+563      |a Masse Einband: 41.6 x 29.7 x 5.6 cm    
+563      |a Zustand Einband: Loch mit Rostspuren am Rückdeckel von vormaliger Ankettung, Schäden am Einbandleder, Lederüberklebungen am Rücken und den Ecken    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 194 von 194 Blättern, handschriftliche Lagensignatur in Tinte (grösstenteils abgeschnitten), Papierfalz vor Blatt [a₁] und hinter Blatt [B₈] aus Vorsatzkonstruktion, rot ausgezeichnete Initialen, vorgesehene Stelle für grosse Initiale auf Blatt [a₂] recto frei gelassen, Rubrizierung    
+590      |a Zustand Buchblock: Teilweise Verschwärzung an rotem Farbmittel (z.B. Blatt [a₂] recto), vereinzelt Verbräunungen, Schädlingsfrass an letzten Blättern    
+590      |a Historische Signatur auf vorderem Spiegel: "Jur: Pol: N: 28."; auf Blatt [a₂] recto : "Jur. Pol 42"    
+590      |a Frühere Signatur: Inc 7    
+700 0    |a Ludovicus    |c de Campis    |d ca. 15. Jh.    |0 (DE-588)1137633026    |e Herausgeber    |4 edt    
+700 1    |a Koberger, Anton    |d 1440-1513    |0 (DE-588)118563890    |e Drucker    |4 prt    
+700 1    |a Büchler, Johannes    |d 1450-1521    |0 (DE-588)1113671742    |e Früherer Eigentümer    |4 fmo    
+700 1 2  |a Díaz de Montalvo, Alonso    |d 1405-1499    |t Repertorium quaestionum super Nicolaum de Tudeschis    |0 (DE-588)113758615X    
+710 2    |a Kloster Thorberg    |0 (DE-588)7725716-9    |e Früherer Eigentümer    |4 fmo    
+751      |a Nürnberg    |0 (DE-588)4042742-0    
+852 4    |b B404    |c 404U3    |j MUE Inc I 13    |9 (41SLSP_UBE)99116909043105511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc I 13    |b B404    |9 (41SLSP_UBE)99116909043105511    
+986      |a (41SLSP_UBE)99116909043105511    |9 (41SLSP_UBE)99116909043105511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116909043105511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

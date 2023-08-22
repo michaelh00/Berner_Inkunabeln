@@ -1,0 +1,154 @@
+﻿<-1-1-START->
+Vinzenz von Beauvais
+<-1-1-STOP->
+
+<-1-2-START->
+Speculum naturale
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Straßburg: Drucker der Legenda aurea, nicht nach 13.12.1481]
+<-500-START->Proctor schrieb den Druck Anton Koberger in Nürnberg zu (1486), BMC II nach Basel (Johann Amerbach?) und BMC III nach Straßburg. Typen des Druckers der Legenda Aurea, der gemäss Sack möglicherweise als Lohndrucker für Koberger tätig wurde<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+2 Bände; 50 cm (2°)
+<-500-START->Band 1: 1 ungezähltes Blatt, 638 ungezählte Seiten; Band 2: 1 ungezähltes Blatt, 559 ungezählte Seiten, 1 ungezähltes Blatt<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_V-207.html<-L-5-STOP-><-VI-5-START->BSB-Ink V-207<-VI-5-STOP->; <-L-5-START->http://gesamtkatalogderwiegendrucke.de/docs/M50625.htm<-L-5-STOP-><-VI-5-START->GW M50625<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/iv00293000<-L-5-STOP-><-VI-5-START->ISTC iv00293000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+Band 1: 320 von 320 Blättern, Band 2: 282 von 282 Blättern, rot und rot-gold ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+2 ganzbezogene Ledereinbände auf Holzdeckeln (braun, Kalb) mit Schliessen sowie Mittel- und Eckbeschlägen und Spuren einer Kettenöse am oberen Rand der Rückdeckel, Linien- und Ornamentstempel-Blindprägung auf den Vorderdeckeln, Linien-Blindprägung auf den Rückdeckeln, Buchbinder: Johannes Vatter
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Dominikanerkloster Bern
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116927801205511<-L-11-STOP-><-VI-11-START->MUE Inc I 6<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991138918919705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Vinzenz von Beauvais<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Nürnberg<-O-STOP->
+<-P-START->Koberger, Anton<-P-STOP->
+<-O-START->Basel<-O-STOP->
+<-P-START->Amerbach, Johannes<-P-STOP->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Drucker der Legenda aurea von 1481<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-P-START->Vatter, Johannes<-P-STOP->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Dominikanerkloster Bern<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991138918919705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 6<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06693nam a2200685 ca4500
+001 991138918919705501
+005 20211221090335.0
+008 800712s1481    fr            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/10.09.2013/B400/vha    
+035      |a (swissbib)066212731-41slsp_network    
+035      |a 066212731    |9 ExL    
+035      |a (IDSBB)006168550DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991138918919705501    
+035      |a (41SLSP_UBE)99116927801205511    |9 (41SLSP_UBE)99116927801205511    
+040      |a ISTC    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Vinzenz    |c von Beauvais    |d 1190-1264    |0 (DE-588)118627163    |e Verfasser    |4 aut    
+240 1 0  |a Speculum naturale    
+245 1 0  |a Incipit speculum naturale Vincentij beluacensis fratris ordinis predicatoru[m]    
+246 1    |i Titel in normalisierter Form    |a Incipit speculum naturale Vincentii Belvacensis fratris ordinis predicatorum    
+264   1  |a [Strassburg]    |b [Drucker der Legenda aurea]    |c [nicht nach 13.12.1481]    
+300      |a 2 Bände    |c 50 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Inhaltsverzeichnis    
+500      |a Keine Titelseite, Titel gemäss Incipit    
+500      |a Impressum gemäss BSB-Ink und ISTC    
+500      |a Proctor schrieb den Druck Anton Koberger in Nürnberg zu (1486), BMC II nach Basel (Johann Amerbach?) und BMC III nach Strassburg. Typen des Druckers der Legenda Aurea, der gemäss Sack möglicherweise als Lohndrucker für Koberger tätig wurde    
+500      |a Zur Datierung: In der BSB München ein Exemplar mit Rubrikatorenvermerk vom 13. Dezember 1481    
+500      |a Umfang Band 1: 1 ungezähltes Blatt, 638 ungezählte Seiten; Band 2: 1 ungezähltes Blatt, 559 ungezählte Seiten, 1 ungezähltes Blatt    
+500      |a Signaturformel Band 1: [a–d¹⁰, e–z⁸, A–B¹⁰, C–M⁸, N¹⁰, O⁸, P¹⁰]; Band 2: [aa–yy⁸, zz⁶, AA–LL⁸, MM–NN⁶]    
+500      |a Die Blätter [a₁], [b₁₀], [aa₁] und [NN₆] sind unbedruckt    
+510 4    |a BSB-Ink    |c V-207    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_V-207.html    
+510 4    |a GW    |c M50625    |u http://gesamtkatalogderwiegendrucke.de/docs/M50625.htm    
+510 4    |a ISTC    |c iv00293000    |u http://data.cerl.org/istc/iv00293000    
+530      |a Digitalisat Band 1 (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/0007/bsb00072896/images    
+530      |a Digitalisat Band 2 (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/0007/bsb00072903/images    
+561      |a Aus dem Besitz des Dominikanerklosters Bern    
+563      |a Einbandbeschreibung: 2 ganzbezogene Ledereinbände auf Holzdeckeln (braun, Kalb) mit Schliessen sowie Mittel- und Eckbeschlägen und Spuren einer Kettenöse am oberen Rand der Rückdeckel, Linien- und Ornamentstempel-Blindprägung auf den Vorderdeckeln und den Rücken (Rückdeckel nur Linienprägung), Pergament-Titelschilder in Tintenschrift auf den Vorderdeckeln: "P[ri]ma [-secu[n]da] p[ar]s speculi na[tura]l[is] eximij doctoris fr[atr]is vincencij beluacens[is] o[r]di[ni]s fr[atru]m predi[catorum]" (mit leichten Abweichungen bei Band 2), auf den Rücken neuere Titelschilder aus Papier mit handschriftlichem Titel: "Vincentino Bellovacensis Speculum. nat 1486 I [-II]", darunter handschriftlich in Tinte: "Norimbg.", auf Band 2 auch "1486"    
+563      |a Vorsätze: Band 1 vorne ohne und hinten mit einem fliegenden Blatt, Band 2 vorne und hinten ohne fliegendes Blatt; in Band 2 hinten Pergamentmakulatur mit Notenhandschrift (Quadratnotation, 15. Jh.) als Ansatzfalz verwendet    
+563      |a Masse Einbände: 50 x 35 x 12 cm (Band 1), 49.7 x 35 x 10.3 cm (Band 2)    
+563      |a Zustand Einbände: Eingelassene Holzleisten aus der Deckelverstärkung zum Teil gedehnt und über Vorderkanten ragend (Einbandleder an diesen Stellen eingerissen), Löcher mit Rostspuren von vormaliger Ankettung, Schliessenriemen und Hakenteile der Schliessen ergänzt (Band 2), rote und grüne Unterlegung der Beschläge ergänzt bzw. neu eingefärbt, Leder-Überklebungen an den Rücken, Titelschilder am Rücken ergänzt, Vorsätze aus Makulaturpergament heraus gelöst, Verbindung zwischen Deckeln und Buchblock mit Japanpapierfälzen verstärkt (Band 1) und Spiegel aus Papier eingefügt (Band 2)    
+563      |a Gemäss Johann Lindt (Berner Einbände, Buchbinder und Buchdrucker, Bern 1969) Einbände des Berner Dominikanermönchs Johannes Vatter    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: Band 1: 320 von 320 Blättern, Band 2: 282 von 282 Blättern, handschriftliche Lagensignatur in Tinte (teilweise abgeschnitten), Foliierung in Graphit, in Band 1 Papierfalz zwischen Lagen [O] und [P] von Vorsatzkonstruktion, rot und rot-gold ausgezeichnete Initialen, Rubrizierung    
+590      |a Bindefehler: Zweites und drittes Doppelblatt der Lage [t] vertauscht    
+590      |a Signaturformel der handschriftlichen Lagensignatur: Band 1: a–d¹⁰, e–s⁸, ß⁸, t-y⁸, z¹⁰, 1a¹⁰, 1b–1l⁸, 1m¹⁰, 1n⁸, 1o¹⁰; Band 2: A–Y⁸, Z⁶, Aa–Ll⁸, Mm–Nn⁶    
+590      |a Wenige handschriftliche Annotationen und Unterstreichungen in Tinte und Graphit (z.B. Blatt [s₄] (148) recto)    
+590      |a Auf Blatt [aa₁] (1) in Band 2 Tintenabklatsch (Leimspuren) von Fragmenten einer karolingischen Handschrift (ca. 9.-11. Jh.)    
+590      |a Frühere Signatur: Inc 56    
+590      |a Einbandfragmente aus diesen Bänden in der Burgerbibliothek, Signatur BBB Cod. 756.60 (Homiliensammlung, 5 Doppelblätter, 7 Fragmente, handschriftlich, Pergament, lateinisch, 10./11. Jh.)    
+700 1    |a Koberger, Anton    |d 1440-1513    |0 (DE-588)118563890    |e Drucker    |4 prt    
+700 1    |a Amerbach, Johannes    |d 1440-1513    |0 (DE-588)123073189    |e Drucker    |4 prt    
+700 1    |a Vatter, Johannes    |d 1470-1509    |0 (DE-588)1114426377    |e Buchbinder    |4 bnd    
+700 0 2  |a Vinzenz    |c von Beauvais    |d 1190-1264    |t Speculum naturale    |0 (DE-588)1114415146    
+700 0    |a Drucker der Legenda aurea von 1481    |d ca. 15. Jahrhundert    |0 (DE-588)1181818419    |e Drucker    |4 prt    
+710 2    |a Dominikanerkloster Bern    |0 (DE-588)4302674-6    |e Früherer Eigentümer    |4 fmo    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+751      |a Nürnberg    |0 (DE-588)4042742-0    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc I 6    |9 (41SLSP_UBE)99116927801205511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |h MUE Inc I 6 : 1    |q Pars 1    |p 12    |j MUE Inc I 6    |b B404    |9 (41SLSP_UBE)99116927801205511    
+949      |c 404U3    |h MUE Inc I 6 : 2    |q Pars 2    |p 12    |j MUE Inc I 6    |b B404    |9 (41SLSP_UBE)99116927801205511    
+986      |a (41SLSP_UBE)99116927801205511    |9 (41SLSP_UBE)99116927801205511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116927801205511    
+991      |a AAK: 928399    |5 IZ UBE/10.09.2013/B400/vha    |9 local    |9 (41SLSP_UBE)99116927801205511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

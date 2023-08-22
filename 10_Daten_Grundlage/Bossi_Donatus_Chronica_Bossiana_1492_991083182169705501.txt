@@ -1,0 +1,142 @@
+﻿<-1-1-START->
+Bossi, Donatus
+<-1-1-STOP->
+
+<-1-2-START->
+Chronica Bossiana; Series episcoporum et archiepiscoporum Mediolanensium
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Widmungsbrief des Autors an Gian Galeazzo, Herzog von Mailand<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Mailand: Antonio Zarotto für Donatus Bossi, 01.03.1492
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt Tafeln, 333 ungezählte Seiten: 1 Illustration; 33 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-758.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-758<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW04952.htm<-L-5-STOP-><-VI-5-START->GW 04952<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib01040000<-L-5-STOP-><-VI-5-START->ISTC ib01040000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+167 von 168 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener einteiliger Kartoneinband (chamois, Papier, 17. Jahrhundert) mit Spuren vormaliger Verschlussbänder (Leder)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Blatt l₆ grösstenteils herausgerissen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116800003105511<-L-11-STOP-><-VI-11-START->MUE Bong V 930<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991083182169705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Bossi, Donatus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Mailand<-O-STOP->
+<-P-START->Zarotto, Antonio<-P-STOP->
+<-O-START->Mailand<-O-STOP->
+<-P-START->Bossi, Donatus<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991083182169705501<-DOI-STOP->
+<-SIGN-START->MUE Bong V 930<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04692nam a2200577 c 4500
+001 991083182169705501
+005 20211215184128.0
+008 100426s1492    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/26.07.2018/B404/faf    
+035      |a (swissbib)060846003-41slsp_network    
+035      |a 060846003    |9 ExL    
+035      |a (IDSBB)005219773DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991083182169705501    
+035      |a (41SLSP_UBE)99116800003105511    |9 (41SLSP_UBE)99116800003105511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Bossi, Donatus    |d 1436-1502    |0 (DE-588)104274743    |e Verfasser    |4 aut    
+245 1 0  |a Chronica Bossiana    |b Donati Bossii Causidici: & ciuis Mediolane[n]sis: gesto[rum]: dictorumq[ue] memorabilium: & tempo[rum]: ac co[n]ditionu[m]: & mutationum humanarum: ab orbis initio: usq[ue] ad eius tempora: Liber ad Illustrissmu[m] principem Ioannem Galeazium: Mediolanensium Ducem sextum    
+246 1    |i Titel in normalisierter Form    |a Chronica Bossiana    |b Donati Bossii causidici & civis Mediolanensis gestorum dictorumque memorabilium & temporum ac conditionum & mutationum humanarum ab orbis initio usque ad eius tempora liber ad illustrissmum principem Ioannem Galeazium Mediolanensium ducem sextum    
+246 1    |i Titel gemäss BSB-Ink, GW und ISTC    |a Chronica    
+264   1  |a Hoc opus impressum fuit in inclyta ciuitate Mediolani    |b p[er] solertissimum artis impressorie magistrum Antonium Zarotum parmensem    |b Ad impensas probi uiri domini Donati Bossii ciuis Mediolanensis: & causidici accuratissimi: auctorisque huius pulcherrimi operis    |c Anno salutis christiane. Mcccc.Lxxxxii. calendis Martiis [01.03.1492]    
+300      |a 1 ungezähltes Blatt Tafeln, 333 ungezählte Seiten    |b 1 Illustration    |c 33 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Widmungsbrief des Autors an Gian Galeazzo, Herzog von Mailand, und seiner "Series episcoporum et archiepiscoporum Mediolanensium"    
+500      |a Keine Titelseite, nur Kopftitel    
+500      |a Bei der Illustration handelt es sich um eine rot gedruckte genealogische Tafel unter dem Titel: "Geneologia Vicecomitum Principum Mediolani descendentium de Inuorio Ducatus Mediolani"    
+500      |a Signaturformel: a–r⁸, s¹⁰, t⁶, u⁸, x-y⁴    
+505 0 0  |g Omnes Episcopi & Archiepiscopi Mediolani    
+510 4    |a BSB-Ink    |c B-758    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-758.html    
+510 4    |a GW    |c 04952    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW04952.htm    
+510 4    |a ISTC    |c ib01040000    |u http://data.cerl.org/istc/ib01040000    
+530      |a Digitalisat (Exemplar der Herzog August Bibliothek Wolfenbüttel)    |u http://diglib.hab.de/inkunabeln/85-hist-2f/start.htm    
+561      |a Handschriftlicher Besitzvermerk auf Blatt a₂ recto: "Bongars"    
+563      |a Einbandbeschreibung: Halbbezogener einteiliger Kartoneinband (chamois, Papier, 17. Jh.) mit Spuren vormaliger Verschlussbänder (Leder)    
+563      |a Vorsätze: Vorne und hinten ohne fliegende Blätter    
+563      |a Masse Einband: 32.5 x 23.4 x 3.4 cm    
+563      |a Zustand Einband: Grossflächige Japanpapierüberklebungen an den Deckelecken und dem Rücken sowie den Spiegeln, Japanpapierüberklebungen in den Fälzen vorne und hinten, Verschlussbänder fehlend    
+590      |a Buchblockbeschreibung: 167 von 168 Blättern, vorgesehene Stellen für Initialen frei gelassen    
+590      |a Zustand Buchblock: Zahlreiche Japanpapierergänzungen an den Blättern der ersten Lagen (Textverlust in der Tafel auf Blatt a₁ verso), massive Feuchtigkeitsränder in den oberen Blatthälften, Schimmelverfleckungen an den letzten Blättern und dem hinteren Spiegel    
+590      |a Unvollständiges Exemplar: Blatt l₆ grösstenteils herausgerissen    
+590      |a Nicht identifizierter Besitzvermerk in Tinte auf Blatt a₂ recto    
+590      |a Handschriftliche Korrektur in Tinte auf Blatt f₁ recto    
+590      |a Historische Signatur auf Blatt a₁ verso: "Hist: Prof: 325.", Zahl korrigiert zu "219."    
+590      |a Frühere Signaturen: Inc 297; Inc III 14; XIV 15    
+700 1    |a Zarotto, Antonio    |0 (DE-588)133182452    |e Drucker    |4 prt    
+700 1    |a Bossi, Donatus    |d 1436-1502    |0 (DE-588)104274743    |e Verlag    |4 pbl    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 1 2  |a Bossi, Donatus    |d 1436-1502    |t Chronica Bossiana    |0 (DE-588)1163401617    
+700 1 2  |a Bossi, Donatus    |d 1436-1502    |t Series episcoporum et archiepiscoporum Mediolanensium    |0 (DE-588)1163401900    
+751      |a Mailand    |0 (DE-588)4037100-1    
+852 4    |b B404    |c 404U3    |j MUE Bong V 930    |9 (41SLSP_UBE)99116800003105511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc III 14    |c 404U3    |p 12    |j MUE Bong V 930    |b B404    |9 (41SLSP_UBE)99116800003105511    
+986      |a (41SLSP_UBE)99116800003105511    |9 (41SLSP_UBE)99116800003105511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116800003105511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116800003105511    
+991      |a Bongars: 01781    |5 IZ UBE/B400/26.04.2010    |9 LOCAL    |9 (41SLSP_UBE)99116800003105511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

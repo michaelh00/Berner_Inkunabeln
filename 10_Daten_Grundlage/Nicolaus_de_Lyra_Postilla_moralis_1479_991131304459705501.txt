@@ -1,0 +1,137 @@
+﻿<-1-1-START->
+Nicolaus de Lyra
+<-1-1-STOP->
+
+<-1-2-START->
+Postilla moralis super totam bibliam
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Strassburg: Georg Husner, um 1479]
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 448 ungezählte Seiten, 1 ungezähltes Blatt; 41 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_N-121.html<-L-5-STOP-><-VI-5-START->BSB-Ink N-121<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M26489.htm<-L-5-STOP-><-VI-5-START->GW M26489<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/in00112000<-L-5-STOP-><-VI-5-START->ISTC in00112000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+224 von 226 Blättern, rot ausgezeichnete Initialen, Anfangsinitiale rot und blau ausgezeichnet; Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf 18./19. Jahrhundert) mit Sprenkelpapier (braun)
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116762108605511<-L-11-STOP-><-VI-11-START->MUE Inc III 3<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991131304459705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Nicolaus de Lyra<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Husner, Georg<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991131304459705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 3<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04964nam a2200601 c 4500
+001 991131304459705501
+005 20211215193938.0
+008 170626s1479    fr |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/26.06.2017/B404/vha    
+035      |a (swissbib)070507643-41slsp_network    
+035      |a 070507643    |9 ExL    
+035      |a (IDSBB)006709666DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991131304459705501    
+035      |a (41SLSP_UBE)99116762108605511    |9 (41SLSP_UBE)99116762108605511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Nicolaus    |c de Lyra    |d 1270-1349    |0 (DE-588)119238683    |e Verfasser    |4 aut    
+240 1 0  |a Postilla moralis super totam bibliam    
+245 1 0  |a Expliciunt postille morales seu mistice sup[er] omnes libros sacre scripture    |b exceptis aliquib[us] qui no[n] videba[n]tur tali exposit[i]o[n]e indigere    |c Igit ego frat[er] nicola[us] de lyra d[e] ordine frat[rum] mino[rum] deo gratias ago qui dedit mihi gr[ati]am hoc op[us] incipiendi [e]t p[ro]ficie[n]di a[n]no d[omi]ni .m.ccc.xxxix. in die sancti geor[g]ii martiris ...    
+246 1 0  |a Moralia super totam bibliam fratris nicolai de lira de ordine fratru[m] minorum sacre theologie venerabilis doctoris    
+246 1 0  |a Postillae morales seu mystice super omnes libros sacrae scripturae    
+246 1 0  |a Postille morales seu mistice sup[er] omnes libros sacre scripture    
+246 1    |i Incipit    |a Incipiunt moralia super totam bibliam fratris nicolai de lira de ordine fratru[m] minorum sacre theologie venerabilis doctoris    
+246 1    |i Kolophon    
+246 1    |i Titel gemäss GW und ISTC    |a Moralia super totam Bibliam    
+246 1    |i Titel in moderner Orthografie    |a Expliciunt postillae morales seu mystice super omnes libros sacrae scripturae    
+246 1    |i Titel in normalisierter Form    
+264   1  |a [Strassburg]    |b [Georg Husner]    |c [ca. 1479]    
+300      |a 1 ungezähltes Blatt, 448 ungezählte Seiten, 1 ungezähletes Blatt    |c 41 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss Explicit    
+500      |a Impressum gemäss BSB-Ink, GW und ISTC    
+500      |a Signaturformel: [a¹⁰, b-g⁸, h⁶, i-p⁸, q⁶, r¹⁰, s-x⁸, y⁶, z¹⁰, A-D⁸, E¹⁰]    
+500      |a Signaturformel gemäss GW; Blätter [a₁] und [E₁₀] (erstes und letztes Blatt) unbedruckt    
+500      |a Signaturformel gemäss BSB-Ink zählt Lagen [a-q] und [A-M]; auf Blatt [A₁] (= [r₁] in GW): "Incipit postilla moralis magistri nicolai de lira super esaiam prophetam"    
+510 4    |a BSB-Ink    |c N-121    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_N-121.html    
+510 4    |a GW    |c M26489    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M26489.htm    
+510 4    |a ISTC    |c in00112000    |u http://data.cerl.org/istc/in00112000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00075811/image_5    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf 18./19. Jahrhundert) mit Sprenkelpapier (braun), Linien-Blindprägung sowie Titelschild in Goldprägung auf dem Rücken: "Nic: De Lira Moralis Sup: Tot: Bibliam", darunter in Tinte: "sec XV"    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 41 x 30.5 x 5 cm    
+563      |a Zustand Einband: Einbandleder mit zahlreichen Kratzern, Fragmente am Einbandleder zurück geklebt    
+590      |a Buchblockbeschreibung: 224 von 226 Blättern, handschriftliche Lagensignatur in Graphit (entspricht GW), jeweils auf der ersten Recto-Seite jeder Lage unten rechts, bei Lage [a] auf Blatt [a₂]; an wenigen Stellen ältere handschriftliche Lagensignatur in Tinte sichtbar; Papierfalz zwischen Blatt [a₉] und [a₁₀] von Vorsatzkonstruktion; rot ausgezeichnete Initialen, Anfangsinitiale (Blatt [a₂] recto) rot und blau ausgezeichnet; Rubrizierung (in den Psalmen jeder zweite Vers rot unterstrichen)    
+590      |a Zustand Buchblock: Feuchtigkeitsränder, Abklatsch an ausgezeichneten Initialen mit vereinzelten Fehlstellen im Farbauftrag (zum Beispiel Anfangsinitiale)    
+590      |a Blätter [a₁] und [E₁₀] (beide unbedruckt) fehlen    
+590      |a Handschriftliche Lagensignatur in Tinte sichtbar auf den Blättern [h₃], [h₄], [p₅] (nur oberer Rand), [s₄] (oberer Rand), [s₅], [B₄] und [B₅] (in Tinte als "y4" und "y5" - von y5 nur oberer Rand - bezeichnet); sonst wohl durch Beschnitt verloren    
+590      |a In den Psalmen einz    
+590      |a Frühere Signatur: Inc 13    
+700 1    |a Husner, Georg    |d 14XX-1505    |0 (DE-588)136216064    |e Drucker    |4 prt    
+700 1 2  |a Nicolaus de Lyra    |d 1270-1349    |t Postilla moralis super totam bibliam    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Inc III 3    |9 (41SLSP_UBE)99116762108605511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc III 3    |b B404    |9 (41SLSP_UBE)99116762108605511    
+986      |a (41SLSP_UBE)99116762108605511    |9 (41SLSP_UBE)99116762108605511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116762108605511    
+991      |a AAK: 646362    |5 IZ UBE/26.06.2017/B404/vha    |9 LOCAL    |9 (41SLSP_UBE)99116762108605511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

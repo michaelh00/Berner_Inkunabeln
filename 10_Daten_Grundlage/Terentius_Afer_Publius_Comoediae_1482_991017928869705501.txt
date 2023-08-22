@@ -1,0 +1,148 @@
+﻿<-1-1-START->
+Terentius Afer, Publius
+<-1-1-STOP->
+
+<-1-2-START->
+Comoediae
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Kommentar von Aelius Donatus und (zum Heautontimorumenos) Giovanni Calfurnio sowie der Vita Terentii des Donatus<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: [Battista Torti], 06.03.1482
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 310 ungezählte Seiten; 29 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_T-90.html<-L-5-STOP-><-VI-5-START->BSB-Ink T-90<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M45579.htm<-L-5-STOP-><-VI-5-START->GW M45579<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/it00080300<-L-5-STOP-><-VI-5-START->ISTC it00080300<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+153 von 156 Blättern, rot und blau ausgezeichnete Initialen (teils mit teilweise grün eingefärbten Federzeichungen), Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun marmoriert, Schaf, 18. Jahrhundert), gezogene Blindlinien auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Fournier; Pierre Daniel; Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Die Blätter a₁ und i₃-i₄ fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116725296205511<-L-11-STOP-><-VI-11-START->MUE Bong VI 257<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991017928869705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Terentius Afer, Publius<-P-STOP->
+<-P-START->Donatus, Aelius<-P-STOP->
+<-P-START->Calfurnio, Giovanni<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Torti, Battista<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-P-START->Daniel, Pierre<-P-STOP->
+<-P-START->Fournier<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991017928869705501<-DOI-STOP->
+<-SIGN-START->MUE Bong VI 257<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04664nam a2200625 c 4500
+001 991017928869705501
+005 20211215165848.0
+008 100802s1482    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/02.08.2010    
+035      |a (swissbib)062221698-41slsp_network    
+035      |a 062221698    |9 ExL    
+035      |a (IDSBB)005286506DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991017928869705501    
+035      |a (41SLSP_UBE)99116725296205511    |9 (41SLSP_UBE)99116725296205511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Terentius Afer, Publius    |d v195-v159    |0 (DE-588)118621335    |e Verfasser    |4 aut    
+245 1 0  |a [Comoediae]    
+246 1    |i Incipit    |a Terentii Vita. Pvblivs Terentivs Afer Carthagine Natvs ...    
+246 1    |i Incipit in normalisierter Form    |a Terentii vita. Publius Terentius Afer Carthagine natus ...    
+264   1  |a Venetiis    |b [Battista Torti]    |c M.CCCC.LXXXII. Die VI. Martii [06.03.1482]    
+300      |a 1 ungezähltes Blatt, 310 ungezählte Seiten    |c 29 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Kommentar von Aelius Donatus und (zum Heautontimorumenos) Giovanni Calfurnio sowie der Vita Terentii des Donatus    
+500      |a Keine Titelseite, Titel gemäss GND    
+500      |a Druckort und Druckdatum gemäss Kolophon    
+500      |a Drucker gemäss BSB-Ink, GW und ISTC    
+500      |a Signaturformel: a–b⁸, c–z⁶, &⁶, [con]⁸    
+500      |a Blatt a₁ ist unbedruckt    
+510 3    |a BSB-Ink    |c T-90    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_T-90.html    
+510 4    |a GW    |c M45579    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M45579.htm    
+510 4    |a ISTC    |c it00080300    |u http://data.cerl.org/istc/it00080300    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/0006/bsb00061761/images    
+561      |a Handschriftliche Besitzvermerke auf Blatt a₂ recto: "Petri Danielis Aurel." (auch auf Blatt [con]₈ verso), "Bongarsii", "Fournier"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun marmoriert, Schaf, 18. Jh.), gezogene Blindlinien auf beiden Deckeln, Linien-Goldprägung und Titelschild in Goldprägung auf dem Rücken: "Terentius 1482"    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 28.8 x 21.7 x 2.6 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, Fragmente am Rücken verklebt, Falzverstärkung (Japanpapierfälze) an beiden Vorsätzen    
+590      |a Buchblockbeschreibung: 153 von 156 Blättern, Falz nach Blatt a₆ und zwischen den Lagen & und [con] gehört zur Vorsatzkonstruktion, rot und blau ausgezeichnete Initialen (teils mit teilweise grün eingefärbten Federzeichungen), Rubrizierung (rote und blaue Paragraphenzeichen)    
+590      |a Zustand Buchblock: Buchblock mit zahlreichen Schäden: Schimmelverfleckungen und geschwächte Papierbereiche an unteren Blattkanten der Lagen a und b, zum Teil massive Feuchtigkeitsränder, Abrieb und Schäden vor allem am blauen Farbmittel, Papierüberklebungen an Fehlstellen des Blattes a₂, Lagenkonstruktion stark bearbeitet: Lagen a und b mit Fälzen zum Teil aus Einzelblättern zusammengeklebt (Fälze liegen über den Tintenannotationen)    
+590      |a Unvollständiges Exemplar: Die Blätter a₁ und i₃-i₄ fehlen    
+590      |a Bindefehler: Die Blätter a₇ und a₈ sind in umgekehrter Reihenfolge eingebunden    
+590      |a Zahlreiche Annotationen in Tinte von Pierre Daniel; einige Federzeichnungen und weitere Annotationen in Tinte von unbekannter Hand    
+590      |a Historische Signatur auf Blatt a₂ recto: "Poet 63"    
+590      |a Frühere Signaturen: Inc III 28; Inc 175; XIIX 7    
+700 1    |a Donatus, Aelius    |d ca. 4. Jh.    |0 (DE-588)118526715    |e Kommentarverfasser    |e Verfasser    |4 wac    |4 aut    
+700 1    |a Calfurnio, Giovanni    |d 1443-1503    |0 (DE-588)123089573    |e Kommentarverfasser    |4 wac    
+700 1    |a Torti, Battista    |0 (DE-588)134140680    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Daniel, Pierre    |d 1530-1603    |0 (DE-588)101087934    |e Früherer Eigentümer    |e Annotierende Person    |4 fmo    |4 ann    
+700 1    |a Fournier    |e Früherer Eigentümer    |4 fmo    
+700 1 2  |a Terentius Afer, Publius    |d v195-v159    |t Comoediae    |0 (DE-588)4251327-3    
+700 1 2  |a Donatus, Aelius    |d ca. 4. Jh.    |t Vita Terentii    |0 (DE-588)4558956-2    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Bong VI 257    |9 (41SLSP_UBE)99116725296205511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc III 28    |c 404U3    |p 12    |j MUE Bong VI 257    |b B404    |9 (41SLSP_UBE)99116725296205511    
+986      |a (41SLSP_UBE)99116725296205511    |9 (41SLSP_UBE)99116725296205511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116725296205511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116725296205511    
+991      |a Bongars: 13597    |5 IZ UBE/B400/02.08.2010    |9 LOCAL    |9 (41SLSP_UBE)99116725296205511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

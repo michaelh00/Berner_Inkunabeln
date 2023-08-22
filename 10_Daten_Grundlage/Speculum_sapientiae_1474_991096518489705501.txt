@@ -1,0 +1,141 @@
+﻿<-1-1-START->
+Speculum sapientiae
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Verfasserschaft unsicher; angeblicher Autor Cyrillus Quidenon, vermutlich jedoch Bonjohannes von Messina (so gemäss BSB-Ink und ISTC)<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Strassburg: Heinrich Eggestein, nicht nach 1474]
+<-3-1-STOP->
+
+<-4-1-START->
+84 ungezählte Seiten; 29 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_B-742.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-742<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/GW07889.htm<-L-5-STOP-><-VI-5-START->GW 07889<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ic01016000<-L-5-STOP-><-VI-5-START->ISTC ic01016000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+42 von 42 Blättern, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert) mit Sprenkelpapier
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 2 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116926810305511<-L-11-STOP-><-VI-11-START->MUE Bong I 510 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991096518489705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Cyrillus Quidenon<-P-STOP->
+<-P-START->Bonjohannes von Messina<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Eggestein, Heinrich<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991096518489705501<-DOI-STOP->
+<-SIGN-START->MUE Bong I 510 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04192nam a2200589 c 4500
+001 991096518489705501
+005 20211215183912.0
+008 100526s1474    fr            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/26.05.2010    
+035      |a (swissbib)062442511-41slsp_network    
+035      |a 062442511    |9 ExL    
+035      |a (IDSBB)005234417DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991096518489705501    
+035      |a (41SLSP_UBE)99116926810305511    |9 (41SLSP_UBE)99116926810305511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+130 0    |a Speculum sapientiae    |0 (DE-588)4229004-1    
+245 1 0  |a Speculu[m] Sapientiae beati Cirilli episcopi[s] alias quadripertitus apologieticus vocat[us]    |b In cuius quide[m] p[ro]uerbijs/ omnis et totius sapientie speculum claret    
+246 1    |i Titel in normalisierter Form    |a Speculum sapientiae beati Cirilli episcopis, alias quadripertitus apologieticus vocatus    
+246 1    |i Explicit (Blatt [e₅] verso)    |a Speculu[m] Sapientie Beati Cirilli ep[iscop]i Al[ias] Quadripertitus. Apologieticus vocat[us]    |b In cui[us] quide[m] p[ro]uerbijs om[n]is et toti[us] sapie Speculu[m] claret    
+246 1    |i Titel gemäss BSB-Ink, GW und ISTC    |a Speculum sapientiae    
+264   1  |a [Strassburg]    |b [Heinrich Eggestein]    |c [nicht nach 1474]    
+300      |a 84 ungezählte Seiten    |c 29 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss Incipit    
+500      |a Verfasserschaft umstritten: angeblicher Autor Cyrillus Quidenon, teilweise Bonjohannes von Messina zugeschrieben, so auch gemäss BSB-Ink und ISTC    
+500      |a Druckort und Drucker gemäss BSB-Ink, GW und ISTC, Druckjahr gemäss GW und ISTC    
+500      |a Druckjahr ante quem gemäss ISTC aufgrund einer Datierung der Rubrizierung im Exemplar der Staatsbibliothek Bamberg    
+500      |a Signaturformel: [a–c¹⁰, d-e⁶]    
+510 3    |a BSB-Ink    |c B-742    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_B-742.html    
+510 4    |a GW    |c 07889    |u https://www.gesamtkatalogderwiegendrucke.de/docs/GW07889.htm    
+510 4    |a ISTC    |c ic01016000    |u http://data.cerl.org/istc/ic01016000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00071656/image_5    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert) mit Sprenkelpapier, Linien- Goldprägung sowie Titelschild auf dem Rücken    
+563      |a Vorsätze: vorne und hintern mit einem fliegenden Blatt    
+563      |a Masse Einband: 28.5 x 21.1 x 2.1 cm    
+563      |a Zustand Einband: Abspaltungen, Kratzer und Verfärbungen am Einbandleder, Retusche an Fehlstellen im Einbandpapier, Vorsätze im Falz verstärkt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 42 von 42 Blättern, handschriftliche Foliierung in Tinte (15./16. Jahrhundert), jeweils am Kopf der Recto-Seiten; handschriftliche Lagensignatur (gemäss GW) in Graphit jeweils auf der ersten Recto-Seite jeder Lage unten rechts; Papierfalz zwischen Blättern [a₁₀] und [b₁] gehört zur Vorsatzkonstruktion, rot ausgezeichnete Initialen, Rubrizierung    
+590      |a Zustand Buchblock: Pergamentverstärkungen (Makulatur) in den Lagenmitten entfernt    
+590      |a Wenige handschriftliche Annotationen in Tinte    
+590      |a Zusammengebunden mit 2 weiteren Drucken in Sammelband    
+590      |a Frühere Signaturen: Inc IV 3; Inc 44; Hortin IV 5    
+630 0 7  |a Speculum sapientiae    |0 (DE-588)4229004-1    |2 gnd    
+650   4  |a Fabel    
+700 0    |a Cyrillus    |c Quidenon    |d ca. 14. Jahrhundert    |0 (DE-588)102426910    |e Verfasser    |4 aut    
+700 0    |a Bonjohannes    |c von Messina    |d ca. 14. Jh.    |0 (DE-588)102425558    |e Verfasser    |4 aut    
+700 1    |a Eggestein, Heinrich    |d 1415-1488    |0 (DE-588)100965024    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Bong I 510 : 1    |9 (41SLSP_UBE)99116926810305511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc IV 3 : 1    |c 404U3    |z Zusammengebunden mit 2 weiteren Drucken in Sammelband    |p 12    |j MUE Bong I 510 : 1    |b B404    |9 (41SLSP_UBE)99116926810305511    
+986      |a (41SLSP_UBE)99116926810305511    |9 (41SLSP_UBE)99116926810305511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116926810305511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116926810305511    
+991      |a Bongars: 03762    |5 IZ UBE/B400/26.05.2010    |9 LOCAL    |9 (41SLSP_UBE)99116926810305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

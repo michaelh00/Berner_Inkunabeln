@@ -1,0 +1,168 @@
+﻿<-1-1-START->
+Perottus, Nicolaus
+<-1-1-STOP->
+
+<-1-2-START->
+Rudimenta grammatices; De generibus metrorum; De Horatii ac Boethii metris. — Delphus, Egidius: Regulae de nominum declinationibus. — Hippocrates: Iusiurandum. — Guarinus Veronensis: Ars diphthongandi. — De arte epistulandi
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Brief des Herausgebers Paul Haemmerlin (Paulus Malleolus) an Egidius Delphus und Widmung von Nicolaus Perottus an den Neffen, Pyrrhus Perottus<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Basel: Jacobus Wolff, zwischen 1497 und 1500]
+<-500-START->Druckdatum gemäss ISTC; BSB-Ink: circa 1499-1500<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+CVII Blätter, 16 ungezählte Seiten, 1 ungezähltes Blatt: Druckermarke; 22 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_P-240.html<-L-5-STOP-><-VI-5-START->BSB-Ink P-240<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M31140.htm<-L-5-STOP-><-VI-5-START->GW M31140<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/ip00332000<-L-5-STOP-><-VI-5-START->ISTC ip00332000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+116 von 116 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit mittiger Schliesse, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars; Nicolaus Niddermosseln; Petrus Rhode
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 6 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116692916905511<-L-11-STOP-><-VI-11-START->MUE Bong IV 891 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991051911259705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Perottus, Nicolaus<-P-STOP->
+<-P-START->Delphus, Egidius<-P-STOP->
+<-P-START->Hippocrates<-P-STOP->
+<-P-START->Guarinus Veronensis<-P-STOP->
+<-P-START->Haemmerlin, Paul<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Wolff, Jakob<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-P-START->Niddermosseln, Nicolaus<-P-STOP->
+<-P-START->Rhode, Petrus<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991051911259705501<-DOI-STOP->
+<-SIGN-START->MUE Bong IV 891 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 07014nam a2200829 c 4500
+001 991051911259705501
+005 20211215165745.0
+008 100716m14971500sz            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/16.07.2010    
+019      |a Nach Vorlage rekatalogisiert    |5 IDSBB/17.09.2020/B404/vha    
+035      |a (swissbib)061466662-41slsp_network    
+035      |a 061466662    |9 ExL    
+035      |a (IDSBB)005279773DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991051911259705501    
+035      |a (41SLSP_UBE)99116692916905511    |9 (41SLSP_UBE)99116692916905511    
+040      |a SzZuIDS BS/BE B400    |e rda    |d CH-ZuSLS    
+130 0    |a Grammatica Nicolai Perotti cum additionibus regularum et metrice artis Guarini Veronensis    
+245 1 0  |a Gram[m]atica Nicolai perotti cu[m] additionibus regularu[m]: [et] metrice artis Guarini verone[n]sis perfacu[n]di viri lucidissime perspecta    
+246 1    |i Titel in normalisierter Form    |a Grammatica Nicolai Perotti cum additionibus regularum et metrice artis Guarini Veronensis perfacundi viri lucidissime perspecta    
+246 1    |i Kolophon (Blatt CVII verso)    |a Nicolai Perotti opusculu[m] rudime[n]torum gra[m]matices: [et] artis metrice eiusde[m]: ceteroru[m]q[ue] in titulo libri posito[rum]: finit feliciter    
+246 1    |i Kolophon in normalisierter Form    |a Nicolai Perotti opusculum rudimentorum grammatices et artis metrice eiusdem ceterorumque in titulo libri positorum finit feliciter    
+246 1 0  |a Opusculum rudimentorum grammatices et artis metrice eiusdem ceterorumque in titulo libri positorum finit feliciter    
+264   1  |a [Basel]    |b [Jacobus Wolff]    |c [zwischen 1497 und 1500]    
+300      |a CVII Blätter, 16 ungezählte Seiten, 1 ungezähltes Blatt    |c 22 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Brief des Herausgebers Paul Haemmerlin (Paulus Malleolus) an Egidius Delphus (Blatt II) und Widmung von Nicolaus Perottus an den Neffen, Pyrrhus Perottus (Blatt III recto)    
+500      |a Ab Blatt q₄ recto (hinter Blatt CVII): "Registrum" ("Sequitur vocabuloru[m] in Nicolai Perotti rudime[n]tis principaliter explicatorum summaria collectio ...")    
+500      |a Druckort und Drucker gemäss Druckermarke auf der Titelseite, Druckdatum gemäss ISTC (BSB-Ink: circa 1499-1500)    
+500      |a Signaturformel: a⁸b⁶–n⁸o⁶, p–r⁶    
+500      |a Letztes Blatt r₆ unbedruckt    
+500      |a Blatt III (a₃) recto in Rot- und Schwarzdruck    
+505 0 0  |g Blatt LXXXIII verso    |t De arte epistolandi    |g Blatt XCI recto    |t Appe[n]dix ad Perotti rudime[n]toru[m] regulas quasdam de nominum declinationib[us]    |r [Blatt XCIII verso:] Finit appendix de genitiuo[rum] increme[n]tis: p[er] Egidium delphum socium sorbonicum    |g Blatt XCIII verso    |t Nicolai Perotti de generibus metrorum    |r [mit Widmungsbrief an Jacobus Schioppius]    |g Blatt C recto    |t [De Horatii ac Boethii metris]    |r [mit Widmungsbrief an Helias Perottus und, Blatt CV verso, mit Brief an Bartholomaeus Troianus]    |g Blatt CV verso    |t Hippocratis iusiura[n]dum    |t [übersetzt von Nicolaus Perottus]    |g Blatt CV verso    |t De arte diphtongandi    |r Guarinus Veronensis floro suo S.P.D. [das heisst, mit Brief des Verfassers an Valerius Floro]    
+510 4    |a BSB-Ink    |c P-240    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_P-240.html    
+510 4    |a GW    |c M31140    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M31140.htm    
+510 4    |a ISTC    |c ip00332000    |u https://data.cerl.org/istc/ip00332000    
+530      |a Digitalisat (Exemplar der Universitätsbibliothek Basel)    |u http://dx.doi.org/10.3931/e-rara-5581    
+561      |a Handschriftlicher Besitzvermerk in roter Tinte auf der Titelseite von Nicolaus Niddermosseln, der das Buch Petrus Rhode weggenommen hat: "Nicolaus niddermosseln est possessor hui[us] libri, que[m] petro Rhode plebano in mysenhym, ipso ignorante subtraxit"    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit mittiger Schliesse, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln; auf dem Rücken zwischen den Bünden Titel in Tinte (teils verblasst und unleserlich)    
+563      |a Vorsätze: vorne und hinten mit zwei fliegenden Blättern    
+563      |a Vorsätze mittig mit Pergamentfalz (Velours, Manuskriptpergament) verstärkt, Pergamentfalz zwischen Vorsatz und erster bzw. letzter Lage gehört zu den Spiegeln    
+563      |a Masse Einband: 22.3 x 16.5 x 5.9 cm    
+563      |a Zustand Einband: Schliesse ist ergänzt, Einband ist gefettet (samt Holdeckel), zahlreiche Verfleckungen, Tintenschrift auf dem Rücken zum teilweise abgelöst, vorderer Spiegel teilweise abgelöst    
+563      |a Detaillierte Beschreibung im Inkunabel-Einbandkatalog (Lindt/Mülinen)    
+590      |a Buchblockbeschreibung: 116 von 116 Blättern, keine Rubrizierung    
+590      |a Verfleckungen vor allem  am Vorderschnitt, Titelholzschnitt durch Paustechnik nahezu geritzt    
+590      |a Handschriftliche Annotationen und Unterstreichungen in Tinte, von diversen Händen; auf dem Oberschnitt in Tinte: "Nicolaus perottus"    
+590      |a Zusammengebunden mit 6 weiteren Drucken in Sammelband    
+590      |a Historische Signaturen auf vorderem fliegenden Blatt: "Inc 394a"; "Litt: 505."    
+590      |a Frühere Signaturen: Inc 101; Inc IV 51; Hortin X 13    
+700 1    |a Perottus, Nicolaus    |d 1429-1480    |0 (DE-588)118868365    |e Verfasser    |4 aut    
+700 1 2  |a Perottus, Nicolaus    |d 1429-1480    |t Rudimenta grammatices    |0 (DE-588)1203674244    
+700 1 2  |a Perottus, Nicolaus    |d 1429-1480    |t De generibus metrorum    |0 (DE-588)1150529520    
+700 1 2  |a Perottus, Nicolaus    |d 1429-1480    |t De Horatii ac Boethii metris    |0 (DE-588)1217749632    
+700 1    |a Delphus, Egidius    |d 14XX-1516    |0 (DE-588)100103553    |e Verfasser    |4 aut    
+700 1 2  |a Delphus, Egidius    |d 14XX-1516    |t Regulae de nominum declinationibus    |0 (DE-588)1217749462    
+700 0    |a Hippocrates    |d v460-v370    |0 (DE-588)11855140X    |e Verfasser    |4 aut    
+700 0 2  |a Hippocrates    |d v460-v370    |t Iusiurandum    |0 (DE-588)4420870-4    
+700 0    |a Guarinus    |c Veronensis    |d 1374-1460    |0 (DE-588)11869877X    |e Verfasser    |4 aut    
+700 0 2  |a Guarinus    |c Veronensis    |d 1374-1460    |t Ars diphthongandi    |0 (DE-588)1115751689    
+700 1    |a Haemmerlin, Paul    |d 14XX-15XX    |0 (DE-588)132643367    |e Herausgeber    |4 edt    
+700 1    |a Perottus, Nicolaus    |d 1429-1480    |0 (DE-588)118868365    |e Übersetzer    |4 trl    
+700 1    |a Perottus, Pyrrhus    |d ca. 15. Jh.    |0 (DE-588)129049484    |e Widmungsempfänger    |4 dte    
+700 1    |a Perottus, Helias    |d -1467    |0 (DE-588)12904945X    |e Widmungsempfänger    |4 dte    
+700 1    |a Wolff, Jakob    |d 14XX-1519    |0 (DE-588)1012373568    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Niddermosseln, Nicolaus    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Rhode, Petrus    |e Früherer Eigentümer    |4 fmo    
+730 0    |a De arte epistulandi    |0 (DE-588)121774973X    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Bong IV 891 : 1    |9 (41SLSP_UBE)99116692916905511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc IV 51 : 1    |c 404U3    |p 12    |j MUE Bong IV 891 : 1    |b B404    |9 (41SLSP_UBE)99116692916905511    
+986      |a (41SLSP_UBE)99116692916905511    |9 (41SLSP_UBE)99116692916905511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116692916905511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116692916905511    
+991      |a Bongars: 10852    |5 IZ UBE/B400/16.07.2010    |9 local    |9 (41SLSP_UBE)99116692916905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

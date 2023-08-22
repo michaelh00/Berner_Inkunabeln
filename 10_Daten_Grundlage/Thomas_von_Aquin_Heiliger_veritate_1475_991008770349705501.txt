@@ -1,0 +1,142 @@
+﻿<-1-1-START->
+Thomas von Aquin
+<-1-1-STOP->
+
+<-1-2-START->
+De veritate
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Köln]: Johann Koelhoff, 1475
+<-3-1-STOP->
+
+<-4-1-START->
+7 ungezählte Seiten, 1 ungezähltes Blatt, 955 ungezählte Seiten, 1 ungezähltes Blatt; 31 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_T-245.html<-L-5-STOP-><-VI-5-START->BSB-Ink T-245<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M46346.htm<-L-5-STOP-><-VI-5-START->GW M46346<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/it00179000<-L-5-STOP-><-VI-5-START->ISTC it00179000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+478 von 484 Blättern, rot und blau ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit mittiger Schliesse sowie Spuren einer Kettenöse an oberem Rand des Rückdeckels, Linien-Blindprägung auf beiden Deckeln; Buchbinder: Hans Leman
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Kloster Thorberg
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Erste Lage [*] (4 Blätter) und die Blätter [gg₄-₅] (448-449, 2 Blätter) fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116720355005511<-L-11-STOP-><-VI-11-START->MUE Inc I 80<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991008770349705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Thomas von Aquin<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Köln<-O-STOP->
+<-P-START->Koelhoff, Johann<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-P-START->Leman, Hans<-P-STOP->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Kloster Thorberg<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991008770349705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 80<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05503nam a2200613 c 4500
+001 991008770349705501
+005 20211215173156.0
+008 100325s1475    gw            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/16.02.2016/B400/faf    
+035      |a (swissbib)064016072-41slsp_network    
+035      |a 064016072    |9 ExL    
+035      |a (IDSBB)005199491DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991008770349705501    
+035      |a (41SLSP_UBE)99116720355005511    |9 (41SLSP_UBE)99116720355005511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Thomas    |c von Aquin, Heiliger    |d 1225-1274    |0 (DE-588)118622110    |e Verfasser    |4 aut    
+240 1 0  |a De veritate    
+245 1 0  |a Questiones disputate luculenter q[ue] disserte Beati Thome aquinatis ... finiunt    
+246 1    |i Incipit (Haupttext)    |a Quid est veritas [et] utru[m] veritas principalius i[n]ueniatur in intellectu ...    
+246 1    |i Incipit (Tituli)    |a Incipiu[n]t tituli questionu[m] de veritate disputataru[m] a fr[atr]e Thoma de aquino ...    
+246 1    |i Titel gemäss BSB-Ink    |a Quaestiones disputatae de veritate    
+246 1    |i Titel gemäss GW    |a Quaestiones de veritate    
+246 1    |i Titel in moderner Orthographie    |a Quaestiones disputatae luculenterque dissertae beati Thomae Aquinatis    
+264   1  |a [Köln]    |b p[er] me Johannem koelhoeff de Lubeck Colonie incolam diligenter impresse    |c Anno d[omi]ni 1475    
+300      |a 7 ungezählte Seiten, 1 ungezähltes Blatt, 955 ungezählte Seiten, 1 ungezähltes Blatt    |c 31 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel und Impressum gemäss Kolophon    
+500      |a Signaturformel: [*⁴, a–g¹⁰, h–z⁸, A–K⁸, L¹⁰, M¹², N–O¹⁰, P–Z⁸, aa–ll⁸]    
+500      |a Blatt [*₁] recto, Blatt [a₁] und Blatt [ll₈] sind unbedruckt    
+510 4    |a BSB-Ink    |c T-245    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_T-245.html    
+510 4    |a GW    |c M46346    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M46346.htm    
+510 4    |a ISTC    |c it00179000    |u http://data.cerl.org/istc/it00179000    
+530      |a Digitalisat (Exemplar der Universitäts- und Stadtbibliothek Köln)    |u http://www.ub.uni-koeln.de/cdm/ref/collection/inkunabeln/id/30702    
+561      |a Handschriftlicher Besitzvermerk auf Blatt a₁ verso: "Iste liber p[er]tinet domui portemo[n]t[is] p[ro]pe bernu[m]", das heisst Kloster Thorberg    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit mittiger Schliesse sowie Spuren einer Kettenöse an oberem Rand des Rückdeckels, Linien-Blindprägung auf beiden Deckeln, auf Vorderdeckel in Tinte: "Thomæ q[uae]stiones diaputatæ", auf Rücken rote Thorberg-Signatur: "D XL", dazu handschriftlich in Braun: "Tho[ma]s de veritati"    
+563      |a Vorsätze: Vorne und hinten ohne fliegendes Blatt    
+563      |a Masse Einband: 30.5 x 21.5 x 11.8 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, Schädlingsfrass, Loch mit Rostspuren von vormaliger Ankettung, oberes Ohrenkapital deformiert und verhärtet, Fehlstellen an beiden Vorsatzspiegeln, Pergamenthinterklebung in beiden Fälzen gebrochen    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 478 von 484 Blättern, handschriftliche Lagensignatur in Tinte, zusätzlich Lagen am unteren Rand mittig in Metallstift oder Tinte durchgezählt (1-57), handschriftliche Foliierung (5-484) in Graphit, Pergamentverstärkung in Lagen [a] und [ll], rot und blau ausgezeichnete Initialen, Rubrizierung (teilweise rote und blaue Paragraphenzeichen), teilweise handschriftliche Kustoden in Tinte (auf Blatt [ll₃] verso falsche gedruckte Kustode korrigiert), handschriftliche Kolumnentitel in Rot nur auf den ersten Seiten, Quaestiones nur in erster Materia am Rand in Rot durchnummeriert, Blattweiser mit Kapitelüberschriften in Rot, Lesebändchen    
+590      |a Zustand Buchblock: Abrieb mit Fehlstellen an blauem Farbauftrag, Blatt [a₁] mit Papierfalz an vorderem Spiegel gesichert, Blatt [ll₈] im Falz fast vollständig gerissen, Schädlingsfrass mit geringem Textverlust    
+590      |a Unvollständiges Exemplar: Lage [*] fehlt, die Blätter [gg₄-₅] (448-449) sind unbedruckt und von Hand liniiert    
+590      |a Signaturformel der handschriftlichen Lagensignatur: a–g¹⁰, h–z⁸, A–K⁸, L¹⁰, M¹², N–O¹⁰, aa-uu⁸    
+590      |a Auf Blatt [i₄] (86) recto wurden die Buchstaben am rechten Rand nicht gedruckt und die Wörter (teils fehlerhaft) in Tinte ergänzt    
+590      |a Handschriftlicher Titel und Inhaltsverzeichnis aus dem Kloster Thorberg auf dem unbedruckten Blatt [a₁]    
+590      |a Wenige handschriftliche Annotationen in Tinte (v.a. Blätter [E₂-₈] (236-242))    
+590      |a Historische Signatur auf vorderem Spiegel: "Theol. 121"; auf Blatt [a₂] recto: "Theol. N°. 116"    
+590      |a Frühere Signatur: Inc 77    
+700 0 2  |a Thomas    |c von Aquin, Heiliger    |d 1225-1274    |t De veritate    |0 (DE-588)4430197-2    
+700 1    |a Koelhoff, Johann    |d -1493    |0 (DE-588)102507554    |e Drucker    |4 prt    
+710 2    |a Kloster Thorberg    |0 (DE-588)7725716-9    |e Früherer Eigentümer    |4 fmo    
+751      |a Köln    |0 (DE-588)4031483-2    
+852 4    |b B404    |c 404U3    |j MUE Inc I 80    |9 (41SLSP_UBE)99116720355005511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc I 80    |b B404    |9 (41SLSP_UBE)99116720355005511    
+986      |a (41SLSP_UBE)99116720355005511    |9 (41SLSP_UBE)99116720355005511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116720355005511    
+991      |a AAK: 891010    |5 IZ UBE/25.03.2010/B400/vha    |9 LOCAL    |9 (41SLSP_UBE)99116720355005511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

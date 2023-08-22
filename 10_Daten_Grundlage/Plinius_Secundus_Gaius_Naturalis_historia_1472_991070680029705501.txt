@@ -1,0 +1,156 @@
+﻿<-1-1-START->
+Plinius Secundus, Gaius
+<-1-1-STOP->
+
+<-1-2-START->
+Naturalis historia
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Herausgeber: Johannes Andreas (Widmungsbrief von ihm an Papst Paul II. von 1470, hinter dem Kolophon)<-500-STOP->
+<-500-START->Mit Briefen von Plinius an Marcus Baebius Macrus und an Tacitus, sowie Exzerpten zu Plinius von Gaius Suetonius Tranquillus, Quintus Septimus Florens Tertullianus und Eusebius Caesariensis<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Nicolas Jenson, 1472
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 710 ungezählte Seiten, 2 ungezählte Blätter; 43 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_P-601.html<-L-5-STOP-><-VI-5-START->BSB-Ink P-601<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M34326.htm<-L-5-STOP-><-VI-5-START->GW M34326<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ip00788000<-L-5-STOP-><-VI-5-START->ISTC ip00788000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+355 von 358 Blättern, rot oder blau ausgezeichnete Initialen, Anfangsinitiale in Federzeichnung, Rubrizierung nur teilweise
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Holzdeckeln (braun, Kalb an den Deckeln, Ziege am Rücken) mit 4 Schliessen (je eine Kopf- und Fuss-Schliesse), Linien- und Ornamentstempel-Blindprägung an beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Johannes Leonardus Muschus; Hieronymus Cicades; Werner Zesiger
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Das erste Blatt und die beiden letzten Blätter (alle unbedruckt) fehlen    
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116902557305511<-L-11-STOP-><-VI-11-START->MUE Zesk 9<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991070680029705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Plinius Secundus, Gaius<-P-STOP->
+<-P-START->Johannes Andreas<-P-STOP->
+<-P-START->Suetonius Tranquillus, Gaius<-P-STOP->
+<-P-START->Tertullianus, Quintus Septimius Florens<-P-STOP->
+<-P-START->Eusebius Caesariensis<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Jenson, Nicolas<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Muschus, Johannes Leonardus<-P-STOP->
+<-P-START->Cicades, Hieronymus<-P-STOP->
+<-P-START->Zesiger, Werner<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991070680029705501<-DOI-STOP->
+<-SIGN-START->MUE Zesk 9<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06061nam a2200709 c 4500
+001 991070680029705501
+005 20221214110619.0
+008 950302s1472    it ||||| |||| 00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von Signaturen.    |5 IDSBB/6.2.1995/bestub/mes    
+035      |a (swissbib)028453409-41slsp_network    
+035      |a 028453409    |9 ExL    
+035      |a (IDSBB)001082803DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991070680029705501    
+035      |a (41SLSP_UBE)99116902557305511    |9 (41SLSP_UBE)99116902557305511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+072   7  |a ag    |2 SzZuIDS BS/BE    
+072   7  |a nw    |2 SzZuIDS BS/BE    
+082 1 4  |a 500    |2 15    
+082 1 4  |a 930    |2 15    
+100 1    |a Plinius Secundus, Gaius    |d 23-79    |0 (DE-588)118595083    |e Verfasser    |4 aut    
+240 1 0  |a Naturalis historia    
+245 1 0  |a Caii Plynii Secvndi Natvralis Historiae ... Finis    
+246 1    |i Titel in normalisierter Form    |a Caii Plynii Secundi Naturalis historiae ... finis    
+246 1    |i Titel in moderner Orthografie    |a Caii Plinii Secundi Naturalis historiae ... finis    
+246 1 0  |a Naturalis historiae ... finis    
+246 1    |i Titel gemäss BSB-Ink, GW und ISTC    |a Historia naturalis    
+264   1  |a Impressi Venetiis    |b Per Nicolavm Ienson Gallicvm    |c .M.CCCC.LXXII. ... [1472]    
+300      |a 1 ungezähltes Blatt, 710 ungezählte Seiten, 2 ungezählte Blätter    |c 43 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Titel gemäss Kolophon    
+500      |a Herausgeber: Johannes Andreas (Widmungsbrief von ihm an Papst Paul II. von 1470 hinter dem Kolophon, Blatt [N₉] recto)    
+500      |a Blätter [a₂] und [a₃] mit Briefen von Plinius an Marcus Baebius Macrus und an Tacitus, sowie kurzen Exzerpten zu Plinius von Suetonius Tranquillus ("In libro de viris illustribus"), Tertullianus ("In Apologetico") und Eusebius Caesariensis ("Ex libris de temporibus")    
+500      |a Impressum gemäss Kolophon; Reihenfolge der Vorlage: "Caii Plynii Secvndi Natvralis Historiae Libri Tricesimiseptimi Et Vltimi Finis Impressi Venetiis Per Nicolavm Ienson Gallicvm .M.CCCC.LXXII. Nicolao Trono Inclyto Venetiarvm Dvce."    
+500      |a Signaturformel: [a¹², b⁸, c–h¹⁰, i¹², k–p¹⁰, q⁸, r–z¹⁰, A–D¹⁰, E⁶, F-G¹⁰, H–M⁸, N¹⁰, O¹²]    
+500      |a Blätter [a₁], [O₁₁] und [O₁₂] unbedruckt    
+510 4    |a BSB-Ink    |c P-601    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_P-601.html    
+510 4    |a GW    |c M34326    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M34326.htm    
+510 4    |a ISTC    |c ip00788000    |u http://data.cerl.org/istc/ip00788000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00059970/image_7    
+561      |a Stempel auf vorderem und hinterem fliegendem Blatt: "Dr. Zesiger"    
+561      |a Handschriftliche Widmung auf der ersten Textseite: "Joannes Leonardus Muschus V.J.D. donauit d D[omi]no Hieronymo Cicadei ... anno 1623. ..."    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Holzdeckeln (braun, Kalb an den Deckeln, Ziege am Rücken) mit 4 Schliessen (je eine Kopf- und Fuss-Schliesse), Linien- und Ornamentstempel-Blindprägung an beiden Deckeln und am Rücken    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt, Spiegel vorne und hinten mit Pergament-Makulatur eines Choralbuchs    
+563      |a Masse: 42.5 x 29.5 x 10.3 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, Rücken und untere Stehkante hinten mit Ziegenleder überzogen (überklebt) mit nachgebildeter Blindprägung, Schliessenriemen und Hakenteile sowie Ösen der Kopf- und Fuss-Schliesse fehlend    
+590      |a Buchblockbeschreibung: 355 von 358 Blättern, handschriftliche Lagensignatur (jeweils erstes Blatt rechts unten) und Foliierung (rechts oben) in Graphit; Pergamentfalz nach erster Lage und vor letzter Lage gehört zum Spiegel; rot oder blau ausgezeichnete Initialen, Anfangsinitiale auf Blatt [c₁] recto in Federzeichnung; sonst nur teilweise Rubrizierung    
+590      |a Zustand Buchblock: Fehlstellenergänzung an den ersten Blättern, zum Teil Feuchteränder und Abklatschschäden der farbig ausgezeichneten Initialen (z.B. Blätter [p₄] verso und [p₅] recto, das sind Blätter 15₄ und 15₅ der handschriftlichen Lagennummerierung)    
+590      |a Signaturformel der handschriftlichen Lagensignatur (Nummerierung): 1¹², 2⁸, 3-8¹⁰, 9¹², 10-15¹⁰, 16⁸, 17-27¹⁰, 28⁶, 29-30¹⁰, 31-35⁸, 36¹⁰, 37¹²    
+590      |a Die unbedruckten Blätter [a₁], [O₁₁] und [O₁₂] fehlen    
+590      |a Handschriftliche Annotationen, Anstreichungen und Handzeichen (zum Beispiel Blatt [c₉] recto) in Tinte; auf der letzten Textseite (Blatt [O₁₀] recto) ausführliche zweispaltige Eintragung    
+700 1 2  |a Plinius Secundus, Gaius    |d 23-79    |t Naturalis historia    |0 (DE-588)4196444-5    
+700 1    |a Jenson, Nicolas    |d 1420-1480    |0 (DE-588)118917153    |e Drucker    |4 prt    
+700 0    |a Johannes    |c Andreas    |d 1417-1475    |0 (DE-588)102519552    |e Herausgeber    |e Verfasser von ergänzendem Text    |4 edt    |4 wst    
+700 1    |a Suetonius Tranquillus, Gaius    |d 70-150    |0 (DE-588)118619918    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Tertullianus, Quintus Septimius Florens    |d 150-230    |0 (DE-588)118621386    |e Verfasser von ergänzendem Text    |4 wst    
+700 0    |a Eusebius    |c Caesariensis    |d 260-339    |0 (DE-588)118531425    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Muschus, Johannes Leonardus    |e Beschriftende Person    |4 ins    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Cicades, Hieronymus    |e Widmungsempfänger    |4 dte    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Zesiger, Werner    |d 1902-1958    |0 (DE-588)121027392    |e Früherer Eigentümer    |4 fmo    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Zesk 9    |9 (41SLSP_UBE)99116902557305511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Zesk 9    |b B404    |9 (41SLSP_UBE)99116902557305511    
+986      |a (41SLSP_UBE)99116902557305511    |9 (41SLSP_UBE)99116902557305511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116902557305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

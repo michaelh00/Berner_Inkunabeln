@@ -1,0 +1,168 @@
+﻿<-1-1-START->
+Iustinus, Marcus Iunianus
+<-1-1-STOP->
+
+<-1-2-START->
+Epitome historiarum Philippicarum Pompei Trogi. — Florus, Lucius Annaeus: Epitome de Tito Livio
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Revidiert von Iustinianus Romanus und herausgegeben von Marcus Antonius Sabellicus<-500-STOP->
+<-500-START->Mit Widmungsbrief zur Epitome de Tito Livio von Filippo Beroaldo an Petrus Maria Rubeus, einem Gedicht an den Leser und einem Nachwort von Marcus Antonius Sabellicus an Johannes Matthaeus Contarenus<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Venedig: Giovanni Rosso und Albertino Viani für] Antonio Moretti, [um 1494]
+<-500-START->Als Drucker auch Giovanni Rosso allein und als mögliches Druckdatum 1498 genannt, gemäss GW aber nicht nach dem 08.11.1497 gedruckt<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+liiii Blätter; 33 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_I-672.html<-L-5-STOP-><-VI-5-START->BSB-Ink I-672<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M15644.htm<-L-5-STOP-><-VI-5-START->GW M15644<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ij00620500<-L-5-STOP-><-VI-5-START->ISTC ij00620500<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+53 von 54 Blättern, rot und blau ausgezeichnete Initialen, vereinzelte blaue Paragraphenzeichen
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Kalb, 16. Jahrhundert) mit Spuren vormaliger Verschlussbänder an allen Deckelkanten (chamois, Leder), Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Gilles de Gourmont; P. Sulfurius; Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Historiae Alexandri Magni / Quintus Curtius Rufus. Verona: [Cristoforo da Montagu], 1491
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Blatt a₁ (Titelblatt) fehlt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116878803405511<-L-11-STOP-><-VI-11-START->MUE Bong V 925 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991082876249705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Iustinus, Marcus Iunianus<-P-STOP->
+<-P-START->Florus, Lucius Annaeus<-P-STOP->
+<-P-START->Beroaldo, Filippo<-P-STOP->
+<-P-START->Sabellicus, Marcus Antonius<-P-STOP->
+<-P-START->Iustinianus Romanus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Rosso, Giovanni<-P-STOP->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Viani, Albertino<-P-STOP->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Moretti, Antonio<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Gourmont, Gilles de<-P-STOP->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-P-START->Sulfurius, P.<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991082876249705501<-DOI-STOP->
+<-SIGN-START->MUE Bong V 925 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05969nam a2200757 c 4500
+001 991082876249705501
+005 20211215184123.0
+008 100629s1494    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/23.01.2018/B404/faf    
+035      |a (swissbib)060483768-41slsp_network    
+035      |a 060483768    |9 ExL    
+035      |a (IDSBB)005271528DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991082876249705501    
+035      |a (41SLSP_UBE)99116878803405511    |9 (41SLSP_UBE)99116878803405511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Iustinus, Marcus Iunianus    |d ca. 3. Jh.    |0 (DE-588)11871435X    |e Verfasser    |4 aut    
+240 1 0  |a Epitome historiarum Philippicarum Pompei Trogi    
+245 1 0  |a Ivstini Historici    
+246 1    |i Titel in normalisierter Form    |a Iustini historici    
+246 1    |i Explicit des 1. enthaltenen Werks    |a Iustini historici uiri clarissimi epithomatum in Trogi Pompeii historias liber .XLIIII. & ultimus feliciter finit    
+246 1    |i Explicit des 1. enthaltenen Werks in normalisierter Form    |a Iustini historici viri clarissimi epithomatum in Trogi Pompeii historias liber XLIIII. & ultimus feliciter finit    
+246 1    |i Incipit des 2. enthaltenen Werks in normalisierter Form    |a Lucii Florii gestorum Romanorum epithoma incipit    
+246 1    |i Titel gemäss BSB-Ink    |a Epitome in Trogi Pompeii historias    
+246 1    |i Titel gemäss GW    |a Epitome historiarum Trogi Pompeii    
+246 1    |i Titel gemäss ISTC    |a Epitomae in Trogi Pompeii historias    
+264   1  |a [Venedig]    |b [Giovanni Rosso und Albertino Viani für] Antonius Morettus    |c [um 1494]    
+300      |a liiii Blätter    |c 33 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Gemäss BSB-Ink revidiert von Iustinianus Romanus und herausgegeben von Marcus Antonius Sabellicus    
+500      |a Mit der Epitome de Tito Livio des Lucius Annaeus Florus, einem Widmungsbrief zu dieser von Filippo Beroaldo an Petrus Maria Rubeus, einem Gedicht an den Leser und einem Nachwort von Marcus Antonius Sabellicus an Johannes Matthaeus Contarenus    
+500      |a Verleger gemäss Nachwort, restliches Impressum gemäss ISTC; als Drucker auch Giovanni Rosso allein und als mögliches Druckdatum 1498 genannt, gemäss GW aber nicht nach dem 08.11.1497 gedruckt    
+500      |a Signaturformel: a-i⁶    
+505 0 0  |t Lvcii Florii Gestorvm Romanorvm Epithoma Incipit    
+510 4    |a BSB-Ink    |c I-672    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_I-672.html    
+510 4    |a GW    |c M15644    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M15644.htm    
+510 4    |a ISTC    |c ij00620500    |u http://data.cerl.org/istc/ij00620500    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0005/bsb00054761/images    
+561      |a Sammlung Bongars; Wappen des Pariser Buchhändlers Gilles de Gourmont auf Vorder- und Rückdeckel; handschriftlicher Besitzvermerk auf hinterem Spiegel: "P. Sulfurii parisien[sis]"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Kalb, 16. Jh.) mit Spuren vormaliger Verschlussbänder an allen Deckelkanten (chamois, Leder), Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, handschriftlicher Rückentitel in Tinte: "Iustinus & Q. Curt. 1491 Veronae", Reste eines Titelschilds aus Papier auf dem Vorderdeckel: "Iustin[us] [...] Qui[n]tus [...]"    
+563      |a Vorsätze: Vorne und hinten ohne fliegende Blätter; französische Pergament-Urkunde des 15. Jh. vorne und hinten als Ansatzfalz verwendet    
+563      |a Masse Einband: 32.5 x 22 x 2.6 cm    
+563      |a Zustand Einband: Lederüberklebungen an den Deckelecken und am Rücken, ergänzte Häubchen und Kapitalsteppung, Verschlussbänder fehlend, Spiegel angeschnitten und grossflächig herausgerissen    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 53 von 54 Blättern, Blinddruckmarken (Textblock) an Blatt i₆ recto, rot und blau ausgezeichnete Initialen, vereinzelte blaue Paragraphenzeichen    
+590      |a Zustand Buchblock: Weisse Ausblühungen auf rotem und blauem Farbauftrag der Initialen    
+590      |a Unvollständiges Exemplar: Blatt a₁ fehlt    
+590      |a Vereinzelte handschriftliche Annotationen in Tinte (z.B. Blatt xli verso) und Unterstreichungen in Graphit    
+590      |a Handschriftliche Einträge in Tinte auf vorderem und hinterem Spiegel    
+590      |a Zusammengebunden mit: Historiae Alexandri Magni / Quintus Curtius Rufus. Verona : Cristoforo da Montagu, 1491    
+590      |a Historische Signatur auf vorderem Spiegel: "Hist: Prof: 368.", Zahl korrigiert zu "367." und weiter zu "358."    
+590      |a Frühere Signaturen: Inc I 92; IV 29    
+700 1    |a Florus, Lucius Annaeus    |d ca. 2. Jh.    |0 (DE-588)118691910    |e Verfasser    |4 aut    
+700 1    |a Beroaldo, Filippo    |d 1453-1505    |0 (DE-588)118656589    |e Verfasser eines Vorworts    |4 wpr    
+700 1    |a Sabellicus, Marcus Antonius    |d 1436-1506    |0 (DE-588)100960170    |e Herausgeber    |4 edt    
+700 0    |a Iustinianus    |c Romanus    |d ca. 15. Jh.    |0 (DE-588)129034142    |e Mitwirkender    |4 ctb    
+700 1    |a Rosso, Giovanni    |0 (DE-588)1037570634    |e Drucker    |4 prt    
+700 1    |a Viani, Albertino    |0 (DE-588)1037573463    |e Drucker    |4 prt    
+700 1    |a Moretti, Antonio    |d 14XX-15XX    |0 (DE-588)102836043    |e Verlag    |4 pbl    
+700 1    |a Gourmont, Gilles <<de>>    |d 14XX-15XX    |0 (DE-588)1037571444    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Sulfurius, P.    |e Früherer Eigentümer    |4 fmo    
+700 1 2  |a Iustinus, Marcus Iunianus    |d ca. 3. Jh.    |t Epitome historiarum Philippicarum Pompei Trogi    |0 (DE-588)4373176-4    
+700 1 2  |a Florus, Lucius Annaeus    |d ca. 2. Jh.    |t Epitome de Tito Livio    |0 (DE-588)4294894-0    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Bong V 925 : 1    |9 (41SLSP_UBE)99116878803405511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc I 92 : 1    |c 404U3    |z Zusammengebunden mit 1 weiteren Druck in Sammelband    |p 12    |j MUE Bong V 925 : 1    |b B404    |9 (41SLSP_UBE)99116878803405511    
+986      |a (41SLSP_UBE)99116878803405511    |9 (41SLSP_UBE)99116878803405511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116878803405511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116878803405511    
+991      |a Bongars: 07980, 05416    |5 IZ UBE/B400/29.06.2010    |9 LOCAL    |9 (41SLSP_UBE)99116878803405511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

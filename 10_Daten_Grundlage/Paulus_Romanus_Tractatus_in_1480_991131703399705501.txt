@@ -1,0 +1,133 @@
+﻿<-1-1-START->
+Paulus Romanus
+<-1-1-STOP->
+
+<-1-2-START->
+Tractatus in favorem religionis Hierosalymitanae
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Widmungsbrief des Autors an Pierre d'Aubusson, Grossmeister des Johanniterordens<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Mainz: Drucker der Prognosticatio, nach August 1480]
+<-3-1-STOP->
+
+<-4-1-START->
+24 ungezählte Seiten; 20 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_P-81.html<-L-5-STOP-><-VI-5-START->BSB-Ink P-81<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M06995.htm<-L-5-STOP-><-VI-5-START->GW M06995<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ip00200000<-L-5-STOP-><-VI-5-START->ISTC ip00200000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+12 von 12 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Pergamenteinband auf Kartondeckeln mit Papier (beige, 17./18. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Johannes Ellin
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 6 weiteren Drucken und 4 Handschriften in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116780303405511<-L-11-STOP-><-VI-11-START->MUE Inc III 105 : 10<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991131703399705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Paulus Romanus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Mainz<-O-STOP->
+<-P-START->Drucker der Prognosticatio<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Ellin, Johannes<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991131703399705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 105 : 10<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03165nam a2200505 c 4500
+001 991131703399705501
+005 20211215193951.0
+008 140724s1480    gw            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/24.07.2014/B400/vha    
+035      |a (swissbib)067395147-41slsp_network    
+035      |a 067395147    |9 ExL    
+035      |a (IDSBB)006278189DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991131703399705501    
+035      |a (41SLSP_UBE)99116780303405511    |9 (41SLSP_UBE)99116780303405511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Paulus    |c Romanus    |d ca. 15. Jh.    |e Verfasser    |4 aut    |0 (DE-588)100245951    
+240 1 0  |a Tractatus in favorem religionis Hierosalymitanae    
+245 1 0  |a Tractatus magistri Pauli in fauorem religionis Jerosolimitan[ae]    
+246 1    |i Titel in normalisierter Form    |a Tractatus magistri Pauli in favorem religionis Ierosolimitanae    
+246 1 0  |a Tractatus in favorem religionis Ierosolimitanae    
+264   1  |a [Mainz]    |b [Drucker der Darmstädter Prognosticatio]    |c [nach August 1480]    
+300      |a 24 ungezählte Seiten    |c 20 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, nur Kopftitel    
+500      |a Zu Beginn mit Widmungsbrief des Autors an Petrus Busonus (Pierre Aubusson), Grossmeister des Johanniterordens    
+500      |a Impressum gemäss BSB-Ink, GW und ISTC    
+500      |a Signaturformel: [a¹²]    
+510 4    |a BSB-Ink    |c P-81    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_P-81.html    
+510 4    |a GW    |c M06995    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M06995.htm    
+510 4    |a ISTC    |c ip00200000    |u http://data.cerl.org/istc/ip00200000    
+530      |a Digitalisat (Exemplar der Universitäts- und Landesbibliothek Darmstadt)    |u http://tudigit.ulb.tu-darmstadt.de/show/inc-ii-304/0001    
+561      |a Früherer Eigentümer (erkennbar an den Handschriften im Band): Dr. Johannes Ellin, genannt Dr. Barbatus, Stadtarzt von Bern    
+563      |a Einbandbeschreibung: Halbbezogener Pergamenteinband auf Kartondeckeln mit Papier (beige, 17./18. Jahrhundert); auf dem Rücken die Titel in Tinte; darunter, längs zum Rücken: "Sanctoru[m] Legenda"    
+563      |a Vorsätze: vorne und hinten mit 2 fliegenden Blättern    
+563      |a Masse Einband: 19.8 x 14.9 x 2.6 cm    
+563      |a Zustand Einband: Fliegende Blätter an hinterem Vorsatz an oberer Falzkante nicht aufgeschnitten    
+590      |a Buchblockbeschreibung: 12 von 12 Blättern, handschriftliche Foliierung in Graphit auf Recto-Seiten rechts oben (f.1 - 12), vorgesehene Stellen für Initialen frei gelassen, keine Rubrizierung    
+590      |a Zusammengebunden mit 6 weiteren Drucken und 4 Handschriften in Sammelband    
+590      |a Frühere Signatur: Inc 596    
+700 0 2  |a Paulus    |c Romanus    |d ca. 15. Jh.    |t Tractatus in favorem religionis Hierosalymitanae    |0 (DE-588)1125029439    
+710 2    |a Drucker der Prognosticatio    |g Mainz    |0 (DE-588)6145894-6    |e Drucker    |4 prt    
+700 1    |a Aubusson, Pierre <<d'>>    |d 1423-1503    |0 (DE-588)119060450    |e Widmungsempfänger    |4 dte    
+700 1    |a Ellin, Johannes    |d ca. 2. H. 15. Jh.    |0 (DE-588)1194516130    |e Früherer Eigentümer    |4 fmo    
+751      |a Mainz    |0 (DE-588)4037124-4    
+852 4    |b B404    |c 404U3    |j MUE Inc III 105 : 10    |9 (41SLSP_UBE)99116780303405511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit weiteren Drucken und Handschriften    |p 12    |j MUE Inc III 105 : 10    |b B404    |9 (41SLSP_UBE)99116780303405511    
+986      |a (41SLSP_UBE)99116780303405511    |9 (41SLSP_UBE)99116780303405511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116780303405511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

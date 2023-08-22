@@ -1,0 +1,207 @@
+﻿<-1-1-START->
+Aristoteles
+<-1-1-STOP->
+
+<-1-2-START->
+Werke [griechisch]. — Theophrastus: De igne; De ventis; De lapidibus; De signis tempestatum; De piscibus; De vertigine; De lassitudine; De odoribus; De sudore; Historia plantarum; De causis plantarum; Metaphysica [griechisch]. — Porphyrius: Isagoge sive quinque voces [griechisch]. — Diogenes Laertius: Vitae philosophorum, Aristoteles; Vitae philosophorum, Theophrastus [griechisch]. — Johannes Philoponus: Vita Aristotelis. — Galenus: De historia philosophica [griechisch]. — Philo Alexandrinus: Peri kosmu. — Problemata. Iatrika aporēmata kai physika problēmata
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Gesamtausgabe der Werke von Aristoteles und pseudo-aristotelischen Schriften sowie weitere Werke von Theophrastus, Porphyrius, Diogenes Laertius, Johannes Philoponus, Pseudo-Galenus, Philo Judaeus und Pseudo-Alexander Aphrodisiensis<-500-STOP->
+<-500-START->Von den Werken des Aristoteles fehlen De arte poetica und De arte rhetorica, die erst später gefunden und ebenfalls von Aldo Manuzio gedruckt wurden<-500-STOP->
+<-500-START->Herausgegeben von Aldo Manuzio, unter Mitarbeit von Alexander Bondinus (von Aldo "Alexandros Agathēmeros" genannt), Lorenzo Maiolo und Francesco Cavalli<-500-STOP->
+<-500-START->In allen 5 Bänden Widmungsbriefe in Latein von Aldo Manuzio an Alberto Pio di Carpi<-500-STOP->
+<-500-START->Band [1] mit Gedichten von Aldo Manuzio, einer Vorrede an den Leser von Alexander Bondinus, sowie einem Gedicht und einem Brief von Scipione Forteguerri (Karteromachos) in Griechisch<-500-STOP->
+<-500-START->Alle Texte griechisch, Widmungsbriefe und Kolophone lateinisch<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Aldo Pio Manuzio, 01.11.1495 - 06.1498
+<-500-START->Datierung der Bände, jeweils im Kolophon: [1]: 01.11.1495, [2]: 02.1497, [3]: 01.1497, [4]: 01.06.1497, [5]: 06.1498<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+5 Bände: Holzschnittinitialen und -schmuckleisten; 32-33 cm (2°)
+<-500-START->Band [1]: 468 ungezählte Seiten; Band [2]: 238 ungezählte Seiten, 1 ungezähltes Blatt, 359 ungezählte Seiten; Band [3]: 400 Blätter, 1 ungezähltes Blatt, Blätter 401-410, 1 ungezähltes Blatt, Blätter 411-457, 1 ungezähltes Blatt, 15 ungezählte Seiten; Band [4]: 1, 226, 116, 42, 12, 121 Blätter, 1 ungezähltes Blatt; Band [5]: 209 Blätter, 13 ungezählte Blätter, Blätter 210-316, 1 ungezähltes Blatt<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_A-698.html<-L-5-STOP-><-VI-5-START->BSB-Ink A-698<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/GW02334.htm<-L-5-STOP-><-VI-5-START->GW 2334<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/ia00959000<-L-5-STOP-><-VI-5-START->ISTC ia00959000<-VI-5-STOP->; <-VI-5-START->Ineichen, Elisabeth: Standort-Katalog "Hospinian". [Bern], [Stadt- und Universitätsbibliothek], [1972]<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+Band [1]: 234 von 234 Blättern, [2]: 298 von 300 Blättern, [3]: 467 von 467 Blättern, [4]: 519 von 519 Blättern, [5]: 330 von 330 Blättern    
+<-6-1-STOP->
+
+<-7-1-START->
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Leonhard Wirth
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: In Band [2] fehlen Blätter 156-157 (ersetzt durch Fotokopien), dafür Blätter 155 und 158 doppelt vorhanden
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116752213305511<-L-11-STOP-><-VI-11-START->MUE Hospinian 77<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991025093889705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Aristoteles<-P-STOP->
+<-P-START->Manuzio, Aldo Pio<-P-STOP->
+<-P-START->Bondinus, Alexander<-P-STOP->
+<-P-START->Maiolo, Lorenzo<-P-STOP->
+<-P-START->Cavalli, Francesco<-P-STOP->
+<-P-START->Forteguerri, Scipione<-P-STOP->
+<-P-START->Theophrastus<-P-STOP->
+<-P-START->Porphyrius<-P-STOP->
+<-P-START->Diogenes Laertius<-P-STOP->
+<-P-START->Johannes Philoponus<-P-STOP->
+<-P-START->Galenus<-P-STOP->
+<-P-START->Philo Alexandrinus<-P-STOP->
+<-P-START->Alexander Aphrodisiensis<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Manuzio, Aldo Pio<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Wirth, Leonhard<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991025093889705501<-DOI-STOP->
+<-SIGN-START->MUE Hospinian 77<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 14550nam a2201129 ca4500
+001 991025093889705501
+005 20211215174342.0
+008 970818m14951498it            00| | grc d
+019      |a Altbestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von Signaturen    |5 IDSBB/18.08.1997/bestub/mes    
+019      |a Nach Vorlage rekatalogisiert    |5 IDSBB/19.10.2020/B404/vha    
+035      |a (swissbib)031312705-41slsp_network    
+035      |a 031312705    |9 ExL    
+035      |a (IDSBB)001416649DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991025093889705501    
+035      |a (41SLSP_UBE)99116752213305511    |9 (41SLSP_UBE)99116752213305511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+245 0 0  |a [Werke von Aristoteles, Theophrastus und weitere]    
+246 1    |i Titel gemäss BSB-Ink, GW und ISTC    |a Opera    
+264   1  |a Impressum Venetiis    |b dexteritate Aldi Manucii Romani    |c Calendis nouembris. M.CCCC.LXXXXV. [- M.IID. Mense iunio] [01.11.1495 - 06.1498]    
+300      |a 5 Bände    |c 32-33 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Gesamtausgabe der Werke von Aristoteles und pseudo-aristotelischen Schriften sowie weitere Werke von Theophrastus, Porphyrius, Diogenes Laertius, Johannes Philoponus, Pseudo-Galenus, Philo Judaeus und Pseudo-Alexander Aphrodisiensis    
+500      |a Von den Werken des Aristoteles fehlen De arte poetica und De arte rhetorica, die erst später gefunden und ebenfalls von Aldo Manuzio gedruckt wurden    
+500      |a Herausgegeben von Aldo Manuzio, unter Mitarbeit von Alexander Bondinus (von Aldo genannt als "Alexandros Agathēmeros" im Widmungsbrief von Band [1]), Lorenzo Maiolo (im Widmungsbrief von Band [2]) und Francesco Cavalli (im Widmungsbrief von Band [3])    
+500      |a In allen 5 Bänden Widmungsbriefe in Latein von Aldo Manuzio an Alberto Pio di Carpi    
+500      |a Band [1] mit Gedichten von Aldo Manuzio (Blatt A₁ recto unten), einer Vorrede an den Leser von Alexander Bondinus (A₂ recto), sowie einem Gedicht (A₁ recto Mitte) und einem Brief (A₂ verso) von Scipione Forteguerri (Karteromachos) in Griechisch    
+500      |a Alle Texte griechisch, Widmungsbriefe und Kolophone lateinisch    
+500      |a Impressum gemäss Kolophon in Band [1] (Blatt s₆ recto)    
+500      |a Kolophon in Band [2] (Blatt 268, K₆ recto): "Excriptum Venetiis manu stamnea i[n] domo Aldi munutii Romani, & græcorum studiosi. Mense Februario. M.III.D." [02.1497]; Band [3] (Blatt 457, XX₇ verso): "Venetiis in domo Aldi Mense Ianuario M.IIID." [01.1497]; Band [4] (Blatt PPPooo₁₀ recto): "Excriptum Venetiis in domo Aldi Manutii Cale[n]dis Iunii. M.DIII.D. ..." [01.06.1497]; Band [5]: "Venetiis. M.IID. Mense iunio. Apud Alduin. ..." [06.1498]    
+500      |a Umfang Band [1]: 468 ungezählte Seiten; Band [2]: 238 ungezählte Seiten, 1 ungezähltes Blatt, 359 ungezählte Seiten; Band [3]: 400 Blätter, 1 ungezähltes Blatt, Blätter 401-410, 1 ungezähltes Blatt, Blätter 411-457, 1 ungezähltes Blatt, 15 ungezählte Seiten; Band [4]: 1, 226, 116, 42, 12, 121 Blätter, 1 ungezähltes Blatt; Band [5]: 209 Blätter, 13 ungezählte Blätter, Blätter 210-316, 1 ungezähltes Blatt    
+500      |a In allen Bänden teilweise fehlerhafte Foliierung, jedoch am Ende immer richtige Blattzahl    
+500      |a Band [1]: 1 Diagramm (Blatt I₁ recto)    
+500      |a Signaturformel Band [1]: A–C⁸, Δ⁸,E–K⁸, L–N⁶, a–c⁸, d-e⁶, f–q⁸, r-s⁶; Band [2]: *⁸, x⁸, +⁸, [ος]⁸, aα–zψ⁸, &ω⁸, A-B⁸, CΓ⁶, DΔ–I⁸, K⁶; Band [3]: aaαα–iiιι¹⁰, κκ¹⁰, llλλ–zzψψ¹⁰, &&ωω¹⁰, ΑΑ–ΠΠ¹⁰, ΡΡ¹⁰+¹, ΣΣ-ΦΦ¹⁰, ΧΧ⁸, x⁸; Band [4]: []¹, aaaααα–iiiιιι⁸, κκκ⁸, lllλλλ–zzzψψψ⁸, &&&ωωω⁸, AAA–CCCΓΓΓ⁸, DDDΔΔΔ¹⁰, AAAaaa–MMMmmm⁸, NNNnnn-ΞΞΞooo¹⁰, αa–δd⁸, εe¹⁰, aα-bβ⁶, AAAααα–OOOξξξ⁸, PPPοοο¹⁰; Band [5]: αααα–ιιιι¹⁰, κκκκ⁴, λλλλ–φφφφ¹⁰, χχχχ⁶, ψψψψ¹², ωωωω¹⁰, AAAA-BBBB¹⁰, ΓΓΓΓ⁶, ΔΔΔΔ–ΙΙΙΙ¹⁰, ΚΚΚΚ¹²    
+500      |a Band [1]: Blatt e₆ verso unbedruckt; Band [2]: Blatt lλ₈ unbedruckt; Blatt K₆ verso unbedruckt; Band [3]: Blatt XX₈ (hinter Blatt 457), Blatt ΡΡ verso (ungezähltes Blatt hinter Blatt 400) und Blatt xx₈ verso (letzte Seite) unbedruckt; Band [4]: Blatt DDDΔΔΔ₁₀ (1. Zählung: 226) verso, εe₁₀ (3. Zählung: 42) und Blatt PPPοοο₁₀ (letztes Blatt) verso unbedruckt; Band [5]: Blätter κκκκ₄ und χχχχ₆ unbedruckt, Blatt ΚΚΚΚ₁₀ verso unbedruckt    
+500      |a Holzschnitt-Schmuckleisten und -Initialen    
+505 0 0  |g Zusätzlich zu Werken des Aristoteles    |g Band [1], Blatt A₃ recto    |t Porphyriu Eisagōgē    
+505 0 0  |g Band [2], Blatt *₃ recto    |t Aristotelus Bios Ektōn Laertiu    |g Blatt *₈ verso    |t Bios Theophrastu Kata Diogenēn    |g Blatt x₄ verso    |t Bios Aristotelus Kata Philoponon    |g Blatt x₅ verso    |t Galēnu Peri Philosophu Historias    |g Blatt 226 (EE₄) recto    |t Philōnos Peri Kosmu    |g Blatt 236 (FΖ₆) recto    |t Theophrastu Peri Pyros    |g Blatt 245 (GΗ₇) verso    |t Theophrastu Peri Anemōn    |g Blatt 254 (HΘ₈) recto    |t Theophrastu Peri Lithōn    |g Blatt 261 (I₇) recto    |t Peri Sēmeiōn Hydatōn Kai Pneumatōn    |r [Pseudo-Theophrastus]    
+505 0 0  |g Band [3], Blatt 435 (ΥΥ₅) verso    |t Theophrastu Peri Ichthyōn    |g Blatt 437 (ΥΥ₇) verso    |t Theophrastu Peri Ilingōn    |g Blatt 439 (ΥΥ₉) recto    |t Theophrastu Peri Kopōn    |g Blatt 441 (ΘΘ₁) verso    |t Theophrastu Peri Osmōn    |g Blatt 451 (ΧΧ₁) verso    |t Theophrastu Peri Hidrōtōn    
+505 0 0  |g Band [4], Blatt 1 (1. Zählung, aaaααα₁) recto    |t Theophrastu Peri Phytōn Historias To A    |g Blatt 119 (1. Zählung, pppοοο₇) verso    |t Theophrastu Peri Phytōn Aitiōn To A    |g Blatt 1 (3. Zählung, αa₁) recto    |t Alexandru Aphrodisieōs, Iatrikōn Aporēmaton Kai Physikōn Problēmatōn To A    |g Blatt 117 (5. Zählung, PPPοοο₅) recto    |t Theophrastu Tōn Meta Ta Physika    
+510 4    |a BSB-Ink    |c A-698    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_A-698.html    
+510 4    |a GW    |c 2334    |u https://www.gesamtkatalogderwiegendrucke.de/docs/GW02334.htm    
+510 4    |a ISTC    |c ia00959000    |u https://data.cerl.org/istc/ia00959000    
+510 3    |a Ineichen, Elisabeth: Standort-Katalog "Hospinian". [Bern], [Stadt- und Universitätsbibliothek], [1972]    
+530      |a Digitalisat (Exemplar der Zentralbibliothek Zürich)    |u https://www.e-rara.ch/zuz/content/titleinfo/18561905    
+561      |a Handschriftlicher Besitzervermerk jeweils auf der ersten Textseite der Bände [1]-[3] und [5]: "Pro L. Hospiniano. Ao. 1545." (ohne "Ao." in Band [2] und [5])    
+563      |a Blindgepresste, ganzbezogene Ledereinbände (Schwein, chamois) auf Holzdeckeln, jeweils mit zwei Schliessen; Band [4] mit Eck- sowie Mittelbeschlägen, Spuren einer Kettenöse am oberen Rand des Rückdeckels; auf dem Rücken jeweils einzeln enthaltene Titel in Tinte (auf Band [4] mit Verfassernamen "Aristotelis ..." im obersten Bundfeld), von späterer Hand auch Druckort, Drucker und Jahr: "Ven. Ald. 1495", sowie Bandnummer; Band [4] mit Verfassernamen und Titeln (unleserlich) in Tinte auch auf dem Vorderdeckel    
+563      |a Vorsätze: Jeweils vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband, Band [1]: 31.5 x 22.7 x 4.2 cm, Band [2]: 31.9 x 23 x 5.2 cm, Band [3]: 31.6 x 23 x 7.6 cm, Band [4]: 32.9 x 23.8 x 9.7 cm, Band [5]: 31.7 x 23.3 x 5.5 cm    
+563      |a Zustand Einband: Alle Bände: Kratzer und Verfleckungen (durch Fettung verstärkt); Band [1]: Hakensegment-Ergänzung an unterer Hakenschliesse, Bruch im Schliessenriemen, obere Hakenschliesse verbogen, Band [2]: untere Hakenschliesse verbogen, Band [3]: obere Hakenschliesse verbogen, Band [5]: Loch mit Rostabdrücken von vormaliger Ankettung am Rückdeckel mit Rostverfärbung am fliegenden Blatt und den letzten beiden Blättern    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung Band [1]: 234 von 234 Blättern, [2]: 298 von 300 Blättern, [3]: 467 von 467 Blättern, [4]: 519 von 519 Blättern, [5]: 330 von 330 Blättern; in Band [1] handschriftliche Foliierung in Graphit, jeweils auf der Recto-Seite rechts oben, von 2 bis 234; in anderen Bänden fehlerhafte gedruckte Foliierung teilweise durch handschriftliche Foliierung in Graphit korrigiert; keine Rubrizierung    
+590      |a Zustand Buchblock: Band [1], [2], [4] und [5] kompakte Buchblöcke, kaum Verfleckungen; Band [3]: Papierüberklebung mit ursprünglich fehlender Druckzeile über Reklamante an Blatt 100 (κκ₁₀) verso (in digitalisierten Exemplaren der Zentralbibliothek Zürich und der BSB München ebenfalls, mit gleichem Text, aber teils anderen Drucktypen und Ligaturen); auffällige Verbräunung an den unteren Blattkanten und Lagenmitten der letzten beiden Lagen; Verschmutzung und Einrisse mit Fehlstellen am letzten Blatt weisen auf eine Umlaufeinheit ohne Einband hin    
+590      |a Unvollständiges Exemplar: In Band [2] fehlen Blätter 156-157 (uυ₄ und uυ₅; ersetzt durch Fotokopien), dafür sind Blätter 155 und 158 (uυ₃ und uυ₆) doppelt vorhanden    
+590      |a Band [2]: Lagen pπ und qρ vertauscht (Blätter 121-128 vor [113]-120; Blatt [113] fälschlich als 121 foliiert)    
+590      |a Wenige handschriftliche Annotationen in Tinte    
+590      |a Band [3] auf vorderem Schnitt oben in Tinte: "Aristoteles"    
+590      |a Historische Signaturen jeweils auf der ersten Seite von Band [1]: "Phil 122", [2]: Phil 121, [3]: Phil 124, [4]: Phil 66, [5]: Phil 123    
+590      |a Frühere Signaturen: Inc II 39; davor Band [1]: Inc 242, [2]: Inc 246, [3]: Inc 243, [4]: Inc 244, [5]: Inc 241    
+700 0    |a Aristoteles    |d v384-v322    |0 (DE-588)118650130    |e Verfasser    |4 aut    
+700 0 2  |a Aristoteles    |d v384-v322    |t Werke    |0 (DE-588)1219610100    
+700 1    |a Manuzio, Aldo Pio    |d 1450-1515    |0 (DE-588)118577387    |e Herausgeber    |4 edt    
+700 1    |a Bondinus, Alexander    |d ca. 15./16. Jh.    |0 (DE-588)128984120    |e Herausgeber    |4 edt    
+700 1    |a Maiolo, Lorenzo    |d 14XX-1501    |0 (DE-588)115782157X    |e Herausgeber    |4 edt    
+700 1    |a Cavalli, Francesco    |d -1540    |0 (DE-588)100082947    |e Herausgeber    |4 edt    
+700 1    |a Forteguerri, Scipione    |d 1466-1515    |0 (DE-588)124394450    |e Verfasser von ergänzendem Text    |4 wst    
+700 0    |a Theophrastus    |d v369-v288    |0 (DE-588)118621793    |e Verfasser    |4 aut    
+700 0 2  |a Theophrastus    |d v369-v288    |t De igne    |0 (DE-588)4366892-6    
+700 0 2  |a Theophrastus    |d v369-v288    |t De ventis    |0 (DE-588)4804568-8    
+700 0 2  |a Theophrastus    |d v369-v288    |t De lapidibus    |0 (DE-588)4366891-4    
+700 0 2  |a Theophrastus    |d v369-v288    |t De signis tempestatum    |0 (DE-588)1088065023    
+700 0 2  |a Theophrastus    |d v369-v288    |t De piscibus    |0 (DE-588)1088044689    
+700 0 2  |a Theophrastus    |d v369-v288    |t De vertigine    |0 (DE-588)4805159-7    
+700 0 2  |a Theophrastus    |d v369-v288    |t De lassitudine    |0 (DE-588)4804560-3    
+700 0 2  |a Theophrastus    |d v369-v288    |t De odoribus    |0 (DE-588)4315231-4    
+700 0 2  |a Theophrastus    |d v369-v288    |t De sudore    |0 (DE-588)4804561-5    
+700 0 2  |a Theophrastus    |d v369-v288    |t Historia plantarum    |0 (DE-588)4599114-5    
+700 0 2  |a Theophrastus    |d v369-v288    |t De causis plantarum    |0 (DE-588)4307505-8    
+700 0 2  |a Theophrastus    |d v369-v288    |t Metaphysica    |0 (DE-588)4322462-3    
+700 0    |a Porphyrius    |d 233-301    |0 (DE-588)118595873    |e Verfasser    |4 aut    
+700 0 2  |a Porphyrius    |d 233-301    |t Isagoge sive quinque voces    |0 (DE-588)4664520-2    
+700 0    |a Diogenes    |c Laertius    |d ca. 3. Jh.    |0 (DE-588)118525859    |e Verfasser    |4 aut    
+700 0 2  |a Diogenes    |c Laertius    |d ca. 3. Jh.    |t Vitae philosophorum    |p Aristoteles    |0 (DE-588)4372489-9    
+700 0 2  |a Diogenes    |c Laertius    |d ca. 3. Jh.    |t Vitae philosophorum    |p Theophrastus    |0 (DE-588)4372490-5    
+700 0    |a Johannes    |c Philoponus    |d 490-570    |0 (DE-588)118712586    |e Verfasser    |4 aut    
+700 0 2  |a Johannes    |c Philoponus    |d 490-570    |t Vita Aristotelis    |0 (DE-588)1219982326    
+700 0    |a Galenus    |d 129-199    |0 (DE-588)118537202    |e Verfasser    |4 aut    
+700 0 2  |a Galenus    |d 129-199    |t De historia philosophica    |0 (DE-588)4418678-2    
+700 0    |a Philo    |c Alexandrinus    |d v25-40    |0 (DE-588)118594001    |e Verfasser    |4 aut    
+700 0 2  |a Philo    |c Alexandrinus    |d v25-40    |t Peri kosmu    |0 (DE-588)4415952-3    
+700 0    |a Alexander    |c Aphrodisiensis    |0 (DE-588)118501887    |e Verfasser    |4 aut    
+700 1    |a Pio di Carpi, Alberto    |d 1475-1550    |0 (DE-588)119399806    |e Widmungsempfänger    |4 dte    
+700 1    |a Manuzio, Aldo Pio    |d 1450-1515    |0 (DE-588)118577387    |e Drucker    |4 prt    
+700 1    |a Wirth, Leonhard    |d 1505-1564    |0 (DE-588)121204618    |e Früherer Eigentümer    |4 fmo    
+730 0    |a Problemata    |g Iatrika aporēmata kai physika problēmata    |0 (DE-588)121586342X    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Hospinian 77    |9 (41SLSP_UBE)99116752213305511    
+866      |a Band [1]-[5]    |8 22177602040005511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc II 39 : 5    |c 404U3    |h MUE Hospinian 77 : 5    |q [Band 5]    |p 12    |j MUE Hospinian 77    |b B404    |9 (41SLSP_UBE)99116752213305511    
+949      |i ZB Inc II 39 : 1    |c 404U3    |h MUE Hospinian 77 : 1    |q [Band 1]    |p 12    |j MUE Hospinian 77    |b B404    |9 (41SLSP_UBE)99116752213305511    
+949      |i ZB Inc II 39 : 4    |c 404U3    |h MUE Hospinian 77 : 4    |q [Band 4]    |p 12    |j MUE Hospinian 77    |b B404    |9 (41SLSP_UBE)99116752213305511    
+949      |i ZB Inc II 39 : 3    |c 404U3    |h MUE Hospinian 77 : 3    |q [Band 3]    |p 12    |j MUE Hospinian 77    |b B404    |9 (41SLSP_UBE)99116752213305511    
+949      |i ZB Inc II 39 : 2    |c 404U3    |h MUE Hospinian 77 : 2    |q [Band 2]    |p 12    |j MUE Hospinian 77    |b B404    |9 (41SLSP_UBE)99116752213305511    
+986      |a (41SLSP_UBE)99116752213305511    |9 (41SLSP_UBE)99116752213305511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116752213305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

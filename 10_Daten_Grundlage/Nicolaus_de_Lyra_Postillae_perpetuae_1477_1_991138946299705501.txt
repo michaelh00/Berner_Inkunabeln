@@ -1,0 +1,168 @@
+﻿<-1-1-START->
+Nicolaus de Lyra
+<-1-1-STOP->
+
+<-1-2-START->
+Postillae perpetuae in vetus et novum testamentum. — Guilelmus Brito (Exegeta): Expositio in prologos Biblie. — Paulus Burgensis: Additiones. — Doering, Matthias: Defensorium postillae Nicolai de Lyra contra Paulum Burgensem
+<-1-2-STOP->
+ 
+<-2-1-START->
+<-500-START->Expositiones, Additiones und Defensorium jeweils zu jedem biblischen Buch<-500-STOP->
+<-500-START->Herausgeber: Matthias Doering<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Straßburg: Drucker des Henricus Ariminensis, das ist Georg Reyser, nicht nach 14.04.1477]
+<-3-1-STOP->
+
+<-4-1-START->
+2478 ungezählte Seiten; 51 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_N-112.html<-L-5-STOP-><-VI-5-START->BSB-Ink N-112<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/NICOLYR.htm#M26630<-L-5-STOP-><-VI-5-START->GW M26532<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/in00134000<-L-5-STOP-><-VI-5-START->ISTC in00134000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+634 von 1239 Blättern in drei Bänden (238, 166, 230 Blätter), rot oder blau ausgezeichnete Initialen, rot und blau ausgezeichnete Schmuckinitiale mit Verzierungen in roter bzw. schwarzer Tinte, sowohl auf gedruckten, als auch auf handgeschriebenen Seiten; Rubrizierung, handschriftliche Kopftitel in Rot
+<-6-1-STOP->
+
+<-7-1-START->
+Drei ganzbezogene Ledereinbände auf Holzdeckeln (braun, Kalb) mit Schliessen sowie Buckel- und Eckbeschlägen an beiden Deckeln, Spuren einer vormaligen Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Peter Zum Luft; Hieronymus Zscheckenbürlin; Kloster St. Margarethental; Kloster Thorberg
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden (in allen drei Bänden) mit: Bibel [lateinisch]. - Nürnberg: Andreas Frisner; Johann Sensenschmidt, 9.12.1475 (BSB-Ink B-421, GW 04219)
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Es fehlen die Blätter [V-Z¹⁰, aa–bb¹⁰, cc⁸, dd–kk¹⁰, ll⁸, mm⁶–¹] (Psalmi), [yy–zz¹⁰, AA–BB⁸, CC–DD¹⁰, EE–FF⁸] (Isaias), [LL₇-LL₁₀, MM-NN¹⁰, OO⁸, PP¹² QQ–ZZ¹⁰ aaa₁-₇] (Ezechiel-Malachias), [ddd–mmm¹⁰, nnn¹², ooo–qqq¹⁰, rrr⁶, sss⁸, ttt–zzz¹⁰, AAA–DDD¹⁰, EEE⁸ FFF¹⁰–¹] (Matthaeus-Joannes)
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116927658205511<-L-11-STOP-><-VI-11-START->MUE Inc II 6 : 1:2 und 2:2 und 3:2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991138946299705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Nicolaus de Lyra<-P-STOP->
+<-P-START->Guilelmus Brito (Exegeta)<-P-STOP->
+<-P-START->Paulus Burgensis<-P-STOP->
+<-P-START->Doering, Matthias<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Reyser, Georg<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Zum Luft, Peter<-P-STOP->
+<-P-START->Zscheckenbürlin, Hieronymus<-P-STOP->
+<-P-START->Kloster St. Margarethental<-P-STOP->
+<-P-START->Kloster Thorberg<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991138946299705501<-DOI-STOP->
+<-SIGN-START->MUE Inc II 6<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 17041nam a2200805 c 4500
+001 991138946299705501
+005 20230207145300.0
+008 130911s1477    fr            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/11.09.2013/B400/vha    
+035      |a (swissbib)066241855-41slsp_network    
+035      |a 066241855    |9 ExL    
+035      |a (IDSBB)006168779DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991138946299705501    
+035      |a (41SLSP_UBE)99116927658205511    |9 (41SLSP_UBE)99116927658205511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Nicolaus    |c de Lyra    |d 1270-1349    |0 (DE-588)119238683    |e Verfasser    |4 aut    
+245 1 0  |a [Postillae perpetuae in vetus et novum testamentum]    
+246 1    |i Incipit    |a Prologus prim[us] Venerabilis fratris Nicolai de lira In testamentu[m] vetus De reco[m]mendat[i]one sacre scripture in generali incipit    
+246 1    |i Incipit in normalisierter Form    |a Prologus primus venerabilis fratris Nicolai de Lira in testamentum vetus de recommendatione Sacre Scripture in generali incipit    
+264   1  |a [Straßburg]    |b [Drucker des Henricus Ariminensis, das ist Georg Reyser]    |c [nicht nach 14.04.1477]    
+300      |a 2478 ungezählte Seiten    |c 51 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Expositiones von Guilelmus Brito, Additiones von Paulus Burgensis und Replicae gegen Paulus Burgensis von Matthias Doering (zum Beispiel Angaben Blatt [c₃] recto)    
+500      |a Impressum gemäss BSB-Ink, GW und ISTC; die Identität des früher als "Drucker des Henricus Ariminensis" bezeichneten Druckers mit Georg Reyser gilt als gesichert    
+500      |a Gemäss ISTC spätestes Druckdatum aufgrund eines Besitzvermerks im Exemplar der Bibliothèque humaniste de Sélestat (Schlettstadt, Elsass)    
+500      |a Signaturformel (gemäss BSB-Ink): [a–n¹⁰, o¹²-¹, p–z¹⁰, A–D¹⁰, E⁸, F–Q¹⁰, R–T⁸, V–Z¹⁰, aa–bb¹⁰, cc⁸, dd–kk¹⁰, ll⁸, mm⁶–¹, nn–vv¹⁰, xx⁴, yy–zz¹⁰, AA–BB⁸, CC–DD¹⁰, EE–FF⁸, GG–NN¹⁰, OO⁸, PP¹², QQ–ZZ¹⁰, aaa¹⁰, bbb⁸, ccc¹⁰, ddd–mmm¹⁰, nnn¹², ooo–qqq¹⁰, rrr⁶, sss⁸, ttt–zzz¹⁰, AAA–DDD¹⁰, EEE⁸, FFF¹⁰–¹, GGG–NNN¹⁰]    
+500      |a Blätter [a₁], [ccc₁₀] und [NNN₁₀] unbedruckt; Blatt [xx₄] verso unbedruckt    
+510 4    |a BSB-Ink    |c N-112    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_N-112.html    
+510 4    |a GW    |c M26532    |u https://www.gesamtkatalogderwiegendrucke.de/docs/NICOLYR.htm#M26630    
+510 4    |a ISTC    |c in00134000    |u https://data.cerl.org/istc/in00134000    
+561      |a Handschriftlicher Besitzvermerk auf dem vorderen fliegenden Blatt von Band 1 (durchgestrichen): "S[ecun]da[!] pars Biblie cu[m] postilla f[rat]ris Nicolai de Lira ... pertinet domui vallis b[ea]te Margarete ordi[ni]s Cartusien[sis] in Basilea minori data eid[em] ab egregio artiu[m] et decretor[um] doctore D[omi]no Petro zum lufft eccl[esie] Bas[iliensis] Canonico oret[ur] pro eo"; darunter: "Cartus[iae] Bas[iliensis]" - "Bas" durchgestrichen, dahinter "torberg[ensis]"; darunter: "Anno d[omi]ni 1502 liber hic do[na]t[us] e[st] huic domui s[an]c[t]e Paule al[ia]s torberg ord[in]is cartusie[n]sis a vene[rabi]li p[at]re d[omine] Jhe[r]o[ni]mo p[ri]ore [Hieronymus Zscheckenbürlin] ac co[n]ve[n]tu dom[us] vall[is] s[anc]te Margarethe mi[n]or[is] basilee ei[us]d[em] ordinis ...[?]"; ähnlich lautende Vermerke auch in Band 2 und 3    
+561      |a Der Vermerk, dass Peter zum Luft die Bände dem Kloster St. Margarethental in Basel geschenkt hat, ist wohl ein Irrtum aus späterer Zeit; Peter zum Luft starb bereits 1474    
+561      |a Jeweils auf erster Recto-Seite (Band 1, Blatt [a₂]), Band 2, Blatt [nn₁], Band 3, Blatt [GG₁]), sowie in Band 2 auf dem letzten bedruckten Blatt [ccc₉] verso und Band 3 auf dem letzten handschriftlich beschriebenem Blatt handschriftlicher Besitzvermerk: "Cartus[iae] Bas[iliensis]" (auf den letzten Blättern in Band 2 und 3 "Cartus[iae] Bas[iliensis] p[er]tinet"); in Band 1 und 2 (nicht jedoch in Band 3) jeweils "Bas[iliensis]" durchgestrichen und darunter: "torberg[ensis]" ergänzt    
+561      |a Thorberger Signatur auf den Rücken (Band 2 und 3)    
+563      |a Einbandbeschreibung: Drei ganzbezogene Ledereinbände auf Holzdeckeln (braun, Kalb) mit Schliessen sowie Buckel- und Eckbeschlägen an beiden Deckeln, Spuren einer vormaligen Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln; Papier- und Pergamentschild mit Tintenschrift und roter Thorberg-Signatur am Rücken in zweitem und drittem Bundfeld von oben (Band 1 lediglich Spuren und Reste); Titelschild von Band 2: "... Biblie [et] de s[upe]r lira a k[a]l[endis] Aug[usti] usq[ue] ad Nov[embris]"; Band 3 (18. Jahrhundert?): "Biblia latina Hieron... de 1481"; Schild mit der Thorberg-Signatur, Band 2: "B LXXVIII", Band 3: "B LXXVII": darüber später in Tinte der Druckort: "Norimbg."    
+563      |a Vorsätze Band 1-3: jeweils vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Band 1: 49.4 x 35.5 x 12.6 cm; Band 2: 49.5 x 35.5 x  9.5 cm; Band 3: 48.8 x 35.5 x 13.0 cm    
+563      |a Zustand Einband: In den Spiegeln der Vorder- und Hinterdeckel sind Leimabklatsche der ehemals eingeklebten Pergamentmakulatur sichtbar (gemäss Lindt bei Restaurierung 1935 entfernt)    
+563      |a Vorsätze: jeweils vorne und hinten mit einem fliegenden Blatt    
+563      |a Zustand Einband, Band 1: 5 von 6 Lederbünden inkl. Kapitalbund im vorderen Falz vollständig gebrochen bzw. gerissen, mit teilweise abgelöstem Lederrücken (Vorderdeckel hängt nur noch an unterstem Bund und Kapitalbund unten), Japanpapierfalz an vorderem Innendeckel fixiertes fliegendes Blatt vom Buchblockverbund fast vollständig abgerissen, Japanpapierüberklebungen und -ergänzungen am vorderen fliegenden Blatt, Tintenschriftspuren von herausgelösten Spiegeln aus Manuskriptmakulatur an vorderem und hinterem Innendeckel; Schädlingsfass an beiden Deckeln, Lederüberklebung an unterem und oberem Rückenbereich, Loch an Rückdeckel von vormaliger Ankettung ohne Rostspuren, Tintenschriftspuren von herausgelösten Spiegeln aus Manuskriptmakulatur an vorderem und hinterem Innendeckel; Reste eines Titelschildes und rote Farbspuren (Reste einer Thorberg-Signatur) am Rücken im zweiten und dritten Bundfeld von oben    
+563      |a Zustand Einband, Band 2: Einbandleder stark geschädigt, mit zahlreichen Kratzern und craquellierter Oberfläche mit Fehlstellen und Brüchen entlang der zusammengesetzten Holzdeckel und am Rücken über den erhabenen Bünden, Leder durch Fettung verschwärzt (Einschläge innen heller mit abpudernder Oberfläche), Tintenschrift auf dem Papier-Titelschild stark verändert (ausgelaufen oder Halobildung), Lederüberklebungen am Rücken und den Deckelkanten, Loch am Rückdeckel von vormaliger Ankettung ohne Rostbildung mit Lederüberklebung an der Deckelinnenseite, Tintenschriftspuren von herausgelösten Spiegeln aus Manuskriptmakulatur an vorderem und hinterem Innendeckel, vereinzelt Schädlingsfass am Vorderdeckel    
+563      |a Zustand Einband, Band 3: Buch kaum zu 90° zu öffnen, Lederüberklebungen am Rücken und den Deckelkanten teilweise am Rücken bereits gelöst, Lederunterlegung an der Oberkante des Rückdeckels, Nähung des Leders im Falz des Rückdeckels und am Rücken (Zusammenzug eines Schnittes in der Haut bei der Herstellung) an unterem Schliessenhaken ergänzt, Japanpapierüberklebungen an vorderem fliegenden Blatt, Loch an Rückdeckel von vormaliger Ankettung ohne Rostspuren, Tintenschriftspuren von herausgelösten Spiegeln aus Manuskriptmakulatur an vorderem und hinterem Innendeckel    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 634 von 1239 Blättern in drei Bänden (238, 166, 230 Blätter), zum Teil zeitgenössische handschriftliche Lagensignatur in Tinte (nicht durchgehend, häufig weggeschnitten oder nur teilweise erkennbar); neuere handschriftliche Lagensignatur gemäss BSB-Ink in Graphit auf der ersten Recto-Seite jeder Lage, bei unvollständigen Lagen auch auf der letzten vorhandenen Recto-Seite; vorgesehene Stellen für Illustrationen frei gelassen; rot oder blau ausgezeichnete Initialen, zu Beginn eines Prologus oder einer Postilla zu einem biblischen Buch jeweils eine rot und blau (in wenigen Fällen nur blau) ausgezeichnete Schmuckinitiale mit Verzierungen in roter bzw. schwarzer Tinte, sowohl auf gedruckten, als auch auf handgeschriebenen Seiten; Rubrizierung (auf gedruckten und handgeschriebenen Seiten), handschriftliche Kopftitel in Rot, Blattweiser    
+590      |a Buchblockbeschreibung Band 1: Struktur der Lage [A] (Blätter [A₁]-[A₇]) besteht aus zwei Einheiten: Einzelblätter [A₁] und [A₂] (Papierstruktur stimmt nicht überein) mit Pergamentfälzen innen und aussen zu einem Doppelblatt zusammengesetzt, und Einzelblatt [A₃], mit einem Papierfalz angehängt (Papierfalz mit quer verlaufender Papierstruktur vor Blatt [A₁] sowie an [A₃] verso gehört zu dieser Technik; Blätter ([A₄]-[A₇]) als zwei Doppelblätter innen mit Pergamentfalzverstärkung (Papierfalz mit quer verlaufender Papierstruktur gehört zum umgehängten hinteren fliegenden Blatt)    
+590      |a Buchblockbeschreibung Band 3: Struktur der unvollständigen Lagen [LL] und [L] (Blätter [LL₁-LL₆; L₈-L₁₀] nicht beschrieben (Zusammenhang der Blätter kaum einsehbar); ; Papierfälze der unvollständigen Lage [N] stammen aus der Lagenkonstruktion ([N₁] und [N₂] zu einem Doppelblatt zusammengesetzt, mit einem angehängten Einzelblatt [N₃]; Struktur der Lage [A] (Blätter [A₈]-[A₉]) nicht vollständig einsehbar, Blätter [A₈] und [A₉] innen und aussen mit Pergamentfälzen zusammengesetzt, Papierfalz mit quer verlaufender Papierstruktur an Blatt [A₈] recto könnte von Ansatztechnik des Blattes [A₁₀] stammen (Falz an Blatt [A₁₀] verso nicht eindeutig als Papierfalz-Gegenstück zu erkennen, es könnte auch ein Pergamentfalz sein); Struktur der Lage [L] (Blätter  ([L₁]-[L₇])) besteht aus zwei Doppelblättern und drei vorgehängten Einzelblättern  (Papierfalz an Blatt [L₁] recto gehört zum hinteren fliegenden Blatt, die beiden Papierfälze mit quer verlaufender Papierstruktur hinter Blatt [L₇] gehören zur Falzanklebung an den Einzelblättern [L₂] und [L₃]    
+590      |a Zustand Buchblock: Aufgrund der fehlenden Bücher und der abweichenden Bindung sind Teile von Büchern in Band 3, von denen nur der Anfang oder der Schluss auf einer Seite vorhanden sind, mit grüner Farbe bedeckt und/oder durchgestrichen worden (Blatt [L₈] recto, Ende der Abhandlungen zu den Paralipomena, [N₃] verso, 'Incipit p[ro]logus in librum Thobie', und [A₈] recto, Ende der Abhandlungen zu Ruth); zum Teil sind unbedruckte Blätter zwischen die Lagen gebunden worden, um darauf den Anfang oder Schluss von Büchern handschriftlich zu ergänzen (Band 2: vor Blättern [N₄] und [aaa₈], Band 3: hinter Blättern [LL₆] und [NNN₁₀]); in manchen Lagen Blätter mehr oder weniger stark gebräunt; Band 1: teilweise Löcher durch Schädlingsfrass, Band 2: Riss in Blatt N₉, ausserhalb des Satzspiegels, Band 3: teilweise rote Farbe (vom Rubrikator?) auf den Seiten verschmiert (Blätter [HH₄] recto, [N₁] verso, [N₂] recto und [NNN₅] recto); auf Blatt [JJJ₅] verso Kopftitel in roter Tinte etwas verschmiert; Blattweiser aus rotem Leder mit deutlichem Abrieb in allen drei Bänden    
+590      |a Unvollständiges Exemplar: Es fehlen die Blätter [V-Z¹⁰, aa–bb¹⁰, cc⁸, dd–kk¹⁰, ll⁸, mm⁶–¹] (Psalmi), [yy–zz¹⁰, AA–BB⁸, CC–DD¹⁰, EE–FF⁸] (Isaias), [LL₇-LL₁₀, MM-NN¹⁰, OO⁸, PP¹² QQ–ZZ¹⁰ aaa₁-₇] (Ezechiel-Malachias), [ddd–mmm¹⁰, nnn¹², ooo–qqq¹⁰, rrr⁶, sss⁸, ttt–zzz¹⁰, AAA–DDD¹⁰, EEE⁸ FFF¹⁰–¹] (Matthaeus-Joannes)    
+590      |a Abweichende Bindung, Band 1: [a–n¹⁰, o¹²-¹, p–z¹⁰, A₁-A₇] ('Prologus primus ... Nicolai de lira in testamentum vetus ...' - Ende der 'Postilla super librum Ruth'; auf unbedrucktem Blatt hinter [A₇] handschriftliches Ende der 'Postilla super librum Ruth')    
+590      |a Bindung Band 2: [nn-vv¹⁰, xx⁴; N₄-N₁₀, O-Q¹⁰, R-T⁸; aaa₈-aaa₁₀, bbb⁸, ccc¹⁰], (Postillae zu Proverbia Salomonis - Ecclesiasticus; Tobias - Job; Macchabaeer; auf unbedrucktem Blatt vor [N₄] handschriftliches 'Incipit prologulus in librum Thobie'; auf unbedrucktem Blatt vor [aaa₈], verso, handschriftliches 'Incipit prologus in librum Machaebeorum')    
+590      |a Bindung Band 3: [GG-KK¹⁰, LL₁-LL₆; L₈-L₁₀, M¹⁰, N₁-N₃; GGG-NNN¹⁰; A₈-A₁₀, B-D¹⁰, E⁸, F-K¹⁰, L₁-L₇] ('Incipit expositio prologi in Hieremiam prophetam' - Ende Baruch; 'Incipit prologus in librum Esdre' - Ende Nehemias; 'Postilla super actus apostolorum'; 'Incipit prologus in libros Regum' - Ende 'Paralipomenon'; auf unbedrucktem Blatt hinter [LL₆] handschriftliches Ende der 'Postilla super Baruch'; Blatt [NNN₁₀] unbedruckt; auf unbedrucktem Blatt hinter [L₇] handschriftliches Ende der Paralipomenon)    
+590      |a Signaturformel der handschriftlichen Lagensignatur in Tinte, Band 1: a–n¹⁰, o¹²-¹, p–y¹⁰, aa¹⁰, bb₁-bb₇; Band 2: Lage [nn] als xx, [pp] als aa, [qq] als bb bezeichnet, weitere Lagensignaturen nur auf Blatt [Q₅]: rr₅ und [R₁]: ss₁; Band 3: Blatt [GG₁] als qq₁, [JJ₃] als ss₃ bezeichnet; Lage [HHH] als ff bezeichnet (ff₁, ff₃, ff₅); Blatt [G₁] als hh₁, [J₁] als kk₁    
+590      |a Auf vorderen fliegenden Blättern oben Inhaltsangaben zum jeweiligen Band, wobei Band 1 als "secunda", Band 2 als "quarta", Band 3 als "tercia pars" bezeichnet wird (Inhalt und Verbleib des "prima pars" unklar)    
+590      |a Am Kopf der Seiten, oberhalb der Kopftitel in roter Tinte sind teilweise noch die Kopftitel in schwarzer Tinte, erkennbar, als Vorlage für den Rubrikator (meist teilweise oder ganz weggeschnitten); ebenso sind an den vorgesehenen Stellen die korrekten Initialen in Tinte klein vorgeschrieben    
+590      |a Zusammengebunden in allen drei Bänden mit Bibel [latein]. - Nürnberg : Andreas Frisner; Johann Sensenschmidt, 9.12.1475 (BSB-Ink B-421, GW 04219)    
+590      |a Einbandfragmente aus diesen Bänden in der Burgerbibliothek, Signatur BBB Cod. 756.16, 756.17, 756.18, 756.19, 756.20 und 756.21 (jeweils 1 Urkunde, 1 Blatt, handschriftlich, Pergament, latein, 15. Jahrhundert)    
+590      |a Frühere Signatur: Inc 51    
+700 0 2  |a Nicolaus    |c de Lyra    |d 1270-1349    |t Postillae perpetuae in vetus et novum testamentum    |0 (DE-588)4372198-9    
+700 0 2  |a Paulus    |c Burgensis    |d 1352-1435    |t Additiones    |0 (DE-588)1138302341    
+700 0    |a Guilelmus    |c Brito, Exegeta    |d -1275    |0 (DE-588)102482799    |e Verfasser von ergänzendem Text    |4 wst    
+700 0    |a Paulus    |c Burgensis    |d 1352-1435    |0 (DE-588)119105144    |e Verfasser    |4 aut    
+700 1    |a Doering, Matthias    |d 1390-1469    |0 (DE-588)100964664    |e Herausgeber    |e Verfasser von ergänzendem Text    |4 edt    |4 wst    
+700 1    |a Reyser, Georg    |d 1435-1504    |0 (DE-588)118600095    |e Drucker    |4 prt    
+700 1    |a Zum Luft, Peter    |d -1474    |0 (DE-588)1089912110    |e Stifter    |4 dnr    
+700 1    |a Zscheckenbürlin, Hieronymus    |d 1461-1536    |0 (DE-588)1072037270    |e Stifter    |4 dnr    
+710 2    |a Kloster St. Margarethental    |0 (DE-588)4682346-3    |e Früherer Eigentümer    |4 fmo    
+710 2    |a Kloster Thorberg    |0 (DE-588)7725716-9    |e Früherer Eigentümer    |4 fmo    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Inc II 6    |9 (41SLSP_UBE)99116927658205511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |h MUE Inc II 6 : 3:2    |q [Band 3]    |p 12    |j MUE Inc II 6    |b B404    |9 (41SLSP_UBE)99116927658205511    
+949      |c 404U3    |h MUE Inc II 6 : 2:2    |q [Band 2]    |p 12    |j MUE Inc II 6    |b B404    |9 (41SLSP_UBE)99116927658205511    
+949      |c 404U3    |h MUE Inc II 6 : 1:2    |q [Band 1]    |p 12    |j MUE Inc II 6    |b B404    |9 (41SLSP_UBE)99116927658205511    
+986      |a (41SLSP_UBE)99116927658205511    |9 (41SLSP_UBE)99116927658205511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116927658205511    
+991      |a AAK: 646363    |5 IZ UBE/11.09.2013/B400/vha    |9 local    |9 (41SLSP_UBE)99116927658205511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

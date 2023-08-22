@@ -1,0 +1,167 @@
+﻿<-1-1-START->
+Schedel, Hartmann
+<-1-1-STOP->
+
+<-1-2-START->
+Weltchronik [lateinisch]
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Nürnberg: Anton Koberger für Sebald Schreyer und Sebastian Kammermeister, 12.07.1493
+<-500-START->Mit zwei Kolophonen; erstes (Blatt CCLXVI) datiert: 04.06.1493<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 38 ungezählte Seiten, CCXCIC Blätter, 2, 10 ungezählte Seiten: Illustrationen, 2 Karten; 45 cm (2°)
+<-500-START->Die letzten 10 ungezählten Blätter ("De Sarmacia regione Europe") sind als Nachtrag in vielen Exemplaren hinter Blatt CCLXVI eingebunden<-500-STOP->
+<-500-START->Illustratoren: Michael Wolgemut und Wilhelm Pleydenwurff<-500-STOP->
+<-500-START->Gemäss ISTC sind einige der Holzschnitt-Illustrationen von Albrecht Dürer, als Schüler von Wolgemut<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_S-195.html<-L-5-STOP-><-VI-5-START->BSB-Ink S-195<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M40784.htm<-L-5-STOP-><-VI-5-START->GW M40784<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/is00307000<-L-5-STOP-><-VI-5-START->ISTC is00307000<-VI-5-STOP->; <-L-5-START->https://doi.org/10.11588/diglit.19185<-L-5-STOP-><-VI-5-START->Schramm, Albert: Der Bilderschmuck der Frühdrucke Band 17, Seite 9, Abbildung 408-576<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+321 von 328 Blättern, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jahrhundert) mit Ornamentrollen-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Apocalypsis. Strassburg: Greff; [Prüss], 1502
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Blätter [**₆], CXCII (untere Hälfte), CCLIX (unbedruckt bis auf Kopftitel und Blattzählung) und CCLXVII fehlen, ausserdem die Blätter [L₅], [L₆] und [M₆] (alle drei unbedruckt)
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116726345305511<-L-11-STOP-><-VI-11-START->MUE Inc II 4 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991090154889705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Schedel, Hartmann<-P-STOP->
+<-P-START->Wolgemut, Michael<-P-STOP->
+<-P-START->Pleydenwurff, Wilhelm<-P-STOP->
+<-P-START->Dürer, Albrecht<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Nürnberg<-O-STOP->
+<-P-START->Koberger, Anton<-P-STOP->
+<-O-START->Nürnberg<-O-STOP->
+<-P-START->Schreyer, Sebald<-P-STOP->
+<-O-START->Nürnberg<-O-STOP->
+<-P-START->Kammermeister, Sebastian<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991090154889705501<-DOI-STOP->
+<-SIGN-START->MUE Inc II 4 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 07828nam a2200805 c 4500
+001 991090154889705501
+005 20211215180544.0
+008 950302s1493    gw            00| | lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von Signaturen.    |5 IDSBB/22.11.2017/B404/vha    
+035      |a (swissbib)070080674-41slsp_network    
+035      |a 070080674    |9 ExL    
+035      |a (IDSBB)006753812DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991090154889705501    
+035      |a (41SLSP_UBE)99116726345305511    |9 (41SLSP_UBE)99116726345305511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+072   7  |a ag    |2 SzZuIDS BS/BE    
+082 1 4  |a 930    |2 15    
+100 1    |a Schedel, Hartmann    |d 1440-1514    |0 (DE-588)118754211    |e Verfasser    |4 aut    
+240 1 0  |a Weltchronik    
+245 1 0  |a Abest nunc studiose lector finis libri Cronicarum    |b per viam epithomatis [et] breuiarij compilati opus q[ui]dem preclarum. [et] a doctissimo quoq[ue] comparandum ...    |c [Hartmann Schedel] ; Adhibitis tame[n] viris mathematicis pingendiq[ue] arte peritissimis. Michaele wolgemut et wilhelmo Pleydenwurff. quaru[m] solerti acuratissimaq[ue] animaduersione tum ciuitatum tum illustrium virorum figure inserte sunt    
+246 1 0  |a Finis libri Chronicarum    
+246 1 0  |a Finis libri Cronicarum    
+246 1    |i Register-Titel in moderner Orthografie    |a Registrum huius operis libri chronicarum    |b cum figuris et imaginibus ab initio mundi    
+246 1    |i Register-Titel in normalisierter Form    |a Registrum huius operis libri cronicarum    |b cum figuris et ymaginibus ab inicio mundi    
+246 1    |i Titel gemäss BSB-Ink und ISTC    |a Liber chronicarum    
+246 1    |i Titel gemäss GW    |a Chronica    
+246 1    |i Titel in moderner Orthografie    |a Abest nunc studiose lector finis libri Chronicarum    
+246 1    |i Titel in normalisierter Form    |a Abest nunc studiose lector finis libri Cronicarum    |b per viam epithomatis et breviarii compilati opus quidem preclarum et a doctissimo quoque comparandum ...    
+246 1    |i Titelseite des Registers    |a Registrum huius operis libri cronicarum    |b cu[m] figuris et ymagi[ni]bus ab inicio mu[n]di    
+264   1  |a Nuremberge    |b Ad intuitu[m] autem [et] preces prouidoru[m] ciuiu[m] Sebaldi Schreyer [et] Sebastiani Kamermaister    |b hunc librum dominus Anthonius koberger ... impressit    |b Anton Koberger    |c Consummatu[m] autem duodecima mensis Julij. Anno salutis n[ost]re .1493.    
+300      |a 1 ungezähltes Blatt, 38 ungezählte Seiten, CCXCIC Blätter, 2, 10 ungezählte Seiten    |b Illustrationen, 2 Karten    |c 45 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite für die Ausgabe, nur für das Register; Titel und Verantwortlichkeitsangaben gemäss 2. Kolophon (Blatt [L₄] verso)    
+500      |a Hartmann Schedel als Verfasser im 1. Kolophon genannt    
+500      |a 1. Kolophon auf Blatt CCLXVI ([E₆]): "Completo in fomasissima Nurembergensi vrbe Operi de hystorijs etatum mundi. ac descriptione vrbium. felix imponitur finis. Collectum breui tempore Auxilio doctoris hartma[n]ni Schedel. qua fieri potuit diligentia. Anno [christ]i Millesimo quadringentesimo nonagesimotercio. die quarto mensis Junij." [4.06.1493]    
+500      |a Gemäss ISTC sind einige der Holzschnitt-Illustrationen vom jungen Albrecht Dürer, als Schüler von Wolgemut    
+500      |a Weltkarte auf Blatt XII verso und XIII recto; Europakarte auf Blatt CCXCIX verso und folgendes Blatt recto    
+500      |a Blätter CCLVIIII, CCLX und CCLXI mit Ausnahme des Kopftitels ("Sexta etas mundi") und der Blattzählung unbedruckt    
+500      |a Signaturformel: [*–**⁶, ***⁸, a⁶, b–d⁴, e–h⁶, i², k⁴, l–n⁶, o², p–q⁶, r–y⁴, z⁶, aa–cc⁶, dd², ee⁶, ff⁴, gg–ii⁶, kk², ll⁴, mm–zz⁶, A–K⁶, L⁶–² M⁶]    
+500      |a Blätter [L₅], [L₆] und [M₆] unbedruckt    
+500      |a Die letzten 10 ungezählten Blätter ("De Sarmacia regione Europe") sind als Nachtrag in vielen Exemplaren hinter Blatt CCLXVI eingebunden    
+510 4    |a BSB-Ink    |c S-195    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_S-195.html    
+510 4    |a GW    |c M40784    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M40784.htm    
+510 4    |a ISTC    |c is00307000    |u http://data.cerl.org/istc/is00307000    
+510 4    |a Schramm, Albert: Der Bilderschmuck der Frühdrucke    |c Band 17, Seite 9, Abbildung 408-576    |u https://doi.org/10.11588/diglit.19185    
+530      |a Digitalisat (Exemplar der Universitätsbibliothek Frankfurt am Main)    |u http://nbn-resolving.de/urn:nbn:de:hebis:30:2-221861    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München; Schedels eigenes Exemplar, mit zahlreichen Beigaben, unter anderem seinem handschriftlichen Widmungsschreiben an den Stadtrat von Nürnberg!)    |u http://daten.digitale-sammlungen.de/bsb00034024/image_1    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jahrhundert) mit Ornamentrollen-Blindprägung auf beiden Deckeln; auf dem Rücken handschriftlich unter dem Titelschild ("Chronicorum Liber Vestust.") in Tinte: "Schedelii Chronicon. 1493."; darunter, durchgestrichen: "Argentinae", darunter (kaum leserlich): "Norimberg."[?]    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 48 x 33 x 8.5 cm    
+563      |a Zustand Einband: Einbandleder mit zahlreichen Kratzern und Abspaltungen, Lederüberklebung an unterem Häubchen sowie unterer Ecke am Rückdeckel, beide Vorsätze mit Japanpapierfälzen verstärkt    
+590      |a Buchblockbeschreibung: 321 von 328 Blättern, handschriftliche Lagensignatur (Nummerierung) in Graphit jeweils auf dem ersten Blatt der Lage, rot ausgezeichnete Initialen, Rubrizierung    
+590      |a Zustand Buchblock: Brüche und Risse sowie fehlende Ecken mit Büttenpapier überklebt bzw. Seiten mit fehlenden Blattbereichen ganzflächig kaschiert, Seiten zum Teil rausgerissen    
+590      |a Unvollständiges Exemplar: Blätter [**₆], CXCII ([qq₄], untere Hälfte), CCLIX (unbedruckt bis auf Kopftitel und Blattzählung) und CCLXVII fehlen, ausserdem die Blätter [L₅], [L₆] und [M₆] (alle drei unbedruckt)    
+590      |a Ergänzte Lage [M] ("De Sarmacia regione Europe") ans Ende gebunden, statt, wie in vielen Exemplaren, hinter Lage [E] (Blatt CCLXVI)    
+590      |a Signaturformel der handschriftlichen Lagensignatur: [1]-2⁶, 3⁸, 4⁶, 5-7⁴, 8-11⁶, 12², 13⁴, 14-16⁶, 17², 18-19⁶, 20-25⁴, 26⁶, 27-29⁶, 30², 31⁶, 32⁴, 33-35⁶, 36², 37⁴, 38-49⁶, 50-59⁶, 60⁶-², 61⁶-¹    
+590      |a Auf vorderem Spiegel umfangreiche handschriftliche Angaben zu den beiden Drucken des Bandes    
+590      |a Zusammengebunden mit: [Apocalypsis]. Strassburg: Greff; [Prüss], 1502    
+590      |a Historische Signatur auf vorderem Spiegel: "H. Eccl. 1"    
+590      |a Frühere Signatur: Inc 60a    
+700 1 2  |a Schedel, Hartmann    |d 1440-1514    |t Weltchronik    |0 (DE-588)4135532-5    
+700 1    |a Wolgemut, Michael    |d 1434-1519    |0 (DE-588)118771175    |e Illustrator    |4 ill    
+700 1    |a Pleydenwurff, Wilhelm    |d 1460-1494    |0 (DE-588)11874111X    |e Illustrator    |4 ill    
+700 1    |a Dürer, Albrecht    |d 1471-1528    |0 (DE-588)11852786X    |e Illustrator    |4 ill    
+700 1    |a Koberger, Anton    |d 1440-1513    |0 (DE-588)118563890    |e Drucker    |4 prt    
+700 1    |a Schreyer, Sebald    |d 1446-1520    |0 (DE-588)119113643    |e Auftraggeber    |4 pat    
+700 1    |a Kammermeister, Sebastian    |d 1446-1503    |0 (DE-588)139518797    |e Auftraggeber    |4 pat    
+751      |a Nürnberg    |0 (DE-588)4042742-0    
+852 4    |b B404    |c 404U3    |j MUE Inc II 4 : 2    |9 (41SLSP_UBE)99116726345305511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit einem weiteren Druck in Sammelband    |p 12    |j MUE Inc II 4 : 2    |b B404    |9 (41SLSP_UBE)99116726345305511    
+986      |a (41SLSP_UBE)99116726345305511    |9 (41SLSP_UBE)99116726345305511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116726345305511    
+991      |a AAK: 00783343    |5 IZ UBE/22.11.2017/B404/vha    |9 local    |9 (41SLSP_UBE)99116726345305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

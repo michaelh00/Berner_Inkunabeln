@@ -1,0 +1,167 @@
+﻿<-1-1-START->
+Breydenbach, Bernhard von
+<-1-1-STOP->
+
+<-1-2-START->
+Peregrinationes in terram sanctam [deutsch]
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Beschreibung der Reise, die Bernhard von Breydenbach 1483-84 zusammen mit Graf Johann von Solms, Ritter Philipp von Bicken und dem Künstler Erhard Reuwich ins Heilige Land unternommen hat, ausgearbeitet (gemäss Huschenbett) oder abgefasst (gemäss Timm) von Martinus Rath, der sie gemäss BSB-Ink auch übersetzt hat<-500-STOP->
+<-500-START->Mit einer Widmungsvorrede des Autors an Berthold von Henneberg, einem Verzeichnis der Inseln von Venedig bis Rhodos mit Entfernungsangaben, einem arabisch-deutschen Glossar und deutschen Übersetzungen der Berichte "De Constantinopolitane urbis expugnatione" von Isidorus Kiovensis, "De Nigroponti captione" (möglicherweise von Balthasar Perusino), "Obsidionis Rhodiae urbis descriptio" von Guillaume Caoursin und "De captione ciuitatis Ydruntine" (anonym)<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Mainz: Erhard Reuwich, 21.06.1486
+<-500-START->Gemäss Voulliéme gedruckt mit Typen Peter Schöffers, Reuwich war womöglich nur Verleger<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt Tafeln, 309 ungezählte Seiten, 16 ungezählte Seiten Tafeln, 16 ungezählte Blätter Tafeln (angeklebt): 23 Illustrationen, 1 Karte, Holzschnittinitialen, Druckermarke; 32 cm (2°)
+<-500-START->Die Lagen [c], [f]-[h] und [v] bestehen aus mehreren aneinandergeklebten Doppelblättern, die jeweils zusammen eine Illustration bilden<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-911.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-911<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW05077.htm<-L-5-STOP-><-VI-5-START->GW 05077<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib01193000<-L-5-STOP-><-VI-5-START->ISTC ib01193000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+174 von 180 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, rot gefärbte Lederklappe zum Schutz des Buchblocks, Buchbinder: Rolet Stos
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Diebold von Erlach
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Lage [v] (Karte) fehlt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116857629305511<-L-11-STOP-><-VI-11-START->MUE Inc I 87<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991048887579705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Breydenbach, Bernhard von<-P-STOP->
+<-P-START->Martinus Rath<-P-STOP->
+<-P-START->Isidorus Kiovensis<-P-STOP->
+<-P-START->Perusino, Balthasar<-P-STOP->
+<-P-START->Caoursin, Guillaume<-P-STOP->
+<-P-START->Reuwich, Erhard<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Mainz<-O-STOP->
+<-P-START->Reuwich, Erhard<-P-STOP->
+<-O-START->Mainz<-O-STOP->
+<-P-START->Schöffer, Peter<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-P-START->Stos, Rolet<-P-STOP->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Erlach, Diebold von<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991048887579705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 87<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 08146nam a2200793 c 4500
+001 991048887579705501
+005 20211215165354.0
+008 130410s1486    gw            00| | ger d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/04.01.2018/B404/faf    
+035      |a (swissbib)064257967-41slsp_network    
+035      |a 064257967    |9 ExL    
+035      |a (IDSBB)006103538DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991048887579705501    
+035      |a (41SLSP_UBE)99116857629305511    |9 (41SLSP_UBE)99116857629305511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a ger    |h lat    
+100 1    |a Breydenbach, Bernhard <<von>>    |d 1440-1497    |0 (DE-588)118660047    |e Verfasser    |4 aut    
+240 1 0  |a Peregrinationes in terram sanctam    
+245 1 0  |a Dises werck ynnhaltende die heyligen reyßen gen Jherusalem zů dem heiligen grab vnd furbaß zů der hochgelobten jungfrauwen vnd mertreryn sant Katheryn ... Endet sich seliglichen    |c Bernhard vo[n] Breydenbach    
+246 1 0  |a <<Die>> heyligen Reyßen gen Jherusalem    
+246 1    |i Titel in moderner Orthografie    |a Dieses Werk inhaltend die heilige Reise gen Jerusalem zu dem heiligen Grab und fürbass zu der hochgelobten Jungfrau und Märtyrerin Sankt Katherin ... endet sich seliglichen    
+246 1    |i Incipit    |a Dem hochwirdigsten vatter yn christo. vnd herren hern Bertholdo. deß heyligen stůles zů Mentz Ertzbischoff. des Römschen riches Ertzkantzler durch tütsche lande vnd kurfursten [et]c[etera]. mynem gnedigsten herren Ich Bernhard vo[n] Breydenbach deß selben hohen stifftes yn mentz dechan vnd Camerer [et]c[etera] Myn schuldigen willigen dienst vnd vndertenige gehorsame. allezyt dienstlich zů vor    
+246 1    |i Incipit in normalisierter Form    |a Dem hochwirdigsten Vatter yn Christo und Herren, Hern Bertholdo, deß heyligen Stůles zů Mentz Ertzbischoff, des Römschen Riches Ertzkantzler durch tütsche Lande und Kurfursten etcetera, mynem gnedigsten Herren ich Bernhard von Breydenbach, deß selben hohen Stifftes yn Mentz Dechan und Camerer etcetera, myn schuldigen willigen Dienst und undertenige Gehorsame allezyt dienstlich zů vor    
+246 1    |i Titel gemäss BSB-Ink, GW und ISTC    |a Peregrinatio in terram sanctam    
+264   1  |a Ynn der statt Meyntz getrucket    |b durch Erhart rewich von Vttricht    |c Ym jar vnsers heylß. tusent. vierhu[n]dert. vn[d] lxxxvj. yn dem xxj. tag deß Brachmonedts. ... [21.06.1486]    
+300      |a 1 ungezähltes Blatt Tafeln, 309 ungezählte Seiten, 16 ungezählte Seiten Tafeln, 16 ungezählte Blätter Tafeln (angeklebt)    |b 23 Illustrationen, 1 Karte    |c 32 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Beschreibung der Reise, die Bernhard von Breydenbach 1483-84 zusammen mit Graf Johann von Solms, Ritter Philipp von Bicken und dem Künstler Erhard Reuwich ins Heilige Land unternommen hat, ausgearbeitet (gemäss Huschenbett) oder abgefasst (gemäss Timm) von Martinus Rath, der sie gemäss BSB-Ink auch übersetzt hat    
+500      |a Mit einer Widmungsvorrede des Autors an Berthold von Henneberg, einem Inhaltsverzeichnis, einem Verzeichnis der Inseln von Venedig bis Rhodos mit Entfernungsangaben, einem arabisch-deutschen Glossar und deutschen Übersetzungen der Berichte "De Constantinopolitane urbis expugnatione" von Isidorus Kiovensis, "De Nigroponti captione" (möglicherweise von Balthasar Perusino), "Obsidionis Rhodiae urbis descriptio" von Guillaume Caoursin und "De captione ciuitatis Ydruntine" (anonym)    
+500      |a Keine Titelseite, Titel gemäss Kolophon, Verfasser gemäss Incipit    
+500      |a Impressum gemäss Kolophon; Reihenfolge der Vorlage: "... durch Erhart rewich von Vttricht ynn der statt Meyntz getrucket Ym jar ..."    
+500      |a Gemäss Voulliéme gedruckt mit Typen Peter Schöffers, Reuwich war womöglich nur Verleger    
+500      |a Druckermarke am Ende    
+500      |a Signaturformel: [a-b⁸,c²⁺²⁺²⁺², d-e², f–h²⁺², i–s⁸, t⁶, v²⁺²⁺², x–z⁸, A–C⁸]    
+500      |a Die Lagen [c], [f]-[h] und [v] bestehen aus mehreren aneinandergeklebten Doppelblättern, die jeweils zusammen eine Illustration bilden    
+500      |a Diverse Flächen im Text für nicht ausgeführte Illustrationen frei gelassen    
+505 0 0  |t Von gewyn der statt Constantinopol durch die Turcken    |r Ysidorus ... eyn cardinall vnd bischoff ettwan zů sant Sabina der da zů mall eyn legat vom babst da hyn gesendet gegenwurtig was    |t Von dem gewyn der statt Nigropont auch durch die turken geschehen    |t Von der statt Rodiß wie sie von den Turcken ward belegert vnd vnderstanden zů gewynnen    |t Von gewyn der statt Ydrunti auch durch die turcken geschehen    
+510 4    |a BSB-Ink    |c B-911    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-911.html    
+510 4    |a GW    |c 05077    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW05077.htm    
+510 4    |a ISTC    |c ib01193000    |u http://data.cerl.org/istc/ib01193000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0005/bsb00051699/images    
+561      |a Auf drittem fliegendem vorderem Vorsatzblatt verso handschriftlicher Besitzvermerk: "Diebolt", gegenüber gezeichnetes und koloriertes Wappen derer von Erlach, darunter "1534"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, gemäss Lindt von Roletus Stoss, rot gefärbte Lederklappe zum Schutz des Buchblocks, handschriftlich mit Tinte auf Rücken: "B[...]bach Reise nach Ierusalem", "1486", "M[...?]"    
+563      |a Vorsätze: Vorne mit sechs fliegenden Blättern, hinten mit zwei fliegenden Blättern    
+563      |a Masse Einband: 32 x 22.5 x 5 cm    
+563      |a Zustand Einband: Untere Hakenschliesse sowie Schliessenriemen ergänzt bzw. nachgefärbt, Lederüberklebungen an Lederklappe inkl. Nachfärbung    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 174 von 180 Blättern, Pergamentfalz zwischen Lagen [B] und [C] von Vorsatzkonstruktion (um letzte Lage gelegter Ansatzfalz), Pergamentverstärkung in Lagen [a] und [C] sowie den Vorsätzen (Makulaturpergament), vorgesehene Stellen für Initialen frei gelassen    
+590      |a Zustand Buchblock: Zahlreiche Papier- und Pergamentverstärkungen sowie Fehlstellenergänzungen der Lagen mit Falttafeln    
+590      |a Unvollständiges Exemplar: Lage [v] (Karte) fehlt    
+590      |a Wenige handschriftliche Annotationen und Unterstreichungen in Tinte (Blatt [a₂])    
+590      |a Frühere Signatur: Inc 85    
+700 0    |a Martinus    |c Rath    |d ca. 15 Jh.    |0 (DE-588)104114932    |e Verfasser    |e Übersetzer    |4 aut    |4 trl    
+700 0    |a Isidorus    |c Kiovensis    |d 1380-1463    |0 (DE-588)118555987    |e Verfasser    |4 aut    
+700 1    |a Perusino, Balthasar    |d ca. 15. Jh.    |0 (DE-588)1150266503    |e Verfasser    |4 aut    
+700 1    |a Caoursin, Guillaume    |d 1430-1501    |0 (DE-588)100068944    |e Verfasser    |4 aut    
+700 1    |a Reuwich, Erhard    |d 1445-1505    |0 (DE-588)11859897X    |e Illustrator    |4 ill    
+700 1    |a Reuwich, Erhard    |d 1445-1505    |0 (DE-588)11859897X    |e Drucker    |e Verlag    |4 prt    |4 pbl    
+700 1    |a Schöffer, Peter    |d 1420-1502    |0 (DE-588)118609947    |e Drucker    |4 prt    
+700 1    |a Erlach, Diebold <<von>>    |d 1485-1561    |0 (DE-588)1150268719    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Stos, Rolet    |d 14XX-1501    |0 (DE-588)13396650X    |e Buchbinder    |4 bnd    
+700 1 2  |9 U:Grek    |a Breydenbach, Bernhard <<von>>    |d 1440-1497    |t Peregrinationes in terram sanctam    |0 (DE-588)4326672-1    
+700 0 2  |a Isidorus    |c Kiovensis    |d 1380-1463    |t De Constantinopolitane urbis expugnatione    |0 (DE-588)1150263156    
+700 1 2  |a Caoursin, Guillaume    |d 1430-1501    |t Obsidionis Rhodiae urbis descriptio    |0 (DE-588)1046800922    
+730 0    |a De Nigroponti captione    |0 (DE-588)1150266635    
+730 0    |a De captione ciuitatis Ydruntine    |0 (DE-588)1150266953    
+751      |a Mainz    |0 (DE-588)4037124-4    
+852 4    |b B404    |c 404U3    |j MUE Inc I 87    |9 (41SLSP_UBE)99116857629305511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc I 87    |b B404    |9 (41SLSP_UBE)99116857629305511    
+986      |a (41SLSP_UBE)99116857629305511    |9 (41SLSP_UBE)99116857629305511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116857629305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

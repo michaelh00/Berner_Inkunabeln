@@ -1,0 +1,141 @@
+﻿<-1-1-START->
+Geiler von Kaysersberg, Johannes
+<-1-1-STOP->
+
+<-1-2-START->
+Oratio in synodo Argentinensi
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Straßburg: Heinrich Eggestein, nicht vor 18.04.1482]
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 10 ungezählte Seiten; 28 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW10585.htm<-L-5-STOP-><-VI-5-START->GW 10585<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ig00116500<-L-5-STOP-><-VI-5-START->ISTC ig00116500<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+6 von 6 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jahrhundert), Linien- und Ornamentrollen-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Familie von Lerber; Rudolf Emanuel von Lerber
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Vita Sancti Fridolini / Baltherus Seckinganus. [Basel: Bernhard Richel, um 1480]
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116753148405511<-L-11-STOP-><-VI-11-START->MUE Inc III 66 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991016783209705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Geiler von Kaysersberg, Johannes<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Eggestein, Heinrich<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Lerber (Familie)<-P-STOP->
+<-P-START->Lerber, Rudolf Emanuel von<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991016783209705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 66 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03484nam a2200577 c 4500
+001 991016783209705501
+005 20211215164925.0
+007 cr |||||||||||
+008 800530s1482    fr            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/08.12.2016/B404/faf    
+024 7    |a 10.3931/e-rara-22947    |2 doi    
+035      |a (swissbib)057892105-41slsp_network    
+035      |a 057892105    |9 ExL    
+035      |a (IDSBB)004909574DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991016783209705501    
+035      |a (41SLSP_UBE)99116753148405511    |9 (41SLSP_UBE)99116753148405511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Geiler von Kaysersberg, Johannes    |d 1445-1510    |0 (DE-588)118538209    |e Verfasser    |4 aut    
+240 1 0  |a Oratio in synodo Argentinensi    
+245 1 0  |a Oratio habita in Sinodo Argen[tinensi]. jn p[raese]ntia E[pisco]pi et cleri Anno millesimo.cccc.lxxxij. feria quinta p[ost] d[omi]nicam quasi modo    |c p[er] doctorem joha[n]nem geiler d[e] keisersperg    
+246 1    |i Titel gemäss ISTC    |a Oratio in synodo Argentinensi habita anno 1482    
+264   1  |a [Strassburg]    |b [Heinrich Eggestein]    |c [nicht vor 18.04.1482]    
+300      |a 1 ungezähltes Blatt, 10 ungezählte Seiten    |c 28 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b c    |2 rdamedia    
+337      |b n    |2 rdamedia    
+338      |b cr    |2 rdacarrier    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, nur Kopftitel    
+500      |a Impressum gemäss GW und ISTC    
+500      |a Signaturformel: [a⁶]    
+500      |a Blatt [a₁] ist unbedruckt    
+510 4    |a GW    |c 10585    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW10585.htm    
+510 4    |a ISTC    |c ig00116500    |u http://data.cerl.org/istc/ig00116500    
+561      |a Supralibros auf Vorderdeckel: Wappen der Familie von Lerber (Wegmann 4359 b); aus dem Nachlass von Rudolf Emanuel von Lerber (1794)    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jh.), Linien- und Ornamentrollen-Blindprägung auf beiden Deckeln    
+563      |a Vorsätze: Vorne mit 2 fliegenden Blättern, hinten mit 3 fliegenden Blättern    
+563      |a Masse Einband: 27.6 x 20.5 x 2 cm    
+563      |a Zustand Einband: Rücken vollständig ergänzt mit Linien-Blindprägung auf neuem Leder    
+590      |a Buchblockbeschreibung: 6 von 6 Blättern, Foliierung in Graphit, Bogenmitten jeweils innen mit Büttenpapier entsprechend dem Vorsatzpapier verstärkt, vorgesehene Stelle für Initiale frei gelassen    
+590      |a Zustand Buchblock: Papier fleckig verbräunt mit Feuchtigkeitsrändern, Brüche an den Kanten der Innenverstärkung der Doppelblattmitten, 1 Riss geschlossen    
+590      |a Handschriftliche Annotation in Tinte auf Blatt [a₂] verso    
+590      |a Zusammengebunden mit: Vita Sancti Fridolini / Baltherus Seckinganus. Basel : Bernhard Richel, um 1480    
+590      |a Frühere Signatur: Inc 48 a    
+700 1 2  |a Geiler von Kaysersberg, Johannes    |d 1445-1510    |t Oratio in synodo Argentinensi    |0 (DE-588)1121246400    
+700 1    |a Eggestein, Heinrich    |d 1415-1488    |0 (DE-588)100965024    |e Drucker    |4 prt    
+700 3    |a Von Lerber    |c Familie    |0 (DE-588)1023759969    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Lerber, Rudolf Emanuel <<von>>    |d 1763-1794    |0 (DE-588)1121241654    |e Früherer Eigentümer    |4 fmo    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Inc III 66 : 2    |9 (41SLSP_UBE)99116753148405511    
+856 4    |u http://dx.doi.org/10.3931/e-rara-22947    |z Digitalisat in e-rara    
+900      |a IDSIxhybrid-el    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 1 weiteren Druck in Sammelband    |p 12    |j MUE Inc III 66 : 2    |b B404    |9 (41SLSP_UBE)99116753148405511    
+986      |a (41SLSP_UBE)99116753148405511    |9 (41SLSP_UBE)99116753148405511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116753148405511    
+990      |f erarabe    |9 LOCAL    |9 (41SLSP_UBE)99116753148405511    
+990      |f lza-cc0    |9 LOCAL    |9 (41SLSP_UBE)99116753148405511    
+991      |a AAK: 306180    |5 IZ UBE/B400/baa/1.7.2009    |9 LOCAL    |9 (41SLSP_UBE)99116753148405511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

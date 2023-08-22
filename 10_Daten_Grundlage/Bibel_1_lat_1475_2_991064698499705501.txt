@@ -1,0 +1,175 @@
+﻿<-1-1-START->
+Bibel [lateinisch]
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Biblia Vulgata mit der Übersetzung des Hieronymus, sowie seinen Prologen und Briefen an Paulinus von Nola und Papst Damasus I.<-500-STOP->
+<-500-START->Mit Brief des Herausgebers Johannes Andreas (Giovanni Andrea Bussi), Bischof von Aléria, an Papst Paul II., datiert 15.03.1471, einem Brief von Matthias Palmerius an Papst Paul II. und der Schrift "Ad Philocratem" (angeblicher Autor: Aristeas Epistolographus); Angaben gemäss Digitalisat, diese Seiten (Lage [a]) fehlen in der Vorlage<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Nürnberg: Andreas Frisner und Johann Sensenschmidt, 09.12.1475
+<-500-START->Druckvariante: mit Kolophon (Blatt V₈ verso, vorliegendes Exemplar) oder ohne Kolophon; beide mit Druckermarken<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+915 ungezählte Seiten: Druckermarke; 50 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_B-421.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-421<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/GW04219.htm<-L-5-STOP-><-VI-5-START->GW 04219<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/ib00544000<-L-5-STOP-><-VI-5-START->ISTC ib00544000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+307 von 458 Blättern in drei Bänden (113, 69, 125 Blätter), rot ausgezeichnete Initialen (uniforme Initialen in Stempeldruck und teilweise Nachzeichnung), zu Beginn eines biblischen Buches jeweils Schmuckinitiale mit Verzierungen in roter bzw. schwarzer Tinte, auf den handgeschriebenen Seiten rot und/oder blau ausgezeichnete und verzierte Schmuckinitialen; Rubrizierung (auf gedruckten und handgeschriebenen Seiten)
+<-6-1-STOP->
+
+<-7-1-START->
+Drei ganzbezogene Ledereinbände auf Holzdeckeln (braun, Kalb) mit Schliessen sowie Buckel- und Eckbeschlägen an beiden Deckeln, Spuren einer vormaligen Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Peter Zum Luft; Hieronymus Zscheckenbürlin; Kloster St. Margarethental; Kloster Thorberg
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit Postilla super totam Biblia / Nicolaus de Lyra. [Strassburg: Drucker des Henricus Arminensis, vor 1477] (in allen drei Bänden)
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Blätter [a₁]-[a₈] (Briefe von Johannes Andreas und Mathias Palmerius, Inhaltsverzeichnis, Schrift 'Aristeas ad Philocratem'), [v₄]-[v₁₂], [x₁]-[x₁₂] (Psalmi), [B₁]-[B₁₀], [C₁]-[C₆] (Isaias), [E₁₀], [F₁]-[J₁₀] (Ezechiel-Malachias), [L₉]-[L₁₀], [M₁]-[R₁₀], [S₁]-[S₃] (Matthaeus-Joannes) fehlen (151 Blätter)
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116885383505511<-L-11-STOP-><-VI-11-START->MUE Inc II 6 : 1:1 und 2:1 und 3:1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991064698499705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Johannes Andreas<-P-STOP->
+<-P-START->Hieronymus, Sophronius Eusebius<-P-STOP->
+<-P-START->Matteo Palmieri<-P-STOP->
+<-P-START->Aristeas Epistolographus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Nürnberg<-O-STOP->
+<-P-START->Frisner, Andreas<-P-STOP->
+<-O-START->Nürnberg<-O-STOP->
+<-P-START->Sensenschmidt, Johann<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Zum Luft, Peter<-P-STOP->
+<-P-START->Zscheckenbürlin, Hieronymus<-P-STOP->
+<-P-START->Kloster St. Margarethental<-P-STOP->
+<-P-START->Kloster Thorberg<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991064698499705501<-DOI-STOP->
+<-SIGN-START->MUE Inc II 6 : 1:1 und 2:1 und 3:1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 19138nam a2200865 c 4500
+001 991064698499705501
+005 20221207120133.0
+008 200120s1475    gw |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/21.01.2019/B404/vha    
+035      |a (swissbib)07404169X-41slsp_network    
+035      |a 07404169X    |9 ExL    
+035      |a (IDSBB)007160719DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991064698499705501    
+035      |a (41SLSP_UBE)99116885383505511    |9 (41SLSP_UBE)99116885383505511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a lat    |h heb    |h grc    
+130 0    |a Bibel    |0 (DE-588)4006406-2    
+245 1 0  |a Hoc opus Biblię effigiatum est ...    
+246 1    |i Titel in standardisierter Orthografie    |a Hoc opus Bibliae effigiatum est ...    
+246 1 0  |a Opus Bibliae    
+246 1 0  |a Opus Biblię    
+246 1    |i Titel gemäss BSB-Inc und GW    |a Biblia    
+246 1    |i Titel gemäss ISTC    |a Biblia latina    
+264   1  |a I[n] nuremberga oppido germanię cęlebratissimo    |b iussu Andreę Frisner Bunsidelensis artiumliberalium magistri: et Joannis sensenschmit ciuis p[re]fati oppidi/ a[r]tisimpressorięq[ue] magistri/ socio[rum]/ suius signis a[n]notatis    |c Anno ab incarnatione domini/ M.cccc.lxxv. quinto idus decembris [09.12.1475]    
+300      |a 915 ungezählte Seiten    |c 50 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Titel gemäss Kolophon (Blatt [V₈] verso)    
+500      |a Mit einem Brief des Herausgebers Johannes Andreas (Giovanni Andrea Bussi), Bischof von Aléria, an Papst Paul II., datiert 15.03.1471 (Blatt [a₁] recto), gefolgt vom Inhaltsverzeichnis, einem Brief von Matthias Palmerius an Papst Paul II. (Blatt [a₁] verso), und der Schrift "Aristeas ad Philocrate[m] fratrem" (Blatt [a₂] recto bis [a₈] recto); Angaben gemäss Digitalisat, Lage [a] fehlt in der Vorlage    
+500      |a Impressum gemäss Kolophon    
+500      |a Incipits der Prologe und der biblischen Bücher rot gedruckt    
+500      |a Signaturformel: [a⁸, b–t¹⁰, v-x¹², y-z¹⁰, A–S¹⁰, T-V⁸, X–Z¹⁰]    
+500      |a Blatt [Z₁₀] verso unbedruckt    
+500      |a Druckvariante auf Blatt V₈ verso: mit Kolophon (Exemplar 2 Inc.c.a. 341 der Bayerischen Staatsbibliothek und vorliegendes Exemplar) oder ohne Kolophon (Exemplar 2 Inc.c.a. 342 der Bayerischen Staatsbibliothek); beide mit Druckermarken    
+510 4    |a BSB-Ink    |c B-421    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_B-421.html    
+510 4    |a GW    |c 04219    |u https://www.gesamtkatalogderwiegendrucke.de/docs/GW04219.htm    
+510 4    |a ISTC    |c ib00544000    |u https://data.cerl.org/istc/ib00544000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München, mit Kolophon)    |u http://daten.digitale-sammlungen.de/bsb00041352/image_862    
+561      |a Handschriftlicher Besitzvermerk auf dem vorderen fliegenden Blatt von Band 1 (durchgestrichen): "S[ecun]da[!] pars Biblie cu[m] postilla f[rat]ris Nicolai de Lira ... pertinet domui vallis b[ea]te Margarete ordi[ni]s Cartusien[sis] in Basilea minori data eid[em] ab egregio artiu[m] et decretor[um] doctore D[omi]no Petro zum lufft eccl[esie] Bas[iliensis] Canonico oret[ur] pro eo"; darunter: "Cartus[iae] Bas[iliensis]" - "Bas" durchgestrichen, dahinter "torberg[ensis]"; darunter: "Anno d[omi]ni 1502 liber hic do[na]t[us] e[st] huic domui s[an]c[t]e Paule al[ia]s torberg ord[in]is cartusie[n]sis a vene[rabi]li p[at]re d[omine] Jhe[r]o[ni]mo p[ri]ore [Hieronymus Zscheckenbürlin] ac co[n]ve[n]tu dom[us] vall[is] s[anc]te Margarethe mi[n]or[is] basilee ei[us]d[em] ordinis ...[?]"; ähnlich lautende Vermerke auch in Band 2 und 3    
+561      |a Der Vermerk, dass Peter zum Luft die Bände dem Kloster St. Margarethental in Basel geschenkt hat, ist wohl ein Irrtum aus späterer Zeit; Peter zum Luft starb bereits 1474, über ein Jahr vor Erscheinen der Bibel    
+561      |a Jeweils auf der ersten Recto-Seite (Band 1, Blatt [X₁], Band 2, Blatt [y₁], Band 3, Blatt [C₇]) unten handschriftlicher Besitzvermerk: "Cartus[iae] Bas[iliensis]", "Bas" durchgestrichen, dahinter "torberg" ergänzt    
+561      |a Thorberger Signatur auf den Rücken (Band 2 und 3, Band 1 nur Farbreste)    
+563      |a Einbandbeschreibung: Drei ganzbezogene Ledereinbände auf Holzdeckeln (braun, Kalb) mit Schliessen sowie Buckel- und Eckbeschlägen an beiden Deckeln, Spuren einer vormaligen Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln; Papier- und Pergamentschild mit Tintenschrift und roter Thorberg-Signatur am Rücken in zweitem und drittem Bundfeld von oben (Band 1 lediglich Spuren und Reste); Titelschild von Band 2: "... Biblie [et] de s[upe]r lira a k[a]l[endis] Aug[usti] usq[ue] ad Nov[embris]"; Band 3 (18. Jahrhundert?): "Biblia latina Hieron... de 1481"; Schild mit der Thorberg-Signatur, Band 2: "B LXXVIII", Band 3: "B LXXVII": darüber später in Tinte der Druckort: "Norimbg."    
+563      |a Vorsätze Band 1-3: jeweils vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Band 1: 49.4 x 35.5 x 12.6 cm; Band 2: 49.5 x 35.5 x 9.5 cm; Band 3: 48.8 x 35.5 x 13.0 cm    
+563      |a Zustand Einband, Band 1: 5 von 6 Lederbünden inkl. Kapitalbund im vorderen Falz vollständig gebrochen bzw. gerissen, mit teilweise abgelöstem Lederrücken (Vorderdeckel hängt nur noch an unterstem Bund und Kapitalbund unten), Japanpapierfalz an vorderem Innendeckel fixiertes fliegendes Blatt vom Buchblockverbund fast vollständig abgerissen, Japanpapierüberklebungen und -ergänzungen am vorderen fliegenden Blatt, Tintenschriftspuren von herausgelösten Spiegeln aus Manuskriptmakulatur an vorderem und hinterem Innendeckel; Schädlingsfass an beiden Deckeln, Lederüberklebung an unterem und oberem Rückenbereich, Loch an Rückdeckel von vormaliger Ankettung ohne Rostspuren, Tintenschriftspuren von herausgelösten Spiegeln aus Manuskriptmakulatur an vorderem und hinterem Innendeckel; Reste eines Titelschildes und rote Farbspuren (Reste einer Thorberg-Signatur) am Rücken im zweiten und dritten Bundfeld von oben    
+563      |a Zustand Einband, Band 2: Einbandleder stark geschädigt, mit zahlreichen Kratzern und craquellierter Oberfläche mit Fehlstellen und Brüchen entlang der zusammengesetzten Holzdeckel und am Rücken über den erhabenen Bünden, Leder durch Fettung verschwärzt (Einschläge innen heller mit abpudernder Oberfläche), Tintenschrift auf dem Papier-Titelschild stark verändert (ausgelaufen oder Halobildung), Lederüberklebungen am Rücken und den Deckelkanten, Loch am Rückdeckel von vormaliger Ankettung ohne Rostbildung mit Lederüberklebung an der Deckelinnenseite, Tintenschriftspuren von herausgelösten Spiegeln aus Manuskriptmakulatur an vorderem und hinterem Innendeckel, vereinzelt Schädlingsfass am Vorderdeckel    
+563      |a Zustand Einband, Band 3: Buch kaum zu 90° zu öffnen, Lederüberklebungen am Rücken und den Deckelkanten teilweise am Rücken bereits gelöst, Lederunterlegung an der Oberkante des Rückdeckels, Nähung des Leders im Falz des Rückdeckels und am Rücken (Zusammenzug eines Schnittes in der Haut bei der Herstellung) an unterem Schliessenhaken ergänzt, Japanpapierüberklebungen an vorderem fliegenden Blatt, Loch an Rückdeckel von vormaliger Ankettung ohne Rostspuren, Tintenschriftspuren von herausgelösten Spiegeln aus Manuskriptmakulatur an vorderem und hinterem Innendeckel    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 307 von 458 Blättern in drei Bänden (113, 69, 125 Blätter), zeitgenössische handschriftliche Lagensignatur in Tinte (Band 1: Blatt [b₁] als a bezeichnet, Band 2: Blatt [t₁] als s, [v₃] als t₃ bezeichnet; Lagensignaturen nicht durchgehend, häufig weggeschnitten oder nur teilweise erkennbar); neuere handschriftliche Lagensignatur gemäss GW in Graphit auf der ersten Recto-Seite jeder Lage, bei unvollständigen Lagen auch auf der letzten vorhandenen Recto-Seite; Band 1 und 3: handschriftliche Foliierung in Graphit auf einzelnen Recto-Seiten; Pergamentverstärkungen in den Lagenmitten zum Teil vollflächig verklebt; rot ausgezeichnete Initialen (uniforme Initialen in Stempeldruck und teilweise Nachzeichnung, Schulter der Druckmodel teilweise mitgedruckt, z.B. Band 2, Blatt [A₄] recto), zu Beginn eines biblischen Buches jeweils eine Schmuckinitiale mit Verzierungen in roter bzw. schwarzer Tinte, auf den handgeschriebenen Seiten rot und/oder blau ausgezeichnete und verzierte Schmuckinitialen; Rubrizierung (auf gedruckten und handgeschriebenen Seiten), Blattweiser    
+590      |a Buchblockbeschreibung Band 1: Papierfalz zwischen Lage [X] und [Y] zum vorderen fliegenden Blatt, Löcher und Abdrücke bis Blatt [Y₁₀] sind evtl. in Verbindung mit einer Vorlochung für den unteren linken Buckelbeschlag am Vorderdeckel zu werten, grün-gelber Schwemmrand an Blatt [Y₃] weist auf einen vormals gelben Farbschnitt hin, Papierfalz an Blatt [d₈] recto gehört zu Blatt [d₃] (Blatt [d₈] wurde von aktueller Vorderkante des Blattes [d₃] abgeschnitten und an gegenüberliegender Blattkante im Falz angehängt und mit Papierergänzung in der Breite angepasst; zusammen mit der Falzung an der Aussenkante von Blatt [d₃] mit angedeutetem Heftloch weist dies darauf hin, dass Blatt [d₈] in der ursprünglichen Lagenplanung vor [d₃] lag); Struktur der Lage [k] (Blätter [k₁]-[k₃] und unbedrucktes Blatt): Blätter [k₁] und [k₂] mit Pergamentfälzen innen und aussen zusammengesetzt, Blatt [k₃] mit einem Papierfalz angehängt (Papierfalz mit quer verlaufender Papierstruktur an Blatt [k₃] verso gehört zu dieser Technik), unbedrucktes Blatt um Blätter [k₁]-[k₃] gehängt (oberster Papierfalz von insgesamt zwei Fälzen mit quer verlaufender Papierstruktur gehört zum unbedruckten Blatt)    
+590      |a Buchblockblockbeschreibung Band 2: Papierfalz zwischen Lage [y] und [z] gehört zum vorderen fliegenden Blatt, Lage [s] (unbedrucktes Blatt und Blätter [s₃]-[s₁₀]) ist zusammengesetzt aus unbedrucktem Blatt, das mit einem Papierfalz mit quer verlaufender Papierstruktur mit Einzelblatt [s₁₀] zusammengesetzt ist und aus den Doppelblättern [s₃]/[s₈], [s₄]/[s₇], [s₅]/[s₆] und dem Einzelblatt [s₉], das mit einem Papierfalz mit quer verlaufender Papierstruktur mit Blatt [s₃] recto verbunden ist , Papierfalz mit quer laufender Papierstruktur an Blatt [v₁] recto und an Blatt [v₃] verso gehört zur Verklebung des Einzelblattes [v₃] an den Blättern [v₁] und [v₂], Pergamentverstärkung innen und aussen an den Blättern [v₁] und [v₂];  Struktur der Lage [K] (Blätter [K₁]-[K₁₀] und [L₁]): Papierfalz mit quer verlaufender Papierstruktur vor Blatt [K₁] gehört zur Technik, mit der Blatt [L₁] um die Lage [K] gehängt ist, an Blatt [K₁] ist Blatt [K₁₀] gehängt (Blatt [K₁₀] wurde von aktueller Vorderkante des Blattes  [K₁] abgeschnitten und an gegenüberliegender Blattkante im Falz angehängt und mit Papierergänzung in der Breite angepasst. Zusammen mit der Falzung an der Aussenkante von Blatt [K₁] mit angedeutetem Heftloch weist dies darauf hin, dass Blatt [K₁₀] in der ursprünglichen Lagenplanung vor [K₁] lag.), Papierfalz vor Blatt [K₁₀] gehört zu Blatt [K₁], Papierfalz an Blatt [K₂] recto gehört zu Blatt [K₉] (Blatt [K₂] wurde an aktueller Vorderkante des Blattes [K₉] abgeschnitten und mit Papierergänzung in der Breite angepasst. Zusammen mit der Falzung an der Aussenkante von Blatt [K₉] mit angedeutetem Heftloch weist dies darauf hin, dass Blatt [K₂] in der ursprünglichen Lagenplanung hinter [K₉] lag.); Struktur Lage [L] (Blätter [L₂] bis [L₈] und unbedrucktes Blatt): Papierfalz mit quer verlaufender Papierstruktur an Blatt [L₂] recto gehört zum unbedruckten Blatt, an das Blatt [L₂] gehängt wurde    
+590      |a Buchblockbeschreibung Band 3: Papierfalz zwischen den ersten beiden Lagen [C] und [D] gehört zum vorderen fliegenden Blatt, Struktur Lage [C] (Blätter [C₇]-[C₁₀]), Blätter der Lage sind zu Doppelblättern zusammengesetzt und aussen mit einem Pergamentfalz verbunden (Annahme aufgrund der fehlenden Blätter [C₁] bis [C₆], ausserdem gleiches Wasserzeichen an Blatt [C₇] und [C₁₀], was unüblich ist für ein Doppelblatt); Papierfalz an Blatt [E₁] recto gehört zum unbedruckten Blatt, das auf [E₉] folgt ("fol. 157"), der folgende Teil der Lage [q] ([q₉] und [q₁₀]) besteht aus einem Doppelblatt mit Pergamentverstärkung auch aussen, Pergamentverstärkungen aussen an Blättern [s₁] und [S₁₀] und [s₂] und [S₉], unbedrucktes Blatt aussen mit Pergamentfalz an Blatt [s₃] gehängt, Struktur der Lage [k] (Blätter [k₄]-[k₁₀]) besteht aus zwei Einheiten: Doppelblätter [k₄]/[k₇] und [k₅/k₆] sowie Blätter [k₈] und [k₉], die innen und aussen mit einem Pergamentfalz zusammengesetzt sind (Annahme aufgrund der fehlenden Blätter [k₁]-[k₃]) mit umgehängten Blatt [k₁₀] (Papierfalz mit quer verlaufender Papierstruktur an Blatt [k₈] recto und Blatt [k₁₀] verso gehört zu dieser Technik)    
+590      |a Zustand Buchblock: Aufgrund der fehlenden Bücher und der abweichenden Bindung sind Teile von Büchern, von denen nur der Anfang oder der Schluss auf einer Seite vorhanden sind, mit vollflächig mit grüner Farbe bedeckt und/oder durchgestrichen worden (Band 2, Blätter [A₁₀] verso und [v₃] verso, Band 3, Blätter [E₉] verso, [s₂] verso - dort mit roter Übermalung, [V₈] verso, [k₄] recto und [q₈] verso); zum Teil sind unbedruckte Blätter zwischen die Lagen gebunden worden, um darauf den Anfang oder Schluss von Büchern handschriftlich zu ergänzen (Band 1: hinter Blatt [k₃], Band 2: hinter Blatt [A₁₀] (Linierungen dort teilweise getilgt und geglättet) , Band 3: fliegendes Blatt vor Blatt [C₇], hinter Blättern [E₉] und [s₂]); Reparaturen in Band 1 an Blatt [d₈], in Band 2 an den Blättern [K₂] und [K₁₀] (jeweils an Vorderkante mit angeklebtem Papierstreifen ergänzt); Blattweiser aus rotem Leder mit deutlichem Abrieb in allen drei Bänden    
+590      |a Unvollständiges Exemplar: Blätter [a₁]-[a₈] (Briefe von Johannes Andreas und Mathias Palmerius, Inhaltsverzeichnis, Schrift 'Aristeas ad Philocratem'), [v₄]-[v₁₂], [x₁]-[x₁₂] (Psalmi), [B₁]-[B₁₀], [C₁]-[C₆] (Isaias), [E₁₀], [F₁]-[J₁₀] (Ezechiel-Malachias), [L₉]-[L₁₀], [M₁]-[R₁₀], [S₁]-[S₃] (Matthaeus-Joannes) fehlen (151 Blätter)    
+590      |a Abweichende Bindung, Band 1: [X₁]-[Z₁₀], [b₁]-[i₁₀], [k₁]-[k₃] (Interpretationes nominum hebraicorum, Genesis – Ruth; auf unbedrucktem Blatt hinter [k₃] Abschrift des Endes von Ruth)    
+590      |a Bindung Band 2: Blätter [y₁]-[z₁₀], [A₁]-[A₁₀], [s₃]-[v₃], [K₁]-[L₈] (Proverbia - Ecclesiasticus, Tobias - Job, Machabaeorum; unbedrucktes Blatt vor [s₃] mit Abschrift des Anfangs des Prologs zu Tobias und hinter [L₈] mit Abschrift vom Ende der Machabaeorum II)    
+590      |a Bindung Band 3: Blätter [C₇]-[E₉], [q₉]-[s₂], [S₄]-[V₈], [k₄]-[q₈] (Jeremiae - Baruch, Esdrae, Actus Apostolorum - Apocalypsis, Regum libri (Samuel, Könige) - Paralipomenon libri (Chronik); unbedruckte Blätter vor [C₇] mit Abschrift des Prologs zu Jeremiae, vor [q₉] mit Abschrift des Anfangs des Prologs zu Esdrae und vor [S₄] mit Abschrift des Prologs zu den Actus Apostolorum)    
+590      |a Auf vorderen fliegenden Blättern oben Inhaltsangaben zum jeweiligen Band, wobei Band 1 als "secunda", Band 2 als "quarta", Band 3 als "tercia pars" bezeichnet wird (Inhalt und Verbleib des "prima pars" unklar)    
+590      |a In Band 3, Blatt [S₁₀] verso handschriftliche Ergänzung von fehlendem Text in Tinte am unteren Rand: Ita... "lia et priscilla[m] uxore[m] ei[us] pre" ... cepiss; sonst keine Annotationen    
+590      |a Handschriftliche Foliierung einzelner Blätter in Band 1: "fol." 458 (Blatt [Z₁₀]), 9a ([b₁]), 21 ([c₃]), 41 ([e₃]), 61 ([g₃]), 81 ([i₃]), 91 ([k₃]); in Band 3: 157 (Blatt nach [E₉]), 161 [(r₂)], 171 ([s₂]), 406 ([S₄]), 421 ([V₁]), 428b ([V₈] verso), 92 ([k₄]), 101 ([l₁]), 121 ([n]) und 141 ([p₂])    
+590      |a Zusammengebunden mit Nicolaus de Lyra: Postilla super totam Biblia. - [Strassburg] : [Drucker des Henricus Arminensis], [vor 1477] (in allen drei Bänden)    
+590      |a Einbandfragmente aus diesen Bänden in der Burgerbibliothek, Signatur BBB Cod. 756.16, 756.17, 756.18, 756.19, 756.20 und 756.21 (jeweils 1 Urkunde, 1 Blatt, handschriftlich, Pergament, latein, 15. Jahrhundert)    
+590      |a Frühere Signatur: Inc 51    
+700 0    |a Johannes    |c Andreas    |d 1417-1475    |0 (DE-588)102519552    |e Herausgeber    |4 edt    
+700 1    |a Hieronymus, Sophronius Eusebius    |d 345-420    |0 (DE-588)118550853    |e Übersetzer    |e Verfasser von ergänzendem Text    |4 trl    |4 wst    
+700 1    |a Frisner, Andreas    |d 1448-1504    |0 (DE-588)129020125    |e Drucker    |4 prt    
+700 1    |a Sensenschmidt, Johann    |d 1420-1491    |0 (DE-588)104103787    |e Drucker    |4 prt    
+700 1    |a Zum Luft, Peter    |d -1474    |0 (DE-588)1089912110    |e Stifter    |4 dnr    
+700 1    |a Zscheckenbürlin, Hieronymus    |d 1461-1536    |0 (DE-588)1072037270    |e Stifter    |4 dnr    
+710 2    |a Kloster St. Margarethental    |0 (DE-588)4682346-3    |e Früherer Eigentümer    |4 fmo    
+710 2    |a Kloster Thorberg    |0 (DE-588)7725716-9    |e Früherer Eigentümer    |4 fmo    
+730 0    |a Bibel    |g Vulgata    |0 (DE-588)4188770-0    
+751      |a Nürnberg    |0 (DE-588)4042742-0    
+852 4    |b B404    |c 404U3    |j MUE Inc II 6    |9 (41SLSP_UBE)99116885383505511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit einem weiteren Druck    |h MUE Inc II 6 : 1:1    |q [Band 1]    |p 12    |j MUE Inc II 6    |b B404    |9 (41SLSP_UBE)99116885383505511    
+949      |c 404U3    |z Zusammengebunden mit einem weiteren Druck    |h MUE Inc II 6 : 3:1    |q [Band 3]    |p 12    |j MUE Inc II 6    |b B404    |9 (41SLSP_UBE)99116885383505511    
+949      |c 404U3    |z Zusammengebunden mit einem weiteren Druck    |h MUE Inc II 6 : 2:1    |q [Band 2]    |p 12    |j MUE Inc II 6    |b B404    |9 (41SLSP_UBE)99116885383505511    
+986      |a (41SLSP_UBE)99116885383505511    |9 (41SLSP_UBE)99116885383505511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116885383505511    
+991      |a AAK: 88098    |5 IZ UBE/21.01.2019/B404/vha    |9 local    |9 (41SLSP_UBE)99116885383505511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

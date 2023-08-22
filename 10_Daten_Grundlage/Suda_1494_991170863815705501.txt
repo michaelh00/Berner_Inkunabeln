@@ -1,0 +1,153 @@
+﻿<-1-1-START->
+Suda
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Das vermutlich aus mehreren Autoren kompilierte Lexikon wurde bis ins 20. Jahrhundert fälschlich einem nicht belegten Autor namens Suida(s) zugeschrieben, was wohl auf eine Fehlinterpretation des Titels "Suda" (Festung, Schanzwerk) zurückgeht<-500-STOP->
+<-500-START->Herausgegeben und verlegt von Dēmētrios Chalkokondylēs<-500-STOP->
+<-500-START->Mit griechischem "Dialogos" von Stephanus Niger, zwei lateinischen Epigrammen von Antonius Motta, einem lateinischen Brief von Giovanni Maria Cattaneo an Albertus Pius, Fürst von Carpi, sowie zwei lateinischen Gedichten von Johannes Salandus an den Herausgeber und "ad lectorem"<-500-STOP->
+<-500-START->Text griechisch, ausser dem Kolophon und den lateinischen Beigaben<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Mailand: Giovanni Bissoli und Benedetto Dolcibelli del Mangio für Dēmētrios Chalkokondylēs, 15.11.1499
+<-3-1-STOP->
+
+<-4-1-START->
+1031 ungezählte Seiten: Druckermarke; 32 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_S-606.html<-L-5-STOP-><-VI-5-START->BSB-Ink S-606<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M44268.htm<-L-5-STOP-><-VI-5-START->GW M44268<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/is00829000<-L-5-STOP-><-VI-5-START->ISTC is00829000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+89 von 516 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Kartoneinband (20. Jahrhundert), mit marmoriertem Papier bezogen
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar, es fehlen 427 Blätter; vorhanden sind: α₁-α₂, α₅-α₇, ε₂, λ₈, Y₂-Y₈, Φ-Ω₈, ΑΑ–ΔΔ8-, ΕΕ₆, ΖΖ₁-ΖΖ₄, ΖΖ₆
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99117258499105511<-L-11-STOP-><-VI-11-START->MUE GDB Gut 7<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991170863815705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Suida<-P-STOP->
+<-P-START->Chalkokondylēs, Dēmētrios<-P-STOP->
+<-P-START->Niger, Stephanus<-P-STOP->
+<-P-START->Cattaneo, Giovanni Maria<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Mailand<-O-STOP->
+<-P-START->Chalkokondylēs, Dēmētrios<-P-STOP->
+<-O-START->Mailand<-O-STOP->
+<-P-START->Bissoli, Giovanni<-P-STOP->
+<-O-START->Mailand<-O-STOP->
+<-P-START->Dolcibelli del Mangio, Benedetto<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991170863815705501<-DOI-STOP->
+<-SIGN-START->MUE GDB Gut 7<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06668nam a2200673 c 4500
+001 991170863815705501
+005 20221206155907.0
+008 220302s1494    it ||||      |00| ||grc d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 UBE/B404/20220303/vha    
+035      |a (EXLNZ-41SLSP_NETWORK)991170863815705501    
+035      |a (41SLSP_UBE)99117258499105511    |9 (41SLSP_UBE)99117258499105511    
+040      |a CH-ZuSLS UBE    |b ger    |e rda    
+082 7 4  |a 030    |2 23sdnb    
+130 0    |a Suda    |0 (DE-588)4579463-7    
+245 1 0  |a <<To>> Men Paron Biblion, Suida    |b Hoi De Syntaxamenoi Tuto, Andres Sophoi ...    
+246 1    |i Titel gemäss GW    |a Lexicon    
+246 1    |i Titel gemäss ISTC    |a Lexicon graecum    
+264   1  |a Impressum Mediolani    |b impensa & dexteritate D Demetrii Chalcondyli Ioannis Bissoli Benedicti Mangii Carpensium    |c Anno ab incarnatione .M.cccc,lxxxxviiii die xv nouembris [15.11.1499]    
+300      |a 1031 ungezählte Seiten    |c 32 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Titelaufnahme für unvollständiges Exemplar, Titel und Impressum von druckgleichem, vollständigen Exemplar    
+500      |a Titel gemäss Incipit (Blatt α₃ recto)    
+500      |a Das vermutlich aus mehreren Autoren kompilierte Lexikon wurde bis ins 20. Jahrhundert fälschlich einem nicht belegten Autor namens Suida(s) zugeschrieben, was wohl auf eine Fehlinterpretation des Titels "Suda" (Festung, Schanzwerk) zurückgeht    
+500      |a Herausgegeben und verlegt von Dēmētrios Chalkokondylēs (Vorwort auf Blatt α₂ verso, Impressum auf Blatt ΖΖ₅ verso)    
+500      |a Mit griechischem "Dialogos" von Stephanus Niger (Blatt α₁ recto), zwei lateinischen Epigrammen von Antonius Motta (α₁ verso), einem lateinischen Brief von Giovanni Maria Cattaneo an Albertus Pius, Fürst von Carpi (α₂ recto), sowie zwei lateinischen Gedichten von Johannes Salandus an den Herausgeber und "ad lectorem" (ΖΖ₆ recto)    
+500      |a Impressum gemäss Kolphon (Blatt ΖΖ₅ verso); Reihenfolge der Vorlage: "Anno ab incarnatione .M.cccc,lxxxxviiii die xv nouembris, Impressum Mediolani impensa & dexteritate D Demetrii Chalcondyli Ioannis Bissoli Benedicti Mangii Carpensium"; darunter eine Druckermarke (Holzschnitt)    
+500      |a Text griechisch, ausser dem Kolophon und den genannten lateinischen Beigaben    
+500      |a Signaturformel: α–ω⁸, ααα–λλλ⁸, Α–Ω⁸, ΑΑ–ΔΔ⁸, ΕΕ–ZZ⁶    
+500      |a Blatt ZZ₆ verso (letzte Seite) unbedruckt    
+510 4    |a BSB-Ink    |c S-606    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_S-606.html    
+510 4    |a GW    |c M44268    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M44268.htm    
+510 4    |a ISTC    |c is00829000    |u https://data.cerl.org/istc/is00829000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u https://daten.digitale-sammlungen.de/~db/0005/bsb00050756/images/    
+561      |a Depositum der Gesellschaft der Freunde des Gutenbergmuseums    
+563      |a Kartoneinband (20. Jahrhundert), mit marmoriertem Papier bezogen, Titelschild aus Papier auf dem Rücken, mit Titel in Tinte: "Suidas 1499"    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse: 31.6 x 23.0 x 2.2 cm    
+590      |a Buchblockbeschreibung: 89 von 516 Blättern, am Anfang und am Ende ein Teil der Blätter mit handschriftlicher Lagensignatur und Foliierung in Graphit; Papierfälze hinter Blatt ε₂ und vor Blatt ΕΕ₁ Teil der Vorsatzkonstruktion, vorgesehene Stellen für Initialen frei gelassen, keine Rubrizierung    
+590      |a Zustand Buchblock: Ab Blatt Y₂ alle Blätter bis zum Ende am unteren Rand stark beschnitten (an den Rändern noch Flecken aufgrund von Feuchteschäden) und mit angeklebtem Papier repariert; Blätter α₁ und α₂ fleckig, Schaden an Blatt  α₁ unten aussen mit Papierstreifen verso überklebt    
+590      |a Unvollständiges Exemplar, es fehlen die Blätter α₃ (mit Incipit), α₄, α₈, β- δ₈, ε₁, ε₃-ε₈, ζ- κ₈, λ₁-λ₇, μ- ω₈, ααα- λλλ₈, A-T₈, Y₁, ZZ₅ (mit Kolophon), zusammen 427 Blätter    
+590      |a Vorhanden sind: α₁-α₂, α₅-α₇, ε₂, λ₈, Y₂-Y₈, Φ-Ω₈, ΑΑ–ΔΔ8-, ΕΕ₆, ΖΖ₁-ΖΖ₄, ΖΖ₆; das entspricht in der handschriftlichen Blattzählung (vergleiche Exemplar MUE Hospinian 12): 1-2, 5-7, 34, 88, 434-514, 516    
+590      |a Blatt α₇ vor α₆ eingebunden    
+590      |a Handschriftliche Lagensignatur auf den Blättern α₅-α₇ (aufgrund falscher Bindung), sowie den Blättern λ₈, ΖΖ₄ und ΖΖ₆; handschriftliche Foliierung auf den Blättern ε₂ ("34"), λ₈ ("88"), Y₂ ("434"), sowie ΖΖ₄ ("514") und ΖΖ₆ ("516")    
+590      |a Weiteres Exemplar dieser Ausgabe (dort fehlen nur die Blätter Η₆ und Η₇): MUE Hospinian 12    
+648   4  |a Geschichte 900-1000    
+650   4  |a Lexikon    
+651   4  |a Byzantinisches Reich    
+655   4  |a Quelle    
+700 0    |a Suida    |c Fiktive Gestalt    |d ca. 10. Jahrhundert    |4 aut    |0 (DE-588)115232710    
+700 1    |a Chalkokondylēs, Dēmētrios    |d 1424-1511    |0 (DE-588)119514567    |4 edt    
+700 1    |a Chalkokondylēs, Dēmētrios    |d 1424-1511    |0 (DE-588)119514567    |4 pbl    
+700 1    |a Niger, Stephanus    |d 1475-1540    |0 (DE-588)125002246    |4 wst    
+700 1    |a Cattaneo, Giovanni Maria    |d -1529    |0 (DE-588)100454259    |4 wst    
+700 1    |a Pio di Carpi, Alberto    |d 1475-1550    |0 (DE-588)119399806    |4 dte    
+700 1    |a Bissoli, Giovanni    |d ca. um 1499    |0 (DE-588)10246667X    |e Drucker    |4 prt    
+700 1    |a Dolcibelli del Mangio, Benedetto    |0 (DE-588)102831823    |e Drucker    |4 prt    
+710 2    |a Gesellschaft der Freunde des Gutenbergmuseums    |0 (DE-588)2137933-6    |4 own    
+751      |a Mailand    |0 (DE-588)4037100-1    
+852 4    |b B404    |c 404U3    |j MUE GDB Gut 7    |9 (41SLSP_UBE)99117258499105511    
+900      |a IDSIxunikat    
+949      |c 404U3    |z Depositum der Gesellschaft der Freunde des Gutenbergmuseums    |p 12    |j MUE GDB Gut 7    |b B404    |9 (41SLSP_UBE)99117258499105511    
+986      |a (41SLSP_UBE)99117258499105511    |9 (41SLSP_UBE)99117258499105511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99117258499105511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

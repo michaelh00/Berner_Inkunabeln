@@ -1,0 +1,144 @@
+﻿<-1-1-START->
+Karolellus
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Poitiers]: Jean Bouyer und Guillaume Bouchet, [um 1497]
+<-3-1-STOP->
+
+<-4-1-START->
+96 ungezählte Seiten: 1 Illustration, Druckermarke; 21 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW12612.htm<-L-5-STOP-><-VI-5-START->GW 12612<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ic00203000<-L-5-STOP-><-VI-5-START->ISTC ic00203000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+48 von 48 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Kalb, 16./17. Jahrhundert), Linien-Blindprägung und Ornamentstempel-Goldprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116837997305511<-L-11-STOP-><-VI-11-START->MUE Bong V 963<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991149252539705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Poitiers<-O-STOP->
+<-P-START->Bouyer, Jean<-P-STOP->
+<-O-START->Poitiers<-O-STOP->
+<-P-START->Bouchet, Guillaume<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991149252539705501<-DOI-STOP->
+<-SIGN-START->MUE Bong V 963<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04277nam a2200625 c 4500
+001 991149252539705501
+005 20211215195553.0
+007 cr#|||||||||||
+008 100616s1497    fr            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/29.01.2019/B404/faf    
+024 7    |a 10.3931/e-rara-88393    |2 doi    
+035      |a (swissbib)063841029-41slsp_network    
+035      |a 063841029    |9 ExL    
+035      |a (IDSBB)005246991DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991149252539705501    
+035      |a (41SLSP_UBE)99116837997305511    |9 (41SLSP_UBE)99116837997305511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+130 0    |a Karolellus    |0 (DE-588)1176550497    
+245 1 0  |a Gesta Karoli magni Francorum regis    
+246 1    |i Explicit    |a Karoli magni francorum regis semper inuicti i[n]clita gesta describens opus egregiumopera Magistrorum Ioa[n]nis boueri. [et] Guillermi bouchet. accuratissime castigatum et amendis scripto[rum] prioris[que] impressionis vigili cum diliigentia releuatum. Finit feliciter    
+246 1    |i Explicit in normalisierter Form    |a Karoli Magni Francorum regis semper invicti inclita gesta describens opus egregium opera magistrorum Ioannis Boueri et Guillermi Bouchet accuratissime castigatum et amendis scriptorum priorisque impressionis vigili cum diliigentia relevatum finit feliciter    
+246 1    |i Gedichtschluss (Blatt F₈ recto)    |a Et quis gesta tenet karoli breuis iste libellus: Imponatur ei proprium nomen karolellus    
+246 1    |i Gedichtschluss (Blatt F₈ recto) in normalisierter Form    |a Et quis gesta tenet Karoli brevis iste libellus: Imponatur ei proprium nomen Karolellus    
+246 1    |i Titel gemäss GW    |a Gesta Caroli Magni Francorum regis    
+264   1  |a [Poitiers]    |b opera magistrorum Ioannis Boueri et Guillermi Bouchet accuratissime castigatum et amendis scriptorum priorisque impressionis vigili cum diliigentia relevatum    |c [um 1497]    
+300      |a 96 ungezählte Seiten    |b 1 Illustration    |c 21 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+337      |b c    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+338      |b cr    |2 rdacarrier    
+500      |a Keine Titelseite, nur Kopftitel    
+500      |a Drucker gemäss Explicit    
+500      |a Druckort und Druckjahr gemäss GW und ISTC    
+500      |a Druckermarke am Ende    
+500      |a Signaturformel: A-F⁸    
+510 4    |a GW    |c 12612    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW12612.htm    
+510 4    |a ISTC    |c ic00203000    |u http://data.cerl.org/istc/ic00203000    
+561      |a Handschriftlicher Besitzvermerk auf Blatt A₁ recto: "Bongars"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Kalb, 16./17. Jh.), Linien-Blindprägung und Ornamentstempel-Goldprägung auf beiden Deckeln und dem Rücken    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 21 x 14.2 x 1.6 cm    
+563      |a Zustand Einband: Kratzspuren und Frassschäden im Einbandleder, Lederüberklebungen am Rücken und beiden Deckeln mit Ergänzung der Blindlinierung, Japanpapierfalz an Pergamentverstärkung beider Vorsätze    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 48 von 48 Blättern, Pergamentfalz (Manuskriptmakulatur) vor Blatt A₁ und nach Blatt F₈ gehört zur Vorsatzkonstruktion, Japanpapierfälze gehören zur nachträglichen Bearbeitung    
+590      |a Zustand Buchblock: Japanpapierfalzvorklebung vor Blatt A₁ und nach Blatt F₈    
+590      |a Vereinzelte handschriftliche Annotationen in Tinte    
+590      |a Historische Signatur auf vorderem Spiegel: "742. Hist. Prof.", Zahl korrigiert zu "73."; auf Blatt A₁ recto: "hist prof B 86"    
+590      |a Frühere Signaturen: Inc 406; Inc III 108; XXII 37    
+700 1    |a Bouyer, Jean    |d 14XX-15XX    |0 (DE-588)1176580388    |e Drucker    |4 prt    
+700 1    |a Bouchet, Guillaume    |d 14XX-15XX    |0 (DE-588)1176580027    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+751      |a Poitiers    |0 (DE-588)4046470-2    
+852 4    |b B404    |c 404U3    |j MUE Bong V 963    |9 (41SLSP_UBE)99116837997305511    
+856 4    |u https://doi.org/10.3931/e-rara-88393    |z Digitalisat in e-rara    
+900      |a IDSIxunikat    
+900      |a IDSIxhybrid-el    
+900      |a NOMERGEALEX    
+949      |i ZB Inc III 108    |c 404U3    |p 12    |j MUE Bong V 963    |b B404    |9 (41SLSP_UBE)99116837997305511    
+986      |a (41SLSP_UBE)99116837997305511    |9 (41SLSP_UBE)99116837997305511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116837997305511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116837997305511    
+990      |f erarabe    |9 local    |9 (41SLSP_UBE)99116837997305511    
+990      |f lza-cc0    |9 local    |9 (41SLSP_UBE)99116837997305511    
+991      |a Bongars: 06056    |5 IZ UBE/B400/16.06.2010    |9 local    |9 (41SLSP_UBE)99116837997305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

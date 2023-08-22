@@ -1,0 +1,138 @@
+﻿<-1-1-START->
+Bibel [deutsch]
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Übersetzung der lateinischen Vulgata des Hieronymus, sowie seinen Prologen und Briefen an Paulinus von Nola und Papst Damasus I.<-500-STOP->
+<-500-START->Band 1: Genesis bis Psalter; Band 2: Sprichwörter bis Offenbarung<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Straßburg: [Johann Grüninger], 02.05.1485
+<-3-1-STOP->
+
+<-4-1-START->
+2 Bände: Illustrationen; 29 cm (2°)
+<-500-START->Band 1: 1 ungezähltes Blatt, Blätter II-CCCXXXVI, CCCXXXVIII-CCCCLXVII (das heisst 466 Blätter); Band 2: 1 ungezähltes Blatt, Blatt I-CXCI, Seite CXCII-CXCVII, 4 ungezählte Seiten, Seite CCIIII-CCV, CCIIII-CCV, Blatt CCVI-CCX, CCXII-CCLXIII, CCLXV-CCCCLXIIII (das heisst 456 Blätter)<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-491.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-491<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW04304.htm<-L-5-STOP-><-VI-5-START->GW 4304<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib00633000<-L-5-STOP-><-VI-5-START->ISTC ib00633000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+Band 1: 465 von 466 Blättern, Band 2: 455 von 456 Blättern, Illustrationen koloriert, rot ausgezeichnete Initialen, Anfangsinitialen in beiden Bänden koloriert und mit Zierranken am Seitenrand
+<-6-1-STOP->
+
+<-7-1-START->
+2 ganzbezogene Pergamenteinbände auf Kartondeckeln mit durchzogenen Bünden und Stosskanten (17./18. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Unbedruckte Blätter aa₁ in Band 1 und a₁ in Band 2 fehlen 
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116750470505511<-L-11-STOP-><-VI-11-START->MUE Inc IV 5<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991083101799705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Hieronymus, Sophronius Eusebius<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Grüninger, Johannes<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991083101799705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 5<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05425nam a2200577 ca4500
+001 991083101799705501
+005 20211215184146.0
+008 130515s1485    fr            00| | ger d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/24.07.2014/B400/vha    
+035      |a (swissbib)066693373-41slsp_network    
+035      |a 066693373    |9 ExL    
+035      |a (IDSBB)006126378DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991083101799705501    
+035      |a (41SLSP_UBE)99116750470505511    |9 (41SLSP_UBE)99116750470505511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a ger    |h lat    |h heb    |h grc    |h arc    
+130 0    |a Bibel    |0 (DE-588)4006406-2    
+245 1 0  |a Disz durchleuchtigest werck der gantzen heyligen geschrift genant die bibel    |b zů teütsch getrukt. lauter. clar. vn[d] war. nach rechte[m] gmeyne[m] teutsche[m]. mit hohe[m] und großem vleyß. gege[n] dem lateynische[n] text gerechtuertiget. : vnd[er]schidlichen punctirt. mit vberschriffte[n] der capitel vnd psalmen. iren inhalt vnd vrsach. anzaygende. Vnd mit schönen figure[n] dy hystorien bedeutende ...    
+246 1    |i Titel gemäss GW    |a Biblia    |b deutsch    
+246 1    |i Titel in moderner Orthografie    |a Dies durchleuchtigest Werk der ganzen heiligen Geschrift, genannt die Bibel    |b zu Deutsch gedruckt, lauter, klar und wahr, nach rechtem, gemeinem Deutschem, mit hohem und großem Fleiß gegen dem lateinischen Text gerechtfertiget    
+264   1  |a Gedruckt in der löblichen keyserlichen freystatt Straßburg    |b [Johann Grüninger]    |c Nach der geburt cristi ... viertzehenhundert vnd in de[n] fünffvndachtzigsten iar vff montag der zweyt des mondes May ... [2.05.1485]    
+300      |a 2 Bände    |b Illustrationen    |c 29 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Titel gemäss Kolophon am Ende von Band 2    
+500      |a "Biblia" auch Titel gemäss BSB-Ink (dort Zusatz "<dt.>") und ISTC (Zusatz "[German]")    
+500      |a Band 1: Genesis ("Das Buch Der geschopft") bis Psalter; Band 2: Sprichwörter ("Das buch Der spruch") bis Offenbarung    
+500      |a Druckort und Druckdatum gemäss Kolophon, Drucker gemäss BSB-Ink, GW und ISTC    
+500      |a Umfang Band 1: 1 ungezähltes Blatt, Blätter II-CCCXXXVI, CCCXXXVIII-CCCCLXVII (das heisst 466 Blätter); Band 2: 1 ungezähltes Blatt, Blatt I-CXCI, Seite CXCII-CXCVII, 4 ungezählte Seiten, Seite CCIIII-CCV, CCIIII-CCV, Blatt CCVI-CCX, CCXII-CCLXIII, CCLXV-CCCCLXIIII (das heisst 456 Blätter)    
+500      |a Mehrfache Fehler in der Blattzählung in beiden Bänden    
+500      |a Signaturformel Band 1: aa–rr⁸, ſſ⁸, ss–zz⁸, A⁸, B-C⁴, D–Z⁸, a–i⁸, k¹⁰, l-m⁸; Band 2: a–v⁸, w⁸, x–z⁸, A–Z⁸, aa–kk⁸    
+500      |a Band 1: Blatt aa₁ unbedruckt; Band 2: Blatt a₁ unbedruckt    
+500      |a Zahlreiche Holzschnitte    
+510 4    |a BSB-Ink    |c B-491    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-491.html    
+510 4    |a GW    |c 4304    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW04304.htm    
+510 4    |a ISTC    |c ib00633000    |u http://data.cerl.org/istc/ib00633000    
+530      |a Digitalisat Band 1 (Exemplar der Bayerischen Staatsbibliothek München; dort Titelblatt aus dem 18. Jahrhundert eingebunden)    |u http://daten.digitale-sammlungen.de/bsb00025991/image_10    
+530      |a Digitalisat Band 2 (Exemplar der Bayerischen Staatsbibliothek München; dort Titelblatt aus dem 18. Jahrhundert eingebunden)    |u http://daten.digitale-sammlungen.de/bsb00025992/image_9    
+563      |a Einbandbeschreibung: 2 ganzbezogene Pergamenteinbände auf Kartondeckeln mit durchzogenen Bünden und Stosskanten (17./18. Jahrhundert); handschriftlich mit Tinte auf dem Rücken: "Bibla teutsch vol. 1 [vol. 2] de A.° 1485"    
+563      |a Vorsätze (beide Bände): Vorne und hinten mit zwei fliegenden Blättern    
+563      |a Masse Einbände: Band 1: 28.5 x 21.5 x 7.9 cm; Band 2: 28.7 x 21.5 x 7.5 cm    
+563      |a Zustand Einbände (beide Bände): Stosskanten deformiert    
+590      |a Buchblockbeschreibung: Band 1: 465 von 466 Blättern, Band 2: 455 von 456 Blättern, Illustrationen koloriert, rot ausgezeichnete Initialen, Anfangsinitialen in beiden Bänden sowie in Band 1, Blatt bb₁ recto (Anfang Buch Genesis), koloriert und mit Zierranken am Seitenrand    
+590      |a Zustand Buchblock: Band 1: Blatt aa₁ fehlt, Risse und Fehlstellen mit Büttenpapier-Überklebungen stabilisiert, Brüche und Abplatzungen im Malschichtauftrag und den Vergoldungen an Blättern aa₂ und bb₁    
+590      |a Zustand Buchblock: Band 2: Blatt a₁ fehlt, Risse und Fehlstellen mit Büttenpapier-Überklebungen stabilisiert (stellenweise bereits wieder abgelöst, Blatt a₂), Brüche und Abplatzungen im Malschichtauftrag und den Vergoldungen an Blatt a₂    
+590      |a Blätter aa₁ in Band 1 und a₁ in Band 2 (beide unbedruckt) fehlen    
+590      |a Historische Signatur auf vorderem Spiegel von Band 1: "Bibl: 287. 126."; von Band 2: "Bibl: 288. 127."    
+590      |a Frühere Signatur: Inc 98    
+700 1    |a Grüninger, Johannes    |d 1455-1531    |0 (DE-588)118698451    |e Drucker    |4 prt    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 5    |9 (41SLSP_UBE)99116750470505511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |h MUE Inc IV 5 : 1    |p 12    |j MUE Inc IV 5    |b B404    |9 (41SLSP_UBE)99116750470505511    
+949      |c 404U3    |h MUE Inc IV 5 : 2    |p 12    |j MUE Inc IV 5    |b B404    |9 (41SLSP_UBE)99116750470505511    
+986      |a (41SLSP_UBE)99116750470505511    |9 (41SLSP_UBE)99116750470505511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116750470505511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

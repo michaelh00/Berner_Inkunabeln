@@ -1,0 +1,139 @@
+﻿<-1-1-START->
+Johannes Bromiardus
+<-1-1-STOP->
+
+<-1-2-START->
+Summa praedicantium
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Band 1 mit Tabulae, Prologus und Summa von A bis L; Band 2 von M bis X<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Basel: Johann Amerbach, nicht nach 1484]
+<-3-1-STOP->
+
+<-4-1-START->
+2 Bände; 38 cm (2°)
+<-500-START->Band 1: 1 ungezähltes Blatt (leer), 70 ungezählte Seiten, 1 ungezähltes Blatt (leer), 654 ungezählte Seiten; Teil 2: 1 ungezähltes Blatt (leer), 644 ungezählte Seiten, 1 ungezähltes Blatt (leer)<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_I-373.html<-L-5-STOP-><-VI-5-START->BSB-Ink I-373<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M13114.htm<-L-5-STOP-><-VI-5-START->GW M13114<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ij00260000<-L-5-STOP-><-VI-5-START->ISTC ij00260000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+Band 1: 364 von 364 Blättern; Band 2: 324 von 324 Blättern, beide Bände in einen Band gebunden, rot ausgezeichnete Initialen nur vom Anfang bis einschliesslich Stichwort "Amicicia", Anfangsinitiale rot und schwarz verziert; Rubrizierung bis und mit Artikel "Amicicia" (und Blatt [PP₁] recto)
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun, Kalb) mit Schliessen sowie Buckelbeschlägen auf beiden Deckeln und Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116774689205511<-L-11-STOP-><-VI-11-START->MUE Inc III 12<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991007823259705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Johannes Bromiardus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Amerbach, Johannes<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991007823259705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 12<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05809nam a2200601 ca4500
+001 991007823259705501
+005 20211215172744.0
+008 130501s1484    sz            00| | lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/24.07.2014/B400/vha    
+035      |a (swissbib)066212456-41slsp_network    
+035      |a 066212456    |9 ExL    
+035      |a (IDSBB)006121842DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991007823259705501    
+035      |a (41SLSP_UBE)99116774689205511    |9 (41SLSP_UBE)99116774689205511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Johannes    |c Bromiardus    |d -1352    |0 (DE-588)100948510    |e Verfasser    |4 aut    
+240 1 0  |a Summa praedicantium    
+245 1 0  |a Explicit Su[m]ma predicantium fr[atr]is Joh[ann]is de Bromyard. de ordine fratrum predicato[rum]    
+246 1 0  |a Su[m]ma predicantium fr[atr]is Joh[ann]is de Bromyard. de ordine fratrum predicato[rum]    
+246 1    |i Titel in normalisierter Form    |a Summa predicantium fratris Johannis de Bromyard, de ordine fratrum predicatorum    
+246 1    |i Titel in moderner Orthografie    |a Summa praedicantium fratris Johannis de Bromyard, de ordine fratrum praedicatorum    
+246 1    |i Titel in normalisierter Form    |a Explicit Summa predicantium fratris Johannis de Bromyard, de ordine fratrum predicatorum    
+264   1  |a [Basel]    |b [Johann Amerbach]    |c [nicht nach 1484]    
+300      |a 2 Teile    |c 38 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss Explicit    
+500      |a Teil 1 mit Tabulae, Prologus und Summa von A (Abiectio) bis L (Luxuria); Teil 2 von M (Maledictio) bis X (Xpus, das heisst Christus)    
+500      |a Blatt *₂ mit Überschrift "Tabula vocalis": "[J]Ncipit tabula vocalis super Su[m]mam predicantiu[m] fratris Johannis de Bromyard ordinis fratru[m] predicatorum"    
+500      |a Blatt a₂ mit Überschrift: "Prologus in summam predicantium": "Doctissimi viri fratris Joha[n]nis de Bromyard: ordinis predicatoru[m] in Summam predica[n]tium: opus vtiq[ue] co[m]mendatissimum Prologus feliciter incipit"    
+500      |a Impressum gemäss BSB-Ink, GW und ISTC (laut GW schenkte Amerbach 1484 ein Exemplar des Drucks der Kartause zu Basel; Quelle: Stehlin, Regesten, 1623)    
+500      |a Umfang Teil 1: 1 ungezähltes Blatt (leer), 70 ungezählte Seiten, 1 ungezähltes Blatt (leer), 654 ungezählte Seiten; Teil 2: 1 ungezähltes Blatt (leer), 644 ungezählte Seiten, 1 ungezähltes Blatt (leer)    
+500      |a Signaturformel, Teil 1: [*⁸, **¹⁰, ***⁸, ****¹⁰, a¹² b–z⁸, A–O⁸, P⁶, Q⁸, R⁶, S⁸]; Teil 2: [aa¹⁰, bb–cc⁸ dd¹⁰, ee⁶, ff–gg⁸, hh–pp¹⁰, qq⁸, rr–ss¹⁰, tt–vv⁸, xx⁶, yy–LL⁸, MM⁶, NN¹⁰, OO–PP⁸]    
+500      |a Signaturformel gemäss BSB-Ink; Teil 1: Blätter [*₁] und [a₁] unbedruckt; Teil 2: Blätter [aa₁] und [PP₈] unbedruckt    
+510 4    |a BSB-Ink    |c I-373    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_I-373.html    
+510 4    |a GW    |c M13114    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M13114.htm    
+510 4    |a ISTC    |c ij00260000    |u http://data.cerl.org/istc/ij00260000    
+530      |a Digitalisat (Exemplar der Universitätsbibliothek Basel; dort in zwei Bänden)    |u http://dx.doi.org/10.3931/e-rara-18427    
+561      |a Handschriftliches Monogramm in Tinte auf vorderem fliegenden Blatt: "HB"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun, Kalb) mit Schliessen sowie Buckelbeschlägen auf beiden Deckeln und Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln; auf dem Rücken Papierschild mit dem Verfassernamen in Tinte: "Bromyard"; auf dem Vorderdeckel Titel mit Tinte direkt auf dem Leder: "Summa predicantium"    
+563      |a Vorsätze: ohne fliegende Blätter    
+563      |a Auf hinterem Innendeckel eingeklebt ein kolorierter Schrotschnitt (seltene Hochdrucktechnik, 15. Jahrhundert) mit Szene aus der Lazarus-Geschichte nach Joh., Kap. 12, 1-4, und erklärender lateinischer Inschrift (Reproduktion und Beschreibung in C. Benziger: Holzschnitte des fünfzehnten Jahrhunderts in der Stadtbibliothek zu Bern. Strassburg, 1911)    
+563      |a Masse Einband: 38 x 27 x 17.5 cm    
+563      |a Zustand Einband: Leder am Rücken stark brüchig mit Fehlstellen, Lederüberklebungen an den Deckeln und am Rücken, Loch mit Rostabdrücken von vormaliger Ankettung    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung, Teil 1: 364 von 364 Blättern; Teil 2: 324 von 324 Blättern, beide Teile in einen Band gebunden; Pergamentfälze zwischen erster und zweiter sowie vorletzter und letzter Lage gehören zu den Ansatzfälzen für die Deckelverbindung; vorgesehene Stellen für Initialen grösstenteils freigelassen, rot ausgezeichnete Initialen von Blatt [a₁] bis einschliesslich Stichwort "Amicicia", Anfangsinitiale (Blatt [a₁] rot und schwarz verziert; Rubrizierung bis und mit Artikel "Amicicia" sowie Blatt [PP₁] recto!    
+590      |a Zustand Buchblock: Risse an ersten und letzten Blättern grob überklebt    
+590      |a Historische Signatur auf Blatt [a₁] recto: "Theol. No. 18."    
+590      |a Frühere Signatur: Inc 6    
+700 1    |a Amerbach, Johannes    |d 1440-1513    |0 (DE-588)123073189    |e Drucker    |4 prt    
+700 0 2  |a Johannes    |c Bromiardus    |d -1352    |t Summa praedicantium    |0 (DE-588)4591766-8    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc III 12    |9 (41SLSP_UBE)99116774689205511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc III 12    |b B404    |9 (41SLSP_UBE)99116774689205511    
+986      |a (41SLSP_UBE)99116774689205511    |9 (41SLSP_UBE)99116774689205511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116774689205511    
+991      |a AAK: 127588    |5 IZ UBE/26.07.2017/B404/vha    |9 LOCAL    |9 (41SLSP_UBE)99116774689205511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

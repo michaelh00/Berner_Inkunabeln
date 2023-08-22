@@ -1,0 +1,134 @@
+﻿<-1-1-START->
+Heynlin, Johannes
+<-1-1-STOP->
+
+<-1-2-START->
+Resolutorium dubiorum circa celebrationem missarum occurentium
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Straßburg: Martin Flach (der Ältere), 1494
+<-3-1-STOP->
+
+<-4-1-START->
+63 ungezählte Seiten; 20 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_I-475.html<-L-5-STOP-><-VI-5-START->BSB-Ink I-475<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M07867.htm<-L-5-STOP-><-VI-5-START->GW M07867<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ij00361000<-L-5-STOP-><-VI-5-START->ISTC ij00361000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+32 von 32 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Pergamenteinband auf Kartondeckeln, 20. Jahrhundert, unter Verwendung eines Antiphonar-Pergaments (16. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Julius Hess; Louis Wildbolz
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116697194605511<-L-11-STOP-><-VI-11-START->MUE Inc III 133<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991100449979705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Heynlin, Johannes<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Flach, Martin (der Ältere)<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Hess, Julius<-P-STOP->
+<-P-START->Wildbolz, Louis<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991100449979705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 133<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03824nam a2200529 c 4500
+001 991100449979705501
+005 20221214140612.0
+008 170503s1494    fr |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/03.05.2017/B404/vha    
+035      |a (swissbib)07434675X-41slsp_network    
+035      |a 07434675X    |9 ExL    
+035      |a (IDSBB)006696008DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991100449979705501    
+035      |a (41SLSP_UBE)99116697194605511    |9 (41SLSP_UBE)99116697194605511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Heynlin, Johannes    |d 1430-1496    |0 (DE-588)119011700    |e Verfasser    |4 aut    
+240 1 0  |a Resolutorium dubiorum circa celebrationem missarum occurentium    
+245 1 0  |a Resolutoriu[m] dubioru[m] circa celebrat[i]onem missaru[m] occurentiu[m]    |c p[er] venerabile[m] patre[m] Johanne[m] de lapide doctore[m] Theologu[m] parisiensem: ordinis Cartusiensis: ex sacroru[m] canonu[m] p[ro]batoru[m]q[ue] docto[rum] sententijs diligenter collectu[m]    
+246 1    |i Incipit    |a Jncipit tractatus dubio[rum] ac difficultatu[m] circa officu[m] misse [et] ea que ad debita[m] eiusdem celebrat[i]onem exigu[n]tur frequentius occurrentiu[m] iuxta sacro[rum] canonu[m] [con]stitut[i]nes ...    
+246 1    |i Kolophon    |a Resolutiorij dubio[rum] circa celebrat[i]o[n]em misse occurrentiu[m]    
+246 1    |i Titel im Kolophon in normalisierter Form    |a Resolutiorii dubiorum circa celebrationem misse occurrentium    
+264   1  |a Argentine imp[re]ssi    |b p[er] Martinu[m] flach    |c Anno natiuitatis Jesu christi. Mccccxciiij: [1494]    
+300      |a 63 ungezählte Seiten    |c 20 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Auf der Titelseite: "Su[m]ma dubio[rum] in hoc op[er]e resoluto[rum] CLXVI."    
+500      |a "Resolutiorij dubio[rum] circa celebrat[i]o[n]em misse occurrentiu[m]: p[er] Martinu[m] flach Argentine imp[re]ssi: ad laudem dei finis: Anno natiuitatis Jesu christi. Mccccxciiij:" - Kolophon    
+500      |a Signaturformel: a⁶, b⁸, c-e⁶    
+500      |a Blatt e₆ verso (letzte Seite) unbedruckt    
+510 4    |a BSB-Ink    |c I-475    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_I-475.html    
+510 4    |a GW    |c M07867    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M07867.htm    
+510 4    |a ISTC    |c ij00361000    |u http://data.cerl.org/istc/ij00361000    
+530      |a Digitalisat (Exemplar der Herzog August Bibliothek Wolfenbüttel)    |u http://diglib.hab.de/inkunabeln/101-1-theol-4/start.htm    
+561      |a Erworben 1941 als Geschenk des Notars Louis Wildbolz, Bern, aus der "Auktion Nachlass J. Hess" (Erwerbungsjournal), d.i. der Antiquar Julius Hess, Bern (1936 aus München nach Bern gekommen)    
+563      |a Einbandbeschreibung: Ganzbezogener Pergamenteinband auf Kartondeckeln, 20. Jahrhundert, unter Verwendung eines Antiphonar-Pergaments (16. Jahrhundert)    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 19.8 x 14.6 x 1.1 cm    
+563      |a Zustand Einband: Tintenfrass-Schäden am Einbandpergament    
+590      |a Buchblockbeschreibung: 32 von 32 Blättern, vorgesehene Stellen für Initialen frei gelassen, keine Rubrizierung    
+590      |a Zustand Buchblock: Feuchtigkeitsränder und Verfleckungen    
+590      |a Auf der Titelseite oben in Tinte die Zahl "2513" (Antiquariatsnummer)    
+700 1    |a Flach, Martin    |c der Ältere    |d 1440-1500    |0 (DE-588)129016489    |e Drucker    |4 prt    
+700 1    |a Hess, Julius    |d 1900-1940    |0 (DE-588)1018997547    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Wildbolz, Louis    |0 (DE-588)1172051429    |e Stifter    |4 dnr    
+700 1 2  |a Heynlin, Johannes    |d 1430-1496    |t Resolutorium dubiorum circa celebrationem missarum occurrentium    |0 (DE-588)1125043342    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Inc III 133    |9 (41SLSP_UBE)99116697194605511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc III 133    |b B404    |9 (41SLSP_UBE)99116697194605511    
+986      |a (41SLSP_UBE)99116697194605511    |9 (41SLSP_UBE)99116697194605511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116697194605511    
+991      |a AAK: 517062    |5 IZ UBE/03.05.2017/B404/vha    |9 local    |9 (41SLSP_UBE)99116697194605511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

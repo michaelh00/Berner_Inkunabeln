@@ -1,0 +1,142 @@
+﻿<-1-1-START->
+Ludolphus Suchensis
+<-1-1-STOP->
+
+<-1-2-START->
+De itinere terrae sanctae
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Widmung des Verfassers an Baldewinus de Steinvordia<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Straßburg: Heinrich Eggestein, zwischen 1475 und 1480?]
+<-3-1-STOP->
+
+<-4-1-START->
+68 ungezählte Seiten; 31 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_L-269.html<-L-5-STOP-><-VI-5-START->BSB-Ink L-269<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M44167.htm<-L-5-STOP-><-VI-5-START->GW M44167<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/il00362000<-L-5-STOP-><-VI-5-START->ISTC il00362000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+34 von 34 Blättern, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Einteiliger Kartoneinband mit durchzogenen Bünden (17./18. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Peregrinationes in terram sanctam / Bernhard von Breydenbach. Mainz: Erhard Reuwich, 1486
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116772344205511<-L-11-STOP-><-VI-11-START->MUE Bong V 929 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991005484179705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Ludolphus Suchensis<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Eggestein, Heinrich<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991005484179705501<-DOI-STOP->
+<-SIGN-START->MUE Bong V 929 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04097nam a2200601 c 4500
+001 991005484179705501
+005 20211215174534.0
+008 100706q14751480fr            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/04.01.2018/B404/faf    
+035      |a (swissbib)060874864-41slsp_network    
+035      |a 060874864    |9 ExL    
+035      |a (IDSBB)005274649DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991005484179705501    
+035      |a (41SLSP_UBE)99116772344205511    |9 (41SLSP_UBE)99116772344205511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Ludolphus    |c Suchensis    |d -1350    |0 (DE-588)100952364    |e Verfasser    |4 aut    
+240 1 0  |a De itinere terrae sanctae    
+245 1 0  |a De terra sancta et itinere jherosolomitano et de statu eius et alijs mirabilibus que in mari conspiciu[n]tur videlicet mediterraneo    |c Ludolphus p[ar]rochialis ecclesie in Suchen rector    
+246 1    |i Titel in normalisierter Form    |a De terra sancta et itinere Jherosolomitano et de statu eius et aliis mirabilibus que in mari conspiciuntur videlicet mediterraneo    
+246 1    |i Kolophon    |a Finit feliciter libellus de jtinere ad terram sanctam [et]c[etera]    
+246 1    |i Kolophon in normalisierter Form    |a Finit feliciter libellus de itinere ad terram sanctam etcetera    
+246 1    |i Titel gemäss BSB-Ink    |a De itinere ad terram sanctam    
+246 1    |i Titel gemäss GW    |a Libellus de itinere ad terram sanctam    
+246 1    |i Titel gemäss ISTC    |a Iter ad terram sanctam    
+264   1  |a [Straßburg]    |b [Heinrich Eggestein]    |c [zwischen 1475 und 1480?]    
+300      |a 68 ungezählte Seiten    |c 31 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, nur Kopftitel auf Blatt [a₂] recto, Verfasser gemäss Widmung    
+500      |a Mit Inhaltsverzeichnis und Widmung des Verfassers an Baldewinus de Steinvordia    
+500      |a Impressum gemäss BSB-Ink und ISTC    
+500      |a Signaturformel: [a-b¹², c¹⁰]    
+510 4    |a BSB-Ink    |c L-269    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_L-269.html    
+510 4    |a GW    |c M44167    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M44167.htm    
+510 4    |a ISTC    |c il00362000    |u http://data.cerl.org/istc/il00362000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0007/bsb00074894/images    
+561      |a Handschriftlicher Besitzvermerk auf Blatt [a₂] recto des vorgebundenen Drucks: "Bongars"    
+563      |a Einbandbeschreibung: Einteiliger Kartoneinband mit durchzogenen Bünden (17./18. Jh.)    
+563      |a Vorsätze: Vorne und hinten mit zwei fliegenden Blättern    
+563      |a Masse Einband: 30.7 x 22 x 5 cm    
+563      |a Zustand Einband: Kartonergänzung am Rückdeckel, Japanpierergänzung am ersten vorderen fliegenden Blatt    
+590      |a Buchblockbeschreibung: 34 von 34 Blättern, Foliierung in Tinte: 43-76, Papierfalz zwischen den Lagen [b] und [c] gehört zur Vorsatzkonstruktion, rot ausgezeichnete Initialen, Rubrizierung    
+590      |a Zustand Buchblock: Spuren herausgelöster Pergamentverstärkungen (Manuskriptmakulatur) in den Lagenmitten, durchgehend Schädlingsfrass    
+590      |a Kapitel im Inhaltsverzeichnis in Tinte durchgezählt, entsprechende Zahlen im Text neben Kapitelüberschriften eingetragen    
+590      |a Handschriftliche Annotationen und Unterstreichungen in Tinte, teils von Bongars    
+590      |a Zusammengebunden mit: Peregrinationes in terram sanctam / Bernhard von Breydenbach. Mainz : Erhard Reuwich, 1486    
+590      |a Historische Signatur auf vorderem Spiegel: "Hist: Eccl: 30.", Zahl korrigiert zu "54."    
+590      |a Frühere Signaturen: Inc 87; Inc II 67; IV 26    
+700 1    |a Eggestein, Heinrich    |d 1415-1488    |0 (DE-588)100965024    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |e Annotierende Person    |4 fmo    |4 ann    
+700 0 2  |a Ludolphus    |c Suchensis    |d -1350    |t De itinere terrae sanctae    |0 (DE-588)1150335483    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Bong V 929 : 2    |9 (41SLSP_UBE)99116772344205511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc II 67 : 2    |c 404U3    |p 12    |j MUE Bong V 929 : 2    |b B404    |9 (41SLSP_UBE)99116772344205511    
+986      |a (41SLSP_UBE)99116772344205511    |9 (41SLSP_UBE)99116772344205511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116772344205511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116772344205511    
+991      |a Bongars: 08921    |5 IZ UBE/B400/06.07.2010    |9 LOCAL    |9 (41SLSP_UBE)99116772344205511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

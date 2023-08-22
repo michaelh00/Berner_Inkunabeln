@@ -1,0 +1,137 @@
+﻿<-1-1-START->
+Heiliges Römisches Reich
+<-1-1-STOP->
+
+<-1-2-START->
+Ausschreiben an geistliche und weltliche Fürsten in der Gegend des Rheins und an alle Untertanen mit der Weisung, Angelus (Geraldini), Bischof von Sessa, nicht zu unterstützen und den über Basel verhängten Bann als ungültig anzusehen
+<-1-2-STOP->
+
+<-2-1-START->
+Ausgegangen von Kaiser Friedrich III., unterzeichnet von Johannes Gerster
+<-2-1-STOP->
+
+<-3-1-START->
+[Basel: Johann Besicken, nicht vor 24.08.1483]
+<-500-START->Gemäss ISTC möglicherweise von Martin Flach mit Typen Besickens gedruckt<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+1 Bogen; 45 x 31 cm
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_F-267.html<-L-5-STOP-><-VI-5-START->BSB-Ink F-267<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW10362.htm<-L-5-STOP-><-VI-5-START->GW 10362<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/if00318520<-L-5-STOP-><-VI-5-START->ISTC if00318520<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+1 Blatt
+<-6-1-STOP->
+
+<-7-1-START->
+Ohne Einband
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116768827805511<-L-11-STOP-><-VI-11-START->MUE Rar alt gr fol 157<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991130851709705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Heiliges Römisches Reich<-P-STOP->
+<-P-START->Friedrich III. (Kaiser des HRR)<-P-STOP->
+<-P-START->Gerster, Johannes<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Besicken, Johann<-P-STOP->
+<-O-START->Basel<-O-STOP->
+<-P-START->Flach, Martin<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991130851709705501<-DOI-STOP->
+<-SIGN-START->MUE Rar alt gr fol 157<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04657nam a2200529 c 4500
+001 991130851709705501
+005 20211215193843.0
+008 200928s1483    sz ||||| l    00| ||ger d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/28.09.2020/B404/faf    
+035      |a (swissbib)076397874-41slsp_network    
+035      |a 076397874    |9 ExL    
+035      |a (IDSBB)007225170DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991130851709705501    
+035      |a (41SLSP_UBE)99116768827805511    |9 (41SLSP_UBE)99116768827805511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+082 1 4  |a 230    |2 15    
+082 1 4  |a 940    |2 15    
+110 1    |a Heiliges Römisches Reich    |0 (DE-588)2035457-5    |e Normerlassende Gebietskörperschaft    |4 enj    
+240 1 0  |a Ausschreiben an geistliche und weltliche Fürsten in der Gegend des Rheins und an alle Untertanen mit der Weisung, Angelus (Geraldini), Bischof von Sessa, nicht zu unterstützen und den über Basel verhängten Bann als ungültig anzusehen    |g Graz, 24. Aug. 1483    
+245 1 0  |a Wir Friderich von gottes gnode[n] Römischer keiser. ze allen zite[n] merer des Reichs. ze hungeren dalmacien Croacien [et]c[etera]. küng Hertzog zu Osterich zu steir zu kernnde[n] vnd zu Crayn. Graue zu Tirol [et]c[etera] Einbiete[n] den Erwirdige[n] Hochgebornnen. wolgebornnen. vnd Edlen ...    
+246 1    |i Titel in normalisierter Form    |a Wir Friderich von Gottes Gnoden römischer Keiser, ze allen Ziten Merer des Reichs, ze Hungeren, Dalmacien, Croacien etcetera Küng, Hertzog zu Osterich, zu Steir, zu Kernnden und zu Crayn, Grave zu Tirol etcetera, einbieten den erwirdigen, hochgebornnen, wolgebornnen und edlen ...    
+246 1    |i Incipit des eigentlichen Mandatstextes    |a Uns zwifelt nit jr seit bericht wie der Erczbischoff zu Crayn vilecht auß raitzu[n]g ettlicher. So wider wille[n] gege[n] vnsere[n] heilige[n] vatter pabst trage[n] ein Co[n]cilium ze basel ...    
+246 1    |i Incipit des eigentlichen Mandatstextes in normalisierter Form    |a Uns zwifelt nit ir seit Bericht, wie der Erczbischoff zu Crayn vilecht auß Raitzung ettlicher so wider Willen gegen unseren heiligen Vatter Pabst tragen ein Concilium ze Basel ...    
+246 1    |i Titel gemäss BSB-Ink    |a Mandat zu den Streitigkeiten zwischen dem päpstlichen Kommissar Angelus Gherardini und der Stadt Basel wegen der Auslieferung des Andreas Zamometić    |b Erw. Fassung. Graz, 1483.08.24. Formular für die adeligen Stände    
+246 1    |i Titel gemäss GW    |a Ausschreiben an geistliche und weltliche Fürsten in der Gegend des Rheins und an alle Untertanen mit der Weisung, Angelus (Gherardini), Bischof Sessa, nicht zu unterstützen und den über Basel verhängten Bann als ungültig anzusehen    
+264   1  |a [Basel]    |b [Johann Besicken]    |c [nicht vor 24.08.1483]    
+300      |a 1 Bogen    |c 45 x 31 cm    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nb    |2 rdacarrier    
+500      |a Einblattdruck    
+500      |a Titel gemäss Incipit    
+500      |a Impressum gemäss BSB-Ink; gemäss ISTC möglicherweise von Martin Flach mit Typen Besickens gedruckt    
+510 4    |a BSB-Ink    |c F-267    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_F-267.html    
+510 4    |a GW    |c 10362    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW10362.htm    
+510 4    |a ISTC    |c if00318520    |u http://data.cerl.org/istc/if00318520    
+530      |a Digitalisat (Exemplar der Universitätsbibliothek Basel)    
+563      |a Ohne Einband    
+590      |a Beschreibung: 1 Blatt, Bogen mit allseitig Schöpfrändern (rechts teilweise mit Risskante)    
+590      |a Zustand: Stärkere Verschmutzung und Verbräunung an der Rectoseite, Falzungen von vormaliger Lagerung mit Verbräunungen, Knicke an rechtem Blattrand, Holzeinschluss an unterem Blattrand    
+590      |a Handschriftlich in Tinte unterzeichnet: "Ita est, Iohannes Gerster publicus Sacra Imperiali auct[oritat]e Notarius Iuratus,"    
+700 0    |a Friedrich    |b III.    |c Heiliges Römisches Reich, Kaiser    |d 1415-1493    |0 (DE-588)118535773    |e Verfasser    |4 aut    
+700 1    |a Gerster, Johannes    |d -1531    |0 (DE-588)1070113115    |e Unterzeichner    |4 ato    
+700 1    |a Besicken, Johann    |d 14XX-15XX    |0 (DE-588)134019652    |e Drucker    |4 prt    
+700 1    |a Flach, Martin    |d 1440-1514    |0 (DE-588)144034840    |e Drucker    |4 prt    
+710 1    |a Heiliges Römisches Reich    |t Ausschreiben an geistliche und weltliche Fürsten in der Gegend des Rheins und an alle Untertanen mit der Weisung, Angelus (Geraldini), Bischof von Sessa, nicht zu unterstützen und den über Basel verhängten Bann als ungültig anzusehen    |g Graz, 24. Aug. 1483    |0 (DE-588)1218265469    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Rar alt gr fol 157    |9 (41SLSP_UBE)99116768827805511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Rar alt gr fol 157    |b B404    |9 (41SLSP_UBE)99116768827805511    
+986      |a (41SLSP_UBE)99116768827805511    |9 (41SLSP_UBE)99116768827805511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116768827805511    
+990      |n HB404N2009    |9 local    |9 (41SLSP_UBE)99116768827805511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,148 @@
+﻿<-1-1-START->
+Hemmerlin, Felix
+<-1-1-STOP->
+
+<-1-2-START->
+De nobilitate et rusticitate; De Switensium ortu; Processus iudicarius habitus coram omnipotenti Deo inter nobiles et Thuricenes ex una et Switenses cum complicibus patibus ex altera; Epistola Karoli magni
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Herausgeber gemäss BSB-Ink und GW: Sebastian Brant<-500-STOP->
+<-500-START->Mit Widmungsvorrede des Autors an Herzog Albrecht VI. von Österreich<-500-STOP->
+<-500-START->Processus iudiciarius König Friedrich III. gewidmet<-500-STOP->
+<-500-START->Briefwechsel zwischen Karl dem Großen und Friedrich III. fingiert<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Strassburg: Johann Prüss, um 1500]
+<-3-1-STOP->
+
+<-4-1-START->
+8 ungezählte Seiten, CLI, das heisst CLII Blätter: 1 Illustration; 29 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_H-41.html<-L-5-STOP-><-VI-5-START->BSB-Ink H-41<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW12189.htm<-L-5-STOP-><-VI-5-START->GW 12189<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ih00015000<-L-5-STOP-><-VI-5-START->ISTC ih00015000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+147 von 156 Blättern, rot ausgezeichnete und teilweise in Tinte verzierte kleinere Initialen, teilweise Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, auf Vorderdeckel und Rücken je ein mit Tinte gezeichneter Hammer, Wappenstempel (mit Pflug belegter Schrägbalken) auf Vorderdeckel
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Bibliothek von Mülinen
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Die Blätter LXXVII (mit der Illustration) und CXLIIII-CLI fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116825871505511<-L-11-STOP-><-VI-11-START->MUE Inc I 107<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991062260779705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Hemmerlin, Felix<-P-STOP->
+<-P-START->Brant, Sebastian<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Prüss, Johann<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bibliothek von Mülinen<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991062260779705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 107<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05155nam a2200649 c 4500
+001 991062260779705501
+005 20211215181251.0
+008 100622s1500    fr            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/30.01.2018/B404/faf    
+035      |a (swissbib)072232099-41slsp_network    
+035      |a 072232099    |9 ExL    
+035      |a (IDSBB)006769911DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991062260779705501    
+035      |a (41SLSP_UBE)99116825871505511    |9 (41SLSP_UBE)99116825871505511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Hemmerlin, Felix    |d 1389-1458    |0 (DE-588)118773895    |e Verfasser    |4 aut    
+240 1 0  |a De nobilitate et rusticitate    
+245 1 0  |a Felicis malleoli. vulgo hemmerlein: Decretorum doctoris iureconsultissimi. De Nobilitate et Rusticitate Dialogus    |b sacre Theologie: iurium: Philosophorum et poeta[rum] sententijs: hystorijs [et] facecijs refertissimus ; Eiusdem de Srvitensium ortu: nomine: confederatione: moribus: et quibusdam (vtinam bene) gestis ; Eiusdem processus iudiciarius cora[m] deo habitus: inter nobiles et Thuricenses ex vna: et Srvitenses partibus ex altera: cum sententia diffinitiua et eius executione ; Eiusdem Epistola nomine Caroli magni ad Fridericu[m] Tercium Romanorum regem: qua de celo eum hortatur: vt de Srvitensibus vindictam sumat    
+246 1 0  |a De nobilitate et rusticitate dialogus    
+246 1    |i Titel gemäss GW und ISTC    |a De nobilitate et rusticitate dialogus et alia opuscula    
+264   1  |a [Strassburg]    |b [Johann Prüss]    |c [um 1500]    
+300      |a 8 ungezählte Seiten, CLI, das heisst CLII Blätter    |b 1 Illustration    |c 29 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Herausgeber gemäss BSB-Ink und GW: Sebastian Brant    
+500      |a Mit Widmungsvorrede des Autors an Herzog Albrecht VI. von Österreich und Inhaltsverzeichnis    
+500      |a Processus iudiciarius König Friedrich III. gewidmet    
+500      |a Briefwechsel zwischen Karl dem Großen und Friedrich III. fingiert    
+500      |a Impressum gemäss BSB-Ink, GW und ISTC    
+500      |a Mehrere Fehler in der Blattzählung; zur falschen Zählung am Ende führt Blatt x₁: CXXVI statt CXXVII    
+500      |a Signaturformel: A⁴, a-c⁸, d-z⁶, [et]⁸    
+500      |a Holzschnitt-Diagramm auf Blatt LXXVII    
+510 4    |a BSB-Ink    |c H-41    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_H-41.html    
+510 4    |a GW    |c 12189    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW12189.htm    
+510 4    |a ISTC    |c ih00015000    |u http://data.cerl.org/istc/ih00015000    
+530      |a Digitalisat (Exemplar der Herzog August Bibliothek Wolfenbüttel)    |u http://diglib.hab.de/inkunabeln/139-quod-2f-1/start.htm    
+561      |a Sammlung Mülinen    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, auf Vorderdeckel und Rücken je ein mit Tinte gezeichneter Hammer, Wappenstempel (mit Pflug belegter Schrägbalken) auf Vorderdeckel, handschriftlich mit Tinte auf Rücken "Felix Malleolus"    
+563      |a Vorsätze: Vorne und hinten ohne fliegende Blätter    
+563      |a Masse Einband: 29 x 21 x 3.5 cm    
+563      |a Zustand Einband: Schliessen und Teil im Holz des Rückdeckels ergänzt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 147 von 156 Blättern, Foliierungsfehler teilweise in Tinte korrigiert, Falzverstärkung aus Makulaturpergament aussen an erster Lage, vorgesehene Stellen für grosse Initialen frei gelassen, rot ausgezeichnete und teilweise in Tinte verzierte kleinere Initialen, teilweise Rubrizierung    
+590      |a Zustand Buchblock: Schädlingsfrass mit geringem Textverlust, zahlreiche Verfleckungen, teilweise Feuchtigkeitsränder    
+590      |a Unvollständiges Exemplar: Die Blätter LXXVII (mit der Illustration) und CXLIIII-CLI fehlen    
+590      |a Zahlreiche handschriftliche Annotationen und Unterstreichungen in Tinte, mehrere Zeichnungen von einfachen Wappen    
+590      |a Historische Signatur auf Rücken: "S 17", darunter verblasstes Signaturschild: "... 52"    
+590      |a Vollständige Dublette: MUE Bong IV 877    
+700 1 2  |a Hemmerlin, Felix    |d 1389-1458    |t De nobilitate et rusticitate    |0 (DE-588)1125983086    
+700 1 2  |a Hemmerlin, Felix    |d 1389-1458    |t De Switensium ortu    |0 (DE-588)1125983493    
+700 1 2  |a Hemmerlin, Felix    |d 1389-1458    |t Processus iudicarius habitus coram omnipotenti Deo inter nobiles et Thuricenes ex una et Switenses cum complicibus patibus ex altera    |0 (DE-588)1125983841    
+700 1 2  |a Hemmerlin, Felix    |d 1389-1458    |t Epistola Karoli magni    |0 (DE-588)112598404X    
+700 1    |a Brant, Sebastian    |d 1458-1521    |0 (DE-588)118514474    |e Herausgeber    |4 edt    
+700 1    |a Prüss, Johann    |d 1447-1510    |0 (DE-588)135917018    |e Drucker    |4 prt    
+710 2    |a Bibliothek von Mülinen    |0 (DE-588)1131176316    |e Früherer Eigentümer    |4 fmo    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Inc I 107    |9 (41SLSP_UBE)99116825871505511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc I 107    |b B404    |9 (41SLSP_UBE)99116825871505511    
+986      |a (41SLSP_UBE)99116825871505511    |9 (41SLSP_UBE)99116825871505511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116825871505511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

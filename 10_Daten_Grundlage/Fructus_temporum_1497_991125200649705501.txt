@@ -1,0 +1,163 @@
+﻿<-1-1-START->
+Fructus temporum [englisch]
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Neudruck der vom "Schoolmaster Printer of St Albans" besorgten Zusammenstellung aus dem englischen Prosa-Brut und eingefügten Auszügen aus Rolevincks "Fasciculus temporum", dazu als 1498 gedruckter Anhang die von William Caxton aus Ranulfus Higdens "Polychronicon" in der Übersetzung des John Trevisa gezogene "Description of England"<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+London: Wynkyn de Worde, 1497
+<-3-1-STOP->
+
+<-4-1-START->
+451 ungezählte Seiten: 5 Illustrationen, Holzschnittinitialen, Holzschnittschema, Druckermarke; 29 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW06675.htm<-L-5-STOP-><-VI-5-START->GW 06675<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ic00482000<-L-5-STOP-><-VI-5-START->ISTC ic00482000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+221 von 226 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Pergamenteinband auf Kartondeckeln (17./18. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Paolo Emili; A. Veau; Patrick Andersoun; Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Die Blätter 2. A₆ und 2. B₁-₄ fehlen (herausgerissen)
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116751375405511<-L-11-STOP-><-VI-11-START->MUE Bong V 936<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991125200649705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Rolevinck, Werner<-P-STOP->
+<-P-START->Higden, Ranulfus<-P-STOP->
+<-P-START->John Trevisa<-P-STOP->
+<-P-START->Schoolmaster Printer of St Albans<-P-STOP->
+<-P-START->Caxton, William<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->London<-O-STOP->
+<-P-START->Worde, Wynkyn de<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Emili, Paolo<-P-STOP->
+<-P-START->Veau, A.<-P-STOP->
+<-P-START->Andersoun, Patrick<-P-STOP->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991125200649705501<-DOI-STOP->
+<-SIGN-START->MUE Bong V 936<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06714nam a2200781 c 4500
+001 991125200649705501
+005 20211215190917.0
+008 100510m14971498enk           00| | eng  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/16.01.2019/B404/faf    
+035      |a (swissbib)061727113-41slsp_network    
+035      |a 061727113    |9 ExL    
+035      |a (IDSBB)005227835DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991125200649705501    
+035      |a (41SLSP_UBE)99116751375405511    |9 (41SLSP_UBE)99116751375405511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+130 0    |a Fructus temporum    |0 (DE-588)1175987379    
+245 1 0  |a Here endyth this present cronycle of Englonde wyth the frute of tymes    |c compiled in a booke/ [and] also enprynted by one somtyme scolemayster of saynt Albons. on whoos soule god haue mercy    
+246 1    |i Explicit des angehängten Werks    |a Here endeth the descrypcyon of Brytayne/ the whiche conteyneth Englonde Wales and Scotlonde/ and also by cause Irlonde is vnder the rule of Englonde [et] of olde tyme it hath so contynued/ therfore I haue lette the descrypcyon of the same after the sayd Brytayne/ whiche I haue taken out of Polycronycon    
+246 1    |i Explicit des angehängten Werks in normalisierter Form    |a Here endeth the descrypcyon of Brytayne, the whiche conteyneth Englonde, Wales and Scotlonde, and also by cause Irlonde is under the rule of Englonde et of olde tyme it hath so contynued, therfore I have lette the descrypcyon of the same after the sayd Brytayne, whiche I have taken out of Polycronycon    
+246 1    |i Incipit (Tabula)    |a Here begynneth a shorte [and] a breue table on theses Cronycles ...    
+246 1    |i Incipit (Tabula) in normalisierter Form    |a Here begynneth a shorte and a breve table on theses cronycles ...    
+246 1    |i Incipit (Haupttext)    |a Hic incipit fructus tempor[um]    
+246 1    |i Titel gemäss GW und ISTC    |a Chronicles of England    
+250      |a And newely ... enpryntid ...    
+264   1  |a ... enpryntid at Westmestre    |b by Wynkyn de Worde    |c in the ye[re] of our lord god .M.CCCC.lxxxxvij. [1497]    
+300      |a 451 ungezählte Seiten    |b 5 Illustrationen    |c 29 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Neudruck der vom "Schoolmaster Printer of St Albans" besorgten Zusammenstellung aus dem englischen Prosa-Brut und eingefügten Auszügen aus Rolevincks "Fasciculus temporum", dazu als 1498 gedruckter Anhang die von William Caxton aus Ranulfus Higdens "Polychronicon" in der Übersetzung des John Trevisa gezogene "Description of England"    
+500      |a Keine Titelseite, Titel und Urheberangabe gemäss Kolophon des Hauptwerks    
+500      |a "... therfore I William Caxton haue them lette fyrste in enprynte accordynge to the translac[i]on of Treuisa/ whiche atte request of the lorde Barkeley translated the boke of Polycronycon in to Englysshe." - Explizit des angehängten Werks    
+500      |a Ausgabevermerk und Impressum gemäss Kolophon des Hauptwerks; Reihenfolge der Vorlage: "And newely in the ye[re] of our lord god .M.CCCC.lxxxxvij. enpryntid at Westmestre by Wynkyn de Worde"    
+500      |a Kolophon des angehängten Werks: "Fynysshed and enprynted at Westmestre by me Wynken de worde/ the yere of our lorde a .M.CCCC. and foure score and .xviij."    
+500      |a Druckermarke auf Blatt I₄ verso    
+500      |a Signaturformel: Aa⁶, a-z⁶, [con]⁶, A-H⁶, I⁴, A-D⁶    
+500      |a Seite Aa₁ ist unbedruckt    
+500      |a Blätter der Lagen a-I am rechten Rand der Rectoseiten jeweils pro Lage durchgezählt (i-vi) und im Inhaltsverzeichnis entsprechend referenziert    
+500      |a Bei der Illustration wurde ein Druckstock doppelt verwendet    
+500      |a Holzschnittinitialen und ein zehnmal für Kapitelanfänge verwendetes Holzschnittschema    
+505 0 0  |t Here foloweth a lytell treatyse the whiche treateth of the descrypcyon of this londe whiche of olde tyme was named Albyon And after Brytayne And now is called Englonde and speketh of the noblenesse and worthynesse of the same    
+510 4    |a GW    |c 06675    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW06675.htm    
+510 4    |a ISTC    |c ic00482000    |u http://data.cerl.org/istc/ic00482000    
+530      |a Digitalisat (Exemplar der British Library)    |u http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_id=xri:eebo:image:17294    
+561      |a Sammlung Bongars; handschriftlicher Besitzvermerk auf Blatt Aa₁ recto: "Pa. Andersoun A Paris 1603."; auf Blatt 2. D₆: "Pauli Emilij ... [Veronensis?]", "[AV]eau"    
+563      |a Einbandbeschreibung: Ganzbezogener Pergamenteinband auf Kartondeckeln (17./18. Jh.)    
+563      |a Vorsätze: Vorne und hinten mit zwei fliegenden Blättern    
+563      |a Masse Einband: 29 x 21.7 x 4.3 cm    
+563      |a Zustand Einband: Papierüberklebungen an den Ecken des Vorderdeckels, beide Vorsätze im Falz mit Japanpapier verstärkt    
+590      |a Buchblockbeschreibung: 221 von 226 Blättern    
+590      |a Zustand Buchblock: Risse und Fehlstellen an den ersten und letzten Blättern, angesetzte Papierecke an Blatt Aa₁, Rissüberklebungen an den Blättern Aa₁ und 2. D₆, Loch in den Blättern 2. A₄-₅ mit Textverlust    
+590      |a Unvollständiges Exemplar: Die Blätter 2. A₆ und 2. B₁-₄ fehlen (herausgerissen)    
+590      |a Handschriftliche Annotationen in Tinte    
+590      |a Historische Signatur auf vorderem Spiegel: "Hist: Prof. 398"    
+590      |a Frühere Signaturen: Inc 331; Inc III 61; XIII 25    
+700 1    |a Rolevinck, Werner    |d 1425-1502    |0 (DE-588)118749536    |e Verfasser    |4 aut    
+700 1    |a Higden, Ranulfus    |d 1280-1364    |0 (DE-588)119072602    |e Verfasser    |4 aut    
+700 0    |a John    |c Trevisa    |d 1342-1402    |0 (DE-588)119240297    |e Übersetzer    |4 trl    
+700 0    |a Schoolmaster Printer of St Albans    |d ca. 15. Jh.    |0 (DE-588)1175982679    |e Herausgeber    |4 edt    
+700 1    |a Caxton, William    |d 1422-1491    |0 (DE-588)118667572    |e Herausgeber    |4 edt    
+700 1    |a Worde, Wynkyn <<de>>    |d -1535    |0 (DE-588)118807889    |e Drucker    |4 prt    
+700 1    |a Emili, Paolo    |d 1460-1529    |0 (DE-588)118896393    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Veau, A.    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Andersoun, Patrick    |d 15XX-16XX    |0 (DE-588)1175538396    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 1 2  |a Higden, Ranulfus    |d 1280-1364    |t <<The>> Description of England    |0 (DE-588)1175539295    
+730 0    |a Brut    |g Mittelenglisch, Prosa    |0 (DE-588)4708107-7    
+751      |a London    |0 (DE-588)4074335-4    
+852 4    |b B404    |c 404U3    |j MUE Bong V 936    |9 (41SLSP_UBE)99116751375405511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc III 61    |c 404U3    |p 12    |j MUE Bong V 936    |b B404    |9 (41SLSP_UBE)99116751375405511    
+986      |a (41SLSP_UBE)99116751375405511    |9 (41SLSP_UBE)99116751375405511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116751375405511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116751375405511    
+991      |a Bongars: 02887, 07216    |5 IZ UBE/B400/10.05.2010    |9 LOCAL    |9 (41SLSP_UBE)99116751375405511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,139 @@
+﻿<-1-1-START->
+Boethius, Anicius Manlius Severinus
+<-1-1-STOP->
+
+<-1-2-START->
+De consolatione philosophiae [deutsch]
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Übersetzt von Peter von Kastel gemäss GW und ISTC; diese Zuschreibung ist aber umstritten, vgl. Worstbrock, Franz Josef: Deutsche Antikerezeption 1450-1550, Seite 27<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Straßburg]: Johann Schott, 31.08.1500
+<-3-1-STOP->
+
+<-4-1-START->
+218 ungezählte Seiten: Illustrationen, Druckermarke; 21 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-617.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-617<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW04575.htm<-L-5-STOP-><-VI-5-START->GW 4575<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib00815000<-L-5-STOP-><-VI-5-START->ISTC ib00815000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+109 von 109 Blättern, teilweise Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun, Schaf) mit mittiger Schliesse, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Simon Horman
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 6 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116698354705511<-L-11-STOP-><-VI-11-START->MUE Inc IV 34 : 3<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991014043939705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Boethius, Anicius Manlius Severinus<-P-STOP->
+<-P-START->Peter von Kastel<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Schott, Johann<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Horman, Simon<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991014043939705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 34 : 3<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03624nam a2200553 c 4500
+001 991014043939705501
+005 20211215163908.0
+008 080220s1500    fr            00| | ger  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/10.05.2016/B404/az    
+035      |a (swissbib)054880106-41slsp_network    
+035      |a 054880106    |9 ExL    
+035      |a (IDSBB)004428453DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991014043939705501    
+035      |a (41SLSP_UBE)99116698354705511    |9 (41SLSP_UBE)99116698354705511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a ger    |h lat    
+100 1    |a Boethius, Anicius Manlius Severinus    |d 480-524    |0 (DE-588)11851282X    |e Verfasser    |4 aut    
+240 1 0  |a De consolatione philosophiae    
+245 1 0  |a Boecius der hochberümpt Meister vnd Poet vo[n] dem Trost der weiszheit    
+246 1 0  |a Von dem Trost der Weißheit    
+246 1    |i Titel in moderner Orthografie    |a Boethius der hochberühmt Meister und Poet von dem Trost der Weisheit    
+246 1    |i Titel in normalisierter Form    |a Boecius der hochberümpt Meister und Poet von dem Trost der Weißheit    
+264   1  |a [Straßburg]    |b Gedruckt vnnd vollendet durch Johannem Schot zů Straßburg    |c uff Montag nach sannt Johans enthaubtung M.fünffhundert [31.08.1500]    
+300      |a 218 ungezählte Seiten    |b Illustrationen    |c 21 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Übersetzt von Peter von Kastel gemäss GW und ISTC. Diese Zuschreibung ist aber umstritten. Vgl. Worstbrock, Franz Josef: Deutsche Antikerezeption 1450-1550, Seite 27    
+500      |a Druckort, Drucker und Druckjahr gemäss Kolophon    
+500      |a Mit Druckermarke (Blatt o₅ verso)    
+500      |a Signaturformel: a–d⁸, e⁸⁺¹, f–m⁸, n-o⁶    
+500      |a Blatt o₆ verso ist unbedruckt    
+510 4    |a BSB-Ink    |c B-617    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-617.html    
+510 4    |a GW    |c 4575    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW04575.htm    
+510 4    |a ISTC    |c ib00815000    |u http://data.cerl.org/istc/ib00815000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0002/bsb00025591/images    
+561      |a Handschriftlicher Besitzvermerk auf vorderem Spiegel: "Simon Horman 1596"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun, Schaf) mit mittiger Schliesse, Linien- und Ornamentstempel- Blindprägung auf beiden Deckeln    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 21.2 x 15.0 x 5.6 cm    
+563      |a Zustand Einband: Lederrücken vollständig ergänzt, Lederüberklebungen an den Ecken sowie am Rückdeckel, neue Vorsätze aus Japanpapier eingefügt, Kapitalumstechung gesichert    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 109 von 109 Blättern, Rubrizierung (Blatt a₁₋g₂)    
+590      |a Zusammengebunden mit sechs weiteren Werken in Sammelband    
+700 1 2  |a Boethius, Anicius Manlius Severinus    |d 480-524    |t De consolatione philosophiae    |0 (DE-588)4099136-2    
+700 0    |a Peter    |c von Kastel    |d 13XX-14XX    |0 (DE-588)1075617782    |e Übersetzer    |4 trl    
+700 1    |a Schott, Johann    |d 1477-1548    |0 (DE-588)124577008    |e Drucker    |4 prt    
+700 1    |a Horman, Simon    |d ca. 16./17. Jh.    |e Früherer Eigentümer    |4 fmo    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 34 : 3    |9 (41SLSP_UBE)99116698354705511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc IV 34 : 3    |b B404    |9 (41SLSP_UBE)99116698354705511    
+986      |a (41SLSP_UBE)99116698354705511    |9 (41SLSP_UBE)99116698354705511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116698354705511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116698354705511    
+991      |a AAK: 00105917    |5 IZ UBE/10.05.2016/B404/az    |9 local    |9 (41SLSP_UBE)99116698354705511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

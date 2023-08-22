@@ -1,0 +1,157 @@
+﻿<-1-1-START->
+Vitae patrum
+<-1-1-STOP->
+
+<-1-2-START->
+. — Athanasius Alexandrinus: Vita Antonii. — Vita Mariae Aegyptiacae. — Leontius Neapolitanus: Vita Iohannis Eleemosynarii. — De laude et effectu virtutum. — Epistola sancti Macharii ad monachos
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Vitae patrum fälschlich Sophronius Eusebius Hieronymus zugeschrieben, die Verfasserschaft ist jedoch unsicher<-500-STOP->
+<-500-START->Die Übersetzung zahlreicher Texte vom Griechischen ins Lateinische stammt von Rufinus Aquileiensis, der zum Teil auch als Verfasser vermutet wird<-500-STOP->
+<-500-START->Zur Vita Antonii ein Prolog des Übersetzers Evagrius Ponticus, zur Vita Mariae Aegyptiacae ein Prolog des Übersetzers Paulus Emeritensis<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Nürnberg: Anton Koberger, 05.04.1483
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, CLVI Blätter, 1 ungezähltes Blatt, 11 ungezählte Seiten; 35 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_V-255.html<-L-5-STOP-><-VI-5-START->BSB-Ink V-255<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M50877.htm<-L-5-STOP-><-VI-5-START->GW M50877<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ih00205000<-L-5-STOP-><-VI-5-START->ISTC ih00205000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+164 von 164 Blättern, rot oder blau ausgezeichnete Initialen, mehrfarbig ausgemalte und goldgehöhte Anfangsinitiale, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Sprenkelmarmor), Linien-Blindprägung am beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Werner Zesiger; P. Tyrwhitt
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116801848405511<-L-11-STOP-><-VI-11-START->MUE Zesk 16<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991033252999705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Hieronymus, Sophronius Eusebius<-P-STOP->
+<-P-START->Athanasius Alexandrinus<-P-STOP->
+<-P-START->Leontius Neapolitanus<-P-STOP->
+<-P-START->Rufinus Aquileiensis<-P-STOP->
+<-P-START->Evagrius Ponticus<-P-STOP->
+<-P-START->Paulus Emeritensis<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Nürnberg<-O-STOP->
+<-P-START->Koberger, Anton<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Zesiger, Werner<-P-STOP->
+<-P-START->Tyrwhitt, P.<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991033252999705501<-DOI-STOP->
+<-SIGN-START->MUE Zesk 16<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06871nam a2200721 c 4500
+001 991033252999705501
+005 20230209144406.0
+008 950614s1483    gw            00| | lat d
+019      |a Altbestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von Signaturen.    |5 IDSBB/20.2.1995/bestub/mes    
+035      |a (swissbib)027027082-41slsp_network    
+035      |a 027027082    |9 ExL    
+035      |a (IDSBB)001116835DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991033252999705501    
+035      |a (41SLSP_UBE)99116801848405511    |9 (41SLSP_UBE)99116801848405511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a lat    |h grc    
+072   7  |a th    |2 SzZuIDS BS/BE    
+130 0    |a Vitae patrum    |0 (DE-588)4205069-8    
+245 1 0  |a Opus (Vitaspatrum appellatum)    
+246 1 0  |a Vitaspatrum    
+246 1    |i Titel gemäss BSB-Ink und GW    |a Vitas patrum    
+246 1    |i Titel gemäss ISTC    |a Vitae sanctorum patrum, sive Vitas patrum    
+246 1    |i Incipit    |a Incipit p[ro]logus sancti Hieronimi. cardinalis. p[re]sbiteri: in libros Vitaspatrum ...    
+264   1  |a In oppido Nurnberg[e]n[si]    |b p[er] Anthonium koburger oppidi prefati incolam q[uam] compte impressum    |c Anno [christ]i natiuitatis. Millesimoquadri[n]ge[n]tesimo-octuagesimotercio. Nonas v[er]o April. ... [05.04.1483]    
+300      |a 1 ungezähltes Blatt, CLVI Blätter, 1 ungezähltes Blatt, 11 ungezählte Seiten    |c 35 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss Kolophon    
+500      |a Das Werk wurde im Mittelalter, wie auch in dieser Ausgabe, Sophronius Eusebius Hieronymus zugeschrieben, die Verfasserschaft ist jedoch unsicher; Verfasser wird teilweise als Pseudo-Hieronymus bezeichnet    
+500      |a Die Übertragung zahlreicher Texte vom Griechischen ins Lateinische stammt von Rufinus Aquileiensis, der zum Teil auch als Verfasser vermutet wird (vergleiche Rufinus Aquileiensis: Historia monachorum ... herausgegeben von Eva Schulz-Flügel. Berlin; New York, 1990)    
+500      |a Enthält ausserdem die Vita Antonii von Athanasius Alexandrinus (ab Blatt XV recto), mit einem Prolog des Übersetzers Evagrius Ponticus; ein Prolog von Paulus Diaconus (Blatt XXXVI recto) zur Vita Mariae Aegyptiacae; sowie die Vita Iohannis Eleemosynarii von Leontius Neapolitanus (ab Blatt LXVII verso)    
+500      |a Enthält ausserdem: De virtutum laude et effectu (Hieronymus zugeschrieben; ab Blatt CL verso), sowie: Epistola Sancti Macharii ad monachos (Blatt CLVI)    
+500      |a Impressum gemäss Kolophon; Reihenfolge der Vorlage: "Anno [christ]i natiuitatis. Millesimoquadri[n]ge[n]tesimo-octuagesimotercio. Nonas v[er]o April. ob beatoru[m] patrum profectum vitam heremiticam degentiu[m]. gesta quorum (haud immerito) memoriter sunt co[m[m]endanda. Opus (Vitaspatrum appellatum) insigne. a q[uam] plurimis excerptum codicib[us]. p[er] sacraru[m] scriptuarum viros admodum pitissimos: ornatu[m]. In oppido Nurnberg[e]n[si] p[er] Anthonium koburger oppidi prefati incolam q[uam] compte impressum. Finit feliciter..."    
+500      |a Signaturformel: [a–c⁸, d–e⁶, f⁸, g–h⁶, i–l⁸, m–n⁶, o⁸, p–q⁶, r⁸, s⁶, t⁸, v–z⁶, A⁶]    
+500      |a Blätter [a₁] und [z₆] unbedruckt; Blatt [A₆] verso unbedruckt    
+500      |a Lage [A] (11 ungezählte Seiten) mit dem Inhaltsverzeichnis ist in manchen Exemplaren an den Anfang gebunden    
+505 0 0  |g Blatt XV recto    |t Incipit vita s[an]cti Antonij abbatis    |r ab athanasio ep[iscop]o alexa[n]drino [con]sc[ri]pta. Et ab Euagrio p[re]sb[ite]ro e greco i[n] lati[nu]m tra[n]slata atq[ue] a b[ea]to Hiero. huic libro ins[er]ta    |g Blatt LXVII verso    |t Incipit narrat[i]o Leontij episcopi. neapoloeos cyprorum insule: in vitam sancti Johannis eleymonis. alexandrini episcopi    |g Blatt CL verso    |t Sequitur opusulu[m] pro conclusione annexum de virtutum laude [et] effectu intitulatum    |g Blatt CLVI recto    |t Epistola sancti macharij ad mo[n]achos    
+510 4    |a BSB-Ink    |c V-255    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_V-255.html    
+510 4    |a GW    |c M50877    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M50877.htm    
+510 4    |a ISTC    |c ih00205000    |u http://data.cerl.org/istc/ih00205000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00044586/image_9    
+561      |a Stempel auf vorderem fliegenden Blatt: "Dr. Zesiger"    
+561      |a Handschriftlicher Besitzvermerk auf Blatt [a₂] recto: "P Tyrwhitt"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Sprenkelmarmor), Linien-Bllindprägung am beiden Deckeln, am Rücken und an den Stehkanten    
+563      |a Vorsätze: Vorne und hinten mit drei fliegenden Blättern    
+563      |a Masse: 34.5 x 24.2 x 4.6 cm    
+563      |a Zustand Einband: Deckel deformiert, zahlreiche Schäden am Einbandleder (Kratzer und abgelöster Narben in marmorierten Bereichen), auffällige Verschwärzung partiell am Rückdeckel    
+590      |a Buchblockbeschreibung: 164 von 164 Blättern, handschriftliche Lagensignatur (jeweils erste Seite jeder Lage unten rechts) in Graphit; rot oder blau ausgezeichnete Initialen, mehrfarbig ausgemalte und goldgehöhte Anfangsinitiale (Blatt [a₂] recto), Rubrizierung; Schnitt rot gesprenkelt    
+590      |a Signaturformel der handschriftlichen Lagensignatur: 1–3⁸, 4–5⁶, 6⁸, 7–8⁶, 9–11⁸, 12–13⁶, 14⁸, 15–16⁶, 17⁸, 18⁶, 19⁸, 20–24⁶    
+590      |a Historische Signatur in Graphit auf vorderem fliegenden Blatt, unter dem Stempel "Dr. Zesiger", durchgestrichen: "F V 333"    
+700 1    |a Hieronymus, Sophronius Eusebius    |d 345-420    |0 (DE-588)118550853    |e Verfasser    |4 aut    
+700 0    |a Rufinus    |c Aquileiensis    |d 345-410    |0 (DE-588)118750313    |e Übersetzer    |e Verfasser von ergänzendem Text    |4 trl    |4 wst    
+700 0    |a Evagrius    |c Ponticus    |d 345-399    |0 (DE-588)118682504    |e Übersetzer    |e Verfasser von ergänzendem Text    |4 trl    |4 wst    
+700 0    |a Paulus    |c Emeritensis    |d -650    |0 (DE-588)100957234    |e Verfasser von ergänzendem Text    |4 wst    
+700 0 2  |a Athanasius    |c Alexandrinus, Heiliger    |d 295-373    |t Vita Antonii    |0 (DE-588)4355381-3    
+700 0 2  |a Leontius    |c Neapolitanus    |d 600-670    |t Vita Iohannis Eleemosynarii    |0 (DE-588)1088019544    
+700 1    |a Koberger, Anton    |d 1440-1513    |0 (DE-588)118563890    |e Drucker    |4 prt    
+700 1    |a Zesiger, Werner    |d 1902-1958    |0 (DE-588)121027392    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Tyrwhitt, P.    |e Früherer Eigentümer    |4 fmo    
+730 0    |a De laude et effectu virtutum    |0 (DE-588)115234935X    
+730 0    |a Epistola sancti Macharii ad monachos    |0 (DE-588)1152394193    
+751      |a Nürnberg    |0 (DE-588)4042742-0    
+852 4    |b B404    |c 404U3    |j MUE Zesk 16    |9 (41SLSP_UBE)99116801848405511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Zesk 16    |b B404    |9 (41SLSP_UBE)99116801848405511    
+986      |a (41SLSP_UBE)99116801848405511    |9 (41SLSP_UBE)99116801848405511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116801848405511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

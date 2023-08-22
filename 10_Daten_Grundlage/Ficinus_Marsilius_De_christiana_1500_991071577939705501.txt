@@ -1,0 +1,146 @@
+﻿<-1-1-START->
+Ficinus, Marsilius
+<-1-1-STOP->
+
+<-1-2-START->
+De christiana religione
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Otino Luna, 1500
+<-3-1-STOP->
+
+<-4-1-START->
+LXXIIII, das heisst LXXXIV Blätter: 1 Holzschnittinitiale; 22 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_F-113.html<-L-5-STOP-><-VI-5-START->BSB-Ink F-113<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/GW09877.htm<-L-5-STOP-><-VI-5-START->GW 09877<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/if00149000<-L-5-STOP-><-VI-5-START->ISTC if00149000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+83 von 84 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 16./17. Jahrhundert), Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, Spuren von ursprünglich 4 Verschlussbändern (Leder)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars; Johannes Laserno; A. Deligne
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Orationes et opuscula / Franciscus Philelphus. Venedig : Bartholomaeus de Zanis, 1491
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Blatt LXXIIII, das heisst LXXXIV, mit Textende und Kolophon, fehlt (Angaben vom Digitalisat der Bayerischen Staatsbibliothek München)
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116683026505511<-L-11-STOP-><-VI-11-START->MUE Bong I 517 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991071577939705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Ficinus, Marsilius<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Luna, Otino<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-P-START->Laserno, Johannes<-P-STOP->
+<-P-START->Deligne, A.<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991071577939705501<-DOI-STOP->
+<-SIGN-START->MUE Bong I 517 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04921nam a2200625 c 4500
+001 991071577939705501
+005 20211215185740.0
+008 100611s1500    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/11.06.2010    
+035      |a (swissbib)06353343X-41slsp_network    
+035      |a 06353343X    |9 ExL    
+035      |a (IDSBB)005244317DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991071577939705501    
+035      |a (41SLSP_UBE)99116683026505511    |9 (41SLSP_UBE)99116683026505511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Ficinus, Marsilius    |d 1433-1499    |0 (DE-588)118532855    |e Verfasser    |4 aut    
+240 1 0  |a De christiana religione    
+245 1 0  |a Marsilii Ficini Florentini de Christiana religione    |b ad Laurentiu[m] Medicem opus aureum    
+246 1    |i Kolophon    |a Marsilii Ficini de Christiana Religione Finis    
+264   1  |a Venetiis    |b impressit Ottinus Papiensis    |c Anno a natali [christ]iani. M.CCCCC. [1500]    
+300      |a LXXIIII, das heisst LXXXIV Blätter    |c 22 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Impressum gemäss Kolophon (Blatt x₄)    
+500      |a Signaturformel: [a⁴], b-x⁴    
+500      |a Blatt x₄ verso unbedruckt    
+500      |a Blatt III ([a₃]) mit Holzschnittinitiale    
+510 4    |a BSB-Ink    |c F-113    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_F-113.html    
+510 4    |a GW    |c 09877    |u https://www.gesamtkatalogderwiegendrucke.de/docs/GW09877.htm    
+510 4    |a ISTC    |c if00149000    |u https://data.cerl.org/istc/if00149000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00052891/image_5    
+561      |a Handschriftliche Besitzvermerke auf vorderem fliegenden Blatt: "Joannes Laserno[?] me habet 1584" und: "Delengues"; auf der Titelseite (getilgt): "A. Deligne" (gemäss Lindt; kaum mehr leserlich)    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 16./17. Jahrhundert), Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, Linien-Blindprägung auf dem Rücken, Spuren von ursprünglich 4 Verschlussbändern (Leder); auf dem Rücken in Tinte: "Ven: 1491"    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 21.8 x 16.7 x 3.8 cm    
+563      |a Zustand Einband: Lederüberklebungen am Rücken und den Deckeln, Deckelkarton vollständig ergänzt (Bünde im Deckelkarton untypisch angesetzt), Vorsätze vollständig ergänzt (ursprünglicher Spiegel im vorderen Vorsatz eingehängt) Verschlussbänder fehlend, Typoskript mit Recherche-Informationen an das fliegende Blatt des vorderen Vorsatzes vorgeklebt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+563      |a Zustand Buchblock: Feuchtigkeitsränder im oberen Teil der Blätter    
+590      |a Buchblockbeschreibung: 83 von 84 Blättern, vorgesehene Stellen für Initialen frei gelassen, keine Rubrizierung    
+590      |a Unvollständiges Exemplar: Blatt x₄ (LXXIIII, das heisst LXXXIV, mit Textende und Kolophon) fehlt (Angaben vom Digitalisat der Bayerischen Staatsbibliothek)    
+590      |a Handschriftliche Annotationen in Tinte auf Blatt III ([a₃]), Blatt LXX (s₂) verso und Blatt LXXI (s₃) recto    
+590      |a Auf dem vorderen fliegenden Blatt handschriftliches Fragment eines Briefes: "Hanc ...[?] de d[omi]ne Capellane salute[m]. Composui q[ui] cu[m] calare p[...] tui pro dispone[n]dis [...] pro religione, Rosani de Bustis ac martialis"    
+590      |a Vor der Titelseite eingeklebt ein maschinenschriftlicher Brief (1 Blatt) der Öffentlichen Bibliothek der Universität Basel, unterzeichnet von "A. Pfister", an "Herrn Oberbibliothekar Dr. H. Bloesch, Bern", datiert "12. Mai 1941", mit Anmerkungen zum vorliegenden Titel und zum Eintrag bei Hain/Copinger    
+590      |a Zusammengebunden mit: Orationes et opuscula / Franciscus Philelphus. Venedig : Bartholomaeus de Zanis, 1491    
+590      |a Historische Signatur auf vorderem fliegenden Blatt: "Theol. No. 122."; 122 durchgestrichen, daneben: "220"    
+590      |a Frühere Signaturen: Inc IV 60; Inc 531; Hortin XI 12    
+700 1 2  |a Ficinus, Marsilius    |d 1433-1499    |t De christiana religione    |0 (DE-588)1168918286    
+700 1    |a Medici, Lorenzo <<de'>>    |d 1449-1492    |0 (DE-588)118574418    |e Widmungsempfänger    |4 dte    
+700 1    |a Luna, Otino    |d ca. 15.-Anfang 16. Jht.    |0 (DE-588)1037576314    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Laserno, Johannes    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Deligne, A.    |e Früherer Eigentümer    |4 fmo    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Bong I 517 : 1    |9 (41SLSP_UBE)99116683026505511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc IV 60 : 1    |c 404U3    |z Zusammengebunden mit 1 weiteren Druck in Sammelband    |p 12    |j MUE Bong I 517 : 1    |b B404    |9 (41SLSP_UBE)99116683026505511    
+986      |a (41SLSP_UBE)99116683026505511    |9 (41SLSP_UBE)99116683026505511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116683026505511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116683026505511    
+991      |a Bongars: 05316    |5 IZ UBE/B400/11.06.2010    |9 LOCAL    |9 (41SLSP_UBE)99116683026505511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

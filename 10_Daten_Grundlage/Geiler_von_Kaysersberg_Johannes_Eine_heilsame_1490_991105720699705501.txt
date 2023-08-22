@@ -1,0 +1,131 @@
+﻿<-1-1-START->
+Geiler von Kaysersberg, Johannes
+<-1-1-STOP->
+
+<-1-2-START->
+Eine heilsame Lehre und Predigt
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Straßburg: Peter Attendorn], 1490
+<-3-1-STOP->
+
+<-4-1-START->
+4 ungezählte Blätter: 1 Illustration, Holzschnittinitiale; 20 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://gesamtkatalogderwiegendrucke.de/docs/GW10583.htm<-L-5-STOP-><-VI-5-START->GW 10583<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ig00115500<-L-5-STOP-><-VI-5-START->ISTC ig00115500<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+4 von 4 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Pergamenteinband auf Kartondeckeln mit Papier (beige, 17./18. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Johannes Ellin
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 6 weiteren Drucken und 4 Handschriften in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116774449705511<-L-11-STOP-><-VI-11-START->MUE Inc III 105 : 9<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991105720699705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Geiler von Kaysersberg, Johannes<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Attendorn, Peter<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Ellin, Johannes<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991105720699705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 105 : 9<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03435nam a2200505 c 4500
+001 991105720699705501
+005 20211215183129.0
+008 130501s1490    fr            00| | ger d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/24.07.2014/B400/vha    
+035      |a (swissbib)066200695-41slsp_network    
+035      |a 066200695    |9 ExL    
+035      |a (IDSBB)006121738DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991105720699705501    
+035      |a (41SLSP_UBE)99116774449705511    |9 (41SLSP_UBE)99116774449705511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Geiler von Kaysersberg, Johannes    |d 1445-1510    |0 (DE-588)118538209    |e Verfasser    |4 aut    
+240 1 0  |a <<Eine>> heilsame Lehre und Predigt    
+245 1 0  |a <<Ein>> heylsame lere vnd predig des Würdigen vnd Hochgelerten docters Doctor Johansen Geiler von keyserßberg    
+246 1    |i Titel in normalisierter Form    |a <<Ein>> heylsame Lere und Predig des Würdigen und hochgelerten Docters Doctor Johansen Geiler von Keyserßberg    
+246 1    |i Titel in moderner Orthografie    |a <<Eine>> heilsame Lehre und Predigt des würdigen und hochgelehrten Doktors Johannsen Geiler von Kaysersberg    
+264   1  |a [Strassburg]    |b [Peter Attendorn]    |c Anno d[omi]n[i]. M.cccc.lxxxx. Jare [1490]    
+300      |a 4 ungezählte Blätter    |b 1 Illustration    |c 20 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Druckort und Drucker gemäss GW und ISTC, Erscheinungsjahr gemäss Kolophon    
+500      |a "Dise heylsame lere hat der würdig doctor vff das allen kürtzest gemachet ... Bittent got fur mich Anno d[omi]ni. M.cccc.lxxxx. Jare." - Kolophon    
+500      |a Signaturformel: [a⁴]    
+500      |a Holzschnitt auf der Rückseite der Titelseite    
+500      |a Holzschnittinitiale auf Blatt [a₂] recto    
+510 4    |a GW    |c 10583    |u http://gesamtkatalogderwiegendrucke.de/docs/GW10583.htm    
+510 4    |a ISTC    |c ig00115500    |u http://data.cerl.org/istc/ig00115500    
+530      |a Digitalisat (Exemplar der Staatsbibliothek zu Berlin, Preussischer Kulturbesitz)    |u http://resolver.staatsbibliothek-berlin.de/SBB0001E42E00000000    
+561      |a Früherer Eigentümer (erkennbar an den Handschriften im Band): Dr. Johannes Ellin, genannt Dr. Barbatus, Stadtarzt von Bern    
+563      |a Einbandbeschreibung: Halbbezogener Pergamenteinband auf Kartondeckeln mit Papier (beige, 17./18. Jahrhundert); auf dem Rücken die Titel in Tinte; darunter, längs zum Rücken: "Sanctoru[m] Legenda"    
+563      |a Vorsätze: vorne und hinten mit 2 fliegenden Blättern    
+563      |a Masse Einband: 19.8 x 14.9 x 2.6 cm    
+563      |a Zustand Einband: Fliegende Blätter an hinterem Vorsatz an oberer Falzkante nicht aufgeschnitten    
+590      |a Buchblockbeschreibung: 4 von 4 Blättern, handschriftliche Foliierung in Graphit auf Recto-Seiten rechts oben (f.1 - 4), keine Rubrizierung    
+590      |a Zusammengebunden mit 6 weiteren Drucken und 4 Handschriften in Sammelband    
+590      |a Frühere Signatur: Inc 596    
+700 1 2  |a Geiler von Kaysersberg, Johannes    |d 1445-1510    |t <<Eine>> heilsame Lehre und Predigt    |0 (DE-588)1125028157    
+700 1    |a Attendorn, Peter    |d -1489    |0 (DE-588)128973706    |e Drucker    |4 prt    
+700 1    |a Ellin, Johannes    |d ca. 2. H. 15. Jh.    |0 (DE-588)1194516130    |e Früherer Eigentümer    |4 fmo    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Inc III 105 : 9    |9 (41SLSP_UBE)99116774449705511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit weiteren Drucken und Handschriften    |p 12    |j MUE Inc III 105 : 9    |b B404    |9 (41SLSP_UBE)99116774449705511    
+986      |a (41SLSP_UBE)99116774449705511    |9 (41SLSP_UBE)99116774449705511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116774449705511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,152 @@
+﻿<-1-1-START->
+Baptista Mantuanus
+<-1-1-STOP->
+
+<-1-2-START->
+De patientia
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Gewidmet Carolus Antonius Fantucius (gestorben 1489), mit Widmungsbrief des Autors an den Sohn des Widmungsempfängers, Franciscus Fantucius<-500-STOP->
+<-500-START->Mit Widmungsbrief von Johann Bergmann an den Dekan von Aachen, Wynmar de Ercklens, datiert: Basel, 17.08.1499<-500-STOP->
+<-500-START->Mit Gedicht von Sebastian Brant an Wynmar de Ercklens hinter dem Kolophon<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Basel: Johann Bergmann (von Olpe), 17.08.1499
+<-500-START->Druckvariante (Anmerkung GW), Blatt a₃ recto, hier: "Bononie[n]sem" (statt "Bononise[n]em"); Blatt t₆ recto: "Sebastinus salutem" (statt "Sebastinus Brant. salutem", siehe digitalisiertes Exemplar der Universitätsbibliothek Basel)<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 233 ungezählte Seiten; 23 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-42.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-42<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW03307.htm<-L-5-STOP-><-VI-5-START->GW 03307<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib00079000<-L-5-STOP-><-VI-5-START->ISTC ib00079000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+118 von 118 Blättern, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (rot, Ziege) mit mittiger Schliesse, Linien-Blindprägung auf beiden Deckeln, Spuren einer Kettenöse am oberen Rand des Rückdeckels
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Kloster Thorberg
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116868844605511<-L-11-STOP-><-VI-11-START->MUE Inc III 77<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991047219819705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Baptista Mantuanus<-P-STOP->
+<-P-START->Bergmann, Johann<-P-STOP->
+<-P-START->Brant, Sebastian<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Bergmann, Johann<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Kloster Thorberg<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991047219819705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 77<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05795nam a2200685 c 4500
+001 991047219819705501
+005 20221214142040.0
+008 170330s1499    sz |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/30.03.2017/B404/vha    
+035      |a (swissbib)073149896-41slsp_network    
+035      |a 073149896    |9 ExL    
+035      |a (IDSBB)006686844DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991047219819705501    
+035      |a (41SLSP_UBE)99116868844605511    |9 (41SLSP_UBE)99116868844605511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Baptista    |c Mantuanus    |d 1447-1516    |0 (DE-588)118615858    |e Verfasser    |4 aut    
+240 1 0  |a De patientia    
+245 1 0  |a Baptiste Mantuani Carmelite: de patientia aurei libri tres    
+246 1 0  |a De patientia aurei libri tres    
+246 1    |i Titel in moderner Orthografie    |a Baptistae Mantuani Carmelitae de patientia aurei libri tres    
+264   1  |a Impr[a]essum Basile[a]e    |b Olpe    |c 1499
+300      |a 1 ungezähltes Blatt, 233 ungezählte Seiten    |c 23 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Gewidmet Carolus Antonius Fantucius    
+500      |a Mit Widmungsbrief des Autors an den Sohn des Widmungsempfängers, Franciscus, zu Beginn von Liber primus (Blatt a₅ verso): Venerandvs Frater Baptista Mantuanus Cemelita Francisco Fantucio. S.P.D.    
+500      |a Mit Widmungsbrief von Johann Bergmann an den Dekan von Aachen, Wynmar de Ercklens (Blatt a₂ recto): Multe virtutis [et] industrie viro d[omi]no wymmaro de Ercklens Aquensis ecclesi[a]e Decano: maiori p[er]ceptoriq[ue] sibi longe obseruando: Ioha[n]nes Bergman de Olpe Archidiaconus Grandisvallis: cum obsequio: salutem & fœlicitatem. Datiert: Ex Basilea. xvi. k[a]l[endas] septembres. Anno. MCCCClxxxxix. [17.08.1499]    
+500      |a Mit Gedicht von Sebastian Brant an Wynmar hinter dem Kolophon (Blatt t₆ recto): "D[omi]no suo wymmaro de ercklens aquensi decano. Sebastinus salutem & gaudium"    
+500      |a Druckvariante (Anmerkung GW), Blatt a₃ recto: "Bononie[n]sem" (statt "Bononise[n]em"); Blatt t₆ recto: "Sebastinus salutem" (statt "Sebastinus Brant. salutem", vgl. digitalisiertes Exemplar der Universitätsbibliothek Basel)    
+500      |a Impressum auf der Titelseite: 1499. Nihil sine causa: Olpe.    
+500      |a Erscheinungsort aus dem Kolophon    
+500      |a "Impr[a]essum Basile[a]e opera Ioha[n]nis Bergman de Olpe. xvi. k[a]l[endas] septe[m]bres. Anno salutis. Mcccclxxxxix. [17.08.1499] principante diuo Maximiliano cui salus & victoria. Amen." - Kolophon auf Blatt t₆ recto    
+500      |a Signaturformel: a-b⁸, c⁴d⁸-r⁴s⁸, t⁶    
+500      |a Blatt a₁ verso (Rückseite des Titelblatts) und Blatt t₆ verso (letzte Seite) unbedruckt    
+500      |a Gedruckte Initialen (Zierbuchstaben)    
+510 4    |a BSB-Ink    |c B-42    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-42.html    
+510 4    |a GW    |c 03307    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW03307.htm    
+510 4    |a ISTC    |c ib00079000    |u http://data.cerl.org/istc/ib00079000    
+530      |a Digitalisat (Exemplar der Universitätsbibliothek Basel)    |u http://dx.doi.org/10.3931/e-rara-10656    
+561      |a Handschriftlicher Besitzvermerk auf vorderem fliegendem Blatt: "P[er]tinet Carthusie[n]sib[us] In Torberg"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (rot, Ziege) mit mittiger Schliesse, Linien-Blindprägung auf beiden Deckeln, Spuren einer Kettenöse am oberen Rand des Rückdeckels, Rückenschild (Pergament) mit handschriftlichem Titel in Tinte: "De pati[enti]a" und Signatur des Klosters Thorberg: "XX"    
+563      |a Vorsätze: vorne und hinten ursprünglich um erste und letzte Lage gelegtes Einzelblatt (Papiermakulatur) als Spiegel, jetzt hoch gelöst    
+563      |a Masse Einband: 2.3 x 16.2 x 3.7 cm    
+563      |a Zustand Einband: Loch und Rostspuren von vormaliger Ankettung am Rückdeckel, Rücken vollständig mit Leder überklebt, beide Spiegel hoch gelöst und mit Japanpapier ergänzt, Einband rot nachgefärbt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 118 von 118 Blättern, Pergamentverstärkung (Makulaturpergament) innen in Lage a und t, Papierfalz nach Blatt a₈ und vor Blatt t₁ gehört zur Vorsatzkonstruktion; Rubrizierung; Blattweiser, aus gleichem Material wie Einbandleder    
+590      |a Zustand Buchblock: Fehlstelle an Blatt a₁ (Titelblatt), an der Stelle des Druckernamens "Olpe", mit Japanpapier ergänzt    
+590      |a Auf Blatt a₆ recto, hinter letztem Wort "Vale", handschriftliche Anmerkung in roter Tinte: "Vale a tu"    
+590      |a Historische Signaturen auf vorderem fliegenden Blatt: "Theol. No. 98" und "Theol. Lit: b.4. No. 83"    
+590      |a Frühere Signatur: Inc 602    
+700 0 2  |a Baptista    |c Mantuanus    |d 1447-1516    |t De patientia    |0 (DE-588)1128920573    
+700 1    |a Fantucius, Carolus Antonius    |d -1489    |0 (DE-588)129012742    |e Widmungsempfänger    |4 dte    
+700 1    |a Fantucius, Franciscus    |d 1466-1533    |0 (DE-588)129012777    |e Widmungsempfänger    |4 dte    
+700 1    |a Ercklens, Wynmar <<de>>    |d -1520    |0 (DE-588)129007692    |e Widmungsempfänger    |4 dte    
+700 1    |a Bergmann, Johann    |d 1455-1532    |0 (DE-588)128982918    |e Widmender    |e Verfasser eines Vorworts    |4 dto    |4 wpr    
+700 1    |a Brant, Sebastian    |d 1458-1521    |0 (DE-588)118514474    |e Widmender    |e Verfasser von ergänzendem Text    |4 dto    |4 wst    
+700 1    |a Bergmann, Johann    |d 1455-1532    |0 (DE-588)128982918    |e Drucker    |4 prt    
+710 2    |a Kloster Thorberg    |0 (DE-588)7725716-9    |e Früherer Eigentümer    |4 fmo    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc III 77    |9 (41SLSP_UBE)99116868844605511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc III 77    |b B404    |9 (41SLSP_UBE)99116868844605511    
+986      |a (41SLSP_UBE)99116868844605511    |9 (41SLSP_UBE)99116868844605511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116868844605511    
+991      |a AAK: 47629    |5 IZ UBE/30.03.2017/B404/vha    |9 local    |9 (41SLSP_UBE)99116868844605511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

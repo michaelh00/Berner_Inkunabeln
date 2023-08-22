@@ -1,0 +1,138 @@
+﻿<-1-1-START->
+Thomas von Aquin
+<-1-1-STOP->
+
+<-1-2-START->
+Summa theologiae
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Antonio da Strada, 24.12.1489
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 376 ungezählte Seiten, 1 ungezähltes Blatt; 30 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_T-276.html<-L-5-STOP-><-VI-5-START->BSB-Ink T-276<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M46464.htm<-L-5-STOP-><-VI-5-START->GW M46464<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/it00201000<-L-5-STOP-><-VI-5-START->ISTC it00201000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+188 von 190 Blättern; rot oder blau ausgezeichnete Initialen, Anfangsinitiale mit Feder verziert, mit Bordüre; Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Pergamenteinband mit durchzogenen Bünden, halbverdeckten Pergamentecken und Buchbinderpapier (beige, Elefantenpapier, 20. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Werner Zesiger
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Unbedrucktes Blatt der Lage A (erstes Blatt) und unbedrucktes Blatt [et]₆ fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116863365705511<-L-11-STOP-><-VI-11-START->MUE Zesk 28<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991005960659705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Thomas von Aquin<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Strada, Antonio da<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Zesiger, Werner<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991005960659705501<-DOI-STOP->
+<-SIGN-START->MUE Zesk 28<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04142nam a2200589 c 4500
+001 991005960659705501
+005 20211215174456.0
+008 950704s1489    it            00| | lat d
+019      |a Altbestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von Signaturen.    |5 IDSBB/24.03.1995/bestub/mes    
+035      |a (swissbib)027870138-41slsp_network    
+035      |a 027870138    |9 ExL    
+035      |a (IDSBB)001124567DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991005960659705501    
+035      |a (41SLSP_UBE)99116863365705511    |9 (41SLSP_UBE)99116863365705511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+072   7  |a th    |2 SzZuIDS BS/BE    
+100 0    |a Thomas    |c von Aquin, Heiliger    |d 1225-1274    |0 (DE-588)118622110    |e Verfasser    |4 aut    
+240 1 0  |a Summa theologiae    |n 1    
+245 1 0  |a Incipit prima pars summe theologie    |c edita a sancto Thoma de aquino angelico doctore ordinis predicatorum    
+246 1 0  |a Prima pars summe theologie    
+246 1    |i Titel in moderner Orthografie    |a Incipit prima pars summae theologiae    
+246 1 0  |a Prima pars summae theologiae    
+246 1    |i Kolophon    |a Excellentissimi sacre theologie doctoris sancti Thome de aquino ordinis predicatoru[m] p[ri]ma pars hic finem habet feliciter: su[m]ma    
+246 1    |i Kolophon in normierter Form    |a Excellentissimi sacre theologie doctoris Sancti Thome de Aquino Ordinis Predicatorum prima pars hic finem habet feliciter summa    
+246 1    |i Kolophon in moderner Orthografie    |a Excellentissimi sacrae theologiae doctoris Sancti Thomae de Aquino Ordinis Praedicatorum prima pars hic finem habet feliciter summa    
+246 1 0  |a Prima pars hic finem habet feliciter summa    
+264   1  |a Uenetijs    |b impressa per Antonium de strata de Cremona    |c anno ab incarnatione. M.cccclxxxix. die. 24. Decembris [24.12.1489]    
+300      |a 1 ungezähltes Blatt, 376 ungezählte Seiten, 1 ungezähltes Blatt    |c 30 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss Incipit    
+500      |a Impressum gemäss Kolophon (Blatt [et]₁ verso)    
+500      |a Signaturformel: A⁹+¹, B⁸, a-f⁸, g-k⁶, l-q⁸, r-u⁶, x-y⁸, z⁶, [et]⁶    
+500      |a Blatt A₂ als Blatt A, A₃ als A₂ usw. bezeichnet    
+510 4    |a BSB-Ink    |c T-276    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_T-276.html    
+510 4    |a GW    |c M46464    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M46464.htm    
+510 4    |a ISTC    |c it00201000    |u http://data.cerl.org/istc/it00201000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00058519/image_39    
+561      |a Stempel auf leerem Blatt vor Blatt A: "Dr. Zesiger"    
+563      |a Einbandbeschreibung: Halbbezogener Pergamenteinband mit durchzogenen Bünden, halbverdeckten Pergamentecken und Buchbinderpapier (beige, Elefantenpapier, 20. Jahrhundert)    
+563      |a Vorsätze: Vorne und hinten mit vier fliegenden Blättern    
+563      |a Masse: 29.7 x 21.4 x 4.2 cm    
+590      |a Buchblockbeschreibung: 188 von 190 Blättern; rot oder blau ausgezeichnete Initialen, Anfangsinitiale (Blatt a₁ recto) mit Feder verziert, mit Bordüre; Rubrizierung    
+590      |a Zustand Buchblock: Schimmelverfleckungen in den oberen Blattbereichen, Brüche im Papier mit Fehlstellen und Schädlingsfrass mit Fehlstellen am ersten Blatt, Craquelée im roten Farbauftrag der Initialen, blauer Farbauftrag mit gelber Halobildung  (zum Beispiel Blatt a₈ verso)    
+590      |a Unbedrucktes Blatt der Lage A (erstes Blatt) und unbedrucktes Blatt [et]₆ fehlen    
+590      |a Wenige handschriftliche Annotationen in Tinte (diverse Hände), teilweise beschnitten    
+590      |a Historische Signatur auf leerem Blatt vor Blatt A, unter dem Stempel "Dr. Zesiger": "F V 338"    
+700 0 2  |a Thomas    |c von Aquin, Heiliger    |d 1225-1274    |t Summa theologiae    |n 1    |0 (DE-588)4417266-7    
+700 1    |a Strada, Antonio <<da>>    |0 (DE-588)1037574524    |e Drucker    |4 prt    
+700 1    |a Zesiger, Werner    |d 1902-1958    |0 (DE-588)121027392    |e Früherer Eigentümer    |4 fmo    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Zesk 28    |9 (41SLSP_UBE)99116863365705511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Zesk 28    |b B404    |9 (41SLSP_UBE)99116863365705511    
+986      |a (41SLSP_UBE)99116863365705511    |9 (41SLSP_UBE)99116863365705511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116863365705511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

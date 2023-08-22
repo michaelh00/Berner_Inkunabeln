@@ -1,0 +1,139 @@
+﻿<-1-1-START->
+Albertus Magnus
+<-1-1-STOP->
+
+<-1-2-START->
+De IV coaequaevis; De homine
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Simone da Lovere für Andreas Asulanus, 16.02.1498 more Veneto, das heisst 1499
+<-500-START->Druckdatum des ersten Teils: 19.12.1498<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+4 ungezählte Seiten, 195 Blätter, 1 ungezähltes Blatt; 33 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-166.html<-L-5-STOP-><-VI-5-START->BSB-Ink A-166<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW00779.htm<-L-5-STOP-><-VI-5-START->GW 00779<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ia00334000<-L-5-STOP-><-VI-5-START->ISTC ia00334000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+197 von 198 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Flexibler Pergamenteinband (Makulatur) mit durchzogenen Bünden und Stosskanten sowie Resten von Verschlussbändern
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Das unbedruckte Blatt aa₆ fehlt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116832589205511<-L-11-STOP-><-VI-11-START->MUE Inc I 40<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991120755709705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Albertus Magnus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Asulanus, Andreas<-P-STOP->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Simone da Lovere<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991120755709705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 40<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04169nam a2200589 c 4500
+001 991120755709705501
+005 20211215203550.0
+008 130403m14981499it            00| | lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/05.10.2017/B404/faf    
+035      |a (swissbib)06388237X-41slsp_network    
+035      |a 06388237X    |9 ExL    
+035      |a (IDSBB)006100431DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991120755709705501    
+035      |a (41SLSP_UBE)99116832589205511    |9 (41SLSP_UBE)99116832589205511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Albertus    |c Magnus, Heiliger    |d 1193-1280    |0 (DE-588)118637649    |e Verfasser    |4 aut    
+240 1 0  |a De IV coaequaevis    
+245 1 0  |a Prima Pars Summe Alberti Magni De Quatuor Coequeuis    |b ; vna cum secunda eius que est De homine    
+246 1    |i Titel in normalisierter Form    |a Prima pars summe Alberti Magni de quatuor coequevis una cum secunda eius que est de homine    
+246 1    |i Explicit Pars 1    |a Explicit Liber Prime Partis Su[m]me D[omi]ni Alberti Magni De quatuor coequeuis ... Feliciter    
+246 1    |i Explicit Pars 2    |a Explicit Secunda Pars Summe Alberti Magni Ratispanen[sis] Ep[iscop]i De homine ... Feliciter    
+246 1    |i Incipit Pars 1    |a Incipit Liber Prime partis Summe D[omi]ni Alberti Magni ordinis Predicatorum de 4or Coequeuis    
+246 1    |i Incipit Pars 2    |a Incipit liber secunde partis summe Alberti Magni ordinis predicatorum De homine    
+246 1    |i Titel gemäss BSB-Ink, GW und ISTC    |a Summa de creaturis    
+264   1  |a Venetijs Imp[re]ssa    |b Impe[n]sis d[omi]ni Andree Torresani de Asula    |b arte [ver]o Simonis de luere    |c xvj° februarij. 1498. [more Veneto, das heisst 1499]    
+300      |a 4 ungezählte Seiten, 195 Blätter, 1 ungezähltes Blatt    |c 33 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Beide Teile mit Inhaltsverzeichnis    
+500      |a Impressum gemäss Explicit Pars 2    
+500      |a "... Venetijs Impressum per Simonem de Luere Impensis domini Andree Torresani Asula. 19°. Me[n]sis Decembris. 1498°. Feliciter" - Explicit Pars 1    
+500      |a Signaturformel: a², b-k⁸, l⁶, n-z⁸, [et]⁸, [con]⁸, [rum]⁸, aa⁶    
+500      |a Die Blätter l₆ und aa₆ sind unbedruckt    
+510 4    |a BSB-Ink    |c A-166    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-166.html    
+510 4    |a GW    |c 00779    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW00779.htm    
+510 4    |a ISTC    |c ia00334000    |u http://data.cerl.org/istc/ia00334000    
+530      |a Digitalisat Pars 1 (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0005/bsb00051736/images    
+530      |a Digitalisat Pars 2 (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0005/bsb00051737/images    
+563      |a Einbandbeschreibung: Flexibler Pergamenteinband (Makulatur) mit durchzogenen Bünden und Stosskanten sowie Resten von Verschlussbändern    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 32.1 x 22 x 3.2 cm    
+563      |a Zustand Einband: Pergament verwellt mit deformierten Stosskanten, Bünde im hinteren Falz abgeschabt, Japanpapierergänzung am Rücken, Vorsätze im Falz mit Japanpapier verstärkt, Verschlussbänder aus Leder fehlend    
+590      |a Buchblockbeschreibung: 197 von 198 Blättern, Blatt aa₁ als Einzelblatt um letzte Lage gelegt (Falz vor fliegendes Blatt des hinteren Vorsatzes geklebt), vorgesehene Stellen für Initialen frei gelassen    
+590      |a Unvollständiges Exemplar: Das unbedruckte Blatt aa₆ fehlt    
+590      |a Historische Signatur auf Titelseite: "Phil 135"    
+590      |a Frühere Signatur: Inc 205    
+700 1    |a Asulanus, Andreas    |d 1451-1529    |0 (DE-588)120730030    |e Verlag    |4 pbl    
+700 0    |a Simone    |c da Lovere    |0 (DE-588)1037601408    |e Drucker    |4 prt    
+700 0 2  |a Albertus    |c Magnus, Heiliger    |d 1193-1280    |t De IV coaequaevis    |0 (DE-588)1140869493    
+700 0 2  |a Albertus    |c Magnus, Heiliger    |d 1193-1280    |t De homine    |0 (DE-588)7542188-4    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Inc I 40    |9 (41SLSP_UBE)99116832589205511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc I 40    |b B404    |9 (41SLSP_UBE)99116832589205511    
+986      |a (41SLSP_UBE)99116832589205511    |9 (41SLSP_UBE)99116832589205511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116832589205511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,200 @@
+﻿<-1-1-START->
+Gerson, Jean
+<-1-1-STOP->
+
+<-1-2-START->
+Werke [lateinisch]
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Herausgegeben von Petrus Schott und Johannes Geiler von Kaysersberg<-500-STOP->
+<-500-START->Mit einem Vorwort von Petrus Schott und (teils Gerson zugeschriebenen) Texten von Peter von Ailly, Heinrich von Langenstein, Karl VI. (König von Frankreich), Johannes de Schonhavia, Matthäus Grabow, Johannes Vitalis, Heinrich von Gorkum, Guilelmus Scissor, Thomas von Kempen, Johannes Fiscannensis, Bruder des Johannes Gerson, Jacobus de Ciresio und Amédée de Talaru<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Straßburg]: [Martin Flach (der Ältere)], 13.12.1494
+<-500-START->Druckdatum gemäss Kolophonen in Band 1 und 2; Datierung im Kolophon von Band 3: 11.08.1494<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+4 Bände: 4 Illustrationen, 1 Notenbeispiel; 33 cm (2°)
+<-500-START->Band 1: 434 ungezählte Seiten, 1 ungezähltes Blatt (leer); Band 2: 514 ungezählte Seiten, 1 ungezähltes Blatt (leer); Band 3: 718 ungezählte Seiten, 1 ungezähltes Blatt; Band 4: 101 ungezählte Seiten, 1 ungezähltes Blatt (leer)<-500-STOP->
+<-500-START->Bei der Illustration handelt es sich um einen viermal verwendeten Titelholzschnitt, möglicherweise nach einer Vorlage des jungen Albrecht Dürers, von dem aber wahrscheinlich nur die kunstvollere Ausführung des Holzschnitts im 1502 erschienenen zusätzlichen Band stammt<-500-STOP->
+<-500-START->Das Notenbeispiel befindet sich in Band 3 (Blatt Gg₂ verso)<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_G-186.html<-L-5-STOP-><-VI-5-START->BSB-Ink G-186<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW10717.htm<-L-5-STOP-><-VI-5-START->GW 10717<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ig00189000<-L-5-STOP-><-VI-5-START->ISTC ig00189000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+Band 2: 257 von 258 Blättern, Band 3: 360 von 360 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+2 ganzbezogene Ledereinbände auf Holzdeckeln (braun, Schaf) mit Schliessen, Linien- und Ornamentstempel- sowie Ornamentrollen-Blindprägung auf jeweils beiden Deckeln, Ornamentstempel-Blindprägung jeweils auf dem Rücken
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Ulrich Wittmayr; Bartholomäus Bebel; Franz von Thun und Hohenstein jun.
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Band 1 und 4 (Inventarium) fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116839015705511<-L-11-STOP-><-VI-11-START->MUE Inc I 118<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991021959469705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Gerson, Jean<-P-STOP->
+<-P-START->Schott, Petrus<-P-STOP->
+<-P-START->Geiler von Kaysersberg, Johannes<-P-STOP->
+<-P-START->Peter von Ailly<-P-STOP->
+<-P-START->Heinrich von Langenstein<-P-STOP->
+<-P-START->Karl VI. (König von Frankreich)<-P-STOP->
+<-P-START->Johannes de Schonhavia<-P-STOP->
+<-P-START->Grabow, Matthäus<-P-STOP->
+<-P-START->Johannes Vitalis<-P-STOP->
+<-P-START->Heinrich von Gorkum<-P-STOP->
+<-P-START->Guilelmus Scissor<-P-STOP->
+<-P-START->Thomas von Kempen<-P-STOP->
+<-P-START->Johannes Fiscannensis<-P-STOP->
+<-P-START->Bruder des Johannes Gerson<-P-STOP->
+<-P-START->Jacobus de Ciresio<-P-STOP->
+<-P-START->Talaru, Amédée de<-P-STOP->
+<-P-START->Dürer, Albrecht<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Flach, Martin (der Ältere)<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Wittmayr, Ulrich<-P-STOP->
+<-P-START->Bebel, Bartholomäus<-P-STOP->
+<-P-START->Thun und Hohenstein, Franz von (jun.)<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991021959469705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 118<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 11379nam a2201033 ca4500
+001 991021959469705501
+005 20221214140758.0
+008 180208s1494    fr |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/08.02.2018/B404/faf    
+035      |a (swissbib)072680229-41slsp_network    
+035      |a 072680229    |9 ExL    
+035      |a (IDSBB)006773174DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991021959469705501    
+035      |a (41SLSP_UBE)99116839015705511    |9 (41SLSP_UBE)99116839015705511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Gerson, Jean    |d 1363-1429    |0 (DE-588)118557866    |e Verfasser    |4 aut    
+240 1 0  |a Werke    
+245 1 0  |a Prima [-tercia] pars operum Johannis Gerson    
+246 1    |i Kolophon von Band 1    |a Prima pars operu[m] magistri Joha[n]nis de Gerson sacraru[m] litteraru[m] doctoris resolutissimi christianissimiq[ue]/ [com]plectens tractatus fidem ac p[otes]tatem eccl[es]iasticam co[n]cerne[n]tes/ finit feliciter    
+246 1    |i Kolophon von Band 2    |a Secu[n]da pars ope[rum] d[omi]ni Johannis Gerson Cancellarij Parisien[sis] doctoris christianissimi resolutissimiq[ue] [con]tinens opuscula ad mores acco[m]modata. Finit feliciter    
+246 1    |i Kolophon von Band 3    |a Finiu[n]t opera ca[n]cellarij Parisie[n]sis doctoris christianissimi magistri Johannis de Gerson. que vt fruge[m] lectori vberrima[m] fera[n]t/ eme[n]datissima lima castigata fuere    
+246 1    |i Kolophon von Band 1 in normalisierter Form    |a Prima pars operum magistri Johannis de Gerson sacrarum litterarum doctoris resolutissimi christianissimique, complectens tractatus fidem ac potestatem ecclesiasticam concernentes, finit feliciter    
+246 1    |i Kolophon von Band 2 in normalisierter Form    |a Secunda pars operum domini Johannis Gerson cancellarii Parisiensis doctoris christianissimi resolutissimique continens opuscula ad mores accommodata finit feliciter    
+246 1    |i Kolophon von Band 3 in normalisierter Form    |a Finiunt opera cancellarii Parisiensis doctoris christianissimi magistri Johannis de Gerson, que ut frugem lectori uberrimam ferant, emendatissima lima castigata fuere    
+246 1    |i Titel von Band 4 in normalisierter Form    |a Inventorium eorum que in operibus Gersonis continentur    
+246 1    |i Titel gemäss BSB-Ink, GW und ISTC    |a Opera    
+264   1  |a [Straßburg]    |b [Martin Flach]    |c Anno d[omi]nice natiuitatis. M.cccc.xciiij. Idib[us] dece[m]br[is] [13.12.1494]    |3 Band 1    
+264 2 1  |c Anno n[ost]re salutis. M.ccccxciiij. Idibus Decembris [13.12.1494]    |3 Band 2    
+264 3 1  |c Anno d[omi]ni. Mcccclxxxxiiij. iij. Idus mensis Augusti [11.08.1494]    |3 Band 3    
+300      |a 4 Bände    |b 4 Illustrationen, 1 Notenbeispiel    |c 33 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Herausgegeben von Petrus Schott und Johannes Geiler von Kaysersberg    
+500      |a Mit einem Vorwort von Petrus Schott und (teils Gerson zugeschriebenen) Texten von Petrus de Alliaco, Henricus de Langenstein, Charles VI., Johannes de Schonhavia, Matthaeus Grabow, Johannes Vitalis, Henricus de Gorrichem, Guilelmus Scissor, Thomas von Kempen, Johannes Fiscannensis, Gersons Bruder Johannes, Jacobus de Ciresio und Amédée de Talaru    
+500      |a Druckort und Drucker gemäss versifiziertem Kolophon von Band 3: "Noscere forte voles quis sculpserit hoc opus ere / Presserit has chartas quisue characteribus: ... Ille quidem simus Martinus/ littore rheni / Urbs dedit insignem cui Argentina domu[m] ..."    
+500      |a Druckdaten gemäss Kolophonen der ersten drei Bände    
+500      |a Bei der Illustration handelt es sich um einen viermal verwendeten Titelholzschnitt, möglicherweise nach einer Vorlage des jungen Albrecht Dürers, von dem aber wahrscheinlich nur die kunstvollere Ausführung des Holzschnitts im 1502 erschienenen zusätzlichen Band stammt    
+500      |a Das Notenbeispiel befindet sich in Band 3, Blatt Gg₂ verso    
+500      |a Umfang Band 1: 434 ungezählte Seiten, 1 ungezähltes Blatt; Band 2: 514 ungezählte Seiten, 1 ungezähltes Blatt; Band 3: 718 ungezählte Seiten, 1 ungezähltes Blatt; Band 4: 101 ungezählte Seiten, 1 ungezähltes Blatt    
+500      |a Die ungezählten Blätter sind unbedruckt    
+500      |a Signaturformel Band 1: a-b⁶, c–e⁸, f⁶, g–i⁸, k⁶l⁸-s⁶t⁸, v⁸, x⁶, y⁸, z⁶, aa-bb⁸, cc⁶, dd–gg⁸; Band 2: A⁸, B⁸C⁶–Y⁸Z⁶, aA⁸bB⁶–eE⁸fF⁶, gG-hH⁸, iI⁶, kK–nN⁸; Band 3: aa⁸bb⁶–gg⁸hh⁶, ii-kk⁸, ll⁶, mm-nn⁸, oo⁶, pp-qq⁸, rr⁶, ss⁸, tt⁶, vv-xx⁸, yy⁶, zz⁸, Aa⁸, Bb⁶, Cc-Dd⁸, Ee⁶, Ff⁸, Gg-Hh⁶, Ii⁸, Kk⁶, Ll⁸, Mm⁶, Nn-Oo⁸, Pp⁶, Qq⁸, Rr⁶, Ss-Tt⁸, Vv⁶, Xx–Zz⁸, AA⁶, BB⁸, CC⁶, DD⁸; Band 4: A-B⁸, C⁶, D⁸, E⁶, F-G⁸    
+500      |a Ab Lage h durchgehende Lagenzählung (I-C, mit Fehlern) rechts in den Kopfzeilen aller Rectoseiten    
+500      |a Ab Blatt g₈ durchgehende Zählung (I-C) rechts in den Kopfzeilen der Rectoseiten der Bände 1-3, ca. alle 4-10 Blätter wechselnd, dazu jeweils Buchstaben A-Z, [et], [con] in den Rändern, benutzt im Inventorium (Register)    
+505 0 0  |g Band 1    |t Prima pars operum Johannis Gerson    
+505 0 0  |g Band 2    |t Secunda pars operum Johannis de Gerson    
+505 0 0  |g Band 3    |t Tercia pars operum Johannis de Gerson doctoris christianissimi    
+505 0 0  |g Band 4    |t Inuentoriu[m] eoru[m] que in operibus Gersonis continentur    
+510 4    |a BSB-Ink    |c G-186    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_G-186.html    
+510 4    |a GW    |c 10717    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW10717.htm    
+510 4    |a ISTC    |c ig00189000    |u http://data.cerl.org/istc/ig00189000    
+530      |a Digitalisat Band 1 (Exemplar der Universitäts- und Landesbibliothek Düsseldorf)    |u http://digital.ub.uni-duesseldorf.de/id/3571995    
+530      |a Digitalisat Band 2 (Exemplar der Universitäts- und Landesbibliothek Düsseldorf)    |u http://digital.ub.uni-duesseldorf.de/id/3564302    
+530      |a Digitalisat Band 3 (Exemplar der Universitäts- und Landesbibliothek Düsseldorf)    |u http://digital.ub.uni-duesseldorf.de/id/3563572    
+530      |a Digitalisat Band 4 (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0003/bsb00038646/images    
+561      |a Handschriftlicher Besitzvermerk auf vorderem Spiegel von Band 2: "Vdalricus Vuittmaÿr"; auf beiden Titelseiten: "Liber M. Bartholomei Bebel"; Wappen-Exlibris auf vorderem Spiegel von Band 2: "Ex Libris Franc Com A Thvn-Hohenstein Tetschen"; 1951 durch die Stadtbibliothek Bern erworben vom Auktionshaus Jürg Stuker    
+563      |a Einbandbeschreibung: 2 ganzbezogene Ledereinbände auf Holzdeckeln (braun, Schaf) mit Schliessen, Linien- und Ornamentstempel- sowie Ornamentrollen-Blindprägung auf jeweils beiden Deckeln, Ornamentstempel-Blindprägung jeweils auf dem Rücken, aufgeklebtes Papierschild auf Vorderdeckel von Band 3: "3a Gersonis", aufgeklebte Signaturschilder aus Papier auf den Rücken beider Bände: "26" bzw. "27"    
+563      |a Vorsätze: Jeweils vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einbände: 32.2 x 22.3 x 5.6 cm (Band 2), 34.4 x 22.5 x 6.8 cm (Band 3)    
+563      |a Zustand Einbände: Leder-Über- und Unterklebungen am Rücken und teilweise an den Deckeln, Schliessen und Schliessenriemen ergänzt, Spiegel vorne in Band 3 ergänzt, fliegendes Blatt in Band 3 ergänzt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: Band 2: 257 von 258 Blättern, Band 3: 360 von 360 Blättern, Papierfalz jeweils zwischen erster und zweiter sowie vorletzter und letzter Lage aus Vorsatzkonstruktion, vorgesehene Stellen für Initialen frei gelassen, Band- und teilweise Autorangaben auf allen Schnitten, auf Vorderschnitt zusätzlich bei Band 2 "25", bei Band 3 "26"    
+590      |a Zustand Buchblöcke: Feuchtigkeitsränder und starke Verbräunung sowie Verfleckungen, historischer Schimmelschaden an Band 2, starker Schädlingsfrass mit Textverlust und Schäden an den Holzschnitten vor allem in Band 3, Fehlstellen an den ersten Blättern in Band 2 ergänzt, Fehlstellen nur teilweise an ersten Blättern in Band 3 ergänzt sowie 1. Lage neu geheftet    
+590      |a Unvollständiges Exemplar: Band 1 und 4 (Inventarium) sowie das unbedruckte Blatt nN₈ fehlen    
+590      |a Wenige handschriftliche Annotationen in Tinte, hebräischer Schriftzug auf Vorderdeckel von Band 2    
+590      |a Historische Signaturen auf Vorderdeckel von Band 2: "168."; "F.) 85.", Zahl korrigiert zu "84."; "V. 94.", "18.726" (eingeklebt); auf vorderem fliegendem Vorsatzblatt recto von Band 2: "P 12"; "A X/269/2"; "H 7625"; "R 50"; "B 11"; auf vorderem fliegendem Vorsatzblatt recto von Band 3: "269/2 A X"; auf Titelseite von Band 3: "2 (08) M", "H 7625"; "R/50"    
+700 1    |a Schott, Petrus    |d 1460-1490    |0 (DE-588)104160756    |e Herausgeber    |e Verfasser eines Vorworts    |4 edt    |4 wpr    
+700 1    |a Geiler von Kaysersberg, Johannes    |d 1445-1510    |0 (DE-588)118538209    |e Herausgeber    |4 edt    
+700 0    |a Peter    |c von Ailly, Kardinal    |d 1351-1420    |0 (DE-588)118644157    |e Verfasser    |4 aut    
+700 0    |a Heinrich    |c von Langenstein    |d 1325-1397    |0 (DE-588)118548395    |e Verfasser    |4 aut    
+700 0    |a Karl    |b VI.    |c Frankreich, König    |d 1368-1422    |0 (DE-588)118720864    |e Verfasser    |4 aut    
+700 0    |a Johannes    |c de Schonhavia    |d 1356-1432    |0 (DE-588)100949363    |e Verfasser    |4 aut    
+700 1    |a Grabow, Matthäus    |d -1421    |0 (DE-588)104107154    |e Verfasser    |4 aut    
+700 0    |a Johannes    |c Vitalis    |d ca. um 1390    |0 (DE-588)102550689    |e Verfasser    |4 aut    
+700 0    |a Heinrich    |c von Gorkum    |d 1378-1431    |0 (DE-588)100945767    |e Verfasser    |4 aut    
+700 0    |a Guilelmus    |c Scissor    |d ca. 1. Hälfte 15. Jh.    |0 (DE-588)1018697985    |e Verfasser    |4 aut    
+700 0    |a Thomas    |c von Kempen    |d 1379-1471    |0 (DE-588)118642766    |e Verfasser    |4 aut    
+700 0    |a Johannes    |c Fiscannensis    |d 990-1079    |0 (DE-588)100949576    |e Verfasser    |4 aut    
+700 0    |a Bruder des Johannes Gerson    |d ca. 1385/86-1434    |0 (DE-588)129022179    |e Verfasser    |e Verfasser eines Nachworts    |4 aut    |4 aft    
+700 0    |a Jacobus    |c de Ciresio    |d ca. 14./15. Jh.    |0 (DE-588)129032557    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Talaru, Amédée <<de>>    |d 1377-1444    |0 (DE-588)129072389    |e Verfasser    |4 aut    
+700 1    |a Dürer, Albrecht    |d 1471-1528    |0 (DE-588)11852786X    |e Illustrator    |4 ill    
+700 1    |a Flach, Martin    |c der Ältere    |d 1440-1500    |0 (DE-588)129016489    |e Drucker    |4 prt    
+700 1    |a Wittmayr, Ulrich    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Bebel, Bartholomäus    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Thun und Hohenstein, Franz <<von>>    |c jun.    |d 1809-1870    |0 (DE-588)116968133    |e Früherer Eigentümer    |4 fmo    
+700 1 2  |a Gerson, Jean    |d 1363-1429    |t Werke    |0 (DE-588)1152035754    
+710 2    |a Galerie Jürg Stuker Bern    |0 (DE-588)2097220-9    |e Verkäufer    |4 sll    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Inc I 118    |9 (41SLSP_UBE)99116839015705511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |h MUE Inc I 118 : 3    |p 12    |j MUE Inc I 118    |b B404    |9 (41SLSP_UBE)99116839015705511    
+949      |c 404U3    |h MUE Inc I 118 : 2    |p 12    |j MUE Inc I 118    |b B404    |9 (41SLSP_UBE)99116839015705511    
+986      |a (41SLSP_UBE)99116839015705511    |9 (41SLSP_UBE)99116839015705511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116839015705511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

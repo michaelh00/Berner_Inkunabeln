@@ -1,0 +1,129 @@
+﻿<-1-1-START->
+Wimpfeling, Jakob
+<-1-1-STOP->
+
+<-1-2-START->
+Oratio querulosa contra invasores sacerdotum
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Widmung an Papst Alexander VI.<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Basel?: Johann Bergmann?, um 1495]
+<-3-1-STOP->
+
+<-4-1-START->
+20 ungezählten Seiten: Holzschnittinitiale; 23 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_W-70.html<-L-5-STOP-><-VI-5-START->BSB-Ink W-70<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M51677.htm<-L-5-STOP-><-VI-5-START->GW M51677<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/iw00046000<-L-5-STOP-><-VI-5-START->ISTC iw00046000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+10 von 10 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband (braun, Schaf) auf Holzdeckeln mit mittiger Schliesse, Linien- sowie Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 4 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116682169005511<-L-11-STOP-><-VI-11-START->MUE Inc IV 31 : 4<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991151610949705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Wimpfeling, Jakob<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Bergmann, Johann<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991151610949705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 31 : 4<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 02805nam a2200493 c 4500
+001 991151610949705501
+005 20230209145622.0
+008 160902q14951499sz |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/02.09.2016/B404/az    
+035      |a (swissbib)070220077-41slsp_network    
+035      |a 070220077    |9 ExL    
+035      |a (IDSBB)006618553DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991151610949705501    
+035      |a (41SLSP_UBE)99116682169005511    |9 (41SLSP_UBE)99116682169005511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Wimpfeling, Jakob    |d 1450-1528    |0 (DE-588)118769189    |e Verfasser    |4 aut    
+240 1 0  |a Oratio querulosa contra invasores sacerdotum    
+245 1 0  |a Oracio quaerulosa contra Inuasores Sacerdotum    |c [Jakob Wimpfeling]    
+246 1    |i Titel gemäss ISTC    |a Oratio quaerulosa contra invasores sacerdotum    
+264   1  |a [Basel?]    |b [Johann Bergmann?]    |c [um 1495]    
+300      |a 20 ungezählten Seiten    |c 23 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Widmung an Papst Alexander VI.    
+500      |a Druckort, Drucker und Druckjahr gemäss ISTC    
+500      |a Mit Zierinitiale    
+500      |a Signaturformel: A¹⁰    
+500      |a Blatt A₁₀ ist unbedruckt    
+510 4    |a BSB-Ink    |c W-70    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_W-70.html    
+510 4    |a GW    |c M51677    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M51677.htm    
+510 4    |a ISTC    |c iw00046000    |u http://data.cerl.org/istc/iw00046000    
+530      |a Digitalisat (Exemplar der Universitätsbiblibliothek Basel)    |u http://dx.doi.org/10.3931/e-rara-5401    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband (braun, Schaf) auf Holzdeckeln mit mittiger Schliesse, Linien- sowie Ornamentstempel-Blindprägung auf beiden Deckeln, drei Titel in Tintenschrift auf vorderem Holzdeckel, 4. Titelangabe durch Auskratzen getilgt    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 22.6 x 16.5 x 3.1 cm    
+563      |a Zustand Einband: Lederüberklebungen am Einband mit Ergänzung der Blindprägung, Schliesse restauriert (Hakenteil inkl. Schliessenriemen und -plättchen sowie Nieten am Ösenteil ergänzt), Vorsätze im Falz verstärkt    
+563      |a Detaillierte Beschreibung im Inkunabel-Einbandkatalog (Lindt/Mülinen)    
+563      |a Zustand Buchblock: vereinzelte Frasslöcher    
+590      |a Masse Buchblock: 21.6 x 15.3 x 0.2 cm    
+590      |a Zusammengebunden mit 4 weiteren Drucken in Sammelband    
+700 1 2  |a Wimpfeling, Jakob    |d 1450-1528    |t Oratio querulosa contra invasores sacerdotum    |0 (DE-588)1133095275    
+700 1    |a Bergmann, Johann    |d 1455-1532    |0 (DE-588)128982918    |e Drucker    |4 prt    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 31 : 4    |9 (41SLSP_UBE)99116682169005511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc IV 31 : 4    |b B404    |9 (41SLSP_UBE)99116682169005511    
+986      |a (41SLSP_UBE)99116682169005511    |9 (41SLSP_UBE)99116682169005511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116682169005511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

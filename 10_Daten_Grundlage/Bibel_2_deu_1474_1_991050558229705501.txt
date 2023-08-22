@@ -1,0 +1,145 @@
+﻿<-1-1-START->
+Bibel [deutsch]
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Übersetzung der lateinischen Vulgata des Hieronymus, sowie seinen Prologen und Briefen an Paulinus von Nola und Papst Damasus I.<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Augsburg: [Günther Zainer], [zwischen 1474 und 1476]
+<-500-START->Druckdatum gemäss BSB-Ink und GW um 1475/1476; im ISTC zusätzlich: "not after 1474"<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+2 Bände: 76 Illustrationen in Holzschnittinitialen; 48 cm (2°)
+<-500-START->2 ungezählte Blätter, CCCCXXI, CX Blätter<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_B-485.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-485<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/GW04298.htm<-L-5-STOP-><-VI-5-START->GW 04298<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/ib00627000<-L-5-STOP-><-VI-5-START->ISTC ib00627000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+Band 1 (2 ungezählte Blätter, Blatt I-CLXXXIII): 158 von 188 Blättern; Band 2 (Blatt CLXXXVI-CCCCXXI, Neues Testament Blatt I-C): 335 von 346 Blättern; insgesamt 493 von 534 Blättern, rot ausgezeichnete Initialen, sämtliche Holzschnittinitialen koloriert; Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogene Ledereinbände auf Kartondeckeln (braun, Kalb, 18./19.Jahrhundert) mit flächig gefärbtem Papier (grau-grün), Ornamentlinien-Blindprägung am Rücken
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Band 1: Blatt [a₁] (unbedruckt), [a₂] (Register), Blätter I-XXVI und CLXXXIV-CLXXXV fehlen; vom zusätzlichen halben Blatt hinter Blatt CLXXXV (hier hinter CLXXXIII) ist der untere Teil mit Kolophon weggerissen; Band 2: Blatt LXX und Blätter CI-CX fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116843123605511<-L-11-STOP-><-VI-11-START->MUE Inc II 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991050558229705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Hieronymus, Sophronius Eusebius<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Augsburg<-O-STOP->
+<-P-START->Günther Zainer<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991050558229705501<-DOI-STOP->
+<-SIGN-START->MUE Inc II 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 07674nam a2200649 ca4500
+001 991050558229705501
+005 20211215164239.0
+008 130419s1475    gw            00| | ger d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/21.07.2014/B400/vha    
+035      |a (swissbib)065704207-41slsp_network    
+035      |a 065704207    |9 ExL    
+035      |a (IDSBB)006117285DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991050558229705501    
+035      |a (41SLSP_UBE)99116843123605511    |9 (41SLSP_UBE)99116843123605511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a ger    |h lat    |h grc    |h heb    
+130 0    |a Bibel    |0 (DE-588)4006406-2    
+245 1 0  |a Diß durchleüchtigost werck der gantzen heyligen geschrifft. genandt die Bibel für aller ander vorgedrucket teütsch biblen. lauterer. klärer. vnnd warer. nach rechter gemeinen teütsch dan[n] vorgedrucket. hat hie ein ende    
+246 1 0  |a Diß durchleüchtigost Werck der gantzen heyligen Geschrifft    
+246 1    |i Titel in moderner Orthografie    |a Dies durchleuchtigest Werk der ganzen heiligen Geschrift, genannt die Bibel, vor aller ander vorgedrucket teutsch Biblen, lauterer, klärer, und wahrer, nach rechter gemeinen Teutsch dann vorgedrucket, hat hier ein Ende    
+246 1    |i Titel in moderner Orthografie    |a Dies durchleuchtigest Werk der ganzen heiligen Geschrift    
+246 1    |i Titel gemäss BSB-Ink, GW und ISTC    |a Biblia    
+264   1  |a In der hochwirdigen keyserlichen stat Augspurg ...    |b [Günther Zainer]    |c [um 1475]    
+300      |a 2 Bände (2 ungezählte Blätter, CCCCXXI, CX Blätter)    |b 76 Illustrationen    |c 48 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Übersetzung der lateinischen Vulgata, mit Brief an Paulinus und Vorreden zu den einzelnen Büchern von Hieronymus    
+500      |a Titel gemäss Kolophon (Band 2, Blatt CX recto, Wiedergabe gemäss Digitalisat)    
+500      |a Druckort gemäss Kolophon (Wiedergabe gemäss Digitalisat), Drucker gemäss BSB-Ink, GW und ISTC    
+500      |a Druckdatum gemäss BSB-Ink und GW um 1475/1476; im ISTC zusätzlich angegeben: "not after 1474", gemäss einer Anmerkung im BMC, wonach Zainer ein Exemplar der Bibel 1474 der Kartause Buxheim schenkte; dies wird in BSB-Ink angezweifelt, weil ein Eintrag im entsprechenden Exemplar fehle    
+500      |a Gemäss GW fehlte die Bibel in Zainers Anzeige vom Jahr 1474 (Burger: Buchhändleranzeigen 14), während sie 1476 (Burger: Buchhändleranzeigen 20) aufgeführt ist    
+500      |a Signaturformel: [a¹⁰, b⁸, c⁹, d–s¹⁰, t¹⁰+¹, v-z¹⁰, A–S¹⁰, T-V⁸, X–Z¹⁰, aa–hh¹⁰]    
+500      |a Zwischen Blättern [t₁₀] (CXXXV) und [v₁] (CXXXVI) ein zusätzliches, halbes Blatt (nur linke Spalte der Recto-Seite bedruckt, mit Ende des Buches Manasse; siehe Digitalisat)    
+500      |a Blatt [a₁] unbedruckt; Blätter [a₂] recto und [hh₁₀] (CX) verso unbedruckt    
+500      |a 76 Holzschnittinitialen, mit Illustration innerhalb der Initiale, am Beginn von jedem Buch; daneben zahlreiche kleinere, ornamentale Holzschnittinitialen    
+500      |a Kolophone und Incipits zwischen den einzelnen Büchern in Rotdruck    
+510 4    |a BSB-Ink    |c B-485    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_B-485.html    
+510 4    |a GW    |c 04298    |u https://www.gesamtkatalogderwiegendrucke.de/docs/GW04298.htm    
+510 4    |a ISTC    |c ib00627000    |u https://data.cerl.org/istc/ib00627000    
+530      |a Digitalisat Band 1, bis Blatt CCLXX ([E₄])(Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00025978/image_7    
+530      |a Digitalisat Band 2, ab Blatt CCLXXI ([E₅]) (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00025979/image_5    
+563      |a Einbandbeschreibung: Halbbezogene Ledereinbände auf Kartondeckeln (braun, Kalb, 18./19.Jahrhundert) mit flächig gefärbtem Papier (grau-grün), Ornamentlinien-Blindprägung am Rücken und goldgeprägte Titelschilder: "Biblia Germanica"; auf beiden Bänden darüber in Tinte: "Vte vollstænd. deutsche Bibel, d[ur]ch Günther Zainer 1473-1475, Panzer."; unter dem Titelschild in Tinte: "Augsburg"    
+563      |a Vorsätze Band 1: vorne und hinten mit einem fliegenden Blatt; Band 2: vorne mit einem, hinten ohne fliegendes Blatt    
+563      |a Masse Band 1: 47.5 x 32.6 x 5.6 cm; Band 2: 47.6 x 33.5 x 10.6 cm    
+563      |a Zustand Einband: Japanpapierüberklebungen in den Fälzen beider Vorsätze, Leder- und Papierüberklebungen an den Deckelkanten und -ecken    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: Band 1 (bis Blatt CLXXXIII ([t₈]) + zusätzlichem halbem Blatt): 158 von 188 Blättern; Band 2 (Blatt CLXXXVI-CCCCXXI ([v₁]-[V₈]) und vom Neuen Testament Blatt I-C ([X₁]-[gg₁₀])): 335 von 346 Blättern; insgesamt 493 von 534 Blättern; handschriftliche Lagensignatur in Graphit (gemäss GW), jeweils auf der ersten Recto-Seite jeder Lage; Pergamentverstärkung (verklebt) in den Lagenmitten; rot ausgezeichnete Initialen; sämtliche Holzschnittinitialen koloriert; Rubrizierung    
+590      |a Zustand Buchblock: Band 1: Schädlingsfrass an ersten Blättern XXVII und XXVIII ([d₂]-[d₃]) mit Loch (Schaden im Text) und Spuren einer Flüssigkeit; Schnitt in unterem Rand von Blatt CLXXI ([s₇]); Fragment nach Blatt CLXXXIII (t₈) vormalig auf bräunliches Blatt kaschiert, jetzt gelöst (siehe Feuchterand) mit Japanpapierüberklebungen. - Band 2: Starke Verfleckung und Feuchteränder mit Schädlingsfrass an den Blättern der ersten drei Lagen [v], [x] und [y] (vor allem Blatt CLXXXXVI ([x₁])] und der Blätter LXXXXII-C (letzte vorhandene Lage [gg]), Blatt CCCLXXXVII ([R₂]) mit Riss , Durchstossung der Blätter der letzten vorhandenen Lage [gg] an zwei Stellen (zweite Stelle erst ab Blatt LXXXXIX ([gg₉]) im Kolumnenbereich mit etwas Textverlust, ölartige Verfleckung der unteren Ecke im mittleren Buchblockbereich    
+590      |a Unvollständiges Exemplar: Band 1: Blatt [a₁] (unbedruckt), [a₂] (Register) und Blätter I-XXVI ([a₃]-[d₁]) sowie die Blätter CLXXXIV-CLXXXV ([t₉]-[t₁₀]) fehlen; vom zusätzlichen halben Blatt hinter Blatt CLXXXV (hier hinter CLXXXIII) ist der untere Teil mit dem Kolophon ("Ein ende hatt das gebett manasses ...") weggerissen; Band 2: Blatt LXX ([dd₁₀]) und die letzten Blätter CI-CX ([hh₁]-[hh₁₀]) fehlen    
+590      |a Wenige handschriftliche Annotationen in Tinte; Band 1: auf dem letzten Blatt verso jeder Lage unten rechts eine handschriftliche Kustode (ein bis drei Wörter des Textbeginns auf der nächsten Recto-Seite; in Band 2 nur noch vor Lage y)    
+590      |a Am Ende von Band 2 angebunden sind 7, zum Teil stark beschädigte Blätter (CCIII, CCCV-CCCVIII, CCCXV und CCCXXVI) aus der Bibel-Ausgabe von Günther Zainer, 1477 (BSB-Ink B-487, GW 04300, ISTC ib00629000)    
+590      |a Frühere Signatur: Inc 64    
+700 1    |a Hieronymus, Sophronius Eusebius    |d 345-420    |0 (DE-588)118550853    |e Verfasser von ergänzendem Text    |4 wst    
+700 0    |a Günther    |c Zainer    |d 1430-1478    |e Drucker    |0 (DE-588)118636111    |4 prt    
+730 0    |a Bibel    |g Vulgata    |0 (DE-588)4188770-0    
+751      |a Augsburg    |0 (DE-588)4003614-5    
+852 4    |b B404    |c 404U3    |j MUE Inc II 1    |9 (41SLSP_UBE)99116843123605511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit Fragment eines weiteren Drucks    |h MUE Inc II 1 : 2    |p 12    |j MUE Inc II 1    |b B404    |9 (41SLSP_UBE)99116843123605511    
+949      |c 404U3    |h MUE Inc II 1 : 1    |p 12    |j MUE Inc II 1    |b B404    |9 (41SLSP_UBE)99116843123605511    
+986      |a (41SLSP_UBE)99116843123605511    |9 (41SLSP_UBE)99116843123605511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116843123605511    
+991      |a AAK: 88157    |5 IZ UBE/02.10.2019/B404/vha    |9 local    |9 (41SLSP_UBE)99116843123605511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

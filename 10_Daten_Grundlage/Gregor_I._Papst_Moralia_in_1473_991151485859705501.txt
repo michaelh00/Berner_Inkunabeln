@@ -1,0 +1,134 @@
+﻿<-1-1-START->
+Gregor I. (Papst)
+<-1-1-STOP->
+
+<-1-2-START->
+Moralia in Job
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Brief Gregors an Leander von Sevilla<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Basel: Berthold Ruppel, nicht nach 1473]
+<-3-1-STOP->
+
+<-4-1-START->
+841 ungezählte Seiten; 40 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_G-314.html<-L-5-STOP-><-VI-5-START->BSB-Ink G-314<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW11430.htm<-L-5-STOP-><-VI-5-START->GW 11430<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ig00427200<-L-5-STOP-><-VI-5-START->ISTC ig00427200<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+204 von 421 Blättern, rot ausgezeichnete und teils in Tinte verzierte Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert) mit Sprenkelpapier (schwarz auf hellbraun)
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Alle Blätter nach Blatt [v₁₂] fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116909204605511<-L-11-STOP-><-VI-11-START->MUE Inc I 15<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991151485859705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Gregor I. (Papst)<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Ruppel, Berthold<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991151485859705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 15<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03903nam a2200553 c 4500
+001 991151485859705501
+005 20211228152452.0
+008 170803s1473    sz |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/03.08.2017/B404/faf    
+035      |a (swissbib)071814604-41slsp_network    
+035      |a 071814604    |9 ExL    
+035      |a (IDSBB)006719386DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991151485859705501    
+035      |a (41SLSP_UBE)99116909204605511    |9 (41SLSP_UBE)99116909204605511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Gregor    |b I.    |c Papst    |d 542-604    |0 (DE-588)118541838    |e Verfasser    |4 aut    
+245 1 0  |a [Moralia in Job]    
+246 1    |i Explicit (Register)    |a Explicit registru[m] moraliu[m] gregorij pape    
+246 1    |i Incipit    |a [B]eatus gregorius papa libru[m] beati iob petente sancto Lea[n]dro spalense episcopo exponit sicut in prologo moralium patenter videri potest    
+246 1    |i Titel gemäss BSB-Ink    |a Moralia sive expositio in Iob    
+246 1    |i Titel gemäss ISTC    |a Moralia, sive Expositio in Job    
+264   1  |a [Basel]    |b [Berthold Ruppel]    |c [nicht nach 1473]    
+300      |a 841 ungezählte Seiten    |c 40 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Vorwort, Brief Gregors an Leander von Sevilla und Register    
+500      |a Keine Titelseite, Titel gemäss GND    
+500      |a Impressum gemäss GW    
+500      |a Zur Datierung: In der UB Frankfurt am Main ein Exemplar mit Rubrikatorenvermerk von 1473; frühere Rubrikatorenvermerke in anderen Exemplaren sind gefälscht    
+500      |a Signaturformel: [a–i¹⁰, k¹², l–t¹⁰, v¹², x-z¹⁰, A–E¹⁰, F–H⁸, I–S¹⁰, T¹³]    
+500      |a Blatt [a₁] recto ist unbedruckt    
+510 4    |a BSB-Ink    |c G-314    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_G-314.html    
+510 4    |a GW    |c 11430    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW11430.htm    
+510 4    |a ISTC    |c ig00427200    |u http://data.cerl.org/istc/ig00427200    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/0008/bsb00081729/images    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jh.) mit Sprenkelpapier (schwarz auf hellbraun), Linien-Blindprägung sowie Titelschild in Goldprägung auf dem Rücken    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 39.5 x 30.1 x 5.3 cm    
+563      |a Zustand Einband: Schäden an Einbandleder und -papier    
+590      |a Buchblockbeschreibung: 204 von 421 Blättern, Pergamentverstärkung (Makulatur) in den Lagenmitten, Papierfalz zwischen Lagen [a] und [b] sowie [t] und [v] gehört zur Vorsatzkonstruktion, Blätter [c₂] und [c₉] als Einzelblätter zu Doppelblatt zusammengelegt (Papierfälze innerhalb der Lage sichtbar), rot ausgezeichnete und teils in Tinte verzierte Initialen (fehlend auf Blatt [a₁] verso), Rubrizierung, handschriftliche Überschriften und Kolumnentitel (Buchzählung, über Vorlage in Metallstift) in Rot    
+590      |a Zustand Buchblock: Teilweise Craquelés in rotem Farbauftrag der Initialen, Risse mit Büttenpapier geschlossen, Pergamentverstärkung in den Lagen zum Teil abgelöst, kleines Loch mit Textverlust auf Blatt [m₂]    
+590      |a Unvollständiges Exemplar: Alle Blätter nach Blatt [v₁₂] fehlen    
+590      |a Einzelne Korrekturen in Tinte (z.B. Blatt [q₁₀] verso)    
+590      |a Frühere Signatur: Inc 8    
+590      |a Dublette: GDB Gut 3    
+700 1    |a Ruppel, Berthold    |d -1494    |0 (DE-588)129066265    |e Drucker    |4 prt    
+700 0 2  |a Gregor    |b I.    |c Papst    |d 542-604    |t Moralia in Job    |0 (DE-588)4230993-1    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc I 15    |9 (41SLSP_UBE)99116909204605511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc I 15    |b B404    |9 (41SLSP_UBE)99116909204605511    
+986      |a (41SLSP_UBE)99116909204605511    |9 (41SLSP_UBE)99116909204605511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116909204605511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

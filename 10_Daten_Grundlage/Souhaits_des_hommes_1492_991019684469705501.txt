@@ -1,0 +1,137 @@
+﻿<-1-1-START->
+Les souhaits des hommes
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Paris: Jean Trepperel, 1492 oder 1493?]
+<-500-START->Druckvariante zu dem in GW und ISTC verzeichneten Exemplar der ThULB Jena (siehe z.B. Blatt a₂ recto, Zeile 15: "hardi" statt "hardy")<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+12 ungezählte Seiten: 1 Illustration, Druckermarke; 21 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M42885.htm<-L-5-STOP-><-VI-5-START->GW M42885<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/is00635670<-L-5-STOP-><-VI-5-START->ISTC is00635670<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+6 von 6 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener einteiliger Kartoneinband (chamois, Papier, 18. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 10 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116868302905511<-L-11-STOP-><-VI-11-START->MUE Bong IV 888 : 10<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991019684469705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Paris<-O-STOP->
+<-P-START->Trepperel, Jean<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991019684469705501<-DOI-STOP->
+<-SIGN-START->MUE Bong IV 888 : 10<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 02765nam a2200541 c 4500
+001 991019684469705501
+005 20211215171011.0
+007 cr#|||||||||||
+008 100730q14921493fr            00| | fre  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/30.07.2010    
+024 7    |a 10.3931/e-rara-88395    |2 doi    
+035      |a (swissbib)062154788-41slsp_network    
+035      |a 062154788    |9 ExL    
+035      |a (IDSBB)005285899DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991019684469705501    
+035      |a (41SLSP_UBE)99116868302905511    |9 (41SLSP_UBE)99116868302905511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+130 0    |a <<Les>> souhaits des hommes    |0 (DE-588)1124161015    
+245 1 0  |a <<Les>> souhais des hommes    
+264   1  |a [Paris]    |b [Jean Tréperel I.]    |c [1492 oder 1493?]    
+300      |a 12 ungezählte Seiten    |b 1 Illustration    |c 21 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+337      |b c    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+338      |b cr    |2 rdacarrier    
+500      |a Druckvariante zu dem in GW und ISTC verzeichneten Exemplar der ThULB Jena (siehe z.B. Blatt a₂ recto, Zeile 15: "hardi" statt "hardy")    
+500      |a Impressum gemäss GW und ISTC    
+500      |a Druckermarke von Jean Tréperel I. auf der Titelseite (Renouard 1074)    
+500      |a Signaturformel: a⁶    
+510 4    |a GW    |c M42885    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M42885.htm    
+510 4    |a ISTC    |c is00635670    |u http://data.cerl.org/istc/is00635670    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Halbbezogener einteiliger Kartoneinband (chamois, Papier, 18. Jh.)    
+563      |a Vorsätze: Vorne mit 2 fliegenden Blättern und hinten mit 3 fliegenden Blättern    
+563      |a Masse Einband: 20.8 x 14.8 x 4.7 cm    
+563      |a Zustand Einband: Vormaliger Pergamentüberzug am Rücken vollständig durch Papier ergänzt    
+590      |a Buchblockbeschreibung: 6 von 6 Blättern    
+590      |a Zustand Buchblock: Blatt a₁ stark verschmutzt, starker Druckabklatsch und verwischtes Druckbild (untypisch diffuser "druckschwacher" Druck)    
+590      |a Zusammengebunden mit 10 weiteren Drucken in Sammelband    
+590      |a Am Ende des Sammelbands sind 18 unbedruckte Blätter eingebunden    
+590      |a Historische Signaturen auf vorderem Spiegel: "146" (durchgestrichen); "Hist. Prof. 242"    
+590      |a Frühere Signaturen: Inc 579; Inc IV 42; XV 51    
+700 1    |a Trepperel, Jean    |d 14XX-1511    |0 (DE-588)1089251890    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+751      |a Paris    |0 (DE-588)4044660-8    
+852 4    |b B404    |c 404U3    |j MUE Bong IV 888 : 10    |9 (41SLSP_UBE)99116868302905511    
+856 4    |u https://doi.org/10.3931/e-rara-88395    |z Digitalisat in e-rara    
+900      |a IDSIxunikat    
+900      |a IDSIxhybrid-el    
+900      |a NOMERGEALEX    
+949      |i ZB Inc IV 42 : 10    |c 404U3    |z Zusammengebunden mit 10 weiteren Drucken in Sammelband    |p 12    |j MUE Bong IV 888 : 10    |b B404    |9 (41SLSP_UBE)99116868302905511    
+986      |a (41SLSP_UBE)99116868302905511    |9 (41SLSP_UBE)99116868302905511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116868302905511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116868302905511    
+990      |f erarabe    |9 local    |9 (41SLSP_UBE)99116868302905511    
+990      |f lza-cc0    |9 local    |9 (41SLSP_UBE)99116868302905511    
+991      |a Bongars: 13186    |5 IZ UBE/B400/30.07.2010    |9 local    |9 (41SLSP_UBE)99116868302905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

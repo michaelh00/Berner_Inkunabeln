@@ -1,0 +1,140 @@
+﻿<-1-1-START->
+Barbarus, Hermolaus (Iunior)
+<-1-1-STOP->
+
+<-1-2-START->
+Castigationes Plinianae et in Pomponium Melam
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit einem Gedicht auf das Werk von Augustinus Grandis, Vorworten des Verfassers zu allen vier Teilen an Papst Alexander VI. und einem Nachwort des Verfassers an den Leser<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Cremona: Carlo Darleri, 03.04.1495
+<-3-1-STOP->
+
+<-4-1-START->
+249 ungezählte Seiten, 1 ungezähltes Blatt, 67 ungezählte Seiten; 31 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-60.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-60<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW03342.htm<-L-5-STOP-><-VI-5-START->GW 03342<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib00102000<-L-5-STOP-><-VI-5-START->ISTC ib00102000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+160 von 160 Blättern, rot und blau ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Pergamenteinband auf Kartondeckeln (17./18. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116931525505511<-L-11-STOP-><-VI-11-START->MUE Bong IV 864<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991102511779705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Barbarus, Hermolaus (Iunior)<-P-STOP->
+<-P-START->Grandis, Augustinus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Cremona<-O-STOP->
+<-P-START->Darleri, Carlo<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991102511779705501<-DOI-STOP->
+<-SIGN-START->MUE Bong IV 864<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05006nam a2200577 c 4500
+001 991102511779705501
+005 20211215174758.0
+008 100416s1495    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/09.05.2019/B404/faf    
+035      |a (swissbib)06020009X-41slsp_network    
+035      |a 06020009X    |9 ExL    
+035      |a (IDSBB)005214342DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991102511779705501    
+035      |a (41SLSP_UBE)99116931525505511    |9 (41SLSP_UBE)99116931525505511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Barbarus, Hermolaus    |c Iunior    |d 1454-1493    |0 (DE-588)118657119    |e Verfasser    |4 aut    
+240 1 0  |a Castigationes Plinianae et in Pomponium Melam    
+245 1 0  |a Castigationes Hermolai in Plinium castigatissimæ    |b quum Vix post Romanas: cæteris tamen adhuc impressis: uel ab opicis quidem non posthabendæ    
+246 1    |i Titel in in normalisierter Form    |a Castigationes Hermolai in Plinium castigatissimæ    |b quum vix post Romanas cæteris tamen adhuc impressis vel ab opicis quidem non posthabendæ    
+246 1    |i Kolophon    |a Habetis humanarum artium cultores ca[n]didissimi: Plinianæ maiestatis ueluti purissimum simulacrum ab Hermolao Barbaro Veneto patricio Patriarcha Aquileie[n]si nostrisq[ue] sæculi uiro Celeberrimo Lucubratum opus: Habetis item æditione[m] in Pliniu[m] seunda[m]. Ite[m] emendationem in Melam Pomponiu[m] Item obscuras cum expositio[n]ibus suis uoces in Pliniano Codice ...    
+246 1    |i Kolophon in normalisierter Form    |a Habetis humanarum artium cultores candidissimi Plinianæ maiestatis veluti purissimum simulacrum ab Hermolao Barbaro Veneto patricio patriarcha Aquileiensi nostrisque sæculi viro celeberrimo lucubratum opus. Habetis item æditionem in Plinium seundam, item emendationem in Melam Pomponium, item obscuras cum expositionibus suis voces in Pliniano Codice ...    
+246 1    |i Titel gemäss BSB-Ink und GW    |a Castigationes Plinianae    
+246 1    |i Titel gemäss ISTC    |a Castigationes Plinianae et Pomponii Melae    
+264   1  |a Cremonæ    |b p[er] chalcographu[m] Carolum a Darleriis ciue[m] Cremone[n]sem Caracteribus æneis Impressa    |c Imp[er]ante faustissimo ac Sapie[n]tissimo Ludouico Sfor. Viceco. Mediolani Duce. anno fælicissimi pri[n]cipatus eius pri[m]o: A Natali uero rede[m]ptoris n[ost]ri Chr[ist]i. MCCCClxxxxv. iii. nonas me[n]s. Apriles [03.04.1495]    
+300      |a 249 ungezählte Seiten, 1 ungezähltes Blatt, 67 ungezählte Seiten    |c 31 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit einem Gedicht auf das Werk von Augustinus Grandis, Vorworten des Verfassers zu allen vier Teilen an Papst Alexander VI. und einem Nachwort des Verfassers an den Leser    
+500      |a Impressum gemäss Kolophon    
+500      |a Signaturformel: a-k⁸, l-r⁶, s⁴, aa-ee⁶, ff⁴    
+500      |a Blatt s₄ ist unbedruckt    
+505 0 0  |t Castigationes Plinianaæ Hermolai Barbari Aquileiensis Pontificis    |t Secunda editio Castigationum Plinianarum Hermolai Barbari    |t Hermolai Barbari Castigationes in Melam Pomponium    |t Hermolai: Barbari: in Plinium Glossemata ad Alexandrum Sextum Pon. Maximum: Præfatio    
+510 4    |a BSB-Ink    |c B-60    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-60.html    
+510 4    |a GW    |c 03342    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW03342.htm    
+510 4    |a ISTC    |c ib00102000    |u http://data.cerl.org/istc/ib00102000    
+530      |a Digitalisat (Exemplar der Biblioteca cantonale di Lugano)    |u http://www.tectel.services/dbook/BibliotecaLugano/Incunaboli/526417_00/Index_Pc.html#p=1    
+561      |a Handschriftlicher Besitzvermerk auf der Titelseite: "Jacobi Bongarsij Bodræi"    
+563      |a Einbandbeschreibung: Ganzbezogener Pergamenteinband auf Kartondeckeln (17./18. Jh.)    
+563      |a Vorsätze: Vorne und hinten mit 2 fliegenden Blättern    
+563      |a Masse Einband: 30.8 x 23 x 4 cm    
+563      |a Zustand Einband: Vollflächige Japanpapier-Überklebung an beiden Spiegeln    
+590      |a Buchblockbeschreibung: 160 von 160 Blättern, rot und blau ausgezeichnete Initialen, Rubrizierung (rote und blaue Paragraphenzeichen)    
+590      |a Zustand Buchblock: Blätter a₁ und ff₄ mit stärkerer Verbräunung sowie Einrissen und kleineren Fehlstellen    
+590      |a Historische Signatur auf vorderem Spiegel: "Lit 265." (ursprüngliche Zahl durchgestrichen und nicht mehr lesbar); auf Titelseite: "Lit. 72." (durchgestrichen); "Phil 155"    
+590      |a Frühere Signaturen: Inc 327; Inc II 60; VII 33    
+700 1    |a Grandis, Augustinus    |d ca. 15. Jh.    |0 (DE-588)1185654143    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Darleri, Carlo    |0 (DE-588)1037651855    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 1 2  |a Barbarus, Hermolaus    |c Iunior    |d 1454-1493    |t Castigationes Plinianae et in Pomponium Melam    |0 (DE-588)1185653813    
+751      |a Cremona    |0 (DE-588)4010700-0    
+852 4    |b B404    |c 404U3    |j MUE Bong IV 864    |9 (41SLSP_UBE)99116931525505511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc II 60    |c 404U3    |p 12    |j MUE Bong IV 864    |b B404    |9 (41SLSP_UBE)99116931525505511    
+986      |a (41SLSP_UBE)99116931525505511    |9 (41SLSP_UBE)99116931525505511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116931525505511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116931525505511    
+991      |a Bongars: 01042    |5 IZ UBE/B400/16.04.2010    |9 LOCAL    |9 (41SLSP_UBE)99116931525505511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

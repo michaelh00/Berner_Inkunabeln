@@ -1,0 +1,152 @@
+﻿<-1-1-START->
+Cicero, Marcus Tullius
+<-1-1-STOP->
+
+<-1-2-START->
+De officiis [französisch]
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Vorwort des Übersetzers Anjorrant Bourré<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Lyon: [Jean de Vingle], 11.02.1493 ancien style, das heisst 1494
+<-500-START->Früher Claude Dayne zugeschrieben<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+129 ungezählte Seiten, 1 ungezähltes Blatt: 3 Illustrationen, Holzschnittinitialen; 26 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW06976.htm<-L-5-STOP-><-VI-5-START->GW 06976<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ic00615700<-L-5-STOP-><-VI-5-START->ISTC ic00615700<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+65 von 66 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener einteiliger Kartoneinband mit flächig gefärbtem Papier (chamois, 18. Jahrhundert) 
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 2 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Das unbedruckte Blatt k₈ fehlt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116736955105511<-L-11-STOP-><-VI-11-START->MUE Inc I 84 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991050198759705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Cicero, Marcus Tullius<-P-STOP->
+<-P-START->Bourré, Anjorrant<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Lyon<-O-STOP->
+<-P-START->Vingle, Jean de<-P-STOP->
+<-O-START->Lyon<-O-STOP->
+<-P-START->Dayne, Claude<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991050198759705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 84 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04330nam a2200685 c 4500
+001 991050198759705501
+005 20211215171242.0
+007 cr#|||||||||||
+008 151113s1494    fr            00| | fre d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/02.08.2018/B404/faf    
+024 7    |a 10.3931/e-rara-88384    |2 doi    
+035      |a (swissbib)067114660-41slsp_network    
+035      |a 067114660    |9 ExL    
+035      |a (IDSBB)006451879DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991050198759705501    
+035      |a (41SLSP_UBE)99116736955105511    |9 (41SLSP_UBE)99116736955105511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a fre    |h lat    
+100 1    |a Cicero, Marcus Tullius    |d v106-v43    |0 (DE-588)118520814    |e Verfasser    |4 aut    
+240 1 0  |a De officiis    
+245 1 0  |a Sensuyt vng tresnoble et eloquent liure no[m]me Marcus Tullius Cicero de officiis contenant troys volumes parlant de iustice et iniustice/ et des quattre vertus cardinalles    
+246 1    |i Titel in normalisierter Form    |a Sensuyt ung tresnoble et eloquent livre nomme Marcus Tullius Cicero de officiis contenant troys volumes parlant de justice et injustice et des quattre vertus cardinalles    
+246 1    |i Incipit    |a Cy comma[n]ce vng tresnotable liure nomme Tullius de officiis/ translate de latin en francoys [et] nomme Tulles des offices/ contena[n]t troys volumes parlant de iustice/ et de iniustice [et] des quattre vertus cardinalles    
+246 1    |i Incipit in normalisierter Form    |a Cy commance ung tresnotable livre nomme Tullius de officiis, translate de latin en francoys et nomme Tulles des offices, contenant troys volumes parlant de justice et de injustice et des quattre vertus cardinalles    
+246 1    |i Kolophon    |a Sy finist ce present liure intitule Marcus Tullius Cicero contena[n]t troys volumes parlant de iustice et iniustice/ et des quattre vertus cardinalles    
+264   1  |a Imprime a lyon    |b [Jean de Vingle]    |c Lam. M.cccc.lxxxxiii. le xi. iour de feburier [11.02.1493 ancien style, das heisst 1494]    
+300      |a 129 ungezählte Seiten, 1 ungezähltes Blatt    |b 3 Illustrationen    |c 26 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+337      |b c    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+338      |b cr    |2 rdacarrier    
+500      |a Mit Vorwort des Übersetzers    
+500      |a Übersetzer gemäss CIBN: Anjorrant Bourré    
+500      |a Drucker gemäss GW und ISTC; früher Claude Dayne zugeschrieben    
+500      |a Holzschnittinitialen    
+500      |a Bei der Illustration wurde ein Druckstock dreifach verwendet    
+500      |a Signaturformel: a⁸, b–h⁶, i-k⁸    
+500      |a Blatt k₈ ist unbedruckt    
+510 4    |a GW    |c 06976    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW06976.htm    
+510 4    |a ISTC    |c ic00615700    |u http://data.cerl.org/istc/ic00615700    
+563      |a Einbandbeschreibung: Ganzbezogener einteiliger Kartoneinband mit flächig gefärbtem Papier (chamois, 18. Jh.)    
+563      |a Vorsätze: Vorne mit einem und hinten ohne fliegendes Blatt    
+563      |a Masse Einband: 25.8 x 20.0 x 3.8 cm    
+563      |a Zustand Einband: Papierüberzug an den Fälzen und Deckelkanten zurückgeklebt und geglättet, Buchblock mit Moltongewebe hinterklebt    
+590      |a Buchblockbeschreibung: 65 von 66 Blättern    
+590      |a Zustand Buchblock: Papierhinterklebung an Schadstelle an Blatt a₁    
+590      |a Unvollständiges Exemplar: Das unbedruckte Blatt k₈ fehlt    
+590      |a Wenige Anstreichungen in Tinte    
+590      |a "1493." mit Tinte hinter Kolophon geschrieben    
+590      |a Zusammengebunden mit 2 weiteren Drucken in Sammelband    
+590      |a Handschriftliches Inhaltsverzeichnis des Sammelbands in Tinte auf vorderem fliegendem Vorsatzblatt verso    
+590      |a Frühere Signatur: Inc 395 a    
+700 1    |a Bourré, Anjorrant    |d ca. 15. Jahrhundert    |0 (DE-588)116373540X    |e Übersetzer    |4 trl    
+700 1    |a Vingle, Jean <<de>>    |d -1513    |0 (DE-588)1037565029    |e Drucker    |4 prt    
+700 1    |a Dayne, Claude    |d ca. 2. Hälfte 15. Jahrhundert    |0 (DE-588)1163738271    |e Drucker    |4 prt    
+700 1 2  |a Cicero, Marcus Tullius    |d v106-v43    |t De officiis    |0 (DE-588)4140400-2    
+751      |a Lyon    |0 (DE-588)4036770-8    
+852 4    |b B404    |c 404U3    |j MUE Inc I 84 : 2    |9 (41SLSP_UBE)99116736955105511    
+856 4    |u https://doi.org/10.3931/e-rara-88384    |z Digitalisat in e-rara    
+900      |a IDSIxunikat    
+900      |a IDSIxhybrid-el    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 2 weiteren Drucken in Sammelband    |p 12    |j MUE Inc I 84 : 2    |b B404    |9 (41SLSP_UBE)99116736955105511    
+986      |a (41SLSP_UBE)99116736955105511    |9 (41SLSP_UBE)99116736955105511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116736955105511    
+990      |f erarabe    |9 local    |9 (41SLSP_UBE)99116736955105511    
+990      |f lza-cc0    |9 local    |9 (41SLSP_UBE)99116736955105511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

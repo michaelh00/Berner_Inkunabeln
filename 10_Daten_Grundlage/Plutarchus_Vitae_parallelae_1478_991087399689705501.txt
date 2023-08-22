@@ -1,0 +1,208 @@
+﻿<-1-1-START->
+Plutarchus
+<-1-1-STOP->
+
+<-1-2-START->
+Vitae parallelae. — Donatus Acciaiolus: Hannibalis viri illustris vita; Scipionis Africani viri illustris vita; Hannibalis Publiusque Scipionis comparatio; Vitae Hannibalis et Scipionis; Vita Caroli Magni. — Xenophon: Agesilaus. — Isocrates: Euagoras. — Nepos, Cornelius: Atticus. — Festus, Rufius: Breviarium rerum gestarum populi Romani. — Guarinus Veronensis: Vita Platonis. — Bruni, Leonardo: Vita Aristotelis. — Vita Homeri
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Die biografischen Werke weiterer Verfasser wurden zum Teil fälschlich Plutarch zugeschrieben<-500-STOP->
+<-500-START->Übersetzer vom Griechischen ins Latein: Battista Guarini, Lapo da Castiglionchio, Franciscus Philelphus, Donatus Acciaiolus, Antonius Pacinus, Guarinus Veronensis, Francesco Barbaro, Leonardo Bruni, Alemannus Rinuccinus, Leonardo Giustiniani, Jacobus Angelus de Scarperia und Peregrinus Allius<-500-STOP->
+<-500-START->Die Übersetzer der einzelnen Vitae sind in dieser Ausgabe zum Teil ebenfalls falsch zugeschrieben (siehe Bod-Inc)<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Nicolas Jenson, 02.01.1478
+<-3-1-STOP->
+
+<-4-1-START->
+2 Bände; 44 cm (2°)
+<-500-START->Band [1]: 1 ungezähltes Blatt (leer), 30 ungezählte Seiten, 1 ungezähltes Blatt (leer), 433 ungezählte Seiten; Band [2]: 2 ungezählte Blätter (leer), 451 ungezählte Seiten<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://incunables.bodleian.ox.ac.uk/record/P-392<-L-5-STOP-><-VI-5-START->Bod-Inc P-392<-VI-5-STOP->; <-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_P-626.html<-L-5-STOP-><-VI-5-START->BSB-Ink P-626<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M34480.htm<-L-5-STOP-><-VI-5-START->GW M34480<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ip00832000<-L-5-STOP-><-VI-5-START->ISTC ip00832000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+Band [1]: 234 von 234 Blättern, Band [2]: 228 von 228 Blättern, rot oder blau ausgezeichnete Initialen, in beiden Bänden mehrfarbig ausgezeichnete Anfangsinitiale mit Blütenranke
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Holzdeckeln (braun) mit vormals 4 Schliessen (an Kopf und Fuss-Schnitt sowie 2 am Vorderschnitt); auf den hinteren Deckeln (verblasste) Titel in Tinte , Band 1: "Pª ps. Plutarchi", Band 2: "2ª ps. Plutarchi"
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Bernhard Adelmann von Adelmannsfelden; Georg Franz Burkhard Kloss; Werner Zesiger; Bibliothek Oberherrlingen
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116902451905511<-L-11-STOP-><-VI-11-START->MUE Zesk 8<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991087399689705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Plutarchus<-P-STOP->
+<-P-START->Donatus Acciaiolus<-P-STOP->
+<-P-START->Xenophon<-P-STOP->
+<-P-START->Isocrates<-P-STOP->
+<-P-START->Nepos, Cornelius<-P-STOP->
+<-P-START->Festus, Rufius<-P-STOP->
+<-P-START->Guarinus Veronensis<-P-STOP->
+<-P-START->Bruni, Leonardo<-P-STOP->
+<-P-START->Guarini, Battista<-P-STOP->
+<-P-START->Lapo da Castiglionchio<-P-STOP->
+<-P-START->Philelphus, Franciscus<-P-STOP->
+<-P-START->Pacinus, Antonius<-P-STOP->
+<-P-START->Barbaro, Francesco<-P-STOP->
+<-P-START->Rinuccinus, Alemannus<-P-STOP->
+<-P-START->Giustiniani, Leonardo<-P-STOP->
+<-P-START->Jacobus Angelus de Scarperia<-P-STOP->
+<-P-START->Allius, Peregrinus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Jenson, Nicolas<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Adelmann von Adelmannsfelden, Bernhard<-P-STOP->
+<-P-START->Kloss, Georg Franz Burkhard<-P-STOP->
+<-P-START->Zesiger, Werner<-P-STOP->
+<-P-START->Bibliothek Oberherrlingen<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991087399689705501<-DOI-STOP->
+<-SIGN-START->MUE Zesk 8<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 10904nam a2201153 ca4500
+001 991087399689705501
+005 20230209144313.0
+008 950302s1478    it            00| | lat d
+019      |a Altbestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von Signaturen.    |5 IDSBB/02.02.1995/bestub/mes    
+035      |a (swissbib)028451457-41slsp_network    
+035      |a 028451457    |9 ExL    
+035      |a (IDSBB)001082791DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991087399689705501    
+035      |a (41SLSP_UBE)99116902451905511    |9 (41SLSP_UBE)99116902451905511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a lat    |h grc    
+072   7  |a ga    |2 SzZuIDS BS/BE    
+072   7  |a kp    |2 SzZuIDS BS/BE    
+082 1 4  |a 900    |2 15    
+245 1 0  |a Virorum illustrium uitæ    |c ex Plutarcho græco in latinum uersæ solertiq[ue] cura emendatæ fœliciter expliciu[n]t    
+246 1    |i Titel gemäss Bod-Inc und ISTC    |a Vitae illustrium virorum    
+246 1    |i Titel gemäss GW    |a Vitae    
+246 1    |i Titel in normalisierter Form    |a Virorum illustrium vitae    
+264   1  |a Venetiis i[m]pressæ    |b per Nicolaum Ienson Gallicum    |c M.cccc.lxxviii. die .ii. Ianuarii. [02.01.1478]    
+300      |a 2 Bände    |c 44 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss Kolophon    
+500      |a Die biografischen Werke weiterer Verfasser wurden zum Teil Plutarch zugeschrieben    
+500      |a Übersetzer vom Griechischen ins Latein: Baptista Guarinus, Lapus de Castellione, Franciscus Philelphus, Donatus Acciaiolus, Antonius Pacinus, Guarinus Veronensis, Francesco Barbaro, Leonardo Bruni, Alemannus Rinuccinus, Leonardo Giustiniani, Jacobus Angelus de Scarperia und Peregrinus Allius    
+500      |a Die Übersetzer der einzelnen Vitae sind in dieser Ausgabe zum Teil falsch zugeschrieben (siehe Bod-Inc)    
+500      |a Impressum gemäss Kolophon; Reihenfolge der Vorlage: "Virorum illustrium uitæ ex Plutarcho græco in latinum uersæ solertiq[ue] cura emendatæ fœliciter expliciu[n]t: per Nicolaum Ienson Gallicum Venetiis i[m]pressæ. M.cccc.lxvii. die .ii. Ianuarii."    
+500      |a Umfang Band [1]: 1 ungezähltes Blatt (leer), 30 ungezählte Seiten, 1 ungezähltes Blatt (leer), 433 ungezählte Seiten; Band [2]: 2 ungezählte Blätter (leer), 451 ungezählte Seiten    
+500      |a Signaturformel Band [1]: a¹⁰, b¹², c–m¹⁰, n⁸, o–x¹⁰, y–z⁸, &⁸; Band [2]: A¹², B–E¹⁰, F⁸G¹⁰–M⁸N¹⁰, oo–pp⁸, Q–Y¹⁰, Z⁸, &&¹⁰    
+500      |a Band [1]: Blätter a₁ und b₇ unbedruckt, Blatt &₈ verso unbedruckt; Band [2]: erste 2 Blätter unbedruckt, 3. Blatt als A₁, 4. Blatt als A₂ signiert usw.; Blatt &&₁₀ verso unbedruckt    
+505 0 0  |g Band [1], Blatt l₉ recto    |t Hannibalis Viri Illvstris Vita    |r Ex Plvtarcho Graeco Per Donatvm Accaiolvm In Latinvm Versa [in Wirklichkeit von Accaiolus verfasst]    |g Blatt m₁₀ recto    |t Scipionis Africani Viri Illvstris Vita    |r Ex Plvtarcho Graeco In Latinvm Per Donatvm Accaiolvm Versa [in Wirklichkeit von Accaiolus verfasst]    |g Blatt n₆ recto    |t Hannibalis .P.Qve Scipionis Comparatio    |r [Donatus Acciaiolus]    
+505 0 0  |g Band [2], Blatt E₂ recto    |t Agesiali Viri Illvstris Vita    |r Ex Plvtarcho Graeco In Latinvm Per Antonivm Tvdertinvm Versa [in Wirklichkeit von Xenophon verfasst und von Baptista Guarinus übersetzt]    |g Blatt Y₂ verso    |t Evagore Viri Illvstris Vita    |r Ex Plvtarco Graeco In Latinvm Per Gvarinvm Veronensem Versa [in Wirklichkeit von Isocrates verfasst]    |g Blatt Y₆ verso    |t Pomponii Attici Viri Illvstris Vita    |r Ex Plvtarcho Graeco In Latinvm Per Cornelivm Nepotem Versa [in Wirklichkeit von Cornelius Nepos verfasst]    |g Blatt Y₉ verso    |t Rvffvs De Regia Consvlari Imperialiqve Dignitate Ac De Accessione Romani Imperii    |r [Rufus Festus]    |g Blatt Z₃ recto    |t Platonis Viri Illvstris Vita    |r Per Gvarinvm Veronensem Edita [und von ihm verfasst]    |g Blatt &&₁ recto    |t Aristotilis Viri Illvstris Vita    |r Per Gvarinvm Veronensem Edita ; [von Brunus Aretinus verfasst]    |g Blatt &&₃ verso    |t Homeri Viri Illvstris Vita    |r Ex Plvtarcho Graeco In Latinum Per Gvarinvm Veronensem Versa [in Wirklichkeit Verfasser unbekannt und von Peregrinus Allius übersetzt]    |g Blatt &&₅ recto    |t Caroli Magni Viri Illvstris Vita    |r Per Donatvm Acciolvm Edita [und von ihm verfasst]    
+510 4    |a Bod-Inc    |c P-392    |u http://incunables.bodleian.ox.ac.uk/record/P-392    
+510 4    |a BSB-Ink    |c P-626    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_P-626.html    
+510 4    |a GW    |c M34480    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M34480.htm    
+510 4    |a ISTC    |c ip00832000    |u http://data.cerl.org/istc/ip00832000    
+530      |a Digitalisat Band 1 (Exemplar der BSB-München)    |u http://daten.digitale-sammlungen.de/bsb00060043/image_7    
+530      |a Digitalisat Band 2 (Exemplar der BSB-München)    |u http://daten.digitale-sammlungen.de/bsb00060044/image_1    
+561      |a Handschriftlicher Besitzvermerk auf Blättern nach dem fliegenden Vorsatzblättern in beiden Bänden: "Barnadus Adelman De Adelmansfelden"    
+561      |a Exlibris auf vorderem Spiegel in beiden Bänden: "Georgius Kloß, M.D., Francoforti ad Moenum"; weiteres Exlibris: "Bibliothek Oberherrlingen; 1839. E. M."    
+561      |a Stempel auf vorderem Spiegel in beiden Bänden: "Dr. Zesiger"    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Holzdeckeln (braun) mit vormals 4 Schliessen (an Kopf und Fuss-Schnitt sowie 2 am Vorderschnitt); auf den hinteren Deckeln (verblasste) Titel in Tinte , Band 1: "Pª ps. Plutarchi", Band 2: "2ª ps. Plutarchi"    
+563      |a Vorsätze, Band 1: Vorne und hinten mit drei fliegenden Blättern; Band 2: Vorne mit drei und hinten mit einem fliegenden Blatt    
+563      |a Zustand Einband: Lederrücken erneuert, Beschläge auf den Vorderdeckeln nicht mehr vorhanden, Schliessen fehlen    
+563      |a Masse Einband, Band 1: 43.4 x 27.7 x 7.0 cm; Band 2: 44.5 x 28.3 x 6.8 cm    
+563      |a Zustand Einband, Band 1: Schliessenriemen und Schliessenhaken fehlend, Lederbünde im vorderen Falz gebrochen, Rückenergänzung aus Leder; Band 2: Schliessenriemen und Schliessenhaken fehlend, oberer Kapitalkern aus der verbindung mit dem Vorderdeckel gelöst, Rückenergänzung aus Leder    
+590      |a Buchblockbeschreibung: Band 1: 234 von 234 Blättern, Band 2: 228 von 228 Blättern; Pergamentverstärkung in den Lagenmitten; rot oder blau ausgezeichnete Initialen, in beiden Bänden mehrfarbig ausgezeichnete Anfangsinitiale mit Blütenranke, sonst keine Rubrizierung    
+590      |a Zustand Buchblock: Band 1: Blätter der ersten und letzten Lage teilweise verklebt, Buchblock zum Teil über Deckel hinausragend; Band 2: Blätter der letzten Lage teilweise verklebt    
+590      |a Auf dem oberen Schnitt in Tinte, Band 1: "Prima Pars Plvtarchi"; Band 2: "Secvnda Pars Plvtarchi"    
+590      |a Zeitgenössische Inhaltsangaben in Tinte auf den Blättern nach den vorderen fliegenden Blättern    
+590      |a Anmerkungen in Tinte (18./19. Jahrhundert) über der ersten Textseite in beiden Bänden: "Griechische Literatur klassischer Schriftsteller Nro. 11", in Band 2 dazu: "Impressum Venetiis 1478.", in beiden Bänden darunter: "Plutarchus"    
+590      |a Zahlreiche zeitgenössische Marginalien (meist kurze Stichworte) in Tinte    
+590      |a Dieselbe Ausgabe, in einen Band gebunden: MUE Inc II 15    
+590      |a Historische Signaturen auf dem vorderem Spiegel, Band 1: "F IV 315 (1)", Band 2: "F IV 315 (2)"    
+700 0    |a Plutarchus    |d 45-120    |0 (DE-588)118595237    |e Verfasser    |4 aut    
+700 0    |a Donatus    |c Acciaiolus    |d 1429-1478    |0 (DE-588)102433402    |4 aut    
+700 0    |a Xenophon    |d v430-v354    |0 (DE-588)118635808    |4 aut    
+700 0    |a Isocrates    |d v436-v338    |0 (DE-588)118556010    |4 aut    
+700 1    |a Nepos, Cornelius    |d v100-v25    |0 (DE-588)118747681    |4 aut    
+700 1    |a Festus, Rufius    |d -380    |0 (DE-588)118843966    |4 aut    
+700 0    |a Guarinus    |c Veronensis    |d 1374-1460    |0 (DE-588)11869877X    |4 aut    
+700 1    |a Bruni, Leonardo    |d 1370-1444    |0 (DE-588)118516132    |4 aut    
+700 0 2  |a Plutarchus    |d 45-120    |t Vitae parallelae    |0 (DE-588)4237905-2    
+700 0 2  |a Donatus    |c Acciaiolus    |d 1429-1478    |t Hannibalis viri illustris vita    
+700 0 2  |a Donatus    |c Acciaiolus    |d 1429-1478    |t Scipionis Africani viri illustris vita    
+700 0 2  |a Donatus    |c Acciaiolus    |d 1429-1478    |t Hannibalis Publiusque Scipionis comparatio    
+700 0 2  |a Donatus    |c Acciaiolus    |d 1429-1478    |t Vitae Hannibalis et Scipionis    |0 (DE-588)1078163561    
+700 0 2  |a Xenophon    |d v430-v354    |t Agesilaus    |0 (DE-588)4559228-7    
+700 0 2  |a Isocrates    |d v436-v338    |t Euagoras    |0 (DE-588)4366487-8    
+700 1 2  |a Nepos, Cornelius    |d v100-v25    |t Atticus    |0 (DE-588)4251047-8    
+700 1 2  |a Festus, Rufius    |d -380    |t Breviarium rerum gestarum populi Romani    |0 (DE-588)4204522-8    
+700 0 2  |a Guarinus    |c Veronensis    |d 1374-1460    |t Vita Platonis    |0 (DE-588)1149182350    
+700 1 2  |a Bruni, Leonardo    |d 1370-1444    |t Vita Aristotelis    |0 (DE-588)1149187530    
+700 0 2  |a Donatus    |c Acciaiolus    |d 1429-1478    |t Vita Caroli Magni    |0 (DE-588)1149094893    
+700 1    |a Guarini, Battista    |d 1435-1505    |0 (DE-588)100943985    |e Übersetzer    |4 trl    
+700 0    |a Lapo    |c da Castiglionchio    |d 1406-1438    |0 (DE-588)102511780    |e Übersetzer    |4 trl    
+700 1    |a Philelphus, Franciscus    |d 1398-1481    |0 (DE-588)118687182    |e Übersetzer    |4 trl    
+700 0    |a Donatus    |c Acciaiolus    |d 1429-1478    |0 (DE-588)102433402    |e Übersetzer    |4 trl    
+700 1    |a Pacinus, Antonius    |d ca. 15. Jh.    |0 (DE-588)129047791    |e Übersetzer    |4 trl    
+700 0    |a Guarinus    |c Veronensis    |d 1374-1460    |0 (DE-588)11869877X    |e Übersetzer    |4 trl    
+700 1    |a Barbaro, Francesco    |d 1395-1454    |0 (DE-588)119022257    |e Übersetzer    |4 trl    
+700 1    |a Bruni, Leonardo    |d 1370-1444    |0 (DE-588)118516132    |e Übersetzer    |4 trl    
+700 1    |a Rinuccinus, Alemannus    |d 1426-1504    |0 (DE-588)102351600    |e Übersetzer    |4 trl    
+700 1    |a Giustiniani, Leonardo    |d 1388-1446    |0 (DE-588)118717707    |e Übersetzer    |4 trl    
+700 0    |a Jacobus    |c Angelus de Scarperia    |d 1360-1410    |0 (DE-588)100012558    |e Übersetzer    |4 trl    
+700 1    |a Allius, Peregrinus    |d 1440-1469    |0 (DE-588)128909498    |e Übersetzer    |4 trl    
+700 1    |a Jenson, Nicolas    |d 1420-1480    |0 (DE-588)118917153    |e Drucker    |4 prt    
+700 1    |a Adelmann von Adelmannsfelden, Bernhard    |d 1459-1523    |0 (DE-588)119272385    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Kloss, Georg Franz Burkhard    |d 1787-1854    |0 (DE-588)116234679    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Zesiger, Werner    |d 1902-1958    |0 (DE-588)121027392    |e Früherer Eigentümer    |4 fmo    
+710 2    |a Bibliothek Oberherrlingen    |0 (DE-588)1123042705    |e Früherer Eigentümer    |4 fmo    
+730 0    |a Vita Homeri    |0 (DE-588)1149267496    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Zesk 8    |9 (41SLSP_UBE)99116902451905511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |h MUE Zesk 8 : 2    |p 12    |j MUE Zesk 8    |b B404    |9 (41SLSP_UBE)99116902451905511    
+949      |c 404U3    |h MUE Zesk 8 : 1    |p 12    |j MUE Zesk 8    |b B404    |9 (41SLSP_UBE)99116902451905511    
+986      |a (41SLSP_UBE)99116902451905511    |9 (41SLSP_UBE)99116902451905511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116902451905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

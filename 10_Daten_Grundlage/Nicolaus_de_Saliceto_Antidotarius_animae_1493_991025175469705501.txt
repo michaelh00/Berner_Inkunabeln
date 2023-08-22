@@ -1,0 +1,138 @@
+﻿<-1-1-START->
+Nicolaus de Saliceto
+<-1-1-STOP->
+
+<-1-2-START->
+Antidotarius animae
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Straßburg: Johannes Grüninger, 04.03.1493
+<-500-START->Druckvarianten: Rot- und Schwarzdruck (im vorliegenden Exemplar) oder nur Schwarzdruck (BSB-Ink S-16, ISTC is00039000; in GW beide Varianten unter GW M39506)<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+CXLVI, das heisst CXLIV Blätter; 16 cm (8°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_S-17.html<-L-5-STOP-><-VI-5-START->BSB-Ink S-17<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M39506.htm<-L-5-STOP-><-VI-5-START->GW M39506<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/is00040000<-L-5-STOP-><-VI-5-START->ISTC is00040000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+144 von 144 Blättern, rot oder blau ausgezeichnete Initialen; Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun, Ziege) mit mittiger Schliesse, Linien-, Ornamentstempel- und Ornamentrollen-Blindprägung an beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Resolutorium dubiorum circa celebrationem missarum occurrentium / Johannes Heynlin. - Basel: Johann Froben, 1492
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116782438905511<-L-11-STOP-><-VI-11-START->MUE Inc V 195 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991025175469705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Nicolaus de Saliceto<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Grüninger, Johannes<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991025175469705501<-DOI-STOP->
+<-SIGN-START->MUE Inc V 195 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05355nam a2200589 c 4500
+001 991025175469705501
+005 20230207145639.0
+008 181023s1493    fr |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/23.10.2018/B404/vha    
+035      |a (swissbib)074974025-41slsp_network    
+035      |a 074974025    |9 ExL    
+035      |a (IDSBB)006841278DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991025175469705501    
+035      |a (41SLSP_UBE)99116782438905511    |9 (41SLSP_UBE)99116782438905511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Nicolaus    |c de Saliceto    |d -1493    |0 (DE-588)100954952    |e Verfasser    |4 aut    
+240 1 0  |a Antidotarius animae    
+245 1 0  |a Liber meditationu[m] ac orationu[m] deuotarum Qui Anthidotarius ani[m]e dicit[ur]    |b Cu[m] tab[u]la ins[er]tus    |c Nicolai saliceti ...    
+246 1    |i Titel in normalisierter Form    |a Liber meditationum ac orationum devotarum qui anthidotarius anime dicitur    |b cum tabula insertus    
+246 1 0  |a Anthidotarius anime    
+246 1    |i Titel in moderner Orthografie    |a Liber meditationum ac orationum devotarum qui antidotarius animae dicitur    
+264   1  |a in insigni ciuitate Argentin[ensis]. vbi co[m]plet[us] extitit    |b Actu[m]q[ue] diligenti adhibita examinatio[n]e i[m]pensis p[ro]uidi viri magistri Joha[n]nis Reynardi (al[ia]s grünynger)    |c Anno d[omi]nice incarnatio[n]is. Mccccxciij [et] quarto vero nona[rum] Marcij. [04.03.1493]    
+300      |a CXLVI, das heisst CXLIV Blätter    |c 16 cm (8°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Verfasserangabe vom Beginn des Vorworts auf Blatt II recto: "Nicolai saliceti artiu[m] et medicine doctoris abbatis monasterij b[ea]te marie [de] pomerio (al[ia]s Bomgart) ordinis Cistercien[sis]. Argentinen[sis] dyocesis. in anthidotarium anime prefaciuncula"    
+500      |a Von diesem Druck existieren zwei satzidentische Varianten, eine nur mit Schwarzdruck (BSB-Ink S-16, ISTC is00039000), eine mit Rot- und Schwarzdruck (BSB-Ink S-17, ISTC is00040000); GW führt beide Varianten unter GW M39506    
+500      |a Vorliegende Variante mit Rot- und Schwarzdruck    
+500      |a Titelseite: Metallschnitt in Rot- und Schwarzdruck, Buchstaben weiss vor rotem (obere drei Zeilen) und schwarzem Hintergrund; Kapitelanfänge, Blattzählung und Kolophon in Rotdruck    
+500      |a Impressum gemäss Kolophon (Blatt CXLVI recto); Reihenfolge der Vorlage: "... Actu[m]q[ue] diligenti adhibita examinatio[n]e i[m]pensis p[ro]uidi viri magistri Joha[n]nis Reynardi (al[ia]s grünynger) in insigni ciuitate Argentin[ensis]. vbi co[m]plet[us] extitit Anno d[omi]nice incarnatio[n]is. Mcccxciij [et] quarto vero nona[rum] Marcij."    
+500      |a Blattzählung springt von LXXX (K₈) auf LXXXIII (L₁)    
+500      |a Signaturformel: A-S⁸    
+500      |a Blatt S₈ verso (letzte Seite) unbedruckt    
+510 4    |a BSB-Ink    |c S-17    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_S-17.html    
+510 4    |a GW    |c M39506    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M39506.htm    
+510 4    |a ISTC    |c is00040000    |u http://data.cerl.org/istc/is00040000    
+530      |a Digitalisat (Exemplar der Universitäts- und Landesbibliothek Düsseldorf, Variante nur mit Schwarzdruck!)    |u http://nbn-resolving.de/urn:nbn:de:hbz:061:1-499089    
+561      |a 1929 erworben von Taeuber & Weil, Antiquariat (München)    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun, Ziege) mit mittiger Schliesse, Linien-, Ornamentstempel- und Ornamentrollen-Blindprägung an beiden Deckeln, Linien-Blindprägung auf dem Rücken    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 15.9 x 11.1 x 4.7 cm    
+563      |a Zustand Einband: Lederüberklebungen an Rücken, Deckel und Deckelkanten mit Nachbildung der Blindprägung, Einbandleder nachgefärbt, Fehlstellen und Falz des hinteren Vorsatzes mit Japanpapier ergänzt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 144 von 144 Blättern, rot oder blau ausgezeichnete Initialen, auf Blatt II recto rot und blau ausgezeichnete Schmuckinitiale; Rubrizierung, blaue Absatzzeichen vor den Kapitelanfängen    
+590      |a Zustand Buchblock: Abrieb und Verwischungen an rotem und blauem Farbmittel der Rubrizierung und der Initialauszeichnungen, massiver Feuchtigkeitsschaden mit Brüchen und Fehlstellen im Bundsteg im unteren Viertel der Blätter zum Teil mit Papierüberklebungen stabilisiert, Tintenauftrag mit beginnendem Tintenfrass an den vorderen Blattkanten (Zahl "82"(?) in Tinte auf vorderem Schnitt) und an Blatt CXXV (Q₃)    
+590      |a Wenige handschriftliche Annotationen in Tinte (Blätter XLI verso, CXXII recto und verso, CXXV recto)    
+590      |a Zusammengebunden mit: Heynlin, Johannes: Resolutorium dubiorum circa celebrationem missarum occurrentium. - Basel : Johann Froben, 1492    
+700 0 2  |a Nicolaus    |c de Saliceto    |d -1493    |t Antidotarius animae    |0 (DE-588)1169713114    
+700 1    |a Grüninger, Johannes    |d 1455-1531    |0 (DE-588)118698451    |e Drucker    |4 prt    
+710 2    |a Taeuber & Weil, Antiquariat    |0 (DE-588)1228876-7    |e Verkäufer    |4 sll    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Inc V 195 : 1    |9 (41SLSP_UBE)99116782438905511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 1 weiteren Druck in Sammelband    |p 12    |j MUE Inc V 195 : 1    |b B404    |9 (41SLSP_UBE)99116782438905511    
+986      |a (41SLSP_UBE)99116782438905511    |9 (41SLSP_UBE)99116782438905511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116782438905511    
+991      |a AAK: 771000    |5 IZ UBE/23.10.2018/B404/vha    |9 local    |9 (41SLSP_UBE)99116782438905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

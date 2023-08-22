@@ -1,0 +1,144 @@
+﻿<-1-1-START->
+Mensa philosophica
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Anonyme Stoff- und Exempla-Sammlung; als mögliche Verfasser werden Michael Scotus, Conradus Halberstadensis Senior oder Iunior und Theobaldus Anguilbertus gennant, alle sind jedoch zweifelhaft<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Löwen: Johannes de Westfalia, [um 1485]
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 162 ungezählte Seiten; 21 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M22821.htm<-L-5-STOP-><-VI-5-START->GW M22821<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/im00494000<-L-5-STOP-><-VI-5-START->ISTC im00494000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+81 von 82 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Flexibler Pergamenteinband mit durchzogenen Bünden (16./17. Jahrhundert), Reste vormaliger Verschlussbänder (chamois, Leder)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Das unbedruckte Blatt a₁ fehlt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116718488405511<-L-11-STOP-><-VI-11-START->MUE Bong IV 892<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991123862739705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Michael Scotus<-P-STOP->
+<-P-START->Conradus Halberstadensis (Senior)<-P-STOP->
+<-P-START->Conradus Halberstadensis (Iunior)<-P-STOP->
+<-P-START->Theobaldus Anguilbertus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Löwen<-O-STOP->
+<-P-START->Johannes de Westfalia<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991123862739705501<-DOI-STOP->
+<-SIGN-START->MUE Bong IV 892<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04090nam a2200601 c 4500
+001 991123862739705501
+005 20211215202623.0
+008 100708s1485    be            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/30.01.2020/B404/faf    
+035      |a (swissbib)061062278-41slsp_network    
+035      |a 061062278    |9 ExL    
+035      |a (IDSBB)005276094DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991123862739705501    
+035      |a (41SLSP_UBE)99116718488405511    |9 (41SLSP_UBE)99116718488405511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+130 0    |a Mensa philosophica    |0 (DE-588)4393456-0    
+245 1 0  |a Presens liber (que[m] mensam philosophicam voca[n]t) unicuiq[ue] perutilis compendiose pertracta[n]s i[n] primis quid in [con]uiuiis pro cibis [et] potibus sumendum est ... feliciter explicit    
+246 1    |i Titel in normalisierter Form    |a Presens liber (quem mensam philosophicam vocant) unicuique perutilis compendiose pertractans in primis quid in conviviis pro cibis et potibus sumendum est ... feliciter explicit    
+246 1    |i Incipit (Tabula)    |a Incipit tabula in librum qui dicit[ur] Mensa philosophica ...    
+246 1    |i Incipit (Haupttext)    |a Prohemium in librum qui dicitur mensa pholosophica incipit    
+264   1  |a Impressus Louanii    |b per me Johanne[m] de westfalia    |c [um 1485]    
+300      |a 1 ungezähltes Blatt, 162 ungezählte Seiten    |c 21 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Anonyme Stoff- und Exempla-Sammlung; als mögliche Verfasser werden Michael Scotus, Conradus Halberstadensis Senior oder Iunior und Theobaldus Anguilbertus gennant, alle sind jedoch zweifelhaft    
+500      |a Mit Inhaltsverzeichnis    
+500      |a Keine Titelseite, Titel gemäss Kolophon    
+500      |a Druckort und Drucker gemäss Kolophon    
+500      |a Druckjahr gemäss GW und ISTC    
+500      |a Signaturformel: a⁶, b-i⁸, K¹²    
+500      |a Blatt a₁ ist unbedruckt    
+510 4    |a GW    |c M22821    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M22821.htm    
+510 4    |a ISTC    |c im00494000    |u http://data.cerl.org/istc/im00494000    
+530      |a Digitalisat (Exemplar der KU Leuven Bibliotheken)    |u http://resolver.libis.be/IE9913966/representation    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Flexibler Pergamenteinband mit durchzogenen Bünden (16./17. Jh.), Reste vormaliger Verschlussbänder (chamois, Leder), handschriftlicher Rückentitel: "Mensa philosophica"    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 20.3 x 14.8 x 1.8 cm    
+563      |a Zustand Einband: Tintenschrift am Rücken fast vollständig abgelöst, Verschlussbänder fehlend, Japanpapierüberklebung am Rücken, bräunliche Verfleckung in Streifenform (Pergament gefettet)    
+590      |a Buchblockbeschreibung: 81 von 82 Blättern, vorgesehene Stellen für Initialen frei gelassen, Titel "Mensa philosophica" in Tintenschrift auf dem Kopfschnitt (Buch auf dem Rückdeckel liegend)    
+590      |a Zustand Buchblock: Blatt a₆ an Falz des fliegenden Blattes geklebt    
+590      |a Unvollständiges Exemplar: Das unbedruckte Blatt a₁ fehlt    
+590      |a Handschriftliche Annotationen und Unterstreichungen in Tinte    
+590      |a Historische Signatur auf vorderem Spiegel: "N°. 223."; auf Blatt a₂ recto: "Med 115"    
+590      |a Frühere Signaturen: Inc 526; Inc IV 55; XV S 34    
+700 0    |a Michael    |c Scotus    |d 1175-1235    |0 (DE-588)118733613    |e Verfasser    |4 aut    
+700 0    |a Conradus    |c Halberstadensis, Senior    |d ca. um 1321    |0 (DE-588)102435464    |e Verfasser    |4 aut    
+700 0    |a Conradus    |c Halberstadensis    |d 1275-1355    |0 (DE-588)118881043    |e Verfasser    |4 aut    
+700 0    |a Theobaldus    |c Anguilbertus    |d ca. 15. Jh.    |0 (DE-588)1032603860    |e Verfasser    |4 aut    
+700 0    |a Johannes    |c de Westfalia    |d 1450-1501    |0 (DE-588)134108760    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+751      |a Löwen    |0 (DE-588)4074300-7    
+852 4    |b B404    |c 404U3    |j MUE Bong IV 892    |9 (41SLSP_UBE)99116718488405511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc IV 55    |c 404U3    |p 12    |j MUE Bong IV 892    |b B404    |9 (41SLSP_UBE)99116718488405511    
+986      |a (41SLSP_UBE)99116718488405511    |9 (41SLSP_UBE)99116718488405511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116718488405511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116718488405511    
+991      |a Bongars: 09536    |5 IZ UBE/B400/08.07.2010    |9 LOCAL    |9 (41SLSP_UBE)99116718488405511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

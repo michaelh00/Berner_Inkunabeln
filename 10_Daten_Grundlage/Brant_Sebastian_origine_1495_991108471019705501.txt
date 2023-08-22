@@ -1,0 +1,134 @@
+﻿<-1-1-START->
+Brant, Sebastian
+<-1-1-STOP->
+
+<-1-2-START->
+De origine et conversatione bonorum regum et de laude civitatis Hierosolymae
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Basel: Johann Bergmann, 01.03.1495
+<-3-1-STOP->
+
+<-4-1-START->
+320 ungezählte Seiten: 2 Illustrationen, Druckermarke; 23 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-810.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-810<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW05072.htm<-L-5-STOP-><-VI-5-START->GW 5072<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib01097000<-L-5-STOP-><-VI-5-START->ISTC ib01097000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+160 von 160 Blättern, Rubrizierung nur auf den ersten 2 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit mittiger Schliesse sowie Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornament-Blindprägung (Stempel und Rollen) auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Kloster Thorberg
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: De regibus Francorum lib. III. De regibus Hispaniae lib. III. De regibus Hierosolymorum lib. I. De regibus Neapolis & Siciliae lib. IIII. De regibus Ungariae lib. II. / Michele Riccio. Basel: Johann Froben, [1517]
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116885140705511<-L-11-STOP-><-VI-11-START->MUE Inc IV 26 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991108471019705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Brant, Sebastian<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Bergmann, Johann<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Kloster Thorberg<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991108471019705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 26 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03918nam a2200541 c 4500
+001 991108471019705501
+005 20211215184326.0
+008 170607s1495    sz |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/07.06.2017/B404/az    
+035      |a (swissbib)069879370-41slsp_network    
+035      |a 069879370    |9 ExL    
+035      |a (IDSBB)006704788DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991108471019705501    
+035      |a (41SLSP_UBE)99116885140705511    |9 (41SLSP_UBE)99116885140705511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Brant, Sebastian    |d 1458-1521    |0 (DE-588)118514474    |e Verfasser    |4 aut    
+240 1 0  |a De origine et conversatione bonorum regum et de laude civitatis Hierosolymae    
+245 1 0  |a De Origine et co[n]versatione bonoru[m] Regum: & laude Ciuitatis Hierosolymæ: cum exhortatio[n]e eiusdem recuperandę    |c Sebastianus Brant    
+246 1    |i Titel in normalisierter Form    |a De Origine et conversatione bonorum Regum: et laude Civitatis Hierosolymæ: cum exhortatione eiusdem recuperandę    
+264   1  |a Basileę    |b opera & impensa Iohannis Bergman de Olpe    |c anno 1495 Kalendis Marciis    
+300      |a 320 ungezählte Seiten    |c 23 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Druckort, Drucker und Druckjahr gemäss Kolophon    
+500      |a Mit Druckermarke auf letztem Blatt recto (V₈)    
+500      |a Mit 2 Holzschnitten (Schramm XXII, Nr. 1234 und 1244)    
+500      |a Signaturformel: A-V⁸    
+510 4    |a BSB-Ink    |c B-810    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-810.html    
+510 4    |a GW    |c 5072    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW05072.htm    
+510 4    |a ISTC    |c ib01097000    |u http://data.cerl.org/istc/ib01097000    
+530      |a Digitalisat (Exemplar der Universitätsbibliothek Basel, unvollständig)    |u http://www.e-rara.ch/doi/10.3931/e-rara-13706    
+530      |a Digisalisat (Exemplar der Bayerischen Staatsbibliothek)    |u http://daten.digitale-sammlungen.de/~db/0002/bsb00026708/images/index.html    
+561      |a Handschriftlicher Besitzvermerk aufvorderem Spiegel:: "P[er]tinet domui portemo[n]tis ordinis Cart[h]usien[sis] p[ro]pe Bernam.", das heisst Kloster Thorberg    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit mittiger Schliesse sowie Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornament- Blindprägung (Stempel und Rollen) auf beiden Deckeln    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 23 x 17 x 5.3 cm    
+563      |a Zustand Einband: stellenweise Schädlingsfrass, Loch mit Rost-Abdruck am Rückdeckel von vormaliger Ankettung, Fehlstellen im Einbandleder vor der Blindprägung mit Leder unterlegt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 160 von 160 Blättern, Blatt A₁₋₂ rubriziert    
+590      |a Zustand Buchblock: Blatt A₁-C₂ mit Flecken    
+590      |a Zusammengebunden mit: Michaelis Ritii Neapolitani De regibus Francoru[m] lib. III. De regibus Hispaniæ lib. III. De regibus Hierosolymorum lib. I. De regibus Neapolis & Siciliæ lib. IIII. De regibus Vngariæ lib. II. - Apud inclytam Basileam : Apud Ioannem Frobenium, [1517]    
+590      |a Historische Signatur auf vorderem Spiegel: "Hist. Prof: 66"    
+590      |a Historische Signatur? auf vorderem fliegendem Vorsatzblatt recto: "600"    
+700 1 2  |a Brant, Sebastian    |d 1458-1521    |t De origine et conversatione bonorum regum et de laude civitatis Hierosolymae    |0 (DE-588)111500784X    
+700 1    |a Bergmann, Johann    |d 1455-1532    |0 (DE-588)128982918    |e Drucker    |4 prt    
+710 2    |a Kloster Thorberg    |0 (DE-588)7725716-9    |e Früherer Eigentümer    |4 fmo    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 26 : 2    |9 (41SLSP_UBE)99116885140705511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc IV 26 : 2    |b B404    |9 (41SLSP_UBE)99116885140705511    
+986      |a (41SLSP_UBE)99116885140705511    |9 (41SLSP_UBE)99116885140705511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116885140705511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

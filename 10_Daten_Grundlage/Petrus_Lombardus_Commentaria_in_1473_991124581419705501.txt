@@ -1,0 +1,139 @@
+﻿<-1-1-START->
+Petrus Lombardus
+<-1-1-STOP->
+
+<-1-2-START->
+Commentaria in epistulas d. Pauli
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Esslingen: Conrad Fyner, nicht nach 08.09.1473]
+<-3-1-STOP->
+
+<-4-1-START->
+412 ungezählte Seiten; 41 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_P-373.html<-L-5-STOP-><-VI-5-START->BSB-Ink P-373<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M32577.htm<-L-5-STOP-><-VI-5-START->GW M32577<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ip00475000<-L-5-STOP-><-VI-5-START->ISTC ip00475000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+206 von 206 Blättern, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert) mit Sprenkelpapier (braun), Linien-Blindprägung sowie Titelschild mit Goldprägung auf dem Rücken
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Johannes Engelfrid; Barfüsserkloster Bern
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116857411005511<-L-11-STOP-><-VI-11-START->MUE Inc III 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991124581419705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Petrus Lombardus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Esslingen am Neckar<-O-STOP->
+<-P-START->Fyner, Konrad<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Engelfrid, Johannes<-P-STOP->
+<-P-START->Barfüsserkloster Bern<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991124581419705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04439nam a2200589 c 4500
+001 991124581419705501
+005 20221027132414.0
+008 130410s1473    gw            00| | lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/23.07.2014/B400/vha    
+035      |a (swissbib)06425660X-41slsp_network    
+035      |a 06425660X    |9 ExL    
+035      |a (IDSBB)006103527DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991124581419705501    
+035      |a (41SLSP_UBE)99116857411005511    |9 (41SLSP_UBE)99116857411005511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Petrus    |c Paris, Bischof    |d 1095-1160    |0 (DE-588)11859334X    |e Verfasser    |4 aut    
+240 1 0  |a Commentaria in epistulas d. Pauli    
+245 1 0  |a Explicit glosa ordinaria ac mag[ist]r[alis] sup[er] ep[isto]l[as] beati pauli ap[osto]l[i] [et]c    
+246 1 0  |a Glosa ordinaria ac magistralis super epistolas beati Pauli apostoli    
+246 1 0  |a Glosa ordinaria in epistolas Pauli    
+246 1 0  |a Glossa ordinaria ac magistralis super epistolas beati Pauli apostoli    
+246 1    |i Handschriftlich über dem Textbeginn in normalisierter Form    |a Petri Lombardi ... Glosa ordinaria in epistolas Pauli    
+246 1    |i Titel gemäss BSB-Ink    |a Glossa in epistulas Pauli    
+246 1    |i Titel gemäss GW    |a Glossa in epistolas S. Pauli    
+246 1    |i Titel gemäss ISTC    |a Glossa in epistolas Pauli    
+246 1    |i Titel in moderner Orthografie    |a Explicit glossa ordinaria ac magistralis super epistolas beati Pauli apostoli etc    
+246 1    |i Titel in normalisierter Form    |a Explicit glosa ordinaria ac magistralis super epistolas beati Pauli apostoli etc    
+264   1  |a [Esslingen]    |b [Conrad Fyner]    |c [nicht nach 8.09.1473]    
+300      |a 412 ungezählte Seiten    |c 41 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss Explicit    
+500      |a Impressum gemäss BSB-Ink, GW und ISTC (spätestes Erscheinungsdatum gemäss einer Angabe des Rubrikators in einem der Exemplare der BSB München)    
+500      |a Signaturformel: [a-d¹⁰, e¹², f-i¹⁰, k-l⁸, m-t¹⁰, v⁸, x¹⁰]    
+510 4    |a BSB-Ink    |c P-373    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_P-373.html    
+510 4    |a GW    |c M32577    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M32577.htm    
+510 4    |a ISTC    |c ip00475000    |u http://data.cerl.org/istc/ip00475000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00043805/image_7    
+561      |a Handschriftlicher Besitzvermerk unter dem Explicit (Blatt x₁₀ verso): "Hu[n]c p[ro]curauit libru[m] suis de elemosinis fr[atr]is Joh[ann]es Engelfrid p[ro] libra[r]ia [con]ue[n]t[us] Berne[nsis] deputatu[s] c[uius] memo[ri]es sint h[uius] legentes"; darunter in gezeichnetem Schmuckband: "Ordi[ni]s mi[n]or[um] heys."    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert) mit Sprenkelpapier (braun), Linien-Blindprägung sowie Titelschild mit Goldprägung auf dem Rücken: "P. Lombardus In Epistolas Pauli"    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 40.5 x 29.5 x 5 cm    
+563      |a Zustand Einband: Abspaltungen im Einbandleder mit Rissen in den Fälzen, Vorsätze im Falz mit Japanpapier verstärkt    
+590      |a Buchblockbeschreibung: 206 von 206 Blättern, rot ausgezeichnete Initialen, Rubrizierung, handschriftliche Kolumnentitel, sowie im Text absatzweise in Rot die Worte "exposic[i]o" (oder "expo") und "text[us]"; handschriftlicher Textbeginn auf Blatt [a₁] recto in Rot: "Pet[r]i lombardi ... glo[sa] ordinaria Jn ep[isto]las pauli Jncip[it] feliciter" (über rot ausgezeichneter Schmuckinitiale "P" in gezeichnetem Rahmen)    
+590      |a Zustand Buchblock: zum Teil grossflächige Verfleckungen    
+590      |a Frühere Signatur: Inc 11    
+700 1    |a Fyner, Konrad    |d ca. 15. Jh.    |0 (DE-588)116879335    |e Drucker    |4 prt    
+700 1    |a Engelfrid, Johannes    |d ca. Ende 15.-Anfang 16. Jh.    |0 (DE-588)1135938660    |e Früherer Eigentümer    |4 fmo    
+700 0 2  |a Petrus    |c Lombardus    |d 1095-1160    |t Commentaria in epistulas d. Pauli    |0 (DE-588)1135935998    
+710 2    |a Barfüsserkloster Bern    |0 (DE-588)1135938032    |e Früherer Eigentümer    |4 fmo    
+751      |a Esslingen am Neckar    |0 (DE-588)4015575-4    
+852 4    |b B404    |c 404U3    |j MUE Inc III 2    |9 (41SLSP_UBE)99116857411005511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc III 2    |b B404    |9 (41SLSP_UBE)99116857411005511    
+986      |a (41SLSP_UBE)99116857411005511    |9 (41SLSP_UBE)99116857411005511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116857411005511    
+991      |a AAK: 685237    |5 IZ UBE/26.06.2017/B404/vha    |9 local    |9 (41SLSP_UBE)99116857411005511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

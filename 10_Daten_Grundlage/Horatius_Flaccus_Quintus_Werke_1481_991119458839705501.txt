@@ -1,0 +1,146 @@
+﻿<-1-1-START->
+Horatius Flaccus, Quintus
+<-1-1-STOP->
+
+<-1-2-START->
+Werke [lateinisch]
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Briefen der Herausgeber Raffaele Regio an Aloisius Maurocenus und Aloisius Strazarolus an Angelus Phaseolus und den Kommentaren von Pomponius Porphyrio und Pseudo-Helenius Acro<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Treviso oder Venedig: Michele Manzolo, nicht vor 13.08.1481]
+<-3-1-STOP->
+
+<-4-1-START->
+366 ungezählte Seiten; 31 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW13457.htm<-L-5-STOP-><-VI-5-START->GW 13457<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ih00451000<-L-5-STOP-><-VI-5-START->ISTC ih00451000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+184 von 184 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jahrhundert), Ornamentrollen-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116836265205511<-L-11-STOP-><-VI-11-START->MUE Inc I 86<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991119458839705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Horatius Flaccus, Quintus<-P-STOP->
+<-P-START->Regio, Raffaele<-P-STOP->
+<-P-START->Strazarolus, Aloisius<-P-STOP->
+<-P-START->Porphyrio, Pomponius<-P-STOP->
+<-P-START->Acro, Helenius<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Treviso<-O-STOP->
+<-P-START->Manzolo, Michele<-P-STOP->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Manzolo, Michele<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991119458839705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 86<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03830nam a2200613 c 4500
+001 991119458839705501
+005 20211215203009.0
+008 080729s1481    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/03.01.2018/B404/faf    
+035      |a (swissbib)055806678-41slsp_network    
+035      |a 055806678    |9 ExL    
+035      |a (IDSBB)004567347DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991119458839705501    
+035      |a (41SLSP_UBE)99116836265205511    |9 (41SLSP_UBE)99116836265205511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Horatius Flaccus, Quintus    |d v65-v8    |0 (DE-588)118553569    |e Verfasser    |4 aut    
+240 1 0  |a Werke    
+245 1 0  |a Telos Quinti Hoatii Flacci omnium operum cum Acronis Disertissimi co[m]mentatoris expositione    
+246 1    |i Berichtigter Titel    |a Telos Quinti Horatii Flacci omnium operum cum Acronis disertissimi commentatoris expositione    
+246 1    |i Incipit    |a Raphael Regius Aloisio Mauroceno patricio Veneto salutem plurimam dicit    
+246 1    |i Titel gemäss GW und ISTC    |a Opera    
+264   1  |a [Treviso oder Venedig]    |b [Michele Manzolo]    |c [nicht vor 13.08.1481]    
+300      |a 366 ungezählte Seiten    |c 31 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Briefen der Herausgeber Raffaele Regio an Aloisius Maurocenus (datiert 13.08.1481) und Aloisius Strazarolus an Angelus Phaseolus und den Kommentaren von Pomponius Porphyrio und Pseudo-Helenius Acro    
+500      |a Keine Titelseite, Titel gemäss Explicit    
+500      |a Impressum gemäss GW und ISTC    
+500      |a Signaturformel: A⁸, B¹⁰, C⁸, D⁴, E⁸, F-G⁶, a–h⁸, []⁸, k-q⁸, r⁶    
+500      |a Die Seiten A₁ recto und r₆ verso sind unbedruckt    
+510 4    |a GW    |c 13457    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW13457.htm    
+510 4    |a ISTC    |c ih00451000    |u http://data.cerl.org/istc/ih00451000    
+530      |a Digitalisat (Exemplar der Biblioteca Apostolica Vaticana)    |u https://digi.vatlib.it/view/Inc.II.915    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jh.), Ornamentrollen-Blindprägung auf beiden Deckeln, Linien-Blindprägung sowie Titelschild in Goldprägung auf dem Rücken    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 30.2 x 20.9 x 4.3 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, vorderes Vorsatz im Falz verstärkt    
+590      |a Buchblockbeschreibung: 184 von 184 Blättern, vorgesehene Stellen für Initialen frei gelassen (teilweise einfache Lettern in Rot eingetragen)    
+590      |a Zustand Buchblock: Schädlingsfrass mit geringem Textverlust    
+590      |a Bindefehler: Doppelblatt B₅-₆ falsch eingebunden (B₆ vor B₅)    
+590      |a Handschriftliche Annotationen und Unterstreichungen in Tinte    
+590      |a Historische Signatur auf Blatt A₁ recto: "Poet 45"    
+590      |a Frühere Signatur: Inc 330 a    
+700 1    |a Regio, Raffaele    |d 1450-1520    |0 (DE-588)12233521X    |e Herausgeber    |4 edt    
+700 1    |a Strazarolus, Aloisius    |d 1448-1504    |0 (DE-588)129071978    |e Herausgeber    |4 edt    
+700 1    |a Porphyrio, Pomponius    |d ca. 2./3. Jh.    |0 (DE-588)100250408    |e Kommentarverfasser    |4 wac    
+700 1    |a Acro, Helenius    |d ca. 2. Jh.    |0 (DE-588)101100809    |e Kommentarverfasser    |4 wac    
+700 1    |a Manzolo, Michele    |0 (DE-588)1037618033    |e Drucker    |4 prt    
+700 1 2  |a Horatius Flaccus, Quintus    |d v65-v8    |t Werke    |0 (DE-588)1149752793    
+700 1 2  |a Porphyrio, Pomponius    |d ca. 2./3. Jh.    |t Commentum in Horatium    |0 (DE-588)4564261-8    
+730 0    |a Commentarius in Horatium Flaccum    |0 (DE-588)1149759739    
+751      |a Treviso    |0 (DE-588)4119702-1    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Inc I 86    |9 (41SLSP_UBE)99116836265205511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc I 86    |b B404    |9 (41SLSP_UBE)99116836265205511    
+986      |a (41SLSP_UBE)99116836265205511    |9 (41SLSP_UBE)99116836265205511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116836265205511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116836265205511    
+991      |a MedeaB400: 00414999    |5 IZ UBE/rekat-ubbe    |9 LOCAL    |9 (41SLSP_UBE)99116836265205511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

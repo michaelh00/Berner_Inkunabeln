@@ -1,0 +1,130 @@
+﻿<-1-1-START->
+Zamometić, Andreas
+<-1-1-STOP->
+
+<-1-2-START->
+Retractatio eius a notario publico d. 2 Jan. 1483 testata
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Beglaubigung durch Johannes de le Woestine<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Basel: Johann Besicken, nicht vor 02.01.1483]
+<-3-1-STOP->
+
+<-4-1-START->
+1 Bogen; 46 x 32 cm
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW01859.htm<-L-5-STOP-><-VI-5-START->GW 01859<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ia00651000<-L-5-STOP-><-VI-5-START->ISTC ia00651000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+1 Blatt
+<-6-1-STOP->
+
+<-7-1-START->
+Ohne Einband
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116768783005511<-L-11-STOP-><-VI-11-START->MUE Rar alt gr fol 156<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991115153689705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Zamometić, Andreas<-P-STOP->
+<-P-START->Johannes de le Woestine<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Besicken, Johann<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991115153689705501<-DOI-STOP->
+<-SIGN-START->MUE Rar alt gr fol 156<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03734nam a2200493 c 4500
+001 991115153689705501
+005 20211215200538.0
+008 200923s1483    sz |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/23.09.2020/B404/faf    
+035      |a (swissbib)076384772-41slsp_network    
+035      |a 076384772    |9 ExL    
+035      |a (IDSBB)007223872DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991115153689705501    
+035      |a (41SLSP_UBE)99116768783005511    |9 (41SLSP_UBE)99116768783005511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+082 1 4  |a 230    |2 15    
+082 1 4  |a 940    |2 15    
+100 1    |a Zamometić, Andreas    |d 1420-1484    |0 (DE-588)118827219    |e Verfasser    |4 aut    
+240 1 0  |a Retractatio eius a notario publico d. 2 Jan. 1483 testata    
+245 1 0  |a [I]n nomine domini Amen. Serie presentis publici Instrumenti cunctis ipsum aduertentib[us] secundum veritatem percrebeat [et] sit certum [quod] sub Anno a natiuitate d[omi]ni eiusdem Millesimoquadringentesimo octuagesimo tercio Indictione prima die vero iouis secunda me[n]sis Ianuarij hora sexta post meridiem ...    
+246 1    |i Titel in normalisierter Form    |a In nomine domini Amen. Serie presentis publici instrumenti cunctis ipsum advertentibus secundum veritatem percrebeat et sit certum quod sub anno a nativitate domini eiusdem millesimoquadringentesimo octuagesimo tercio indictione prima die vero iovis secunda mensis Ianuarii hora sexta post meridiem ...    
+246 1 0  |a Serie presentis publici instrumenti cunctis ipsum advertentibus secundum veritatem percrebeat et sit certum quod sub anno a nativitate domini eiusdem millesimoquadringentesimo octuagesimo tercio indictione prima die vero iovis secunda mensis Ianuarii hora sexta post meridiem ...    
+246 1    |i Titel gemäss GW    |a Notariatsinstrument über seinen Widerruf    
+264   1  |a [Basel]    |b [Johann Besicken]    |c [nicht vor 02.01.1483]    
+300      |a 1 Bogen    |c 46 x 32 cm    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nb    |2 rdacarrier    
+500      |a Einblattdruck    
+500      |a Titel gemäss Incipit    
+500      |a Mit Beglaubigung durch Johannes de le Woestine    
+500      |a Impressum gemäss GW und ISTC    
+510 4    |a GW    |c 01859    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW01859.htm    
+510 4    |a ISTC    |c ia00651000    |u http://data.cerl.org/istc/ia00651000    
+530      |a Digitalisat (Exemplar der Universitätsbibliothek Basel)    |u https://doi.org/10.3931/e-rara-17418    
+563      |a Ohne Einband    
+590      |a Beschreibung: 1 Blatt, Bogen mit allseitig Schöpfrändern, vorgesehene Stelle für Initiale frei gelassen    
+590      |a Zustand: Stärkere Verschmutzung und Verbräunung an der Rectoseite, Falzungen von vormaliger Lagerung mit Verbräunungen und Brüchen im Papier (mittig im Kreuzbereich der Falzungen), Knicke an unterer linker Ecke, Textabklatsch an Bergfalte der unteren Vertikalfalzung auf der Rectoseite, Feuchtigkeitsrand am rechten Blattrand, am linken Blattrand eine Durchstossung und ein Loch, am rechten Blattrand eine Durchstossung im Papier, Tintenschrift auf Versoseite durchgeschlagen mit Verbräunung im Papier    
+590      |a Handschriftlich in Tinte unterzeichnet durch Johannes de le Woestine: "Ita est attestor ego Iohanes Notarius pr[e]no[m]i[n]atus manu prop[ri]a"    
+700 0    |a Johannes    |c de le Woestine    |d ca. 15. Jh.    |0 (DE-588)1218193611    |e Mitwirkender    |4 ctb    
+700 0    |a Johannes    |c de le Woestine    |d ca. 15. Jh.    |0 (DE-588)1218193611    |e Unterzeichner    |4 ato    
+700 1    |a Besicken, Johann    |d 14XX-15XX    |0 (DE-588)134019652    |e Drucker    |4 prt    
+700 1 2  |a Zamometić, Andreas    |d 1420-1484    |t Retractatio eius a notario publico d. 2 Jan. 1483 testata    |0 (DE-588)121818857X    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Rar alt gr fol 156    |9 (41SLSP_UBE)99116768783005511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Rar alt gr fol 156    |b B404    |9 (41SLSP_UBE)99116768783005511    
+986      |a (41SLSP_UBE)99116768783005511    |9 (41SLSP_UBE)99116768783005511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116768783005511    
+990      |n HB404N2009    |9 local    |9 (41SLSP_UBE)99116768783005511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

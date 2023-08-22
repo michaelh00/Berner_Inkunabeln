@@ -1,0 +1,143 @@
+﻿<-1-1-START->
+Legrand, Jacques
+<-1-1-STOP->
+
+<-1-2-START->
+Sophilogium
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Lyon: Nicolaus Philippi und Markus Reinhart, [zwischen 1477 und 1480?]
+<-500-START->Mutmasslicher Druckzeitraum gemäss GW und ISTC<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 237 ungezählte Seiten; 31 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://gesamtkatalogderwiegendrucke.de/docs/M17646.htm<-L-5-STOP-><-VI-5-START->GW M17646<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/im00046000<-L-5-STOP-><-VI-5-START->ISTC im00046000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+95 von 120 Blättern, rot und blau ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Einteiliger Kartoneinband mit durchzogenen Bünden (18. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Pierre Tacheron; Jacques Tacheron
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Blatt [a₁₀] und Lagen [l]-[n] (24 Blätter) fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116750657605511<-L-11-STOP-><-VI-11-START->MUE Inc I 31<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991012614769705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Legrand, Jacques<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Lyon<-O-STOP->
+<-P-START->Philippi, Nicolaus<-P-STOP->
+<-O-START->Lyon<-O-STOP->
+<-P-START->Markus Reinhart<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Tacheron, Pierre<-P-STOP->
+<-P-START->Tacheron, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991012614769705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 31<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04581nam a2200601 c 4500
+001 991012614769705501
+005 20211215162428.0
+008 160929q14771480fr |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/29.09.2016/B404/faf    
+035      |a (swissbib)071131698-41slsp_network    
+035      |a 071131698    |9 ExL    
+035      |a (IDSBB)006625502DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991012614769705501    
+035      |a (41SLSP_UBE)99116750657605511    |9 (41SLSP_UBE)99116750657605511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Legrand, Jacques    |d 1365-1420    |0 (DE-588)118999877    |e Verfasser    |4 aut    
+240 1 0  |a Sophilogium    
+245 1 0  |a Jacobi magni sophologiu[m] finit feliciter    
+246 1    |i Incipit (Haupttext, Blatt a₄ recto)    |a Doctissimi atq[ue] excellentissimi patris, sacra[rum] litterarum doctoris deuotissimi, fratris Jacobi magni, religionis fratru[m] heremitaru[m], sancti Augustini sophologium incipit    
+246 1    |i Incipit (Tabula)    |a Sequitur tabula capitulo[rum] sophologii    
+246 1    |i Titel gemäss GW und ISTC    |a Sophologium    
+264   1  |a Impressum lugdun[i]    |b per Nicolau[m] Philippi de benszheym et Marcu[m] Reinhart de Argentina    |c [zwischen 1477 und 1480?]    
+300      |a 1 ungezähltes Blatt, 237 ungezählte Seiten    |c 31 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss Explicit    
+500      |a Mit Tabula capitulorum und Gedicht: "Epigramma ad huius op[er]is conspectorem"    
+500      |a Druckort und Drucker gemäss Kolophon, mutmasslicher Druckzeitraum gemäss GW und ISTC    
+500      |a Signaturformel: [a¹⁰, b-g⁸, h-i¹⁰, k-n⁸, o¹⁰]    
+500      |a Blatt [a₁] ist unbedruckt    
+510 4    |a GW    |c M17646    |u http://gesamtkatalogderwiegendrucke.de/docs/M17646.htm    
+510 4    |a ISTC    |c im00046000    |u http://data.cerl.org/istc/im00046000    
+530      |a Digitalisat (Exemplar der Biblioteca Universidad de Zaragoza)    |u http://zaguan.unizar.es/record/271    
+561      |a Handschriftliche Besitzvermerke auf Blatt [a₂] recto: "Sum Petrj Tacheronj Mollond[ensi] ...", "Jam Vero Sum Jacobi Tacheroni"    
+563      |a Einbandbeschreibung: Einteiliger Kartoneinband mit durchzogenen Bünden (18. Jh.)    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 30.9 x 22.2 x 2.3 cm    
+563      |a Zustand Einband: Abrieb und Verfleckungen, beginnender Tintenfrass an Rückenbeschriftung, Vorsätze zum Teil im Falz verstärkt    
+590      |a Buchblockbeschreibung: 95 von 120 Blättern, ab Blatt [a₄] handschriftliche Foliierung (i-cxvj, xliij wiederholt) in Tinte, zusätzliche Foliierung in Graphit (1-120) grösstenteils ausradiert, handschriftliche Lagensignatur in Tinte (teilweise abgeschnitten), zusätzlich in Graphit auf erstem Blatt jeder Lage, Papierfälze hinter vorgebundener Handschrift sowie zwischen Lagen [k] und [o] aus Vorsatzkonstruktion, rot und blau ausgezeichnete Initialen, vorgesehene Stelle für grössere Initiale auf Blatt [a₄] recto frei gelassen, Rubrizierung (rote und blaue Paragraphenzeichen, gelb kolorierte Majuskeln), Blattzahlen handschriftlich in Tinte in Tabula eingetragen    
+590      |a Zustand Buchblock: Risse und Fehlstellen teilweise geschlossen, zahlreiche Verfleckungen und Feuchtigkeitsränder, Verwischungen vor allem am blauen Farbmittel der Initialauszeichnung    
+590      |a Unvollständiges Exemplar: Blatt [a₁₀] und Lagen [l]-[n] fehlen    
+590      |a Handschriftliche Annotationen, An- und Unterstreichungen in Tinte    
+590      |a Auf Blatt [a₁] recto eine Handschrift unter dem Titel "Iudiciu[m] p[er] Astrologos Sub Anno A Natiuitate d[o]m[ini] .mcccclxxvii°."    
+590      |a Vorgebunden zwei Blätter mit Abschrift einer Urkunde der Synode von Lausanne 1449, beglaubigt von Stephanus Crusiliati    
+590      |a Historische Signatur auf Blatt [a₂] recto: "N: Phil: 75"    
+590      |a Frühere Signatur: Inc 120    
+700 1    |a Philippi, Nicolaus    |d ca. 2. H. 15. Jh.    |0 (DE-588)1037573765    |e Drucker    |4 prt    
+700 0    |a Markus    |c Reinhart    |d -1491    |0 (DE-588)138455163    |e Drucker    |4 prt    
+700 1    |a Tacheron, Pierre    |d ca. 16. Jh.    |0 (DE-588)1115347292    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Tacheron, Jacques    |d ca. 1. H. 17. Jh.    |e Früherer Eigentümer    |4 fmo    |0 (DE-588)119716183X    
+700 1 2  |a Legrand, Jacques    |d 1365-1420    |t Sophilogium    |0 (DE-588)1114922013    
+751      |a Lyon    |0 (DE-588)4036770-8    
+852 4    |b B404    |c 404U3    |j MUE Inc I 31    |9 (41SLSP_UBE)99116750657605511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc I 31    |b B404    |9 (41SLSP_UBE)99116750657605511    
+986      |a (41SLSP_UBE)99116750657605511    |9 (41SLSP_UBE)99116750657605511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116750657605511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

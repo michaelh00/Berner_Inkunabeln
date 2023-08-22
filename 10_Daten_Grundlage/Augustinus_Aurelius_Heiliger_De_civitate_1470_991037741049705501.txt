@@ -1,0 +1,151 @@
+﻿<-1-1-START->
+Augustinus, Aurelius
+<-1-1-STOP->
+
+<-1-2-START->
+De civitate dei
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Venedig]: [Johann und Wendelin von Speyer], 1470
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 28 ungezählte Seiten, 1 ungezähltes Blatt, 313 ungezählte Seiten, 1 ungezähltes Blatt; 41 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-855.html<-L-5-STOP-><-VI-5-START->BSB-Ink A-855<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW02877.htm<-L-5-STOP-><-VI-5-START->GW 02877<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ia01233000<-L-5-STOP-><-VI-5-START->ISTC ia01233000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+273 von 274 Blättern, mehrfarbig ausgemalte Zierinitialen, rot oder blau ausgezeichnete kleinere Initialen
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun, Schaf) mit Schliessen (Hakenschliessen auf Rückdeckel greifend), Linien-, Ornamentstempel- und Ornamentrollen-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Paulus (Antistes ecclesiae Sancti Galli); Johann Schlechta; Girolamo Balbi; Adalbert Studnizka; Werner Zesiger
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Unbedrucktes Blatt [b₈] fehlt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116801740705511<-L-11-STOP-><-VI-11-START->MUE Zesk 12<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991037741049705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Augustinus, Aurelius<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Johann von Speyer<-P-STOP->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Wendelin von Speyer<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Paulus (Antistes ecclesiae Sancti Galli)<-P-STOP->
+<-P-START->Schlechta, Johann<-P-STOP->
+<-P-START->Balbi, Girolamo<-P-STOP->
+<-P-START->Studnizka, Adalbert<-P-STOP->
+<-P-START->Zesiger, Werner<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991037741049705501<-DOI-STOP->
+<-SIGN-START->MUE Zesk 12<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05604nam a2200673 c 4500
+001 991037741049705501
+005 20211215171020.0
+008 950614s1470    it ||||| |||| 00| ||lat d
+019      |a Altbestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von Signaturen.    |5 IDSBB/14.2.1995/bestub/mes    
+035      |a (swissbib)027021912-41slsp_network    
+035      |a 027021912    |9 ExL    
+035      |a (IDSBB)001116790DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991037741049705501    
+035      |a (41SLSP_UBE)99116801740705511    |9 (41SLSP_UBE)99116801740705511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+072   7  |a th    |2 SzZuIDS BS/BE    
+072   7  |a ph    |2 SzZuIDS BS/BE    
+100 1    |a Augustinus, Aurelius    |c Heiliger    |d 354-430    |0 (DE-588)118505114    |e Verfasser    |4 aut    
+240 1 0  |a De civitate dei    
+245 1 0  |a Aurelii Augustini De ciuitate dei    
+246 1 0  |a De ciuitate dei    
+246 1    |i Titel in normalisierter Form    |a Aurelii Augustini De civitate dei    
+264   1  |a [Venedig]    |b [Johann und Wendelin von Speyer]    |c M.CCCC.LXX. [1470]    
+300      |a 1 ungezähltes Blatt, 28 ungezählte Seiten, 1 ungezähltes Blatt, 313 ungezählte Seiten, 1 ungezähltes Blatt    |c 41 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss Überschrift der Rubricae (Blatt [a₂])    
+500      |a Impressum gemäss Kolophon in Versform (Blatt E₉ recto): "Qui docuit Venetos exscribi posse Ioannes / Mense fere trino Centena uolumina plini / Et totidem Magni Ciceronis Spira libellos: / Ceperat Aureli: subita sed morte perentus / Non potuit Ceptum Venetis finire uolumen / Vindelinus adest eiusdem frater: & arte / Non minor: hadriacq[ue] morabitur urbe / .M.CCCC.LXX."    
+500      |a Signaturformel: [a-b⁸, c–z¹⁰, A–C¹⁰, D⁸, E¹⁰]    
+500      |a Blätter [a₁], [b₈] und [E₁₀] unbedruckt    
+510 4    |a BSB-Ink    |c A-855    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-855.html    
+510 4    |a GW    |c 02877    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW02877.htm    
+510 4    |a ISTC    |c ia01233000    |u http://data.cerl.org/istc/ia01233000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00042654/image_9    
+561      |a Handschriftlicher Besitzvermerk auf vorderem Spiegel: "1506 ... [?] hu[n]c libr[um] mihi Joa[nnes] Shlechta dono dedit. Paulus, Antistes ecc[les]iae s[an]cti Galli ligavit ..."    
+561      |a Auf unbedrucktem Blatt [a₁] handschriftliches Gedicht von "Hieronymus Balbus Joanni Shlechta Regio prothonotario"; darunter, von anderer Hand: "hunc aut[em] librum idem Balb. Episcopo furtim surripuit"[!]    
+561      |a Handschriftlicher Besitzvermerk auf vorderem Spiegel: "Ex libris Adalberti Studnizka 1784."    
+561      |a Stempel auf fliegendem Blatt: "Dr. Zesiger"    
+561      |a Auf Blatt [c₁] unten gemaltes Wappen (2 gekreuzte goldene Stäbe auf blauem Grund) in Schmuckranke und Initialen "M.F. O.D. S."    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun, Schaf) mit Schliessen (Hakenschliessen auf Rückdeckel greifend), Linien-, Ornamentstempel- und Ornamentrollen-Blindprägung auf beiden Deckeln    
+563      |a Vorsätze: Vorne mit einem und hinten mit 11 fliegenden Blättern (Vorsatzkonstruktion vorne unklar, Papierstruktur ähnlich zu erster Lage)    
+563      |a Masse:  40.2 x 28.8 x 9.5 cm    
+563      |a Zustand Einband: Schädlingsfrass an beiden Deckeln, massive Schäden im Einbandleder (Risse und Fehlstellen am Rücken und an den Häubchen), Lederergänzung an beiden Deckeln mit angedeuteter Blindprägung    
+590      |a Buchblockbeschreibung: 273 von 274 Blättern, handschriftliche Lagensignatur in Graphit (jeweils erstes Blatt recto unten rechts), Papierfalz und zwei Pergamentfälze (Manuskriptmakulatur) vor dem hinteren Spiegel gehören zur Vorsatzkonstruktion; mehrfarbig ausgemalte Zierinitialen, rot oder blau ausgezeichnete kleinere Initialen, Überschriften der "Rubricae" im Text in roter Tinte eingefügt    
+590      |a Zustand Buchblock: Vorderes fliegendes Blatt im Falz vollständig abgerissen, Feuchtigkeitsränder an unterem Schnitt in der letzten Lage, rote Schrift teilweise radiert und neu überschrieben (letztes Blatt Lage [c] verso und erstes Blatt Lage [d] recto), Abrieb und Schäden vor allem in grünen Farbmitteln der Schmuckinitialen ( Blatt [c₁] recto und Blatt [h₇] recto)    
+590      |a Unbedrucktes Blatt [b₈] fehlt    
+590      |a Signaturformel der handschriftlichen Lagensignatur: 1-2⁸, 3–26¹⁰, 27⁸, 28¹⁰    
+590      |a Zahlreiche Annotationen in der ersten Hälfte des Bandes (bis Blatt [q₈])    
+590      |a Historische Signaturen auf vorderem Spiegel: "D.N. III. 9."; "C.I.6."    
+700 1 2  |a Augustinus, Aurelius    |c Heiliger    |d 354-430    |t De civitate dei    |0 (DE-588)4120948-5    
+700 0    |a Johann    |c von Speyer    |d 14XX-1469    |0 (DE-588)140686649    |e Drucker    |4 prt    
+700 0    |a Wendelin    |c von Speyer    |d 14XX-1477    |0 (DE-588)129071226    |e Drucker    |4 prt    
+700 0    |a Paulus    |c Antistes ecclesiae Sancti Galli    |4 fmo    
+700 1    |a Schlechta, Johann    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Balbi, Girolamo    |d 1460-1535    |0 (DE-588)124685072    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Studnizka, Adalbert    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Zesiger, Werner    |d 1902-1958    |0 (DE-588)121027392    |e Früherer Eigentümer    |4 fmo    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Zesk 12    |9 (41SLSP_UBE)99116801740705511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Zesk 12    |b B404    |9 (41SLSP_UBE)99116801740705511    
+986      |a (41SLSP_UBE)99116801740705511    |9 (41SLSP_UBE)99116801740705511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116801740705511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

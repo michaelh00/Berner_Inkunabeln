@@ -1,0 +1,156 @@
+﻿<-1-1-START->
+Persius Flaccus, Aulus
+<-1-1-STOP->
+
+<-1-2-START->
+Saturae. — Fonte, Bartolomeo: Commentum in Persium; Vita Persii
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Widmungsbriefen von Bartolomeo Fonte an Lorenzo de' Medici und Francesco Sassetti<-500-STOP->
+<-700-START-><-700-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: [Typographus operis "Martialis 1480"], 1480
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 53 ungezählte Seiten; 27 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M31379.htm<-L-5-STOP-><-VI-5-START->GW M31379<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/ip00341000<-L-5-STOP-><-VI-5-START->ISTC ip00341000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+28 von 28 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Pergamenteinband auf Kartondeckeln (20. Jahrhundert, gemäss Notiz Lindt von 1967)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Opera / Petrus Venerabilis. Paris: Damien Higman, 1522 (Fragment, nur 7 Blätter)
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116692960505511<-L-11-STOP-><-VI-11-START->MUE Bong VI 258 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991132838699705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Persius Flaccus, Aulus<-P-STOP->
+<-P-START->Fonte, Bartolomeo<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Typographus operis "Martialis 1480"<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991132838699705501<-DOI-STOP->
+<-SIGN-START->MUE Bong VI 258 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04179nam a2200721 c 4500
+001 991132838699705501
+005 20211215194516.0
+007 cr#|||||||||||
+008 100716s1480    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/16.07.2010    
+024 7    |a 10.3931/e-rara-88380    |2 doi    
+035      |a (swissbib)061471550-41slsp_network    
+035      |a 061471550    |9 ExL    
+035      |a (IDSBB)005279818DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991132838699705501    
+035      |a (41SLSP_UBE)99116692960505511    |9 (41SLSP_UBE)99116692960505511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Persius Flaccus, Aulus    |d 34-62    |0 (DE-588)118592815    |e Verfasser    |4 aut    
+240 1 0  |a Saturae    
+245 1 0  |a Avli Flacci Persii Poetae Satyrarvm Opvs    
+246 1    |i Titel in normalisierter Form    |a Auli Flacci Persii poetae Satyrarum opus    
+246 1    |i Titel in normalisierter Form    |a Satyrarum opus    
+246 1    |i Kolophon    |a A. Persii Flacci Satyrarum Finis    
+246 1 0  |a Satyrarum finis    
+246 1    |i Titel gemäss GW und ISTC    |a Satyrae    
+264   1  |a Venetiis    |b [Typographus operis "Martialis 1480"]    |c M.CCCC.LXXX. [1480]    
+300      |a 1 ungezähltes Blatt, 53 ungezählte Seiten    |c 27 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+337      |b c    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+338      |b cr    |2 rdacarrier    
+500      |a Mit Kommentar von Bartolomeo Fonte    
+500      |a Mit Widmungsbriefen von Bartolomeo Fonte an Lorenzo de' Medici (Blatt a₁ verso) und Francesco Sassetti ("Francisco Saxetto"; Blatt e₃ verso)    
+500      |a Druckort und Druckjahr gemäss Kolophon (Blatt e₃ recto); Reihenfolge der Vorlage: "A. Persii Flacci Satyrarum Finis. M.CCCC.LXXX. Venetiis."    
+500      |a Drucker gemäss GW und ISTC    
+500      |a Signaturformel: a-d⁶, e⁴    
+500      |a Blätter a₁ recto und e₄ verso unbedruckt    
+505 0 0  |g Blatt e₄ recto    |t Vita Persii    |r [Bartolomeo Fonte]    
+510 4    |a GW    |c M31379    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M31379.htm    
+510 4    |a ISTC    |c ip00341000    |u https://data.cerl.org/istc/ip00341000    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Ganzbezogener Pergamenteinband auf Kartondeckeln (20. Jahrhundert, gemäss Notiz Lindt von 1967)    
+563      |a Vorsätze: Vorne mit zwei und hinten mit drei fliegenden Blättern (hinteres Vorsatzblatt des früheren Einbands aufgrund des Wasserzeichens gemäss Notiz Lindt um 1630)    
+563      |a Masse Einband: 27.0 x 20.2 x 1.3 cm    
+563      |a Zustand Einband: Neueinband    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 28 von 28 Blättern, vorgesehene Stellen für Initialen frei gelassen, keine Rubrizierung    
+590      |a Zustand Buchblock: erstes und letztes Blatt aus vorheriger gefalzter Umlaufeinheit stark verschmutzt, zahlreiche Feuchtigkeitsränder, Einrisse und kleine Fehlstellen an den ersten Blättern    
+590      |a Handschriftliche Annotationen in Tinte, teilweise beschnitten    
+590      |a Zusammengebunden mit einem weiteren Druck (Fragment, nur 7 Blätter aus): Petrus Venerabilis: Opera. - Paris : Damien Higman, 1522    
+590      |a Frühere Signaturen: Inc III 34; Inc 181; Hortin III R 24    
+655   4  |a Kommentar    
+700 1 2  |a Persius Flaccus, Aulus    |d 34-62    |t Saturae    |0 (DE-588)4271837-5    
+700 1 2  |a Fonte, Bartolomeo    |d 1445-1513    |t Vita Persii    |0 (DE-588)1177415224    
+700 1    |a Fonte, Bartolomeo    |d 1445-1513    |0 (DE-588)100278760    |e Kommentarverfasser    |e Widmender    |4 wac    |4 dto    
+700 1    |a Medici, Lorenzo <<de'>>    |d 1449-1492    |0 (DE-588)118574418    |e Widmungsempfänger    |4 dte    
+700 1    |a Sassetti, Francesco    |d 1421-1490    |0 (DE-588)119060574    |e Widmungsempfänger    |4 dte    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+710 2    |a Typographus operis "Martialis 1480"    |g Venezia    |0 (DE-588)1085852148    |e Drucker    |4 prt    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Bong VI 258 : 1    |9 (41SLSP_UBE)99116692960505511    
+856 4    |u https://doi.org/10.3931/e-rara-88380    |z Digitalisat in e-rara    
+900      |a IDSIxunikat    
+900      |a IDSIxhybrid-el    
+900      |a NOMERGEALEX    
+949      |i ZB Inc III 34 : 1    |c 404U3    |z Zusammengebunden mit einem weiteren Druck    |p 12    |j MUE Bong VI 258 : 1    |b B404    |9 (41SLSP_UBE)99116692960505511    
+986      |a (41SLSP_UBE)99116692960505511    |9 (41SLSP_UBE)99116692960505511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116692960505511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116692960505511    
+990      |f erarabe    |9 local    |9 (41SLSP_UBE)99116692960505511    
+990      |f lza-cc0    |9 local    |9 (41SLSP_UBE)99116692960505511    
+991      |a Bongars: 10858    |5 IZ UBE/B400/16.07.2010    |9 local    |9 (41SLSP_UBE)99116692960505511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,144 @@
+﻿<-1-1-START->
+Arcolani, Giovanni
+<-1-1-STOP->
+
+<-1-2-START->
+Expositio noni libri ad Almansorem Rhazis
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Ausführlicher Kommentar zum Werk Ad Almansorem, arabisch aṭ-Ṭibb al-Manṣūrī, von Muḥammad Ibn-Zakarīyā ar-Rāzī (auch Muhammed Rhazes), sowie eigenständige Erläuterungen Arcolanis zur Zahnmedizin; das kommentierte Werk in Latein ist abschnittsweise mit abgedruckt<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Bernardino Stagnino, 12.11.1493
+<-3-1-STOP->
+
+<-4-1-START->
+164 Blätter: Druckermarke; 36 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_A-665.html<-L-5-STOP-><-VI-5-START->BSB-Ink A-665<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M38038.htm<-L-5-STOP-><-VI-5-START->GW M38038<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+163 von 164 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen, Linien- und Ornamentrollen- sowie Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Johann Jacob Uberackher
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Blatt 150 ([con]₄) fehlt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116843621105511<-L-11-STOP-><-VI-11-START->MUE Inc II 36<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991146837519705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Arcolani, Giovanni<-P-STOP->
+<-P-START->Rāzī, Muḥammad Ibn-Zakarīyā ar-<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Stagnino, Bernardino<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Uberackher, Johann Jacob<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991146837519705501<-DOI-STOP->
+<-SIGN-START->MUE Inc II 36<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04570nam a2200625 c 4500
+001 991146837519705501
+005 20211215194630.0
+008 191030s1493    it |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/31.12.2019/B404/vha    
+035      |a (swissbib)075766280-41slsp_network    
+035      |a 075766280    |9 ExL    
+035      |a (IDSBB)007129757DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991146837519705501    
+035      |a (41SLSP_UBE)99116843621105511    |9 (41SLSP_UBE)99116843621105511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Arcolani, Giovanni    |d 1390-1484    |0 (DE-588)136421784    |e Verfasser    |4 aut    
+240 1 0  |a Expositio noni libri ad Almansorem Rhazis    
+245 1 0  |a Pratica Joannis arculani    
+246 1    |i Pratica    
+246 1    |i Practica    
+246 1    |i Incipit    |a Expositio noni libri Almansoris    
+246 1    |i Kolophon    |a Noni Al. libri finem    
+246 1    |i Titel gemäss BSB-Ink    |a Expositio noni libri ad Almansorem Rhazis    
+246 1    |i Titel gemäss GW    |a Liber IX ad Almansorem    
+264   1  |a Impressum Venetijs    |b p[er] Magistru[m] Bernardinu[m] stagninu[m] de Tridino de mo[n]teferrato sumptib[us] suis    |c Anno .M.cccclxxxxiij. pridie idus Noue[m]b[ris] [12.11.1493]    
+300      |a 164 Blätter    |c 36 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Ausführlicher Kommentar zum Werk Ad Almansorem, arabisch aṭ-Ṭibb al-Manṣūrī, von Muḥammad Ibn-Zakarīyā ar-Rāzī (auch Muhammed Rhazes), sowie eigenständige Erläuterungen Arcolanis zur Zahnmedizin; das kommentierte Werk in Latein ist abschnittsweise mit abgedruckt    
+500      |a Mit Druckermarke am Ende (Blatt 164 (A₆) recto)    
+500      |a Signaturformel: a–b⁸, c–d⁶, e⁴, f–z⁶, [et]⁶, [con]⁶, [rum]⁶, A⁶    
+500      |a Titelseite (Blatt a₁) verso und letzte Seite (Blatt A₆ verso) unbedruckt    
+500      |a Falsch paginierte Seiten: "41" statt 14, "36" statt 37, "80" statt 62 und "151" statt 157    
+510 4    |a BSB-Ink    |c A-665    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_A-665.html    
+510 4    |a GW    |c M38038    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M38038.htm    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00045654/image_9    
+561      |a Handschriftlicher Besitzvermerk auf der Titelseite: "1541, ABC, Joannes Jacobus Uberackher[?] a Sigharthius[?]    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen, Linien- und Ornamentrollen- sowie Ornamentstempel-Blindprägung auf beiden Deckeln; auf dem Rücken Titel in Tinte: ...[?] Arculan[us]: 1493 Vene:"    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse: 35.2 x 24.9 x 4.4 cm    
+563      |a Zustand Einband: Verfärbungen, Kratzer und Schnitte im Einbandleder, untere Schliesse ergänzt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 163 von 164 Blättern, Pergamentfalzverstärkung in vorderem Vorsatz und vor dem hinteren Vorsatz; vorgesehene Stellen für Initialen frei gelassen, keine Rubrizierung    
+590      |a Zustand Buchblock: Schädlingsfrass am Spiegel und den ersten Blättern, Schriftradierung mit Fehlstellen am Titelblatt (a₁)    
+590      |a Unvollständiges Exemplar: Blatt 150 ([con]₄) fehlt    
+590      |a Handschriftliche Annotationen und Unterstreichungen in Tinte, überwiegend am Anfang (bis Blatt 32), danach nur noch wenig    
+590      |a Handschriftliche Notizen in Tinte auf vorderem Spiegel; handschriftliches Inhaltsverzeichnis (Angabe der einzelnen im Buch behandelten Krankheiten) auf vorderem fliegenden Blatt (verso)    
+590      |a Historische Signatur auf der Titelseite: "Med. B 32"    
+590      |a Frühere Signatur: Inc 193    
+700 1 2  |a Arcolani, Giovanni    |d 1390-1484    |t Expositio noni libri ad Almansorem Rhazis    |0 (DE-588)1198437022    
+700 1 2  |a Rāzī, Muḥammad Ibn-Zakarīyā <<ar->>    |d 865-925    |t <<aṭ->>Ṭibb al-Manṣūrī    |0 (DE-588)1088050468    
+700 1    |a Stagnino, Bernardino    |d 14XX-15XX    |0 (DE-588)118975854    |e Verlag    |e Drucker    |4 pbl    |4 prt    
+700 1    |a Uberackher, Johann Jacob    |e Früherer Eigentümer    |4 fmo    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Inc II 36    |9 (41SLSP_UBE)99116843621105511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc II 36    |b B404    |9 (41SLSP_UBE)99116843621105511    
+986      |a (41SLSP_UBE)99116843621105511    |9 (41SLSP_UBE)99116843621105511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116843621105511    
+991      |a AAK: 27217    |5 IZ UBE/31.12.2019/B404/vha    |9 local    |9 (41SLSP_UBE)99116843621105511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

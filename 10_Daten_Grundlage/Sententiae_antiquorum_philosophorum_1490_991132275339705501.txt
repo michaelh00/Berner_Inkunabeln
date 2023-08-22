@@ -1,0 +1,143 @@
+﻿<-1-1-START->
+Sententiae antiquorum philosophorum
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Kein Nachweis in BSB-Ink, GW oder ISTC<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Paris: Johannes Higman und Wolfgang Hopyl, um 1490]
+<-3-1-STOP->
+
+<-4-1-START->
+20 ungezählte Seiten (unvollständig?); 21 cm (4°)
+<-500-START->Pellechet gibt 12 Blätter an, statt 10<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-VI-5-START->Sack, Vera: Die Inkunabeln der Universitätsbibliothek und anderer öffentlicher Sammlungen in Freiburg im Breisgau und Umgebung. Teil 2.- Wiesbaden: Harrassowitz, 19853215<-VI-5-STOP->; <-VI-5-START->Pellechet, Marie: Catalogue général des incunables des bibliothèques publiques de France / [édité] par L. Polain. Nendeln, Liechtenstein, 1970. Volume 2110454 (Ms.)<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+10 von 10(?) Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Pergamenteinband auf Kartondeckeln (17. Jahrhundert) mit Stosskanten und Linien-Blindprägung auf beiden Deckeln, Spuren von Verschlussbändern (grün, Textil)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 10 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116867948305511<-L-11-STOP-><-VI-11-START->MUE Bong I 522 : 7<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991132275339705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Paris<-O-STOP->
+<-P-START->Higman, Johannes<-P-STOP->
+<-O-START->Paris<-O-STOP->
+<-P-START->Hopyl, Wolfgang<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991132275339705501<-DOI-STOP->
+<-SIGN-START->MUE Bong I 522 : 7<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03744nam a2200577 c 4500
+001 991132275339705501
+005 20211215194522.0
+007 cr#|||||||||||
+008 100730s1490    fr            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/30.07.2010    
+024 7    |a 10.3931/e-rara-88394    |2 doi    
+035      |a (swissbib)062117661-41slsp_network    
+035      |a 062117661    |9 ExL    
+035      |a (IDSBB)005285545DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991132275339705501    
+035      |a (41SLSP_UBE)99116867948305511    |9 (41SLSP_UBE)99116867948305511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+130 0    |a Sententiae antiquorum philosophorum    |0 (DE-588)1169332455    
+245 1 0  |a Sententie antiquorum philosophorum    
+264   1  |a [Paris]    |b [Johann Higman]    |b [Wolfgang Hopyl]    |c [um 1490]    
+300      |a 20 ungezählte Seiten (unvollständig?)    |c 21 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+337      |b c    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+338      |b cr    |2 rdacarrier    
+500      |a Keine Titelseite, nur Kopftitel    
+500      |a Impressum gemäss Sack; dort angegeben: "Johann Higman für oder mit Wolfgang Hopyl"    
+500      |a Signaturformel: a⁶, b⁴    
+500      |a Bei Sack Umfang und Signaturformel gleich; Pellechet gibt 12 Blätter an, statt 10; dort Blatt b₁ als f. 9(!) bezeichnet    
+500      |a Bei Pellechet angegebener Textbeginn ("Antisthenes // Antisthenes om[n]ibus qui se incolumnes ..."), Textbeginn von Blatt b₁ ("Demonax // Demonax inquit ...") und Textende ("Idem qui in re sua male sibi consulit nunq[uam] poterit recte alienis // consulere") identisch mit vorliegendem Druck    
+500      |a Kein Nachweis in BSB-Ink, GW oder ISTC    
+510 4    |a Sack, Vera: Die Inkunabeln der Universitätsbibliothek und anderer öffentlicher Sammlungen in Freiburg im Breisgau und Umgebung. Teil 2.- Wiesbaden: Harrassowitz, 1985    |c 3215    
+510 4    |a Pellechet, Marie: Catalogue général des incunables des bibliothèques publiques de France / [édité] par L. Polain. Nendeln, Liechtenstein, 1970. Volume 21    |c 10454 (Ms.)    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Ganzbezogener Pergamenteinband auf Kartondeckeln (17. Jahrhundert) mit Stosskanten und Linien-Blindprägung auf beiden Deckeln, Spuren von Verschlussbändern (grün, Textil)    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 20.5 x 15.1 x 4.2 cm    
+563      |a Zustand Einband: Rücken vollständig mit Japanpapier überklebt, Stabilisierung mit Japanpapierfälzen in vorderem und hinterem Falz, Frass-Schäden an beiden Deckeln und dem hinterem Vorsatz, Stosskanten deformiert    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 10 von 10 Blättern, keine Rubrizierung    
+590      |a Zustand Buchblock: Zum Teil starke Verfleckung, Feuchtigkeitsränder    
+590      |a Zusammengebunden mit 10 weiteren Drucken in Sammelband    
+590      |a Historische Signatur auf vorderem Spiegel: "Hist: Eccl: 124." (vor dem "Hist:" die Zahl "224.", durchgestrichen)    
+590      |a Frühere Signaturen: Inc V 197; Inc 495; Hortin [E spiegelverkehrt] I R 15    
+700 1    |a Higman, Johannes    |d ca. 2. Hälfte 15. Jahrhundert    |0 (DE-588)1037573684    |e Drucker    |4 prt    
+700 1    |a Hopyl, Wolfgang    |d -1522    |0 (DE-588)131496255    |e Drucker    |e Buchhändler    |4 prt    |4 bsl    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+751      |a Paris    |0 (DE-588)4044660-8    
+852 4    |b B404    |c 404U3    |j MUE Bong I 522 : 7    |9 (41SLSP_UBE)99116867948305511    
+856 4    |u https://doi.org/10.3931/e-rara-88394    |z Digitalisat in e-rara    
+900      |a IDSIxunikat    
+900      |a IDSIxhybrid-el    
+900      |a NOMERGEALEX    
+949      |i ZB Inc V 197 : 7    |c 404U3    |z Zusammengebunden mit 10 weiteren Drucken in Sammelband    |p 12    |j MUE Bong I 522 : 7    |b B404    |9 (41SLSP_UBE)99116867948305511    
+986      |a (41SLSP_UBE)99116867948305511    |9 (41SLSP_UBE)99116867948305511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116867948305511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116867948305511    
+990      |f erarabe    |9 local    |9 (41SLSP_UBE)99116867948305511    
+990      |f lza-cc0    |9 local    |9 (41SLSP_UBE)99116867948305511    
+991      |a Bongars: 12921    |5 IZ UBE/B400/30.07.2010    |9 local    |9 (41SLSP_UBE)99116867948305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

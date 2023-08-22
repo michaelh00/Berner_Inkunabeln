@@ -1,0 +1,139 @@
+﻿<-1-1-START->
+Margarita Decretalium
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Gedicht von Sebastian Brant an Nicolaus Kessler auf der Rückseite der Titelseite<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Basel: Nicolaus Kessler, nicht vor 1496]
+<-3-1-STOP->
+
+<-4-1-START->
+111 ungezählte Seiten: Druckermarke; 22 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_A-549.html<-L-5-STOP-><-VI-5-START->BSB-Ink A-549<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M20971.htm<-L-5-STOP-><-VI-5-START->GW M20971<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/im00264000<-L-5-STOP-><-VI-5-START->ISTC im00264000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+56 von 56 Blättern, rot oder blau ausgezeichnete Initialen (ausser auf Blatt A₂ recto), Rubrizierung nur auf der Rückseite der Titelseite
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Pergamenteinband auf Kartondeckeln mit durchzogenen Bünden (20. Jahrhundert); Buchbinder: Johann Lindt
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Hans Steinwachs; Kloster Petershausen
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116782507305511<-L-11-STOP-><-VI-11-START->MUE Inc V 202<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991009864819705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Brant, Sebastian<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Kessler, Nicolaus<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-P-START->Lindt, Johann<-P-STOP->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Steinwachs, Hans<-P-STOP->
+<-P-START->Kloster Petershausen<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991009864819705501<-DOI-STOP->
+<-SIGN-START->MUE Inc V 202<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04215nam a2200577 c 4500
+001 991009864819705501
+005 20221214140933.0
+008 181026s1496    sz |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/26.10.2018/B404/vha    
+035      |a (swissbib)075092484-41slsp_network    
+035      |a 075092484    |9 ExL    
+035      |a (IDSBB)006842469DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991009864819705501    
+035      |a (41SLSP_UBE)99116782507305511    |9 (41SLSP_UBE)99116782507305511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+130 0    |a Margarita Decretalium    |0 (DE-588)1170203167    
+245 1 0  |a Margarita Decretaliu[m]    
+246 1    |i Incipit    |a Incipiu[n]t annotatio[n]es siue reportationes margaritaru[m] omniu[m] decretatliu[m] s[ecundu]m alphabeti ordinem    
+246 1    |i Incipit in normalisierter Form    |a Incipiunt annotationes sive reportationes Margaritarum omnium decretatlium secundum alphabeti ordinem    
+246 1 0  |a Annotationes sive reportationes Margaritarum omnium decretatlium secundum alphabeti ordinem    
+246 1    |i Kolophon    
+246 1    |i Titel gemäss ISTC    |a Annotationes Margaritarum Decretalium    
+264   1  |a [Basel]    |b [Nicolaus Kessler]    |c [nicht vor 1496]    
+300      |a 111 ungezählte Seiten    |c 22 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Gedicht von Sebastian Brant an Nicolaus Kessler auf der Rückseite der Titelseite ("Sebastianus Brant Nicolao Keßler ciui Basilien[si] salute[m]")    
+500      |a Druckermarke von Nicolaus Kessler auf letztem Blatt recto    
+500      |a Datierung aufgrund der Anrede Kesslers als "Consul" im Gedicht von Brant; Kessler wurde am 19.06.1496 erstmals Consul (Ratsherr) in Basel (vergleiche GW)    
+500      |a Signaturformel: A-H⁶, I⁸    
+500      |a Blatt I₈ verso unbedruckt    
+510 4    |a BSB-Ink    |c A-549    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_A-549.html    
+510 4    |a GW    |c M20971    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M20971.htm    
+510 4    |a ISTC    |c im00264000    |u http://data.cerl.org/istc/im00264000    
+530      |a Digitalisat (Exemplar der Universitätsbibliothek Basel)    |u http://doi.org/10.3931/e-rara-15836    
+561      |a Stempel auf der Rückseite der Titelseite: "Monasterii Petridom[us]" (mit Klosterwappen)    
+561      |a 1934 von der Stadtbibliothek in einer Auktion bei Gutekunst & Klipstein, Bern, erworben aus der Bibliothek Steinwachs (Hans Steinwachs)    
+563      |a Einbandbeschreibung: Ganzbezogener Pergamenteinband auf Kartondeckeln mit durchzogenen Bünden (20. Jahrhundert); Stempel auf hinterem Spiegel: "J. Lindt, Liebefeld", in Graphit davor: "1934"    
+563      |a Vorsätze: vorne und hinten mit zwei fliegenden Blättern    
+563      |a Masse Einband: 21.3 x 15.9 x 1.9 cm    
+563      |a Zustand Einband: Deckel leicht nach aussen verzogen    
+590      |a Buchblockbeschreibung: 56 von 56 Blättern, Papierfälze zwischen Lagen A und B sowie H und I gehören zur Vorsatzkonstruktion; rot oder blau ausgezeichnete Initialen, vorgesehene Stelle für Initiale auf Blatt A₂ recto freigelassen, Rubrizierung nur auf der Rückseite der Titelseite (Gedicht von Sebastian Brant)    
+590      |a Zustand Buchblock: Blatt A₁ verso mit Japanpapier stabilisiert und Fehlstellen an folgenden Blättern mit Japanpapier hinterklebt, letztes Blatt I₈ verso halbseitig mit Büttenpapier kaschiert, starker Abrieb an blauem Farbmittel der ausgezeichneten Initialen, zum Teil starke Feuchtigkeitsränder, Knicke und Stauchungen in der ersten Buchblockhälfte    
+700 1    |a Brant, Sebastian    |d 1458-1521    |0 (DE-588)118514474    |e Herausgeber    |e Widmender    |4 edt    |4 dto    
+700 1    |a Kessler, Nicolaus    |d 1445-1519    |0 (DE-588)137735677    |e Drucker    |4 prt    
+700 1    |a Lindt, Johann    |d 1899-1977    |0 (DE-588)114933774    |e Buchbinder    |4 bnd    
+700 1    |a Steinwachs, Hans    |d 1880-1934    |0 (DE-588)1020031050    |e Früherer Eigentümer    |4 fmo    
+710 2    |a Kloster Petershausen    |0 (DE-588)4427700-3    |e Früherer Eigentümer    |4 fmo    
+710 2    |a Gutekunst und Klipstein    |g Firma    |0 (DE-588)33226-4    |e Verkäufer    |4 sll    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc V 202    |9 (41SLSP_UBE)99116782507305511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc V 202    |b B404    |9 (41SLSP_UBE)99116782507305511    
+986      |a (41SLSP_UBE)99116782507305511    |9 (41SLSP_UBE)99116782507305511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116782507305511    
+991      |a AAK: 575577    |5 IZ UBE/26.10.2018/B404/vha    |9 local    |9 (41SLSP_UBE)99116782507305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

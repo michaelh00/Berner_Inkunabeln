@@ -1,0 +1,147 @@
+﻿<-1-1-START->
+Hieronymus, Sophronius Eusebius
+<-1-1-STOP->
+
+<-1-2-START->
+Epistulae
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit einer "Vita S. Hieronymi" (anonym), und Beigaben vom Herausgeber Theodorus de Lellis (gemäss GW und ISTC)<-500-STOP->
+<-500-START->Holzschnitt auf der Rückseite der Titelseite von Band (Pars) 1, gemäss BSB-Ink Kopie nach Albrecht Dürer<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Basel: Nicolaus Kessler, 1497
+<-500-START->Gemäss Kolophon in Pars 3, übertragen vom Digitalisat der Universitätsbibliothek Leuven<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+3 Bände: 1 Illustration; 33 cm (2°)
+<-500-START->Band 1: 302 ungezählte Seiten, 1 ungezähltes Blatt (leer)<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_H-255.html<-L-5-STOP-><-VI-5-START->BSB-Ink H-255<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/GW12436.htm<-L-5-STOP-><-VI-5-START->GW 12436<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ih00176000<-L-5-STOP-><-VI-5-START->ISTC ih00176000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+Band 1: 152 von 152 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein, 15./16. Jahrhundert) mit zwei Messingschliessen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln; Buchbinder: Jakob Spindler (oder Spidler), Basel, um 1505 (gemäss Johann Lindt)
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Band 2 und 3 fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116857424205511<-L-11-STOP-><-VI-11-START->MUE Inc II 61<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991098743929705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Hieronymus, Sophronius Eusebius<-P-STOP->
+<-P-START->Lellis, Theodorus de<-P-STOP->
+<-P-START->Dürer, Albrecht<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Kessler, Nicolaus<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-P-START->Spindler, Jakob<-P-STOP->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991098743929705501<-DOI-STOP->
+<-SIGN-START->MUE Inc II 61<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05006nam a22006377c 4500
+001 991098743929705501
+005 20211215184635.0
+008 130410s1497    sz            00| | lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/23.07.2014/B400/vha    
+035      |a (swissbib)064260208-41slsp_network    
+035      |a 064260208    |9 ExL    
+035      |a (IDSBB)006103535DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991098743929705501    
+035      |a (41SLSP_UBE)99116857424205511    |9 (41SLSP_UBE)99116857424205511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Hieronymus, Sophronius Eusebius    |d 345-420    |0 (DE-588)118550853    |e Verfasser    |4 aut    
+240 1 0  |a Epistulae    
+245 1 0  |a Liber Epistolarum sancti Hieronymi    
+246 1 0  |a Liber epistolarum    
+246 1    |i Incipit (Blatt a₂ recto)    |a Sancti Celeberrimoqve Ecclesiae Doctoris Sancti Hieronymi Epistolarvm Liber Foeliciter Incipit    
+246 1    |i Incipit in normalisierter Form    |a Sancti celeberrimoque ecclesiae doctoris Sancti Hieronymi epistolarum liber foeliciter incipit    
+246 1 0  |a Epistolarum liber    
+246 1    |i Titel gemäss GW und ISTC    |a Epistolae    
+264   1  |a Cui merito celebris vrbs ... Rheni condignum dat Basilea locum    |b ... Nicolaus viuere kesler Nomen perpetuo me facit ingenio    |c .M.CCCC.XCVII. [1497]    
+300      |a 3 Bände    |b 1 Illustration    |c 33 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Gemäss GW mit Beigaben von Theodorus Lellis, gemäss ISTC herausgegeben von Theodorus Lellis (Lelius oder Laelius)    
+500      |a Impressum gemäss Kolophon in pars 3 (übertragen vom Digitalisat der Universitätsbibliothek Leuven)    
+500      |a Signaturformel pars [1]: a–y⁶, z⁸, ²a–b⁶    
+500      |a Blätter z₈ und ²b₆ unbedruckt    
+500      |a Illustration auf der Rückseite der Titelseite von pars [1] (Hieronymus zieht dem Löwen den Dorn aus der Tatze); gemäss BSB-Ink Kopie nach Albrecht Dürer    
+505 0 0  |g Auf eigener Titelseite (Blatt ²a₁ recto)    |t Inventvarivm Primae Partis Epistolarvm Sancti Hieronymi    |g In normalisierter Form    |t Inventuarium primae partis epistolarum Sancti Hieronymi    |g Blätter ²b₃ recto - ²b₅ verso    |t Vita Sancti Hieronymi    
+510 4    |a BSB-Ink    |c H-255    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_H-255.html    
+510 4    |a GW    |c 12436    |u https://www.gesamtkatalogderwiegendrucke.de/docs/GW12436.htm    
+510 4    |a ISTC    |c ih00176000    |u http://data.cerl.org/istc/ih00176000    
+530      |a Digitalisat (Exemplar der Universitäts- und Landesbibliothek Darmstadt; nur pars 1 und 2)    |u http://tudigit.ulb.tu-darmstadt.de/show/inc-iv-604/0001    
+530      |a Digitalisat (Exemplar der Universitätsbibliothek Leuven; dort Inventarium und Vita - Blätter ²a–b⁶ - an den Anfang gebunden)    |u http://depot.lias.be/delivery/DeliveryManagerServlet?dps_pid=IE12587304    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein, 15./16. Jahrhundert) mit zwei Messingschliessen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln; Titel in Tinte auf dem Rücken: "Prima pars S. Jhero:"; Aufschrift in Tinte am oberen Rand des Vorderdeckels unleserlich; gemäss Johann Lindt ist der Einband von Jakob Spidler oder Spindler, Basel, um 1505)    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 32.8 x 23.0 x 4.6 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, Japanpapierüberklebung in den Fälzen beider Vorsätze    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: Pars [1]: 152 von 152 Blättern, pars 2: 0 von 178 Blättern, pars 3: 0 von 202 Blättern; Papierfalz nach Lage a und vor Lage ²b gehört zur Vorsatzkonstruktion; vorgesehene Stellen für Initialen frei gelassen, keine Rubrizierung    
+590      |a Zustand Buchblock: Fehlstellen an Blättern q₆, z₄ und z₅ (jeweils am Rand ein Stück vom Blatt ausgerissen, ohne Textverlust)    
+590      |a Unvollständiges Exemplar: Nur pars [1] vorhanden    
+590      |a Handschriftliche Annotationen von zwei Händen (die eine in roter, die andere in schwarzer Tinte)    
+590      |a Historische Signatur auf vorderem Spiegel: "Patr: No. 207.", darunter: "171."    
+590      |a Frühere Signatur: Inc 18 (im Band zunächst "15" geschrieben, durchgestrichen und daneben "18")    
+700 1 2  |a Hieronymus, Sophronius Eusebius    |d 345-420    |t Epistulae    |0 (DE-588)4329905-2    
+700 1    |a Lellis, Theodorus <<de>>    |d 1427-1466    |0 (DE-588)104366222    |e Herausgeber    |4 edt    
+700 1    |a Kessler, Nicolaus    |d 1445-1519    |0 (DE-588)137735677    |e Drucker    |e Buchhändler    |4 prt    |4 bsl    
+700 1    |a Spindler, Jakob    |d ca. 15. Jh.    |0 (DE-588)102513575X    |e Buchbinder    |4 bnd    
+730 0    |a Vita s. Hieronymi    |0 (DE-588)1212219643    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc II 61    |9 (41SLSP_UBE)99116857424205511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc II 61    |b B404    |9 (41SLSP_UBE)99116857424205511    
+986      |a (41SLSP_UBE)99116857424205511    |9 (41SLSP_UBE)99116857424205511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116857424205511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

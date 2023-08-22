@@ -1,0 +1,138 @@
+﻿<-1-1-START->
+Codex Iustinianus
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Zusammengestellt im Auftrag von Kaiser Justinian I.<-500-STOP->
+<-500-START->Mit der Glossa ordinaria des Franciscus Accursius (Senior) und Summaria von Girolamo Chiari (Hieronymus Clarius)<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Battista Torti, 10.01.1493 more Veneto, das heisst 1494
+<-3-1-STOP->
+
+<-4-1-START->
+316 Blätter, 2 ungezählte Blätter: Druckermarke; 45 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://gesamtkatalogderwiegendrucke.de/docs/GW07741.htm<-L-5-STOP-><-VI-5-START->GW 07741<-VI-5-STOP->; <-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_C-572.html<-L-5-STOP-><-VI-5-START->BSB-Ink C-572<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ij00583000<-L-5-STOP-><-VI-5-START->ISTC ij00583000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+318 von 318 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (gelb-braun, Velours), mit Schliessen (2 von 4 Schliessen rekonstruiert) sowie Eck- und Mittelbeschlägen
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116871026405511<-L-11-STOP-><-VI-11-START->MUE Inc II 8<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991105064719705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Justinian I. (Kaiser von Byzanz)<-P-STOP->
+<-P-START->Accursius, Franciscus (Senior)<-P-STOP->
+<-P-START->Chiari, Girolamo<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Torti, Battista<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991105064719705501<-DOI-STOP->
+<-SIGN-START->MUE Inc II 8<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04104nam a2200589 c 4500
+001 991105064719705501
+005 20211215175743.0
+008 160223q14931494it ||||| l    00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/23.02.2016/B404/vha    
+035      |a (swissbib)070400989-41slsp_network    
+035      |a 070400989    |9 ExL    
+035      |a (IDSBB)006482446DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991105064719705501    
+035      |a (41SLSP_UBE)99116871026405511    |9 (41SLSP_UBE)99116871026405511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+130 0    |a Codex Iustinianus    |0 (DE-588)4127108-7    
+245 1 0  |a Codicis domini Justiniani sacratissimi principis perpetui Augusti iuris ... incipit [con]stitutio prima    
+246 1    |i Erste Seite    |a Codex de tortis    
+246 1    |i Incipit mit religiöser Formel    |a [I]n nomine domini nostri iesu christi Codicis domini Justiniani sacratissimi principis perpetui Augusti iuris ... incipit [con]stitutio prima    
+246 1    |i Titel gemäss BSB-Ink    |a Corpus iuris civilis    |p Codex. Liber 1-9    
+246 1    |i Titel gemäss ISTC    |a Codex Justinianus    
+246 1    |i Titel in normalisierter Form    |a Codicis domini Iustiniani sacratissimi principis perpetui Augusti iuris ... incipit constitutio prima    
+264   1  |a Venetijs    |b per Baptistam de tortis    |c M.cccc.lxxxxiii. die x. Januarij. [10.01.1493 more Veneto, das heisst 1494]    
+300      |a 316 Blätter, 2 ungezählte Blätter    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Titel gemäss Incipit (rot gedruckt) auf Blatt 2    
+500      |a Zusammengestellt im Auftrag Justinians I.    
+500      |a Mit der Glossa ordinaria des Accursius und Summaria von Hieronymus Clarius (Girolamo Chiari)    
+500      |a Impressum gemäss Kolophon    
+500      |a Druckermarke am Ende    
+500      |a Rot- und Schwarzdruck, Initialen, Rubrizierung sowie Druckermarke am Ende rot gedruckt    
+500      |a Signaturformel: a-z⁸, [et]⁸, [con]⁸, [orum]⁸, A-N⁸, O⁶    
+500      |a Seite O₆ verso (letzte Seite) unbedruckt    
+510 4    |a GW    |c 07741    |u http://gesamtkatalogderwiegendrucke.de/docs/GW07741.htm    
+510 4    |a BSB-Ink    |c C-572    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_C-572.html    
+510 4    |a ISTC    |c ij00583000    |u http://data.cerl.org/istc/ij00583000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00050257/image_3    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (gelb-braun, Velours), mit Schliessen (2 von 4 Schliessen rekonstruiert) sowie Eck- und Mittelbeschlägen; auf dem Rücken Titel in Tinte (stark abgerieben, unleserlich) mit Druckort und -jahr: "Venet. 1493"    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 45 x 30.5 x 8.5 cm    
+563      |a Zustand Einband: Lederbezug am Rücken und am Vorderdeckel im unteren Fünftel mit eingefärbtem Gewebe unterlegt, 2 von ursprünglich 4 Schliessen komplett ergänzt, Reste von Schliessenriemen an Stehkanten des Vorderdeckels, ein Eckbeschlag am Vorderdeckel und 2 Eckbeschläge am Rückdeckel fehlend, zahlreiche Abspaltugen im Überzugsleder, Schädlingsfrass    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 318 von 318 Blättern, Fälze hinter Blatt a₈ und vor Blatt O₁ von Vorsatzkonstruktion    
+590      |a Zustand Buchblock: Schädlingsfrass in vorderem und hinterem Teil    
+590      |a Historische Signatur auf der ersten Seite: "Jurid. Polit. 15"    
+700 0    |a Justinian    |b I.    |c Byzantinisches Reich, Kaiser    |d 482-565    |0 (DE-588)11855896X    |e Auftraggeber    |4 pat    
+700 1    |a Accursius, Franciscus    |c Senior    |d 1185-1263    |0 (DE-588)100956599    |e Kommentarverfasser    |4 wac    
+700 1    |a Chiari, Girolamo    |0 (DE-588)119642271    |e Kommentarverfasser    |4 wac    
+700 1    |a Torti, Battista    |0 (DE-588)134140680    |e Drucker    |4 prt    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Inc II 8    |9 (41SLSP_UBE)99116871026405511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc II 8    |b B404    |9 (41SLSP_UBE)99116871026405511    
+986      |a (41SLSP_UBE)99116871026405511    |9 (41SLSP_UBE)99116871026405511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116871026405511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

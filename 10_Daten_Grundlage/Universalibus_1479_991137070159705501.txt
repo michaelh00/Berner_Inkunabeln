@@ -1,0 +1,135 @@
+﻿<-1-1-START->
+De universalibus
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Fälschlicherweise Thomas von Aquin zugeschrieben<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Straßburg: Heinrich Eggestein, um 1479]
+<-500-START->BSB-Ink gibt als Druckjahr 1479/80 an, GW 1475<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 30 ungezählte Seiten; 23 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_T-321.html<-L-5-STOP-><-VI-5-START->BSB-Ink T-321<-VI-5-STOP->; <-L-5-START->https://gesamtkatalogderwiegendrucke.de/docs/M46537.htm<-L-5-STOP-><-VI-5-START->GW M46537<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/it00335500<-L-5-STOP-><-VI-5-START->ISTC it00335500<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+7 von 16 Blättern, rot ausgezeichnete Initialen auf den Blättern [a₂] recto (Schmuckinitiale) und [a₇] recto, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, 18./19. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Copulata tractatuum Petri Hispani etiam parvorum logicalium et syncategorematum cum textu / Lambertus de Monte Domini. - [Köln : Heinrich Quentell], 06.-07.04.1490
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Blatt [a₁] und Lage [b] fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116892652305511<-L-11-STOP-><-VI-11-START->MUE Inc IV 33 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991137070159705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Thomas von Aquin<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Eggestein, Heinrich<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991137070159705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 33 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03601nam a2200553 c 4500
+001 991137070159705501
+005 20211215201050.0
+008 170509s1479    fr |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/09.05.2017/B404/az    
+035      |a (swissbib)074547224-41slsp_network    
+035      |a 074547224    |9 ExL    
+035      |a (IDSBB)006697695DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991137070159705501    
+035      |a (41SLSP_UBE)99116892652305511    |9 (41SLSP_UBE)99116892652305511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+130 0    |a De universalibus    |0 (DE-588)1197080112    
+245 1 0  |a Sancti thome de aquino doctoris incliti tractatus de vniversalibus    
+246 1    |i Titel in normalisierter Form    |a Sancti Thome de Aquino doctoris incliti tractatus de universalibus    
+246 1 0  |a Tractatus de universalibus    
+246 1    |i Titel in BSB-Ink    |a De universalibus "Quoniam dicit"    
+246 1    |i Titel in GW    |a De universalibus    |b De quattuor causis ; De motu cordis    
+246 1    |i Titel in ISTC    |a Tractatus de universalibus, de quatuor causis, de motu cordis    
+264   1  |a [Strassburg]    |b [Heinrich Eggestein]    |c [um 1479]    
+300      |a 1 ungezähltes Blatt, 30 ungezählte Seiten    |c 23 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Fälschlicherweise Thomas von Aquin zugeschrieben    
+500      |a Druckort und Drucker gemäss BSB-Ink, GW und ISTC; Druckjahr gemäss ISTC; BSB-Ink gibt 1479/80 an, GW 1475    
+500      |a Signaturformel: [a-b⁸]    
+500      |a Blatt [a₁] und Blatt [b₈] verso sind unbedruckt    
+505 1 0  |g Blatt [a₆] verso    |t Sancti thome de aquino doctoris incliti de quatuor causis    
+505 1 0  |g Blatt [b₄] verso    |t Sancti thome de aquino doctoris incliti de motu cordis    
+510 4    |a BSB-Ink    |c T-321    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_T-321.html    
+510 4    |a GW    |c M46537    |u https://gesamtkatalogderwiegendrucke.de/docs/M46537.htm    
+510 4    |a ISTC    |c it00335500    |u https://data.cerl.org/istc/it00335500    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0006/bsb00064545/images    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, 18./19. Jahrhundert), Titelschild in Goldprägung auf dem Rücken: "Petri Hispani. Opera."    
+563      |a Vorsatz: Vorne mit einem und hinten mit zwei fliegenden Blättern    
+563      |a Masse: 21.2 x 15.8 x 6.8 cm    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 7 von 16 Blättern, rot ausgezeichnete Initialen auf den Blättern [a₂] recto (Schmuckinitiale) und [a₇] recto, Rubrizierung (rote Paragraphenzeichen)    
+590      |a Zustand Buchblock: Starke Gebrauchspuren, Feuchtigkeitsränder am Vorderschnitt, Papierüberklebungen an Vorderkanten der beiden letzten Blätter, letztes Blatt an Lage gehängt (verklebt)    
+590      |a Unvollständiges Exemplar: Blatt [a₁] und Lage [b] fehlen    
+590      |a Wenige handschriftliche Annotationen in roter Tinte    
+590      |a Zusammengebunden mit: Johannes XXI., Papst: Copulata tractatuum Petri Hispani etiam parvorum logicalium et syncategorematum cum textu. - [Köln] : [Quentell], [8.4.1490]    
+700 0    |a Thomas    |c von Aquin, Heiliger    |d 1225-1274    |0 (DE-588)118622110    |e Verfasser    |4 aut    
+700 1    |a Eggestein, Heinrich    |d 1415-1488    |0 (DE-588)100965024    |e Drucker    |4 prt    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 33 : 2    |9 (41SLSP_UBE)99116892652305511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit einem weiteren Werk    |p 12    |j MUE Inc IV 33 : 2    |b B404    |9 (41SLSP_UBE)99116892652305511    
+986      |a (41SLSP_UBE)99116892652305511    |9 (41SLSP_UBE)99116892652305511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116892652305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

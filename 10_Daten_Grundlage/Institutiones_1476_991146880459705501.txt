@@ -1,0 +1,153 @@
+﻿<-1-1-START->
+Institutiones
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Zusammengestellt im Auftrag Justinians I.<-500-STOP->
+<-500-START->Mit der Glossa ordinaria des Accursius<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Basel: Michael Wenssler, 31.05.1476
+<-500-START->Druckvariante zu den digitalisierten Basler und Düsseldorfer Exemplaren, siehe z.B. Blatt a₂, rechte Spalte Kommentar, Zeile 1: "... armo[rum] attribuit ..."; Basel: "... arma[rum] attribuu[n]t ...", Düsseldorf: "... armo[rum] attribuu[n]t ..."<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+211 ungezählte Seiten: Druckermarke; 42 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_C-634.html<-L-5-STOP-><-VI-5-START->BSB-Ink C-634<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW07591.htm<-L-5-STOP-><-VI-5-START->GW 07591<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ij00513000<-L-5-STOP-><-VI-5-START->ISTC ij00513000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+106 von 106 Blättern, rot und blau ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen sowie Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Johannes Büchler; Kloster Thorberg
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Libri feudorum. [Basel: Michael Wenssler, um 1478?]
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116748531305511<-L-11-STOP-><-VI-11-START->MUE Inc II 17 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991146880459705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Justinian I. (Kaiser von Byzanz)<-P-STOP->
+<-P-START->Accursius, Franciscus (Senior)<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Wenssler, Michael<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Büchler, Johannes<-P-STOP->
+<-P-START->Kloster Thorberg<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991146880459705501<-DOI-STOP->
+<-SIGN-START->MUE Inc II 17 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05809nam a2200697 c 4500
+001 991146880459705501
+005 20211215194637.0
+007 cr#|||||||||||
+008 170531s1476    sz ||||| l    00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/31.05.2017/B404/faf    
+024 7    |a 10.3931/e-rara-92275    |2 doi    
+035      |a (swissbib)069686122-41slsp_network    
+035      |a 069686122    |9 ExL    
+035      |a (IDSBB)006703224DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991146880459705501    
+035      |a (41SLSP_UBE)99116748531305511    |9 (41SLSP_UBE)99116748531305511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+130 0    |a Institutiones    |0 (DE-588)4148320-0    
+245 1 0  |a Justiniani Cesaris preclarissimum institutionu[m] op[us]    
+246 1    |i Incipit (Kommentar)    |a In no[m]i[n]e d[omi]ni n[ost]ri i[es]u chr[ist]i ...    
+246 1    |i Incipit (Text)    |a In nomine d[omi]ni n[ost]ri i[es]u chr[ist]i Imp[erato]r cesar flau[us] iustinian[us] ... Incipit liber prim[us] d[omi]ni Justiniani Imp[er]atoris i[n]stitucionum seu elementorum    
+246 1    |i Titel gemäss BSB-Ink    |a Corpus iuris civilis    |p Institutiones    
+246 1    |i Titel gemäss GW    |a Corpus iuris civilis    |p Iustiniani Institutiones    
+246 1    |i Titel in normalisierter Form    |a Iustiniani Cesaris preclarissimum institutionum opus    
+264   1  |a In celebratissima vrbe Basilie[n]si ...    |b impressum est per Mihahelem Wenßler    |c expletum deniq[ue] Anno nostre salutis septuagesimo sexto p[ost] millesimu[m] et quadringe[n]tesimum pridie kalendas Iunij [31.05.1476]    
+300      |a 211 ungezählte Seiten    |c 42 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+337      |b c    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+338      |b cr    |2 rdacarrier    
+500      |a Zusammengestellt im Auftrag Justinians I.    
+500      |a Mit der Glossa ordinaria des Accursius    
+500      |a Keine Titelseite, Titel und Impressum gemäss Kolophon; darunter zusätzliches Impressum in Gedichtform    
+500      |a Druckvariante zu den digitalisierten Basler und Düsseldorfer Exemplaren, siehe z.B. Blatt a₂, rechte Spalte Kommentar, Zeile 1: "... armo[rum] attribuit ..."; Basel: "... arma[rum] attribuu[n]t ...", Düsseldorf: "... armo[rum] attribuu[n]t ..."    
+500      |a Druckermarke am Ende (rot gedruckt)    
+500      |a Rot- und Schwarzdruck    
+500      |a Signaturformel: [a¹⁰, b-c⁸, d¹⁰, e⁸, f¹⁰, g–l⁸, m-n⁶]    
+500      |a Blatt [a₁] recto ist unbedruckt    
+510 4    |a BSB-Ink    |c C-634    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_C-634.html    
+510 4    |a GW    |c 07591    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW07591.htm    
+510 4    |a ISTC    |c ij00513000    |u http://data.cerl.org/istc/ij00513000    
+561      |a Handschriftlicher Besitzvermerk auf vorderem Spiegel: "Liber Carthusie[nsium] In Torrberg/ p[ro]ueniens a Magistro Joanne Büchler d[e] Herrenb[er]g plebano ac d[e]cano In Walkringenn"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen sowie Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, verblassend in Tinte auf Vorderdeckel: "Jnstitutiones", auf Rücken rote Thorberg-Signatur (teils über Tintenschrift): "G LXIIII", dazu mit Tinte auf Pergamentschild: "Institut[i]o[n]es Justiniani." und verblassend direkt auf dem Leder: "Justiniani Element ..."    
+563      |a Vorsätze: Vorne mit einem fliegenden Blatt sowie 2 Papierfälzen und einem Pergamentfalz (Makulaturpergament); hinten mit einem fliegenden Blatt sowie 2 Papierfälzen    
+563      |a Masse Einband: 41.5 x 29.5 x 6 cm    
+563      |a Zustand Einband: Fehlstellen im Einbandleder vor der Blindprägung mit Leder unterlegt, Rostabdruck von vormaliger Kettenöse am Rückdeckel und den letzten Blättern, Lederüberklebung am unteren Häubchen    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 106 von 106 Blättern, handschriftliche Lagensignatur in Tinte, handschriftliche Foliierung in Rot auf Blatt [a₃]-[m₅] (II-XCVIII), Pergamentverstärkung in den Lagenmitten an den Heftstationen (auch in den Vorsätzen), rot und blau ausgezeichnete Initialen, Rubrizierung (rote und blaue Paragraphenzeichen), Kapiteltitel handschriftlich in Rot in Kopfzeile auf Recto- und einigen Versoseiten (Blatt [a₃]-[m₅]), teils fehlende Kapiteltitel im Text handschriftlich in Rot nachgetragen (z.B. Blatt [e₈] recto, fehlend auf Blatt [i₃] recto)    
+590      |a Zustand Buchblock (ganzer Sammelband): Craquelés in rotem Farbauftrag der Initialen, Ausbrüche im Blau mit dunklen Verfleckungen, Schädlingsfrass mit Fehlstellen und Einrissen an den letzten Blättern    
+590      |a Zusammengebunden mit: Libri feudorum. Basel : Michael Wenssler, um 1478    
+590      |a Historische Signatur auf vorderem Spiegel: "Jur: Pol: N: 40."; auf Blatt [a₂] recto: "Jur Pol 47"    
+590      |a Frühere Signatur: Inc 334    
+700 0    |a Justinian    |b I.    |c Byzantinisches Reich, Kaiser    |d 482-565    |0 (DE-588)11855896X    |e Auftraggeber    |4 pat    
+700 1    |a Accursius, Franciscus    |c Senior    |d 1185-1263    |0 (DE-588)100956599    |e Kommentarverfasser    |4 wac    
+700 1    |a Wenssler, Michael    |d 14XX-1512    |0 (DE-588)134121260    |e Drucker    |4 prt    
+700 1    |a Büchler, Johannes    |d 1450-1521    |0 (DE-588)1113671742    |e Früherer Eigentümer    |4 fmo    
+710 2    |a Kloster Thorberg    |0 (DE-588)7725716-9    |e Früherer Eigentümer    |4 fmo    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc II 17 : 1    |9 (41SLSP_UBE)99116748531305511    
+856 4    |u https://doi.org/10.3931/e-rara-92275    |z Digitalisat in e-rara    
+900      |a IDSIxunikat    
+900      |a IDSIxhybrid-el    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 1 weiteren Druck in Sammelband    |p 12    |j MUE Inc II 17 : 1    |b B404    |9 (41SLSP_UBE)99116748531305511    
+986      |a (41SLSP_UBE)99116748531305511    |9 (41SLSP_UBE)99116748531305511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116748531305511    
+990      |f erarabe    |9 local    |9 (41SLSP_UBE)99116748531305511    
+990      |f lza-cc0    |9 local    |9 (41SLSP_UBE)99116748531305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

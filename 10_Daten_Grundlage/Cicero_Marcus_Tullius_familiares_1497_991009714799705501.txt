@@ -1,0 +1,154 @@
+﻿<-1-1-START->
+Cicero, Marcus Tullius
+<-1-1-STOP->
+
+<-1-2-START->
+Ad familiares
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Kommentar von Hubertinus Crescentinas und Martino Filetico, einem Brief von Georgius Merula an Dominicus Sanutus, dem Argumentum epistolarum Ciceronis ad Lentulum von Merula, Auszügen aus der Miscellaneorum centuria prima von Angelo Poliziano und einem Brief von Hubertinus Crescentinas an Bonaccursius Pisanus<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Simone Bevilacqua, 1497
+<-3-1-STOP->
+
+<-4-1-START->
+463 ungezählte Seiten: Holzschnittinitialen; 33 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_C-346.html<-L-5-STOP-><-VI-5-START->BSB-Ink C-346<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW06853.htm<-L-5-STOP-><-VI-5-START->GW 06853<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ic00535000<-L-5-STOP-><-VI-5-START->ISTC ic00535000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+232 von 232 Blättern, Holzschnittinitialen teilweise rot koloriert, einzelne mit Feder gezeichnete Initialen
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen, Linien-, Ornamentstempel- und Ornamentrollen-Blindprägung auf beiden Deckeln, vermuteter Buchbinder: Johannes Chym
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Nicolaus Artopoeus
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116753527805511<-L-11-STOP-><-VI-11-START->MUE Artopoeus 15<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991009714799705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Cicero, Marcus Tullius<-P-STOP->
+<-P-START->Hubertinus Crescentinas<-P-STOP->
+<-P-START->Filetico, Martino<-P-STOP->
+<-P-START->Georgius Merula<-P-STOP->
+<-P-START->Poliziano, Angelo<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Bevilacqua, Simone<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-P-START->Chym, Johannes<-P-STOP->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Artopoeus, Nicolaus<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991009714799705501<-DOI-STOP->
+<-SIGN-START->MUE Artopoeus 15<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05784nam a2200721 c 4500
+001 991009714799705501
+005 20211215173625.0
+008 980528s1497    it            00| | lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/23.06.2020/B404/faf    
+035      |a (swissbib)031353533-41slsp_network    
+035      |a 031353533    |9 ExL    
+035      |a (IDSBB)001514052DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991009714799705501    
+035      |a (41SLSP_UBE)99116753527805511    |9 (41SLSP_UBE)99116753527805511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Cicero, Marcus Tullius    |d v106-v43    |0 (DE-588)118520814    |e Verfasser    |4 aut    
+240 1 0  |a Ad familiares    
+245 1 0  |a .M. Tulii Ciceronis Epistolarum familiarium libri sexdecim    |b ; Vbertini Clerici Cresentinatis Ciceronis epistolas commentarii. Martini Philetici in quasdam epistolas electas commentarii. Georgii Merulæ Alexandrini in epistolam ad Lentulum Spintherem accurata interprætatio. Addita sunt etiam nonnulla alia loca in libro miscelanearum per Angelum Politianum interprætata    
+246 1    |i Beginn der Titelseite    |a Hoc in uolumine hæc continentur. .M. Tulii Ciceronis Epistolarum familiarium libri sexdecim ...    
+246 1    |i Beginn der Titelseite in normalisierter Form    |a Hoc in volumine hæc continentur. M. Tulii Ciceronis epistolarum familiarium libri sexdecim ...    
+246 1 0  |a Epistolarum familiarium libri sexdecim    
+246 1    |i Titel gemäss BSB-Ink    |a Epistulae ad familiares    
+246 1    |i Titel gemäss GW und ISTC    |a Epistolae ad familiares    
+264   1  |a Impressum Venetiis    |b p[er] Simonem Biuilaquam Papiensem    |c Anno d[omi]ni .M.cccc.Lxxxxvii. [1497]    
+300      |a 463 ungezählte Seiten    |c 33 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit einem Brief von Georgius Merula an Dominicus Sanutus und einem Brief von Hubertinus Crescentinas an Bonaccursius Pisanus    
+500      |a Impressum gemäss Kolophon    
+500      |a Signaturformel: aa⁴, a–z⁸, &⁸, [con]⁶, [rum]⁶, A–D⁶    
+500      |a Teilweise Holzschnittinitialen    
+510 4    |a BSB-Ink    |c C-346    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_C-346.html    
+510 4    |a GW    |c 06853    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW06853.htm    
+510 4    |a ISTC    |c ic00535000    |u http://data.cerl.org/istc/ic00535000    
+530      |a Digitalisat (Exemplar der Biblioteca Nacional de Portugal)    |u http://purl.pt/32288    
+561      |a Handschriftlicher Besitzvermerk auf Titelseite: "Sum Nicólai Artopoei Balingij"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen, Linien-, Ornamentstempel- und Ornamentrollen-Blindprägung auf beiden Deckeln, verblasste Tintenschrift auf dem Rücken; Buchbinder gemäss Lindt vielleicht Johannes Chym    
+563      |a Vorsätze: Vorne und hinten ohne fliegende Blätter    
+563      |a Masse Einband: 32.8 x 21.5 x 5.1 cm    
+563      |a Zustand Einband: Verbräunung am Rücken von abgelöster Lederüberklebung (siehe handschriftlicher Eintrag von Johann Lindt in vorderem Deckel), Schädlingsfrass an vorderem Spiegel, Überklebungen mit dünnem Velourpergament an beiden Spiegeln    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 232 von 232 Blättern, handschriftliche Paginierung in Tinte von Blatt a₁ recto bis y₃ recto: 1-442 (mit Sprung von 267 auf 368, Seitenzahl 388 ausgelassen), vorgesehene Stellen für Initialen frei gelassen (einige Holzschnittinitialen rot koloriert, mit Feder gezeichnete Initialen auf den Blättern d₅ verso und d₆ verso)    
+590      |a Zustand Buchblock: Schädlingsfrass mit Textverlust an den ersten und letzten Blättern, Blatt aa₁ mit alten Überklebungsspuren und Fehlstellen im Falz, Blatt D₆ als Spiegel auf dem Rückdeckel verklebt (unterhalb der Ledereinschläge), Heftung in Lage [rum] teilweise gerissen    
+590      |a Zahlreiche handschriftliche Annotationen und Unterstreichungen von Artopoeus in Tinte, teilweise auf Deutsch    
+590      |a Historische Signatur auf vorderem Spiegel: "Lit. N 131.", Zahl korrigiert zu "152."    
+590      |a Frühere Signaturen: Inc 204; Inc I 38    
+600 1 4  |a Cicero, Marcus Tullius    |d v106-v43    |t Ad familiares    
+600 1 4  |a Cicero, Marcus Tullius    |d v106-v43    
+655   4  |a Kommentar    
+700 0    |a Hubertinus    |c Crescentinas    |d 1405-1500    |0 (DE-588)100746950    |e Kommentarverfasser    |e Verfasser von ergänzendem Text    |4 wac    |4 wst    
+700 1    |a Filetico, Martino    |d 1430-1490    |0 (DE-588)119012316    |e Kommentarverfasser    |4 wac    
+700 0    |a Georgius    |c Merula    |d 1430-1494    |0 (DE-588)100942415    |e Kommentarverfasser    |e Verfasser von ergänzendem Text    |4 wac    |4 wst    
+700 1    |a Poliziano, Angelo    |d 1454-1494    |0 (DE-588)118595512    |e Kommentarverfasser    |4 wac    
+700 1    |a Bevilacqua, Simone    |d 1450-1518    |0 (DE-588)128983388    |e Drucker    |4 prt    
+700 1    |a Chym, Johannes    |d 148X-1547    |0 (DE-588)1077056486    |e Buchbinder    |4 bnd    
+700 1    |a Artopoeus, Nicolaus    |d 1500-1553    |0 (DE-588)128632380    |e Früherer Eigentümer    |e Annotierende Person    |4 fmo    |4 ann    
+700 1 2  |a Cicero, Marcus Tullius    |d v106-v43    |t Ad familiares    
+700 0 2  |a Hubertinus    |c Crescentinas    |d 1405-1500    |t In Epistolas Ciceronis commentum    |0 (DE-588)1212465385    
+700 1 2  |a Filetico, Martino    |d 1430-1490    |t In quasdam epistolas electas commentarii    |0 (DE-588)1212466519    
+700 0 2  |a Georgius    |c Merula    |d 1430-1494    |t Argumentum epistolarum Ciceronis ad Lentulum    |0 (DE-588)1213993024    
+700 1 2  |a Poliziano, Angelo    |d 1454-1494    |t Miscellaneorum centuria prima    |k Auswahl    |0 (DE-588)1214001203    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Artopoeus 15    |9 (41SLSP_UBE)99116753527805511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc I 38    |c 404U3    |p 12    |j MUE Artopoeus 15    |b B404    |9 (41SLSP_UBE)99116753527805511    
+986      |a (41SLSP_UBE)99116753527805511    |9 (41SLSP_UBE)99116753527805511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116753527805511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

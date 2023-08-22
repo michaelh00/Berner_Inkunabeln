@@ -1,0 +1,151 @@
+﻿<-1-1-START->
+Liber aggregationis seu liber secretorum Alberti Magni de virtutibus herbarum, lapidum et animalium quorundam
+<-1-1-STOP->
+
+<-1-2-START->
+. — De mirabilibus mundi. — Regula ad sciendum ortum lunae
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Die anonymem Werke "Liber aggregationis" und "De mirabilibus mundi" werden fälschlich Albertus Magnus zugeschrieben<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Straßburg: Drucker des Breviarium Ratisponense ("Georgius de Spira"), um 1480]
+<-500-START->Früher auch Johann und Conrad Hist in Speyer zugeschrieben<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+63 ungezählte Seiten: Holzschnittinitiale; 22 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW00622.htm<-L-5-STOP-><-VI-5-START->GW 00622<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ia00255000<-L-5-STOP-><-VI-5-START->ISTC ia00255000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+32 von 32 Blättern, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (rot eingefärbt, Ziege), Verschlussbänder fehlend, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 5 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116735844505511<-L-11-STOP-><-VI-11-START->MUE Inc III 68 : 4<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991001969999705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Albertus Magnus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Drucker des Breviarium Ratisponense ("Georgius de Spira")<-P-STOP->
+<-O-START->Speyer<-O-STOP->
+<-P-START->Hist, Johann<-P-STOP->
+<-O-START->Speyer<-O-STOP->
+<-P-START->Hist, Conrad<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991001969999705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 68 : 4<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04744nam a2200673 c 4500
+001 991001969999705501
+005 20211215172347.0
+007 cr#|||||||||||
+008 180704s1480    fr |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/04.07.2018/B404/faf    
+024 7    |a 10.3931/e-rara-91664    |2 doi    
+035      |a (swissbib)071037896-41slsp_network    
+035      |a 071037896    |9 ExL    
+035      |a (IDSBB)006810828DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991001969999705501    
+035      |a (41SLSP_UBE)99116735844505511    |9 (41SLSP_UBE)99116735844505511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+130 0    |a Liber aggregationis seu liber secretorum Alberti Magni de virtutibus herbarum, lapidum et animalium quorundam    |0 (DE-588)7629952-1    
+245 1 0  |a Liber aggregacionis seu liber Secretoru[m] Alberti magni de v[ir]tutib[us] herbaru[m] lapidum [et] animaliu[m] quorunda[m]    
+246 1    |i Explicit (Blatt [b₄] recto)    |a Expliciu[n]t Secreta aliq[ua] Alberti magni de colonia sup[er] naturis v[ir]tutibus [et] efficacia herba[rum] lapidum [et] animalium quoru[n]da[m]    
+246 1    |i Explicit (Blatt [d₇] recto)    |a Albert[us] magn[us] de Secretis nature explicit    
+246 1    |i Titel gemäss GW    |a Liber aggregationis    
+246 1    |i Titel gemäss ISTC    |a Liber aggregationis, seu liber secretorum de virtutibus herbarum, lapidum et animalium quorundam    
+264   1  |a [Straßburg]    |b [Drucker des Breviarium Ratisponense ("Georgius de Spira")]    |c [um 1480]    
+300      |a 63 ungezählte Seiten    |c 22 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+337      |b c    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+338      |b cr    |2 rdacarrier    
+500      |a Anonymes Werk, fälschlich Albertus Magnus zugeschrieben    
+500      |a Ab Blatt [b₇] recto ein weiteres fälschlich Albertus Magnus zugeschriebenes Werk, De mirabilibus mundi, ab Blatt [d₇] recto die Regula ad sciendum ortum lunae    
+500      |a Keine Titelseite, nur Kopftitel    
+500      |a Impressum gemäss GW; früher Johann und Conrad Hist in Speyer zugeschrieben    
+500      |a Holzschnittinitiale auf Blatt [a₁] recto    
+500      |a Signaturformel: [a-d⁸]    
+505 0 0  |t Eiusdem Alberti magni de Mirabilibus mundi feliciter incipit    |t Ut a[u]t[em] q[ui] legeris q[uae] sup[er]i[us] notata sunt vberiore[m] fructu[m] capias volu[mus] co[m]mu[n]nem regula[m] [et] breue[m] trade[re] ad scie[n]du[m] ortu[m] lune ...    
+510 4    |a GW    |c 00622    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW00622.htm    
+510 4    |a ISTC    |c ia00255000    |u http://data.cerl.org/istc/ia00255000    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (rot eingefärbt, Ziege), Verschlussbänder fehlend, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, handschriftlich mit Tinte auf Vorderdeckel: "Michael Scotus, Secreta mulie[rum], Tractat[us] de [...?]"    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 22 x 15.6 x 4 cm    
+563      |a Zustand Einband: Schädlingsfrass an Vorsätzen und Deckeln, Verschlussbänder vollständig fehlend, starke Verfleckungen an beiden Deckeln, Brüche im Einbandleder am Rücken, Lederüberklebungen am Rücken und an den Ecken, hinterer Spiegel teilweise hochgelöst    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 32 von 32 Blättern, handschriftliche Lagensignaturen in Rot (teilweise abgeschnitten), Pergamentverstärkung in den Lagenmitten zum Teil auf einzelne Bundstationen beschränkt, rot ausgezeichnete Initialen, Rubrizierung    
+590      |a Handschriftliche Annotationen, Anstreichungen und Virgeln in Tinte    
+590      |a Zusammengebunden mit 5 weiteren Drucken in Sammelband    
+590      |a Historische Signatur auf vorderem Spiegel: "Lit: 517."; auf Titelseite des ersten Drucks im Sammelband: "Liter. 26[?]", korrigiert zu "Phil 88"    
+590      |a Frühere Signatur: Inc 410    
+700 0    |a Albertus    |c Magnus, Heiliger    |d 1193-1280    |0 (DE-588)118637649    |e Verfasser    |4 aut    
+700 0    |a Drucker des Breviarium Ratisponense ("Georgius de Spira")    |0 (DE-588)107053515X    |e Drucker    |4 prt    
+700 1    |a Hist, Johann    |d ca. 15. Jh.    |0 (DE-588)129032077    |e Drucker    |4 prt    
+700 1    |a Hist, Conrad    |d 14XX-1531    |0 (DE-588)129032050    |e Drucker    |4 prt    
+730 0    |a De mirabilibus mundi    |0 (DE-588)7840568-3    
+730 0    |a Regula ad sciendum ortum lunae    |0 (DE-588)1162228261    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+751      |a Speyer    |0 (DE-588)4056179-3    
+852 4    |b B404    |c 404U3    |j MUE Inc III 68 : 4    |9 (41SLSP_UBE)99116735844505511    
+856 4    |u https://doi.org/10.3931/e-rara-91664    |z Digitalisat in e-rara    
+900      |a IDSIxunikat    
+900      |a IDSIxhybrid-el    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 5 weiteren Drucken in Sammelband    |p 12    |j MUE Inc III 68 : 4    |b B404    |9 (41SLSP_UBE)99116735844505511    
+986      |a (41SLSP_UBE)99116735844505511    |9 (41SLSP_UBE)99116735844505511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116735844505511    
+990      |f erarabe    |9 local    |9 (41SLSP_UBE)99116735844505511    
+990      |f lza-cc0    |9 local    |9 (41SLSP_UBE)99116735844505511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

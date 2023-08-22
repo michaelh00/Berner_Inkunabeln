@@ -1,0 +1,136 @@
+﻿<-1-1-START->
+Jacobus de Paradiso
+<-1-1-STOP->
+
+<-1-2-START->
+De apparitionibus animarum separatarum
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Burgdorf: [Drucker von Jacobus de Clusa, De apparitionibus animarum (H 9349)], 1475
+<-3-1-STOP->
+
+<-4-1-START->
+51 ungezählte Seiten; 28 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_I-30.html<-L-5-STOP-><-VI-5-START->BSB-Ink I-30<-VI-5-STOP->; <-L-5-START->http://gesamtkatalogderwiegendrucke.de/docs/M10819.htm<-L-5-STOP-><-VI-5-START->GW M10819<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ij00020000<-L-5-STOP-><-VI-5-START->ISTC ij00020000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+26 von 26 Blättern, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (grün, Ziege, 18. Jahrhundert), Linien- und Ornamentstempel-Goldprägung auf beiden Deckeln, Ornamentrollen-Goldprägung auf den Deckelinnenkanten
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116928366505511<-L-11-STOP-><-VI-11-START->MUE Inc IV 14<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991159671709705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Jacobus de Paradiso<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Burgdorf<-O-STOP->
+<-P-START->Drucker von Jacobus de Clusa, De apparitionibus animarum (H 9349)<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991159671709705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 14<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03828nam a2200577 c 4500
+001 991159671709705501
+005 20211215195739.0
+007 cr |||||||||||
+008 100722s1475    sz            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/13.12.2016/B404/faf    
+024 7    |a 10.3931/e-rara-3722    |2 doi    
+035      |a (swissbib)061748005-41slsp_network    
+035      |a 061748005    |9 ExL    
+035      |a (IDSBB)005282273DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991159671709705501    
+035      |a (41SLSP_UBE)99116928366505511    |9 (41SLSP_UBE)99116928366505511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Jacobus    |c de Paradiso    |d 1381-1465    |0 (DE-588)118556754    |e Verfasser    |4 aut    
+240 1 0  |a De apparitionibus animarum separatarum    
+245 1 0  |a Tractatus de apparitionibus animarum post exitum ea[rum] a corporib[us]. et de earundem receptaculis    |c edit[us] in erdfordia ab excellentissimo viro Jacobo de Clusa ordinis Cartusie[n]sis. sacre pagine professore doctissimo    
+246 1 0  |a De apparitionibus animarum post exitum earum a corporibus, et de earundem receptaculis    
+246 1    |i Explicit    |a Explicit tractatus eximii doctoris Jacobi de clusa ordinis cartusiensis de apparitionib[us] et receptaculis anima[rum] exutaru[m]    
+246 1    |i Titel gemäss BSB-Ink    |a De apparitionibus animarum    
+246 1    |i Titel gemäss GW    |a De animabus exutis a corporibus    
+246 1    |i Titel gemäss ISTC    |a De animabus exutis a corporibus, sive De apparitionibus et receptaculis animarum    
+264   1  |a Impressus in opido burgdorf    |b [Drucker von Jacobus de Clusa, De apparitionibus animarum (H 9349)]    |c Anno d[omi]ni millesimoquadringentesimoseptuagesimoquinto [1475]    
+300      |a 51 ungezählte Seiten    |c 28 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b c    |2 rdamedia    
+337      |b n    |2 rdamedia    
+338      |b cr    |2 rdacarrier    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, nur Kopftitel    
+500      |a Druckort und Druckjahr gemäss Explicit, Drucker gemäss BSB-Ink, GW und ISTC    
+500      |a Signaturformel: [a¹⁰, b-c⁸]    
+510 4    |a BSB-Ink    |c I-30    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_I-30.html    
+510 4    |a GW    |c M10819    |u http://gesamtkatalogderwiegendrucke.de/docs/M10819.htm    
+510 4    |a ISTC    |c ij00020000    |u http://data.cerl.org/istc/ij00020000    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (grün, Ziege, 18. Jh.), Linien- und Ornamentstempel-Goldprägung auf beiden Deckeln sowie am Rücken, Ornamentrollen-Goldprägung auf den Deckelinnenkanten; Titeldruck in Goldprägung auf dem Vorderdeckel: "Jacobi De Clusa Animæ Apparentes", handschriftlich ergänzt mit schwarzer Tinte: "impressus in Oppido Burgdorf. 1475."    
+563      |a Vorsätze: Vorne und hinten mit zwei fliegenden Blättern, teilweise Marmorpapier    
+563      |a Masse Einband: 27.8 x 20.4 x 1 cm    
+590      |a Buchblockbeschreibung: 26 von 26 Blättern, rot ausgezeichnete Initialen, Rubrizierung    
+590      |a Zustand Buchblock: Zum Teil starke Feuchtigkeitsränder, Bruch im Papier sowie ausradierte Annotation mit Fehlstellen im Papier an Blatt [a₇] verso    
+590      |a Handschriftliche Annotationen und Unterstreichungen in Tinte    
+590      |a Historische Signatur auf zweitem vorderem fliegendem Vorsatzblatt verso: "N. Philos: 293.", Zahl korrigiert zu: "fol. 121    
+590      |a Frühere Signatur: Inc 393    
+700 0 2  |a Jacobus    |c de Paradiso    |d 1381-1465    |t De apparitionibus animarum separatarum    |0 (DE-588)4670673-2    
+700 0    |a Drucker von Jacobus de Clusa De apparitionibus animarum (H 9349)    |d ca. 15. Jh.    |0 (DE-588)1028579837    |e Drucker    |4 prt    
+751      |a Burgdorf    |g Kanton Bern    |0 (DE-588)4088664-5    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 14    |9 (41SLSP_UBE)99116928366505511    
+856 4    |u http://dx.doi.org/10.3931/e-rara-3722    |z Digitalisat in e-rara    
+900      |a IDSIxhybrid-el    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc IV 14    |b B404    |9 (41SLSP_UBE)99116928366505511    
+986      |a (41SLSP_UBE)99116928366505511    |9 (41SLSP_UBE)99116928366505511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116928366505511    
+990      |f erarabe    |9 LOCAL    |9 (41SLSP_UBE)99116928366505511    
+990      |f lza-cc0    |9 LOCAL    |9 (41SLSP_UBE)99116928366505511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

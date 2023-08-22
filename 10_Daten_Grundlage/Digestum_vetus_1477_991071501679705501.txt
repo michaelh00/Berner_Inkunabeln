@@ -1,0 +1,137 @@
+﻿<-1-1-START->
+Digestum vetus
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Zusammengestellt im Auftrag Justinians I.<-500-STOP->
+<-500-START->Mit der Glossa ordinaria des Accursius<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Jacobus Rubeus, 21.11.1477
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 876 ungezählte Seiten, 1 ungezähltes Blatt; 45 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_C-597.html<-L-5-STOP-><-VI-5-START->BSB-Ink C-597<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW07657.htm<-L-5-STOP-><-VI-5-START->GW 07657<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ij00547000<-L-5-STOP-><-VI-5-START->ISTC ij00547000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+440 von 440 Blättern, rot, grün, blau und in Tinte ausgezeichnet Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (rot eingefärbt) mit Schliessen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116748711805511<-L-11-STOP-><-VI-11-START->MUE Inc II 16<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991071501679705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Justinian I. (Kaiser von Byzanz)<-P-STOP->
+<-P-START->Accursius, Franciscus (Senior)<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Rubeus, Jacobus<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991071501679705501<-DOI-STOP->
+<-SIGN-START->MUE Inc II 16<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04723nam a2200589 c 4500
+001 991071501679705501
+005 20211215185632.0
+008 170530s1477    it ||||| l    00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/30.05.2017/B404/faf    
+035      |a (swissbib)069658358-41slsp_network    
+035      |a 069658358    |9 ExL    
+035      |a (IDSBB)006703015DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991071501679705501    
+035      |a (41SLSP_UBE)99116748711805511    |9 (41SLSP_UBE)99116748711805511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+130 0    |a Digestum vetus    |0 (DE-588)1133310044    
+245 1 0  |a Explicit Liber secunde partis digesti ueteris feliciter    
+246 1    |i Incipit    |a Si genus ho[m]i[n]um [et] mortaliu[m] uitam a[n]i[m]aduortimus ...    
+246 1    |i Incipit in normalisierter Form    |a Si genus hominum et mortalium vitam animadvortimus ...    
+246 1    |i Titel gemäss BSB-Ink    |a Corpus iuris civilis    |p Digestum vetus    
+246 1    |i Titel gemäss GW    |a Corpus iuris civilis    |p Digesta Iustiniani    |p Digestum vetus    
+246 1    |i Titel in normalisierter Form    |a Explicit liber secunde partis digesti veteris feliciter    
+264   1  |a In urbe Venetiaru[m] inclyta    |b Confectum hoc opus ex officina Magistri Jacobi Galici Rubeorum familia    |c Olympiadibus Serenissimi principis .d.d. Andree Vendramini. Anno .M.cccclxxvij. vndecimas klendas decembres [21.11.1477]    
+300      |a 1 ungezähltes Blatt, 876 ungezählte Seiten, 1 ungezähltes Blatt    |c 45 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Zusammengestellt im Auftrag Justinians I.    
+500      |a Mit der Glossa ordinaria des Accursius    
+500      |a Keine Titelseite, Titel gemäss Explicit    
+500      |a Impressum gemäss Kolophon; Reihenfolge der Vorlage: "Confectum hoc opus ex officina Magistri Jacobi Galici Rubeorum familia. in urbe Venetiaru[m] inclyta. Olympiadibus Serenissimi principis .d.d. Andree Vendramini. Anno .M.cccclxxvij. vndecimas klendas decembres."    
+500      |a Rot- und Schwarzdruck    
+500      |a Signaturformel: a¹⁰, b–f⁸, g-h¹⁰, i–o⁸, p-q¹⁰, r–x⁸, y¹⁰, z⁸, [et]¹⁰, [con]⁸, [rum]⁸, A–D⁸, E¹⁰, F–M⁸, N-O¹⁰, P–T⁸, U¹⁰, X⁸, aa–dd⁸, ee¹⁰    
+500      |a Blatt ee₁₀ ist unbedruckt    
+510 4    |a BSB-Ink    |c C-597    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_C-597.html    
+510 4    |a GW    |c 07657    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW07657.htm    
+510 4    |a ISTC    |c ij00547000    |u http://data.cerl.org/istc/ij00547000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0005/bsb00051750/images    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (rot eingefärbt) mit Schliessen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln    
+563      |a Vorsätze: Vorne ohne fliegendes Blatt, hinten mit vormaligem Spiegel als fliegendem Blatt    
+563      |a Masse Einband: 44.2 x 30 x 12.8 cm    
+563      |a Zustand Einband: Schädlingsfrass an beiden Deckeln, fehlende Hälfte des Rückdeckels ergänzt, Hakenteile der Schliessen fehlend, Lederüberklebungen am Rücken, Einband mit deckendem Farbmittel rot nachgefärbt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Besonderheit Buchblock: 440 von 440 Blättern, Papierfälze vor Blatt a₁ und nach Blatt ee₁₀ gehören zur Vorsatzkonstruktion, rot, grün, blau und in Tinte ausgezeichnet Initialen, Rubrizierung (rote, grüne und blaue Paragraphenzeichen), Buchzählung (L. I-XXIIII) und Kapiteltitel handschriftlich in Tinte (teils abgeschnitten) und teilweise zusätzlich in Rot (teils auch Grün oder Blau) als Kolumnentitel    
+590      |a Zustand Buchblock: Blätter vereinzelt mit dickem Japanpapier ergänzt, Farbmittel der ausgezeichneten Initialen zum Teil verwischt    
+590      |a Wenige handschriftliche Annotationen und Unterstreichungen in Tinte (z.B. Blatt b₃ recto)    
+590      |a Historische Signatur auf vorderem Spiegel: "Jur: Pol: N. 17."    
+590      |a Frühere Signatur: Inc 169    
+700 0    |a Justinian    |b I.    |c Byzantinisches Reich, Kaiser    |d 482-565    |0 (DE-588)11855896X    |e Auftraggeber    |4 pat    
+700 1    |a Accursius, Franciscus    |c Senior    |d 1185-1263    |0 (DE-588)100956599    |e Kommentarverfasser    |4 wac    
+700 1    |a Rubeus, Jacobus    |d ca. 15. Jh.    |0 (DE-588)129065919    |e Drucker    |4 prt    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Inc II 16    |9 (41SLSP_UBE)99116748711805511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc II 16    |b B404    |9 (41SLSP_UBE)99116748711805511    
+986      |a (41SLSP_UBE)99116748711805511    |9 (41SLSP_UBE)99116748711805511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116748711805511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

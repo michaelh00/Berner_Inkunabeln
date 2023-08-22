@@ -1,0 +1,136 @@
+﻿<-1-1-START->
+Petrus de Argellata
+<-1-1-STOP->
+
+<-1-2-START->
+Chirurgiae libri sex
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: [Drucker von Argellata, Chirurgia (GW 2322)], 28.04.1492
+<-500-START->Druckvariante zum Wolfenbütteler Exemplar, siehe Lagensignatur auf Blatt a₂<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+130, das heisst 141 Blätter, 14 ungezählte Seiten; 32 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-668.html<-L-5-STOP-><-VI-5-START->BSB-Ink A-668<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW02322.htm<-L-5-STOP-><-VI-5-START->GW 02322<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ia00952000<-L-5-STOP-><-VI-5-START->ISTC ia00952000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+147 von 148 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Kartondeckeln (braun, Kalb, 18. Jahrhundert) mit beigefarbenem Büttenpapier sowie Pergamentecken
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Das unbedruckte Blatt a₁ fehlt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116842415505511<-L-11-STOP-><-VI-11-START->MUE Inc I 93<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991095049839705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Petrus de Argellata<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Drucker von Argellata, Chirurgia (GW 2322)<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991095049839705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 93<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03761nam a2200577 c 4500
+001 991095049839705501
+005 20211215183503.0
+008 180116s1492    it |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/16.01.2018/B404/faf    
+035      |a (swissbib)071664181-41slsp_network    
+035      |a 071664181    |9 ExL    
+035      |a (IDSBB)006765831DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991095049839705501    
+035      |a (41SLSP_UBE)99116842415505511    |9 (41SLSP_UBE)99116842415505511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Petrus    |c de Argellata    |d -1423    |0 (DE-588)100957765    |e Verfasser    |4 aut    
+240 1 0  |a Chirurgiae libri sex    
+245 1 0  |a Finis e[st] itaq[ue] toti[us] op[er]is chirugie. q[uod] edidit p[re]stantissim[us] artiu[m] [et] medicine doc. D. mag[iste]r Petr[us] d[e] Argellata Bononi    
+246 1    |i Titel in normalisierter Form    |a Finis est itaque totius operis chirugie quod edidit prestantissimus artium et medicine doc. d. magister Petrus de Argellata Bononi    
+246 1    |i Incipit    |a Incipit liber primus Cirugie magistri petri dela cerlata de bononia artium [et] medicine doctoris    
+246 1    |i Titel gemäss BSB-Ink, GW und ISTC    |a Chirurgia    
+264   1  |a Impressum Uenetiis    |b [Drucker von Argellata, Chirurgia (GW 2322)]    |c Anno d[omi]ni. 1492. die. 28. aprilis    
+300      |a 130, das heisst 141 Blätter, 14 ungezählte Seiten    |c 32 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Inhaltsverzeichnis    
+500      |a Keine Titelseite, Titel gemäss Kolophon    
+500      |a Druckort und Druckdatum gemäss Kolophon    
+500      |a Drucker gemäss GW    
+500      |a Druckvariante zum Wolfenbütteler Exemplar, siehe Lagensignatur auf Blatt a₂    
+500      |a Bis Blatt 130 (u₆) durchgängig foliiert, wenn auch mit zahlreichen Fehlern und einigen fehlenden Blattzahlen, danach 11 Blätter mit chaotischer Foliierung, endend auf Blatt y₃ erneut mit (verdruckter) Blattzahl 130    
+500      |a Signaturformel: a–e⁸, f–u⁶, x⁸, y¹⁰    
+500      |a Blatt a₁ ist unbedruckt    
+510 4    |a BSB-Ink    |c A-668    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-668.html    
+510 4    |a GW    |c 02322    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW02322.htm    
+510 4    |a ISTC    |c ia00952000    |u http://data.cerl.org/istc/ia00952000    
+530      |a Digitalisat (Exemplar der Herzog August Bibliothek Wolfenbüttel)    |u http://diglib.hab.de/inkunabeln/43-4-med-2f-2/start.htm    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Kartondeckeln (braun, Kalb, 18. Jh.) mit beigefarbenem Büttenpapier sowie Pergamentecken, Titelschild mit Goldprägung auf dem Rücken    
+563      |a Vorsätze: Vorne und hinten jeweils 2 fliegende Blätter    
+563      |a Masse Einband: 32 x 22 x 2.5 cm    
+563      |a Zustand Einband: Hinteres Vorsatz im Falz mit Japanpapier verstärkt    
+590      |a Buchblockbeschreibung: 147 von 148 Blättern, vorgesehene Stellen für Initialen frei gelassen    
+590      |a Zustand Buchblock: Feuchtigkeitsränder, Papier zum Teil flächig stark verbräunt    
+590      |a Unvollständiges Exemplar: Das unbedruckte Blatt a₁ fehlt    
+590      |a Handschriftliche Anmerkungen teilweise auf Französisch und Kritzeleien in Tinte (teils abgeschnitten)    
+590      |a Historische Signatur auf Blatt a₂ recto: "Medici 52."    
+590      |a Frühere Signatur: Inc 310    
+700 1    |a Drucker von Argellata, Chirurgia (GW 2322)    |d ca. 15. Jh.    |0 (DE-588)1150861320    |e Drucker    |4 prt    
+700 0 2  |a Petrus    |c de Argellata    |d -1423    |t Chirurgiae libri sex    |0 (DE-588)115072756X    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Inc I 93    |9 (41SLSP_UBE)99116842415505511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc I 93    |b B404    |9 (41SLSP_UBE)99116842415505511    
+986      |a (41SLSP_UBE)99116842415505511    |9 (41SLSP_UBE)99116842415505511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116842415505511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

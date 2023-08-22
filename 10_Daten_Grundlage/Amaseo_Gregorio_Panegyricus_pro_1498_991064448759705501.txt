@@ -1,0 +1,138 @@
+﻿<-1-1-START->
+Amaseo, Gregorio
+<-1-1-STOP->
+
+<-1-2-START->
+Panegyricus pro Utinensibus dictus sacratissimo cardinali Dominico Grimano patriarchae Aquileiensi religiosissimo
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Venedig: Simone Bevilacqua, nicht vor 19.06.1498]
+<-3-1-STOP->
+
+<-4-1-START->
+47 ungezählte Seiten: Holzschnittinitiale; 21 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW01595.htm<-L-5-STOP-><-VI-5-START->GW 01595<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ia00549000<-L-5-STOP-><-VI-5-START->ISTC ia00549000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+24 von 24 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jahrhundert) mit ungefärbtem Büttenpapier
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116896177205511<-L-11-STOP-><-VI-11-START->MUE Bong V 966<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991064448759705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Amaseo, Gregorio<-P-STOP->
+<-P-START->Grimani, Domenico<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Bevilacqua, Simone<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991064448759705501<-DOI-STOP->
+<-SIGN-START->MUE Bong V 966<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04159nam a2200565 c 4500
+001 991064448759705501
+005 20221206165009.0
+008 011130s1498    it            00| | lat|d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/05.02.2019/B404/faf    
+035      |a (swissbib)063630486-41slsp_network    
+035      |a 063630486    |9 ExL    
+035      |a (IDSBB)005195899DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991064448759705501    
+035      |a (41SLSP_UBE)99116896177205511    |9 (41SLSP_UBE)99116896177205511    
+040      |a PAU    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Amaseo, Gregorio    |d 1464-1541    |0 (DE-588)1089809042    |e Verfasser    |4 aut    
+240 1 0  |a Panegyricus pro Utinensibus dictus sacratissimo cardinali Dominico Grimano patriarchae Aquileiensi religiosissimo    
+245 1 0  |a Panegyricvs In Lavdem Cardinalis Grimani    
+246 1    |i Titel in normalisierter Form    |a Panegyricus in laudem Cardinalis Grimani    
+246 1    |i Kopftitel auf Blatt a₂ recto    |a Facvndissimi Oratoris Gregorii Amasei Vtinensis Antiquis Progenitoribus Bononia oriundi Panegyricus Pro Vtinensibus dictus Sacratissimo Cardinali Dominico Grimano Patriarchæ Aquileie[n]si Religiosissimo    
+246 1    |i Kopftitel auf Blatt a₂ recto in normalisierter Form    |a Facundissimi oratoris Gregorii Amasei Utinensis antiquis progenitoribus Bononia oriundi panegyricus pro Utinensibus dictus sacratissimo cardinali Dominico Grimano patriarchæ Aquileiensi religiosissimo    
+246 1    |i Titel gemäss ISTC    |a Panegyricus in laudem Cardinalis [Dominici] Grimani    
+264   1  |a [Venedig]    |b [Simone Bevilacqua]    |c [nicht vor 19. Juni 1498]    
+300      |a 47 ungezählte Seiten    |c 21 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Errata auf Blatt f₄ recto    
+500      |a Impressum gemäss GW und ISTC    
+500      |a Signaturformel: a-f⁴    
+500      |a Blatt a₁ ohne Lagensignatur, Blatt a₂ mit Signatur a bezeichnet    
+500      |a Holzschnittinitiale auf Blatt a₂ recto    
+510 4    |a GW    |c 01595    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW01595.htm    
+510 4    |a ISTC    |c ia00549000    |u http://data.cerl.org/istc/ia00549000    
+530      |a Digitalisat (Exemplar der Universitätsbibliothek Freiburg i.Br.)    |u http://dl.ub.uni-freiburg.de/diglit/amaseo1498    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jahrhundert) mit ungefärbtem Büttenpapier, Linien-Blindprägung und Titelschild in Blindprägung und ursprünglich Goldprägung auf dem Rücken: "Grimani Panegiri."    
+563      |a Vorsätze: Vorne mit einem fliegenden Blatt, hinten ohne fliegendes Blatt    
+563      |a Masse Einband: 20.3 x 15.5 x 1.2 cm    
+563      |a Zustand Einband: Abspaltungen am Einbandleder, Deckel verzogen, hinteres fliegendes Blatt fehlend, Japanpapierüberklebung im hinteren Falz    
+590      |a Buchblockbeschreibung: 24 von 24 Blättern    
+590      |a Zustand Buchblock: Japanpapierüberklebungen in den Fälzen zwischen Blättern a₁ und a₂ sowie zwischen Blättern e₄ und f₁, Japanpapierüberklebungen an den unteren Blatträndern der Blätter a₁-a₃, massive Feuchtigkeitsränder, Schimmelverfleckungen mit stark abgebauter Papiersubstanz und Fehlstellen an den unteren Blatträndern, Blätter c₁ und c₂ besonders geschädigt durch Knicke und Knautschungen sowie Einrisse    
+590      |a Schmierereien in Tinte    
+590      |a Historische Signatur auf der Titelseite: "Litt 344"    
+590      |a Frühere Signaturen: Inc 592; Inc III 116 ; XIX 22    
+700 1    |a Grimani, Domenico    |d 1461-1523    |0 (DE-588)121125785    |e Gefeierter    |4 hnr    
+700 1    |a Bevilacqua, Simone    |d 1450-1518    |0 (DE-588)128983388    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 1 2  |a Amaseo, Gregorio    |d 1464-1541    |t Panegyricus pro Utinensibus dictus sacratissimo cardinali Dominico Grimano patriarchae Aquileiensi religiosissimo    |0 (DE-588)1177074435    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Bong V 966    |9 (41SLSP_UBE)99116896177205511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc III 116    |c 404U3    |p 12    |j MUE Bong V 966    |b B404    |9 (41SLSP_UBE)99116896177205511    
+986      |a (41SLSP_UBE)99116896177205511    |9 (41SLSP_UBE)99116896177205511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116896177205511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116896177205511    
+991      |a Bongars: 00325    |5 IZ UBE/B400/19.03.2010    |9 local    |9 (41SLSP_UBE)99116896177205511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

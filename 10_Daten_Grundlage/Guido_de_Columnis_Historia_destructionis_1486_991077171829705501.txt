@@ -1,0 +1,139 @@
+﻿<-1-1-START->
+Guido de Columnis
+<-1-1-STOP->
+
+<-1-2-START->
+Historia destructionis Troiae
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit den Gedichten "Epitaphium Hectoris" und "Epitaphium Achillis" (beide aus den Carmina duodecim sapientium), zwei Distichen unter dem Titel "Deploratio Troie" und einem Nachwort des Autors<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Straßburg: [Georg Husner], um 09.10.1486
+<-3-1-STOP->
+
+<-4-1-START->
+175 ungezählte Seiten; 31 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_G-435.html<-L-5-STOP-><-VI-5-START->BSB-Ink G-435<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW07230.htm<-L-5-STOP-><-VI-5-START->GW 07230<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ic00773000<-L-5-STOP-><-VI-5-START->ISTC ic00773000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+88 von 88 Blättern, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun, Kalb) mit Schliessen sowie Spuren einer Kettenöse am oberen Rand des Rückdeckels, Ornamentstempel- und Linien-Blindprägung auf beiden Deckeln, Buchbinder: Johannes Vatter
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Dominikanerkloster Bern
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 3 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116753854405511<-L-11-STOP-><-VI-11-START->MUE Inc I 20 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991077171829705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Guido de Columnis<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Husner, Georg<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-P-START->Vatter, Johannes<-P-STOP->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Dominikanerkloster Bern<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991077171829705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 20 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04293nam a2200577 c 4500
+001 991077171829705501
+005 20211215181825.0
+008 170810s1486    fr |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/10.08.2017/B404/faf    
+035      |a (swissbib)072078103-41slsp_network    
+035      |a 072078103    |9 ExL    
+035      |a (IDSBB)006721286DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991077171829705501    
+035      |a (41SLSP_UBE)99116753854405511    |9 (41SLSP_UBE)99116753854405511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Guido    |c de Columnis    |d 1210-1290    |0 (DE-588)118543423    |e Verfasser    |4 aut    
+240 1 0  |a Historia destructionis Troiae    
+245 1 0  |a Historia Troiana Guidonis    
+246 1    |i Explicit    |a Historia destructionis Troie [com]posita p[er] iudice[m] Guidonem d[e] columna. Messanen[sem]. finit feliciter    
+246 1    |i Incipit    |a Incipit prologus super historia destructio[n]is Troie. composita per iudice[m] Guidone[m] de columna messanensem    
+264   1  |a In ciuitate Arge[n]tina imp[re]ssa nouissime    |b [Georg Husner]    |c Anno d[omi]ni M.cccc.lxxxvj. circa festu[m] sancti dyonisij [et] socio[rum] eius [um 9.10.1486]    
+300      |a 175 ungezählte Seiten    |c 31 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit den Gedichten "Epitaphium Hectoris" und "Epitaphium Achillis" (beide aus den Carmina duodecim sapientium), zwei Distichen unter dem Titel "Deploratio Troie", einem Nachwort des Autors und einem Inhaltsverzeichnis    
+500      |a Druckort und Druckdatum gemäss Kolophon    
+500      |a Drucker gemäss BSB-Ink, GW und ISTC (dort teils angegeben als Drucker des Jordanus von Quedlinburg, mittlerweile mit Georg Husner identifiziert)    
+500      |a Signaturformel: a⁸, b–n⁶, o⁸    
+510 4    |a BSB-Ink    |c G-435    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_G-435.html    
+510 4    |a GW    |c 07230    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW07230.htm    
+510 4    |a ISTC    |c ic00773000    |u http://data.cerl.org/istc/ic00773000    
+530      |a Digitalisat (Exemplar der Universitäts- und Landesbibliothek Darmstadt)    |u http://tudigit.ulb.tu-darmstadt.de/show/inc-iv-169    
+561      |a Aus dem Besitz des Dominikanerklosters Bern    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun, Kalb) mit Schliessen sowie Spuren einer Kettenöse am oberen Rand des Rückdeckels, Ornamentstempel- und Linien-Blindprägung auf beiden Deckeln, handschriftlicher Rückentitel in Tinte: "Alexander Magnus incerti au[...] 1486 Argentin", auf Vorderdeckel geklebtes Pergamentstück mit handschriftlichem Titel in Tinte: "Lege[n]de quo[run]d[am] s[an]cto[rum]. Historia troya[n]a. Historia alexa[n]dri magni. Cu[m] historia friderici Imp[er]atoris primi"    
+563      |a Vorsätze: Vorne und hinten mit einem halben Blatt Pergamentmakulatur (Biblia latina: Vulgata, recensio Alcuini, frühes 9. Jahrhundert)    
+563      |a Masse Einband: 30.3 x 22 x 6 cm    
+563      |a Zustand Einband: Oberer Schliessenriemen ergänzt, Rostschaden an ehemaliger Stelle für Kettenöse, Bruch im Einbandleder entlang der Deckelkante im Falz    
+563      |a Gemäss Johann Lindt (Berner Einbände, Buchbinder und Buchdrucker, Bern 1969) Einband des Berner Dominikanermönchs Johannes Vatter    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 88 von 88 Blättern, rot ausgezeichnete Initialen, Rubrizierung    
+590      |a Zusammengebunden mit 3 weiteren Drucken in Sammelband    
+590      |a Historische Signatur auf vorderem Spiegel: "Hist: Cod: 123.", Zahl korrigiert zu "5."    
+590      |a Frühere Signatur: Inc 99    
+700 1    |a Husner, Georg    |d 14XX-1505    |0 (DE-588)136216064    |e Drucker    |4 prt    
+700 1    |a Vatter, Johannes    |d 1470-1509    |0 (DE-588)1114426377    |e Buchbinder    |4 bnd    
+700 0 2  |a Guido    |c de Columnis    |d 1210-1290    |t Historia destructionis Troiae    |0 (DE-588)4257198-4    
+710 2    |a Dominikanerkloster Bern    |0 (DE-588)4302674-6    |e Früherer Eigentümer    |4 fmo    
+730 0    |a De Hectore    |0 (DE-588)1138041513    
+730 0    |a De Achille    |0 (DE-588)1138041521    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Inc I 20 : 2    |9 (41SLSP_UBE)99116753854405511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 3 weiteren Drucken in Sammelband    |p 12    |j MUE Inc I 20 : 2    |b B404    |9 (41SLSP_UBE)99116753854405511    
+986      |a (41SLSP_UBE)99116753854405511    |9 (41SLSP_UBE)99116753854405511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116753854405511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

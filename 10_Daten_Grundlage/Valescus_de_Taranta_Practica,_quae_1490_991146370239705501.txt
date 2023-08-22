@@ -1,0 +1,134 @@
+﻿<-1-1-START->
+Valescus de Taranta
+<-1-1-STOP->
+
+<-1-2-START->
+Practica, quae alias Philonium dicitur
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Widmungsbrief von Girolamo Savonarola an den Kanzler der Universität Montpellier und die Leser<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Lyon: Johann Trechsel, 19.05.1490
+<-3-1-STOP->
+
+<-4-1-START->
+8 ungezählte Seiten, CCCLX Blätter: Druckermarke; 25 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_V-3.html<-L-5-STOP-><-VI-5-START->BSB-Ink V-3<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M49060.htm<-L-5-STOP-><-VI-5-START->GW M49060<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/iv00006000<-L-5-STOP-><-VI-5-START->ISTC iv00006000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+361 von 364 Blättern, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Pergamenteinband auf Kartondeckeln (18. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Titelblatt, Epistola von Girolamo Savonarola (Hieronymus Ferrara, Blatt []₄) und letztes Blatt CCCLX mit Kolophon fehlen (Titelaufnahme gemäss Digitalisat der Bayerischen Staatsbibliothek München)
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116834130105511<-L-11-STOP-><-VI-11-START->MUE Inc III 70<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991146370239705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Valescus de Taranta<-P-STOP->
+<-P-START->Savonarola, Girolamo<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Lyon<-O-STOP->
+<-P-START->Trechsel, Johann<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991146370239705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 70<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03807nam a2200529 c 4500
+001 991146370239705501
+005 20211215194005.0
+008 170323s1490    fr |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/23.03.2017/B404/vha    
+035      |a (swissbib)07286964X-41slsp_network    
+035      |a 07286964X    |9 ExL    
+035      |a (IDSBB)006684750DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991146370239705501    
+035      |a (41SLSP_UBE)99116834130105511    |9 (41SLSP_UBE)99116834130105511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Valescus    |c de Taranta    |d 1380-1418    |0 (DE-588)100963722    |e Verfasser    |4 aut    
+240 1 0  |a Practica, quae alias Philonium dicitur    
+245 1 0  |a Practica valesci de tharanta que alias philonium dicitur    
+246 1    |i Titel gemäss BSB-Ink    |a Practica seu Philonium pharmaceuticum et chirurgicum    
+246 1    |i Titel gemäss GW    |a Philonium    
+246 1    |i Titel in moderner Orthografie    |a Practica Valesci de Taranta quae alias Philonium dicitur    
+264   1  |a Jmp[re]ssum lugd.    |b p[er] Joha[n]nem trechsel alemanu[m]    |c Anno ... Millesimo quadringe[n]tesimononagesimo Die vero decimo nono mensis maij [19.05.1490]    
+300      |a 8 ungezählte Seiten, CCCLX Blätter    |c 25 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Titelaufnahme wegen fehlender Titelseite und fehlendem Kolophon gemäss Exemplar der Bayerischen Staatsbibliothek München (Digitalisat)    
+500      |a Blatt []₄ mit Widmungsbrief von Girolamo Savonarola an den Kanzler der Universität Montpellier und an die Leser    
+500      |a "Preclarissimu[m] op[us] valesci de thara[n]ta reuere[n]dissimi m[a]g[ist]ri necno[n] artis medicine doctoris famosissimi. Finit feliciter Jmp[re]ssum lugd. p[er] Joha[n]nem trechsel alemanu[m]. Anno n[ost]re salut. Millesimo quadringe[n]tesimononagesimo Die vero decimo nono mensis maij. Amen." - Kolophon    
+500      |a Druckermarke am Ende rot gedruckt    
+500      |a Signaturformel: []⁴, a-z⁸, A-Y⁸    
+510 4    |a BSB-Ink    |c V-3    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_V-3.html    
+510 4    |a GW    |c M49060    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M49060.htm    
+510 4    |a ISTC    |c iv00006000    |u http://data.cerl.org/istc/iv00006000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00072920/image_5    
+563      |a Einbandbeschreibung: Ganzbezogener Pergamenteinband auf Kartondeckeln (18. Jahrhundert)    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 25 x 18.4 x 7.3 cm    
+563      |a Zustand Einband: Japanpapierüberklebungen an Rücken und Vorderdeckel    
+590      |a Buchblockbeschreibung: 361 von 364 Blättern, Velourpergamentfalz nach Blatt a₈ und vor Blatt Y₁ gehört zur Vorsatzkonstruktion, Pergamentverstärkung (zum Teil Makulaturpergament) in den Lagenmitten in vorgehefteter Tabula und Lage a sowie Lage Y; rot ausgezeichnete Initialen, Rubrizierung    
+590      |a Zustand Buchblock: vereinzelt Verwischungen und Feuchtigkeitsränder an rotem Farbauftrag der ausgezeichneten Initialen    
+590      |a Unvollständiges Exemplar: Titelblatt, Epistola von Girolamo Savonarola (Hieronymus Ferrara, Blatt []₄) und letztes Blatt CCCLX (Y₈) mit Kolophon fehlen    
+590      |a Historische Signatur auf vorderem Spiegel: No. 146    
+700 0 2  |a Valescus    |c de Taranta    |d 1380-1418    |t Practica, quae alias Philonium dicitur    |0 (DE-588)1128436825    
+700 1    |a Savonarola, Girolamo    |d 1452-1498    |0 (DE-588)118605933    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Trechsel, Johann    |d 14XX-1498    |0 (DE-588)129073482    |e Drucker    |4 prt    
+751      |a Lyon    |0 (DE-588)4036770-8    
+852 4    |b B404    |c 404U3    |j MUE Inc III 70    |9 (41SLSP_UBE)99116834130105511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc III 70    |b B404    |9 (41SLSP_UBE)99116834130105511    
+986      |a (41SLSP_UBE)99116834130105511    |9 (41SLSP_UBE)99116834130105511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116834130105511    
+991      |a AAK: 915957    |5 IZ UBE/23.03.2017/B404/vha    |9 LOCAL    |9 (41SLSP_UBE)99116834130105511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

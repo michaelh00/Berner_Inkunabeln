@@ -1,0 +1,139 @@
+﻿<-1-1-START->
+Bernard (Abt von Clairvaux)
+<-1-1-STOP->
+
+<-1-2-START->
+Briefe [lateinisch]. — De miseria et brevitate vitae et de vera scientia. — De temptationibus et otio. — De bona et mala voluntate. — Arnulfus de Boeriis: Speculum monachorum. — Bernard (Abt von Clairvaux): De gratia et libero arbitrio; Apologia ad Guillelmum abbatem
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Die sechs den Briefen beifügten kleineren Werke wurden Bernard von Clairvaux zugeschrieben, die ersten vier jedoch fälschlich<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Strassburg: Heinrich Eggestein, nicht nach 1474]
+<-3-1-STOP->
+
+<-4-1-START->
+178 ungezählte Seiten, 1 ungezähltes Blatt; 41 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-310.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-310<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW03923.htm<-L-5-STOP-><-VI-5-START->GW 03923<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib00383000<-L-5-STOP-><-VI-5-START->ISTC ib00383000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+89 von 90 Blättern, rot ausgezeichnete Initialen, Anfangsinitiale blau ausgezeichenet, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert) mit Sprenkelpapier (braun), Linien-Blindprägung sowie Titelschild in Goldprägung auf dem Rücken
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116827174905511<-L-11-STOP-><-VI-11-START->MUE Inc III 10<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991060902949705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Bernard (Abt von Clairvaux)<-P-STOP->
+<-P-START->Arnulfus de Boeriis<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Eggestein, Heinrich<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991060902949705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 10<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04777nam a2200601 c 4500
+001 991060902949705501
+005 20211215175820.0
+008 170714s1474    gw |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/14.07.2017/B404/vha    
+035      |a (swissbib)071213201-41slsp_network    
+035      |a 071213201    |9 ExL    
+035      |a (IDSBB)006714916DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991060902949705501    
+035      |a (41SLSP_UBE)99116827174905511    |9 (41SLSP_UBE)99116827174905511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Bernard    |c Clairvaux, Abt, Heiliger    |d 1090-1153    |0 (DE-588)118509810    |e Verfasser    |4 aut    
+240 1 0  |a Briefe    
+245 1 0  |a [Epistulae]    
+246 1    |i Titel gemäss GW und ISTC    |a Epistolae    
+264   1  |a [Strassburg]    |b [Heinrich Eggestein]    |c [nicht nach 1474]    
+300      |a 178 ungezählte Seiten, 1 ungezähltes Blatt    |c 41 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite und kein Kolophon, Titel gemäss GND    
+500      |a Impressum gemäss BSB-Ink, GW und ISTC    
+500      |a Mit sechs beifügten kleineren Werken, von den die ersten vier ("De miseria et brevitate huius vitae", "De temptationibus et otio", "De bona et mala voluntate" und "Speculum super emendatione vitae hominis religiosi") Bernard fälschlich zugeschrieben wurden ("Speculum ..." ist von Arnulfus de Boeriis)    
+500      |a Signaturformel: [a⁴, b–e¹⁰, f⁸, g-h¹⁰, i⁸, k¹⁰]    
+500      |a Signaturformel gemäss GW; Lage [a] ("Tabula. Ep[isto]larum. Beati. Bernhardi. Abbatis Clareuallen[sis]") in vielen Exemplaren (wie hier) ans Ende gebunden; Blatt [a₄] unbedruckt    
+505 0 0  |g Blatt [k] recto    |t Tractatus Beati Bernardi [et]c de miseria et breuitate hui[us] vite et de vera sci[enti]a Jncipit feliciter    |g Blatt [k] recto    |t Berhard[us] de temptat[i]onib[us] et ocio    |g Blatt [k] verso    |t Ber[n]ard[us] de bona et mala volu[n]tate    |g Blatt [k] verso    |t Jncipit speculu[m] beati bernhardi abbatis sup[er] eme[n]dat[i]o[n]e vite ho[min]is religiosi    |g Blatt [k₂] recto    |t Jncipit liber Beati bernhardi de gr[ati]a et libero aribitrio    |g Blatt [k₇] recto    |t Jncipit apologia sancti. Ber[n]hardi abbatis ad cluniacenses de concordia ordinu[m] siue excusatio ei[us] ad eosdem    
+510 4    |a BSB-Ink    |c B-310    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-310.html    
+510 4    |a GW    |c 03923    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW03923.htm    
+510 4    |a ISTC    |c ib00383000    |u http://data.cerl.org/istc/ib00383000    
+530      |a Digitalisat (Exemplar der Universitäts- und Stadtbibliothek Köln)    |u http://www.ub.uni-koeln.de/cdm/compoundobject/collection/inkunabeln/id/92655/rec/1    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert) mit Sprenkelpapier (braun), Linien- Blindprägung sowie Titelschild in Goldprägung auf dem Rücken: "Bernh: Epistol."    
+563      |a Vorsätze: hinten und vorne mit einem fliegenden Blatt    
+563      |a Masse Einband: 40.3 x 29.2 x 2.3 cm    
+563      |a Zustand Einband: Vorsätze im Falz verstärkt, Schäden am Einbandleder, Fehlstellen im Einbandpapier retuschiert    
+590      |a Buchblockbeschreibung: 89 von 90 Blättern, handschriftliche Lagensignatur in Graphit (gemäss GW), jeweils auf dem ersten Blatt jeder Lage unten rechts; rot ausgezeichnete Initialen, Anfangsinitiale auf Blatt [b₁] recto blau ausgezeichenet; Rubrizierung    
+590      |a Zustand Buchblock: Spuren vormaliger Blattweiser, blau ausgezeichnete Initiale auf Blatt [b₁] recto mit starkem Abrieb und Abklatsch auf dem fliegenden Blatt des Vorsatzes    
+590      |a Blatt [a₄] (unbedruckt) fehlt    
+590      |a Blätter [a₁]-[a₃] (Tabula) ans Ende gebunden (Blatt [a₁] als einzelnes Blatt vor Blatt [a₂] geklebt)    
+590      |a Wenige handschriftliche Annotationen in Tinte    
+590      |a Frühere Signatur: Inc 16    
+700 1    |a Eggestein, Heinrich    |d 1415-1488    |0 (DE-588)100965024    |e Drucker    |4 prt    
+700 0 2  |a Bernhard    |c von Clairvaux, Heiliger    |d 1090-1153    |t Epistulae    |0 (DE-588)4333070-8    
+700 0 2  |a Bernhard    |c von Clairvaux, Heiliger    |d 1090-1153    |t De gratia et libero arbitrio    |0 (DE-588)1136890289    
+700 0 2  |a Bernard    |c Clairvaux, Abt, Heiliger    |d 1090-1153    |t Apologia ad Guillelmum abbatem    |0 (DE-588)4477182-4    
+700 0 2  |a Arnulfus    |c de Boeriis    |d -1149    |t Speculum monachorum    |0 (DE-588)1099337429    
+730 0    |a De miseria et brevitate vitae et de vera scientia    |0 (DE-588)1136895027    
+730 0    |a De temptationibus et otio    |0 (DE-588)1136895396    
+730 0    |a De bona et mala voluntate    |0 (DE-588)1136895493    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Inc III 10    |9 (41SLSP_UBE)99116827174905511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc III 10    |b B404    |9 (41SLSP_UBE)99116827174905511    
+986      |a (41SLSP_UBE)99116827174905511    |9 (41SLSP_UBE)99116827174905511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116827174905511    
+991      |a AAK: 80892    |5 IZ UBE/14.07.2017/B404/vha    |9 local    |9 (41SLSP_UBE)99116827174905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

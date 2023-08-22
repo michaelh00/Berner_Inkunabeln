@@ -1,0 +1,152 @@
+﻿<-1-1-START->
+Dictys Cretensis
+<-1-1-STOP->
+
+<-1-2-START->
+Ephemeris belli Troiani. — Dares Phrygius: De excidio Troiae
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Werk des (Pseudo-)Dictys Cretensis mit einem Widmungsbrief des Herausgebers Franciscus Faragonius an Bernardus Riccius Messanensis, mehreren Gedichten von Faragonius, "Appendiculae ad libri interpretationem" von Faragonius sowie einem Widmungsbrief des Übersetzers Lucius Septimius an Quintus Aradius; Werk des (Pseudo-)Dares Phrygius mit einer kurzen "Historia de origine Troianorum" und einem fingierten Brief von Cornelius Nepos an Sallustius Crispus; am Schluss ein Gedicht von Faragonius an den Leser<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Cristoforo de' Pensi, 01.03.1499
+<-500-START->Druckdatum im Explicit des ersten Werks: 01.02.1499<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+147 ungezählte Seiten: Holzschnittinitiale; 22 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_D-130.html<-L-5-STOP-><-VI-5-START->BSB-Ink D-130<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW08328.htm<-L-5-STOP-><-VI-5-START->GW 08328<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/id00187000<-L-5-STOP-><-VI-5-START->ISTC id00187000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+74 von 74 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, 16. Jahrhundert) mit Spuren von Verschlussbändern (Leder), Linien- und Ornamentrollen-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: De obsidione Scodrensi / Marinus Barletius. Venedig: Bernardino Vitali, 1504
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116927113105511<-L-11-STOP-><-VI-11-START->MUE Bong V 971 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991052724859705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Dictys Cretensis<-P-STOP->
+<-P-START->Dares Phrygius<-P-STOP->
+<-P-START->Faragonius, Franciscus<-P-STOP->
+<-P-START->Septimius, Lucius<-P-STOP->
+<-P-START->Nepos, Cornelius<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Pensi, Cristoforo de'<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991052724859705501<-DOI-STOP->
+<-SIGN-START->MUE Bong V 971 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05348nam a2200661 c 4500
+001 991052724859705501
+005 20220309100730.0
+008 100528s1499    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/07.02.2019/B404/faf    
+035      |a (swissbib)062599011-41slsp_network    
+035      |a 062599011    |9 ExL    
+035      |a (IDSBB)005235879DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991052724859705501    
+035      |a (41SLSP_UBE)99116927113105511    |9 (41SLSP_UBE)99116927113105511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a lat    |h grc    
+245 0 0  |a Dictys Cretensis De Historia Belli Troiani Et Darses Priscvs De Eadem Troiana    
+246 1    |i Vollständige Titelseite    |a Iesvs Maria. Dictys Cretensis De Historia Belli Troiani Et Darses Priscvs De Eadem Troiana    
+246 1    |i Vollständige Titelseite in normalisierter Form    |a Iesus Maria. Dictys Cretensis de historia belli Troiani et Darses Priscus de eadem Troiana    
+246 1    |i Explicit des ersten Werks    |a Finit opus Dictys Cretensis de bello troiano ac de reditu græcorum ...    
+246 1    |i Kolophon    |a Finit historia antiquissima Dictys Cretensis atq[ue] Daretis Phrygii de bello Troianorum ac Græcorum ...    
+246 1    |i Titel gemäss GW und ISTC    |a Historia Troiana    
+264   1  |a in inclyta urbe Venetiarum cum eximia diligentia impressa    |b per Cristoferum mandellum de pensis    |c kalendis Martii .M.CCCC.LXXXXIX. [01.03.1499]    
+300      |a 147 ungezählte Seiten    |c 22 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Werk des (Pseudo-)Dictys Cretensis mit einem Widmungsbrief des Herausgebers Franciscus Faragonius an Bernardus Riccius Messanensis, mehreren Gedichten von Faragonius, "Appendiculae ad libri interpretationem" von Faragonius sowie einem Widmungsbrief des Übersetzers Lucius Septimius an Quintus Aradius; Werk des (Pseudo-)Dares Phrygius (ab Blatt h₁ recto) mit einer kurzen "Historia de origine Troianorum" und einem fingierten Brief von Cornelius Nepos an Sallustius Crispus; am Schluss ein Gedicht von Faragonius an den Leser    
+500      |a Impressum gemäss Kolophon    
+500      |a Explicit des ersten Werks (Blatt g₈ verso) mit Datum: "... Anno .M.cccc.xcix. kal[endis] Februariis." (01.02.1499)    
+500      |a Signaturformel: a–h⁸, i¹⁰    
+500      |a Holzschnittinitiale auf Blatt h₁ recto    
+505 0 0  |t Incipit historia Daretis Phrigii de excidio Troiæ    
+510 4    |a BSB-Ink    |c D-130    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_D-130.html    
+510 4    |a GW    |c 08328    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW08328.htm    
+510 4    |a ISTC    |c id00187000    |u http://data.cerl.org/istc/id00187000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0005/bsb00052232/images    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, 16. Jh.) mit Spuren von Verschlussbändern (Leder), Linien- und Ornamentrollen-Blindprägung auf beiden Deckeln    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 21.9 x 16.3 x 2.9 cm    
+563      |a Zustand Einband: Verschlussbänder fehlend, Einband stark bearbeitet: gesamter Rücken und Teile der Deckelkanten mit Lederüberklebungen inkl. Blindlinien-Nachbildung, beide Spiegel stellenweise mit dickem Japanpapier überklebt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 74 von 74 Blättern, handschriftliche Paginierung in Tinte auf den Blättern h₂ recto-h₇ recto: 3-13, Papierfalz zwischen Lagen h und i gehört zur Vorsatzkonstruktion, vorgesehene Stellen für Initialen frei gelassen, auf den Blättern h₁ verso-h₇ recto jede fünfte Zeile in Tinte durchnummeriert    
+590      |a Zustand Buchblock: Verfärbte Falzungen an Blättern i₁ und i₁₀ aus vorheriger Umlaufeinheit    
+590      |a Zusammengebunden mit: De obsidione Scodrensi / Marinus Barletius. Venedig : Bernardino Vitali, 1504    
+590      |a Historische Signatur auf vorderem Spiegel: "545. [durchgestrichen] Hist: Prof: 109."; auf Titelseite des vorgebundenen Drucks: "hist Prof. B 67"    
+590      |a Frühere Signaturen: Inc 537; Inc IV 64; XXIII 20    
+700 0    |a Dictys    |c Cretensis    |d ca. 2./3. Jh.    |0 (DE-588)118858750    |e Verfasser    |4 aut    
+700 0    |a Dares    |c Phrygius    |d ca. v8. Jh.    |0 (DE-588)118678876    |e Verfasser    |4 aut    
+700 1    |a Faragonius, Franciscus    |d 1460-1525    |0 (DE-588)129012807    |e Herausgeber    |e Verfasser von ergänzendem Text    |4 edt    |4 wst    
+700 1    |a Septimius, Lucius    |d 3./4. Jh.    |0 (DE-588)101008635    |e Übersetzer    |4 trl    
+700 1    |a Nepos, Cornelius    |d v100-v25    |0 (DE-588)118747681    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Pensi, Cristoforo <<de'>>    |0 (DE-588)1037570669    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 0 2  |a Dictys    |c Cretensis    |d ca. 2./3. Jh.    |t Ephemeris belli Troiani    |0 (DE-588)4211814-1    
+700 0 2  |a Dares    |c Phrygius    |d ca. v8. Jh.    |t De excidio Troiae    |0 (DE-588)4289298-3    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Bong V 971 : 2    |9 (41SLSP_UBE)99116927113105511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc IV 64 : 2    |c 404U3    |z Zusammengebunden mit 1 weiteren Druck in Sammelband    |p 12    |j MUE Bong V 971 : 2    |b B404    |9 (41SLSP_UBE)99116927113105511    
+986      |a (41SLSP_UBE)99116927113105511    |9 (41SLSP_UBE)99116927113105511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116927113105511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116927113105511    
+991      |a Bongars: 04018, 03802    |5 IZ UBE/B400/28.05.2010    |9 local    |9 (41SLSP_UBE)99116927113105511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

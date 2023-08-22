@@ -1,0 +1,147 @@
+﻿<-1-1-START->
+Bartholomaeus Anglicus
+<-1-1-STOP->
+
+<-1-2-START->
+De proprietatibus rerum [französisch]
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Vorwort des Übersetzers Jean Corbichon, herausgegeben von Pierre Farget<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Lyon: Matthias Huß, 15.03.1491
+<-3-1-STOP->
+
+<-4-1-START->
+447 ungezählte Seiten: 20 Illustrationen, Druckermarke, Holzschnittinitialen; 35 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW03420.htm<-L-5-STOP-><-VI-5-START->GW 03420<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib00148000<-L-5-STOP-><-VI-5-START->ISTC ib00148000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+224 von 224 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (gelb-braun, Velours) mit Schliessen
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116931356205511<-L-11-STOP-><-VI-11-START->MUE Bong IV 840<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991096276109705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Bartholomaeus Anglicus<-P-STOP->
+<-P-START->Corbichon, Jean<-P-STOP->
+<-P-START->Farget, Pierre<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Lyon<-O-STOP->
+<-P-START->Huß, Matthias<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991096276109705501<-DOI-STOP->
+<-SIGN-START->MUE Bong IV 840<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05120nam a2200649 c 4500
+001 991096276109705501
+005 20211215183757.0
+008 100419s1491    fr            00| | fre  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/19.04.2010    
+035      |a (swissbib)060254580-41slsp_network    
+035      |a 060254580    |9 ExL    
+035      |a (IDSBB)005214784DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991096276109705501    
+035      |a (41SLSP_UBE)99116931356205511    |9 (41SLSP_UBE)99116931356205511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a fre    |h lat    
+100 0    |a Bartholomaeus    |c Anglicus    |d 1190-1250    |0 (DE-588)119098709    |e Verfasser    |4 aut    
+240 1 0  |a De proprietatibus rerum    
+245 1 0  |a <<Le>> proprietaire en francoys    
+246 1 0  |a <<Le>> proprietaire des choses    
+246 1    |i Incipit    |a Cy commence vng tresexcellent liure nomme le proprietaire des choses translate de latin en fra[n]coys ...    
+246 1    |i Incipit in normalisierter Form    |a Cy commence ung tresexcellent livre nomme le proprietaire des choses translate de latin en francoys ...    
+246 1    |i Kolophon    |a Cestuy liure des p[ro]prietes des choses fut tra[n]slate de latin en fra[n]toys lan de grace Mil.CCCC.lxxij. par le co[m]ma[n]deme[n]t de trespuissant: et noble prince Charles le quint de son nom ... Et le traslata son petit et humble chappelain frere Jehan corbichon: de lordre sanct Augustin: maistre en theologie ... Et a este reuisite par venerable et discrete personne frere pierre ferget docteur en theologie du couuent des augustins de lyon    
+246 1    |i Kolophon in normalisierter Form    |a Cestuy livre des proprietes des choses fut translate de latin en frantoys lan de grace Mil.CCCC.lxxii. par le commandement de trespuissant et noble prince Charles le quint de son nom ... Et le traslata son petit et humble chappelain frere Jehan Corbichon de lordre sanct Augustin, maistre en theologie ... Et a este revisite par venerable et discrete personne frere Pierre Ferget docteur en theologie du couvent des augustins de Lyon    
+264   1  |a Et imprime audit lieu de lyon    |b par honnorable homme maistre Mathieu husz: maistre en lart de impression    |c le xv. iour de mars. Lan Mil.CCCC.lxxxxi. [15.03.1491]    
+300      |a 447 ungezählte Seiten    |b 20 Illustrationen    |c 35 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Vorwort des Übersetzers und Inhaltsverzeichnis    
+500      |a Impressum gemäss Kolophon    
+500      |a Gemäss ISTC erst 1492 gedruckt    
+500      |a Druckermarke auf Blatt B₇ verso    
+500      |a Signaturformel: a⁸, a–z⁸, [et]⁸, [con]⁸, A-B⁸    
+500      |a Blatt 1. a₈ ist unbedruckt    
+500      |a Holzschnittinitialen    
+510 4    |a GW    |c 03420    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW03420.htm    
+510 4    |a ISTC    |c ib00148000    |u http://data.cerl.org/istc/ib00148000    
+530      |a Digitalisat (Exemplar der Uppsala universitetsbibliotek)    |u http://gallica.bnf.fr/ark:/12148/bpt6k54516q    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (gelb-braun, Velours) mit Schliessen, in verblassender Tintenschrift auf dem Rücken: "Lyon 1491"    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 34.6 x 25.5 x 5.3 cm    
+563      |a Zustand Einband: Lederüberklebungen am Rücken und auf den Deckeln, Schliessenriemen und Hakenteile vollständig ergänzt, vorderes fliegendes Blatt mit Japanpapier ergänzt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 224 von 224 Blättern, Papierfälze (darunter Druckmakulatur) zwischen den Lagen 1. a und 2. a sowie den Lagen A und B gehören zur Vorsatzkonstruktion, Papierfälze an den Blättern e₁ und e₂ gehören zur Lagenkonstruktion, Blinddruckmarken an den Blättern 1. a₁ recto (Versalien und Wörterreihen), 1. a₃ recto (an Kolumnenrändern) und B₈ recto (flächig rechteckig), vorgesehene Stellen für Initialen frei gelassen    
+590      |a Zustand Buchblock: Feuchtigkeitsränder, Riss an Blatt n₃, Schädlingsfrass an den ersten Blättern    
+590      |a Reste von handschriftlichen Eintragungen am oben abgerissenen vorderen fliegenden Vorsatzblatt    
+590      |a Handschriftliche Annotation in Tinte auf Blatt o₈ recto    
+590      |a Historische Signatur auf Blatt 1. a₂ recto: "Philos 37."    
+590      |a Frühere Signaturen: Inc 122; Inc I 33; V 17    
+700 1    |a Corbichon, Jean    |0 (DE-588)100779212    |e Übersetzer    |4 trl    
+700 1    |a Farget, Pierre    |0 (DE-588)100989063    |e Herausgeber    |4 edt    
+700 1    |a Huß, Matthias    |d 1455-1507    |0 (DE-588)136216099    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 0 2  |a Bartholomaeus    |c Anglicus    |d 1190-1250    |t De proprietatibus rerum    |0 (DE-588)4314716-1    
+751      |a Lyon    |0 (DE-588)4036770-8    
+852 4    |b B404    |c 404U3    |j MUE Bong IV 840    |9 (41SLSP_UBE)99116931356205511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc I 33    |c 404U3    |p 12    |j MUE Bong IV 840    |b B404    |9 (41SLSP_UBE)99116931356205511    
+986      |a (41SLSP_UBE)99116931356205511    |9 (41SLSP_UBE)99116931356205511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116931356205511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116931356205511    
+991      |a Bongars: 01107    |5 IZ UBE/B400/19.04.2010    |9 LOCAL    |9 (41SLSP_UBE)99116931356205511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,134 @@
+﻿<-1-1-START->
+Henricus Arnoldi
+<-1-1-STOP->
+
+<-1-2-START->
+Litania contra Turcos
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Basel: Johann von Amerbach, zwischen 1477 und 1480]
+<-500-START->Erscheinungsjahr gemäss ISTC: 1477-78, BSB: ca. 1478, GW: um 1480<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+8 ungezählte Seiten; 20 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-746.html<-L-5-STOP-><-VI-5-START->BSB-Ink A-746<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW02510.htm<-L-5-STOP-><-VI-5-START->GW 02510<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ia01060000<-L-5-STOP-><-VI-5-START->ISTC ia01060000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+4 von 4 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Pergamenteinband auf Kartondeckeln mit Papier (beige, 17./18. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Johannes Ellin
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 6 weiteren Drucken und 4 Handschriften in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116838078105511<-L-11-STOP-><-VI-11-START->MUE Inc III 105 : 5<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991071773489705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Henricus Arnoldi<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Amerbach, Johannes<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Ellin, Johannes<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991071773489705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 105 : 5<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03234nam a22005052c 4500
+001 991071773489705501
+005 20211215185707.0
+008 080318s1480    sz            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/24.07.2014/B400/vha    
+035      |a (swissbib)052998177-41slsp_network    
+035      |a 052998177    |9 ExL    
+035      |a (IDSBB)004452319DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991071773489705501    
+035      |a (41SLSP_UBE)99116838078105511    |9 (41SLSP_UBE)99116838078105511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Henricus    |c Arnoldi    |d 1407-1487    |0 (DE-588)102492042    |e Verfasser    |4 aut    
+240 1 0  |a Litania contra Turcos    
+245 1 0  |a Co[n]tra Teucros specialis letania [et] preces    |b flexis genibus dicende    |c Jstam letania[m] magne efficacie co[m]posuit venerabilis ac multum deuotus pater d[omi]n[i]s Heinricus arnoldi prior Cartusien[sis] in Baseilea ... Anno d[omi]ni M.cccc.lxxvi. ...    
+246 1    |i Titel gemäss BSB-Ink    |a Contra Turcos specialis litania et preces    
+246 1    |i Titel in normalisierter Form    |a Contra Turcos specialis letania et preces    
+264   1  |a [Basel]    |b [Johann von Amerbach]    |c [um 1480]    
+300      |a 8 ungezählte Seiten    |c 20 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, nur Kopftitel    
+500      |a Verfasserangabe am Ende des Texts    
+500      |a Druckort und Drucker gemäss BSB-Ink, GW und ISTC; Erscheinungsjahr gemäss GW (BSB: ca. 1478, ISTC: 1477-78)    
+500      |a Signaturformel: [a₄]    
+510 4    |a BSB-Ink    |c A-746    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-746.html    
+510 4    |a GW    |c 02510    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW02510.htm    
+510 4    |a ISTC    |c ia01060000    |u http://data.cerl.org/istc/ia01060000    
+530      |a Digitalisat (Exemplar der Universitätsbibliothek Basel)    |u http://www.e-rara.ch/bau_1/ch15/content/titleinfo/1490924    
+561      |a Früherer Eigentümer (erkennbar an den Handschriften im Band): Dr. Johannes Ellin, genannt Dr. Barbatus, Stadtarzt von Bern    
+563      |a Einbandbeschreibung: Halbbezogener Pergamenteinband auf Kartondeckeln mit Papier (beige, 17./18. Jahrhundert); auf dem Rücken die Titel in Tinte; darunter, längs zum Rücken: "Sanctoru[m] Legenda"    
+563      |a Vorsätze: vorne und hinten mit 2 fliegenden Blättern    
+563      |a Masse Einband: 19.8 x 14.9 x 2.6 cm    
+563      |a Zustand Einband: Fliegende Blätter an hinterem Vorsatz an oberer Falzkante nicht aufgeschnitten    
+590      |a Buchblockbeschreibung: 4 von 4 Blättern, handschriftliche Foliierung in Graphit auf Recto-Seiten rechts oben (f.1 - f.4), vorgesehene Stellen für Initialen frei gelassen, keine Rubrizierung    
+590      |a Zusammengebunden mit 6 weiteren Drucken und 4 Handschriften in Sammelband    
+590      |a Frühere Signatur: Inc 596    
+700 0 2  |a Henricus    |c Arnoldi    |d 1407-1487    |t Litania contra Turcos    |0 (DE-588)1124953639    
+700 1    |a Amerbach, Johannes    |d 1440-1513    |0 (DE-588)123073189    |e Drucker    |4 prt    
+700 1    |a Ellin, Johannes    |d ca. 2. H. 15. Jh.    |0 (DE-588)1194516130    |e Früherer Eigentümer    |4 fmo    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc III 105 : 5    |9 (41SLSP_UBE)99116838078105511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit weiteren Drucken und Handschriften    |p 12    |j MUE Inc III 105 : 5    |b B404    |9 (41SLSP_UBE)99116838078105511    
+986      |a (41SLSP_UBE)99116838078105511    |9 (41SLSP_UBE)99116838078105511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116838078105511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116838078105511    
+991      |a MedeaB400: 00031040    |5 IZ UBE/rekat-ubbe    |9 LOCAL    |9 (41SLSP_UBE)99116838078105511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

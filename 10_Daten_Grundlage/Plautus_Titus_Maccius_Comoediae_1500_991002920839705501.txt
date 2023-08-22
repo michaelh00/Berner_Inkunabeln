@@ -1,0 +1,145 @@
+﻿<-1-1-START->
+Plautus, Titus Maccius
+<-1-1-STOP->
+
+<-1-2-START->
+Comoediae
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Brief an den Leser von Filippo Beroaldo, Widmungsbrief von Giovanni Battista Pio an Giovanni Bentivoglio und Nachwort an den Leser von Giovanni Battista Pio<-500-STOP->
+<-500-START->Gedichte von Sebastianus Ducius, Johannes Albertus Marlianus, Antonius Maria Calcaterra, Jacobus Maria Calcaterra, Johannes Salandus, Johannes Franciscus Corpellus und Alexander Gabuardus<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Mailand: Ulrich Scinzenzeler, 18.01.1500
+<-3-1-STOP->
+
+<-4-1-START->
+843 ungezählte Seiten: Druckermarke; 31 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_P-577.html<-L-5-STOP-><-VI-5-START->BSB-Ink P-577<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M33974.htm<-L-5-STOP-><-VI-5-START->GW M33974<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ip00785000<-L-5-STOP-><-VI-5-START->ISTC ip00785000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+422 von 422 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jahrhundert), Ornamentrollen-Blindprägung auf beiden Deckeln und am Rücken
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Nicolaus Artopoeus
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116685658205511<-L-11-STOP-><-VI-11-START->MUE Artopoeus 22<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991002920839705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Plautus, Titus Maccius<-P-STOP->
+<-P-START->Pio, Giovanni Battista<-P-STOP->
+<-P-START->Beroaldo, Filippo<-P-STOP->
+<-P-START->Ducius, Sebastianus<-P-STOP->
+<-P-START->Marlianus, Johannes Albertus<-P-STOP->
+<-P-START->Calcaterra, Antonius Maria<-P-STOP->
+<-P-START->Calcaterra, Jacobus Maria<-P-STOP->
+<-P-START->Salandus, Johannes<-P-STOP->
+<-P-START->Corpellus, Johannes Franciscus<-P-STOP->
+<-P-START->Gabuardus, Alexander<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Mailand<-O-STOP->
+<-P-START->Scinzenzeler, Ulrich<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Artopoeus, Nicolaus<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991002920839705501<-DOI-STOP->
+<-SIGN-START->MUE Artopoeus 22<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03603nam a2200553 c 4500
+001 991002920839705501
+005 20211215172911.0
+008 030731s1500    it            00| | lat  
+019      |a Altbestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von Signaturen    |5 IDSBB/31.07.2003/bestub/eng    
+035      |a (swissbib)04020216X-41slsp_network    
+035      |a 04020216X    |9 ExL    
+035      |a (IDSBB)002904689DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991002920839705501    
+035      |a (41SLSP_UBE)99116685658205511    |9 (41SLSP_UBE)99116685658205511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Plautus, Titus Maccius    |d v254-v184    |0 (DE-588)118594974    |e Verfasser    |4 aut    
+240 1 0  |a Comoediae    
+245 1 0  |a Plautus integer    |b cum interpretatione Joannisbaptistae pij    
+246 1    |i Titel in normalisierter Form    |a Plautus integer    |b cum interpretatione Ioannisbaptistae Pii    
+264   1  |a Impressum Mediolani    |b per Magistrum Vldericum scinzenzeler    |c anno domini .Mccccc. die .xviii. mensis Ianuarii [18.01.1500]    
+300      |a 843 ungezählte Seiten    |c 31 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Brief an den Leser von Filippo Beroaldo dem Älteren, Widmungsbrief von Giovanni Battista Pio an Giovanni Bentivoglio, Nachwort an den Leser von Giovanni Battista Pio und Gedichten von Sebastianus Ducius, Ioannes Albertus Marlianus, Antonius Maria Calcaterra, Iacobus Maria Calcaterra, Ioannes Salandus, Ioannes Franciscus Corpellus und Alexander Gabuardus    
+500      |a Impressum gemäss Kolophon    
+500      |a Druckermarke am Ende    
+500      |a Rot- und Schwarzdruck    
+500      |a Signaturformel: AA⁶, a⁶, b-z⁸, &⁸, [con]⁸, [rum]⁸, A-Z⁸, aa-bb⁸, cc¹⁰    
+510 4    |a BSB-Ink    |c P-577    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_P-577.html    
+510 4    |a GW    |c M33974    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M33974.htm    
+510 4    |a ISTC    |c ip00785000    |u http://data.cerl.org/istc/ip00785000    
+530      |a Digitalisat (Exemplar der Universitätsbibliothek Wien)    |u http://phaidra.univie.ac.at/o:236558    
+561      |a Sammlung Artopoeus    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jh.), Ornamentrollen-Blindprägung auf beiden Deckeln und am Rücken, Titelschild in Goldprägung auf dem Rücken: "Plautus"    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 30.4 x 22.5 x 6.9 cm    
+563      |a Zustand Einband: Schäden am Einbandleder    
+590      |a Buchblockbeschreibung: 422 von 422 Blättern, vorgesehene Stellen für Initialen frei gelassen, Blattweiser    
+590      |a Zustand Buchblock: Blattweiser abgeschnitten oder mit Fehlstellen im Papier herausgetrennt, Schädlingsfrass mit geringem Textverlust    
+590      |a Handschriftliche Annotationen (teilweise auf Deutsch) und Unterstreichungen, vermutlich von Artopoeus    
+590      |a Historische Signatur auf der Titelseite: "Poet. 36"    
+590      |a Frühere Signaturen: Inc 302; Inc IV 11    
+700 1    |a Pio, Giovanni Battista    |d 1475-1543    |0 (DE-588)129355682    |e Kommentarverfasser    |4 wac    
+700 1    |a Beroaldo, Filippo    |d 1453-1505    |0 (DE-588)118656589    |e Verfasser eines Vorworts    |4 wpr    
+700 1    |a Scinzenzeler, Ulrich    |d -1500    |0 (DE-588)13839413X    |e Drucker    |4 prt    
+700 1    |a Artopoeus, Nicolaus    |d 1500-1553    |0 (DE-588)128632380    |e Früherer Eigentümer    |e Annotierende Person    |4 fmo    |4 ann    
+700 1 2  |a Plautus, Titus Maccius    |d v254-v184    |t Comoediae    |0 (DE-588)4219963-3    
+751      |a Mailand    |0 (DE-588)4037100-1    
+852 4    |b B404    |c 404U3    |j MUE Artopoeus 22    |9 (41SLSP_UBE)99116685658205511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc IV 11    |c 404U3    |p 12    |j MUE Artopoeus 22    |b B404    |9 (41SLSP_UBE)99116685658205511    
+986      |a (41SLSP_UBE)99116685658205511    |9 (41SLSP_UBE)99116685658205511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116685658205511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,142 @@
+﻿<-1-1-START->
+Heinrich von Langenstein
+<-1-1-STOP->
+
+<-1-2-START->
+Expositio super orationem dominicam; Expositio super Ave Maria. — Augustinus, Aurelius: Expositio super symbolum et sermo super orationem dominicam
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Basel: Michael Wenssler, nicht nach 1474]
+<-3-1-STOP->
+
+<-4-1-START->
+40 ungezählte Seiten; 29 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_H-70.html<-L-5-STOP-><-VI-5-START->BSB-Ink H-70<-VI-5-STOP->; <-L-5-START->http://gesamtkatalogderwiegendrucke.de/docs/GW12242.htm<-L-5-STOP-><-VI-5-START->GW 12242<-VI-5-STOP->; <-L-5-START->http://gesamtkatalogderwiegendrucke.de/docs/GW12239.htm<-L-5-STOP-><-VI-5-START->GW 12239<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ih00029000<-L-5-STOP-><-VI-5-START->ISTC ih00029000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+20 von 20 Blättern, rot ausgezeichnete Initialen; Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert) mit Sprenkelpapier (braun)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 5 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116816638805511<-L-11-STOP-><-VI-11-START->MUE Bong I 512 : 4<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991148892369705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Heinrich von Langenstein<-P-STOP->
+<-P-START->Augustinus, Aurelius<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Wenssler, Michael<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991148892369705501<-DOI-STOP->
+<-SIGN-START->MUE Bong I 512 : 4<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04079nam a2200601 c 4500
+001 991148892369705501
+005 20211215195529.0
+008 100623s1474    sz            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/23.06.2010    
+035      |a (swissbib)06001394X-41slsp_network    
+035      |a 06001394X    |9 ExL    
+035      |a (IDSBB)005268031DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991148892369705501    
+035      |a (41SLSP_UBE)99116816638805511    |9 (41SLSP_UBE)99116816638805511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Heinrich    |c von Langenstein    |d 1325-1397    |0 (DE-588)118548395    |e Verfasser    |4 aut    
+240 1 0  |a Expositio super orationem dominicam    
+245 1 0  |a Expositio venērabilis magistri heinrici de hassia/ sup[er] domi[ni]cam orat[i]onem    
+246 1 3  |a Expositio venerabilis magistri Heinrici de Hassia, super dominicam orationem    
+246 1    |i Titel gemäss BSB-Inc und ISTC    |a Expositiones super orationem dominicam, et Ave Maria    
+264   1  |a [Basel]    |b [Michael Wenssler]    |c [nicht nach 1474]    
+300      |a 40 ungezählte Seiten    |c 29 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, nur Kopftitel    
+500      |a Impressum gemäss BSB-Ink, GW und ISTC    
+500      |a Signaturformel: [a-b¹⁰]    
+500      |a Blatt [a₁₀] verso unbedruckt    
+505 0 0  |t Exposicio he[n]rici de hassia sup[er] aue maria    |t Incipit exposicio beati Augustini episcopi super Symbolum    |t Incipit sermo beati Augustini episcopi super orationem dominicam    
+510 4    |a BSB-Ink    |c H-70    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_H-70.html    
+510 4    |a GW    |c 12242    |u http://gesamtkatalogderwiegendrucke.de/docs/GW12242.htm    
+510 4    |a GW    |c 12239    |u http://gesamtkatalogderwiegendrucke.de/docs/GW12239.htm    
+510 4    |a ISTC    |c ih00029000    |u http://data.cerl.org/istc/ih00029000    
+530      |a Digitalisat (Exemplar der Universitätsbibliothek Basel; für erstes Werk: GW 12242)    |u http://www.e-rara.ch/bau_1/content/titleinfo/4474280    
+530      |a Digitalisat (Exemplar der Universitätsbibliotehk Basel; für enthaltene Werke: GW 12239)    |u http://www.e-rara.ch/bau_1/content/titleinfo/4450975    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert) mit Sprenkelpapier (braun), Linien-Blindprägung sowie Titelschild auf dem Rücken    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 28.5 x 21.5 x 3 cm    
+563      |a Zustand Einband: Abrieb im Papierbezug dunkel eingefärbt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 20 von 20 Blättern, handschriftliche Lagensignatur in Graphit auf Blättern [a₁] und [b₁]; Foliierung in Tinte am Kopf der Rectoseiten von "203" bis "222"; rot ausgezeichnete Initialen; Rubrizierung    
+590      |a Zustand Buchblock (gesamter Sammelband): Reste von vormaliger Pergamentverstärkungen (Makulatur) in den Lagenmitten, Feuchtigkeitsränder an rot ausgezeichneten Initialen, Abrieb an blau ausgezeichneten Initialen in Teilen 1 bis 5    
+590      |a Handschriftliche Marginalien Unterstreichungen in Tinte    
+590      |a Zusammengebunden mit 5 weiteren Drucken in Sammelband    
+590      |a Frühere Signaturen: Inc IV 21; Inc 41; V 9    
+700 0 2  |a Henricus    |c de Langenstein    |d 1325-1397    |t Expositio super orationem dominicam    |0 (DE-588)112384125X    
+700 0 2  |a Henricus    |c de Langenstein    |d 1325-1397    |t Expositio super Ave Maria    |0 (DE-588)1123842027    
+700 1    |a Augustinus, Aurelius    |c Heiliger    |d 354-430    |0 (DE-588)118505114    |e Verfasser    |4 aut    
+700 1 2  |a Augustinus, Aurelius    |d 354-430    |t Expositio super symbolum et sermo super orationem dominicam    
+700 1    |a Wenssler, Michael    |d 14XX-1512    |0 (DE-588)134121260    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Bong I 512 : 4    |9 (41SLSP_UBE)99116816638805511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc IV 21 : 4    |c 404U3    |z Zusammengebunden mit 5 weiteren Drucken in Sammelband    |p 12    |j MUE Bong I 512 : 4    |b B404    |9 (41SLSP_UBE)99116816638805511    
+986      |a (41SLSP_UBE)99116816638805511    |9 (41SLSP_UBE)99116816638805511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116816638805511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116816638805511    
+991      |a Bongars: 07067    |5 IZ UBE/B400/23.06.2010    |9 LOCAL    |9 (41SLSP_UBE)99116816638805511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

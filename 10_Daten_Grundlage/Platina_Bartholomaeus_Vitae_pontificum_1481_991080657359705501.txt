@@ -1,0 +1,139 @@
+﻿<-1-1-START->
+Platina, Bartholomaeus
+<-1-1-STOP->
+
+<-1-2-START->
+Vitae pontificum
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Brief von Hieronimus Squarzaficus an Platina und Vorwort Platinas an Sixtus IV.<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Nürnberg]: Anton Koberger, 11.08.1481
+<-3-1-STOP->
+
+<-4-1-START->
+254 ungezählte Seiten; 31 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_P-566.html<-L-5-STOP-><-VI-5-START->BSB-Ink P-566<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M33881.htm<-L-5-STOP-><-VI-5-START->GW M33881<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ip00769000<-L-5-STOP-><-VI-5-START->ISTC ip00769000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+128 von 128 Blättern, rot und blau ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jahrhundert), Ornamentrollen-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Georius Ringler; Barfüsserkloster Bern
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116851070105511<-L-11-STOP-><-VI-11-START->MUE Inc I 63<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991080657359705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Platina, Bartholomaeus<-P-STOP->
+<-P-START->Squarciafico, Girolamo<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Nürnberg<-O-STOP->
+<-P-START->Koberger, Anton<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Ringler, Georius<-P-STOP->
+<-P-START->Barfüsserkloster Bern<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991080657359705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 63<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03961nam a2200577 c 4500
+001 991080657359705501
+005 20211215183243.0
+008 171019s1481    gw |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/19.10.2017/B404/faf    
+035      |a (swissbib)074675095-41slsp_network    
+035      |a 074675095    |9 ExL    
+035      |a (IDSBB)006740899DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991080657359705501    
+035      |a (41SLSP_UBE)99116851070105511    |9 (41SLSP_UBE)99116851070105511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Platina, Bartholomaeus    |d 1421-1481    |0 (DE-588)118898027    |e Verfasser    |4 aut    
+240 1 0  |a Vitae pontificum    
+245 1 0  |a Excellentissimi historici Platine in vitas summorum pontificum ad Sixtum .iiij. pontificem maximum preclaru[m] opus feliciter explicit    
+246 1 0  |a In vitas summorum pontificum    
+246 1    |i Titel gemäss BSB-Ink    |a Liber de vita Christi ac pontificum omnium    
+246 1    |i Titel in normalisierter Form    |a Excellentissimi historici Platine in vitas summorum pontificum ad Sixtum iiii. pontificem maximum preclarum opus feliciter explicit    
+246 1    |i Titel von Blatt a₃ recto    |a Platine historici liber de vita christi: ac pontificum omniu[m]: qui hactenus ducenti [et] vigintiduo fuere    
+264   1  |a [Nürnberg]    |b accurate castigatu[m] ac impe[n]sa Antonij koburger Nurenberge impressum    |c iij. idus augusti consummatum. Anno salutis chr[ist]iane. M.cccclxxxj. [11.08.1481]    
+300      |a 254 ungezählte Seiten    |c 31 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Brief von Hieronimus Squarzaficus an Platina und Vorwort Platinas an Sixtus IV.    
+500      |a Keine Titelseite, Titel gemäss Kolophon    
+500      |a Impressum gemäss Kolophon    
+500      |a Signaturformel: [a¹⁰, b–r⁶, s⁸, t⁶, v⁸]    
+500      |a Die Blätter [a₁] recto, [a₂] verso und [v₈] verso sind unbedruckt    
+510 4    |a BSB-Ink    |c P-566    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_P-566.html    
+510 4    |a GW    |c M33881    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M33881.htm    
+510 4    |a ISTC    |c ip00769000    |u http://data.cerl.org/istc/ip00769000    
+530      |a Digitalisat (Exemplar der Universitäts- und Landesbibliothek Darmstadt)    |u http://tudigit.ulb.tu-darmstadt.de/show/inc-iv-131    
+561      |a Rubrikatorenvermerk am Ende: "Hoc uolume[n] e[st] ad usum f[rat]ris Georij Ringler. p[ost]ea [con]ue[n]tus b[er]n[en]si[s] mi[n]o[rum] fra[tru]m ... volume[n] 1487 sui l[e]ct[or]atus officij ibide[m] c[om]p[ar]auit."    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jh.), Ornamentrollen-Blindprägung auf beiden Deckeln, Linien-Blindprägung sowie Titelschild in Goldprägung auf dem Rücken    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 30.8 x 22.2 x 3.6 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, Lederfragmente zurückgeklebt    
+590      |a Buchblockbeschreibung: 128 von 128 Blättern, rot und blau ausgezeichnete Initialen, Rubrizierung    
+590      |a Zustand Buchblock: Abrieb am blauen Farbmittel der ausgezeichneten Zierinitiale    
+590      |a Im Vorwort handschriftliche Unterstreichungen in Tinte    
+590      |a Frühere Signatur: Inc 52    
+700 1    |a Squarciafico, Girolamo    |d ca. 15./16. Jh.    |0 (DE-588)119836262    |e Verfasser eines Vorworts    |4 wpr    
+700 1    |a Koberger, Anton    |d 1440-1513    |0 (DE-588)118563890    |e Drucker    |e Verlag    |4 prt    |4 pbl    
+700 1    |a Ringler, Georius    |d ca. 15. Jh.    |0 (DE-588)1141943506    |e Früherer Eigentümer    |4 fmo    
+700 1 2  |a Platina, Bartholomaeus    |d 1421-1481    |t Vitae pontificum    |0 (DE-588)7575813-1    
+710 2    |a Barfüsserkloster Bern    |0 (DE-588)1135938032    |e Früherer Eigentümer    |4 fmo    
+751      |a Nürnberg    |0 (DE-588)4042742-0    
+852 4    |b B404    |c 404U3    |j MUE Inc I 63    |9 (41SLSP_UBE)99116851070105511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc I 63    |b B404    |9 (41SLSP_UBE)99116851070105511    
+986      |a (41SLSP_UBE)99116851070105511    |9 (41SLSP_UBE)99116851070105511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116851070105511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

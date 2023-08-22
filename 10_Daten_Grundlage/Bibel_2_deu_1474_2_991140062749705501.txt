@@ -1,0 +1,141 @@
+﻿<-1-1-START->
+Bibel [deutsch]
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Übersetzung der lateinischen Vulgata des Hieronymus, sowie seinen Prologen und Briefen an Paulinus von Nola und Papst Damasus I.<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Augsburg: [Günther Zainer], [zwischen 1474 und 1476]
+<-500-START->Druckdatum gemäss BSB-Ink und GW um 1475/1476; im ISTC zusätzlich: "not after 1474"<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, CLXXXv Blätter, 1 ungezähltes Blatt, Blätter CLXXXvj-CCCCxxj, Cx Blätter: 76 Illustrationen in Holzschnittinitialen; 49 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-485.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-485 B-485<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW04298.htm<-L-5-STOP-><-VI-5-START->GW 04298<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib00627000<-L-5-STOP-><-VI-5-START->ISTC ib00627000<-VI-5-STOP->; <-L-5-START->https://doi.org/10.11588/diglit.16392<-L-5-STOP-><-VI-5-START->Schramm, Albert: Der Bilderschmuck der Frühdrucke Band 2, Seite 19 und 24, Nummer 609-679<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+533 von 534 Blättern, rot ausgezeichnete Initialen, grosse Initialen zu Beginn der jeweiligen Bücher mehrfarbig koloriert
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen und Eck- und Mittelbeschlägen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, Linien-Blindprägung auf dem Rücken, Ornamentstempel-Blindprägung an den Deckelinnenkanten, Spuren einer Kettenöse am oberen Rand des Rückdeckels
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Werner Zesiger; Fürstlich-Oettingen-Wallerstein'sche Bibliothek (Maihingen)
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Unbedrucktes Blatt vor Blatt [c₈] ist herausgeschnitten
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116790837905511<-L-11-STOP-><-VI-11-START->MUE Zesk 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991140062749705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Augsburg<-O-STOP->
+<-P-START->Günther Zainer<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Zesiger, Werner<-P-STOP->
+<-P-START->Fürstlich-Oettingen-Wallerstein'sche Bibliothek (Maihingen)<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991140062749705501<-DOI-STOP->
+<-SIGN-START->MUE Zesk 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06746nam a2200613 c 4500
+001 991140062749705501
+005 20220222094417.0
+008 941124q14741476gw            00| | ger d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von Signaturen.    |5 IDSBB/28.10.1994/bestub/mes    
+035      |a (swissbib)024757640-41slsp_network    
+035      |a 024757640    |9 ExL    
+035      |a (IDSBB)001051009DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991140062749705501    
+035      |a (41SLSP_UBE)99116790837905511    |9 (41SLSP_UBE)99116790837905511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a ger    |h heb    |h grc    |h arc    
+130 0    |a Bibel    |0 (DE-588)4006406-2    
+245 1 0  |a Diß durchleúchtigost werck der gantzen heyligen geschrifft. genandt die Bibel ... hat hie ein ende    |b fúr all ander vorgedrucket teútsch biblen. lauterer. klärer. vnnd warer. nach rechter gemeinen teútsch dan[n] vorgetrucket    
+246 1    |i Titel gemäss BSB-Ink, GW und ISTC    |a Biblia    
+246 1    |i Titel in moderner Orthografie    |a Dies durchleuchtigst Werk der ganzen heiligen Geschrift, genannt die Bibel ... hat hier ein Ende    
+246 1    |i Titel in normalisierter Form    |a Diß durchleuchtigost Werck der gantzen heyligen Geschrifft, genandt die Bibel ... hat hier ein Ende    |b fur all ander vorgedrucket teutsch Biblen lauterer, klärer, unnd warer, nach rechter gemeinen teutsch dann vorgetrucket    
+264   1  |a Jn der hochwirdigen keyserlichen stat Augspurg ...    |b [Günther Zainer]    |c [zwischen 1474 und 1476]    
+300      |a 1 ungezähltes Blatt, CLXXXv Blätter, 1 ungezähltes Blatt, Blätter CLXXXvj-CCCCxxj, Cx Blätter    |b 76 Illustrationen    |c 49 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss Kolophon    
+500      |a Druckort gemäss Kolophon, Drucker und Erscheinungsjahr gemäss BSB-Ink und GW    
+500      |a Im ISTC Erscheinungsjahr "not after 1474", gemäss BMC; demnach schenkte Zainer angeblich ein Exemplar der Kartause Buxheim mit Eintrag "1474", der jedoch im Exemplar der BSB aus Buxheim fehlt; siehe BSB-Ink); gemäss GW wird die Ausgabe in Zainers Bücheranzeigen erst 1476 erwähnt, noch nicht 1474    
+500      |a Signaturformel: [a¹⁰, b⁸, c⁸+¹, d–s¹⁰, t¹⁰+¹, v–z¹⁰, A–S¹⁰, T-V⁸, X–Z¹⁰, aa–hh¹⁰]    
+500      |a Blatt [a₁] und zusätzliches Blatt vor Blatt [c₈] (Blatt XXiiij) unbedruckt, zusätzliches Blatt nach Blatt [t₁₀] (Blatt CLXXXv) nur mit einer Spalte auf der Recto-Seite    
+500      |a Überschriften über einzelnen Büchern und Kolophon rot gedruckt    
+500      |a 76 grosse Holzschnitt-Initialen mit Illustrationen zum jeweiligen Buch    
+510 4    |a BSB-Ink B-485    |c B-485    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-485.html    
+510 4    |a GW    |c 04298    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW04298.htm    
+510 4    |a ISTC    |c ib00627000    |u http://data.cerl.org/istc/ib00627000    
+510 4    |a Schramm, Albert: Der Bilderschmuck der Frühdrucke    |c Band 2, Seite 19 und 24, Nummer 609-679    |u https://doi.org/10.11588/diglit.16392    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München, Register, Brief des Hieronymus, Genesis bis Sprüche Salomons)    |u http://daten.digitale-sammlungen.de/bsb00025978/image_6    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München, Ecclesiastes bis Offenbarung)    |u http://daten.digitale-sammlungen.de/bsb00025979/image_525    
+561      |a Stempel auf vorderem und hinteren Spiegel: "F. Öttingen Wallerstein'sche Bibliothek"    
+561      |a Stempel auf vorderem fliegenden Blatt: "Dr. Zesiger"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen und Eck- und Mittelbeschlägen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, Linien-Blindprägung auf dem Rücken, Ornamentstempel-Blindprägung an den Deckelinnenkanten, Spuren einer Kettenöse am oberen Rand des Rückdeckels, Titelschild aus Papier auf vorderen Deckel geklebt, mit Titel in Tinte: "Textus totius Bible uuvlgaris"; zwei Titelschilder auf dem Rücken in Goldruck; oberes: "Deutsche Bibel, Augsburg"; darunter, teils unleserlich: "... [M]it Zeinerisch Letteren [C]irca 1472"    
+563      |a Vorsätze: Vorne mit einem und hinten ohne fliegendes Blatt    
+563      |a Masse: 33.5 x 48.5 x 13.3 cm    
+563      |a Zustand Einband: Schädlingsfrass an den Einbanddeckeln, abrasive Frass-Schäden an den Titelschildern (teilweise nur noch Tintenschrift oder Vergoldung vorhanden), Loch mit Korrosionsspuren der vormaligen Ankettung, Einbandleder im vorderen Falz bis zur Hälfte und hinten teilweise gebrochen, mit hoch stehenden Fragmenten, gelöste Verklebung des Einbandleders an oberer Kante des Vorderdeckels (unterliegendes Einbandleder sichtbar), Kern des unteren Kapitals in beiden Fälzen gebrochen, mit gelockerter Umstechung (siehe auch gelöste Fäden an oberem Kapital)    
+590      |a Buchblockbeschreibung: 533 von 534 Blättern, Papierfalzverstärkung zwischen fliegendem Blatt und Blatt [a₁], rot ausgezeichnete Initialen, grosse Initialen zu Beginn der jeweiligen Bücher mehrfarbig koloriert, Blatt I (Brief des Hieronymus dazu mit Blumenranke oben und links am Rand der Seite; Blattweiser    
+590      |a Zustand Buchblock: Blätter unterschiedlich stark verbräunt mit zahlreichen Verfleckungen vor allem der letzten Blätter, zahlreiche Risse an fliegendem Blatt und den ersten Blättern [a₁] und [a₂], Papierüberklebung an Blatt [a₁] verso, Rissschliessung und Fehlstellenergänzung an Blatt [a₁] mit Japanpapier, Rissschliessung an Blatt [a₂] mit Japanpapier, Blattweiser aus Leder teilweise abgelöst    
+590      |a Unbedrucktes Blatt vor Blatt [c₈] ist herausgeschnitten; vom einspaltig bedruckten Blatt nach Blatt [t₁₀] (Blatt CLXXXv) ist die äussere, unbedruckte Hälfte weggeschnitten (so auch im Exemplar der BSB München)    
+590      |a Vereinzelte handschriftliche Marginalien    
+590      |a Historische Signatur auf vorderem Spiegel in Graphit: "19.a.8."; auf vorderem fliegenden Blatt, unter dem Stempel von "Dr. Zesiger": "G II 345"    
+700 0    |a Günther    |c Zainer    |d 1430-1478    |0 (DE-588)118636111    |e Drucker    |4 prt    
+700 1    |a Zesiger, Werner    |d 1902-1958    |0 (DE-588)121027392    |e Früherer Eigentümer    |4 fmo    
+710 2    |a Fürstlich-Oettingen-Wallerstein'sche Bibliothek    |g Maihingen    |0 (DE-588)16277266-X    |e Früherer Eigentümer    |4 fmo    
+751      |a Augsburg    |0 (DE-588)4003614-5    
+852 4    |b B404    |c 404U3    |j MUE Zesk 1    |9 (41SLSP_UBE)99116790837905511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Zesk 1    |b B404    |9 (41SLSP_UBE)99116790837905511    
+986      |a (41SLSP_UBE)99116790837905511    |9 (41SLSP_UBE)99116790837905511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116790837905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

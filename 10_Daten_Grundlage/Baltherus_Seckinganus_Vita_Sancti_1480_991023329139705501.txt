@@ -1,0 +1,151 @@
+﻿<-1-1-START->
+Baltherus Seckinganus
+<-1-1-STOP->
+
+<-1-2-START->
+Vita Sancti Fridolini
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Erster Druck der Lebensbeschreibung des Fridolin von Säckingen, verfasst von Balther von Säckingen, basierend auf der von Johannes Gerster 1432 angefertigten Abschrift einer deutschen Übersetzung<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Basel: Bernhard Richel, um 1480]
+<-3-1-STOP->
+
+<-4-1-START->
+82 ungezählte Seiten, 1 ungezähltes Blatt: 60 Illustrationen; 28 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW03226.htm<-L-5-STOP-><-VI-5-START->GW 03226<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib00045200<-L-5-STOP-><-VI-5-START->ISTC ib00045200<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+41 von 42 Blättern, erste Illustration teilweise rot koloriert, rot ausgezeichnete Initiale auf Blatt a₂, Rubrizierung nur auf Blatt a₂
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jahrhundert), Linien- und Ornamentrollen-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Familie von Lerber; Rudolf Emanuel von Lerber
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Oratio in synodo Argentinensi / Johannes Geiler von Kaysersberg. [Straßburg: Heinrich Eggestein, nicht vor 18.04.1482]
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Das unbedruckte Blatt e₁₀ fehlt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116860051505511<-L-11-STOP-><-VI-11-START->MUE Inc III 66 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991023329139705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Baltherus Seckinganus<-P-STOP->
+<-P-START->Gerster, Johannes<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Richel, Bernhard<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Lerber (Familie)<-P-STOP->
+<-P-START->Lerber, Rudolf Emanuel von<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991023329139705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 66 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04317nam a2200637 c 4500
+001 991023329139705501
+005 20211215173417.0
+007 cr |||||||||||
+008 080609s1480    sz            00| | ger  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/08.12.2016/B404/faf    
+024 7    |a 10.3931/e-rara-22946    |2 doi    
+035      |a (swissbib)055646263-41slsp_network    
+035      |a 055646263    |9 ExL    
+035      |a (IDSBB)004518628DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991023329139705501    
+035      |a (41SLSP_UBE)99116860051505511    |9 (41SLSP_UBE)99116860051505511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a ger    |h lat    
+100 0    |a Baltherus    |c Seckinganus    |d -987    |0 (DE-588)118652206    |e Verfasser    |4 aut    
+240 1 0  |a Vita Sancti Fridolini    
+245 1 0  |a Hie endet sich Sant Fridolinus leben mit der vorrede vnd gezugnuß vnd [der] grossen wunderwerck die er gewurket hat vnd die got durch in gewurket hat nach synem tode    
+246 1    |i Incipit    |a Im namen vatters vnd suns vnd des heyligen geistes. Dis ist die vorrede in sant Fridlins leben vnd zuknuß der warheit aller [der] nachgeschriben dingen die hie stant    
+246 1    |i Titel gemäss GW    |a Vita S. Fridolini, deutsch    
+264   1  |a [Basel]    |b [Bernhard Richel]    |c [um 1480]    
+300      |a 82 ungezählte Seiten, 1 ungezähltes Blatt    |b 60 Illustrationen    |c 28 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b c    |2 rdamedia    
+337      |b n    |2 rdamedia    
+338      |b cr    |2 rdacarrier    
+338      |b nc    |2 rdacarrier    
+500      |a Erster Druck der Lebensbeschreibung des Fridolin von Säckingen, verfasst von Balther von Säckingen, basierend auf der von Johannes Gerster 1432 angefertigten Abschrift einer deutschen Übersetzung    
+500      |a Keine Titelseite, Titel gemäss Explicit    
+500      |a Impressum gemäss GW und ISTC    
+500      |a Bei der Illustration wurden einige Druckstöcke mehrfach verwendet    
+500      |a Signaturformel: a-d⁸, e¹⁰    
+500      |a Blatt e₁₀ ist unbedruckt    
+510 4    |a GW    |c 03226    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW03226.htm    
+510 4    |a ISTC    |c ib00045200    |u http://data.cerl.org/istc/ib00045200    
+561      |a Supralibros auf Vorderdeckel: Wappen der Familie von Lerber (Wegmann 4359 b); aus dem Nachlass von Rudolf Emanuel von Lerber (1794)    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jh.), Linien- und Ornamentrollen-Blindprägung auf beiden Deckeln    
+563      |a Vorsätze: Vorne mit 2 fliegenden Blättern, hinten mit 3 fliegenden Blättern    
+563      |a Masse Einband: 27.6 x 20.5 x 2 cm    
+563      |a Zustand Einband: Rücken vollständig ergänzt mit Linien-Blindprägung auf neuem Leder    
+590      |a Buchblockbeschreibung: 41 von 42 Blättern, Foliierung in Graphit, Bogenmitten jeweils innen mit Büttenpapier entsprechend dem Vorsatzpapier verstärkt, Zählung der Illustrationen in Graphit, erste Illustration teilweise rot koloriert, rot ausgezeichnete Initiale auf Blatt a₂, weitere vorgesehene Stellen für Initialen frei gelassen, Rubrizierung nur auf Blatt a₂    
+590      |a Zustand Buchblock: Schimmelverfleckungen und Schädlingsfrass an den oberen Blattkanten (im hinteren Teil beschnitten und mit Büttenpapier angesetzt), Brüche an den Kanten der Innenverstärkung der Doppelblattmitten    
+590      |a Unvollständiges Exemplar: Das unbedruckte Blatt e₁₀ fehlt    
+590      |a Zusammengebunden mit: Oratio in synodo Argentinensi / Johannes Geiler von Kaysersberg. Strassburg : Heinrich Eggestein, nicht vor 18. April 1482    
+590      |a Frühere Signatur: Inc 48 a    
+700 0 2  |a Baltherus    |c Seckinganus    |d -987    |t Vita Sancti Fridolini    |0 (DE-588)4340119-3    
+700 1    |a Gerster, Johannes    |d ca. 1. H. 15. Jh.    |0 (DE-588)1089850441    |e Mitwirkender    |4 ctb    
+700 1    |a Richel, Bernhard    |d -1482    |0 (DE-588)136009115    |e Drucker    |4 prt    
+700 3    |a Von Lerber    |c Familie    |0 (DE-588)1023759969    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Lerber, Rudolf Emanuel <<von>>    |d 1763-1794    |0 (DE-588)1121241654    |e Früherer Eigentümer    |4 fmo    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc III 66 : 1    |9 (41SLSP_UBE)99116860051505511    
+856 4    |u http://dx.doi.org/10.3931/e-rara-22946    |z Digitalisat in e-rara    
+900      |a IDSIxhybrid-el    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 1 weiteren Druck in Sammelband    |p 12    |j MUE Inc III 66 : 1    |b B404    |9 (41SLSP_UBE)99116860051505511    
+986      |a (41SLSP_UBE)99116860051505511    |9 (41SLSP_UBE)99116860051505511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116860051505511    
+990      |f erarabe    |9 LOCAL    |9 (41SLSP_UBE)99116860051505511    
+990      |f lza-cc0    |9 LOCAL    |9 (41SLSP_UBE)99116860051505511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116860051505511    
+991      |a AAK: 288914 (Titel: Fridolin, Der Heilige), 46203 (Autor; mit Titel: Vita S. Fridolini deutsch), 46205 (Autor; mit Titel: Sankt Fridolins Leben)    |5 IZ UBE/beubzb/bmr/03.12.2008    |9 LOCAL    |9 (41SLSP_UBE)99116860051505511    
+991      |a MedeaB400: 00288914    |5 IZ UBE/rekat-ubbe    |9 LOCAL    |9 (41SLSP_UBE)99116860051505511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

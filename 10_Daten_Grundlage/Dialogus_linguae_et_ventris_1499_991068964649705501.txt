@@ -1,0 +1,151 @@
+﻿<-1-1-START->
+Dialogus linguae et ventris
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Manchmal fälschlicherweise Johannes von Salisbury zugeschrieben<-500-STOP->
+<-500-START->Mit gedruckten Marginal- und Interlinearglossen, vermutlich von William Horman (in Erstausgabe am Ende: "W.H."), dem manchmal fälschlicherweise auch das Werk selbst zugeschrieben wird<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Paris: Pierre Le Dru] für Claude Jaumar, [1499 oder 1500?]
+<-500-START->Gemäss GW gedruckt von Etienne Jehannot, um 1495<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+12 ungezählte Seiten; 21 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW0828005.htm<-L-5-STOP-><-VI-5-START->GW 828005<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/id00165000<-L-5-STOP-><-VI-5-START->ISTC id00165000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+6 von 6 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener einteiliger Kartoneinband (chamois, Papier, 18. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 10 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116926955205511<-L-11-STOP-><-VI-11-START->MUE Bong IV 888 : 4<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991068964649705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Horman, William<-P-STOP->
+<-P-START->Johannes von Salisbury<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Paris<-O-STOP->
+<-P-START->Le Dru, Pierre<-P-STOP->
+<-O-START->Paris<-O-STOP->
+<-P-START->Jehannot, Etienne<-P-STOP->
+<-O-START->Paris<-O-STOP->
+<-P-START->Jaumar, Claude<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991068964649705501<-DOI-STOP->
+<-SIGN-START->MUE Bong IV 888 : 4<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03284nam a2200613 c 4500
+001 991068964649705501
+005 20211215184445.0
+007 cr#|||||||||||
+008 100531q14991500fr            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/31.05.2010    
+024 7    |a 10.3931/e-rara-88399    |2 doi    
+035      |a (swissbib)062652567-41slsp_network    
+035      |a 062652567    |9 ExL    
+035      |a (IDSBB)005236420DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991068964649705501    
+035      |a (41SLSP_UBE)99116926955205511    |9 (41SLSP_UBE)99116926955205511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+130 0    |a Dialogus linguae et ventris    |0 (DE-588)1114190004    
+245 1 0  |a Dyalogus lingue et ventris    
+264   1  |a [Paris]    |b [Pierre Le Dru]    |b Pro Claudio Iaumar librario alme vniuersitatis parisiensis    |c [1499 oder 1500?]    
+300      |a 12 ungezählte Seiten    |c 21 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+337      |b c    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+338      |b cr    |2 rdacarrier    
+500      |a Keine Titelseite, nur Kopftitel    
+500      |a Manchmal fälschlicherweise Johannes von Salisbury zugeschrieben    
+500      |a Mit gedruckten Marginal- und Interlinearglossen, vermutlich von William Horman (in Erstausgabe am Ende: "W.H."), dem manchmal fälschlicherweise auch das Werk selbst zugeschrieben wird    
+500      |a Verleger gemäss Kolophon, Druckort nur als Wohnsitz des Verlegers genannt    
+500      |a Drucker und mutmasslicher Druckzeitraum gemäss ISTC; gemäss GW: Etienne Jehannot, um 1495    
+500      |a Signaturformel: a⁶    
+510 4    |a GW    |c 828005    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW0828005.htm    
+510 4    |a ISTC    |c id00165000    |u http://data.cerl.org/istc/id00165000    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Halbbezogener einteiliger Kartoneinband (chamois, Papier, 18. Jh.)    
+563      |a Vorsätze: Vorne mit 2 fliegenden Blättern und hinten mit 3 fliegenden Blättern    
+563      |a Masse Einband: 20.8 x 14.8 x 4.7 cm    
+563      |a Zustand Einband: Vormaliger Pergamentüberzug am Rücken vollständig durch Papier ergänzt    
+590      |a Buchblockbeschreibung: 6 von 6 Blättern    
+590      |a Zustand Buchblock: Blatt a₁ mit Fehlstelle an unterer Ecke    
+590      |a Zusammengebunden mit 10 weiteren Drucken in Sammelband    
+590      |a Am Ende des Sammelbands sind 18 unbedruckte Blätter eingebunden    
+590      |a Historische Signaturen auf vorderem Spiegel: "146" (durchgestrichen); "Hist. Prof. 242"    
+590      |a Frühere Signaturen: Inc 579; Inc IV 42; XV 51    
+700 1    |a Horman, William    |d ca. 1457-1535    |0 (DE-588)1020455349    |e Kommentarverfasser    |4 wac    
+700 0    |a Johannes    |c von Salisbury, Bischof    |d 1115-1180    |0 (DE-588)11855803X    |e Verfasser    |4 aut    
+700 1    |a Le Dru, Pierre    |0 (DE-588)1075214270    |e Drucker    |4 prt    
+700 1    |a Jehannot, Etienne    |0 (DE-588)1037630998    |e Drucker    |4 prt    
+700 1    |a Jaumar, Claude    |d 14XX-15XX    |0 (DE-588)1037642503    |e Verlag    |4 pbl    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+751      |a Paris    |0 (DE-588)4044660-8    
+852 4    |b B404    |c 404U3    |j MUE Bong IV 888 : 4    |9 (41SLSP_UBE)99116926955205511    
+856 4    |u https://doi.org/10.3931/e-rara-88399    |z Digitalisat in e-rara    
+900      |a IDSIxunikat    
+900      |a IDSIxhybrid-el    
+900      |a NOMERGEALEX    
+949      |i ZB Inc IV 42 : 4    |c 404U3    |z Zusammengebunden mit 10 weiteren Drucken in Sammelband    |p 12    |j MUE Bong IV 888 : 4    |b B404    |9 (41SLSP_UBE)99116926955205511    
+986      |a (41SLSP_UBE)99116926955205511    |9 (41SLSP_UBE)99116926955205511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116926955205511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116926955205511    
+990      |f erarabe    |9 local    |9 (41SLSP_UBE)99116926955205511    
+990      |f lza-cc0    |9 local    |9 (41SLSP_UBE)99116926955205511    
+991      |a Bongars: 03998    |5 IZ UBE/B400/31.05.2010    |9 local    |9 (41SLSP_UBE)99116926955205511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

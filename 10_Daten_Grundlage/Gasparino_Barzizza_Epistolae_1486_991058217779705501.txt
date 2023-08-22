@@ -1,0 +1,133 @@
+﻿<-1-1-START->
+Gasparino Barzizza
+<-1-1-STOP->
+
+<-1-2-START->
+Epistolae
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Straßburg: Johann Prüss, 24.12.1486
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 131 ungezählte Seiten, 1 ungezähltes Blatt; 19 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-222.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-222<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW03683.htm<-L-5-STOP-><-VI-5-START->GW 03683<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib00264000<-L-5-STOP-><-VI-5-START->ISTC ib00264000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+60 von 68 Blättern, Anfangsinitiale rot, zweite Initiale blau ausgezeichnet, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Pergamenteinband auf Kartondeckeln (18. Jahrhundert) mit Sprenkelpapier (braun)
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Cato moralissimus [Disticha Catonis]. Basel: Kessler, 1488
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Lage b (8 Blätter) fehlt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116697275105511<-L-11-STOP-><-VI-11-START->MUE Inc III 106 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991058217779705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Gasparino Barzizza<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Prüss, Johann<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991058217779705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 106 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03313nam a2200529 c 4500
+001 991058217779705501
+005 20211215174856.0
+008 170502s1486    fr |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/02.05.2017/B404/vha    
+035      |a (swissbib)074262130-41slsp_network    
+035      |a 074262130    |9 ExL    
+035      |a (IDSBB)006695321DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991058217779705501    
+035      |a (41SLSP_UBE)99116697275105511    |9 (41SLSP_UBE)99116697275105511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Gasparino    |c Barzizza    |d 1360-1431    |0 (DE-588)100942091    |e Verfasser    |4 aut    
+240 1 0  |a Epistolae    
+245 1 0  |a Epistole Gasparini    
+246 1 0  |a Epistolarum liber    
+246 1    |i Incipit    |a Gasparini Pergamensis clarissimi oratoris epistolarum liber feliciter incipit    
+246 1    |i Titel gemäss BSB-Ink    |a Epistulae    
+246 1    |i Titel in moderner Orthografie    |a Epistolae Gasparini    
+264   1  |a Argent[i]n[i]    |b Impressu[m] Per Johannem priiß    |c Anno d[omi]ni M.cccc.lxxxvi. in vigila natiuitatis domini [24.12.1486]    
+300      |a 1 ungezähltes Blatt, 131 ungezählte Seiten, 1 ungezähltes Blatt    |c 19 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Impressum gemäss Kolophon (Blatt i₅ recto)    
+500      |a Signaturformel: a–f⁸, g⁶, h⁸, i⁶    
+500      |a Blatt i₆ (letztes Blatt) unbedruckt    
+510 4    |a BSB-Ink    |c B-222    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-222.html    
+510 4    |a GW    |c 03683    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW03683.htm    
+510 4    |a ISTC    |c ib00264000    |u http://data.cerl.org/istc/ib00264000    
+530      |a Digitalisat (Exemplar der Universitäts- und Landesbibliothek Darmstadt; im Titel 'G' von Gasparini mit anderer Drucktype, sonst satzidentisch)    |u http://tudigit.ulb.tu-darmstadt.de/show/inc-ii-151    
+563      |a Einbandbeschreibung: Halbbezogener Pergamenteinband auf Kartondeckeln (18. Jahrhundert) mit Sprenkelpapier (braun), handschriftlicher Titel auf dem Rücken in Majuskeln in Tinte: "Catonis Disticha / Gasparini Epistolæ"; darunter, verblasst: "1486. / 1488.", darunter: "Basil."    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 18.3 x 13.4 x 2.3 cm    
+563      |a Zustand Einband: beide Vorsätze im Falz verstärkt, geölte Japanpapier-Ergänzung am oberen Häubchen    
+590      |a Buchblockbeschreibung: 60 von 68 Blättern, Anfangsinitiale rot, zweite Initiale blau ausgezeichnet (beide auf Blatt a₂ recto), Rubrizierung (rote und wenige blaue Paragraphenzeichen)    
+590      |a Zustand Buchblock: Verfleckungen eines vormaligen Schimmelschadens mit geschwächten Papierbereichen und Fehlstellen    
+590      |a Unvollständiges Exemplar: Lage b (8 Blätter) fehlt    
+590      |a Wenige handschriftliche Annotationen in Tinte    
+590      |a Zusammengebunden mit: Cato moralissimus [Disticha Catonis]. Basel: Kessler, 1488    
+590      |a Frühere Signatur: Inc 597    
+700 0 2  |a Gasparino    |c Barzizza    |d 1360-1431    |t Epistolae    |0 (DE-588)1131083024    
+700 1    |a Prüss, Johann    |d 1447-1510    |0 (DE-588)135917018    |e Drucker    |4 prt    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Inc III 106 : 2    |9 (41SLSP_UBE)99116697275105511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit einem weiteren Druck    |p 12    |j MUE Inc III 106 : 2    |b B404    |9 (41SLSP_UBE)99116697275105511    
+986      |a (41SLSP_UBE)99116697275105511    |9 (41SLSP_UBE)99116697275105511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116697275105511    
+991      |a AAK: 52085    |5 IZ UBE/02.05.2017/B404/vha    |9 LOCAL    |9 (41SLSP_UBE)99116697275105511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

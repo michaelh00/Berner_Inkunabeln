@@ -1,0 +1,136 @@
+﻿<-1-1-START->
+Cicero, Marcus Tullius
+<-1-1-STOP->
+
+<-1-2-START->
+In Catilinam; In Sallustium invectiva. — In Lucium Catilinam invectiva. — In M. Tullium responsiva invectiva. — Sallustius Crispus, Gaius: Invectiva in M. Tullium Ciceronem
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Herausgegeben von Philippus Beroaldus<-500-STOP->
+<-500-START->Die "In Sallustium invectiva" wird Cicero zu Unrecht zugeschrieben. Die hier als 5. Rede Ciceros "In Catilinam" bezeichnete "In Lucium Catilinam invectiva" (Incipit: Non est amplius tempus otii ...) ist nicht identisch mit der ebenfalls oft als 5. Rede Ciceros bezeichneten "Declamatio in Lucium Sergium Catilinam" (Incipit: Si quid precibus apud deos immortales ...). Ebenso ist die Catilina untergeschobene "In M. Tullium responsiva invectiva" (Incipit: Si subtiliter a circumstantibus ...) nicht identisch mit der vermutlich von Bonacursus de Montemagno verfassten "Oratio pro L. Catilina contra M. T. Ciceronem" (Incipit: Omnis homines qui in maximis principatibus ...)<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Paris: Ulrich Gering, nicht nach 1478]
+<-3-1-STOP->
+
+<-4-1-START->
+84 ungezählte Seiten; 21 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW06780.htm<-L-5-STOP-><-VI-5-START->GW 6780<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ic00552000<-L-5-STOP-><-VI-5-START->ISTC ic00552000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+42 von 42 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun gesprenkelt, Schaf, 18. Jahrhundert), Linien-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: De coniuratione Catilinae; De bello Iugurthino / Gaius Sallustius Crispus. - Paris: Ulrich Gering, [nicht nach 1478]
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116708406605511<-L-11-STOP-><-VI-11-START->MUE Inc IV 28 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991147679449705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Cicero, Marcus Tullius<-P-STOP->
+<-P-START->Catilina, Lucius Sergius<-P-STOP->
+<-P-START->Sallustius Crispus, Gaius<-P-STOP->
+<-P-START->Beroaldo, Filippo<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Paris<-O-STOP->
+<-P-START->Gering, Ulrich<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991147679449705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 28 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03157nam a2200529 c 4500
+001 991147679449705501
+005 20211215194523.0
+008 160916s1478    fr |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/16.09.2016/B404/az    
+035      |a (swissbib)070651582-41slsp_network    
+035      |a 070651582    |9 ExL    
+035      |a (IDSBB)006621934DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991147679449705501    
+035      |a (41SLSP_UBE)99116708406605511    |9 (41SLSP_UBE)99116708406605511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Cicero, Marcus Tullius    |d v106-v43    |0 (DE-588)118520814    |e Verfasser    |4 aut    
+240 1 0  |a In Catilinam    
+245 1 0  |a [In Catilinam orationes]    
+264   1  |a [Paris]    |b [Ulrich Gering]    |c [nicht nach 1478]    
+300      |a 84 ungezählte Seiten    |c 21 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel der Zusammenstellung gemäss ISTC    
+500      |a Herausgegeben von Philippus Beroaldus    
+500      |a Druckjahr gemäss GW und ISTC    
+500      |a Signaturformel: a-d⁸, e¹⁰    
+500      |a Blatt a₁ recto ist unbedruckt    
+505 0 0  |g Enthält auch (Titeln gemäss ISTC)    |t In Catilinam invectiva V    |r Pseudo-Cicero    |t In Ciceronem invectiva    |r Pseudo-Catilina    |t Invectiva in Ciceronem    |r Sallustius Crispus    |t In C. Sallustium invectiva    |r Pseudo-Cicero    
+510 4    |a GW    |c 6780    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW06780.htm    
+510 4    |a ISTC    |c ic00552000    |u http://data.cerl.org/istc/ic00552000    
+530      |a Digitalisat (Exemplar der Staatsbibliothek Berlin)    |u http://resolver.staatsbibliothek-berlin.de/SBB0001DA0900000000    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun gesprenkelt, Schaf, 18. Jh.), Linien-Blindprägung auf beiden Deckeln, Linien-Goldprägung sowie Titelschild in Goldprägung auf dem Rücken    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 20.5 x 15 x 3 cm    
+563      |a Zustand Einband: Vorsätze im Falz verstärkt, Beschädigungen am Einbandleder    
+590      |a Buchblockbeschreibung: 42 von 42 Blättern, vorgesehene Stellen für Initialen frei gelassen    
+590      |a Zahlreiche handschrifliche Annotationen und Unterstreichungen in Tinte auf Blatt a₁₋₈    
+590      |a Zusammengebunden mit: De coniuratione Catilinae ; De bello Iugurthino / Sallustius. - Paris : Ulrich Gering, nicht nach 1478    
+700 1 2  |a Cicero, Marcus Tullius    |d v106-v43    |t In Catilinam    |0 (DE-588)4340128-4    
+700 1    |a Sallustius Crispus, Gaius    |d v86-v34    |0 (DE-588)118605097    |e Verfasser    |4 aut    
+700 1 2  |a Sallustius Crispus, Gaius    |d v86-v34    |t Invectiva in M. Tullium Ciceronem    |0 (DE-588)4463192-3    
+700 1 2  |a Cicero, Marcus Tullius    |d v106-v43    |t In Sallustium invectiva    |0 (DE-588)4340158-2    
+700 1    |a Beroaldo, Filippo    |d 1453-1505    |0 (DE-588)118656589    |e Herausgeber    |4 edt    
+700 1    |a Gering, Ulrich    |d 1455-1510    |0 (DE-588)13325366X    |e Drucker    |4 prt    
+730 0    |a Declamatio in Lucium Sergium Catilinam    |0 (DE-588)4769816-0    
+751      |a Paris    |0 (DE-588)4044660-8    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 28 : 2    |9 (41SLSP_UBE)99116708406605511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit einem weiteren Werk    |p 12    |j MUE Inc IV 28 : 2    |b B404    |9 (41SLSP_UBE)99116708406605511    
+986      |a (41SLSP_UBE)99116708406605511    |9 (41SLSP_UBE)99116708406605511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116708406605511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

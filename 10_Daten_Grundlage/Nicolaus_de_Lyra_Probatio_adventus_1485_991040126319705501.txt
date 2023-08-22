@@ -1,0 +1,145 @@
+﻿<-1-1-START->
+Nicolaus de Lyra
+<-1-1-STOP->
+
+<-1-2-START->
+Probatio adventus Christi
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Diese Blätter erschienen teilweise auch als Anhang (Blätter [379]-[386]) zu: Biblia mit Postillae perpetuae in vetus et novum testamentum / Nicolaus de Lyra. Band 4. Nürnberg: Anton Koberger, 1485 (GW 04288)<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Nürnberg: Anton Koberger, 1485]
+<-3-1-STOP->
+
+<-4-1-START->
+12 ungezählte Seiten, 2 ungezählte Blätter; 33 cm (2°)
+<-500-START->Die letzten beiden Blätter unbedruckt<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_B-453.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-453<-VI-5-STOP->; <-L-5-START->https://gesamtkatalogderwiegendrucke.de/docs/GW04288.htm<-L-5-STOP-><-VI-5-START->GW 04288<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/ib00613000<-L-5-STOP-><-VI-5-START->ISTC ib00613000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+7 von 8 Blättern, rot ausgezeichnete Anfangsinitiale, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen sowie Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln sowie dem Rücken
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Catena aurea / Thomas von Aquin. Venedig: Hermann Lichtenstein und Johannes de Landoja (Hammann), 1482
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Das unbedruckte letzte Blatt fehlt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116774638905511<-L-11-STOP-><-VI-11-START->MUE Inc III 29 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991040126319705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Nicolaus de Lyra<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Nürnberg<-O-STOP->
+<-P-START->Koberger, Anton<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991040126319705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 29 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05348nam a2200625 c 4500
+001 991040126319705501
+005 20221207084024.0
+007 cr#|||||||||||
+008 130501s1485    it            00| | lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/24.07.2014/B400/vha    
+024 7    |a 10.3931/e-rara-88385    |2 doi    
+035      |a (swissbib)066210909-41slsp_network    
+035      |a 066210909    |9 ExL    
+035      |a (IDSBB)006121830DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991040126319705501    
+035      |a (41SLSP_UBE)99116774638905511    |9 (41SLSP_UBE)99116774638905511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Nicolaus    |c de Lyra    |d 1270-1349    |0 (DE-588)119238683    |e Verfasser    |4 aut    
+240 1 0  |a Probatio adventus Christi    
+245 1 0  |a Jncipit libellus editus p[er] mag[ist]r[um] Nicolau[m] de lyra ordinis mino[rum] theologie p[ro]fessore[m]: in q[uo] sunt pulcherrime q[uaesti]ones iudaica[m] p[er]fidia[m] i[n] catholica fide improba[n]tes    
+246 1 0  |a Libellus editus per magistrum Nicolaum de Lyra ordinis minorum theologie professorem: in quo sunt pulcherrime quaestiones iudaicam perfidiam in catholica fide improbantes    
+246 1 0  |a Quaestiones iudaicam perfidiam in catholica fide improbantes    
+246 1    |i Titel in normalisierter Form    |a Incipit libellus editus per magistrum Nicolaum de Lyra ordinis minorum theologie professorem: in quo sunt pulcherrime quaestiones iudaicam perfidiam in catholica fide improbantes    
+264   1  |a [Nürnberg]    |b [Anton Koberger]    |c [1485]    
+300      |a 12 ungezählte Seiten, 2 ungezählte Blätter    |c 33 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+337      |b c    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+338      |b cr    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss Incipit    
+500      |a Diese Blätter erschienen teilweise auch als Anhang (Blätter [379]-[386]) zu: Biblia mit Postilla des Nicolaus de Lyra. Band 4. - Nürnberg : Anton Koberger, 1485. (GW 04288)    
+500      |a Kolophon in Band 4 der Postilla von Nicolaus de Lyra, auf dem letzten Blatt ([378] recto) vor dem Anhang: "Exactum est Nureberge insignie hoc: ac inusitatu[m] opus biblie vnacu[m] postillis venera[n]di viri ordinis minoru[m] fratris Nicolai de lyra: cu[m]q[ue] additionibus per venerabile[m] episcopum Paulum burgensem editis: ac replicis magistri Mathie dorinck eiusdem ordinis minoru[m] fratris [et] theologi optimi: charactere v[er]o impressu[m] habes iucundissimo: impensisq[ue] Anthonii kobergers prefate ciuitatis incola[m] Anno incarnate deitatis. M.cccclxxxv. Sabbato post Joha[n]nis ante porta[m] latina[m] [et] i[n] hu[n]c fine[m] vsq[ue] p[er]ductum ..." [7.5.1485]. - Gemäss Digitalisat der Universitäts- und Landesbibliothek Düsseldorf    
+500      |a Signaturformel: [a]⁸; als Anhang von Band 4 der Biblia mit Postilla des Nicolaus von Lyra, gemäss GW: [R]⁸    
+500      |a Die letzten beiden Blätter unbedruckt    
+510 4    |a BSB-Ink    |c B-453    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_B-453.html    
+510 4    |a GW    |c 04288    |u https://gesamtkatalogderwiegendrucke.de/docs/GW04288.htm    
+510 4    |a ISTC    |c ib00613000    |u https://data.cerl.org/istc/ib00613000    
+530      |a Digitalisat als Anhang (letzte 6 Blätter) von Band 4 der Postilla von Nicolaus de Lyra (Exemplar der Universitäts- und Landesbibliothek Düsseldorf)    |u https://digital.ub.uni-duesseldorf.de/ink/content/pageview/2303629    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen sowie Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln sowie dem Rücken; Pergamentblatt (beschrieben, teilweise mit Neumen) auf vorderen Innendeckel geklebt; handschriftlich in Tinte auf vorderem Deckel: "Thomas in 4 Euangelistas"    
+563      |a Vorsätze: Vorne und hinten ohne fliegende Blätter    
+563      |a Masse Einband: 32.5 x 21.8 x 8.5 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, vom vorderen Vorsatz nur noch Pergamentspiegel erhalten, Vorsatz hinten fehlend, Loch mit Rostspuren am Rückdeckel von vormaliger Ankettung, Verbindung zu Deckeln mit Japanpapier verstärkt, unterer Schliessenriemen stabilisiert    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 7 von 8 Blättern, Pergamentverstärkung in der Lagenmitte (Makulatur), rot ausgezeichnete Initiale (Blatt [a₁] recto), Rubrizierung    
+590      |a Zustand Buchblock: Risse, Fehlstellen, Feuchtigkeitsränder oben    
+590      |a Letztes Blatt [a]₈ (unbedruckt) fehlt    
+590      |a Zusammengebunden mit einem weiteren Druck: Thomas von Aquin: Catena aurea. Venedig: Hermann Lichtenstein und Johannes de Landoja (Hammann), 1482    
+590      |a Historische Signatur auf Blatt a₂ recto des vorgebundenen Drucks: "Theol. No. 78. 70."    
+590      |a Frühere Signatur: Inc 176 : 2    
+700 1    |a Koberger, Anton    |d 1440-1513    |4 prt    |0 (DE-588)118563890    
+700 0 2  |a Nicolaus    |c de Lyra    |d 1270-1349    |t Probatio adventus Christi    |0 (DE-588)4588623-4    
+751      |a Nürnberg    |0 (DE-588)4042742-0    
+852 4    |b B404    |c 404U3    |j MUE Inc III 29 : 2    |9 (41SLSP_UBE)99116774638905511    
+856 4    |u https://doi.org/10.3931/e-rara-88385    |z Digitalisat in e-rara    
+900      |a IDSIxunikat    
+900      |a IDSIxhybrid-el    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc III 29 : 2    |b B404    |9 (41SLSP_UBE)99116774638905511    
+986      |a (41SLSP_UBE)99116774638905511    |9 (41SLSP_UBE)99116774638905511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116774638905511    
+990      |f erarabe    |9 local    |9 (41SLSP_UBE)99116774638905511    
+990      |f lza-cc0    |9 local    |9 (41SLSP_UBE)99116774638905511    
+991      |a AAK: 0646361    |5 IZ UBE/14.08.2017/B404/vha    |9 local    |9 (41SLSP_UBE)99116774638905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

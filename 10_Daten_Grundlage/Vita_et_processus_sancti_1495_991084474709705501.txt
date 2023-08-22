@@ -1,0 +1,149 @@
+﻿<-1-1-START->
+Vita et processus sancti Thomae Cantuariensis martyris super libertate ecclesiastica
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Beigefügt sind vier Briefe: Ignatius Antiochenus: Ad sanctum Johannem apostolum et evangelistam (1 und 2); Ignatius Antiochenus: Ad sanctam Mariam virginem. - Epistula virginis Mariae ad Ignatium<-500-STOP->
+<-500-START->Publiziert zusammen mit dem nachgebundenen Werk: Bertrand, Pierre: De iurisdictione ecclesiastica; in BSB-Ink, GW und ISTC jedoch als getrennte Werke behandelt<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Paris: Jean Philippi, 27.03.1495
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 193 ungezählte Seiten; 25 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_V-248.html<-L-5-STOP-><-VI-5-START->BSB-Ink V-248<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M46633.htm<-L-5-STOP-><-VI-5-START->GW M46633<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/it00344500<-L-5-STOP-><-VI-5-START->ISTC it00344500<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+98 von 98 Blättern, rot oder blau ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Ziege), mit Spuren von 4 Verschlussbändern (Leder), Linien- und Platten-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars; Antonius Letourneur; ... Delamothe
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: De iurisdictione ecclesiastica / Pierre Bertrand. Paris: Jean Philippi, 1495
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116725289905511<-L-11-STOP-><-VI-11-START->MUE Bong I 504 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991084474709705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Ignatius Antiochenus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Paris<-O-STOP->
+<-P-START->Philippi, Jean<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-P-START->Letourneur, Antonius<-P-STOP->
+<-P-START->Delamothe, ...<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991084474709705501<-DOI-STOP->
+<-SIGN-START->MUE Bong I 504 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06297nam a2200661 c 4500
+001 991084474709705501
+005 20211215184921.0
+008 100805s1495    fr            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/05.08.2010    
+035      |a (swissbib)062399861-41slsp_network    
+035      |a 062399861    |9 ExL    
+035      |a (IDSBB)005288097DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991084474709705501    
+035      |a (41SLSP_UBE)99116725289905511    |9 (41SLSP_UBE)99116725289905511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+130 0    |a Vita et processus sancti Thomae Cantuariensis martyris super libertate ecclesiastica    |0 (DE-588)1163252816    
+245 1 0  |a Uita [e]t processus sancti Thome cantuariensis martyris super libertate ecclesiastica    
+246 1    |i Titel in normalisierter Form    |a Vita et processus sancti Thome Cantuariensis martyris super libertate ecclesiastica    
+246 1    |i Kolophon    |a Explicit quadripertita hystoria co[n]tine[n]s passione[m] s[an]c[t]issimi thome martyr[is] archipresulis cantuarien[sis] et primaris anglie vna cum processu eiusde[m] super ecclesiastica libertate    
+246 1    |i Kolophon in normalisierter Form    |a Explicit quadripertita hystoria continens passionem sanctissimi Thome martyris archipresulis Cantuariensis et primaris Anglie una cum processu eiusdem super ecclesiastica libertate    
+246 1    |i Kolophon in moderner Orthografie    |a Explicit quadripertita historia continens passionem sanctissimi Thomae martyris archipraesulis Cantuariensis et primaris Angliae una cum processu eiusdem super ecclesiastica libertate    
+246 1    |i Titel gemäss GW    |a Vita et processus Sancti Thomae Cantuariensis    
+264   1  |a ... i[m]pressa fuit Parisius    |b per magistrum Johannem philippi ...    |c Et [com]pleta Anno d[omi]ni Millesimo q[ua]dringe[n]tesimo nonagesimoquinto. vicesimaseptima mensis Martij [27.03.1495]    
+300      |a 1 ungezähltes Blatt, 193 ungezählte Seiten    |c 25 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Publiziert zusammen mit dem nachgebundenen Werk:Bertrand, Pierre:De iurisdictione ecclesiastica; in BSB-Ink, GW und ISTC jedoch als getrennte Werke behandelt    
+500      |a Impressum gemäss Kolophon (Blatt m₅ verso)    
+500      |a Signaturformel: a–l⁸, m⁶, A⁴    
+505 0 0  |g Beigefügt (Blatt m₆ recto)    |t Hee sunt q[ua]ttuor epistole de q[ui]b[us] due p[ri]me mittu[n]t[ur] b[ea]to ioh[ann]i euua[n]geliste: ex p[ar]te beati ignatij. tertia mittit[ur] beate v[ir]gini marie: ex p[ar]te eiusde[m]. quarta[m] v[er]o mittit beata virgo eidem ignatio    |g Beigefügte Briefe in normalisierter Form    |t Hec sunt quattuor epistole de quibus due prime mittuntur beato Iohanni euvangeliste: ex parte beati Ignatii. tertia mittitur beate virgini Marie: ex parte eiusdem. quartam vero mittit beata virgo eidem Ignatio    |g Beigefügte Briefe in klassischer Orthografie    |t Haec sunt quatuor epistolae de quibus duae primae mittuntur beato Iohanni evangelistae, ex parte beati Ignatii, tertia mittitur beatae virgini Mariae, ex parte eiusdem, quartam vero mittit beata virgo eidem Ignatio    
+510 4    |a BSB-Ink    |c V-248    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_V-248.html    
+510 4    |a GW    |c M46633    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M46633.htm    
+510 4    |a ISTC    |c it00344500    |u https://data.cerl.org/istc/it00344500    
+530      |a Digitalisat (zusammen mit Bertrand, Pierre: De iurisdictione ecclesiastica; Exemplar der Bayerischen Staatsbibliothek München)    |u http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb11303196-4    
+561      |a Handschriftlicher Besitzvermerk auf vorderem und auf hinterem Spiegel: "Antonius Letourneur"    
+561      |a Handschriftlicher Besitzvermerk auf der Titelseite: "Bongars"; unter dem Titel: "Delamothe"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Ziege), mit Spuren von 4 Verschlussbändern (Leder), Linien- und Platten-Blindprägung auf beiden Deckeln    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 24.6 x 17.8 x 2.6 cm    
+563      |a Zustand Einband: Verschlussbänder fehlend, Deckel stark deformiert, Rücken mit Lederüberklebung vollständig ergänzt, partielle Lederüberklebung an den Ecken, Kanten und auf den Deckeln mit Nachbildung der Blindprägung    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 98 von 98 Blättern, Pergamentfalz vor erstem Blatt gehört zur Vorsatzkonstruktion; rot oder blau ausgezeichnete Initialen, Rubrizierung (rote oder blaue Absatzzeichen vor Kapitelüberschriften)    
+590      |a Zustand Buchblock: Feuchtigkeitsränder in den Fälzen, stellenweise Abrieb an blauem Farbmittel der ausgezeichneten Zierbuchstaben    
+590      |a Auf der Titelseite handschriftliche bibliographische Annotation in Tinte von Bongars: "Vide ... Rog. de Houeden" (das ist Rogerus de Hoveden, gest. 1201)    
+590      |a Auf der Titelseite handschriftlicher Hinweis von Bongars in Tinte auf das angebundene Werk: "Libellus P Bertrandi"    
+590      |a Zusammengebunden mit Bertrand, Pierre:De iurisdictione ecclesiastica. Paris: Philippi, 1495    
+590      |a Historische Signatur auf vorderem Spiegel: "Hist: Eccl: 143"; "143" durchgestrichen, daneben: "43."    
+590      |a Frühere Signaturen: Inc III 76; Inc 487; Hortin X 9    
+700 0 2  |a Ignatius    |c Antiochenus    |d -110    |t Ad sanctum Johannem apostolum et evangelistam 1    |0 (DE-588)4382148-0    
+700 0 2  |a Ignatius    |c Antiochenus    |d -110    |t Ad sanctum Johannem apostolum et evangelistam 2    |0 (DE-588)4382149-2    
+700 0 2  |a Ignatius    |c Antiochenus    |d -110    |t Ad sanctam Mariam virginem    |0 (DE-588)4382150-9    
+700 1    |a Philippi, Jean    |d 14XX-15XX    |0 (DE-588)1037620895    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Letourneur, Antonius    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Delamothe, ..    |e Früherer Eigentümer    |4 fmo    
+730 0    |a Epistula virginis Mariae ad Ignatium    |0 (DE-588)4382153-4    
+751      |a Paris    |0 (DE-588)4044660-8    
+852 4    |b B404    |c 404U3    |j MUE Bong I 504 : 1    |9 (41SLSP_UBE)99116725289905511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc III 76 : 1    |c 404U3    |z Zusammengebunden mit 1 weiteren Druck in Sammelband    |p 12    |j MUE Bong I 504 : 1    |b B404    |9 (41SLSP_UBE)99116725289905511    
+986      |a (41SLSP_UBE)99116725289905511    |9 (41SLSP_UBE)99116725289905511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116725289905511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116725289905511    
+991      |a Bongars: 14476    |5 IZ UBE/B400/05.08.2010    |9 LOCAL    |9 (41SLSP_UBE)99116725289905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

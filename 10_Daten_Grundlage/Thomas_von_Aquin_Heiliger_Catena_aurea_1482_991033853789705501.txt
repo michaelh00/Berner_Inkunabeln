@@ -1,0 +1,137 @@
+﻿<-1-1-START->
+Thomas von Aquin
+<-1-1-STOP->
+
+<-1-2-START->
+Catena aurea
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Hermann Lichtenstein und Johannes de Landoja, 04.09.1482
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt (leer), 781 ungezählte Seiten; 33 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_T-201.html<-L-5-STOP-><-VI-5-START->BSB-Ink T-201<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M46101.htm<-L-5-STOP-><-VI-5-START->GW M46101<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/it00230000<-L-5-STOP-><-VI-5-START->ISTC it00230000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+392 von 392 Blättern, rot oder blau ausgezeichnete Initialen, Anfangsinitiale blau mit roten Verzierungen und Randbordüre, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen sowie Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Probatio adventus Christi / Nicolaus de Lyra. [Nürnberg: Anton Koberger, 1485]
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116774456905511<-L-11-STOP-><-VI-11-START->MUE Inc III 29 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991033853789705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Thomas von Aquin<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Lichtenstein, Hermann<-P-STOP->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Johannes de Landoja<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991033853789705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 29 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04631nam a2200565 c 4500
+001 991033853789705501
+005 20230209111728.0
+008 130501s1482    it            00| | lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/11.08.2014/B400/vha    
+035      |a (swissbib)066210976-41slsp_network    
+035      |a 066210976    |9 ExL    
+035      |a (IDSBB)006121832DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991033853789705501    
+035      |a (41SLSP_UBE)99116774456905511    |9 (41SLSP_UBE)99116774456905511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Thomas    |c von Aquin, Heiliger    |d 1225-1274    |0 (DE-588)118622110    |e Verfasser    |4 aut    
+240 1 0  |a Catena aurea    
+245 1 0  |a Beati Thome Aquinatis Continuu[m] in quattuor eua[n]gelistas    
+246 1 0  |a Continuum in quattuor evangelistas    
+246 1    |i Textbeginn Blatt a₂ (Proemium)    |a Diui Thome aquinatis co[n]tinuu[m] in librum euangelij s[ecundu]m Mattheum    
+246 1    |i Textbeginn in normalisierter Form    |a Divi Thome Aquinatis continuum in librum evangelii secundum Mattheum    
+246 1    |i Titel gemäss ISTC    |a Catena aurea super quattuor evangelistas    
+246 1    |i Titel in normalisierter Form    |a Beati Thome Aquinatis Continuum in quattuor evangelistas    
+264   1  |a Impressum Uenetijs    |b impensa ingenioq[ue] Hermanni Lichtensteyn Coloniens[is] atq[ue] Johannis hamman Spirensis socioru[m]    |c Anno d[omi]nici natalis. M.CCCC.LXXXII. die v[er]o quarta Septembris. [04.09.1482]    
+300      |a 781 ungezählte Seiten    |c 33 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Titel gemäss Kolophon    
+500      |a "Beati Thome Aquinatis Continuu[m] in quattuor eua[n]gelistas finit feliciter: magna cura diligentiaq[ue] emendatu[m] atq[ue] correctu[m] impressum Uenetijs impensa ingenioq[ue] Hermanni Lichtensteyn Coloniens[is] atq[ue] Johannis hamman Spirensis socioru[m] Anno d[omi]nici natalis. M.CCCC.LXXXII. die v[er]o quarta Septembris." - Kolophon (Blatt JJ₈ recto)    
+500      |a Signaturformel: a¹⁰, b–m⁸, n–o¹⁰, p–r⁸, A–E⁸, F⁶, G–T⁸, V⁶, X–Z⁸, AA⁶, BB–JJ⁸    
+500      |a Blatt a₁ unbedruckt; Blatt JJ₈ verso (letzte Seite) unbedruckt    
+510 4    |a BSB-Ink    |c T-201    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_T-201.html    
+510 4    |a GW    |c M46101    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M46101.htm    
+510 4    |a ISTC    |c it00230000    |u http://data.cerl.org/istc/it00230000    
+530      |a Digitalisat (Exemplar der Universitäts- und Stadtbibliothek Köln)    |u http://www.ub.uni-koeln.de/cdm/ref/collection/inkunabeln/id/84258    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen sowie Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln sowie dem Rücken; Pergamentblatt (beschrieben, teilweise mit Neumen) auf vorderen Innendeckel geklebt; handschriftlich in Tinte auf vorderem Deckel: "Thomas in 4 Euangelistas"    
+563      |a Vorsätze: Vorne und hinten ohne fliegende Blätter    
+563      |a Masse Einband: 32.5 x 21.8 x 8.5 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, vom vorderen Vorsatz nur noch Pergamentspiegel erhalten, Vorsatz hinten fehlend, Loch mit Rostspuren am Rückdeckel von vormaliger Ankettung, Verbindung zu Deckeln mit Japanpapier verstärkt, unterer Schliessenriemen stabilisiert    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 392 von 392 Blättern, Pergamentverstärkung in allen Lagenmitten (Makulatur), rot oder blau ausgezeichnete Initialen, Anfangsinitiale auf Blatt a₂ blau mit roten Verzierungen und Randbordüre; Rubrizierung; Blattweiser aus Leder zu Beginn jedes Evangelisten    
+590      |a Titelangabe in Tinte auf oberem Schnitt: "kathe. aurea: scti. tho."    
+590      |a Zusammengebunden mit einem weiteren Druck: Nicolaus de Lyra: Probatio adventus Christi. [Italien?], [ca. 1485]    
+590      |a Historische Signatur auf Blatt a₂ recto (Textbeginn): "Theol. No. 78. 70."    
+590      |a Frühere Signatur: Inc 176 : 1    
+700 0 2  |a Thomas    |c von Aquin, Heiliger    |d 1225-1274    |t Catena aurea    |0 (DE-588)1025289021    
+700 1    |a Lichtenstein, Hermann    |d 14XX-1494    |0 (DE-588)136671861    |e Drucker    |4 prt    
+700 0    |a Johannes    |c de Landoja    |d -1499    |0 (DE-588)137449682    |e Drucker    |4 prt    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Inc III 29 : 1    |9 (41SLSP_UBE)99116774456905511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc III 29 : 1    |b B404    |9 (41SLSP_UBE)99116774456905511    
+986      |a (41SLSP_UBE)99116774456905511    |9 (41SLSP_UBE)99116774456905511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116774456905511    
+991      |a AAK: 0890989    |5 IZ UBE/11.08.2017/B404/vha    |9 local    |9 (41SLSP_UBE)99116774456905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

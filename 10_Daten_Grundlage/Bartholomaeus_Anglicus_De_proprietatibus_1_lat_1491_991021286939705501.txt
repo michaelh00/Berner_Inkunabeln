@@ -1,0 +1,129 @@
+﻿<-1-1-START->
+Bartholomaeus Anglicus
+<-1-1-STOP->
+
+<-1-2-START->
+De proprietatibus rerum
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Straßburg: [Georg Husner], 11.08.1491
+<-3-1-STOP->
+
+<-4-1-START->
+514 ungezählte Seiten, 1 ungezähltes Blatt; 30 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-98.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-98<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW03412.htm<-L-5-STOP-><-VI-5-START->GW 03412<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib00140000<-L-5-STOP-><-VI-5-START->ISTC ib00140000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+258 von 258 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen, Linien- und Ornament-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116753873105511<-L-11-STOP-><-VI-11-START->MUE Inc I 21<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991021286939705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Bartholomaeus Anglicus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Husner, Georg<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991021286939705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 21<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03753nam a2200517 c 4500
+001 991021286939705501
+005 20211215172228.0
+008 170810s1491    fr |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/10.08.2017/B404/faf    
+035      |a (swissbib)072097426-41slsp_network    
+035      |a 072097426    |9 ExL    
+035      |a (IDSBB)006721417DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991021286939705501    
+035      |a (41SLSP_UBE)99116753873105511    |9 (41SLSP_UBE)99116753873105511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Bartholomaeus    |c Anglicus    |d 1190-1250    |0 (DE-588)119098709    |e Verfasser    |4 aut    
+240 1 0  |a De proprietatibus rerum    
+245 1 0  |a Liber de proprietatib[us] reru[m] Bartholomei anglici    
+246 1    |i Explicit    |a Explicit liber de p[ro]prietatib[us] reru[m] editus a fratre Bartholomeo anglico ordinis fratrum mino[rum]    
+264   1  |a Impressus Argentine    |b [Georg Husner]    |c Anno d[omi]ni. M.cccc.xcj. Finitus altera die post festum sancti Laurentij martyris [11.08.1491]    
+300      |a 514 ungezählte Seiten, 1 ungezähltes Blatt    |c 30 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Inhaltsverzeichnis    
+500      |a Druckort und Druckdatum gemäss Kolophon    
+500      |a Drucker gemäss BSB-Ink, GW und ISTC (dort teils angegeben als Drucker des Jordanus von Quedlinburg, mittlerweile mit Georg Husner identifiziert)    
+500      |a Signaturformel: []⁶, a-b⁸, c-d⁶, e⁸, f-g⁶, h⁸, i-k⁶, l⁸, m-n⁶, o⁸, p–z⁶, A–R⁶    
+500      |a Blatt R₆ ist unbedruckt    
+510 4    |a BSB-Ink    |c B-98    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-98.html    
+510 4    |a GW    |c 03412    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW03412.htm    
+510 4    |a ISTC    |c ib00140000    |u http://data.cerl.org/istc/ib00140000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb11192025-8    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen, Linien- und Ornament-Blindprägung auf beiden Deckeln, in Tinte verblassend auf Vorderdeckel: "Proprietates re[rum] Bart. Anglicus[?]", auf Rücken: "Bart. Anglicus Argent. 1491"    
+563      |a Vorsätze: Vorne und hinten ohne fliegendes Blatt    
+563      |a Masse Einband: 29.5 x 21 x 6 cm    
+563      |a Zustand Einband: Vorderer Spiegel hochgelöst, unteres Hakenteil ergänzt, Loch mit Rostabdruck am Rückdeckel von vormaliger Ankettung    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 258 von 258 Blättern, Pergamentverstärkung der ersten und letzten Lage aussen an den Heftstationen, Papierfalz aus Vorsatzkonstruktion hinter erster und vor letzter Lage, vorgesehene Stellen für Initialen frei gelassen, Titel "Bartoli de proprietatib[us] re[rum]" in Tintenschrift auf dem Kopfschnitt (Buch auf dem Vorderdeckel liegend)    
+590      |a Zustand Buchblock: Rostfrass mit Ausbrüchen an letzten Blättern    
+590      |a Handschriftliche Unterstreichungen und einzelne Annotationen (z.B. Blatt d₂ verso) in Tinte, Ankreuzungen in Graphit und Farbstift    
+590      |a Historische Signatur auf Blatt []₁ recto: "Phil 171."    
+590      |a Frühere Signatur: Inc 101    
+700 1    |a Husner, Georg    |d 14XX-1505    |0 (DE-588)136216064    |e Drucker    |4 prt    
+700 0 2  |a Bartholomaeus    |c Anglicus    |d 1190-1250    |t De proprietatibus rerum    |0 (DE-588)4314716-1    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Inc I 21    |9 (41SLSP_UBE)99116753873105511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc I 21    |b B404    |9 (41SLSP_UBE)99116753873105511    
+986      |a (41SLSP_UBE)99116753873105511    |9 (41SLSP_UBE)99116753873105511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116753873105511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,140 @@
+﻿<-1-1-START->
+Aesopus
+<-1-1-STOP->
+
+<-1-2-START->
+Fabulae. — Avianus: Fabulae. — Poggio Bracciolini, Gian Francesco: Facetiae. — Vita Aesopi
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Herausgeber: Heinrich Steinhöwel (erste Ausgabe Ulm, Zainer, um 1477)<-500-STOP->
+<-500-START->Übersetzer der Fabeln von Aesop und seiner Vita: Rinutius Aretinus<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Straßburg: Heinrich Knoblochtzer, um 1481]
+<-3-1-STOP->
+
+<-4-1-START->
+228 ungezählte Seiten: Illustrationen; 2°
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-74.html<-L-5-STOP-><-VI-5-START->BSB-Ink A-74<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW00348.htm<-L-5-STOP-><-VI-5-START->GW 348<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ia00113000<-L-5-STOP-><-VI-5-START->ISTC ia00113000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+114 von 114 Blättern, Illustrationen und Zierinitialen koloriert, rot ausgezeichnete Initialen
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116857581605511<-L-11-STOP-><-VI-11-START->MUE Inc IV 22<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991062804839705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Aesopus<-P-STOP->
+<-P-START->Avianus<-P-STOP->
+<-P-START->Petrus Alfonsi<-P-STOP->
+<-P-START->Poggio Bracciolini, Gian Francesco<-P-STOP->
+<-P-START->Steinhöwel, Heinrich<-P-STOP->
+<-P-START->Rinutius Aretinus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Knoblochtzer, Heinrich<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991062804839705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 22<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04027nam a2200565 c 4500
+001 991062804839705501
+005 20221208160915.0
+008 161130s1481    fr |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/30.11.2016/B404/az    
+035      |a (swissbib)068462247-41slsp_network    
+035      |a 068462247    |9 ExL    
+035      |a (IDSBB)006651307DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991062804839705501    
+035      |a (41SLSP_UBE)99116857581605511    |9 (41SLSP_UBE)99116857581605511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a lat    |h grc    
+245 0 0  |a Vita Esopi fabulatoris clarissimi    |c e greco latina per Rimicium. [Fabulae] / [Aesopus]    
+246 1    |i Titel gemäss GW    |a Vita et Fabulae    
+246 1    |i Titel gemäss ISTC    |a Vita, after Rinucius, et Fabulae, Lib. I-IV, prose version of Romulus    
+264   1  |a [Straßburg]    |b [Heinrich Knoblochtzer]    |c [um 1481]    
+300      |a 228 ungezählte Seiten    |b Illustrationen    |c 2°    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Sammlung des Heinrich Steinhöwel (erste Ausgabe Ulm, Zainer, um 1477)    
+500      |a Signaturformel: a-o⁸⁻⁶,p-q⁸    
+505 0 0  |g [Blatt a₂ recto-c₇ recto]    |t Vita Aesopi    |g [Blatt c₇ verso-k₃ recto]    |t Fabulae, Liber primus-quartus    |g [Blatt k₃ recto-m₂ verso]    |t Fabul[a]e extrauaga[n]tes    |g [Blatt m₂ verso-n₃ recto]    |t Fabul[a]e nou[a]e Esopi ex translatione remicij    |g [Blatt n₃ verso-p₂ recto]    |t Fa[bulae] auiani    |g [Blatt p₂ verso-q₄ verso]    |t Fabul[a]e collect[a]e    |r [Petrus Alphonsus]    |g [Blatt q₄ verso-q₈ verso]    |t [Facetiae]    |r [Poggius]    
+510 4    |a BSB-Ink    |c A-74    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-74.html    
+510 4    |a GW    |c 348    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW00348.htm    
+510 4    |a ISTC    |c ia00113000    |u http://data.cerl.org/istc/ia00113000    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jh.), Goldprägung auf Titelschild am Rücken    
+563      |a Vorsätze: vorne und hinten mit 2 fliegenden Blättern    
+563      |a Masse Einband: 28.7 x 21 x 2.8 cm    
+563      |a Zustand Einband: Abspaltungen am Einbandleder, Fragmente zum Teil zurück geklebt, Fehlstellen an den unteren Ecken    
+590      |a Buchblockbeschreibung: 114 von 114 Blättern, Illustrationen und Zierinitialen koloriert, rot ausgezeichnete Initialen, blau gesprenkelter Schnitt    
+590      |a Handschriftlicher Titel "Liber fabulatoris Esopi" auf Blatt a₁ recto und einige weitere handschrifliche Annotationen in Tinte    
+590      |a Zustand Buchblock: Papier im Textspiegelbereich zum Teil stark fleckig verbräunt mit Feuchtigkeitsrändern, grüner Farbauftrag abriebempfindlich (Abklatsch auf den gegenüber liegenden Seiten), Risse zum Teil mit Büttenpapier geschlossen    
+590      |a Historische Signaturen: auf vorderem Spiegel: "Lit. 296.", auf Blatt a₂ recto: "Lit. 97"    
+700 0    |a Aesopus    |d ca. v6. Jh.    |0 (DE-588)118647180    |e Verfasser    |4 aut    
+700 0 2  |a Aesopus    |d ca. v6. Jh.    |t Fabulae    |9 U:Hang    |9 L:kaz    |0 (DE-588)4206676-1    |k Auswahl    
+700 0    |a Avianus    |d ca. 4./5. Jh.    |0 (DE-588)118505246    |e Verfasser    |4 aut    
+700 0 2  |a Avianus    |d ca. 4./5. Jh.    |t Fabulae    |0 (DE-588)4385394-8    |k Auswahl    
+700 0    |a Petrus    |c Alfonsi    |d 1057-1130    |0 (DE-588)118740423    |e Verfasser    |4 aut    
+700 1    |a Poggio Bracciolini, Gian Francesco    |d 1380-1459    |0 (DE-588)118741292    |e Verfasser    |4 aut    
+700 1 2  |a Poggio Bracciolini, Gian Francesco    |d 1380-1459    |t Facetiae    |0 (DE-588)4388560-3    
+700 1    |a Steinhöwel, Heinrich    |d 1412-1480    |0 (DE-588)118617486    |e Herausgeber    |4 edt    
+700 0    |a Rinutius    |c Aretinus    |d 1395-1450    |0 (DE-588)119447215    |e Übersetzer    |4 trl    
+700 1    |a Knoblochtzer, Heinrich    |d 1445-1500    |0 (DE-588)119011557    |e Drucker    |4 prt    
+730 0    |a Vita Aesopi    |0 (DE-588)4271375-4    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 22    |9 (41SLSP_UBE)99116857581605511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc IV 22    |b B404    |9 (41SLSP_UBE)99116857581605511    
+986      |a (41SLSP_UBE)99116857581605511    |9 (41SLSP_UBE)99116857581605511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116857581605511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,141 @@
+﻿<-1-1-START->
+Wimpfeling, Jakob
+<-1-1-STOP->
+
+<-1-2-START->
+Laudes ecclesiae Spirensis et cerimoniarum
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Widmung des Herausgebers Jodocus Gallus, datiert Heidelberg, 10.01.1486<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Basel: Michael Wenssler, 1486?]
+<-500-START->Ältere, falsche Zuschreibung des Druckers: Peter Drach (der Ältere) in Speyer<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 2 ungezählte Seiten, 1 ungezähltes Blatt, 30 ungezählte Seiten; 20 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M51656.htm<-L-5-STOP-><-VI-5-START->GW M51656<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/iw00039000<-L-5-STOP-><-VI-5-START->ISTC iw00039000<-VI-5-STOP->; <-VI-5-START->Litzel, Georg: Historische Beschreibung der kaiserlichen Begräbnisse in dem Dome zu Speyer. Mannheim: T. Löffler, 1826Seite 8 ff.<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+10 von 18 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Pergamenteinband auf Kartondeckeln mit Papier (beige, 17./18. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Johannes Ellin
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 6 weiteren Drucken und 4 Handschriften in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: zu Lage [a] fehlen die Blätter [a₅]-[a₈] (vgl. GW), zu Lage [b] fehlen weitere 4 Blätter
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116774829605511<-L-11-STOP-><-VI-11-START->MUE Inc III 105 : 4<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991123387999705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Wimpfeling, Jakob<-P-STOP->
+<-P-START->Gallus, Jodocus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Wenssler, Michael<-P-STOP->
+<-O-START->Speyer<-O-STOP->
+<-P-START->Drach, Peter (der Ältere)<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Ellin, Johannes<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991123387999705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 105 : 4<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03981nam a2200553 c 4500
+001 991123387999705501
+005 20211215202109.0
+008 130501s1486    gw            00| | lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/24.07.2014/B404/vha    
+035      |a (swissbib)066200385-41slsp_network    
+035      |a 066200385    |9 ExL    
+035      |a (IDSBB)006121734DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991123387999705501    
+035      |a (41SLSP_UBE)99116774829605511    |9 (41SLSP_UBE)99116774829605511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Wimpfeling, Jakob    |d 1450-1528    |0 (DE-588)118769189    |e Verfasser    |4 aut    
+240 1 0  |a Laudes ecclesiae Spirensis et cerimoniarum    
+245 1 0  |a [Laudes ecclesiae Spirensis et cerimoniarum]    
+246 1    |i Titel gemäss GW und ISTC    |a Laudes ecclesiae Spirensis    
+264   1  |a [Basel]    |b [Michael Wenssler]    |c [1486?]    
+300      |a 1 ungezähltes Blatt, 2 ungezählte Seiten, 1 ungezähltes Blatt, 30 ungezählte Seiten    |c 20 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite    
+500      |a Widmung des Herausgebers (Blatt a₂ recto): "Jodocus galicus Rubiacensis Saltuem dicit plurimam et se commendarum facit Jacobo wimpfeling Sletstattensis suo preceptori humanissimo"    
+500      |a Datierung der Widmung (Blatt a₂ verso): "Vale Ex heydelberga quarto idus ianuarias Anno domini Millesimo quadringentesimo octogesimo sexto." (d.i. 10. Januar 1486)    
+500      |a Textbeginn des Lobgedichts (Blatt [a₄ recto]): "[D]Jua pare[n]s christi fer ope[m] mihi queso benigna[m] ..."    
+500      |a Drucker gemäss GW und ISTC; ältere, falsche Zuschreibung des Druckers: Peter Drach in Speyer    
+500      |a Signaturformel: [a⁸, b¹⁰]    
+500      |a Blätter [a₁] und [a₃] (erstes und drittes Blatt) unbedruckt    
+510 4    |a GW    |c M51656    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M51656.htm    
+510 4    |a ISTC    |c iw00039000    |u http://data.cerl.org/istc/iw00039000    
+510 4    |a Litzel, Georg: Historische Beschreibung der kaiserlichen Begräbnisse in dem Dome zu Speyer. Mannheim: T. Löffler, 1826    |c Seite 8 ff.    
+561      |a Früherer Eigentümer (erkennbar an den Handschriften im Band): Dr. Johannes Ellin, genannt Dr. Barbatus, Stadtarzt von Bern    
+563      |a Einbandbeschreibung: Halbbezogener Pergamenteinband auf Kartondeckeln mit Papier (beige, 17./18. Jahrhundert); auf dem Rücken die Titel in Tinte; darunter, längs zum Rücken: "Sanctoru[m] Legenda"    
+563      |a Vorsätze: vorne und hinten mit 2 fliegenden Blättern    
+563      |a Masse Einband: 19.8 x 14.9 x 2.6 cm    
+563      |a Zustand Einband: Fliegende Blätter an hinterem Vorsatz an oberer Falzkante nicht aufgeschnitten    
+590      |a Buchblockbeschreibung: 10 von 18 Blättern, handschriftliche Foliierung in Graphit ("f. 1" bis "f. 10"); mit Tinte ergänzte Initiale "D" an vorgesehener Stelle auf Blatt [a₄] recto, keine Rubrizierung    
+590      |a Zustand Buchblock: Fehlstelle an Blättern [a₃] und [a₄] sowie [b₆], mit etwas Textverlust an Blatt [a₄]    
+590      |a Unvollständiges Exemplar: zu Lage [a] fehlen gemäss handschriftlichen Notizen im GW die Blätter [a₅]-[a₈], zu Lage [b] fehlen weitere 4 Blätter (vorhanden sind Blatt [b₁] und [b₁₀])    
+590      |a Zusammengebunden mit 6 weiteren Drucken und 4 Handschriften in Sammelband    
+590      |a Frühere Signatur: Inc 596    
+700 1 2  |a Wimpfeling, Jakob    |d 1450-1528    |t Laudes ecclesiae Spirensis et cerimoniarum    |0 (DE-588)1124877193    
+700 1    |a Gallus, Jodocus    |d 1459-1517    |0 (DE-588)102501726    |e Herausgeber    |4 edt    
+700 1    |a Wenssler, Michael    |d 14XX-1512    |0 (DE-588)134121260    |e Drucker    |4 prt    
+700 1    |a Ellin, Johannes    |d ca. 2. H. 15. Jh.    |0 (DE-588)1194516130    |e Früherer Eigentümer    |4 fmo    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc III 105 : 4    |9 (41SLSP_UBE)99116774829605511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit weiteren Drucken und Handschriften    |p 12    |j MUE Inc III 105 : 4    |b B404    |9 (41SLSP_UBE)99116774829605511    
+986      |a (41SLSP_UBE)99116774829605511    |9 (41SLSP_UBE)99116774829605511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116774829605511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

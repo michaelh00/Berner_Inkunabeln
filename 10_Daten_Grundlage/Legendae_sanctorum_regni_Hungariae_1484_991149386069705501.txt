@@ -1,0 +1,134 @@
+﻿<-1-1-START->
+Legendae sanctorum regni Hungariae in Lombardica Historia non contentae
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Straßburg: Johann Prüss, zwischen 1484 und 1487?]
+<-3-1-STOP->
+
+<-4-1-START->
+69 ungezählte Seiten, 1 ungezähltes Blatt; 31 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_L-85.html<-L-5-STOP-><-VI-5-START->BSB-Ink L-85<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M17600.htm<-L-5-STOP-><-VI-5-START->GW M17600<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/il00119000<-L-5-STOP-><-VI-5-START->ISTC il00119000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+36 von 36 Blättern, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun, Kalb) mit Schliessen sowie Spuren einer Kettenöse am oberen Rand des Rückdeckels, Ornamentstempel- und Linien-Blindprägung auf beiden Deckeln, Buchbinder: Johannes Vatter
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Dominikanerkloster Bern
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 3 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116909172905511<-L-11-STOP-><-VI-11-START->MUE Inc I 20 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991149386069705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Prüss, Johann<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-P-START->Vatter, Johannes<-P-STOP->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Dominikanerkloster Bern<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991149386069705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 20 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03821nam a2200529 c 4500
+001 991149386069705501
+005 20211215195622.0
+008 170809q14841487fr |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/09.08.2017/B404/faf    
+035      |a (swissbib)072020598-41slsp_network    
+035      |a 072020598    |9 ExL    
+035      |a (IDSBB)006720879DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991149386069705501    
+035      |a (41SLSP_UBE)99116909172905511    |9 (41SLSP_UBE)99116909172905511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+130 0    |a Legendae sanctorum regni Hungariae in Lombardica Historia non contentae    |0 (DE-588)1137953721    
+245 1 0  |a Lege[n]de s[an]cto[rum] regni hungarie in lombardica historia non co[n]tente    
+246 1    |i Explicit    |a Expliciunt legende sancto[rum] quorundam regni hungarie que in lombardica historia non continentur    
+246 1    |i Titel gemäss GW    |a Legenda sanctorum regni Hungariae    
+264   1  |a [Straßburg]    |b [Johann Prüss]    |c [zwischen 1484 und 1487?]    
+300      |a 69 ungezählte Seiten, 1 ungezähltes Blatt    |c 31 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Impressum gemäss BSB-Ink, GW und ISTC    
+500      |a Signaturformel: a⁸, b⁶, c⁸, d⁶, e⁸    
+500      |a Blatt e₆ ist unbedruckt    
+510 4    |a BSB-Ink    |c L-85    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_L-85.html    
+510 4    |a GW    |c M17600    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M17600.htm    
+510 4    |a ISTC    |c il00119000    |u http://data.cerl.org/istc/il00119000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/bsb00005904/images    
+561      |a Aus dem Besitz des Dominikanerklosters Bern    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun, Kalb) mit Schliessen sowie Spuren einer Kettenöse am oberen Rand des Rückdeckels, Ornamentstempel- und Linien-Blindprägung auf beiden Deckeln, handschriftlicher Rückentitel in Tinte: "Alexander Magnus incerti au[...] 1486 Argentin", auf Vorderdeckel geklebtes Pergamentstück mit handschriftlichem Titel in Tinte: "Lege[n]de quo[run]d[am] s[an]cto[rum]. Historia troya[n]a. Historia alexa[n]dri magni. Cu[m] historia friderici Imp[er]atoris primi"    
+563      |a Vorsätze: Vorne und hinten mit einem halben Blatt Pergamentmakulatur (Biblia latina: Vulgata, recensio Alcuini, frühes 9. Jahrhundert)    
+563      |a Masse Einband: 30.3 x 22 x 6 cm    
+563      |a Zustand Einband: Oberer Schliessenriemen ergänzt, Rostschaden an ehemaliger Stelle für Kettenöse, Bruch im Einbandleder entlang der Deckelkante im Falz    
+563      |a Gemäss Johann Lindt (Berner Einbände, Buchbinder und Buchdrucker, Bern 1969) Einband des Berner Dominikanermönchs Johannes Vatter    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 36 von 36 Blättern, Brandloch auf Blatt d₆ mit Textverlust, rot ausgezeichnete Initialen, Rubrizierung    
+590      |a Zustand Buchblock: Verbräunungen von früheren Ledereinband-Einschlägen an Blatt a₁    
+590      |a Zusammengebunden mit 3 weiteren Drucken in Sammelband    
+590      |a Historische Signatur auf vorderem Spiegel: "Hist: Cod: 123.", Zahl korrigiert zu "5."    
+590      |a Frühere Signatur: Inc 99    
+700 1    |a Prüss, Johann    |d 1447-1510    |0 (DE-588)135917018    |e Drucker    |4 prt    
+700 1    |a Vatter, Johannes    |d 1470-1509    |0 (DE-588)1114426377    |e Buchbinder    |4 bnd    
+710 2    |a Dominikanerkloster Bern    |0 (DE-588)4302674-6    |e Früherer Eigentümer    |4 fmo    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Inc I 20 : 1    |9 (41SLSP_UBE)99116909172905511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 3 weiteren Drucken in Sammelband    |p 12    |j MUE Inc I 20 : 1    |b B404    |9 (41SLSP_UBE)99116909172905511    
+986      |a (41SLSP_UBE)99116909172905511    |9 (41SLSP_UBE)99116909172905511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116909172905511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116909172905511    
+991      |a MedeaB400: 00525498    |5 IZ UBE/rekat-ubbe    |9 local    |9 (41SLSP_UBE)99116909172905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,137 @@
+﻿<-1-1-START->
+Alfonsus de Spina
+<-1-1-STOP->
+
+<-1-2-START->
+Fortalitium fidei
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Lyon]: [Guillaume Balsarin], 22.05.1487
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 596 ungezählte Seiten, 1 ungezähltes Blatt: 1 Illustration, Druckermarke; 26 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-453.html<-L-5-STOP-><-VI-5-START->BSB-Ink A-453<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW01577.htm<-L-5-STOP-><-VI-5-START->GW 01577<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/ia00542000<-L-5-STOP-><-VI-5-START->ISTC ia00542000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+241 von 250 Blättern; rot ausgezeichnete Initialen, Rubrizierung (nur Absatzzeichen vor Überschriften)
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Pergamenteinband auf Kartondeckeln mit durchzogenen Bünden und Stosskanten (17. Jahrhundert), mit Spuren von Verschlussbändern (grün, Textil), Linien-Blindprägung auf beiden Deckeln 
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Blätter a₁ (unbedruckt) und gesamte Lage L (letzte 8 Blätter) fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116896401405511<-L-11-STOP-><-VI-11-START->MUE Bong I 503<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991101896539705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Alfonsus de Spina<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Lyon<-O-STOP->
+<-P-START->Balsarin, Guillaume<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991101896539705501<-DOI-STOP->
+<-SIGN-START->MUE Bong I 503<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03938nam a2200553 c 4500
+001 991101896539705501
+005 20211215185842.0
+008 091214s1487    fr            00| | lat|d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/19.03.2010    
+035      |a (swissbib)063604426-41slsp_network    
+035      |a 063604426    |9 ExL    
+035      |a (IDSBB)005195653DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991101896539705501    
+035      |a (41SLSP_UBE)99116896401405511    |9 (41SLSP_UBE)99116896401405511    
+040      |a DKDLA    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Alfonsus    |c de Spina    |d 1412-1495    |0 (DE-588)119229781    |e Verfasser    |4 aut    
+240 1 0  |a Fortalitium fidei    
+245 1 0  |a [Fortalitium fidei]    
+246 1    |i Titel des Inhaltsverzeichnisses, Blatt a₂ recto    |a Tabula fortalicii fidei    
+246 1    |i Titel des Inhaltsverzeichnisses    |a Tabula fortalitii fidei    
+246 1    |i Titel gemäss BSB-Ink    |a Fortalitium fidei contra Judaeos, Saracenos aliosque Christianae fidei inimicos    
+264   1  |a [Lyon]    |b [Guillaume Balsarin]    |c Anno incarnat[i]o[n]is d[omi]nice. M.cccclxxxvij. die xxij. mensis maij. [22.05.1487]    
+300      |a 1 ungezähltes Blatt, 596 ungezählte Seiten, 1 ungezähltes Blatt    |b 1 Illustration    |c 26 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Drucker gemäss Druckermarke, Druckjahr gemäss Kolophon (Blatt L₈ verso)    
+500      |a Holzschnitt auf Bl. 2a₂ recto    
+500      |a Signaturformel: a⁸, 2a⁸, b-r⁸, s-v⁶, A-L⁸    
+500      |a Blätter a₁ und L₈ unbedruckt    
+510 4    |a BSB-Ink    |c A-453    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-453.html    
+510 4    |a GW    |c 01577    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW01577.htm    
+510 4    |a ISTC    |c ia00542000    |u https://data.cerl.org/istc/ia00542000    
+530      |a Digitalisat (schwarz-weiss; Exemplar der Biblioteca Provincial de Cádiz)    |u http://www.bibliotecavirtualdeandalucia.es/catalogo/catalogo_imagenes/grupo.cmd?path=10083&registrardownload=0&presentacion=pagina&posicion=1    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Ganzbezogener Pergamenteinband auf Kartondeckeln mit durchzogenen Bünden und Stosskanten (17. Jahrhundert), mit Spuren von Verschlussbändern (grün, Textil), Linien-Blindprägung auf beiden Deckeln, Titel auf dem Rücken in Tinte: "Fortalicium fidei."; weiterer Eintrag darunter (unleserlich)    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 26.1 x 20.5 x 4.6 cm    
+563      |a Zustand Einband: Stosskanten deformiert, Verschlussbänder fehlend, beide Vorsätze im Falz mit Japanpapier stabilisiert    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 241 von 250 Blättern, Papierfalz vor erstem Blatt a₂ von umgeklebtem Einzelblatt a₇; rot ausgezeichnete Initialen, Rubrizierung (nur Absatzzeichen vor Überschriften)    
+590      |a Zustand Buchblock: bräunliche Verfleckungen und Ablagerungen im Falz und an den Blättern der letzten Lagen, durchgängig Schädlingsfrass, Abrieb an rotem Farbmittel der ausgezeichneten Zierbuchstaben    
+590      |a Unvollständiges Exemplar: Blätter a₁ (unbedruckt) und gesamte Lage L (letzte 8 Blätter) fehlen (Angaben zum Impressum vom Digitalisat)    
+590      |a Historische Signatur auf vorderem Spiegel: "Patr: No. 281."; 281 durchgestrichen, daneben: "210."    
+590      |a Frühere Signaturen: Inc III 62; Inc 40; Hortin IX. 4    
+700 0 2  |a Alfonsus    |c de Spina    |d 1412-1495    |t Fortalitium fidei    |0 (DE-588)4369784-7    
+700 1    |a Balsarin, Guillaume    |d 1455-1527    |0 (DE-588)103757270X    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+751      |a Lyon    |0 (DE-588)4036770-8    
+852 4    |b B404    |c 404U3    |j MUE Bong I 503    |9 (41SLSP_UBE)99116896401405511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc III 62    |c 404U3    |p 12    |j MUE Bong I 503    |b B404    |9 (41SLSP_UBE)99116896401405511    
+986      |a (41SLSP_UBE)99116896401405511    |9 (41SLSP_UBE)99116896401405511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116896401405511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116896401405511    
+991      |a Bongars: 00309    |5 IZ UBE/B400/19.03.2010    |9 LOCAL    |9 (41SLSP_UBE)99116896401405511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

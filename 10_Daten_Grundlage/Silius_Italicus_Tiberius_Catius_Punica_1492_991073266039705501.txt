@@ -1,0 +1,153 @@
+﻿<-1-1-START->
+Silius Italicus, Tiberius Catius Asconius
+<-1-1-STOP->
+
+<-1-2-START->
+Punica. — Marso, Pietro: Commentarii in Syllium Italicum; Syllii vita
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Widmungsbrief von Pietro Marso an Virginius Ursinus<-500-STOP->
+<-500-START->Vor dem Kolophon eine abschliessende Bemerkung von Marso an Virginius Ursinus<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Boneto Locatello für Ottaviano Scoto, 18.05.1492
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 308 ungezählte Seiten, 1 ungezähltes Blatt: Verlegermarke, Holzschnittinitialen; 32 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_S-386.html<-L-5-STOP-><-VI-5-START->BSB-Ink S-386<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M42113.htm<-L-5-STOP-><-VI-5-START->GW M42113<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/is00508000<-L-5-STOP-><-VI-5-START->ISTC is00508000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+154 von 156 Blättern, rot und blau ausgezeichnete Initiale auf Blatt a₄ recto
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Pergamenteinband auf Kartondeckeln (17./18. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: ... Panyau; Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Titelblatt und letztes Blatt, mit Verlegermarke, fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116868208405511<-L-11-STOP-><-VI-11-START->MUE Bong VI 256<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991073266039705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Silius Italicus, Tiberius Catius Asconius<-P-STOP->
+<-P-START->Marso, Pietro<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Scoto, Ottaviano<-P-STOP->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Locatello, Boneto<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Panyau, ...<-P-STOP->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991073266039705501<-DOI-STOP->
+<-SIGN-START->MUE Bong VI 256<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04649nam a2200673 c 4500
+001 991073266039705501
+005 20211215175427.0
+008 100730s1492    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/30.07.2010    
+035      |a (swissbib)062150723-41slsp_network    
+035      |a 062150723    |9 ExL    
+035      |a (IDSBB)005285861DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991073266039705501    
+035      |a (41SLSP_UBE)99116868208405511    |9 (41SLSP_UBE)99116868208405511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Silius Italicus, Tiberius Catius Asconius    |d 26-101    |0 (DE-588)118614347    |e Verfasser    |4 aut    
+240 1 0  |a Punica    
+245 1 0  |a Syllius Italicus    |c Cum commentariis Petri Marsi    
+246 1    |i Blatt a₂ verso    |a Belli punici .ii. compendium    
+246 1 3  |a Belli punici secundi compendium    
+246 1    |i Ende des Kommentars (Blatt u₅ recto)    |a Commentariorum Petri Marsi in Syllium Italicum finis    
+264   1  |a Venetiis    |b opera ingenioq[ue] Boneti Locatelli    |c Anno salutiferæ incarnationis nonagesimosecundo supra Millesimum ac quadringentesimum quinto decimo kalendas iunias [18.05.1492]    |b Instinctu uero ac sumptibus Nobilis uiri Octauiani Scoti Modoetiensis    
+300      |a 1 ungezähltes Blatt, 308 ungezählte Seiten, 1 ungezähltes Blatt    |c 32 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Blatt a₂ recto: Widmungsbrief von Pietro Marso an Virginius Ursinus    
+500      |a Blatt u₅ verso, vor dem Kolophon noch eine abschliessende Bemerkung von Marso an Virginius Ursinus    
+500      |a Impressum gemäss Kolophon    
+500      |a Letztes Blatt u₆ mit Verlegermarke von Ottaviano Scoto    
+500      |a Signaturformel: a–s⁸, t–u⁶    
+500      |a Rückseite der Titelseite (Blatt a₁ verso) und Blatt u₆ verso unbedruckt    
+500      |a Holzschnittinitialen (ausser Anfangsinitiale auf Blatt a₄ recto)    
+505 0 0  |g Blatt a₂ recto    |t Syllii Vita    |r [Petrus Marsus]    
+510 4    |a BSB-Ink    |c S-386    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_S-386.html    
+510 4    |a GW    |c M42113    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M42113.htm    
+510 4    |a ISTC    |c is00508000    |u http://data.cerl.org/istc/is00508000    
+530      |a Digitalisat (Exemplar der Herzogin Anna Amalia Bibliothek, Weimar)    |u https://haab-digital.klassik-stiftung.de/viewer/resolver?urn=urn:nbn:de:gbv:32-1-10016674711    
+561      |a Handschriftlicher Besitzvermerk: auf Blatt a₂ recto: "Bongars", auf Blatt a₄ recto (in der ausgezeichneten Initiale O: "Panyau ...[?]"    
+563      |a Einbandbeschreibung: Ganzbezogener Pergamenteinband auf Kartondeckeln (17./18. Jahrhundert); auf dem Rücken in Tinte: "Petrus Marsus in Syllium Italicum"    
+563      |a Vorsätze: vorne und hinten zwei fliegenden Blättern    
+563      |a Masse Einband: 32.1 x 22.4 x 3.6 cm    
+563      |a Zustand Einband: Kratzer und Abrieb am Einbandpergament, Japanpapier-Überklebungen in den Fälzen beider Vorsätze, Deckel deformiert    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 154 von 156 Blättern, rot und blau ausgezeichnete Initiale auf Blatt a₄ recto, keine Rubrizierung    
+590      |a Zustand Buchblock: Schädlingsfrass an erster Lage und an den letzten beiden Lagen, Reste von Blattweisern (Papier) zum Beispiel an Blatt t₄    
+590      |a Unvollständiges Exemplar: Titelblatt a₁ und letztes Blatt u₆, mit Druckermarke, fehlen    
+590      |a Historische Signatur auf Blatt a₂ recto: "Poet 37."    
+590      |a Frühere Signaturen: Inc III 21; Inc 187; Hortin XIIX 5    
+700 1 2  |a Silius Italicus, Tiberius Catius Asconius    |d 26-101    |t Punica    |0 (DE-588)4122540-5    
+700 1    |a Marso, Pietro    |d 1442-1510    |0 (DE-588)119071665    |e Kommentarverfasser    |e Widmender    |4 wac    |4 dto    
+700 1 2  |a Marso, Pietro    |d 1442-1510    |t Commentarii in Syllium Italicum    |0 (DE-588)1179861590    
+700 1 2  |a Marso, Pietro    |d 1442-1510    |t Syllii vita    |0 (DE-588)1179861736    
+700 1    |a Orsini, Gentile Virginio    |d 1445-1497    |0 (DE-588)129047643    |e Widmungsempfänger    |4 dte    
+700 1    |a Scoto, Ottaviano    |d 14XX-1498    |0 (DE-588)104090030    |e Verlag    |4 pbl    
+700 1    |a Locatello, Boneto    |0 (DE-588)1037496906    |e Drucker    |4 prt    
+700 1    |a Panyau, ..    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Bong VI 256    |9 (41SLSP_UBE)99116868208405511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc III 21    |c 404U3    |p 12    |j MUE Bong VI 256    |b B404    |9 (41SLSP_UBE)99116868208405511    
+986      |a (41SLSP_UBE)99116868208405511    |9 (41SLSP_UBE)99116868208405511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116868208405511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116868208405511    
+991      |a Bongars: 13051    |5 IZ UBE/B400/30.07.2010    |9 local    |9 (41SLSP_UBE)99116868208405511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,131 @@
+﻿<-1-1-START->
+Bibel [lateinisch]
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Biblia Vulgata mit der Übersetzung des Hieronymus, sowie seinen Prologen und Briefen an Paulinus von Nola und Papst Damasus I.<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Franz Renner, 1483
+<-3-1-STOP->
+
+<-4-1-START->
+952 ungezählte Seiten; 24 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-449.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-449<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW04253.htm<-L-5-STOP-><-VI-5-START->GW 4253<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib00578000<-L-5-STOP-><-VI-5-START->ISTC ib00578000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+476 von 476 Blättern, rot und blau ausgezeichnete Initialen, Zierinitialen zwei- und dreifarbig ausgezeichnet, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband (braun) auf Holzdeckeln mit mittiger Schliesse sowie Spuren von zwei alten Schliessen und Eck- sowie Mittelbeschlägen, Linien- und Ornamentstempel-Blindprägung am Rücken und beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Niclaus Esslinger; Niclaus Graffenried
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116708454205511<-L-11-STOP-><-VI-11-START->MUE Inc IV 27<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991030897549705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Hieronymus, Sophronius Eusebius<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Renner, Franz<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Esslinger, Niclaus<-P-STOP->
+<-P-START->Graffenried, Niclaus<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991030897549705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 27<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04144nam a2200505 c 4500
+001 991030897549705501
+005 20230207110644.0
+008 160916s1483    it |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/16.09.2016/B404/az    
+035      |a (swissbib)070655391-41slsp_network    
+035      |a 070655391    |9 ExL    
+035      |a (IDSBB)006621961DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991030897549705501    
+035      |a (41SLSP_UBE)99116708454205511    |9 (41SLSP_UBE)99116708454205511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a lat    |h heb    |h grc    |h arc    
+130 0    |a Bibel    |0 (DE-588)4006406-2    
+245 1 0  |a [Biblia]    
+246 1    |i Titel gemäss ISTC    |a Biblia latina    
+264   1  |a Venetijs    |b per Franciscu[m] renner de hailbrun    |c M.CCCC.LXXXIII. [1483]    
+300      |a 952 ungezählte Seiten    |c 24 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss BSB-Ink und GW    
+500      |a Druckort, Drucker und Druckjahr gemäss Explicit    
+500      |a Signaturformel: a–f¹²⁻⁸,g⁸,h–k¹²,l-m⁸,n–p¹²,q-r⁸,ſ-s¹²,t⁸,v¹⁰,x-y¹²,A–I¹²,K⁸,L–P¹,²Q⁸,R⁶,S–X¹²    
+500      |a Blatt X₁₂ verso ist unbedruckt    
+505 0 0  |t Interpretationes hebraicorum nominum    
+510 4    |a BSB-Ink    |c B-449    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-449.html    
+510 4    |a GW    |c 4253    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW04253.htm    
+510 4    |a ISTC    |c ib00578000    |u http://data.cerl.org/istc/ib00578000    
+530      |a Digitalisat (Exemplar der Universitätsbibliothek Frankfurt am Main)    |u http://sammlungen.ub.uni-frankfurt.de/id/5015291    
+561      |a Handschriftlicher Besitzvermerk auf vorderem fliegendem Vorsatzblatt recto und verso: "Niclaus Esslinger est possessor huius libri", sowie handschriftliche Notizen; weiterer Besitzvermerk auf zweitem vorderem fliegendem Vorsatzblatt verso: "Niclaus Esslinger von Basell ist das Buch im 39 [1539]", wiederholt auf letztes Blatt (X₁₂) recto "Niclaus Esslinger Basel ist dises Buch, 1541"; von anderer Hand auf vorderem fliegendem Vorsatzblatt: "Niclaus de Graffenried"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband (braun) auf Holzdeckeln mit mittiger Schliesse sowie Spuren von 2 alten Schliessen und Eck- sowie Mittelbeschlägen, Linien- und Ornamentstempel-Blindprägung am Rücken und beiden Deckeln    
+563      |a Vorsätze: vorne: vorgeheftetes Doppelblatt aus Makulaturpergament und vorgeheftete Lage aus 4 Doppelblättern Velourpergament mit zusätzlich innenliegendem Pergamentfalz als Heftverstärkung (bis auf 2 Velourpergamente alle fliegenden Blätter abgetrennt). Hinten: 2 vorgeheftete Doppelblätter aus Makulaturpergament und vorgeheftete Lage aus 4 Doppelblättern Velourpergament mit zusätzlich innenliegendem Pergamentfalz als Heftverstärkung (bis auf gelösten Spiegel alle fliegenden Blätter abgetrennt)    
+563      |a Masse Einband: 23.4 x 18 x 9 cm    
+563      |a Zustand Einband: Lederüberklebungen am Rücken und am Rückdeckel, fehlende Schliessen durch neu positionierte mittige Schliesse ersetzt, hinterer Spiegel hoch gelöst    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 476 von 476 Blättern, rot und blau ausgezeichnete Initialen, Zierinitialen 2- und 3-farbig ausgezeichnet, Rubrizierung von Hand (Paragraphenzeichen, Strichelungen, Unterstreichungen), wenige Notationen in brauner Tintenschrift (z.B. Blatt n₈ verso)    
+590      |a Zustand Buchblock: stellenweise Schädlingsfrass und Feuchtigkeitsränder, Tintenschrift an Blatt X₁₂ verso durch Abrieb getilgt    
+700 1    |a Renner, Franz    |0 (DE-588)138332290    |e Drucker    |4 prt    
+700 1    |a Esslinger, Niclaus    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Graffenried, Niclaus    |e Früherer Eigentümer    |4 fmo    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 27    |9 (41SLSP_UBE)99116708454205511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc IV 27    |b B404    |9 (41SLSP_UBE)99116708454205511    
+986      |a (41SLSP_UBE)99116708454205511    |9 (41SLSP_UBE)99116708454205511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116708454205511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

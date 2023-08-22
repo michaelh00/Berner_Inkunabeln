@@ -1,0 +1,137 @@
+﻿<-1-1-START->
+Thomas von Aquin
+<-1-1-STOP->
+
+<-1-2-START->
+Summa theologiae
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Nürnberg: Anton Koberger, 15.01.1496]
+<-500-START->Impressum gemäss Kolophon im hier fehlenden Teil 3<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+3 Bände; 31 cm (2°)
+<-500-START->Teil 1: 1 ungezähltes Blatt, 384 ungezählte Seiten, 1 ungezähltes Blatt<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_T-280.html<-L-5-STOP-><-VI-5-START->BSB-Ink T-280<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M46440.htm<-L-5-STOP-><-VI-5-START->GW M46440<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/it00196000<-L-5-STOP-><-VI-5-START->ISTC it00196000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+Teil 1: 193 von 194 Blättern, rot oder blau ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Stadtbibliothek Memmingen
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Nur Band 1 vorhanden, Blatt Ee₈ (unbedruckt) fehlt; vollständiges Werk unter der Signatur MUE Inc III 50
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116857273005511<-L-11-STOP-><-VI-11-START->MUE Inc III 50 a<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991080216679705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Thomas von Aquin<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Nürnberg<-O-STOP->
+<-P-START->Koberger, Anton<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Stadtbibliothek Memmingen<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991080216679705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 50 a<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04313nam a2200541 ca4500
+001 991080216679705501
+005 20211215182916.0
+008 130410s1496    gw            00| | lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/09.10.2017/B404/vha    
+035      |a (swissbib)064256006-41slsp_network    
+035      |a 064256006    |9 ExL    
+035      |a (IDSBB)006103523DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991080216679705501    
+035      |a (41SLSP_UBE)99116857273005511    |9 (41SLSP_UBE)99116857273005511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Thomas    |c von Aquin, Heiliger    |d 1225-1274    |0 (DE-588)118622110    |e Verfasser    |4 aut    
+240 1 0  |a Summa theologiae    
+245 1 0  |a <<...>> pars su[m]e sancti Thome de aquino doctoris Angelici de ordine predicatorum    
+246 1    |i Incipit, prima pars    |a Jncipit prima p[ar]s summe theologie    
+246 1    |i Prima pars    |a Prima pars su[m]e sancti Thome de aquino doctoris Angelici de ordine predicatorum    
+246 1    |i Titel in moderner Orthografie    |a <<...>> pars summae Sancti Thomae de Aquino doctoris Angelici de ordine praedicatorum    
+246 1    |i Titel in normalisierter Form    |a <<...>> pars summe Sancti Thome de Aquino doctoris Angelici de ordine predicatorum    
+264   1  |a [In imp[er]iali ciuitate Nurnberg no[n] sine exacta diligentuia impressa]    |b [per Anthoniu[m] koberger]    |c [Anno incarnate deitatis. M.cccc.xcvj. die. xv. mensis Januarij ...] [15.01.1496]    
+300      |a 3 Bände    |c 31 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Impressum gemäss Kolophon (pars 3, Blatt [quod]₂ recto)    
+500      |a Umfang pars 1: 1 ungezähltes Blatt, 384 ungezählte Seiten, 1 ungezähltes Blatt    
+500      |a Signaturformel pars 1: A–E⁸, F–H⁶, I⁸, K-L⁶, M⁸, N-O⁶, P⁸, Q-S⁶, T⁸, V–Y⁶, Z⁸, Aa⁸, Bb–Cc⁶, Dd–Ee⁸    
+500      |a Blatt Ee₈ (letztes Blatt) unbedruckt    
+510 4    |a BSB-Ink    |c T-280    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_T-280.html    
+510 4    |a GW    |c M46440    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M46440.htm    
+510 4    |a ISTC    |c it00196000    |u http://data.cerl.org/istc/it00196000    
+530      |a Digitalisat pars 1 (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00044285/image_7    
+561      |a Stempel auf der Titelseite: "Bibliothec Memmingen" (als Dublette dort ausgeschieden); Stempel: "Bibliotheca Bernensis 1937", handschriftlich ergänzt die Aquisitionsnummer: "3164"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln sowie Ornamentstempel-Blindprägung auf dem Rücken; auf Vorderdeckel geklebtes Papierstück, darauf Titel in Tinte: "Prima et 2a pars su[m]e scti thome"(!)    
+563      |a Vorsätze: ohne fliegende Blätter    
+563      |a Masse Einband: 30.7 x 21.5 x 5.1 cm    
+563      |a Zustand Einbände: Einbandleder stark verschmutzt mit zahlreichen Verfleckungen und Kratzern sowie Schädlingsfrass, beide Hakenteile sowie Schliessenriemen ergänzt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 193 von 194 Blättern; Pergamentfalz (Velours, Makulatur) zwischen Lage A und B sowie Lage Dd und Ee gehört zu vormaliger Vorsatzkonstruktion oder zur vormaligen Lagenverstärkung; rot oder blau ausgezeichnete Initialen, Rubrizierung (jedoch nicht das Titelblatt)    
+590      |a Zustand Buchblock: letztes Blatt abgetrennt, Feuchtigkeitsränder mit Schimmelverfleckungen an den letzten Blättern    
+590      |a Unvollständiges Exemplar: Nur pars 1 vorhanden (pars 2,1, 2,2 und 3 fehlen), Blatt Ee₈ (unbedruckt) fehlt; vollständiges mehrteiliges Werk unter der Signatur MUE Inc III 50    
+700 0 2  |a Thomas    |c von Aquin, Heiliger    |d 1225-1274    |t Summa theologiae    |0 (DE-588)4250666-9    
+700 1    |a Koberger, Anton    |d 1440-1513    |0 (DE-588)118563890    |e Drucker    |4 prt    
+710 2    |a Stadtbibliothek Memmingen    |0 (DE-588)4450555-3    |e Früherer Eigentümer    |4 fmo    
+751      |a Nürnberg    |0 (DE-588)4042742-0    
+852 4    |b B404    |c 404U3    |j MUE Inc III 50 a    |9 (41SLSP_UBE)99116857273005511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |h MUE Inc III 50 a    |q pars 1    |p 12    |j MUE Inc III 50 a    |b B404    |9 (41SLSP_UBE)99116857273005511    
+986      |a (41SLSP_UBE)99116857273005511    |9 (41SLSP_UBE)99116857273005511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116857273005511    
+991      |a AAK: 890997    |5 IZ UBE/09.10.2017/B404/vha    |9 LOCAL    |9 (41SLSP_UBE)99116857273005511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

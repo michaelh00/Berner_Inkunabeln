@@ -1,0 +1,155 @@
+﻿<-1-1-START->
+Caoursin, Guillaume
+<-1-1-STOP->
+
+<-1-2-START->
+Obsidionis Rhodiae urbis descriptio; De terrae motus labore, quo Rhodii affecti sunt; Oratio in senatu Rhodiorum, de morte Turci, habita pridie Kalendas junias M.CCCC.LXXXI.; De casu regis Zyzymy commentarium; De foedere cum Turcorum rege Bagyazit per Rhodios inito commentarium; De admissione regis Zyzymi in Gallias exhortatio; De translatione sacrae dextrae sancti Johannis Baptistae praecursoris ex Constantinopoli ad Rhodios commentarium; Oratio ad Innocentium VIII. papam; De traductione Zyzymi suldani fratris magni Turci ad Urbem commentarium
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Enthält 9 Werke zu Ereignissen in Bezug auf Rhodos, 1480 bis 1485<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Ulm: Johann Reger, 24.10.1496
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 117 ungezählte Seiten: 36 Illustrationen, Holzschnittinitialen; 30 cm (2°)
+<-500-START->Druckvariante: Hier ohne die in einigen Exemplaren vorhandene Druckermarke auf Blatt h₄ recto<-500-STOP->
+<-500-START->Die Illustrationen sind ganzseitige Holzschnitte<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_C-85.html<-L-5-STOP-><-VI-5-START->BSB-Ink C-85<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW06003.htm<-L-5-STOP-><-VI-5-START->GW 06003<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ic00113000<-L-5-STOP-><-VI-5-START->ISTC ic00113000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+59 von 60 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Einteiliger Kartoneinband
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Vincenz Frisching; Stadtbibliothek Thun
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Erstes Blatt a₁ (mit Illustration) fehlt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116698418305511<-L-11-STOP-><-VI-11-START->MUE Thun alt fol 121<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991019828389705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Caoursin, Guillaume<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Ulm<-O-STOP->
+<-P-START->Reger, Johann<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Frisching, Vincenz<-P-STOP->
+<-P-START->Stadtbibliothek Thun<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991019828389705501<-DOI-STOP->
+<-SIGN-START->MUE Thun alt fol 121<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06666nam a2200745 c 4500
+001 991019828389705501
+005 20211215171444.0
+008 080212s1496    gw            00| | lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von Signaturen    |5 IDSBB/19.02.2008/beubzb/az    
+035      |a (swissbib)054729823-41slsp_network    
+035      |a 054729823    |9 ExL    
+035      |a (IDSBB)004427127DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991019828389705501    
+035      |a (41SLSP_UBE)99116698418305511    |9 (41SLSP_UBE)99116698418305511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Caoursin, Guillaume    |d 1430-1501    |0 (DE-588)100068944    |e Verfasser    |4 aut    
+240 1 0  |a Obsidionis Rhodiae urbis descriptio    
+245 1 0  |a Guillelmi Caonrsin Rhodiorum Uicecancellarij: obsidionis Rhodie Urbis descriptio    
+246 1    |i Titel gemäss GW und ISTC    |a Rhodiorum historia    
+246 1    |i Titel gemäss BSB-Ink    |a Historiae    
+246 1    |i Titel in normalisierter Form    |a Guillelmi Caoursin Rhodiorum Vicecancellarii: obsidionis Rhodie Urbis descriptio    
+246 1    |a Obsidionis Rhodie urbis descriptio    
+264   1  |a Impressum vlme    |b p[er] ioanne[m] Reger    |c Anno d[omi]ni [et]c[etera] Mccccxcvj. Die. xxiiij. Octob[ris] [24.10.1496]    
+300      |a 1 ungezähltes Blatt, 117 ungezählte Seiten    |b 36 Illustrationen    |c 30 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, nur Kopftitel    
+500      |a Haupttitel ist Kopftitel des ersten Werks    
+500      |a Enthält 9 Werke zu Ereignissen in Bezug auf Rhodos, 1480 bis 1485    
+500      |a Ohne die in einer Druckvariante vorhandene Druckermarke auf Blatt h₄ recto    
+500      |a Signaturformel: a-f⁸, g-h⁶    
+500      |a Blätter a₁ recto und h₆ verso unbedruckt    
+500      |a Die Illustrationen sind ganzseitige Holzschnitte    
+500      |a Holzschnittinitialen    
+505 0 0  |g Blatt b₇ recto    |t Guillelmi Caonrsin Rhodiorum Uicecancellarij de Terremotus labe qua Rhodij affecti sunt    |g Blatt c₂ recto    |t Guillelmi Caornsin Uicecancellarij oratio in Senatu Rhodiorum de morte magni Thurci habita pridie Kalendas Iunias. M.cccc.lxxxj.    |g Blatt c₅ recto    |t Cuillelmi Caornsin: Galli. Belge. Duacij: Rhodiorum vicecancellarij: de casu Regis Zyzymy: Commentarium incipit    |g Blatt e₅ recto    |t Guillelmi Caonrsin Rhodioru[m] Uicecancellarij de celeberrimo foedere: cu[m] thurco[rum] Rege Bagyazit per Rhodios inito: Commentariu[m] lege feliciter    |g Blatt f₄ recto    |t Guillelmi Caonrsin Rhodioru[m] vicecancellarij de admissione regis Zyzymy in Gallias [et] diligenti custodia asseruatione: exhortatio    |g Blatt f₈ recto    |t Guillelmi caonrsin Galli Belge Duacij Rhodioru[m] viceca[n]cellarij de tra[n]slatione sacre dextre sancti ioa[n]nis baptiste chr[ist]i p[re]cursoris: ex co[n]sta[n]tinopoli ad rhodios: co[m]me[n]tariu[m] lege feliciter    |g Blatt h₃ recto    |t Guillelmi caonrsin Rhodiorum Uicecancellarij Oratoris: p[re]cellentissimi Magistri Rhodi: ad summu[m] pontifice[m] Innocenciu[m] papam octauu[m] oratio    |g Blatt h₅ recto    |t Guillelmi Caonrsin Rhodiorum viceca[n]cellarij: de traductione Zyzymy Suldani fratris magni Thurci ad vrbem Commentarium    
+510 4    |a BSB-Ink    |c C-85    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_C-85.html    
+510 4    |a GW    |c 06003    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW06003.htm    
+510 4    |a ISTC    |c ic00113000    |u http://data.cerl.org/istc/ic00113000    
+530      |a Digitalisat (Exemplar der Herzog August Bibliothek Wolfenbüttel)    |u http://diglib.hab.de/inkunabeln/236-4-hist-2f/start.htm    
+561      |a Exlibris auf vorderem Spiegel: "Vincentz Frisching", mit Motto "Bene facere et dicere vera" über Wappen mit Schafbock ("J.L. Aberli del."). - Stempel der Stadtbibliothek Thun auf erstem Textblatt (Blatt a₂ recto)    
+563      |a Einbandbeschreibung: Einteiliger Kartoneinband; Rückenschild mit Titel des ersten Werkes in Tinte    
+563      |a Vorsätze: vorne und hinten ohne fliegendes Blatt    
+563      |a Masse: 29.9 x 21.1 x 2.0 cm    
+563      |a Zustand Einband: Abrieb und Fehlstellen an den Kartondeckeln und am Rücken mit hoch stehenden Fragmenten    
+590      |a Buchblockbeschreibung: 59 von 60 Blättern, Papierverstärkungen zwischen den Lagen a und b sowie g und h; keine Rubrizierung    
+590      |a Zustand Buchblock: Zahlreiche Papierergänzungen und Reparaturen, letztes Blatt h₆ (mit Kolophon) am oberen Rand beschädigt, Verso mit einem handschriftlichen Brief kaschiert (Einblatt-Brief mit typischer Faltung, 17./18. Jahrhundert, auf der Rückseite adressiert an: "Mons. Bertrand ...[?] De St. Jacques Hospital, Paris")    
+590      |a Unvollständiges Exemplar: Blatt a₁ (1 Illustration) fehlt    
+590      |a Wenige handschriftliche Annotationen in Tinte; häufiger Markierungen am Rand, zum Teil mit Notiz "NB"    
+590      |a Weitere handschriftliche Notiz auf der Rückseite des Briefs (das ist Blatt h₆ verso) zu "Werck. der Barmherzigeheith[?]"    
+590      |a Vollständige Dublette: Bong V 933    
+590      |a Historische Signatur auf vorderem Spiegel: "G 39"; davor die Zahl "92" durchgestrichen    
+700 1 2  |a Caoursin, Guillaume    |d 1430-1501    |t Obsidionis Rhodiae urbis descriptio    |0 (DE-588)1046800922    
+700 1 2  |a Caoursin, Guillaume    |d 1430-1501    |t De terrae motus labore, quo Rhodii affecti sunt    |0 (DE-588)1143152409    
+700 1 2  |a Caoursin, Guillaume    |d 1430-1501    |t Oratio in senatu Rhodiorum, de morte Turci, habita pridie Kalendas junias M.CCCC.LXXXI.    |0 (DE-588)1143153421    
+700 1 2  |a Caoursin, Guillaume    |d 1430-1501    |t De casu regis Zyzymy commentarium    |0 (DE-588)1143153839    
+700 1 2  |a Caoursin, Guillaume    |d 1430-1501    |t De foedere cum Turcorum rege Bagyazit per Rhodios inito commentarium    |0 (DE-588)1143154142    
+700 1 2  |a Caoursin, Guillaume    |d 1430-1501    |t De admissione regis Zyzymi in Gallias exhortatio    |0 (DE-588)1143156358    
+700 1 2  |a Caoursin, Guillaume    |d 1430-1501    |t De translatione sacrae dextrae sancti Johannis Baptistae praecursoris ex Constantinopoli ad Rhodios commentarium    |0 (DE-588)1143154916    
+700 1 2  |a Caoursin, Guillaume    |d 1430-1501    |t Oratio ad Innocentium VIII. papam    |0 (DE-588)1143155408    
+700 1 2  |a Caoursin, Guillaume    |d 1430-1501    |t De traductione Zyzymi suldani fratris magni Turci ad Urbem commentarium    |0 (DE-588)1143156064    
+700 1    |a Reger, Johann    |d -1499    |0 (DE-588)129059072    |e Drucker    |4 prt    
+700 1    |a Frisching, Vincenz    |d 1689-1764    |0 (DE-588)1089776829    |e Früherer Eigentümer    |4 fmo    
+710 2    |a Stadtbibliothek    |g Thun    |0 (DE-588)1085836819    |e Früherer Eigentümer    |4 fmo    
+751      |a Ulm    |0 (DE-588)4061529-7    
+852 4    |b B404    |c 404U3    |j MUE Thun alt fol 121    |9 (41SLSP_UBE)99116698418305511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Thun alt fol 121    |b B404    |9 (41SLSP_UBE)99116698418305511    
+986      |a (41SLSP_UBE)99116698418305511    |9 (41SLSP_UBE)99116698418305511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116698418305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

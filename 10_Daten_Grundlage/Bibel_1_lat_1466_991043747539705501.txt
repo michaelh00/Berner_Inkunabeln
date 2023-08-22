@@ -1,0 +1,137 @@
+﻿<-1-1-START->
+Bibel [lateinisch]
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Biblia Vulgata mit der Übersetzung des Hieronymus, sowie seinen Prologen und Briefen an Paulinus von Nola und Papst Damasus I.<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Strassburg: Heinrich Eggestein, nicht nach 24.05.1466]
+<-3-1-STOP->
+
+<-4-1-START->
+2 Bände: 1 Illustration; 40 cm (2°)
+<-500-START->Band [1]: 498 ungezählte Seiten, 1 ungezähltes Blatt (leer); Band [2]: 488 ungezählte Seiten, 2 ungezählte Blätter (leer)<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-411.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-411<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW04205.htm<-L-5-STOP-><-VI-5-START->GW 04205<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib00530000<-L-5-STOP-><-VI-5-START->ISTC ib00530000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+Band [1]: 250 von 250 Blättern (Epistola St. Hieronymi, Genesis - Psalmi), Band [2]: 246 von 246 Blättern (Proverbia - Apocalypsis); Schmuckinitiale (Blatt [a₁]) mehrfarbig ausgezeichnet; Illustration (Blatt [a₄]) koloriert, mit mehrfarbiger Initiale "I" als Ranke; Initialen sonst rot, in Lage [a] auch blau oder grün ausgezeichnet; Rubrizierung, auf Blatt [a₈] in Initiale "A" das Rubrikationsjahr: "1467"
+<-6-1-STOP->
+
+<-7-1-START->
+2 ganzbezogene Ledereinbände auf Kartondeckeln (braun, Schaf, 18. Jahrhundert), Ornamentrollen-Blindprägung auf beiden Deckeln, Linien-Blindprägung
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Hans Schlettstatter; Heiliggeistspital Bern
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116802585105511<-L-11-STOP-><-VI-11-START->MUE Inc III 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991043747539705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Hieronymus, Sophronius Eusebius<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Eggestein, Heinrich<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Schlettstatter, Hans<-P-STOP->
+<-P-START->Heiliggeistspital Bern<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991043747539705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05357nam a2200541 ca4500
+001 991043747539705501
+005 20211215174104.0
+008 170621s1466    fr |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/21.06.2017/B404/vha    
+035      |a (swissbib)070356068-41slsp_network    
+035      |a 070356068    |9 ExL    
+035      |a (IDSBB)006708505DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991043747539705501    
+035      |a (41SLSP_UBE)99116802585105511    |9 (41SLSP_UBE)99116802585105511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a lat    |h heb    |h grc    |h arc    
+130 0    |a Bibel    |0 (DE-588)4006406-2    
+245 1 0  |a [Biblia]    
+246 1    |i Titel gemäss ISTC    |a Biblia latina    
+264   1  |a [Strassburg]    |b [Heinrich Eggestein]    |c [nicht nach 24.05.1466]    
+300      |a 2 Bände    |b 1 Illustration    |c 40 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Impressum gemäss BSB-Ink, GW und ISTC (Erscheinungsdatum ante quem nach einer Angabe des Rubrikators in einem der Exemplare der BSB München)    
+500      |a Umfang Band [1]: 498 ungezählte Seiten, 1 ungezähltes Blatt (leer); Band [2]: 488 ungezählte Seiten, 2 ungezählte Blätter (leer)    
+500      |a Signaturformel: [a-k¹⁰, l-m¹², n-x¹⁰, y-z¹², A¹²; B-G¹⁰, H¹², I¹⁰, K-L¹⁰, M¹², N¹⁰, O¹¹, P-T¹⁰, V-X¹², Y-Z¹⁰, aa¹⁰, bb⁸]    
+500      |a Band [1] bis Blatt [A₁₂]; Blatt [A₁₂], Blatt [I₁₀] und die beiden letzten Blätter [bb₇] und [bb₈] unbedruckt    
+500      |a Text zweispaltig, je 45 Zeilen    
+510 4    |a BSB-Ink    |c B-411    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-411.html    
+510 4    |a GW    |c 04205    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW04205.htm    
+510 4    |a ISTC    |c ib00530000    |u http://data.cerl.org/istc/ib00530000    
+530      |a Digitalisat Band [1] (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00071556/image_3    
+530      |a Digitalisat Band [2] (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00071555/image_5    
+561      |a Handschriftlicher Besitzvermerk am Ende der Apocalypse: "Hanc bibliam ex her[e]ditate paterna emit religiosus frate[r] Joh[ann]es schletzstat ordinis s[an]cti sp[irit]us quondam m[a]g[ister] et co[n]ve[n]tualis hospitalis bern[ensis] que[m] cu[m] prole pia be[nedi]c[a]t euo virgo ma[r]ia" (Faksimile-Abdruck in Berner Zeitschrift für Geschichte, Band 47 (1985), Seite 173)    
+563      |a Einbandbeschreibung: 2 ganzbezogene Ledereinbände auf Kartondeckeln (braun, Schaf, 18. Jahrhundert), Ornamentrollen-Blindprägung auf beiden Deckeln, Linien-Blindprägung; Titelschilder mit Goldprägung auf den Rücken: "Bibl: Hieronymi", darunter: "Tom. I." bzw. "Tom. II."; darunter handschriftlich in Tinte auf dem Rücken von Band [1]: "Sec. XV. 1466? Aug: Vind.?"; auf Band [2]: "Sec. XV. 1466"    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einbände: 39.7 x 31.0 x 7.5 cm    
+563      |a Zustand Einbände: Abspaltungen im Einbandleder mit zum Teil Rissen im Falz an den oberen Bünden, Lederüberklebungen an den Häubchen im Falz    
+590      |a Buchblockbeschreibung: In 2 Bänden gebunden: ([1]: Epistola St. Hieronymi, Genesis - Psalmi; [2]: Proverbia - Apocalypsis); Band [1]: 250 von 250 Blättern, Band [2]: 246 von 246 Blättern; handschriftliche Lagensignatur in Graphit nur bei einigen wenigen Lagen (jeweils auf der ersten Recto-Seite); handschriftliche Foliierung in Graphit jeweils der ersten 10 Blätter in beiden Bänden, dann nur jedes 10. Blatt sowie die letzte Textseite (in Band [2] auch die letzten beiden unbedruckten Blätter); Illustration auf Blatt [a₄] recto (Gott erschafft Eva) koloriert, mit mehrfarbiger Initiale "I" (von "Incipit") zwischen den Textspalten; Initialen rot ausgezeichnet, auf Blatt [a₁]-[a₄] auch blau oder grün; manche vom Rubrikator mit Gesichtern versehen; Anfangsinitiale blau ausgezeichnet, mit roter Federzeichnung und roter und grüner Bordüre; Rubrizierung; auf Blatt a₈ recto in einer Initiale "A" das Rubrikationsjahr: "1467"; in roter Tinte Kopftitel der biblischen Bücher über den Spalten, römische Kapitelnummern im Text sowie in einigen Fällen das Incipit oder Explicit eines Buches    
+590      |a Zustand Buchblock: Abrieb im blauen und grünen Farbauftrag von Band [1] mit Fehlstellen    
+590      |a Handschriftliches Incipit vom Rubrikator auf Blatt [a₁]: "Incipit Ep[isto]la sancti Jheronimi Ad Paulinum p[rae]spiteru[m] de o[mn]ib[us] diuine hystorie libris [et]c."    
+590      |a Sehr wenige handschriftliche Annotationen in Tinte (zwei auf Blatt [a₇] verso, eine auf Blatt [b₇] recto)    
+590      |a Frühere Signatur: Inc 10    
+700 1    |a Eggestein, Heinrich    |d 1415-1488    |0 (DE-588)100965024    |e Drucker    |4 prt    
+700 1    |a Schlettstatter, Hans    |0 (DE-588)1135683182    |e Früherer Eigentümer    |4 fmo    
+710 2    |a Heiliggeistspital Bern    |0 (DE-588)1203150342    |e Früherer Eigentümer    |4 fmo    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Inc III 1    |9 (41SLSP_UBE)99116802585105511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |h MUE Inc III 1 : 2    |q [Proverbia - Apocalypsis]    |p 12    |j MUE Inc III 1    |b B404    |9 (41SLSP_UBE)99116802585105511    
+949      |c 404U3    |h MUE Inc III 1 : 1    |q [Genesis - Psalmi]    |p 12    |j MUE Inc III 1    |b B404    |9 (41SLSP_UBE)99116802585105511    
+986      |a (41SLSP_UBE)99116802585105511    |9 (41SLSP_UBE)99116802585105511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116802585105511    
+991      |a AAK: 0088096    |5 IZ UBE/21.06.2017/B404/vha    |9 LOCAL    |9 (41SLSP_UBE)99116802585105511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

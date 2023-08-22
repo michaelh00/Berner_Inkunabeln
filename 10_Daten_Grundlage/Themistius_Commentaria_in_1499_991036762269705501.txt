@@ -1,0 +1,166 @@
+﻿<-1-1-START->
+Themistius
+<-1-1-STOP->
+
+<-1-2-START->
+Commentaria in Aristotelem [lateinisch]
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Die letzten vier Paraphrasen (zu den Parva naturalia) stammen nicht von Themistius, sondern vermutlich von Sophonias<-500-STOP->
+<-500-START->Herausgegeben von Galeazzo Facino<-500-STOP->
+<-500-START->Mit Widmungsvorreden des Übersetzers Hermolaus Barbarus an Papst Sixtus IV., Antonius Galatheus, Georgius Merula, Franciscus Thronus, Hieronymus Donatus, Galeatius Ponticus Facinus und Marcus Barbus<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Bartolomeo Zani für Ottaviano Scoto, 06.10.1499
+<-3-1-STOP->
+
+<-4-1-START->
+114, das heisst 115 Blätter, ein ungezähltes Blatt: 1 Illustration, Holzschnittinitialen, Druckermarke; 32 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_T-134.html<-L-5-STOP-><-VI-5-START->BSB-Ink T-134<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M45769.htm<-L-5-STOP-><-VI-5-START->GW M45769<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/it00130000<-L-5-STOP-><-VI-5-START->ISTC it00130000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+115 von 116 Blättern, zu Gelb verblasste Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Kartondeckeln (braun marmoriert, Schaf, 20. Jahrhundert) mit Marmorpapier (braun)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Collège de Clermont (Paris); Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Das unbedruckte Blatt p₆ fehlt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116725486205511<-L-11-STOP-><-VI-11-START->MUE Bong IV 843<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991036762269705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Themistius<-P-STOP->
+<-P-START->Sophonias<-P-STOP->
+<-P-START->Barbarus, Hermolaus (Iunior)<-P-STOP->
+<-P-START->Facino, Galeazzo<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Zani, Bartolomeo<-P-STOP->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Scoto, Ottaviano<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-P-START->Collège de Clermont (Paris)<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991036762269705501<-DOI-STOP->
+<-SIGN-START->MUE Bong IV 843<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06538nam a2200793 c 4500
+001 991036762269705501
+005 20211215165728.0
+008 100802s1499    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/13.02.2019/B404/faf    
+035      |a (swissbib)062218948-41slsp_network    
+035      |a 062218948    |9 ExL    
+035      |a (IDSBB)005286481DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991036762269705501    
+035      |a (41SLSP_UBE)99116725486205511    |9 (41SLSP_UBE)99116725486205511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a lat    |h grc    
+100 0    |a Themistius    |d 317-388    |0 (DE-588)118801783    |e Verfasser    |4 aut    
+240 1 0  |a Commentaria in Aristotelem    
+245 1 0  |a Libri Paraphraseos Themistii: peripatetici acutissimi    |c Interprete Hermolao Barbaro patritio Veneto. Positis in locis p[ro]priis castigationibus qua[m]plurimis: quas autor idem: post prima[m] huius operis impræssionem addidit    
+246 1    |i Kolophon    |a Acutissimi Philosophi Themistii peripatetici nobilissimi expositio[n]es in Posteriora Aristotelis. In physica. In libros de anima. In commentarios de Memoria & Reminiscentia. De Somno & Vigilia. De insomniis. De Diuinatione per somnum Interprete Hermolao Barbaro: felicissime expliciunt q[uam]diligentissimæ castigatæ ...    
+246 1    |i Kolophon in normalisierter Form    |a Acutissimi philosophi Themistii Peripatetici nobilissimi expositiones in Posteriora Aristotelis, in Physica, in libros De anima, in commentarios De memoria & reminiscentia, De somno & vigilia, De insomniis, De divinatione per somnum interprete Hermolao Barbaro felicissime expliciunt quamdiligentissimæ castigatæ ...    
+246 1    |i Titel gemäss BSB-Ink und ISTC    |a Paraphrasis in Aristotelem    
+246 1    |i Titel gemäss GW    |a Libri paraphraseos    
+264   1  |a Venetiis    |b quas generosus uir Octauianus Scotus Ciuis Modoetiensis expensis suis Venetiis imprimi fecit Per Bartholomeum de Zanis de Portesio    |c Anno natiuitatis Domini Milesimo quadringe[n]tesimo nonagesimo nono pridie nonas octobris [06.10.1499]    
+300      |a 114, das heisst 115 Blätter, ein ungezähltes Blatt    |b 1 Illustration    |c 32 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Die letzten vier Paraphrasen stammen nicht von Themistius, sondern vermutlich von Sophonias    
+500      |a Gemäss Kolophon der Erstausgabe von 1481 herausgegeben von Galeazzo Facino    
+500      |a Mit Widmungsvorreden des Übersetzers Hermolaus Barbarus an Papst Sixtus IV., Antonius Galatheus, Georgius Merula, Franciscus Thronus, Hieronymus Donatus, Galeatius Ponticus Facinus und Marcus Barbus sowie Inhaltsverzeichnissen zu allen Werken ausser der Physica    
+500      |a Impressum gemäss Kolophon; Druckort zwischen Verleger- und Druckerangabe genannt    
+500      |a Druckermarke von Ottaviano Scoto am Ende    
+500      |a Foliierungsfehler: Blatt p₄ mit falscher Blattzahl 116 statt 114, p₅ mit falscher Blattzahl 114 statt 115    
+500      |a Signaturformel: a-n⁸, o-p⁶    
+500      |a Blatt p₆ ist unbedruckt    
+500      |a Holzschnittinitialen    
+505 0 0  |g (von der Titelseite)    |t In Posteriora Aristotelis    |t In Physica    |t In libros de Anima    |t In commentarios de Memoria & Reminiscentia    |t De Somno & Vigilia    |t De Insomniis    |t De Diuinatione per Somnum    
+510 4    |a BSB-Ink    |c T-134    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_T-134.html    
+510 4    |a GW    |c M45769    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M45769.htm    
+510 4    |a ISTC    |c it00130000    |u http://data.cerl.org/istc/it00130000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0005/bsb00058996/images    
+561      |a Sammlung Bongars; handschriftlicher Besitzvermerk auf Titelseite: "Collegij societ. Jesu. parisiis"    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Kartondeckeln (braun marmoriert, Schaf, 20. Jh.) mit Marmorpapier (braun), Titelschild mit Goldprägung auf dem Rücken: "Themistius"    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 31.3 x 22.7 x 2.4 cm    
+563      |a Zustand Einband: Abspaltungen am Einbandleder von vormaligem Signaturschild, fliegendes Blatt von vormaligem hinteren Vorsatz als 6. Blatt der Lage p vorgeklebt und Spiegel mit Papierfalz angehängt    
+590      |a Buchblockbeschreibung: 115 von 116 Blättern, zu Gelb verblasste Rubrizierung    
+590      |a Zustand Buchblock: Doppelblätter der Lage a innen (Blätter a₁ und a₇ aussen) mit Papierstreifen stabilisiert, Blatt a₈ an umgebrochenem Falz des Vorsatzes vorgeklebt, Heftung der Lage a neueren Datums, starke Verfleckungen durch Feuchtigkeitsschaden    
+590      |a Unvollständiges Exemplar: Das unbedruckte Blatt p₆ fehlt    
+590      |a Zahlreiche handschriftliche Annotationen in Tinte    
+590      |a Historische Signatur auf Titelseite: "Phil 134"    
+590      |a Frühere Signaturen: Inc 208; Inc I 43; I 19    
+700 0    |a Sophonias    |d ca. 13./14. Jh.    |0 (DE-588)109936000    |e Verfasser    |4 aut    
+700 1    |a Barbarus, Hermolaus    |c Iunior    |d 1454-1493    |0 (DE-588)118657119    |e Übersetzer    |e Verfasser von ergänzendem Text    |4 trl    |4 wst    
+700 1    |a Facino, Galeazzo    |d 1458-1506    |0 (DE-588)1157816541    |e Herausgeber    |4 edt    
+700 1    |a Zani, Bartolomeo    |d 14XX-15XX    |0 (DE-588)103757317X    |e Drucker    |4 prt    
+700 1    |a Scoto, Ottaviano    |d 14XX-1498    |0 (DE-588)104090030    |e Verlag    |4 pbl    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 0 2  |a Themistius    |d 317-388    |t Commentaria in Aristotelem    |0 (DE-588)4517008-3    
+700 0 2  |a Themistius    |d 317-388    |t Analyticorum posteriorum paraphrasis    |0 (DE-588)117805960X    
+700 0 2  |a Themistius    |d 317-388    |t In Aristotelis Physica paraphrasis    |0 (DE-588)117805957X    
+700 0 2  |a Themistius    |d 317-388    |t In libros Aristotelis de anima paraphrasis    |0 (DE-588)4458019-8    
+700 0 2  |a Sophonias    |d ca. 13./14. Jh.    |t In Aristotelis De memoria et reminiscentia    |0 (DE-588)1178077861    
+700 0 2  |a Sophonias    |d ca. 13./14. Jh.    |t In Aristotelis De somno et vigilia    |0 (DE-588)1178077896    
+700 0 2  |a Sophonias    |d ca. 13./14. Jh.    |t In Aristotelis De insomniis    |0 (DE-588)1178077918    
+700 0 2  |a Sophonias    |d ca. 13./14. Jh.    |t In Aristotelis De divinatione per somnum    |0 (DE-588)1178077926    
+710 2    |a Collège de Clermont Paris    |0 (DE-588)5529319-0    |e Früherer Eigentümer    |4 fmo    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Bong IV 843    |9 (41SLSP_UBE)99116725486205511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc I 43    |c 404U3    |p 12    |j MUE Bong IV 843    |b B404    |9 (41SLSP_UBE)99116725486205511    
+986      |a (41SLSP_UBE)99116725486205511    |9 (41SLSP_UBE)99116725486205511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116725486205511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116725486205511    
+991      |a Bongars: 13635    |5 IZ UBE/B400/02.08.2010    |9 LOCAL    |9 (41SLSP_UBE)99116725486205511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

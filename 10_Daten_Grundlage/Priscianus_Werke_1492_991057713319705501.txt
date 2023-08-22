@@ -1,0 +1,170 @@
+﻿<-1-1-START->
+Priscianus
+<-1-1-STOP->
+
+<-1-2-START->
+Werke [lateinisch]. — Rufinus Grammaticus: Commentarii in metra Terentiana; De compositione et de numeris oratorum
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Herausgegeben von Benedetto Brugnoli; Buch 1-16 der "Institutiones grammaticae" mit Kommentar von Johannes de Aingre<-500-STOP->
+<-500-START->Unter den Werken finden sich auch Priscians Übersetzungen der "Progymnasmata" des Pseudo-Hermogenes und der "Orbis descriptio" von Dionysius Periegeta. Das fälschlicherweise Priscian zugeschriebe "Carmen de ponderibus" stammt vermutlich von Rhemmius Fanninus<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Filippo Pinzi, 20.06.1492
+<-500-START->Der Titel befindet sich im Gegensatz zum in GW beschriebenen Exemplar nicht auf Blatt a₁ recto, sondern auf Blatt P₆ verso<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+cccxiii, das heisst cccvii Blätter, 1 ungezähltes Blatt; 32 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M35396.htm<-L-5-STOP-><-VI-5-START->GW M35396<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ip00969000<-L-5-STOP-><-VI-5-START->ISTC ip00969000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+308 von 308 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun, Schaf, 16. Jahrhundert) mit Schliessen, Linien-Blindprägung an beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Kloster Sant'Antonio Morbegno; Nicolaus Artopoeus
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116704994805511<-L-11-STOP-><-VI-11-START->MUE Artopoeus 17<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991057713319705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Priscianus<-P-STOP->
+<-P-START->Rhemmius Fanninus<-P-STOP->
+<-P-START->Pseudo-Hermogenes<-P-STOP->
+<-P-START->Rufinus Grammaticus<-P-STOP->
+<-P-START->Dionysius Periegeta<-P-STOP->
+<-P-START->Brugnoli, Benedetto<-P-STOP->
+<-P-START->Johannes de Aingre<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Pinzi, Filippo<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Artopoeus, Nicolaus<-P-STOP->
+<-P-START->Kloster Sant'Antonio Morbegno<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991057713319705501<-DOI-STOP->
+<-SIGN-START->MUE Artopoeus 17<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 07796nam a2200841 c 4500
+001 991057713319705501
+005 20211215190337.0
+007 cr#|||||||||||
+008 980605s1492    it            00| | lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/17.07.2020/B404/faf    
+024 7    |a 10.3931/e-rara-89256    |2 doi    
+035      |a (swissbib)031573630-41slsp_network    
+035      |a 031573630    |9 ExL    
+035      |a (IDSBB)001516080DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991057713319705501    
+035      |a (41SLSP_UBE)99116704994805511    |9 (41SLSP_UBE)99116704994805511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a lat    |h grc    
+100 0    |a Priscianus    |d ca. 5./6. Jh.    |0 (DE-588)118596624    |e Verfasser    |4 aut    
+240 1 0  |a Werke    
+245 1 0  |a Priscianvs    
+246 1    |i Titel in normalisierter Form    |a Priscianus    
+246 1    |i Incipit    |a Ivliano Consvli Ac Patricio Priscianvs Salvtem    
+246 1    |i Incipit in normalisierter Form    |a Iuliano consuli ac patricio Priscianus salutem    
+246 1    |i Titel gemäss GW und ISTC    |a Opera    
+264   1  |a Venetiis    |b Philippus pinzius mantuanus accurate dilige[n]terq[ue] imprimere adnixus est. Idq[ue] Deo Maximo bene iuua[n]te effecit    |c anno .Mcccclxxxxii. xii kal. Iulii [20.06.1492]    
+300      |a cccxiii, das heisst cccvii Blätter, 1 ungezähltes Blatt    |c 32 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+337      |b c    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+338      |b cr    |2 rdacarrier    
+500      |a Gemäss Kolophon herausgegeben von Benedetto Brugnoli; Buch 1-16 der "Institutiones grammaticae" mit Kommentar von Johannes de Aingre    
+500      |a Unter den Werken finden sich auch Priscians Übersetzungen der "Progymnasmata" des Pseudo-Hermogenes und der "Orbis descriptio" von Dionysius Periegeta. Das fälschlicherweise Priscian zugeschriebe "Carmen de ponderibus" stammt vermutlich von Rhemmius Fanninus    
+500      |a Mit zwei Traktaten von Rufinus Grammaticus: "Commentarii in metra Terentiana" und "De compositione et de numeris oratorum"    
+500      |a Der Titel befindet sich im Gegensatz zum in GW beschriebenen Exemplar nicht auf Blatt a₁ recto, sondern auf Blatt P₆ verso    
+500      |a Impressum gemäss Kolophon; Reihenfolge der Vorlage: "Hæc postmodum Philippus pinzius mantuanus accurate dilige[n]terq[ue] imprimere adnixus est. Idq[ue] Deo Maximo bene iuua[n]te effecit. Venetiis anno .Mcccclxxxxii. xii kal. Iulii. ..."    
+500      |a Foliierungsfehler: Blattzahlen 37-40, cclxxxiii-cclxxxvii und cccxi-cccxii ausgelassen, ccxci-ccxcv wiederholt, zahlreiche weitere Fehler; Blätter teils mit arabischen, teils mit römischen Ziffern gezählt    
+500      |a Signaturformel: a-c⁸, d-e⁶, f-z⁸, &⁸, A-K⁸, L¹⁰, M-O⁸, P⁶    
+500      |a Blatt a₁ ist unbedruckt    
+505 0 0  |g (gemäss Kolophon)    |t <<Habes in hoc uolumine lector ca[n]dissime>> Prisciani grammatici opus illud diuinum De octo partibus orationis    |t <<Cum>> disertissimi uiri ac philosophi solertissimi Ioa[n]nis de Aingre elegantissima in eum expositione    |t De constructione    |t De duodecim carminibus    |t De accentibus    |t De numeris: & ponderibus & mensuris    |t De præexercitamentis rethorices ex Hermogene translationem    |t De comicorum uersuum ratione opusculum: cum quo & non nulla ex co[m]mentariis. Ruffini ad eandem materiam pertinentia    |t De declinationibus pręterea nominum: pronominum: ac uerborum i[n]uenies libellum    |t <<Postremo leges in fine uoluminis>> opus de situ orbis: non inculto carmine scriptum per eundem Priscianu[m] ex Dionisyo translatum    |r Quę omnia summo studio: & ingenti cura eme[n]dauit. recognouitq[ue] Benedictus Brugnolus Veronensis uir latina: & græca lingua eruditissimus    
+510 4    |a GW    |c M35396    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M35396.htm    
+510 4    |a ISTC    |c ip00969000    |u http://data.cerl.org/istc/ip00969000    
+561      |a Handschriftliche Besitzvermerke auf Blatt a₁ recto: "Sum. N. Balingij" (überklebt); "Sum Nicólai artopoei Balingij"; auf Blatt P₆ recto: "Iste liber est ad vsum [getilgt] de morbignio"; "Iste liber est [con]ventus s[an]ctj antonij de morbinio"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun, Schaf, 16. Jh.) mit Schliessen, Linien-Blindprägung an beiden Deckeln, blindgeprägtes ledernes Rückenschild: "Priscianvs."    
+563      |a Vorsätze: Vorne mit zwei und hinten mit neun fliegenden Blättern    
+563      |a Masse Einband: 31.4 x 22.3 x 6.8 cm    
+563      |a Zustand Einband: Lederüberklebungen am Rücken mit Nachbildung der Blindlinierung, Japanpapierüberklebung im Falz des vorderen Vorsatzes    
+590      |a Buchblockbeschreibung: 308 von 308 Blättern, handschriftliche Paginierung auf Blatt a₂ recto-E₂ recto: 2-442 (teils ältere handschriftliche Paginierung korrigierend, Blattzahlen durchgestrichen), Notationen mehrerer Hände beschnitten (z. B. Blätter c₂ verso und d₆ verso), Umfalzung im Bundsteg an Blatt h₇ verso zeigt das Beschnittmass, Blinddruckmarken (Buchstabenzeile) an halbseitig gedruckten Seiten der Lage O jeweils verso zum Bundsteg hin, vorgesehene Stellen für Initialen frei gelassen, Blattweiser    
+590      |a Zustand Buchblock: Pergamentüberklebung (Velours, Manuskriptmakulatur) über Besitzvermerk an Blatt a₁ recto, Spuren abgelöster Pergamentüberklebungen (Makulaturpergament) an teilweise getilgten Besitzvermerken an Blättern a₁ recto und P₆ recto, Feuchtigkeitsränder und verwellte Blattkanten an Lagen a-b und N-P, Ecke an Blatt h₈ abgetrennt, braune Schwemmränder an den Blattkanten durch Schnittausrüstung, Japanpapierüberklebung an Blatt a₁ verso    
+590      |a Zahlreiche handschriftliche Annotationen und Unterstreichungen von Artopoeus und anderen in Tinte    
+590      |a Historische Signatur auf vorderem Spiegel: "Lit. N. 143.", Zahl korrigiert zu "166."    
+590      |a Frühere Signaturen: Inc 186; Inc III 20    
+700 0    |a Rhemmius    |c Fanninus    |d ca. 4./5. Jh.    |0 (DE-588)102405026    |e Verfasser    |4 aut    
+700 0    |a Pseudo-Hermogenes    |d ca. 2. H. 2. Jh.    |0 (DE-588)1060061775    |e Verfasser    |4 aut    
+700 0    |a Rufinus    |c Grammaticus    |d 4./5. Jh.    |0 (DE-588)102405107    |e Verfasser    |4 aut    
+700 0    |a Dionysius    |c Periegeta    |d ca. 2. Jh.    |0 (DE-588)118679686    |e Verfasser    |4 aut    
+700 0    |a Priscianus    |d ca. 5./6. Jh.    |0 (DE-588)118596624    |e Übersetzer    |4 trl    
+700 1    |a Brugnoli, Benedetto    |d 1427-1502    |0 (DE-588)10074057X    |e Herausgeber    |4 edt    
+700 0    |a Johannes    |c de Aingre    |d ca. 15. Jh.    |0 (DE-588)108932278X    |e Kommentarverfasser    |4 wac    
+700 1    |a Pinzi, Filippo    |0 (DE-588)1037561813    |e Drucker    |4 prt    
+700 1    |a Artopoeus, Nicolaus    |d 1500-1553    |0 (DE-588)128632380    |e Früherer Eigentümer    |e Annotierende Person    |4 fmo    |4 ann    
+700 0 2  |a Priscianus    |d ca. 5./6. Jh.    |t Werke    |0 (DE-588)1214004555    
+700 0 2  |a Johannes    |c de Aingre    |d ca. 15. Jh.    |t Commentum super magno Prisciani volumine    |0 (DE-588)1214006604    
+700 0 2  |a Rhemmius    |c Fanninus    |d ca. 4./5. Jh.    |t Carmen de ponderibus    |0 (DE-588)1214319297    
+700 0 2  |a Pseudo-Hermogenes    |d ca. 2. H. 2. Jh.    |t Progymnasmata    
+700 0 2  |a Rufinus    |c Grammaticus    |d 4./5. Jh.    |t Commentarii in metra Terentiana    |0 (DE-588)4820803-6    
+700 0 2  |a Rufinus    |c Grammaticus    |d 4./5. Jh.    |t De compositione et de numeris oratorum    |0 (DE-588)4820656-8    
+700 0 2  |a Dionysius    |c Periegeta    |d ca. 2. Jh.    |t Orbis descriptio    |0 (DE-588)4299124-9    
+710 2    |a Kloster Sant'Antonio Morbegno    |0 (DE-588)1214012604    |e Früherer Eigentümer    |4 fmo    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Artopoeus 17    |9 (41SLSP_UBE)99116704994805511    
+856 4    |u https://doi.org/10.3931/e-rara-89256    |z Digitalisat in e-rara    
+900      |a IDSIxunikat    
+900      |a IDSIxhybrid-el    
+900      |a NOMERGEALEX    
+949      |i ZB Inc III 20    |c 404U3    |p 12    |j MUE Artopoeus 17    |b B404    |9 (41SLSP_UBE)99116704994805511    
+986      |a (41SLSP_UBE)99116704994805511    |9 (41SLSP_UBE)99116704994805511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116704994805511    
+990      |f erarabe    |9 local    |9 (41SLSP_UBE)99116704994805511    
+990      |f lza-cc0    |9 local    |9 (41SLSP_UBE)99116704994805511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

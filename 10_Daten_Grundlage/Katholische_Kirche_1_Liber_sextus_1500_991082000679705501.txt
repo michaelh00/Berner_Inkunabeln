@@ -1,0 +1,159 @@
+﻿<-1-1-START->
+Katholische Kirche, 1294-1303 : Bonifatius VIII.
+<-1-1-STOP->
+
+<-1-2-START->
+Liber sextus. — Katholische Kirche, 1305-1314 : Klemens V.: Clementinen. — Extravaganten
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Enthält zu Beginn: Johannes Andreae: Super arboribus consanguinitatis et affinitatis<-500-STOP->
+<-500-START->Herausgeber: Hieronymus Clarius<-500-STOP->
+<-500-START->Teil 1 (Liber sextus Decretalium) mit der Glosse von Johannes Andreae, sowie Summaria und Divisiones von Johannes Andreae, Dominicus de Sancto Geminiano und anderer; Teil 2 (Clementinae) mit Ergänzungen von Hieronymus Clarius sowie den "Decretales extravagantes"<-500-STOP->
+
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Battista Torti, 10.09.1500
+<-500-START->Datierung des Kolophons am Ende des ersten Teils: 05.09.1500<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+104, 57 Blätter, 1 ungezähltes Blatt: Druckermarke; 45 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/GW04903.htm<-L-5-STOP-><-VI-5-START->GW 04903<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/ib01013000<-L-5-STOP-><-VI-5-START->ISTC ib01013000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+162 von 162 Blättern, handgezeichnete und kolorierte Illustrationen (Teil 1, Blatt 4, und Teil 2, Blatt 2); blau ausgezeichnete Initialen
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen und Spuren einer vormaligen Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung an beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116842883205511<-L-11-STOP-><-VI-11-START->MUE Inc II 18<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991082000679705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Chiari, Girolamo<-P-STOP->
+<-P-START->Bonifatius VIII. (Papst)<-P-STOP->
+<-P-START->Klemens V. (Papst)<-P-STOP->
+<-P-START->Johannes Andreae<-P-STOP->
+<-P-START->Dominicus de Sancto Geminiano<-P-STOP->
+<-P-START->Katholische Kirche, 1294-1303 : Bonifatius VIII.<-P-STOP->
+<-P-START->Katholische Kirche, 1305-1314 : Klemens V.<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Torti, Battista<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991082000679705501<-DOI-STOP->
+<-SIGN-START->MUE Inc II 18<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06077nam a2200709 c 4500
+001 991082000679705501
+005 20230207133925.0
+007 cr#|||||||||||
+008 130419s1500    it            00| | lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/23.07.2014/B400/vha    
+024 7    |a 10.3931/e-rara-92269    |2 doi    
+035      |a (swissbib)065703006-41slsp_network    
+035      |a 065703006    |9 ExL    
+035      |a (IDSBB)006117275DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991082000679705501    
+035      |a (41SLSP_UBE)99116842883205511    |9 (41SLSP_UBE)99116842883205511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+245 0 0  |a Sextus et clementine    |b de tortis    
+246 1    |i Titel in moderner Orthografie    |a Sextus et Clementinae    
+246 1    |i Titel gemäss GW und ISTC    |a Liber sextus Decretalium    
+264   1  |a Uenetijs    |b per Baptistam de Tortis    |c .M.ccccc. die .x. Septembris. [10.09.1500]    
+300      |a 104, 57 Blätter, 1 ungezähltes Blatt    |c 45 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+337      |b c    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+338      |b cr    |2 rdacarrier    
+500      |a Am Kopf der Haupttitelseite: "Cum priuilegio"    
+500      |a Herausgeber: Hieronymus Clarius    
+500      |a Teil 1 (Liber sextus Decretalium) mit zusätzlichem Text am Anfang und der Glosse von Johannes Andreae, sowie Summaria und Divisiones von Johannes Andreae, Dominicus de Sancto Geminiano und anderer; Teil 2 (Clementinae) mit Ergänzungen von Hieronymus Clarius sowie den "Decretales extravagantes"    
+500      |a Titelseite zum zweiten Teil (Blatt A₁ recto) nur mit dem Titelwort "Clementine" in Rotdruck; Blatt A₁ verso unbedruckt    
+500      |a Impressum gemäss Kolophon am Ende des zweiten Teils (Blatt 57 (H₅) recto)    
+500      |a "Uenetijs per Baptistam de Tortis. Die. v. Septembris. M.ccccc." - Kolophon am Ende des ersten Teils (Blatt 104 (n₈) verso)    
+500      |a Titelseiten sowie Teile des Texts, der Initialen und die Absatzzeichen in Rotdruck    
+500      |a Druckermarke am Ende des zweiten Teils (Blatt 57 (H₅) verso) rot gedruckt    
+500      |a Signaturformel: a–n⁸; A–E⁸, F–H⁶    
+500      |a Blatt 57 (H₅) verso mit Lagenregister; letztes Blatt H₆ unbedruckt    
+505 0 0  |g Teil 1, Blatt 2 (a₂) verso - 3 (a₃) verso    |t [Super arboribus consanguinitatis et affinitatis]    |r [Johannes Andreae]    |g Incipit Teil 1, Blatt 4 (a₄) recto    |t Sexti libri decretalium co[m]pilatio    |r illustrata lucubratio[n]ibus [et] additamentis clarissimi vtriusq[ue] iuris doctoris Hieronymi clarij brixiani cum su[m]mulis [et] diuisionib[us] d[omi]nici de sancto gemi. [et] aliorum in locis vbi desunt su[m]maria. Jo. an.    |g Titelblatt Teil 2, Blatt [1] (A₁) recto    |t Clementine    |g Incipit Teil 2, Blatt 2 (A₂) recto    |t Incipiunt constitutiones Clementis pape quinti    |r vna cum apparatu domini Joannis andree    |g Incipit Teil 2, Blatt 50 (G₄) recto    |t Incipiu[n]t decretales extrauaga[n]tes q[uae] emanaueru[n]t post sextu[m]    |r [Mit Vorwort des Herausgebers Hieronymus Clarius]    
+510 4    |a GW    |c 04903    |u https://www.gesamtkatalogderwiegendrucke.de/docs/GW04903.htm    
+510 4    |a ISTC    |c ib01013000    |u https://data.cerl.org/istc/ib01013000    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen und Spuren einer vormaligen Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung an beiden Deckeln; auf dem Rücken Titel in Tinte: "Decretal. Rom: 1472 Venet: 1500" ("Rom: 1472" durchgestrichen)    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse: 45.2 x 29.8 x 4.7 cm    
+563      |a Zustand Einband: Massiver Schädlingsfrass an beiden Holzdeckeln und durchgehend im Buchblock, Loch von vormaliger Ankettung am Rückdeckel mit Korrosionsbildung, Buchblock steht über Deckelvorderkanten hinaus. Japanpaierüberklebung in den Vorsätzen und am Loch im Rückdeckel, ergänzter unterer Schliessenhaken    
+590      |a Buchblockbeschreibung: 162 von 162 Blättern, Papierfalz zwischen den ersten beiden Lagen a und b sowie den letzten beiden Lagen G und H gehört zur Vorsatzkonstruktion; handgezeichnete und kolorierte Illustrationen auf Blatt 4 (a₄) recto und, im Teil "Clementine", Blatt 2 (A₂) recto; blau ausgezeichnete Initialen; keine Rubrizierung (ein Teil der Initialen, Absatzzeichen und Text rot gedruckt)    
+590      |a Zustand Buchblock: Teilweise Löcher durch Schädlingsfrass; braune Flecken auf Blättern 71 verso und 72 recto    
+590      |a Wenige handschriftliche Annotationen in Tinte (im ersten Teil Blätter 57, 75, 89 und 96 recto, 96 auch verso, im zweiten Teil, "Clementine" Blatt 38 recto)    
+590      |a Historische Signatur auf vorderem Spiegel: "Jur: Pol: N. 7.", auf der Titelseite: "Jurid. Polit. 7"    
+590      |a Frühere Signatur: Inc 286    
+700 1    |a Chiari, Girolamo    |0 (DE-588)119642271    |e Herausgeber    |e Verfasser von ergänzendem Text    |4 edt    |4 wst    
+700 0    |a Bonifatius    |b VIII.    |c Papst    |d 1230-1303    |0 (DE-588)118513257    |e Auftraggeber    |4 pat    
+700 0    |a Klemens    |b V.    |c Papst    |d 1250-1314    |0 (DE-588)118723529    |e Auftraggeber    |4 pat    
+700 0    |a Johannes    |c Andreae    |d 1270-1348    |0 (DE-588)119244071    |e Verfasser von ergänzendem Text    |4 wst    
+700 0    |a Dominicus    |c de Sancto Geminiano    |d -1424    |0 (DE-588)100965466    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Torti, Battista    |0 (DE-588)134140680    |e Drucker    |4 prt    
+700 0 2  |a Johannes    |c Andreae    |d 1270-1348    |t Super arboribus consanguinitatis et affinitatis    |0 (DE-588)108804333X    
+710 0 2  |a Katholische Kirche    |b Papst    |g 1294-1303 : Bonifatius VIII.    |t Liber sextus    |0 (DE-588)4581170-2    
+710 0 2  |a Katholische Kirche    |b Papst    |g 1305-1314 : Klemens V.    |t Clementinen    |0 (DE-588)4691099-2    
+730 0    |a Extravaganten    |0 (DE-588)4529672-8    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Inc II 18    |9 (41SLSP_UBE)99116842883205511    
+856 4    |u https://doi.org/10.3931/e-rara-92269    |z Digitalisat in e-rara    
+900      |a IDSIxunikat    
+900      |a IDSIxhybrid-el    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc II 18    |b B404    |9 (41SLSP_UBE)99116842883205511    
+986      |a (41SLSP_UBE)99116842883205511    |9 (41SLSP_UBE)99116842883205511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116842883205511    
+990      |f erarabe    |9 local    |9 (41SLSP_UBE)99116842883205511    
+990      |f lza-cc0    |9 local    |9 (41SLSP_UBE)99116842883205511    
+991      |a AAK: 109748    |5 IZ UBE/23.07.2014/B400/vha    |9 local    |9 (41SLSP_UBE)99116842883205511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

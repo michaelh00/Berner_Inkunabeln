@@ -1,0 +1,145 @@
+﻿<-1-1-START->
+Petrus Bertrandi
+<-1-1-STOP->
+
+<-1-2-START->
+De iurisdictione eclesiastica
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Publiziert zusammen mit dem vorgebundenen Werk: Vita et processus sancti Thomae Cantuariensis martyris super libertate ecclesiastica; in BSB-Ink, GW und ISTC jedoch als getrennte Werke behandelt<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Paris: Jean Philippi, 02.04.1495
+<-3-1-STOP->
+
+<-4-1-START->
+36 ungezählte Seiten: Druckermarke; 25 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-402.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-402<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW04179.htm<-L-5-STOP-><-VI-5-START->GW 04179<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib00516000<-L-5-STOP-><-VI-5-START->ISTC ib00516000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+18 von 18 Blättern, rot oder blau ausgezeichnete Initialen, Anfangsinitiale rot und blau
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Ziege), mit Spuren von 4 Verschlussbändern (Leder), Linien- und Platten-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars; Antonius Letourneur; ... Delamothe
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Vita et processus sancti Thomae Cantuariensis martyris super libertate ecclesiastica. Paris: Jean Philippi, 1495
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116786896005511<-L-11-STOP-><-VI-11-START->MUE Bong I 504 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991061666819705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Petrus Bertrandi<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Paris<-O-STOP->
+<-P-START->Philippi, Jean<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-P-START->Letourneur, Antonius<-P-STOP->
+<-P-START->Delamothe, ...<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991061666819705501<-DOI-STOP->
+<-SIGN-START->MUE Bong I 504 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04812nam a2200613 c 4500
+001 991061666819705501
+005 20230207154345.0
+008 100806s1495    fr            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/06.08.2010    
+035      |a (swissbib)062499483-41slsp_network    
+035      |a 062499483    |9 ExL    
+035      |a (IDSBB)005289085DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991061666819705501    
+035      |a (41SLSP_UBE)99116786896005511    |9 (41SLSP_UBE)99116786896005511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Petrus    |c Bertrandi    |d 1280-1349    |0 (DE-588)100957560    |e Verfasser    |4 aut    
+240 1 0  |a De iurisdictione eclesiastica    
+245 1 0  |a Explicit qui[dem] libellus de iurisdictione eccl[es]iastica    |c factus p[er] d[omi]n[u]m petrum bertra[n]di / [et] in co[n]silio [con]uenie[n]tibus p[re]lat[i] regni francie v[er]botenus in gallico per ip[su]m deputatum ex parte ip[s]o[rum] p[re]lato[rum] recitat[us]    
+246 1    |i Titel in normalisierter Form    |a Explicit quidem libellus de iurisdictione ecclesiastica    
+246 1 0  |a Libellus de iurisdictione ecclesiastica    
+246 1    |i Titel gemäss GW und ISTC    |a Libellus de iurisdictione ecclesiastica contra Petrum de Cugneriis    
+264   1  |a Impressus parisij    |b per m[a]g[ist]r[u]m Joh[ann]em philippi alemanu[m]. ...    |c Anno d[omi]ni millesimo quadri[n]ge[n]tesimo nonagesimoquinto. s[e]c[un]da Aprilis [02.04.1495]    
+300      |a 36 ungezählte Seiten    |c 25 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Publiziert zusammen mit dem vorgebundenen Werk: Vita et processus sancti Thomae Cantuariensis martyris super libertate ecclesiastica; in BSB-Ink, GW und ISTC jedoch als getrennte Werke behandelt    
+500      |a Keine Titelseite, Titel gemäss Explicit (Kolophon, Blatt b₁₀ recto)    
+500      |a Impressum gemäss Kolophon    
+500      |a Letzte Seite (Blatt bb₁₀ verso) mit Druckermarke ("In no[m]i[n]e scté trinitatis")    
+500      |a Signaturformel: aa⁸, bb¹⁰    
+510 4    |a BSB-Ink    |c B-402    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-402.html    
+510 4    |a GW    |c 04179    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW04179.htm    
+510 4    |a ISTC    |c ib00516000    |u http://data.cerl.org/istc/ib00516000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00071671/image_1    
+561      |a Handschriftlicher Besitzvermerk auf vorderem und auf hinterem Spiegel: "Antonius Letourneur"    
+561      |a Handschriftlicher Besitzvermerk auf der Titelseite des vorgebundenen Werks: "Bongars"    
+561      |a Handschriftliche Besitzvermerke unter dem Titel des vorgebundenen Werks sowie unter dem Kolophon dieses Werks (Blatt bb₁₀ recto): "Delamothe"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Ziege), mit Spuren von 4 Verschlussbändern (Leder), Linien- und Platten-Blindprägung auf beiden Deckeln    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 24.6 x 17.8 x 2.6 cm    
+563      |a Zustand Einband: Verschlussbänder fehlend, Deckel stark deformiert, Rücken mit Lederüberklebung vollständig ergänzt, partielle Lederüberklebung an den Ecken, Kanten und auf den Deckeln mit Nachbildung der Blindprägung    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 18 von 18 Blättern, Pergamentfalz nach letztem Blatt bb₁₀ gehört zur Vorsatzkonstruktion, Blinddruckmarken (Initialversalien) an letztem Blatt bb₁₀ recto und verso; rot oder blau ausgezeichnete Initialen, Anfangsinitiale rot und blau, keine weitere Rubrizierung    
+590      |a Zustand Buchblock: Feuchtigkeitsränder in den Fälzen, stellenweise Abrieb an blauem Farbmittel der ausgezeichneten Zierbuchstaben    
+590      |a Zusammengebunden mit: Vita et processus sancti Thomae Cantuariensis martyris super libertate ecclesiastica. Paris : Jean Philippi, 1495    
+590      |a Historische Signatur auf vorderem Spiegel: "Hist: Eccl: 143"; "143" durchgestrichen, daneben: "43."    
+590      |a Frühere Signaturen: Inc III 76; Inc 487; Hortin X 9    
+700 0 2  |a Petrus    |c Bertrandi    |d 1280-1349    |t De iurisdictione ecclesiastica    |0 (DE-588)1163291366    
+700 1    |a Philippi, Jean    |d 14XX-15XX    |0 (DE-588)1037620895    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Letourneur, Antonius    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Delamothe, ..    |e Früherer Eigentümer    |4 fmo    
+751      |a Paris    |0 (DE-588)4044660-8    
+852 4    |b B404    |c 404U3    |j MUE Bong I 504 : 2    |9 (41SLSP_UBE)99116786896005511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc III 76 : 2    |c 404U3    |z Zusammengebunden mit 1 weiteren Druck in Sammelband    |p 12    |j MUE Bong I 504 : 2    |b B404    |9 (41SLSP_UBE)99116786896005511    
+986      |a (41SLSP_UBE)99116786896005511    |9 (41SLSP_UBE)99116786896005511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116786896005511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116786896005511    
+991      |a Bongars: 01421    |5 IZ UBE/B400/06.08.2010    |9 local    |9 (41SLSP_UBE)99116786896005511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

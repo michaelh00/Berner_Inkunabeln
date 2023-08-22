@@ -1,0 +1,171 @@
+﻿<-1-1-START->
+Petrarca, Francesco
+<-1-1-STOP->
+
+<-1-2-START->
+Bucolicum carmen; De vita solitaria; De remediis utriusque fortunae; Secretum; Rerum memorandarum libri; Invectivae contra medicum quendam; Epistolae familiares; Epistolae seniles; Epistolae seniles; Sine nomine; Epistolae familiares; Ad posteritatem; Psalmi poenitentiales; De viris illustribus. — Nikolaus von Kues: De sapientia. — Lombardus Sirichius: Supplementum in epitomatis Illustrium virorum. — Benevenutus Imolensis: Libellus Augustalis
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Herausgeber: Sebastian Brant<-500-STOP->
+<-500-START->De sapientia, von Nikolaus von Kues, wird im Band fälschlich ebenfalls Petrarca zugeschrieben<-500-STOP->
+<-500-START->Am Ende mit Register der "principalium sententiarum ex libris Francisci Petrarchae"<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Basel: Johannes Amerbach, 1496
+<-3-1-STOP->
+
+<-4-1-START->
+2 Bände (776 ungezählte Seiten, 1 ungezähltes Blatt); 28 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_P-276.html<-L-5-STOP-><-VI-5-START->BSB-Ink P-276<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M31505.htm<-L-5-STOP-><-VI-5-START->GW M31505<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/ip00365000<-L-5-STOP-><-VI-5-START->ISTC ip00365000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+389 von 389 Blättern (in 2 Bände gebunden: Band [1]: 263 Blätter, Band [2]: 162 Blätter), abwechselnd rot und blau ausgezeichnete Initialen, Anfangsinitialen einzelner Texte rot, blau und gold ausgemalt, mit Schmuckranken; wenig Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogene Ledereinbände auf Kartondeckeln (braun, marmoriert, 18./19. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Florentius ab Haerlem; Hans Heinrich Bodmer; Hans Steinwachs; Kloster Heilige Maria Magdalena unter dem Kreuz Löwen
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116920403305511<-L-11-STOP-><-VI-11-START->MUE Inc VI 6<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991064617209705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Petrarca, Francesco<-P-STOP->
+<-P-START->Brant, Sebastian<-P-STOP->
+<-P-START->Nikolaus von Kues<-P-STOP->
+<-P-START->Lombardus Sirichius<-P-STOP->
+<-P-START->Benevenutus Imolensis<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Amerbach, Johannes<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Florentius ab Haerlem<-P-STOP->
+<-P-START->Bodmer, Hans Heinrich<-P-STOP->
+<-P-START->Steinwachs, Hans<-P-STOP->
+<-P-START->Kloster Heilige Maria Magdalena unter dem Kreuz Löwen<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991064617209705501<-DOI-STOP->
+<-SIGN-START->MUE Inc VI 6<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 09801nam a2200853 ca4500
+001 991064617209705501
+005 20230207154213.0
+008 190820s1496    sz |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/20.08.2019/B404/vha    
+035      |a (swissbib)073949655-41slsp_network    
+035      |a 073949655    |9 ExL    
+035      |a (IDSBB)007110550DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991064617209705501    
+035      |a (41SLSP_UBE)99116920403305511    |9 (41SLSP_UBE)99116920403305511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Petrarca, Francesco    |d 1304-1374    |0 (DE-588)118593234    |e Verfasser    |4 aut    
+245 1 0  |a <<Librorum Francisci Petrarchæ Basileæ Impressorum Annotatio.>> Bucolicum Carmen per duodecim Aeglogas distinctu[m]    |b ; De Vita solitaria: Libri. II. ; De Remedijs utriusq[ue] Fortunæ: Libri. II. ; Libri quem Secretum: siue de Conflictu curarum suarum inscripsit: Coloquium trium dierum. ; De Vera sapientia: Dialogi. II. ; De Rebus memorandis: Libri. IIII. ; Contra medicum obiurgantem: inuectiuaru[m] libri. IIII. ; Epistolarum de Rebus familiaribus: Libri. VIII. ; Epistolarum sine Titulo: Liber. I. ; Ad Charolum quartum Romano[rum] Regem: Epistola. I. ; De Studiorum suoru[m] successibus ad Posteritate[m]: Ep[isto]la. I. ; Septem Psalmi pœnitentiales. ; Epitoma Illustriu[m] uirorum ad Franciscu[m] de Carrharia.. Eiusdem Epitomatis: post obitu[m] Francisci Petrarchæ: Lorbardi de Siricho supplementum.. Beneuenuti de Rombaldis Libellus qui Augustalis dicit[ur].    
+246 1    |i Beginn der Titelseite    |a Librorum Francisci Petrarchæ Basileæ Impressorum Annotatio    
+246 1    |i Beginn der Titelseite in normalisierter Form    |a Librorum Francisci Petrarchae Basileae impressorum annotatio    
+246 1 3  |a Libri Francisci Petrarchae    
+246 1    |i Titel gemäss BSB-Ink und GW    |a Opera    
+246 1    |i Titel gemäss ISTC    |a Opera latina    
+264   1  |a Impressis Basileæ    |b per Magistrum Ioannem de Amerbach    |c Anno salutiferi uirginalis partus: Nonagesimosexto supra millesimu[m] quaterq[ue] centesimum [1496]    
+300      |a 2 Bände (776 ungezählte Seiten, 1 ungezähltes Blatt)    |c 28 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Herausgeber: Sebastian Brant    
+500      |a Am Ende mit Register der "principalium sententiarum ex libris Francisci Petrarchae"    
+500      |a Impressum gemäss Kolophon    
+500      |a Signaturformel: A⁸, B⁶, C⁸, 2A⁸, B-D⁶, E⁸, a⁸b⁶-e⁸f⁶, g¹⁰, h⁸, i-l⁶, m⁸, n-p⁶, q⁸, 2a⁸, b-c⁶, F⁴, 3a¹¹, b⁶, c⁸, d-e⁶, f-g⁸, aa⁸, bb¹⁰, 3A⁸B⁶-I⁸K⁶, L⁸, M¹⁰, 4a⁶, b¹⁰, 4A⁸, B⁶, C⁸    
+500      |a Rückseiten der Zwischentitel und am Ende einiger Texte unbedruckt; letztes Blatt C₈ unbedruckt    
+505 0 0  |g Blatt A₁ verso    |t De Commendatione Impressionis Francisci Petrarchæ Elogiu[m] Sebastiani Brant    |g Blatt A₂ recto (Kopftitel)    |t Clarissimi & insignis uiri Fra[n]cisci Petrarchæ ... Bucolicu[m] Carme[n] ...    |g Zwischentitel Blatt 2A₁    |t Franciscus Petrarcha: De Vita Solitaria    |g Zwischentitel Blatt a₁    |t Franciscus Petrarcha de Remedijs utriusq[ue] Fortunæ    |g Zwischentitel Blatt 2a₁    |t Secretum Francisci Petrarchæ [quo de Contemptu mundi disputatur]    |g Blatt F₁ recto (keine Titelseite, nur Kopftitel)    |t Francisci Petrarchæ de uera Sapientia    |r [wahrer Autor: Nicolaus de Cusa]    |g Blatt 3a₁ recto (keine Titelseite, nur Kopftitel)    |t Tractatuu[m] ac capituloru[m] primi libri de Rebus Memorandis Clarissimi uiri Fra[n]cisci Petrarchæ ... a[n]notatio    |g Zwischentitel Blatt aa₁    |t Francisci Petrarchæ Quattuor Libri Inuectiuaru[m] contra quenda[m] Medicu[m]    |g (Band 2:) Zwischentitel Blatt 3A₁    |t Francisci Petrarchæ Opus Epistolarum    |g Blatt 3M₉ recto (keine Titelseite, nur Kopftitel)    |t Septem Psalmi pœnitentiales Francisci Petrarchæ    |g Blatt 4a₁ recto (keine Titelseite, nur Kopftitel)    |t Fran. Petrar. Epitomatis illustriu[m] uiroru[m]: Ca. I. II. III.    |g Blatt 4a₄ verso (keine Titelseite, nur Kopftitel)    |t In Epitomatis Illustrium uirorum: post cleberrimi uiri Francisci Petrarchæ obitum: ad ... Fra[n]ciscum de Carrharia Patauinum principe[m]: Lorbardi de Siricho Patauini supplementu[m]    |g Blatt 4b₅ verso (keine Titelseite, nur Kopftitel)    |t Liber Augustalis    |r ... Beneuenuti de Rambaldis Libellus ...    |g Zwischentitel Blatt 4A₁    |t Principaliu[m] sententiaru[m] ex libris Francisci Petrarchæ collectaru[m] summaria Annotatio    
+510 4    |a BSB-Ink    |c P-276    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_P-276.html    
+510 4    |a GW    |c M31505    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M31505.htm    
+510 4    |a ISTC    |c ip00365000    |u https://data.cerl.org/istc/ip00365000    
+530      |a Digitalisat (Exemplar der Universitätsbibliothek Basel, Schriften teilweise in anderer Reihenfolge gebunden)    |u https://www.e-rara.ch/id/6633890    
+561      |a Wappen-Exlibris auf vorderem Spiegel: "Iean Henry Bodmer Orfèvre" (wohl nach 1800 entstandener Nachdruck des um 1680 von Hans Heinrich Bodmer entworfenen Kupferstichs; siehe Wegmann: Schweizer Exlibris, Nr. 764 und 765)    
+561      |a Handschriftlicher Besitzvermerk in Tinte auf Blatt 3A₁ (erste Seite Band 2 mit Zwischentitel "Francisci Petrarchæ Opus Epistolarum"): "Carthusiensiu[m] in louaino[?] ex p...[?] fr[atr]is florentij ab haerlem eiusde[m] dom[us] p[ro]fessi monachi"; auf Blatt A₂ rechts oben in Tinte: "Carthusianorum Louanii"    
+561      |a 1934 von der Stadtbibliothek in einer Auktion bei Gutekunst & Klipstein, Bern, erworben aus der Bibliothek Steinwachs (Hans Steinwachs)    
+563      |a Einbandbeschreibung: Ganzbezogene Ledereinbände auf Kartondeckeln (braun, marmoriert, 18./19. Jahrhundert), Linien- und Stempel-Blindprägung am Rücken, Titelschilder in Goldprägung am Rücken: "Petrarcæ Operæ", darunter in eigenem Feld: "Tom I" bzw. "Tom II"; unten am Rücken: "Basilae / Jo. De Amerbach / 1496"    
+563      |a Vorsätze, Band 1 und 2: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse, Band 1: 27.3 x 20.5 x 4.3 cm, Band 2: 27.3 x 20.1 x 2.8 cm    
+563      |a Zustand Einband:  Kratzer im Einbandleder. Ecken deformiert; Lederüberklebungen am oberen Häubchen an beiden Bänden und weitere am Rücken von Band 1    
+590      |a Buchblockbeschreibung: 389 von 389 Blättern (Band 1: 263 Blätter, bis Blatt bb₁₀, Band 2: 162 Blätter, ab Blatt 3A₁); abwechselnd rot und blau ausgezeichnete Initialen, Anfangsinitialen einzelner Texte rot, blau und gold ausgemalt, mit Schmuckranken; wenig Rubrizierung (rote und blaue Absatzzeichen bei Überschriften)    
+590      |a Zustand Buchblock, Band 1: Feuchtigkeitsränder an den unteren Blattkanten, Fehlstellenergänzung mit Büttenpapier an Blatt bb₁₀; Band 2: Fehlstellenergänzung mit Büttenpapier an Blatt C₇, Beschnittmass sichtbar an umgeknickter Ecke an Blatt C₆    
+590      |a Anders als in BSB-Ink ist die Lage F (De vera sapientia) nicht hinter Blatt 2E₈, sondern hinter Blatt 2c₆ eingebunden    
+590      |a Wenige handschriftliche Annotationen in Tinte    
+700 1    |a Brant, Sebastian    |d 1458-1521    |0 (DE-588)118514474    |e Herausgeber    |4 edt    
+700 1 2  |a Petrarca, Francesco    |d 1304-1374    |t Bucolicum carmen    |0 (DE-588)4274793-4    
+700 1 2  |a Petrarca, Francesco    |d 1304-1374    |t De vita solitaria    |0 (DE-588)4487135-1    
+700 1 2  |a Petrarca, Francesco    |d 1304-1374    |t De remediis utriusque fortunae    |0 (DE-588)4126318-2    
+700 1 2  |a Petrarca, Francesco    |d 1304-1374    |t Secretum    |0 (DE-588)4224456-0    
+700 0 2  |a Nikolaus    |c von Kues, Kardinal    |d 1401-1464    |t De sapientia    |0 (DE-588)1144316553    
+700 1 2  |a Petrarca, Francesco    |d 1304-1374    |t Rerum memorandarum libri    |0 (DE-588)1193290082    
+700 1 2  |a Petrarca, Francesco    |d 1304-1374    |t Invectivae contra medicum quendam    |0 (DE-588)1193433746    
+700 1 2  |a Petrarca, Francesco    |d 1304-1374    |t Epistolae familiares    |0 (DE-588)4367559-1    
+700 1 2  |a Petrarca, Francesco    |d 1304-1374    |t Epistolae seniles    |n 11,11    |0 (DE-588)1193442680    
+700 1 2  |a Petrarca, Francesco    |d 1304-1374    |t Epistolae seniles    |n 15,6    |0 (DE-588)1193443660    
+700 1 2  |a Petrarca, Francesco    |d 1304-1374    |t Sine nomine    |0 (DE-588)4680815-2    
+700 1 2  |a Petrarca, Francesco    |d 1304-1374    |t Epistolae familiares    |n 10,1    |0 (DE-588)1193449413    
+700 1 2  |a Petrarca, Francesco    |d 1304-1374    |t Ad posteritatem    |0 (DE-588)1101705124    
+700 1 2  |a Petrarca, Francesco    |d 1304-1374    |t Psalmi poenitentiales    |0 (DE-588)1193450128    
+700 1 2  |a Petrarca, Francesco    |d 1304-1374    |t De viris illustribus    |0 (DE-588)4491626-7    
+700 1 2  |a Brant, Sebastian    |d 1458-1521    |t De commendatione impressionis Francisci Petrarchae elogium    |0 (DE-588)1193277418    
+700 0 2  |a Lombardus    |c Sirichius    |d -1390    |t Supplementum in epitomatis Illustrium virorum    |0 (DE-588)119345168X    
+700 0 2  |a Benevenutus    |c Imolensis    |d 1338-1390    |t Libellus Augustalis    |0 (DE-588)1193450470    
+700 1    |a Amerbach, Johannes    |d 1440-1513    |0 (DE-588)123073189    |e Drucker    |4 prt    
+700 0    |a Florentius    |c ab Haerlem    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Bodmer, Hans Heinrich    |d 1654-1706    |0 (DE-588)1193112273    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Steinwachs, Hans    |d 1880-1934    |0 (DE-588)1020031050    |e Früherer Eigentümer    |4 fmo    
+710 2    |a Kloster Heilige Maria Magdalena unter dem Kreuz Löwen    |0 (DE-588)1193507006    |e Früherer Eigentümer    |4 fmo    
+710 2    |a Gutekunst und Klipstein    |g Firma    |0 (DE-588)33226-4    |e Sonstige    |4 oth    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc VI 6    |9 (41SLSP_UBE)99116920403305511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |h MUE Inc VI 6 : 2    |p 12    |j MUE Inc VI 6    |b B404    |9 (41SLSP_UBE)99116920403305511    
+949      |c 404U3    |h MUE Inc VI 6 : 1    |p 12    |j MUE Inc VI 6    |b B404    |9 (41SLSP_UBE)99116920403305511    
+986      |a (41SLSP_UBE)99116920403305511    |9 (41SLSP_UBE)99116920403305511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116920403305511    
+991      |a AAK: 684677    |5 IZ UBE/20.08.2019/B404/vha    |9 local    |9 (41SLSP_UBE)99116920403305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

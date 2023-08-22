@@ -1,0 +1,153 @@
+﻿<-1-1-START->
+Livius, Titus
+<-1-1-STOP->
+
+<-1-2-START->
+Ab urbe condita
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit einem Widmungsbrief von Johannes Andreas de Buxis an Papst Paul II. und Kardinal Marco Barbo, den Periochae (unter dem Namen des Lucius Annaeus Florus), einem Widmungsbrief des Herausgebers Marcus Antonius Sabellicus an Benedictus Cornarius und kurzen Annotationes von Sabellicus<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Filippo Pinzi für Luca Antonio de Giunta, 03.11.1495
+<-3-1-STOP->
+
+<-4-1-START->
+40 ungezählte Seiten, CCLIII Blätter, 1 ungezähltes Blatt: 174 Illustrationen, Holzschnittinitialen, Druckermarke; 31 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_L-194.html<-L-5-STOP-><-VI-5-START->BSB-Ink L-194<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M18486.htm<-L-5-STOP-><-VI-5-START->GW M18486<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/il00247000<-L-5-STOP-><-VI-5-START->ISTC il00247000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+273 von 274 Blättern, einzelne Illustrationen teilweise rot koloriert oder mit Graphit ausgemalt
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Pergamenteinband auf Kartondeckeln mit Buntpapier (Marmor, 18. Jahrhundert) und durchzogenen Bünden
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Familie von Lerber
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Epitome historiarum Philippicarum Pompei Trogi / Marcus Iunianus Iustinus. [Venedig: Giovanni Rosso und Albertino Viani, nicht vor 1488]
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Das unbedruckte Blatt ii₈ fehlt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116841967105511<-L-11-STOP-><-VI-11-START->MUE Inc I 100 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991133138979705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Livius, Titus<-P-STOP->
+<-P-START->Johannes Andreas<-P-STOP->
+<-P-START->Florus, Lucius Annaeus<-P-STOP->
+<-P-START->Sabellicus, Marcus Antonius<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Pinzi, Filippo<-P-STOP->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Giunta, Luca Antonio de<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Lerber (Familie)<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991133138979705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 100 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05096nam a2200685 c 4500
+001 991133138979705501
+005 20221206163247.0
+008 180117s1495    it |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/17.01.2018/B404/faf    
+035      |a (swissbib)07172396X-41slsp_network    
+035      |a 07172396X    |9 ExL    
+035      |a (IDSBB)006766268DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991133138979705501    
+035      |a (41SLSP_UBE)99116841967105511    |9 (41SLSP_UBE)99116841967105511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Livius, Titus    |d v59-17    |0 (DE-588)118573624    |e Verfasser    |4 aut    
+240 1 0  |a Ab urbe condita    
+245 1 0  |a T. Livii Decades    
+246 1    |i Kolophon    |a T. Liuii patauini Decades expliciunt    
+246 1    |i Kolophon in normalisierter Form    |a T. Livii Patavini decades expliciunt    
+246 1    |i Titel gemäss BSB-Ink und ISTC    |a Historiae Romanae decades    
+246 1    |i Titel gemäss GW    |a Decades    
+264   1  |a Venetiis    |b per Philippum Pincium Mantuanum: summa cura & diligenti studio Impressæ    |c Anno ab Incarnatione domini. M.ccccxcy. iii. nonas nouembris. Imperante Serenissimo Augustino Barbadico Venetiarum duce fœlicissimo [03.11.1495]    
+300      |a 40 ungezählte Seiten, CCLIII Blätter, 1 ungezähltes Blatt    |b 174 Illustrationen    |c 31 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit einem Widmungsbrief von Johannes Andreas de Buxis an Papst Paul II. und Kardinal Marco Barbo, den Periochae (fälschlicherweise unter dem Titel "L. Flori Epitoma Decadvm Qvattvordecim. T. Livii Patavini Historici In Centvm Et Quadraginta Libros Distinctvm"), einem Inhaltsverzeichnis, einem Widmungsbrief des Herausgebers Marcus Antonius Sabellicus an Benedictus Cornarius und kurzen Annotationes von Sabellicus    
+500      |a Impressum gemäss Kolophon    
+500      |a Druckermarke des Verlegers Luca Antonio de Giunta am Ende (rot gedruckt)    
+500      |a Holzschnittinitialen    
+500      |a Signaturformel: A⁸, a⁸, b⁴, c–l⁸, m–n¹⁰, A–K⁸, L¹⁰, aa–ii⁸    
+500      |a Blatt ii₈ ist unbedruckt    
+510 4    |a BSB-Ink    |c L-194    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_L-194.html    
+510 4    |a GW    |c M18486    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M18486.htm    
+510 4    |a ISTC    |c il00247000    |u http://data.cerl.org/istc/il00247000    
+530      |a Digitalisat Dekade 1 (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0005/bsb00055951/images    
+530      |a Digitalisat Dekade 3 (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0005/bsb00055952/images    
+530      |a Digitalisat Dekade 4 (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0005/bsb00055953/images    
+561      |a Stempel auf Titelseite: Wappen der Familie von Lerber (Wegmann 4359 d)    
+563      |a Einbandbeschreibung: Halbbezogener Pergamenteinband auf Kartondeckeln mit Buntpapier (Marmor, 18. Jh.) und durchzogenen Bünden    
+563      |a Vorsätze: Vorne mit drei fliegenden Blättern, hinten mit zwei (ursprünglich drei) fliegenden Blättern    
+563      |a Masse Einband: 30.9 x 22.5 x 5.8 cm    
+563      |a Zustand Einband: Ecken gestaucht, Schäden am Buntpapier, Risse im Pergament an durchzogenen Bünden, hinteres Vorsatz im Falz mit Japanpapier verstärkt    
+590      |a Buchblockbeschreibung: 273 von 274 Blättern, teilweise handschriftliche Zeilenzählung in Tinte, einzelne Illustrationen teilweise rot koloriert oder mit Graphit ausgemalt (z.B. Blatt CXX recto, CCXXXIII recto)    
+590      |a Zustand Buchblock: Starke Feuchtigkeitsränder an den Blattkanten vor allem am Fussschnitt    
+590      |a Unvollständiges Exemplar: Das unbedruckte Blatt ii₈ fehlt    
+590      |a Handschriftliche Annotationen und Unterstreichungen in Tinte, Unterstreichungen in Graphit    
+590      |a Mögliche getilgte Besitzvermerke auf Titelseite, noch lesbar: "constat [...] 18 gl 1777."    
+590      |a Zusammengebunden mit: Epitome historiarum Philippicarum Pompei Trogi / Marcus Iunianus Iustinus. Venedig : Giovanni Rosso und Albertino Viani, nicht vor 1488    
+590      |a Frühere Signatur: Inc 200    
+700 0    |a Johannes    |c Andreas    |d 1417-1475    |0 (DE-588)102519552    |e Verfasser eines Vorworts    |4 wpr    
+700 1    |a Florus, Lucius Annaeus    |d ca. 2. Jh.    |0 (DE-588)118691910    |e Verfasser    |4 aut    
+700 1    |a Sabellicus, Marcus Antonius    |d 1436-1506    |0 (DE-588)100960170    |e Herausgeber    |e Kommentarverfasser    |4 edt    |4 wac    
+700 1    |a Pinzi, Filippo    |0 (DE-588)1037561813    |e Drucker    |4 prt    
+700 1    |a Giunta, Luca Antonio <<de>>    |d 1457-1538    |0 (DE-588)121687406    |e Verlag    |4 pbl    
+700 3    |a Von Lerber    |c Familie    |0 (DE-588)1023759969    |e Früherer Eigentümer    |4 fmo    
+700 1 2  |a Livius, Titus    |d v59-17    |t Ab urbe condita    |0 (DE-588)4125765-0    
+730 0    |a Periochae    |0 (DE-588)4504491-0    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Inc I 100 : 1    |9 (41SLSP_UBE)99116841967105511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 1 weiteren Druck in Sammelband    |p 12    |j MUE Inc I 100 : 1    |b B404    |9 (41SLSP_UBE)99116841967105511    
+986      |a (41SLSP_UBE)99116841967105511    |9 (41SLSP_UBE)99116841967105511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116841967105511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

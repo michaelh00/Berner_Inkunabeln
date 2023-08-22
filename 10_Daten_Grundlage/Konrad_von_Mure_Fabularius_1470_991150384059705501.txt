@@ -1,0 +1,135 @@
+﻿<-1-1-START->
+Konrad von Mure
+<-1-1-STOP->
+
+<-1-2-START->
+Fabularius
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Basel: Berthold Ruppel, [zwischen ca. 1470 und 1475]
+<-500-START->Druckjahr wird unterschiedlich angegeben (BSB-Ink: "c. 1475", GW: "um 1470", UB Basel "ca. 1474 oder 1475")<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 293 ungezählte Seiten, 1 ungezähltes Blatt; 28 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_C-521.html<-L-5-STOP-><-VI-5-START->BSB-Ink C-521<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW07424.htm<-L-5-STOP-><-VI-5-START->GW 07424<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ic00855000<-L-5-STOP-><-VI-5-START->ISTC ic00855000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+148 von 148 Blättern, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun marmoriert, Schaf, 18./19. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Werke [lateinisch] / Quintus Horatius Flaccus. [Mailand]: Filippo da Lavagna, 1476
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116908531805511<-L-11-STOP-><-VI-11-START->MUE Inc III 48 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991150384059705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Konrad von Mure<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Ruppel, Berthold<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991150384059705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 48 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04969nam a2200553 c 4500
+001 991150384059705501
+005 20220114105041.0
+008 170928q14701475sz |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/28.09.2017/B404/vha    
+035      |a (swissbib)073972223-41slsp_network    
+035      |a 073972223    |9 ExL    
+035      |a (IDSBB)006735400DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991150384059705501    
+035      |a (41SLSP_UBE)99116908531805511    |9 (41SLSP_UBE)99116908531805511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Konrad    |c von Mure    |d 1210-1281    |0 (DE-588)118713965    |e Verfasser    |4 aut    
+240 1 0  |a Fabularius    
+245 1 0  |a Rep[er]torium vocabulorum equisitorum oratorie poes[is] et historiarum    |b cum fideli narrac[i]o[n]e earum rerum que ambiguitatem ex huiusmodi vocabulis accipiu[n]t per quod fere omnes oculte et dfficultates et subtilitates in studijs humanitatis facile Juxta alphabeti ordinem inuenie[n]tur    |c Editum a doctissimo l[iter]rarum amatore Magistro conrado ruricens[is] ecclesie cantore Et [con]pletus anno domini m[illesim]o cclxxnj. [cclxxiii., das heisst 1273]    
+246 1    |i Titel gemäss BSB-Ink, GW und ISTC    |a Fabularius seu Repertorium vocabulorum    
+246 1    |i Titel in normalisierter Form    |a Repertorium vocabulorum equisitorum oratorie poesis et historiarum    |b cum fideli narracione earum rerum que ambiguitatem ex huiusmodi vocabulis accipiunt per quod fere omnes oculte et difficultates et subtilitates in studiis humanitatis facile iuxta alphabeti ordinem invenientur    
+246 1    |i Titel mit korrigierter Orthographie    |a Repertorium vocabulorum exquisitorum oratorie poesis et historiarum    |b cum fideli narratione earum rerum que ambiguitatem ex huiusmodi vocabulis accipiunt per quod fere omnes oculte et difficultates et subtilitates in studiis humanitatis facile iuxta alphabeti ordinem invenientur    
+264   1  |a In basilea    |b Bertoldus nitide hu[n]c impresserat    |c [zwischen ca. 1470 und 1475]    
+300      |a 1 ungezähltes Blatt, 293 ungezählte Seiten, 1 ungezähltes Blatt    |c 28 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Impressum auf der Titelseite (Blatt a₁ verso) in Versform: "Vnde liber venerit presens si forte requiras // Quid ve noui referat perlege quod sequitur // Bertoldus ntide hu[n]c impresserat in basilea // Vtq[ue] adeat doctos protinus ille iubet ..."    
+500      |a Druckjahr gemäss BSB-Ink "c. 1475", gemäss GW "um 1470", ISTC gibt mehrere Möglichkeiten an: "about 1475", "about 1473-74" und "about 1470", gemäss UB-Basel "ca. 1474 oder 1475"    
+500      |a Signaturformel: [a–d¹⁰, e¹², f–n¹⁰, o-p⁸]    
+500      |a Blatt [a₁] recto und Blatt [p₇] verso unbedruckt; letztes Blatt [p₈] unbedruckt    
+505 0 0  |g Blatt a₇ verso    |t Hic incipit genealogia super fabulas auctorum    |g Blatt b₄ recto    |t Hic incipiu[n]t fabule aucto[rum] s[ecundu]m ordinem alphabeti    
+510 4    |a BSB-Ink    |c C-521    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_C-521.html    
+510 4    |a GW    |c 07424    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW07424.htm    
+510 4    |a ISTC    |c ic00855000    |u http://data.cerl.org/istc/ic00855000    
+530      |a Digitalisat (Exemplar der Universitätsbibliothek Basel)    |u http://dx.doi.org/10.3931/e-rara-16277    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun marmoriert, Schaf, 18./19. Jahrhundert), Linien-Goldprägung sowie Titelschild in Goldprägung auf dem Rücken: "Horatius Cum Repertorio"; handschriftlich mit Tinte ergänzt: "1476. 73.²"    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 27.9 x 20.1 x 5.5 cm    
+563      |a Zustand Einband: Schäden am Einbandleder mit zurück geklebten Fragmenten    
+590      |a Buchblockbeschreibung: 148 von 148 Blättern, handschriftliche Lagensignatur in Graphit (gemäss GW), Verbindung zwischen Lagen [o] und [p] mit Japanpapierstreifen stabilisiert, rot ausgezeichnete Initialen, Rubrizierung, Reste vormaliger Blattweiser    
+590      |a Zustand Buchblock: Auf letztem, unbedrucktem Blatt [p₈] oben Rostspuren der ehemaligen Ankettung    
+590      |a Zeitgenössische handschriftliche Anmerkung auf letztem Blatt [p₈] verso, kopfüber: "Fabular[ius] ... [con]stat xv ß" (15 Schilling)    
+590      |a Zusammengebunden mit: Horatius Flaccus, Quintus: Werke. [Mailand]: Filippo da Lavagna, 1476    
+590      |a Historische Signaturen auf Blatt A (das ist A₂) recto: "Lit. 94"; wurde durchgestrichen, darunter: "Poet 68"    
+590      |a Weiteres Exemplar dieser Ausgabe: GDB Gut 4    
+590      |a Frühere Signatur: Inc 294 : 2    
+700 1    |a Ruppel, Berthold    |d -1494    |0 (DE-588)129066265    |e Drucker    |4 prt    
+700 0 2  |a Konrad    |c von Mure    |d 1210-1281    |t Fabularius    |0 (DE-588)4846766-2    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc III 48 : 2    |9 (41SLSP_UBE)99116908531805511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 1 weiteren Druck in Sammelband    |p 12    |j MUE Inc III 48 : 2    |b B404    |9 (41SLSP_UBE)99116908531805511    
+986      |a (41SLSP_UBE)99116908531805511    |9 (41SLSP_UBE)99116908531805511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116908531805511    
+991      |a AAK: 00179855    |5 IZ UBE/28.09.2017/B404/vha    |9 local    |9 (41SLSP_UBE)99116908531805511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

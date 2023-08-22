@@ -1,0 +1,143 @@
+﻿<-1-1-START->
+Augustinus Triumphus
+<-1-1-STOP->
+
+<-1-2-START->
+Summa de ecclesiastica potestate
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Augsburg: [Johann Schüssler], 06.03.1473
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 937 ungezählte Seiten; 32 cm (2°)
+<-500-START->Hinter Blatt [q₂] zusätzlicher Papierstreifen mit 4 Zeilen gedrucktem Text (gesetzt wie in GW-Druckausgabe Anm. 6)<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-842.html<-L-5-STOP-><-VI-5-START->BSB-Ink A-842<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW03050.htm<-L-5-STOP-><-VI-5-START->GW 03050<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ia01363000<-L-5-STOP-><-VI-5-START->ISTC ia01363000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+470 von 470 Blättern, rot ausgezeichnete Initialen, Anfangsinitiale blau mit roter Federzeichnung; Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Pergamenteinband auf Kartondeckeln (17./18. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Werner Zesiger; Kloster Mittenheim-Schleißheim
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116801771505511<-L-11-STOP-><-VI-11-START->MUE Zesk 18<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991125101529705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Augustinus Triumphus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Augsburg<-O-STOP->
+<-P-START->Schüßler, Johann<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Zesiger, Werner<-P-STOP->
+<-P-START->Kloster Mittenheim-Schleißheim<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991125101529705501<-DOI-STOP->
+<-SIGN-START->MUE Zesk 18<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04948nam a2200637 c 4500
+001 991125101529705501
+005 20220222143525.0
+008 950614s1473    gw            00| | lat d
+019      |a Altbestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von Signaturen.    |5 IDSBB/21.2.1995/bestub/mes    
+035      |a (swissbib)027031292-41slsp_network    
+035      |a 027031292    |9 ExL    
+035      |a (IDSBB)001116868DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991125101529705501    
+035      |a (41SLSP_UBE)99116801771505511    |9 (41SLSP_UBE)99116801771505511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+072   7  |a th    |2 SzZuIDS BS/BE    
+100 0    |a Augustinus    |c Triumphus    |d 1243-1328    |0 (DE-588)119465434    |e Verfasser    |4 aut    
+240 1 0  |a Summa de ecclesiastica potestate    
+245 1 0  |a Explicit summa de ecclesiastica potestate    |c edita a fratre Augustino de Ancona Ordinis fratru[m] he[re]mita[rum] sancti Augustini    
+246 1    |i Incipit    |a Incipit Summa Augustini de Ancona de su[m]ma potestate ecclesiastica    
+246 1 0  |a Summa Augustini de Ancona de summa potestate ecclesiastica    
+246 1 0  |a De summa potestate ecclesiastica    
+246 1    |i Titel gemäss GW und ISTC    |a Summa de potestate ecclesiastica    
+264   1  |a Auguste impressa et finita    |b [Johann Schüssler]    |c p[ri]die no[ni]s Marcij. Anno incarnat[i]o[n]is M.cccc.lxxiij. [6.03.1473]    
+300      |a 1 ungezähltes Blatt, 937 ungezählte Seiten    |c 32 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss Kolophon (Blatt Z₆ verso)    
+500      |a Druckort und Druckdatum gemäss Kolophon, Drucker gemäss BSB-Ink, GW und ISTC    
+500      |a Signaturformel: [a–p¹⁰, q¹⁰+¹, r–z¹⁰, A–E¹⁰, F¹², G¹⁰+¹, H–Y¹⁰, Z⁶, aa¹⁰]    
+500      |a Blatt [a₁] unbedruckt; Blatt [aa₁₀] verso unbedruckt    
+500      |a Lage [aa] ("rubrice et tituli q[ue]stionu[m]") in einigen Exemplaren an den Anfang gebunden    
+500      |a Hinter Blatt [q₂] zusätzlicher kleiner Papierstreifen mit 4 Zeilen gedrucktem Text (gesetzt wie in GW-Druckausgabe Anm. 6; abweichend vom digitalisierten Exemplar der BSB München)    
+510 4    |a BSB-Ink    |c A-842    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-842.html    
+510 4    |a GW    |c 03050    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW03050.htm    
+510 4    |a ISTC    |c ia01363000    |u http://data.cerl.org/istc/ia01363000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00036403/image_5    
+561      |a Auf Blatt [aa₁] (erstes Blatt) handschriftlicher Besitzvermerk in Tinte: "Ad franciscanos Schleishamij. Bibliotheca"    
+561      |a Handschriftlicher Besitzvermerk in Tinte auf Blatt [a₂] recto: "B.B.M.V. Aicha Boiorum"    
+561      |a Stempel auf vorderem Spiegel und (undeutlich) auf vorderem fliegenden Blatt: "Dr. Zesiger"    
+563      |a Einbandbeschreibung: Ganzbezogener Pergamenteinband auf Kartondeckeln (17./18. Jahrhundert, Technik wie halbbezogener Einband, das heisst drei Pergamentteile, Deckelbezüge evtl. später hinzugefügt)    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse: 32.2. x 23.3 x 11.3 cm    
+563      |a Zustand Einband: Kratzer und Verfleckungen im Einbandpergament, Deckel deformiert mit Einkerbungen an den Vorderkanten    
+590      |a Buchblockbeschreibung: 470 von 470 Blättern, handschriftliche Lagensignatur (Nummerierung) in Graphit, jeweils auf der ersten Recto-Seite jeder Lage rechts unten; Pergamentverstärkung (Velours) in letzter Lage [Z], rot ausgezeichnete Initialen, Anfangsinitiale auf Blatt [a₂] recto blau mit roter Federzeichnung; Rubrizierung    
+590      |a Zustand Buchblock: Schädlingsfrass vor allem an den ersten Seiten, Buchblock steht an den Vorderkanten über die Deckel hinaus, Blätter [Z₁] und [Z₆] (letzte Lage in dieser Bindung) voneinander abgetrennt    
+590      |a Lage [aa] an den Anfang gebunden (handschriftlich nummeriert als Lage 1)    
+590      |a Signaturformel der handschriftlichen Lagensignatur: 1–16¹⁰, 17¹¹, 18–29¹⁰, 30¹², 31¹¹, 32-46¹⁰, 47⁶    
+590      |a Wenige handschriftliche Annotationen und Handzeichen in Tinte    
+590      |a Historische Signatur auf vorderem fliegenden Blatt in Graphit (durchgestrichen): "F V 340"    
+700 0 2  |a Augustinus    |c Triumphus    |d 1243-1328    |t Summa de ecclesiastica potestate    |0 (DE-588)1151946435    
+700 1    |a Schüßler, Johann    |d ca. 15. Jh.    |0 (DE-588)10410371X    |e Drucker    |4 prt    
+700 1    |a Zesiger, Werner    |d 1902-1958    |0 (DE-588)121027392    |e Früherer Eigentümer    |4 fmo    
+710 2    |a Kloster Mittenheim-Schleißheim    |b Bibliothek    |0 (DE-588)1085796523    |e Früherer Eigentümer    |4 fmo    
+751      |a Augsburg    |0 (DE-588)4003614-5    
+852 4    |b B404    |c 404U3    |j MUE Zesk 18    |9 (41SLSP_UBE)99116801771505511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Zesk 18    |b B404    |9 (41SLSP_UBE)99116801771505511    
+986      |a (41SLSP_UBE)99116801771505511    |9 (41SLSP_UBE)99116801771505511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116801771505511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

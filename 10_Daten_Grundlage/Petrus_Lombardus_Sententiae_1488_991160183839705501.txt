@@ -1,0 +1,150 @@
+﻿<-1-1-START->
+Petrus Lombardus
+<-1-1-STOP->
+
+<-1-2-START->
+Sententiae
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit den Conclusiones in libros Sententiarum des Heinrich von Gorkum, den Tituli quaestionum des Thomas von Aquin und den in England und Paris verurteilten Errores, zum Teil von Étienne Tempier<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Basel]: Nicolaus Kessler, 22.09.1488
+<-3-1-STOP->
+
+<-4-1-START->
+560 ungezählte Seiten, 1 ungezähltes Blatt: Druckermarke; 33 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_P-384.html<-L-5-STOP-><-VI-5-START->BSB-Ink P-384<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M32482.htm<-L-5-STOP-><-VI-5-START->GW M32482<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ip00491000<-L-5-STOP-><-VI-5-START->ISTC ip00491000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+279 von 281 Blättern, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jeremias Folkius; Johann Roll; Johann Ulrich Zender
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116704715305511<-L-11-STOP-><-VI-11-START->MUE Rar alt fol 85<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991160183839705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Petrus Lombardus<-P-STOP->
+<-P-START->Thomas von Aquin<-P-STOP->
+<-P-START->Heinrich von Gorkum<-P-STOP->
+<-P-START->Tempier, Étienne<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Kessler, Nicolaus<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Folkius, Jeremias<-P-STOP->
+<-P-START->Roll, Johann<-P-STOP->
+<-P-START->Zender, Johann Ulrich<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991160183839705501<-DOI-STOP->
+<-SIGN-START->MUE Rar alt fol 85<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 07561nam a2200673 c 4500
+001 991160183839705501
+005 20211215200643.0
+008 031017s1488    sz            00| | lat  
+019      |a Altbestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von Signaturen    |5 IDSBB/17.10.2003/bestub/eng    
+035      |a (swissbib)03990718X-41slsp_network    
+035      |a 03990718X    |9 ExL    
+035      |a (IDSBB)003000311DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991160183839705501    
+035      |a (41SLSP_UBE)99116704715305511    |9 (41SLSP_UBE)99116704715305511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Petrus    |c Paris, Bischof    |d 1095-1160    |0 (DE-588)11859334X    |e Verfasser    |4 aut    
+240 1 0  |a Sententiae    
+245 1 0  |a Textus Sentenciaru[m]    |b cum conclusionibus ac titulis questionu[m] s. Thome Articulisq[ue] Parisien. et in quibus magister communiter non tenetur    |c [Petrus Lombardus; Henricus de Gorrichem; Thomas von Aquin]    
+246 1    |i Titel gemäss GW und ISTC    |a Sententiarum libri IV    
+246 1    |i Kolophon    |a Liber Sententiarum magistri Petri Lombardi    |b cum conclusionibus magistri Henrici Gorichem: sacrarum litterarum interpretis eximij. Ac subtilissimis sancti Thome problematibus. ad studentium exercitatione[m] faciliore[m]q[ue] in eius ipsius scriptis materiarum inuentionem ...    
+246 1    |i Titel gemäss BSB-Ink    |a Sententiarum libri quattuor    
+246 1    |i Titel in moderner Orthografie    |a Textus sententiarum    |b cum conclusionibus ac titulis quaestionum Sanctae Thomae articulisque Parisiensibus et in quibus magister communiter non tenetur    
+246 1    |i Titel in normalisierter Form    |a Textus sentenciarum    |b cum conclusionibus ac titulis questionum S. Thome articulisque Parisien. et in quibus magister communiter non tenetur    
+264   1  |a [Basel]    |b Jmpensis atq[ue] singulari opera Nicolai Kellers ciuis Basileen[sis] ... impressus    |c Anno incarnationis domini post millesimum quaterq[ue] centesimum octogesimooctauo. Decimo vero kalen[dis] mensis Octobris. [22.09.1488]    
+300      |a 560 ungezählte Seiten, 1 ungezähltes Blatt    |c 33 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit den Conclusiones von Henricus de Gorichem und mit den in England und Paris verurteilten Errores, zum Teil von Stephanus Tempier    
+500      |a Impressum gemäss Kolophon (Blatt Q₆ verso)    
+500      |a Druckermarke über dem Kolophon    
+500      |a Signaturformel: a¹⁰, b⁸c⁶–h⁸i⁶, k⁶l⁸–o⁶p⁸, q–s⁶, t⁸, A⁸B⁶–P⁸Q⁶, Qr⁶, R⁶, S¹⁰-¹, T⁶, V⁸    
+500      |a Blatt t₆ und V₈ unbedruckt; im Umfang nicht mitgezählt ist das unbedruckte, häufig weggeschnittene dritte Blatt in Lage S - das vierte Blatt schliesst im Text unmittelbar an Blatt S₂ an    
+500      |a Blatt S₁₀ verso unbedruckt    
+500      |a Blatt a₁ nicht signiert, Blatt a₂ als a, Blatt a₃ als a₂ bezeichnet, etc.; Blatt r₄ fälschlich als q₄, Blatt D₄ fälschlich als D₅ bezeichnet, Blatt Qr₁ nicht bezeichnet    
+510 4    |a BSB-Ink    |c P-384    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_P-384.html    
+510 4    |a GW    |c M32482    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M32482.htm    
+510 4    |a ISTC    |c ip00491000    |u http://data.cerl.org/istc/ip00491000    
+530      |a Digitalisat (Exemplar der Herzog August Bibliothek Wolfenbüttel)    |u http://diglib.hab.de/inkunabeln/478-theol-2f/start.htm    
+561      |a Handschriftlicher Besitzvermerk auf vorderem fliegenden Blatt: "Pro Hieremia Folkio[?] Schweigerano Craicbog:"; auf der Titelseite: "Ex libris Ioannis Rolli 1632. die 14. Februarij"; "Ioan: vdal: zender:"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen. Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln    
+563      |a Vorsätze: vorne mit einem, hinten ohne fliegendes Blatt    
+563      |a Masse: 32.2 x 23.0 x 7.9 cm    
+563      |a Zustand Einband: Einbandleder verschmutzt mit Griffspuren, Fehlstellen im Einbandleder mit hoch stehenden Fragmenten an den Deckelkanten und Ecken, rote Farbspuren auf beiden Deckeln, oberer Schliessenriemen abgerissen, mit fehlendem Hakenteil, unterer Schliessenriemen mit Gewebekern und Reparatur der Nietung des Hakenteils, Schliessenriemen in Buchblockbreite mit rotem Farbmittel überfärbt, Reste von Papierschildern an den unteren beiden Bundfeldern des Rückens, hoch gelöste Ecke mit Einriss an vorderem Spiegel sowie Durchbruch des oberen Einschlages, radierte Graphiteintragungen mit abgespaltenem Papier am vorderen Spiegel, radierte Graphitschrift an vorderem fliegenden Blatt    
+590      |a Buchblockbeschreibung: 279 von 281 Blättern; Pergamentverstärkung in den Lagenmitten (Velours, Manuskriptmakulatur), geschlossener Papierfalz nach Blatt a₁₀ gehört zur Vorsatzkonstruktion (um erste Lage gelegtes Doppelblatt, jetzt mit abgetrenntem 1. fliegenden Blatt), ursprünglich um erste Lage geführter Ansatzfalz aus Pergament (Velour, Manuskriptmakulatur) teilweise im Falz nach dem Spiegel und teilweise nach Blatt a₁₀ zu sehen; geschlossener Papierfalz vor Blatt V₁ gehört zur Vorsatzkonstruktion, Pergamentfalz (Velours, Manuskriptmakulatur) vor Blatt V₁ gehört zum Ansatzfalz auf den hinteren Deckel, Papierfalz nach Blatt V₉ gehört zu Blatt V₁, Papierschnittkante von vormaligem fliegenden Blatt im hinteren Falz sichtbar; rot ausgezeichnete Initialen, Rubrizierung    
+590      |a Zustand Buchblock: Erste Blätter stark verschmutzt, stark verbräunte Blattränder mit Feuchtigkeitsrändern, massive bräunliche Halos um rot ausgezeichnete Initialen (Verbräunung vergleichbar mit braunen Blattkanten unterhalb des roten Farbschnittes) mit starkem Durchschlagen des roten Farbmittels (zum Beispiel Blätter a₄ und a₇ verso), historischer Schimmelschaden an ersten Blättern mit Fehlstellen an der vorderen Blattkante und den oberen Ecken, Blatt b₁: Riss oben, Blatt I₇: obere Ecke herausgerissen, mit Textverlust an gedruckter Anmerkung am Rand    
+590      |a Die unbedruckten Blätter t₆ und V₈ sind herausgeschnitten, schmale Ränder im Falz noch vorhanden; dagegen ist das unbedruckte dritte Blatt in Lage S vollständig vorhanden    
+590      |a Wenige handschriftliche Annotationen in Tinte (umfangreicher in Lage L); handschriftliche Sprüche unter Besitzeintrag auf vorderem fliegenden Blatt: "Magna vis est conscientia"; "Sey still vnnd frumb, doch siehe[?] darbej vmb."    
+700 0 2  |a Petrus    |c Paris, Bischof    |d 1095-1160    |t Sententiae    |0 (DE-588)4192097-1    
+700 0    |a Thomas    |c von Aquin, Heiliger    |d 1225-1274    |0 (DE-588)118622110    |e Verfasser von ergänzendem Text    |4 wst    
+700 0    |a Heinrich    |c von Gorkum    |d 1378-1431    |0 (DE-588)100945767    |e Verfasser von ergänzendem Text    |4 wst    
+700 0 2  |a Heinrich    |c von Gorkum    |d 1378-1431    |t Conclusiones in libros Sententiarum    |0 (DE-588)1149546247    
+700 1    |a Tempier, Étienne    |d 1210-1279    |0 (DE-588)118858394    |e Verfasser von ergänzendem Text    |4 wst    
+700 1 2  |a Tempier, Étienne    |d 1210-1279    |t Articuli condemnati anno 1277    |0 (DE-588)4212530-3    
+700 1    |a Kessler, Nicolaus    |d 1445-1519    |0 (DE-588)137735677    |e Drucker    |4 prt    
+700 1    |a Folkius, Jeremias    |4 fmo    
+700 1    |a Roll, Johann    |4 fmo    
+700 1    |a Zender, Johann Ulrich    |4 fmo    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Rar alt fol 85    |9 (41SLSP_UBE)99116704715305511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Rar alt fol 85    |b B404    |9 (41SLSP_UBE)99116704715305511    
+986      |a (41SLSP_UBE)99116704715305511    |9 (41SLSP_UBE)99116704715305511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116704715305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

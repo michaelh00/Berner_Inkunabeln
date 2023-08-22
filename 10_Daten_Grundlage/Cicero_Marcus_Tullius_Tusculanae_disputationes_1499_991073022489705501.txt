@@ -1,0 +1,136 @@
+﻿<-1-1-START->
+Cicero, Marcus Tullius
+<-1-1-STOP->
+
+<-1-2-START->
+Tusculanae disputationes
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Cicero-Text begleitet vom 62-zeiligen Kommentar von Filippo Beroaldo<-500-STOP->
+<-500-START->Mit Widmungsbrief von Filippo Beroaldo an Philippus Mora<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Bartolomeo Zani, 17.07.1499
+<-3-1-STOP->
+
+<-4-1-START->
+114 Blätter: Holzschnittinitialen; 32 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_C-409.html<-L-5-STOP-><-VI-5-START->BSB-Ink C-409<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW06900.htm<-L-5-STOP-><-VI-5-START->GW 6900<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ic00641000<-L-5-STOP-><-VI-5-START->ISTC ic00641000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+114 von 114 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Nicolaus Artopoeus
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 2 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116756045105511<-L-11-STOP-><-VI-11-START->MUE Artopoeus 12 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991073022489705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Cicero, Marcus Tullius<-P-STOP->
+<-P-START->Beroaldo, Filippo<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Zani, Bartolomeo<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Artopoeus, Nicolaus<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991073022489705501<-DOI-STOP->
+<-SIGN-START->MUE Artopoeus 12 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03833nam a2200529 c 4500
+001 991073022489705501
+005 20211215175517.0
+008 980525s1499    it ||||| |||| 00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/18.04.2017/B404/az    
+019      |a Altbestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von Signaturen    |5 IDSBB/25.05.1998/bestub/mes    
+035      |a (swissbib)031160832-41slsp_network    
+035      |a 031160832    |9 ExL    
+035      |a (IDSBB)001512470DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991073022489705501    
+035      |a (41SLSP_UBE)99116756045105511    |9 (41SLSP_UBE)99116756045105511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Cicero, Marcus Tullius    |d v106-v43    |0 (DE-588)118520814    |e Verfasser    |4 aut    
+240 1 0  |a Tusculanae disputationes    
+245 1 0  |a Commentarii quæstionum tusculanarum    |c editi a Philippo beroaldo    
+264   1  |a Impræssum Venetiis    |b p[er] Bartholomeum de Zannis de Portesio    |c 1499.die.xvii.Mensis Iulii    
+300      |a 114 Blätter    |c 32 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Cicero-Text begleitet vom 62-zeiligen Kommentar von Filippo Beroaldo    
+500      |a Mit Widmungsbrief an Philippus Mora von Filippo Beroaldo (Blatt 1 verso)    
+500      |a Signaturformel: a–t⁶    
+510 4    |a BSB-Ink    |c C-409    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_C-409.html    
+510 4    |a GW    |c 6900    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW06900.htm    
+510 4    |a ISTC    |c ic00641000    |u http://data.cerl.org/istc/ic00641000    
+530      |a Digitalisat (Exemplar der Staatsbibliothek Bayern)    |u http://daten.digitale-sammlungen.de/~db/0004/bsb00049709/images    
+561      |a Handschriftlicher Besitzvermerk auf vorderem Spiegel: "Sum Nicolai Artopoei Balingij" und ein Kaufvermerk; handschriftliche Einträge auf fliegendem Vorsatz und zahlreiche Randglossen. Einige handschriftliche Marginalien von Artopoeus    
+563      |a Einbandbeschreibung: Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln sowie auf dem Rücken, Titel und Publikationsdatum sowie -ort in Tintenschrift auf dem Rücken, Titel handschriftlich auf dem Vorderschnitt    
+563      |a Vorsätze: ohne fliegende Blätter (um ersten und letzte Lage gelegte Einzelblätter als Spiegel)    
+563      |a Masse Einband: 32.4 x 23 x 9.5 cm    
+563      |a Zustand Einband: Einband restauriert, hinteres Vorsatz zum Teil im Falz verstärkt sowie Fehlstellen am Spiegel ergänzt, Lederüberklebungen am Rücken, beide Schliessenriemen sowie unteres Hakenteil der Schliesse ergänzt, Einband gefettet    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 114 von 114 Blättern, Blattweiser aus Goldleder, Unkolorierte Holzschnitte als Initialverzierung, Notationen und Unterstreichungen in brauner sowie schwarzer Tintenschrift und Graphit Masse    
+590      |a Zustand Buchblock: Zum Teil Verbräunungen und Feuchtigkeitsränder    
+590      |a Wenige handschriftliche Annotationen in Tinte    
+590      |a Zusammengebunden mit 2 weiteren Drucken in Sammelband    
+700 1 2  |a Cicero, Marcus Tullius    |d v106-v43    |t Tusculanae disputationes    |0 (DE-588)4124662-7    
+700 1    |a Beroaldo, Filippo    |d 1453-1505    |0 (DE-588)118656589    |e Kommentarverfasser    |4 wac    
+700 1    |a Mora, Philippus    |d ca. 15./16. Jh.    |0 (DE-588)129046108    |e Widmungsempfänger    |4 dte    
+700 1    |a Zani, Bartolomeo    |d 14XX-15XX    |0 (DE-588)103757317X    |e Drucker    |4 prt    
+700 1    |a Artopoeus, Nicolaus    |d 1500-1553    |0 (DE-588)128632380    |e Früherer Eigentümer    |4 fmo    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Artopoeus 12 : 2    |9 (41SLSP_UBE)99116756045105511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc I 66 : 2    |c 404U3    |z [Zus.geb. mit 2 weitern Drucken.]    |p 12    |j MUE Artopoeus 12 : 2    |b B404    |9 (41SLSP_UBE)99116756045105511    
+986      |a (41SLSP_UBE)99116756045105511    |9 (41SLSP_UBE)99116756045105511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116756045105511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

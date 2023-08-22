@@ -1,0 +1,151 @@
+﻿<-1-1-START->
+Thomas von Aquin
+<-1-1-STOP->
+
+<-1-2-START->
+Summa theologiae
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Nürnberg: Anton Koberger, 15.01.1496
+<-3-1-STOP->
+
+<-4-1-START->
+3 Bände (4 Teile); 31 cm (2°)
+<-500-START->Teil 1: 1 ungezähltes Blatt, 384 ungezählte Seiten, 1 ungezähltes Blatt (leer); Teil 2,1: 1 ungezähltes Blatt, 372 ungezählte Seiten, 1 ungezähltes Blatt (leer); Teil 2,2: 1 ungezähltes Blatt, 545 ungezählte Seiten; Teil 3: 1 ungezähltes Blatt, 348 ungezählte Seiten, 1 ungezähltes Blatt (leer)<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_T-280.html<-L-5-STOP-><-VI-5-START->BSB-Ink T-280<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M46440.htm<-L-5-STOP-><-VI-5-START->GW M46440<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/it00196000<-L-5-STOP-><-VI-5-START->ISTC it00196000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+Teil 1: 194 von 194 Blättern, Teil 2,1: 188 von 188 Blättern, Teil 2,2: 274 von 274 Blättern, Teil 3: 176 von 176 Blättern; rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+In 2 Bände gebunden (Teil 1 und 3, sowie Teil 2,1 und 2,2 jeweils in einem Band); ganzbezogene Ledereinbände auf Holzdeckeln (chamois, Schwein) mit je zwei Schliessen sowie bei beiden Bänden Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung jeweils an beiden Deckeln; Buchbinder: Hans Leman (um 1510-1520)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Kloster Thorberg
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Teil 2,1: Blätter p₃ und p₄ unbedruckt (anders als in den Exemplaren der BSB München und der FB Gotha! Fehler in einzelnen Exemplaren?)
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116903215205511<-L-11-STOP-><-VI-11-START->MUE Inc III 50<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991148294339705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Thomas von Aquin<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Nürnberg<-O-STOP->
+<-P-START->Koberger, Anton<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-P-START->Leman, Hans<-P-STOP->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Kloster Thorberg<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991148294339705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 50<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 07781nam a2200697 ca4500
+001 991148294339705501
+005 20211215195115.0
+008 171006s1496    gw |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/06.10.2017/B404/vha    
+035      |a (swissbib)074234226-41slsp_network    
+035      |a 074234226    |9 ExL    
+035      |a (IDSBB)006737373DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991148294339705501    
+035      |a (41SLSP_UBE)99116903215205511    |9 (41SLSP_UBE)99116903215205511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Thomas    |c von Aquin, Heiliger    |d 1225-1274    |0 (DE-588)118622110    |e Verfasser    |4 aut    
+240 1 0  |a Summa theologiae    
+245 1 0  |a <<...>> pars su[m]e sancti Thome de aquino doctoris Angelici de ordine predicatorum    
+246 1    |i Incipit, prima pars    |a Jncipit prima p[ar]s summe theologie    
+246 1    |i Prima pars    |a Prima pars su[m]e sancti Thome de aquino doctoris Angelici de ordine predicatorum    
+246 1    |i Prima secundae partis    |a Prima secu[n]de p[ar]tis summe theologie eximij doctoris thome de aquino    
+246 1    |i Secunda secundae partis    |a Secu[n]da secu[n]de partis su[m]me theologie Angelici doctoris Thome Aquinatis de ordi[n]e p[re]dicato[rum]    
+246 1    |i Tertia pars    |a Tertia pars su[m]e theologie angelici doctoris Thome de Aquino de p[re]dicato[rum] ordine    
+246 1    |i Titel in moderner Orthografie    |a <<...>> pars summae Sancti Thomae de Aquino doctoris Angelici de ordine praedicatorum    
+246 1    |i Titel in normalisierter Form    |a <<...>> pars summe Sancti Thome de Aquino doctoris Angelici de ordine predicatorum    
+264   1  |a In imp[er]iali ciuitate Nurnberg no[n] sine exacta diligentuia impressa    |b per Anthoniu[m] koberger    |c Anno incarnate deitatis. M.cccc.xcvj. die. xv. mensis Januarij ... [15.01.1496]    
+300      |a 3 Bände    |c 31 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Titel gemäss Titelseite von pars 1    
+500      |a Impressum gemäss Kolophon (pars 3, Blatt [quod]₂ recto); Reihenfolge der Vorlage: "Tertia p[ar]s summe theologie Angelici doctoris Thome de Aquino ordinis p[re]dicatoru[m] per Anthoniu[m] koberger in imp[er]iali ciuitate Nurnberg no[n] sine exacta diligentia impressa: Anno incarnate deitatis. M.cccc.xcvj. die. xv. mensis Januarij: finit feliciter"    
+500      |a Umfang pars 1: 1 ungezähltes Blatt, 384 ungezählte Seiten, 1 ungezähltes Blatt (letztes Blatt leer); pars 2,1: 1 ungezähltes Blatt, 372 ungezählte Seiten, 1 ungezähltes Blatt (letztes Blatt leer); pars 2,2: 1 ungezähltes Blatt, 545 ungezählte Seiten; pars 3: 1 ungezähltes Blatt, 348 ungezählte Seiten, 1 ungezähltes Blatt (letztes Blatt leer)    
+500      |a Signaturformel pars 1: A–E⁸, F–H⁶, I⁸, K-L⁶, M⁸, N-O⁶, P⁸, Q-S⁶, T⁸, V–Y⁶, Z⁸, Aa⁸, Bb–Cc⁶, Dd–Ee⁸; pars 2,1: a–d⁸, e–n⁶, o⁸p⁶–v⁸x⁶, y–z⁶, aa–cc⁶, dd–ee⁸; pars 2,2: AA–DD⁸, EE–GG⁶, HH–II⁸, KK–NN⁶, OO⁸, PP–ZZ⁶, Aa–Ff⁶, Gg⁸, Hh–Vv⁶; pars 3: a–d⁸, e–z⁶, [et]⁶, [con]⁶, [tur]⁶, [rum]⁶, [quod]⁶    
+500      |a Pars 1: Blatt Ee₈ unbedruckt; pars 2,1: Blatt a₂ als b₂ signiert, Blatt ee₈ unbedruckt; pars 2,2: Blatt Vv₆ verso unbedruckt; pars 3: Blatt [quod]₆ unbedruckt    
+510 4    |a BSB-Ink    |c T-280    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_T-280.html    
+510 4    |a GW    |c M46440    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M46440.htm    
+510 4    |a ISTC    |c it00196000    |u http://data.cerl.org/istc/it00196000    
+530      |a Digitalisat pars 1 (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00044285/image_7    
+530      |a Digitalisat pars 2,1 (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00044284/image_1    
+530      |a Digitalisat pars 2,2 (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00044286/image_5    
+530      |a Digitalisat pars 3 (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00044288/image_1    
+561      |a Handschriftlicher Besitzvermerk auf vorderem Spiegel von pars 1/3: "Liber cartusiens. in porta mo[n]te ...[?] torberg... Jn quo co[n]ti[n]et p[ri]ma et t[er]cia p[ar]s su[m]me s[an]cti Thomae" (ehem. Kartause Thorberg; Vermerk teilweise durch Wurmlöcher beschädigt)    
+563      |a Einbandbeschreibung: In 2 Bände gebunden (pars 1 und 3, sowie pars 2,1 und 2,2 jeweils in einem Band); Ganzbezogene Ledereinbände auf Holzdeckeln (chamois, Schwein) mit je zwei Schliessen sowie bei beiden Bänden Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung jeweils an beiden Deckeln sowie dem Rücken    
+563      |a Gemäss Lindt wohl von Hans Leman gebunden (Initialen "hl"), ca. 1510-1520    
+563      |a Mit schwarzer Tinte, rot unterstrichen auf dem Buchrücken von pars 1/3: "p[ri]ma ps et tertza[!] pars sume sa[ncti] tho[me]"; auf dem Rücken von pars 2,1/2,2: "p[ri]ma se[cun]de et s[e]c[un]da s[e]c[un]de sa[cnti] thome"; mit roter Tinte jeweils die Thorberger Signaturen "D XXIX" und "D XXXI"    
+563      |a Vorsätze: Jeweils vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: Band 1: 32 x 23 x 7.4 cm; Band 2: 31.2 x 22.6 x 8.5 cm    
+563      |a Zustand Einbände: Schäden am Einbandleder, Schädlingsfrass, Loch mit Rostspuren von vormaliger Ankettung am Rückdeckel, Vorsätze im Falz mit Japanpapierstreifen stabilisiert    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: Pars 1: 194 von 194 Blättern, pars 2,1: 188 von 188 Blättern, pars 2,2: 274 von 274 Blättern, pars 3: 176 von 176 Blättern; Papierfälze jeweils zwischen erster und zweiter sowie vorletzter und letzter Lage der beiden Bände gehören zur Vorsatzkonstruktion, Pergamentverstärkung (Makulatur) an erster und letzter Lage aussen an den Heftstationen bzw. teilweise ursprünglich flächig (Pergamentverstärkung an erster Lage von pars 1 fehlt); rot ausgezeichnete Initialen, Rubrizierung; Blattweiser aus Leder    
+590      |a Zustand Buchblock: Blattweiser zum Teil ausgebrochen; Band 1: durchgehend Schädlingsfrass    
+590      |a Unvollständiges Exemplar pars 2,1: Blätter p₃ und p₄ unbedruckt (anders als in den Exemplaren der BSB München und der FB Gotha! Fehler in einzelnen Exemplaren?)    
+590      |a Historische Signaturen, pars 1/3: auf dem Rücken Thorberger Signatur: "D XXIX"; auf vorderem Spiegel: "Theol. 111."; auf fliegendem Blatt: "Inc. 62" auf der Titelseite von pars 1: "Theol. No. 102."    
+590      |a Historische Signaturen, pars 2,1/2,2: auf dem Rücken Thorberger Signatur: "D XXXI"; auf vorderem Spiegel: "Theol. 112."; auf der Titelseite von pars 2,1: "Theol. No. 103."    
+590      |a Frühere Signatur: Inc 62    
+700 0 2  |a Thomas    |c von Aquin, Heiliger    |d 1225-1274    |t Summa theologiae    |0 (DE-588)4250666-9    
+700 1    |a Koberger, Anton    |d 1440-1513    |0 (DE-588)118563890    |e Drucker    |4 prt    
+700 1    |a Leman, Hans    |d ca. 1480-1558    |0 (DE-588)1116441802    |e Buchbinder    |4 bnd    
+710 2    |a Kloster Thorberg    |0 (DE-588)7725716-9    |e Früherer Eigentümer    |4 fmo    
+751      |a Nürnberg    |0 (DE-588)4042742-0    
+852 4    |b B404    |c 404U3    |j MUE Inc III 50    |9 (41SLSP_UBE)99116903215205511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |h MUE Inc III 50 : 2    |q pars 2,1 und 2,2    |p 12    |j MUE Inc III 50    |b B404    |9 (41SLSP_UBE)99116903215205511    
+949      |c 404U3    |h MUE Inc III 50 : 1    |q pars 1 und 3    |p 12    |j MUE Inc III 50    |b B404    |9 (41SLSP_UBE)99116903215205511    
+986      |a (41SLSP_UBE)99116903215205511    |9 (41SLSP_UBE)99116903215205511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116903215205511    
+991      |a AAK: 890997    |5 IZ UBE/06.10.2017/B404/vha    |9 LOCAL    |9 (41SLSP_UBE)99116903215205511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

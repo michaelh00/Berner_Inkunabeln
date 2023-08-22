@@ -1,0 +1,134 @@
+﻿<-1-1-START->
+Cassianus, Johannes
+<-1-1-STOP->
+
+<-1-2-START->
+De institutis coenobiorum et de octo principalium vitiorum remediis; Conlationes patrum
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Basel: [Johann Amerbach], 1485
+<-3-1-STOP->
+
+<-4-1-START->
+415 ungezählte Seiten: 1 Illustration; 31 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_C-165.html<-L-5-STOP-><-VI-5-START->BSB-Ink C-165<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/GW06160.htm<-L-5-STOP-><-VI-5-START->GW 06160<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ic00233000<-L-5-STOP-><-VI-5-START->ISTC ic00233000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+208 von 208 Blättern, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert) mit braunem Sprenkelpapier
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116897916605511<-L-11-STOP-><-VI-11-START->MUE Inc II 45<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991124260829705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Cassianus, Johannes<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Amerbach, Johannes<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991124260829705501<-DOI-STOP->
+<-SIGN-START->MUE Inc II 45<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04400nam a2200577 c 4500
+001 991124260829705501
+005 20211221160602.0
+008 200610s1485    sz |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/11.06.2020/B404/vha    
+019      |a AAK: 155042    |5 IDSBB/11.06.2020/B404/vha    
+035      |a (swissbib)076238350-41slsp_network    
+035      |a 076238350    |9 ExL    
+035      |a (IDSBB)007196903DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991124260829705501    
+035      |a (41SLSP_UBE)99116897916605511    |9 (41SLSP_UBE)99116897916605511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Cassianus, Johannes    |d 360-435    |0 (DE-588)118712489    |e Verfasser    |4 aut    
+240 1 0  |a De institutis coenobiorum et de octo principalium vitiorum remediis    
+245 1 0  |a Cassianus de Institutis cenobiorum    |b ; [de] Origi[n]e causis et remedijs vitiorum ; [de] Collationib[us] patrum    
+246 1 0  |a De institutis cenobiorum    
+246 1    |i Titel in normalisierter Form    |a Cassianus de institutis cenobiorum, de Origine causis et remediis vitiorum, de collationibus patrum    
+246 1    |i Incipit    |a Incipit prefatio beati Johannis heremite qui Cassianus dicitur in duodecim libros de institutis cenobiorum et de octo principalium vicio[rum] remedijs    
+246 1    |i Kolophon    |a Expliciunt vigintiquattuor collationes sanctorum patru[m]    
+246 1 0  |a Vigintiquattuor collationes sanctorum patrum    
+246 1 0  |a De institutis cenobiorum et de octo principalium viciorum remediis    
+246 1    |i Titel gemäss GW und ISTC    |a De institutis coenobiorum    
+264   1  |a Impresse Basilee    |b [Johann Amerbach]    |c Anno domini. Mcccc.lxxxv. [1485]    
+300      |a 415 ungezählte Seiten    |b 1 Illustration    |c 31 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Signaturformel: []¹⁰, A-B⁸, C⁶D⁸–E⁶F⁸, G⁸; a-b⁸, c–e⁶, f⁸, g⁶, h-i⁸, k⁶, l⁸, m⁶, n–t⁸, v⁶    
+500      |a Blatt v₆ verso unbedruckt    
+500      |a Holzschnitt-Illustration auf Blatt b₅ recto    
+510 4    |a BSB-Ink    |c C-165    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_C-165.html    
+510 4    |a GW    |c 06160    |u https://www.gesamtkatalogderwiegendrucke.de/docs/GW06160.htm    
+510 4    |a ISTC    |c ic00233000    |u http://data.cerl.org/istc/ic00233000    
+530      |a Digitalisat (Exemplar der Universitätsbibliothek Basel)    |u https://www.e-rara.ch/id/4812207    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert) mit braunem Sprenkelpapier, Titelschild in Goldprägung ("Cassianus") sowie Linien-Blindprägung am Rücken; unter dem Titelschild in Tinte: "1485.", darunter: "Basil"    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 30.6 x 22.6 x 4.0 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, oberes Häubchen angerissen, Japanpapierüberklebung in den Fälzen beider Vorsätze    
+590      |a Buchblockbeschreibung: 208 von 208 Blättern, Papierfalz nach der ersten und vor der letzten Lage gehört zur Vorsatzkonstruktion, Papierfalz zwischen Blättern []₉ verso und []₁₀ recto gehört zur Falzverstärkung des Doppelblattes; rot ausgezeichnete Initialen (ausser eine auf Blatt B₆ verso), Rubrizierung    
+590      |a Zustand Buchblock: Papierüberklebungen an Blättern []₁ und v₆ verso, Schädlingsfrass durchgehend und stärker an den ersten und letzten Blättern, auffällige Verbräunung mit Anlösung des roten Farbmediums der Rubrizierung an Blättern a₄ und a₅    
+590      |a Sehr wenige, kurze Annotationen und Anstreichungen (zum Beispiel Blätter a₈ verso, d₁ recto, n₂ recto) und Handweiser (g₅ und g₆ recto, i₆ recto)    
+590      |a Historische Signatur auf der Titelseite: "Theol. No. 97."    
+590      |a Frühere Signatur: Inc 340    
+700 1 2  |a Cassianus, Johannes    |d 360-435    |t De institutis coenobiorum et de octo principalium vitiorum remediis    |0 (DE-588)4488202-6    
+700 1 2  |a Cassianus, Johannes    |d 360-435    |t Conlationes patrum    |0 (DE-588)4448383-1    
+700 1    |a Amerbach, Johannes    |d 1440-1513    |0 (DE-588)123073189    |e Drucker    |4 prt    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc II 45    |9 (41SLSP_UBE)99116897916605511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc II 45    |b B404    |9 (41SLSP_UBE)99116897916605511    
+986      |a (41SLSP_UBE)99116897916605511    |9 (41SLSP_UBE)99116897916605511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116897916605511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

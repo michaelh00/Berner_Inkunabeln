@@ -1,0 +1,136 @@
+﻿<-1-1-START->
+Sallustius Crispus, Gaius
+<-1-1-STOP->
+
+<-1-2-START->
+De coniuratione Catilinae; De bello Iugurthino
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Gedicht von Erhard Windsberger und Widmungsbrief an Guilelmus Francus herausgegeben von Philippus Beroaldus<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Paris: Ulrich Gering, [nicht nach 1478]
+<-3-1-STOP->
+
+<-4-1-START->
+184 ungezählte Seiten; 21 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_S-29.html<-L-5-STOP-><-VI-5-START->BSB-Ink S-29<-VI-5-STOP->; <-L-5-START->http://gesamtkatalogderwiegendrucke.de/docs/M39651.htm<-L-5-STOP-><-VI-5-START->GW M39651<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/is00065000<-L-5-STOP-><-VI-5-START->ISTC is00065000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+91 von 92 Blättern, erste Initiale in Tinte ausgezeichnet
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun gesprenkelt, Schaf, 18. Jahrhundert), Linien-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: In Catilinam / Marcus Tullius Cicero. - [Paris: Ulrich Gering, nicht nach 1478]
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Blatt l₈ (unbedruckt) fehlt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116708381305511<-L-11-STOP-><-VI-11-START->MUE Inc IV 28 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991014310449705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Sallustius Crispus, Gaius<-P-STOP->
+<-P-START->Beroaldo, Filippo<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Paris<-O-STOP->
+<-P-START->Gering, Ulrich<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991014310449705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 28 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03460nam a2200553 c 4500
+001 991014310449705501
+005 20211215163705.0
+008 160916s1478    fr |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/16.09.2016/B404/az    
+035      |a (swissbib)070648786-41slsp_network    
+035      |a 070648786    |9 ExL    
+035      |a (IDSBB)006621914DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991014310449705501    
+035      |a (41SLSP_UBE)99116708381305511    |9 (41SLSP_UBE)99116708381305511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Sallustius Crispus, Gaius    |d v86-v34    |0 (DE-588)118605097    |e Verfasser    |4 aut    
+245 1 0  |a [De coniuratione Catilinae]    |b ; [De bello Iugurthino]    
+246 1    |i Incipit des erstes Werkes    |a Caii Crispi Salustii de Lucii Catiline coniuratione liber feliciter incipit    
+246 1    |i Incipit des zweites Werkes    |a Caii Crispi Salustii de bello Iugurthe co[n]tra populum Ro. liber feliciter incipit    
+246 1    |i Titel gemäss ISTC    |a Opera    
+264   1  |a [Paris]    |b [Ulrich Gering]    |c [nicht nach 1478]    
+300      |a 184 ungezählte Seiten    |c 21 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Gedicht von Erhard Windsberger und Widmungsbrief an Guilelmus Francus herausgegeben von Philippus Beroaldus    
+500      |a Explicit: C. Cripi Salustii de bello Iugurthino liber feliciter finit    
+500      |a Drucker und Druckort gemäss Kolophon: Impressusq[ue] Parisius p[er] magistrum Vdalricu[m] cognomento Gering.    
+500      |a Druckjahr gemäss BSB-Ink, GW und ISTC    
+500      |a Signaturformel: a-b¹⁰, c-l⁸    
+500      |a Blatt l₇₋₈ unbedruckt    
+510 4    |a BSB-Ink    |c S-29    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_S-29.html    
+510 4    |a GW    |c M39651    |u http://gesamtkatalogderwiegendrucke.de/docs/M39651.htm    
+510 4    |a ISTC    |c is00065000    |u http://data.cerl.org/istc/is00065000    
+530      |a Digitalisat (Exemplar der Staatsbibliothek Berlin)    |u http://resolver.staatsbibliothek-berlin.de/SBB0001DA0600000000    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun gesprenkelt, Schaf, 18. Jh.), Linien-Blindprägung auf beiden Deckeln, Linien-Goldprägung sowie Titelschild in Goldprägung auf dem Rücken    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 20.5 x 15 x 3 cm    
+563      |a Zustand Einband: Vorsätze im Falz verstärkt, Beschädigungen am Einbandleder    
+590      |a Buchblockbeschreibung: 91 von 92 Blättern, vorgesehene Stellen für Initialen frei gelassen, mit Ausnahme der ersten    
+590      |a Zahlreiche handschrifliche Annotationen und Unterstreichungen in Tinte    
+590      |a Bindefehler: Blatt a₁ (Widmungsbrief an Guilelmus Francus von Philippus Beroaldus) ist an das Ende gebunden    
+590      |a Unvollständiges Exemplar: Blatt l₈ (unbedruckt) fehlt    
+590      |a Zusammengebunden mit: In Catilinam orationes / Cicero. - Paris : Ulrich Gering, nicht nach 1478    
+700 1 2  |a Sallustius Crispus, Gaius    |d v86-v34    |t De coniuratione Catilinae    |0 (DE-588)4194817-8    
+700 1 2  |a Sallustius Crispus, Gaius    |d v86-v34    |t De bello Iugurthino    |0 (DE-588)4194816-6    
+700 1    |a Beroaldo, Filippo    |d 1453-1505    |0 (DE-588)118656589    |e Herausgeber    |4 edt    
+700 1    |a Gering, Ulrich    |d 1455-1510    |0 (DE-588)13325366X    |e Drucker    |4 prt    
+751      |a Paris    |0 (DE-588)4044660-8    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 28 : 1    |9 (41SLSP_UBE)99116708381305511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit einem weiteren Werk    |p 12    |j MUE Inc IV 28 : 1    |b B404    |9 (41SLSP_UBE)99116708381305511    
+986      |a (41SLSP_UBE)99116708381305511    |9 (41SLSP_UBE)99116708381305511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116708381305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

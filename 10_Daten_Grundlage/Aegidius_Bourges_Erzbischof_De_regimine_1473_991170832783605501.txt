@@ -1,0 +1,130 @@
+﻿<-1-1-START->
+Ägidius (Erzbischof von Bourges)
+<-1-1-STOP->
+
+<-1-2-START->
+De regimine principum
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Augsburg]: [Günther Zainer], 27.06.1473
+<-3-1-STOP->
+
+<-4-1-START->
+257 ungezählte Seiten; 42 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_A-40.html<-L-5-STOP-><-VI-5-START->BSB-Ink A-40<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/GW07217.htm<-L-5-STOP-><-VI-5-START->GW 07217<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/ia00087000<-L-5-STOP-><-VI-5-START->ISTC ia00087000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+129 von 129 Blättern, grün und gold kolorierte Schmuckinitialen auf den Blättern [a₁] und [a₅] recto, sonst meist rot ausgezeichnete, mit dünnem Strich umrandete Initialen; Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln, mit Schliessen, sowie Kettenöse und erhaltener Kette am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung an beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Kloster Voitsberg
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99117241670805511<-L-11-STOP-><-VI-11-START->MUE GDC Gut 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991170832783605501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Ägidius (Erzbischof von Bourges)<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Augsburg<-O-STOP->
+<-P-START->Günther Zainer<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Kloster Voitsberg<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991170832783605501<-DOI-STOP->
+<-SIGN-START->MUE GDC Gut 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03946nam a2200493 c 4500
+001 991170832783605501
+005 20220113103017.0
+008 211217s1473    gw ||||      |00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 UBE/B404/20210112/vha    
+035      |a (EXLNZ-41SLSP_NETWORK)991170832783605501    
+035      |a (41SLSP_UBE)99117241670805511    |9 (41SLSP_UBE)99117241670805511    
+040      |a CH-ZuSLS UBE    |b ger    |e rda    
+082 7 4  |a 320    |2 23sdnb    
+100 1    |a Ägidius    |c Bourges, Erzbischof    |d 1243-1316    |4 aut    |0 (DE-588)118500805    
+240 1 0  |a De regimine principum    
+245 1 0  |a Egidii romani. Libri numero tres de regimine principum. Arte quidem impressoria exarati finiunt feliciter    
+246 1 0  |a Libri numero tres de regimine principum. Arte quidem impressoria exarati finiunt feliciter    
+246 1    |i Textbeginn    |a Prologus in librum de Regimine principum    
+264   1  |a [Augsburg]    |b [Günther Zainer]    |c Anno a partu virginis salutifero. Millesimoquadringentesimoseptuagesimotercio. Vicesimaseptima menis Iunii: [27.06.1473]    
+300      |a 257 ungezählte Seiten    |c 42 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Titel gemäss Kolophon    
+500      |a Druckort und Drucker gemäss BSB-Ink, GW und ISTC, Druckdatum gemäss Kolophon    
+500      |a Signaturformel:  [a¹², b–g¹⁰, h⁸, i-k¹⁰, l¹⁰-¹, m-n¹⁰]    
+500      |a Blatt [a₄] verso und letztes Blatt [n₁₀] verso unbedruckt    
+510 4    |a BSB-Ink    |c A-40    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_A-40.html    
+510 4    |a GW    |c 07217    |u https://www.gesamtkatalogderwiegendrucke.de/docs/GW07217.htm    
+510 4    |a ISTC    |c ia00087000    |u https://data.cerl.org/istc/ia00087000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u https://www.digitale-sammlungen.de/de/view/bsb00040647?page=5    
+561      |a Depositum der Gesellschaft der Freunde des Gutenbergmuseums    
+561      |a Handschriftlicher Besitzvermerk auf dem ersten Blatt [a₁] recto: "Carmeli Voitspergensis"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln, mit Schliessen, sowie Kettenöse und erhaltener Kette (sechs Glieder) am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung an beiden Deckeln    
+563      |a Vorsätze: Vorne und hinten ohne fliegende Blätter    
+563      |a Masse: 41.8 x 29.4 x 5.0 cm    
+563      |a Zustand Einband: Leder teilweise abgerieben, fleckig und zerkratzt, am Rücken Teile abgerissen, Schliessenriemen fehlen    
+590      |a Buchblockbeschreibung: 129 von 129 Blättern, handschriftliche Lagensignatur (gemäss GW) in Graphit, jeweils auf erstem Blatt jeder Lage rechts unten; Pergamentverstärkung in den Lagenmitten; grün und gold kolorierte Schmuckinitialen auf den Blättern [a₁] und [a₅] recto, sonst rot ausgezeichnete, meist mit dünnem Strich schwarz umrandete Initialen (auf Blatt [n₅] verso grün, auf Blatt [n₈] recto bräunlich-orange mit roter Verzierung, auf den Blättern [n₈] und [n₉] verso nur mit schwarzem Stift ausgezeichnet); Rubrizierung (ausser auf den letzten Blättern [n₈] verso bis [n₁₀])    
+590      |a Zustand Buchblock: Lage [a] hängt nur noch an zwei Fäden am Buchblock, Blatt [a₁] recto stark gebräunt    
+590      |a Auf Blatt [a₁] recto oben ein grosses "A" in schwarzer Tinte, unten kunstvoll mit roter Tinte gestaltete Initialen (JGA?) mit der Zahl "92" in einer Schleife    
+700 0 2  |a Ägidius    |c Bourges, Erzbischof    |d 1243-1316    |t De regimine principum    |0 (DE-588)4194669-8    
+700 1    |a Günther    |c Zainer    |d 1430-1478    |4 prt    |0 (DE-588)118636111    
+710 2    |a Kloster Voitsberg    |4 fmo    |0 (DE-588)1249360722    
+710 2    |a Gesellschaft der Freunde des Gutenbergmuseums    |4 own    |0 (DE-588)2137933-6  $    
+751      |a Augsburg    |0 (DE-588)4003614-5    
+852 4    |b B404    |c 404U3    |j MUE GDC Gut 1    |9 (41SLSP_UBE)99117241670805511    
+900      |a IDSIxunikat    
+949      |c 404U3    |z Depositum der Gesellschaft der Freunde des Gutenbergmuseums    |p 12    |j MUE GDC Gut 1    |b B404    |9 (41SLSP_UBE)99117241670805511    
+986      |a (41SLSP_UBE)99117241670805511    |9 (41SLSP_UBE)99117241670805511    
+990      |a be-ink2    |9 local    |9 (41SLSP_UBE)99117241670805511    
+990      |a HB404N2201    |9 local    |9 (41SLSP_UBE)99117241670805511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

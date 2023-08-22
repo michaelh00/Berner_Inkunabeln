@@ -1,0 +1,140 @@
+﻿<-1-1-START->
+Iuvencus, Gaius Vettius Aquilinus
+<-1-1-STOP->
+
+<-1-2-START->
+Evangeliorum libri quattuor
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Anmerkungen zum Autor aus Werken von Sophronius Eusebius Hieronymus, Johannes Trithemius, Baptista Mantuanus und Francesco Petrarca und einem Epigramm "ad lectorem" von Hermann von dem Busche<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Köln: Cornelis de Zierikzee, um 1500]
+<-3-1-STOP->
+
+<-4-1-START->
+128 ungezählte Seiten; 22 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_I-697.html<-L-5-STOP-><-VI-5-START->BSB-Ink I-697<-VI-5-STOP->; <-L-5-START->http://gesamtkatalogderwiegendrucke.de/docs/M15913.htm<-L-5-STOP-><-VI-5-START->GW M15913<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ij00675000<-L-5-STOP-><-VI-5-START->ISTC ij00675000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+64 von 64 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Holzdeckeln (braun, Schaf) mit mittiger Schliesse und Spuren einer Kettenöse am oberen Rand des Rückdeckels, Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 3 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116779969305511<-L-11-STOP-><-VI-11-START->MUE Inc IV 41 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991099807619705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Iuvencus, Gaius Vettius Aquilinus<-P-STOP->
+<-P-START->Hieronymus, Sophronius Eusebius<-P-STOP->
+<-P-START->Trithemius, Johannes<-P-STOP->
+<-P-START->Baptista Mantuanus<-P-STOP->
+<-P-START->Petrarca, Francesco<-P-STOP->
+<-P-START->Busche, Hermann von dem<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Köln<-O-STOP->
+<-P-START->Cornelis de Zierikzee<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991099807619705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 41 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03755nam a2200565 c 4500
+001 991099807619705501
+005 20211215185055.0
+008 800611s1500    gw            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/28.07.2014/B400/vha    
+035      |a (swissbib)067447473-41slsp_network    
+035      |a 067447473    |9 ExL    
+035      |a (IDSBB)006278639DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991099807619705501    
+035      |a (41SLSP_UBE)99116779969305511    |9 (41SLSP_UBE)99116779969305511    
+040      |a ISTC    |e rda    |d CH-ZuSLS    
+100 1    |a Iuvencus, Gaius Vettius Aquilinus    |d ca. 4. Jh.    |0 (DE-588)118932438    |e Verfasser    |4 aut    
+240 1 0  |a Evangeliorum libri quattuor    
+245 1 0  |a Iuue[n]cus presbiter immensam eua[n]gelice legis maiestate[m] heroicis versibus [con]cludens    
+246 1    |i Titel gemäss BSB-Ink und GW    |a Evangeliorum libri    
+246 1    |i Titel gemäss ISTC    |a Historia evangelica heroicis versibus conscripta    
+246 1    |i Titel in normalisierter Form (Textbeginn Blatt A₁)    |a Iuvencus Presbiter immensam evangelice legis maiestatem heroicis versibus concludens    
+264   1  |a [Köln]    |b [Cornelis de Zierikzee]    |c [circa 1500]    
+300      |a 128 ungezählte Seiten    |c 22 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Anmerkungen zum Autor aus Werken von Sophronius Eusebius Hieronymus, Johannes Trithemius, Baptista Mantuanus und Francesco Petrarca und einem Epigramm ad lectorem von Hermann von dem Busche    
+500      |a Impressum gemäss BSB-Ink, GW und ISTC    
+500      |a Signaturformel: A–H⁸·⁴,I-K⁶,L⁴    
+500      |a Blatt L₄ ist unbedruckt    
+510 4    |a BSB-Ink    |c I-697    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_I-697.html    
+510 4    |a GW    |c M15913    |u http://gesamtkatalogderwiegendrucke.de/docs/M15913.htm    
+510 4    |a ISTC    |c ij00675000    |u http://data.cerl.org/istc/ij00675000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0003/bsb00039688/images/index.html    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Holzdeckeln (braun, Schaf) mit mittiger Schliesse und Spuren einer Kettenöse am oberen Rand des Rückdeckels, Ornamentstempel- Blindprägung auf beiden Deckeln    
+563      |a Vorsätze: vorne 1 und hinten 3 fliegende Blätter    
+563      |a Masse Einband: 21.2 x 14.8 x 4.6 cm    
+563      |a Zustand Einband: Loch mit Rostspuren am Rückdeckel von vormaliger Ankettung, Lederüberklebungen am Rücken, Einbandleder nachgefärbt und gefettet    
+563      |a Detaillierte Beschreibung im Inkunabel-Einbandkatalog (Lindt/Mülinen)    
+590      |a Buchblockbeschreibung: 64 von 64 Blättern; keine Rubrizierung, vorgesehene Stellen für Initialen freigelassen    
+590      |a Zusammengebunden mit 3 weiteren Drucken in Sammelband    
+590      |a Historische Signatur auf vorderem Spiegel: "A 14"    
+700 1 2  |a Iuvencus, Gaius Vettius Aquilinus    |d ca. 4. Jh.    |t Evangeliorum libri quattuor    |0 (DE-588)4358751-3    
+700 1    |a Busche, Hermann <<von dem>>    |d 1468-1534    |0 (DE-588)118983741    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Petrarca, Francesco    |d 1304-1374    |0 (DE-588)118593234    |e Verfasser von ergänzendem Text    |4 wst    
+700 0    |a Baptista    |c Mantuanus    |d 1447-1516    |0 (DE-588)118615858    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Trithemius, Johannes    |d 1462-1516    |0 (DE-588)118642960    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Hieronymus, Sophronius Eusebius    |d 345-420    |0 (DE-588)118550853    |e Verfasser von ergänzendem Text    |4 wst    
+700 0    |a Cornelis    |c de Zierikzee    |0 (DE-588)137834020    |e Drucker    |4 prt    
+751      |a Köln    |0 (DE-588)4031483-2    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 41 : 2    |9 (41SLSP_UBE)99116779969305511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit weiteren Werken    |p 12    |j MUE Inc IV 41 : 2    |b B404    |9 (41SLSP_UBE)99116779969305511    
+986      |a (41SLSP_UBE)99116779969305511    |9 (41SLSP_UBE)99116779969305511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116779969305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,141 @@
+﻿<-1-1-START->
+Gregor I. (Papst)
+<-1-1-STOP->
+
+<-1-2-START->
+Moralia in Job
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Brief Gregors an Leander von Sevilla<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Basel: Berthold Ruppel, nicht nach 1473]
+<-3-1-STOP->
+
+<-4-1-START->
+841 ungezählte Seiten; 42 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_G-314.html<-L-5-STOP-><-VI-5-START->BSB-Ink G-314<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW11430.htm<-L-5-STOP-><-VI-5-START->GW 11430<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ig00427200<-L-5-STOP-><-VI-5-START->ISTC ig00427200<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+421 von 421 Blättern, rot und blau ausgezeichnete Initialen sowie 38 mehrfarbige Zierinitialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun) mit Schliessen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Kloster Wiblingen; Johann von Geyso; Schweizerische Gutenbergstube (Bern)
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99117231831805511<-L-11-STOP-><-VI-11-START->MUE GDC Gut 3<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991170836879605501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Gregor I. (Papst)<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Ruppel, Berthold<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Geyso, Johann von<-P-STOP->
+<-P-START->Kloster Wiblingen<-P-STOP->
+<-P-START->Schweizerische Gutenbergstube (Bern)<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991170836879605501<-DOI-STOP->
+<-SIGN-START->MUE GDC Gut 3<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04110nam a2200589 c 4500
+001 991170836879605501
+005 20230207114615.0
+008 211223s1473    sz ||||      |00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 UBE/B404/20211223/faf    
+035      |a (EXLNZ-41SLSP_NETWORK)991170836879605501    
+035      |a (41SLSP_UBE)99117231831805511    |9 (41SLSP_UBE)99117231831805511    
+040      |a CH-ZuSLS UBE    |b ger    |e rda    
+082 7 4  |a 230    |2 23sdnb    
+100 0    |a Gregor    |b I.    |c Papst    |d 542-604    |0 (DE-588)118541838    |e Verfasser    |4 aut    
+245 1 0  |a [Moralia in Job]    
+246 1    |i Explicit (Register)    |a Explicit registru[m] moraliu[m] gregorij pape    
+246 1    |i Incipit    |a [B]eatus gregorius papa libru[m] beati iob petente sancto Lea[n]dro spalense episcopo exponit sicut in prologo moralium patenter videri potest    
+246 1    |i Titel gemäss BSB-Ink    |a Moralia sive expositio in Iob    
+246 1    |i Titel gemäss ISTC    |a Moralia, sive Expositio in Job    
+264   1  |a [Basel]    |b [Berthold Ruppel]    |c [nicht nach 1473]    
+300      |a 841 ungezählte Seiten    |c 42 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Vorwort, Brief Gregors an Leander von Sevilla und Register    
+500      |a Keine Titelseite, Titel gemäss GND    
+500      |a Impressum gemäss GW    
+500      |a Zur Datierung: In der UB Frankfurt am Main ein Exemplar mit Rubrikatorenvermerk von 1473; frühere Rubrikatorenvermerke in anderen Exemplaren sind gefälscht    
+500      |a Signaturformel: [a–i¹⁰, k¹², l–t¹⁰, v¹², x-z¹⁰, A–E¹⁰, F–H⁸, I–S¹⁰, T¹³]    
+500      |a Blatt [a₁] recto ist unbedruckt    
+510 4    |a BSB-Ink    |c G-314    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_G-314.html    
+510 4    |a GW    |c 11430    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW11430.htm    
+510 4    |a ISTC    |c ig00427200    |u http://data.cerl.org/istc/ig00427200    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/0008/bsb00081729/images    
+561      |a Depositum der Gesellschaft der Freunde des Gutenbergmuseums; Exlibris auf vorderem Spiegel: "Schweiz. Gutenbergstube Bern"; handschriftlicher Besitzvermerk auf Blatt a₁ recto: "S Martini Monasterij Wibling. [...?] 1631 R.D.C. Ioan Geyso"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun) mit Schliessen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, leeres Titelschild aus Papier auf dem Rücken    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt (Makulatur)    
+563      |a Masse Einband: 41.4 x 29.9 x 12.9 cm    
+563      |a Zustand Einband: Fehlstellen am Einbandleder, Schliessen fehlen    
+590      |a Buchblockbeschreibung: 421 von 421 Blättern, Pergamentverstärkung (Makulatur) in den Lagenmitten, rot und blau ausgezeichnete Initialen sowie 38 mehrfarbige Zierinitialen, Rubrizierung (rote und blaue Paragraphenzeichen), handschriftliche Kolumnentitel (Buchzählung, Kapitelzählung des Buchs Hiob) in Rot und in Tinte, handschriftliche Kapiteltitel in Rot oder Blau und in Tinte im Text    
+590      |a Zustand Buchblock: Wasserschaden in den ersten Lagen, Fehlstellen und Überklebungen an den Blättern a₁ und T₁₃    
+590      |a Handschriftliche Annotationen und Unterstreichungen in Tinte    
+590      |a Nicht mehr erkennbares Wappen auf Blatt a₂ recto    
+590      |a Historische Signatur auf Blatt a₁ recto: "No: 110"    
+590      |a Dublette: Inc I 15    
+700 1    |a Ruppel, Berthold    |d -1494    |0 (DE-588)129066265    |e Drucker    |4 prt    
+700 1    |a Geyso, Johann <<von>>    |d 1593-1661    |4 fmo    |0 (DE-588)13648073X    
+700 0 2  |a Gregor    |b I.    |c Papst    |d 542-604    |t Moralia in Job    |0 (DE-588)4230993-1    
+710 2    |a Kloster Wiblingen    |4 fmo    |0 (DE-588)4313535-3    
+710 2    |a Schweizerische Gutenbergstube    |g Bern    |4 fmo    |0 (DE-588)80293-1    
+710 2    |a Gesellschaft der Freunde des Gutenbergmuseums    |4 own    |0 (DE-588)2137933-6    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE GDC Gut 3    |9 (41SLSP_UBE)99117231831805511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Depositum der Gesellschaft der Freunde des Gutenbergmuseums    |p 12    |j MUE GDC Gut 3    |b B404    |9 (41SLSP_UBE)99117231831805511    
+986      |a (41SLSP_UBE)99117231831805511    |9 (41SLSP_UBE)99117231831805511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99117231831805511    
+990      |n HB404N2112    |9 local    |9 (41SLSP_UBE)99117231831805511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

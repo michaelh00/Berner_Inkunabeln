@@ -1,0 +1,158 @@
+﻿<-1-1-START->
+Plautus, Titus Maccius
+<-1-1-STOP->
+
+<-1-2-START->
+Comoediae
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Wendelin von Speyer für Johann von Köln, 1472
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 6 ungezählte Seiten, 2 ungezählte Blätter, 478 ungezählte Seiten, 2 ungezählte Blätter; 35 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M34001.htm<-L-5-STOP-><-VI-5-START->GW M34001<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/ip00779000<-L-5-STOP-><-VI-5-START->ISTC ip00779000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+246 von 247 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Pergamenteinband auf Kartondeckeln (17./18. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Johannes Rinck; Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Letztes, unbedrucktes Blatt fehlt    
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116838268905511<-L-11-STOP-><-VI-11-START->MUE Bong VI 255<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991154598589705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Plautus, Titus Maccius<-P-STOP->
+<-P-START->Georgius Merula<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Johann von Köln<-P-STOP->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Wendelin von Speyer<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Rinck, Johannes<-P-STOP->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991154598589705501<-DOI-STOP->
+<-SIGN-START->MUE Bong VI 255<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05483nam a2200733 c 4500
+001 991154598589705501
+005 20211215193242.0
+007 cr#|||||||||||
+008 100720s1472    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/20.07.2010    
+024 7    |a 10.3931/e-rara-91704    |2 doi    
+035      |a (swissbib)061575070-41slsp_network    
+035      |a 061575070    |9 ExL    
+035      |a (IDSBB)005280769DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991154598589705501    
+035      |a (41SLSP_UBE)99116838268905511    |9 (41SLSP_UBE)99116838268905511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Plautus, Titus Maccius    |d v254-v184    |0 (DE-588)118594974    |e Verfasser    |4 aut    
+240 1 0  |a Comoediae    
+245 1 0  |a Plautinę uiginti Comoedię    |c linguę Latinę delicię: magna ex parte emendatę per Georgium Alexandrinum: de cuius eruditione et diligentia indicent legentes    
+246 1    |i Titel in normalisierter Form    |a Plautine viginti comoedie    
+246 1 0  |a Viginti comoedie    
+246 1    |i Titel in moderner Orthographie    |a Plautinae viginti comoediae    
+246 1 0  |a Viginti comoediae    
+264   1  |a Venetiis    |b Impressę fuere opera & impendio Ioannis de Colonia Agripinensi: atq[ue] Vindelini de Spiri    |c M.CCCC.LXXII. ... [1472]    
+300      |a 1 ungezähltes Blatt, 6 ungezählte Seiten, 2 ungezählte Blätter, 478 ungezählte Seiten, 2 ungezählte Blätter    |c 35 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+337      |b c    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+338      |b cr    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss Kolophon (Blatt [B₈] verso)    
+500      |a Impressum gemäss Kolophon; Reihenfolge der Vorlage: "... Impressę fuere opera & impendio Ioannis de Colonia Agripinensi: atq[ue] Vindelini de Spiri. Venetiis. M.CCCC.LXXII. Nicolao Throno Principe iucundissimo & Duce foelicissimo."    
+500      |a Blätter [a₂] recto: Widmungsbrief von Georgius Merula an Jacobus Zenus, Bischof von Padua ("Reuerendissimo ... Iacobo Zeno Pontifici Patauino Georgius Alexandrinus Salutem plurima[m] dicit")    
+500      |a Blätter [a₃] verso: "De uita Comoediisq[ue] Plauti excerpta quęda[m] ex Auctoribus grauissimis"    
+500      |a Blatt [a₄] verso: Inhaltsverzeichnis    
+500      |a Signaturformel: [a⁶, b–r¹⁰, s¹², t¹⁰, u⁸, x-y¹⁰, z¹⁰+¹, A-B¹⁰]    
+500      |a Die Blätter [a₁], [a₅], [a₆], [B₉] und [B₁₀] sind unbedruckt    
+510 4    |a GW    |c M34001    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M34001.htm    
+510 4    |a ISTC    |c ip00779000    |u https://data.cerl.org/istc/ip00779000    
+561      |a Sammlung Bongars    
+561      |a Handschriftlicher Besitzvermerk in Tinte auf Blatt [a₁]: "Ad lectorem liber - Ille me Ioannes cui dant cognomina Rincki Iurisconsultus iure bono sibi habet"    
+563      |a Einbandbeschreibung: Ganzbezogener Pergamenteinband auf Kartondeckeln (17./18. Jahrhundert), Reste eines Titels in Tinte am oberen Rand des Rückens (unleserlich)    
+563      |a Vorsätze: vorne und hinten mit zwei fliegenden Blättern    
+563      |a Masse Einband: 35.0 x 25.6 x 7.1 cm    
+563      |a Zustand Einband: Flächen und Kanten massiv abgeschabt, Japanpapier-Überklebung in den Fälzen beider Vorsätze, beide Spiegel vollflächig mit Japanpapier überklebt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 246 von 247 Blättern, Pergamentfalz nach erster Lage und vor letzter Lage gehört zur Vorsatzkonstruktion, handschriftliche Lagensignatur in Tinte (in der Regel auf den ersten 5 Blättern jeder Lage unten rechts), vorgesehene Stellen für Initialen frei gelassen, keine Rubrizierung    
+590      |a Zustand Buchblock: Zahlreiche Verfleckungen und Feuchtigkeitsränder, Blatt B₁ (letzte Lage) als Einzelblatt vorgeklebt, Papier- und Japanpapier-Überklebungen an erstem und letztem Blatt    
+590      |a Blatt [B₁₀] (letztes Blatt, unbedruckt) fehlt    
+590      |a Signaturformel der handschriftlichen Lagensignatur: a⁶, b–r¹⁰, s¹², t¹⁰, u⁸, x¹⁰, aa¹⁰, bb¹⁰+¹, cc-dd¹⁰    
+590      |a Handschriftliche Annotationen in Tinte auf den Lagen [b], [c] und [o] (von Rinck?); auf unterem Schnitt handschriftlich in Tinte: "Plautus"    
+590      |a Historische Signatur auf Blatt [a₂] recto: "Lit. B. 33."    
+590      |a Frühere Signaturen: Inc III 13; Inc 168; Hortin XIIX 1    
+700 1 2  |a Plautus, Titus Maccius    |d v254-v184    |t Comoediae    |0 (DE-588)4219963-3    
+700 0    |a Georgius    |c Merula    |d 1430-1494    |0 (DE-588)100942415    |e Herausgeber    |4 edt    
+700 1    |a Zenus, Jacobus    |d 1417-1481    |0 (DE-588)118040006    |e Widmungsempfänger    |4 dte    
+700 0    |a Johann    |c von Köln    |d 14XX-1480    |0 (DE-588)129032921    |e Verlag    |e Buchhändler    |4 pbl    |4 bsl    
+700 0    |a Wendelin    |c von Speyer    |d 14XX-1477    |0 (DE-588)129071226    |e Drucker    |4 prt    
+700 1    |a Rinck, Johannes    |d 1458-1516    |0 (DE-588)129064629    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Bong VI 255    |9 (41SLSP_UBE)99116838268905511    
+856 4    |u https://doi.org/10.3931/e-rara-91704    |z Digitalisat in e-rara    
+900      |a IDSIxunikat    
+900      |a IDSIxhybrid-el    
+900      |a NOMERGEALEX    
+949      |i ZB Inc III 13    |c 404U3    |p 12    |j MUE Bong VI 255    |b B404    |9 (41SLSP_UBE)99116838268905511    
+986      |a (41SLSP_UBE)99116838268905511    |9 (41SLSP_UBE)99116838268905511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116838268905511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116838268905511    
+990      |f erarabe    |9 local    |9 (41SLSP_UBE)99116838268905511    
+990      |f lza-cc0    |9 local    |9 (41SLSP_UBE)99116838268905511    
+991      |a Bongars: 11250    |5 IZ UBE/B400/20.07.2010    |9 local    |9 (41SLSP_UBE)99116838268905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

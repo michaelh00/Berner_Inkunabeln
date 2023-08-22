@@ -1,0 +1,139 @@
+﻿<-1-1-START->
+Angelus de Ubaldis
+<-1-1-STOP->
+
+<-1-2-START->
+Lectura Authenticorum
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Giovanni und Gregorio de Gregori, 15.03.1485
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 89 ungezählte Seiten: Druckermarke; 43 cm (2 °)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_U-8.html<-L-5-STOP-><-VI-5-START->BSB-Ink U-8<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M48375.htm<-L-5-STOP-><-VI-5-START->GW M48375<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/iu00000700<-L-5-STOP-><-VI-5-START->ISTC iu00000700<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+22 von 46 Blättern, rot und blau ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Papiereinband
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Friedrich Ludwig Keller
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Die Lagen a-c fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99117231229405511<-L-11-STOP-><-VI-11-START->MUE GDC Gut 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991170836287005501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Angelus de Ubaldis<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Gregori, Giovanni de<-P-STOP->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Gregori, Gregorio de<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Keller, Friedrich Ludwig<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991170836287005501<-DOI-STOP->
+<-SIGN-START->MUE GDC Gut 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03429nam a2200565 c 4500
+001 991170836287005501
+005 20211229113253.0
+008 211222s1485    it ||||      |00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 UBE/B404/20211222/faf    
+035      |a (EXLNZ-41SLSP_NETWORK)991170836287005501    
+035      |a (41SLSP_UBE)99117231229405511    |9 (41SLSP_UBE)99117231229405511    
+040      |a CH-ZuSLS UBE    |b ger    |e rda    
+082 7 4  |a 340    |2 23sdnb    
+100 1    |a Angelus    |c de Ubaldis    |d 1327-1407    |4 aut    |0 (DE-588)100936482    
+240 1 0  |a Lectura Authenticorum    
+245 1 0  |a Lectura ac opus Auctentico[rum] prestantissimi doctoris iuris vtriusq[ue] d[omi]ni Angeli de vbaldis de perusio    
+246 1    |i Titel in normalisierter Form    |a Lectura ac opus auctenticorum prestantissimi doctoris iuris utriusque domini Angeli de Ubaldis de Perusio    
+246 1    |i Incipit    |a Opus ac lectura auctentico[rum] prestantissimi doctoris d[omi]ni Angeli de vbaldis de Perusio iuris Cesarei ac Romani interpretis optimi ... incipit feliciter    
+246 1    |i Titel gemäss GW    |a Lectura de authenticis    
+246 1    |i Titel gemäss ISTC    |a Super Authenticis    
+264   1  |a Venetijs i[m]pressa    |b p[er] Johanne[m] de forliuio [et] Gregorium fratres    |c Anno domini .Mcccc.Lxxxv. die .15. Martij [15.03.1485]    
+300      |a 1 ungezähltes Blatt, 89 ungezählte Seiten    |c 43 cm (2 °)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss Kolophon    
+500      |a Impressum gemäss Kolophon    
+500      |a Druckermarke am Ende    
+500      |a Signaturformel: a-e⁸, f⁶    
+500      |a Blatt a₁ ist unbedruckt    
+510 4    |a BSB-Ink    |c U-8    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_U-8.html    
+510 4    |a GW    |c M48375    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M48375.htm    
+510 4    |a ISTC    |c iu00000700    |u https://data.cerl.org/istc/iu00000700    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u https://daten.digitale-sammlungen.de/0005/bsb00057798/images    
+561      |a Depositum der Gesellschaft der Freunde des Gutenbergmuseums; Stempel auf Blatt d₁ recto: "F.L. Keller J.U.D." (Friedrich Ludwig Keller, Wegmann 4000)    
+563      |a Einbandbeschreibung: Papiereinband    
+563      |a Vorsätze: Vorne und hinten ohne fliegende Blätter    
+563      |a Masse Einband: 42.9 x 29.1 x 0.8 cm    
+590      |a Buchblockbeschreibung: 22 von 46 Blättern, rot und blau ausgezeichnete Initialen, Rubrizierung (rote und blaue Paragraphenzeichen)    
+590      |a Zustand Buchblock: Starke Wasserschäden, Fehlstellen an den Rändern    
+590      |a Unvollständiges Exemplar: Die Lagen a-c fehlen    
+590      |a Handschriftliche Annotationen in Tinte auf Blatt e₃ verso    
+590      |a Historische Signatur auf Blatt d₁ recto: "J 133"; auf hinterem Spiegel: "211"    
+700 1    |a Gregori, Giovanni <<de>>    |d ca. 15./16. Jh.    |4 prt    |0 (DE-588)129998311    
+700 1    |a Gregori, Gregorio <<de>>    |d ca. 15./16. Jh.    |4 prt    |0 (DE-588)120750678    
+700 1    |a Keller, Friedrich Ludwig    |d 1799-1860    |0 (DE-588)100177085    |4 fmo    
+700 1    |a Angelus    |c de Ubaldis    |d 1327-1407    |t Lectura Authenticorum    |0 (DE-588)1248266773    
+710 1    |a De Gregori, Giovanni & De Gregori, Gregorio    |4 prt    |0 (DE-588)1050734394    
+710 2    |a Gesellschaft der Freunde des Gutenbergmuseums    |4 own    |0 (DE-588)2137933-6    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE GDC Gut 2    |9 (41SLSP_UBE)99117231229405511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Depositum der Gesellschaft der Freunde des Gutenbergmuseums    |p 12    |j MUE GDC Gut 2    |b B404    |9 (41SLSP_UBE)99117231229405511    
+986      |a (41SLSP_UBE)99117231229405511    |9 (41SLSP_UBE)99117231229405511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99117231229405511    
+990      |n HB404N2112    |9 local    |9 (41SLSP_UBE)99117231229405511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

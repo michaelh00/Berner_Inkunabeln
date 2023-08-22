@@ -1,0 +1,161 @@
+﻿<-1-1-START->
+Appianus
+<-1-1-STOP->
+
+<-1-2-START->
+Historia Romana
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Enthält in Band [1]: Prooemium, Libyca, Syriaca, Parthica (Pseudo-Appianus), Mithridatica; in Band [2]: De civilibus Romanorum bellis (5 Bücher), Illyrica, Celticorum epitomen<-500-STOP->
+<-500-START->Aus dem Griechischen ins Lateinische übersetzt<-500-STOP->
+<-500-START->Mit Widmungsvorrede des Übersetzers Pier Candido Decembrio, in Band [1] an Papst Nikolaus V., in Band [2] an Alfons II. von Aragon, König von Neapel<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Bernhard Maler, Erhard Ratdolt und Peter Löslein, 1477
+<-3-1-STOP->
+
+<-4-1-START->
+2 Bände: Holzschnittinitialen; 28 cm (4°)
+<-500-START->Band [1]: 1 ungezähltes Blatt, 261 ungezählte Seiten; Band [2]: 1 ungezähltes Blatt, 421 ungezählte Seiten<-500-STOP->
+<-500-START->Holzschnitt-Randleisten, jeweils auf der ersten bedruckten Seite beider Bände; in vorliegender Variante Band [1] in Schwarzdruck, Band [2] in Rotdruck<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-651.html<-L-5-STOP-><-VI-5-START->BSB-Ink A-651<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW02290.htm<-L-5-STOP-><-VI-5-START->GW 2290<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ia00928000<-L-5-STOP-><-VI-5-START->ISTC ia00928000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+Band [1]: 131 von 132 Blättern, Band [2]: 211 von 212 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogene Ledereinbände auf Kartondeckeln (rot, Ziege, 18./19. Jahrhundert), an beiden Bänden Ornamentrollen-Goldprägung an den Steh- und Innenkanten beider Deckel, Linien-Goldprägung an beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Werner Zesiger
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116863563305511<-L-11-STOP-><-VI-11-START->MUE Zesk 22<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991038372379705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Appianus<-P-STOP->
+<-P-START->Decembrio, Pier Candido<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Maler, Bernhard<-P-STOP->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Ratdolt, Erhard<-P-STOP->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Peter Löslein<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Zesiger, Werner<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991038372379705501<-DOI-STOP->
+<-SIGN-START->MUE Zesk 22<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06412nam a2200745 ca4500
+001 991038372379705501
+005 20211215171453.0
+008 950704s1477    it ||||| |||| 00| ||lat d
+019      |a Altbestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von Signaturen.    |5 IDSBB/11.03.1995/bestub/mes    
+035      |a (swissbib)027871959-41slsp_network    
+035      |a 027871959    |9 ExL    
+035      |a (IDSBB)001124584DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991038372379705501    
+035      |a (41SLSP_UBE)99116863563305511    |9 (41SLSP_UBE)99116863563305511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a lat    |h grc    
+072   7  |a ag    |2 SzZuIDS BS/BE    
+082 1 4  |a 930    |2 15    
+100 0    |a Appianus    |d 95-162    |0 (DE-588)118649892    |e Verfasser    |4 aut    
+240 1 0  |a Historia Romana    
+245 1 0  |a Appiani sophist[a]e Alexandrini Roman[a]e histori[a]e proœmium fœliciter incipit    |c Traductio. P. Candidi.    
+246 1    |i Titel in normalisierter Form    |a Appiani sophistae Alexandrini Romanae historiae prooemium foeliciter incipit    
+246 1 0  |a Romanae historiae prooemium foeliciter incipit    
+246 1 3  |a Romana historia    
+264   1  |a Impressum est hoc opus Venetijs    |b per Bernardu[m] pictorem & Erhardum ratdolt de Augusta una cum Petro loslein de Langencen correctore ac socio    |c .M.CCCC.LXXVII. [1477]    
+300      |a 2 Bände (1 ungezähltes Blatt, 261 ungezählte Seiten; 1 ungezähltes Blatt, 421 ungezählte Seiten)    |c 28 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Titel gemäss Incipit    
+500      |a Enthält in Band [1] ab Blatt a₃ recto: Prooemium; Blatt a₇ recto: Libyca; Blatt e₉ verso: Syriaca; Blatt h₃ recto: Parthica (Pseudo-Appianus); Blatt k₁ recto: Mithridatica; in Band [2] ab Blatt a₄ recto: De civilibus Romanorum bellis (5 Bücher); Blatt x₁ recto: Illyrica; Blatt x₉ recto: Celticorum epitomen    
+500      |a Aus dem Griechischen ins Lateinische übersetzt    
+500      |a Angabe des Übersetzers jeweils am Ende der enthaltenen Bücher    
+500      |a Mit Widmungsvorredes des Übersetzers Pier Candido Decembrio, in Band [1] an Papst Nikolaus V., in Band [2] an Alfons II. von Aragon, König von Neapel    
+500      |a Impressum gemäss den Kolophonen in beiden Bänden (Band [1], Blatt o₁₀ recto; Band [2], Blatt x₁₀ recto)    
+500      |a Signaturformel Band [1]: a–i¹⁰, k–n⁸, o¹⁰; Band [2]: a–c¹⁰, d¹², e–x¹⁰    
+500      |a Blatt a₁ in beiden Bänden unbedruckt; Blatt o₁₀ verso (letzte Seite) in Band [1] und Blatt x₁₀ verso (letzte Seite) in Band [2] unbedruckt    
+500      |a Blatt c₂ recto in Band [1] unbedruckt (dazu gedruckte Marginalie auf Blatt c₁ verso, mit Hinweis auf ein fehlendes Blatt, wohl schon in der handschriftlichen Vorlage; vergleiche Anmerkung 3 im GW)    
+500      |a Holzschnittinitialen    
+500      |a Holzschnitt-Randleisten auf Blättern a₂ recto (jeweils die erste bedruckte Seite beider Bände) können sowohl schwarz, als auch rot gedruckt sein; in vorliegender Variante Band [1] in Schwarzdruck, Band [2] in Rotdruck    
+510 4    |a BSB-Ink    |c A-651    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-651.html    
+510 4    |a GW    |c 2290    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW02290.htm    
+510 4    |a ISTC    |c ia00928000    |u http://data.cerl.org/istc/ia00928000    
+530      |a Digitalisat Band 1 (Exemplar der Bayerischen Staatsbibliothek München; Randleiste Blatt a₂ in Rotdruck)    |u http://daten.digitale-sammlungen.de/bsb00045740/image_7    
+530      |a Digitalisat Band 2 (Exemplar der Bayerischen Staatsbibliothek München; Randleiste Blatt a₂ in Rotdruck)    |u http://daten.digitale-sammlungen.de/bsb00045741/image_3    
+561      |a Stempel in beiden Bänden auf den vorderen fliegende Blättern, verso: "Dr. Zesiger"    
+563      |a Einbandbeschreibung: Ganzbezogene Ledereinbände auf Kartondeckeln (rot, Ziege, 18./19. Jh.), an beiden Bänden Ornamentrollen-Goldprägung an den Steh- und Innenkanten beider Deckel, Linien-Goldprägung an beiden Deckeln, Linien- und Ornamentstempel-Goldprägung auf dem Rücken, jeweils drei Titel- und Bandschildchen in Goldprägung am Rücken mit Titel: "Appiani Historia Romana", Bandangaben: "Tom. II." bzw. "Tom. I." (Bandnummern vertauscht!) und Impressum: "Venetiis Ratdolt 1477"    
+563      |a Vorsätze: vorne und hinten mit zwei fliegenden Blättern (teilweise Marmorpapier, Franzbandtechnik)    
+563      |a Masse, Band 1: 27.5 x 20.3 x 3.3 cm, Band 2: 27.7 x 20.8 x 4.4 cm    
+563      |a Zustand Einband, Band 1 und 2: Kratzer im Einbandleder, Schädlingsfrass am Rücken (an Band 2 auch am Rückdeckel), Schädlingsfrass in den Fälzen der Vorsätze, obere Häubchen teilweise abgerissen, mit dunklen Klebespuren einer vormaligen Selbstklebeband-Überklebung    
+590      |a Buchblockbeschreibung: Band [1]: 131 von 132 Blättern, Band [2]: 211 von 212 Blättern, keine Rubrizierung    
+590      |a Zustand Buchblock: Heftung in den vorderen Vorsätzen gerissen, Blätter unterschiedlich stark verbräunt (zum Beispiel Band 2 Lagen u und x)    
+590      |a Die unbedruckten Blätter a₁ fehlen in beiden Bänden    
+590      |a Historische Signatur auf vorderem fliegenden Blatt, verso, von Band [1]: "G IV 353 (1)", auf vorderem fliegenden Blatt, verso, von Band [2]: "G IV 353 (2)" (beide Male durchgestrichen)    
+700 0 2  |a Appianus    |d 95-162    |t Historia Romana    |0 (DE-588)4195821-4    
+700 1    |a Decembrio, Pier Candido    |d 1399-1477    |0 (DE-588)119105381    |e Übersetzer    |4 trl    
+700 1    |a Decembrio, Pier Candido    |d 1399-1477    |0 (DE-588)119105381    |e Verfasser eines Vorworts    |4 wpr    
+700 0    |a Nikolaus    |b V.    |c Papst    |d 1397-1455    |0 (DE-588)118734911    |e Widmungsempfänger    |4 dte    
+700 0    |a Alfons    |b II.    |c Neapel, König    |d 1448-1495    |0 (DE-588)12222518X    |e Widmungsempfänger    |4 dte    
+700 1    |a Maler, Bernhard    |d -1477    |0 (DE-588)120647656    |e Drucker    |4 prt    
+700 1    |a Ratdolt, Erhard    |d 1447-1527    |0 (DE-588)11878790X    |e Drucker    |4 prt    
+700 0    |a Peter    |c Löslein    |d -1487    |0 (DE-588)137953283    |e Drucker    |4 prt    
+700 1    |a Zesiger, Werner    |d 1902-1958    |0 (DE-588)121027392    |e Früherer Eigentümer    |4 fmo    
+730 0    |a Parthica    |0 (DE-588)1155265831    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Zesk 22    |9 (41SLSP_UBE)99116863563305511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |h MUE Zesk 22 : 2    |q Band [2]    |p 12    |j MUE Zesk 22    |b B404    |9 (41SLSP_UBE)99116863563305511    
+949      |c 404U3    |h MUE Zesk 22 : 1    |q Band [1]    |p 12    |j MUE Zesk 22    |b B404    |9 (41SLSP_UBE)99116863563305511    
+986      |a (41SLSP_UBE)99116863563305511    |9 (41SLSP_UBE)99116863563305511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116863563305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,129 @@
+﻿<-1-1-START->
+Eusebius Caesariensis
+<-1-1-STOP->
+
+<-1-2-START->
+Historia ecclesiastica
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Aus dem Griechischen ins Lateinische übersetzt von Rufinus Aquileiensis<-500-STOP->
+<-500-START->Der Hieronymus zugeschriebene Prolog stammt ebenfalls von Rufinus Aquileiensis<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Strassburg: Heinrich Eggestein, nicht nach 1475]
+<-3-1-STOP->
+
+<-4-1-START->
+258 ungezählte Seiten; 28 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_E-110.html<-L-5-STOP-><-VI-5-START->BSB-Ink E-110<-VI-5-STOP->; <-L-5-START->http://gesamtkatalogderwiegendrucke.de/docs/GW09435.htm<-L-5-STOP-><-VI-5-START->GW 9435<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ie00125000<-L-5-STOP-><-VI-5-START->ISTC ie00125000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+129 von 129 Blättern, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jahrhundert), Ornamentrollen-Blindpägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116751826805511<-L-11-STOP-><-VI-11-START->MUE Inc IV 20<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991146581669705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Eusebius Caesariensis<-P-STOP->
+<-P-START->Rufinus Aquileiensis<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Eggestein, Heinrich<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991146581669705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 20<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03139nam a2200481 c 4500
+001 991146581669705501
+005 20211215194107.0
+008 170411s1475    fr |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/11.04.2017/B404/az    
+035      |a (swissbib)073618322-41slsp_network    
+035      |a 073618322    |9 ExL    
+035      |a (IDSBB)006690516DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991146581669705501    
+035      |a (41SLSP_UBE)99116751826805511    |9 (41SLSP_UBE)99116751826805511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a lat    |h grc    
+100 0    |a Eusebius    |c Caesariensis    |d 260-339    |0 (DE-588)118531425    |e Verfasser    |4 aut    
+245 1 0  |a [Historia ecclesiastica]    
+246 1    |i Incipit (Blatt a₁)    |a Prologus. Beati Iheronymi presbiteri in historias. Ecclesiasticas. Divi. Eusebii. Caesariensis. Episcopi Incipit feliciter    
+264   1  |a [Strassburg]    |b [Heinrich Eggestein]    |c [nicht nach 1475]    
+300      |a 258 ungezählte Seiten    |c 28 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Übersetzt von Rufinus Aquileiensis    
+500      |a Keine Titelseite, Titel und Impressum gemäss GW    
+500      |a Signaturformel (gemäss GW): [a–g¹⁰, h⁷, i⁸, k–n¹⁰, o⁴]    
+500      |a Blatt 129 ist unbedruckt    
+510 4    |a BSB-Ink    |c E-110    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_E-110.html    
+510 4    |a GW    |c 9435    |u http://gesamtkatalogderwiegendrucke.de/docs/GW09435.htm    
+510 4    |a ISTC    |c ie00125000    |u http://data.cerl.org/istc/ie00125000    
+530      |a Digitalisat (Exemplar der Staatsbibliothek Bayern)    |u http://daten.digitale-sammlungen.de/0007/bsb00073092/images    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jahrhundert), Ornamentrollen-Blindpägung auf beiden Deckeln, Linien-Blindprägung sowie Titelschild mit Goldprägung auf dem Rücken (Rückentitel: "Euseby Hist. Eccles."); handschriftlich mit Tinte ergänzt: "1470? Argenti"    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 28 x 21 x 3.5 cm    
+563      |a Zustand Einband: Abrieb und Abspaltungen an der Lederoberfläche, teilweise zurückgeklebt    
+590      |a Buchblockbeschreibung: 129 von 129 Blättern, Falz an Blatt [h₅] verso von Lagenkonstruktion, rot ausgezeichnete Initialen, Rubrizierung, rot gesprenkelter Schnitt    
+590      |a Zustand Buchblock: Leder-Blattweiser und teilweise Pergamentverstärkung in Lagenmitten (Makulaturpergament) herausgelöst, Brüche im Papier an Stauchungen im Bundsteg sowie entlang der Wasserzeichen-Linien im letzten Drittel des Buchblocks    
+590      |a Historische Signatur auf vorderem Spiegel: "H. Eccl. 64 a"    
+700 0 2  |a Eusebius    |c Caesariensis    |d 260-339    |t Historia ecclesiastica    |0 (DE-588)4192312-1    
+700 0    |a Rufinus    |c Aquileiensis    |d 345-410    |0 (DE-588)118750313    |e Übersetzer    |4 trl    
+700 1    |a Eggestein, Heinrich    |d 1415-1488    |0 (DE-588)100965024    |e Drucker    |4 prt    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 20    |9 (41SLSP_UBE)99116751826805511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc IV 20    |b B404    |9 (41SLSP_UBE)99116751826805511    
+986      |a (41SLSP_UBE)99116751826805511    |9 (41SLSP_UBE)99116751826805511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116751826805511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

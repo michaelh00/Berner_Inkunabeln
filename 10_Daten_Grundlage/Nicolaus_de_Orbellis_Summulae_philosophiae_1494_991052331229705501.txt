@@ -1,0 +1,132 @@
+﻿<-1-1-START->
+Nicolaus de Orbellis
+<-1-1-STOP->
+
+<-1-2-START->
+Summulae philosophiae rationalis
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Basel: Michael Furter, 1494
+<-3-1-STOP->
+
+<-4-1-START->
+144 ungezählte Seiten: Druckermarke; 22 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_N-128.html<-L-5-STOP-><-VI-5-START->BSB-Ink N-128<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M28126.htm<-L-5-STOP-><-VI-5-START->GW M28126<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/io00077800<-L-5-STOP-><-VI-5-START->ISTC io00077800<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+77 von 77 Blättern, rot ausgezeichnete Initialen, Rubrizierung, Titel mit Streichungen und Ornamenten in Tinte eingerahmt
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit mittiger Schliesse, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Cursus librorum philosophiae naturalis secundum viam Scoti / Nicolaus de Orbellis. Basel: Michael Furter, 1494
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116681774905511<-L-11-STOP-><-VI-11-START->MUE Inc IV 32 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991052331229705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Nicolaus de Orbellis<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Furter, Michael<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991052331229705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 32 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03532nam a2200541 c 4500
+001 991052331229705501
+005 20211215171451.0
+008 160902s1494    sz |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/02.09.2016/B404/az    
+035      |a (swissbib)07019808X-41slsp_network    
+035      |a 07019808X    |9 ExL    
+035      |a (IDSBB)006618403DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991052331229705501    
+035      |a (41SLSP_UBE)99116681774905511    |9 (41SLSP_UBE)99116681774905511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Nicolaus    |c de Orbellis    |d 14XX-1472    |0 (DE-588)100956203    |e Verfasser    |4 aut    
+240 1 0  |a Summulae philosophiae rationalis    
+245 1 0  |a Su[m]mule philosophie rationalis, seu logica    |c excelle[n]tissimi artium et theologie p[ro]fessoris M[a]g[ist]ri Nicolai Dorbelli: s[e]c[un]d[u]m doctrina[m] doctoris subtil[is] Scoti    
+246 1 0  |a Logica    
+246 1    |i Incipit    |a Excelle[n]tissimi viri artium ac sacre theologie p[ro]fessoris eximij magistri Nicolai Dorbelli de Francia ordinis minoru[m] s[ecundu]m doctrina[m] doctoris subtil[is] Scoti: logice breuis: sed admodu[m] vtilis expositio incipit    
+246 1    |i Titel gemäss BSB-Ink    |a Expositio Logicae secundum doctrinam Scoti    
+246 1    |i Titel gemäss GW    |a Expositio logicae    
+264   1  |a Impressumq[ue] Basilee    |b Per Michaele[m] furter    |c Anno domini MCCCxciiij [1494]    
+300      |a 144 ungezählte Seiten    |c 22 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Impressum gemäss Kolophon    
+500      |a Mit Druckermarke (Blatt k₅ verso)    
+500      |a Letzes Blatt (k₆) leer    
+500      |a Signaturformel: a⁸, b⁶, c-g⁸, h-k⁶    
+510 4    |a BSB-Ink    |c N-128    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_N-128.html    
+510 4    |a GW    |c M28126    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M28126.htm    
+510 4    |a ISTC    |c io00077800    |u http://data.cerl.org/istc/io00077800    
+530      |a Digitalisat (Exemplar der Universitätsbibliothek Basel)    |u http://dx.doi.org/10.3931/e-rara-16607    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit mittiger Schliesse, Linien- und Ornamentstempel- Blindprägung auf beiden Deckeln    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 22.5 x 15.5 x 5.5 cm    
+563      |a Zustand Einband: Schädlingsfrass vor allem am Vorderdeckel mit Schnittspuren an den Frasslöchern, Lederüberklebungen am Rücken, Schliesse vollständig ergänzt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 77 von 77 Blättern, rot ausgezeichnete Initiale, Rubrizierung, Titel mit Streichungen und Ornamenten in Tinte eingerahmt    
+590      |a Zustand Buchblock: Frasslöcher zum Teil mit Textverlust, Feuchtigkeitsränder am Fussschnitt teilweise mit Fehlstellen durch Schädlingsfrass    
+590      |a Mehrere handschriftliche Annotationen in Tinte    
+590      |a Zusammengebunden mit: Cursus librorum philosophiae naturalis / Nicolaus de Orbellis. - Basel : Michael Furter, 1494    
+590      |a Historische Signatur auf vorderem fliegendem Vorsatzblatt: "Phil 79"    
+700 0 2  |a Nicolaus    |c de Orbellis    |d 14XX-1472    |t Summulae philosophiae rationalis    |0 (DE-588)1133522904    
+700 1    |a Furter, Michael    |d 14XX-1517    |0 (DE-588)102766193    |e Drucker    |4 prt    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 32 : 1    |9 (41SLSP_UBE)99116681774905511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit einem weiteren Werk    |p 12    |j MUE Inc IV 32 : 1    |b B404    |9 (41SLSP_UBE)99116681774905511    
+986      |a (41SLSP_UBE)99116681774905511    |9 (41SLSP_UBE)99116681774905511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116681774905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

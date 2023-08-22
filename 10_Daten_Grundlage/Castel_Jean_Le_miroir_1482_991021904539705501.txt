@@ -1,0 +1,134 @@
+﻿<-1-1-START->
+Castel, Jean
+<-1-1-STOP->
+
+<-1-2-START->
+Le miroir des pécheurs et des pécheresses
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Die Zusammenstellung enthält: Le spécule des pécheurs; L'exhortation des mondains; Le miroir des dames<-500-STOP->
+<-500-START->L'exhortation des mondains und Le miroir des dames wurden Jean Castel zugeschrieben, weil sie immer zusammen mit Le spécule des pécheurs in Handschriften und in Drucken des 15. Jahrhunderts erschienen sind (BnF)<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Paris: Antoine Caillaut, zwischen 1482 und 1483]
+<-3-1-STOP->
+
+<-4-1-START->
+60 ungezählte Seiten; 21 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW06169.htm<-L-5-STOP-><-VI-5-START->GW 6169<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ic00244000<-L-5-STOP-><-VI-5-START->ISTC ic00244000<-VI-5-STOP->; <-L-5-START->http://data.bnf.fr/12519504/jean_castel/#allmanifs<-L-5-STOP-><-VI-5-START->BnF<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+30 von 30 Blättern, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (grün, Velours)
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 5 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116778477905511<-L-11-STOP-><-VI-11-START->MUE Inc IV 54 : 4<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991021904539705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Castel, Jean<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Paris<-O-STOP->
+<-P-START->Caillaut, Antoine<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991021904539705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 54 : 4<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03957nam a2200541 c 4500
+001 991021904539705501
+005 20211215172659.0
+008 160503q14821483fr |||||      00| ||fre d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/03.05.2016/B404/az    
+035      |a (swissbib)072631066-41slsp_network    
+035      |a 072631066    |9 ExL    
+035      |a (IDSBB)006499638DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991021904539705501    
+035      |a (41SLSP_UBE)99116778477905511    |9 (41SLSP_UBE)99116778477905511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Castel, Jean    |d 14XX-1476    |0 (DE-588)1099343372    |e Verfasser    |4 aut    
+240 1 0  |a <<Le>> miroir des pécheurs et des pécheresses    
+245 1 0  |a [E]n ce present volume sont contenus troys liures. Le premier est no[m]me le specule des pecheurs. Le second liure est appelle lexortation des mondains tant gens deglise co[m]me seculiers. Le tiers liure se no[m]me lexemple des dames et damoiselles et de tout le sexe femenin    
+246 1    |i Incipit (Zusammenstellung, [A₁]) in normalisierter Form    |a En ce present volume sont contenus troys livres. Le premier est nomme le specule des pecheurs. Le second livre est appelle l'exortation des mondains tant gens d'eglise comme seculiers. Le tiers livre se nomme l'exemple des dames et damoiselles et de tout le sexe femenin    
+246 1    |i Incipit (1. Werk, A₂ verso)    |a [C]y co[m]mance le specule des pecheurs fait et compile ... par frere iehan de castel ... ta[n]t en latin com[m]e en francois mixtiōne en pluseurs lieux, etc    
+246 1    |i Incipit (2. Werk, D₁)    |a Sensuit le second liure nomme lexortation des mondains tant gens deglise que seculiers    
+246 1    |i Incipit (3. Werk, D₅ verso)    |a Cy censuit le mirouer de dames et damoiselles et lexemple de tout le sexe feminin    
+264   1  |a [Paris]    |b [Antoine Caillaut]    |c [zwischen 1482 und 1483]    
+300      |a 60 ungezählte Seiten    |c 21 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss Incipit der Zusammenstellung    
+500      |a Verfasser am Anfang des ersten Werks genannt: Iehan de Castel    
+500      |a Die begefügten Werke "Exhortation des mondains" und "Miroir des dames" wurden ohne Nachweis Jean Castel zugeschrieben, weil sie immer zusammen mit "Spécule des pécheurs" sowohl in Handschriften als auch in Drucken des 15. Jh. erschienen sind (BnF)    
+500      |a Impressum gemäss GW und ISTC    
+500      |a Signaturformel: A-B⁸,C⁶,D⁸    
+510 4    |a GW    |c 6169    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW06169.htm    
+510 4    |a ISTC    |c ic00244000    |u http://data.cerl.org/istc/ic00244000    
+510 4    |a BnF    |u http://data.bnf.fr/12519504/jean_castel/#allmanifs    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (grün, Velours)    
+563      |a Vorsätze: vorne 2 und hinten drei fliegende Blätter    
+563      |a Masse Einband: 21.2 x 14.7 x 4.6 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, Fehlstellen mit Gewebe unterlegt, Deckel und Vorsätze ergänzt, Verschlussbänder fehlend    
+590      |a Buchblockbeschreibung: 30 von 30 Blättern, rot ausgezeichnete Initialen; Rubrizierung    
+590      |a Zusammengebunden mit 5 weiteren Drucken in Sammelband    
+590      |a Historische Signatur auf vorderem fliegendem Vorsatzblatt: "Theol N° 414 403"    
+700 1 2  |a Castel, Jean    |d 14XX-1476    |t <<Le>> miroir des pécheurs et des pécheresses    |0 (DE-588)1144417104    
+700 1 2  |a Castel, Jean    |d 14XX-1476    |t <<Le>> spécule des pécheurs    |0 (DE-588)1145186637    
+700 1 2  |a Castel, Jean    |d 14XX-1476    |t <<L'>> exhortation des mondains    |0 (DE-588)1145185177    
+700 1 2  |a Castel, Jean    |d 14XX-1476    |t <<Le>> miroir des dames    |0 (DE-588)1145187927    
+700 1    |a Caillaut, Antoine    |d 14XX-1506    |0 (DE-588)128991100    |e Drucker    |4 prt    
+751      |a Paris    |0 (DE-588)4044660-8    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 54 : 4    |9 (41SLSP_UBE)99116778477905511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc IV 54 : 4    |b B404    |9 (41SLSP_UBE)99116778477905511    
+986      |a (41SLSP_UBE)99116778477905511    |9 (41SLSP_UBE)99116778477905511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116778477905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

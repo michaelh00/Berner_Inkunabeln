@@ -1,0 +1,142 @@
+﻿<-1-1-START->
+Presbyterbrief [lateinisch]
+<-1-1-STOP->
+
+<-1-2-START->
+. — De adventu patriarchae Indorum ad urbem sub Calisto papa secundo
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Fingierter Brief des legendären Priesterkönigs Johannes an den byzantinischen Kaiser Manuel I. Komnenos<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Straßburg: Drucker des Breviarium Ratisponense ("Georgius de Spira"), zwischen 1479 und 1482?]
+<-500-START->Früher Johann und Conrad Hist in Speyer zugeschrieben<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+15 ungezählte Seiten: Holzschnittinitiale und -bordüre; 22 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_I-595.html<-L-5-STOP-><-VI-5-START->BSB-Ink I-595<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M14514.htm<-L-5-STOP-><-VI-5-START->GW M14514<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ij00395000<-L-5-STOP-><-VI-5-START->ISTC ij00395000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+8 von 8 Blättern, Holzschnittinitiale rot koloriert, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (rot eingefärbt, Ziege), Verschlussbänder fehlend, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 5 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116735957605511<-L-11-STOP-><-VI-11-START->MUE Inc III 68 : 5<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991001737379705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Johannes Presbyter<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Drucker des Breviarium Ratisponense ("Georgius de Spira")<-P-STOP->
+<-O-START->Speyer<-O-STOP->
+<-P-START->Hist, Johann<-P-STOP->
+<-O-START->Speyer<-O-STOP->
+<-P-START->Hist, Conrad<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991001737379705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 68 : 5<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03965nam a2200589 c 4500
+001 991001737379705501
+005 20211215172415.0
+008 180705q14791482fr |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/05.07.2018/B404/faf    
+035      |a (swissbib)071057331-41slsp_network    
+035      |a 071057331    |9 ExL    
+035      |a (IDSBB)006810977DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991001737379705501    
+035      |a (41SLSP_UBE)99116735957605511    |9 (41SLSP_UBE)99116735957605511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+130 0    |a Presbyterbrief    |0 (DE-588)4616061-9    
+245 1 0  |a De Ritu [et] moribus Indorum    
+246 1    |i Explicit    |a Explicit de Joh[ann]e qui d[icitu]r presbiter Indie    
+246 1    |i Explicit in normalisierter Form    |a Explicit de Iohanne qui dicitur presbiter Indie    
+246 1    |i Titel gemäss BSB-Ink    |a Epistula ad Emanuelem de ritu et moribus Indorum    
+264   1  |a [Straßburg]    |b [Drucker des Breviarium Ratisponense ("Georgius de Spira")]    |c [1479-1482?]    
+300      |a 15 ungezählte Seiten    |c 22 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Fingierter Brief des legendären Priesterkönigs Johannes an den byzantinischen Kaiser Manuel I. Komnenos    
+500      |a Keine Titelseite, nur Kopftitel    
+500      |a Impressum gemäss BSB-Ink und ISTC; früher Johann und Conrad Hist in Speyer zugeschrieben    
+500      |a Holzschnittinitiale und -bordüre auf Blatt [a₁] verso    
+500      |a Signaturformel: [a⁸]    
+500      |a Blatt [a₁] recto ist unbedruckt    
+505 0 0  |t De aduentu jndo[rum] p[at]riarche ad vrbem    
+510 4    |a BSB-Ink    |c I-595    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_I-595.html    
+510 4    |a GW    |c M14514    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M14514.htm    
+510 4    |a ISTC    |c ij00395000    |u http://data.cerl.org/istc/ij00395000    
+530      |a Digitalisat (Exemplar der Universitäts- und Landesbibliothek Darmstadt)    |u http://tudigit.ulb.tu-darmstadt.de/show/inc-ii-319    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (rot eingefärbt, Ziege), Verschlussbänder fehlend, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, handschriftlich mit Tinte auf Vorderdeckel: "Michael Scotus, Secreta mulie[rum], Tractat[us] de [...?]"    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 22 x 15.6 x 4 cm    
+563      |a Zustand Einband: Schädlingsfrass an Vorsätzen und Deckeln, Verschlussbänder vollständig fehlend, starke Verfleckungen an beiden Deckeln, Brüche im Einbandleder am Rücken, Lederüberklebungen am Rücken und an den Ecken, hinterer Spiegel teilweise hochgelöst    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 8 von 8 Blättern, handschriftliche Lagensignaturen in Rot, Pergamentverstärkung in den Lagenmitten zum Teil auf einzelne Bundstationen beschränkt, Holzschnittinitiale rot koloriert, rot ausgezeichnete Initialen, Rubrizierung    
+590      |a Zusammengebunden mit 5 weiteren Drucken in Sammelband    
+590      |a Historische Signatur auf vorderem Spiegel: "Lit: 517."; auf Titelseite des ersten Drucks im Sammelband: "Liter. 26[?]", korrigiert zu "Phil 88"    
+590      |a Frühere Signatur: Inc 410    
+700 0    |a Johannes    |c Presbyter    |0 (DE-588)118557947    |e Verfasser    |4 aut    
+700 0    |a Drucker des Breviarium Ratisponense ("Georgius de Spira")    |0 (DE-588)107053515X    |e Drucker    |4 prt    
+700 1    |a Hist, Johann    |d ca. 15. Jh.    |0 (DE-588)129032077    |e Drucker    |4 prt    
+700 1    |a Hist, Conrad    |d 14XX-1531    |0 (DE-588)129032050    |e Drucker    |4 prt    
+730 0    |a De adventu patriarchae Indorum ad urbem sub Calisto papa secundo    |0 (DE-588)1162283661    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+751      |a Speyer    |0 (DE-588)4056179-3    
+852 4    |b B404    |c 404U3    |j MUE Inc III 68 : 5    |9 (41SLSP_UBE)99116735957605511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 5 weiteren Drucken in Sammelband    |p 12    |j MUE Inc III 68 : 5    |b B404    |9 (41SLSP_UBE)99116735957605511    
+986      |a (41SLSP_UBE)99116735957605511    |9 (41SLSP_UBE)99116735957605511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116735957605511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

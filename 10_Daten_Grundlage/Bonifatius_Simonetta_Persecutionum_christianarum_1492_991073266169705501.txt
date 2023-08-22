@@ -1,0 +1,143 @@
+﻿<-1-1-START->
+Bonifatius Simonetta
+<-1-1-STOP->
+
+<-1-2-START->
+Persecutionum christianarum historia
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Widmungsbrief des Herausgebers, Stefano Dolcini, an Johannes Baptista Ferrus, datiert 11.01.1492<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Mailand: Antonio Zarotto, 01.1492
+<-3-1-STOP->
+
+<-4-1-START->
+466 ungezählte Seiten; 37 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_S-405.html<-L-5-STOP-><-VI-5-START->BSB-Ink S-405<-VI-5-STOP->; <-L-5-START->http://gesamtkatalogderwiegendrucke.de/docs/M42270.htm<-L-5-STOP-><-VI-5-START->GW M42270<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/is00530000<-L-5-STOP-><-VI-5-START->ISTC is00530000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+234 von 234 Blättern, rot oder blau ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Pergamenteinband auf Kartondeckeln (17./18. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116868093405511<-L-11-STOP-><-VI-11-START->MUE Bong I 501<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991073266169705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Bonifatius Simonetta<-P-STOP->
+<-P-START->Dolcini, Stefano<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Mailand<-O-STOP->
+<-P-START->Zarotto, Antonio<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991073266169705501<-DOI-STOP->
+<-SIGN-START->MUE Bong I 501<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04620nam a2200613 c 4500
+001 991073266169705501
+005 20211215175428.0
+008 100801s1492    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/01.08.2010    
+035      |a (swissbib)062173308-41slsp_network    
+035      |a 062173308    |9 ExL    
+035      |a (IDSBB)005286060DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991073266169705501    
+035      |a (41SLSP_UBE)99116868093405511    |9 (41SLSP_UBE)99116868093405511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Bonifatius    |c Simonetta    |d 1430-1492    |0 (DE-588)1013876725    |e Verfasser    |4 aut    
+240 1 0  |a Persecutionum christianarum historia    
+245 1 0  |a Bonifacii Symonetæ doctoris: ac Monasterii Cornu Abbatis: in persecutionu[m] christianarum: historia[m] Po[n]tificumq[ue] come[n]tarios: ad optimu[m] maximum deum oratio    
+246 1    |i Titel in normalisierter Form    |a Bonifacii Symonetae doctoris ac monasterii Cornu abbatis in persecutionum Christianarum historiam pontificumque comentarios ad optimum maximum deum oratio    
+246 1 0  |a In persecutionum Christianarum historiam pontificumque comentarios ad optimum maximum deum oratio    
+246 1    |i Titel des letzten Buchs, über dem Kolophon    |a Bonifacii Symonetæ Cornu Abbatis dotoris: artiumq[ue] professoris persecutionum christianarum liber ...    
+246 1 0  |a Persecutionum Christianarum liber ...    
+246 1    |i Titel gemäss GW    |a De christianae fidei et romanorum pontificum persecutionibus    
+264   1  |a Hoc opus impræssum fuit in inclyta ciuitate Mediolani    |b p[er] ... Antoniu[m] Zarotum Parmensem    |c anno salutis christianæ M.cccc.lxxxxii. in mense Ianuarii ... [01.1492]    
+300      |a 466 ungezählte Seiten    |c 37 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss Überschrift auf Blatt a₂ recto    
+500      |a Herausgeber: Stefano Dolcini    
+500      |a Widmungsbrief von Stefano Dolcini an Johannes Baptista Ferrus auf Blatt a₁, datiert: "Mediolani tertio idus Ianuarias .M.cccclxxxxii." [11.01.1492]    
+500      |a Signaturformel: a–z⁸, &⁸, [con]⁸, [rum]⁸, A-B⁸, C¹⁰    
+500      |a Blatt C₁₀ unbedruckt    
+510 4    |a BSB-Ink    |c S-405    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_S-405.html    
+510 4    |a GW    |c M42270    |u http://gesamtkatalogderwiegendrucke.de/docs/M42270.htm    
+510 4    |a ISTC    |c is00530000    |u https://data.cerl.org/istc/is00530000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00069435/image_9    
+561      |a Handschriftlicher Besitzvermerk auf Blatt a₁ recto: "Bongars"    
+563      |a Einbandbeschreibung: Ganzbezogener Pergamenteinband auf Kartondeckeln (17./ 18. Jahrhundert), auf dem Rücken in Tinte (teilweise verblasst): "Bonif: Symonetæ Cornu Abbatis Persecutionum Christianarum lib. 6", darunter von anderer Hand(?): "1492 ... [?] Mediol:"    
+563      |a Vorsätze: Vorne mit zwei fliegenden Blättern, hinten mit einem    
+563      |a Masse Einband: 36.2 x 25.4 x 5.3 cm    
+563      |a Zustand Einband: Papierüberklebung am Rücken, beide Vorsätze im Falz mit dickem Japanpapier stabilisiert    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 234 von 234 Blättern, Pergamentfalz (Manuskriptmakulatur) zwischen vorderem fliegenden Blatt und Blatt a, sowie zwischen Blatt C₁₀ und hinterem fliegenden Blatt, gehört zur Vorsatzkonstruktion; rot oder blau ausgezeichnete Initialen, Rubrizierung (Grossbuchstaben gelb ausgezeichnet)    
+590      |a Zustand Buchblock: vereinzelt Schädlingsfrass und Abrieb an blauem Farbmittel    
+590      |a Handschriftliche Annotation von Bongars in Tinte auf Blatt a₁ recto    
+590      |a Historische Signatur auf vorderem Spiegel: "Hist: Eccles: 79.A."    
+590      |a Frühere Signaturen: Inc III 16; Inc 299; Hortin V 1    
+700 0 2  |a Bonifatius    |c Simonetta    |d 1430-1492    |t Persecutionum christianarum historia    |0 (DE-588)1161866515    
+700 1    |a Dolcini, Stefano    |d -1508    |0 (DE-588)104239085    |e Herausgeber    |4 edt    
+700 1    |a Ferrus, Johannes Baptista    |d ca. 15. Jh.    |0 (DE-588)129016292    |e Widmungsempfänger    |4 dte    
+700 1    |a Zarotto, Antonio    |0 (DE-588)133182452    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+751      |a Mailand    |0 (DE-588)4037100-1    
+852 4    |b B404    |c 404U3    |j MUE Bong I 501    |9 (41SLSP_UBE)99116868093405511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc III 16    |c 404U3    |p 12    |j MUE Bong I 501    |b B404    |9 (41SLSP_UBE)99116868093405511    
+986      |a (41SLSP_UBE)99116868093405511    |9 (41SLSP_UBE)99116868093405511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116868093405511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116868093405511    
+991      |a Bongars: 13075    |5 IZ UBE/B400/01.08.2010    |9 LOCAL    |9 (41SLSP_UBE)99116868093405511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

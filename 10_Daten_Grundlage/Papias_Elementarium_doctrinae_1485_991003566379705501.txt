@@ -1,0 +1,142 @@
+﻿<-1-1-START->
+Papias
+<-1-1-STOP->
+
+<-1-2-START->
+Elementarium doctrinae rudimentum
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Gedicht des Herausgebers Boninus Mombritius an den Leser<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Andrea Bonetti, 30.06.1485
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 424 ungezählte Seiten, 1 ungezähltes Blatt; 31 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_P-11.html<-L-5-STOP-><-VI-5-START->BSB-Ink P-11<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M29305.htm<-L-5-STOP-><-VI-5-START->GW M29305<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ip00078000<-L-5-STOP-><-VI-5-START->ISTC ip00078000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+214 von 214 Blättern, rot und blau ausgezeichnete Initialen, auf Blatt a₂ recto mit Blattgold ausgemalte mehrfarbige Initiale und gemalte Ranke, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun) mit Schliessen und Eck- sowie Mittelbeschlägen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116692991305511<-L-11-STOP-><-VI-11-START->MUE Bong IV 868<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991003566379705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Papias<-P-STOP->
+<-P-START->Mombritius, Boninus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Bonetti, Andrea<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991003566379705501<-DOI-STOP->
+<-SIGN-START->MUE Bong IV 868<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04475nam a2200601 c 4500
+001 991003566379705501
+005 20211215173451.0
+008 100714s1485    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/12.06.2019/B404/faf    
+035      |a (swissbib)061375314-41slsp_network    
+035      |a 061375314    |9 ExL    
+035      |a (IDSBB)005278926DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991003566379705501    
+035      |a (41SLSP_UBE)99116692991305511    |9 (41SLSP_UBE)99116692991305511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Papias    |d ca. 11. Jh.    |0 (DE-588)118739212    |e Verfasser    |4 aut    
+245 1 0  |a [Elementarium doctrinae rudimentum]    
+246 1    |i Incipit    |a Boninus Mombritius Lectori Sal. D.P    
+246 1    |i Incipit (Hauptwerk)    |a Papias Filiis Salvtem .D    
+246 1    |i Incipit in normalisierter Form    |a Papias filiis salutem d    
+246 1    |i Titel gemäss GW    |a Vocabularius    
+246 1    |i Titel gemäss ISTC    |a Vocabularium    
+264   1  |a Impressum Venetiis    |b per Andream de Bonetis de Papia    |c Anno domini Mcccclxxxv. Die ultimo Iunii. Ioanne mocenico inclyto Venetia[rum] principe regnante [30.06.1485]    
+300      |a 1 ungezähltes Blatt, 424 ungezählte Seiten, 1 ungezähltes Blatt    |c 31 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Gedicht des Herausgebers Boninus Mombritius an den Leser    
+500      |a Keine Titelseite, Titel gemäss GND    
+500      |a Impressum gemäss Kolophon    
+500      |a Signaturformel: a-m⁸, n¹⁰, o-z⁸, &⁸, [con]⁸, [rum]¹²    
+500      |a Blatt a₁ recto und Blatt [rum]₁₂ sind unbedruckt    
+510 4    |a BSB-Ink    |c P-11    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_P-11.html    
+510 4    |a GW    |c M29305    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M29305.htm    
+510 4    |a ISTC    |c ip00078000    |u http://data.cerl.org/istc/ip00078000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0005/bsb00058582/images    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun) mit Schliessen und Eck- sowie Mittelbeschlägen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln und dem Rücken, Titel in Goldprägung auf dem Rücken: "Papiæ Lomb Vocabular Ling: Lat.", handschriftlich ergänzt: "1485", darunter handschriftlich: "Venet"    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 30.6 x 22.8 x 6.2 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, Lederüberklebungen am Rücken, Schliessenriemen nachträglich bearbeitet (unterer Schliessenriemen ergänzt), Vernietung der Schliessenteile nachträglich bearbeitet, Pergamentspiegel hinten teilweise hochgelöst    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 214 von 214 Blättern, Pergamentverstärkung (Makulaturpergament) in den Lagenmitten, rot und blau ausgezeichnete Initialen, auf Blatt a₂ recto mit Blattgold ausgemalte mehrfarbige Initiale und gemalte Ranke, Rubrizierung (rote und blaue Paragraphenzeichen), Seiten regliert, Titel "papias vocabulari[us]" in Tintenschrift auf dem Kopfschnitt    
+590      |a Zustand Buchblock: Brüche und Craquelé in der Vergoldung der Initiale an Blatt a₂ recto    
+590      |a Auf Blatt [rum]₁₁ recto werden nach dem Kolophon 15 Zeilen aus beiden Spalten von Blatt [rum]₇ verso wiederholt (versehentlich eingefärbter Stützsatz?)    
+590      |a Einzelne handschriftliche Annotationen und Unterstreichungen in Tinte (Blatt i₈ recto und folgende)    
+590      |a Historische Signatur auf vorderem Spiegel: "Lit. 142", Zahl korrigiert zu "165."; auf Blatt a₂ recto: "Lit. 72."    
+590      |a Frühere Signaturen: Inc 178; Inc III 31; III 16    
+700 1    |a Mombritius, Boninus    |d 1424-1482    |0 (DE-588)118734644    |e Herausgeber    |e Verfasser von ergänzendem Text    |4 edt    |4 wst    
+700 1    |a Bonetti, Andrea    |d ca. 15. Jh.    |0 (DE-588)1037643682    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 0 2  |a Papias    |d ca. 11. Jh.    |t Elementarium doctrinae rudimentum    |0 (DE-588)1188359797    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Bong IV 868    |9 (41SLSP_UBE)99116692991305511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc III 31    |c 404U3    |p 12    |j MUE Bong IV 868    |b B404    |9 (41SLSP_UBE)99116692991305511    
+986      |a (41SLSP_UBE)99116692991305511    |9 (41SLSP_UBE)99116692991305511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116692991305511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116692991305511    
+991      |a Bongars: 10591    |5 IZ UBE/B400/14.07.2010    |9 LOCAL    |9 (41SLSP_UBE)99116692991305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

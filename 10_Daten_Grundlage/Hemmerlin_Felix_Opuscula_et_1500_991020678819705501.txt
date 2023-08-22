@@ -1,0 +1,179 @@
+﻿<-1-1-START->
+Hemmerlin, Felix
+<-1-1-STOP->
+
+<-1-2-START->
+Opuscula et tractatus. — Katholische Kirche, 1431-1447 : Eugen IV.: Piis votis fidelium
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Enthält 28 Werke von Felix Hemmerlin<-500-STOP->
+<-500-START->Mit Widmungsgedicht des Herausgebers, Sebastian Brant, an Hermann IV., Erzbischof von Köln<-500-STOP->
+<-500-START->Mit Bulle von Papst Eugen IV. (datiert 04.05.1431) zur Glosa bullarum per Beghardos impetratarum von Hemmerlin<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Strassburg: Johann Prüss, ca. 1500]
+<-500-START->Im ISTC Erscheinungsjahr "after 13 Aug. 1497"<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+4 ungezählte Seiten, CXXXII Blätter: 1 Illustration; 28 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_H-43.html<-L-5-STOP-><-VI-5-START->BSB-Ink H-43<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW12188.htm<-L-5-STOP-><-VI-5-START->GW 12188<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ih00016000<-L-5-STOP-><-VI-5-START->ISTC ih00016000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+134 von 134 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Kalb, 19. Jahrhundert) mit Linien-Goldprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Dieser Druck gehörte wohl nicht zur Bibliothek von Bongars, sondern wurde erst nach 1822 erworben und mit einem Druck aus der Sammlung Bongars zusammengebunden
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: De nobilitate et rusticitate / Felix Hemmerlin. [Strassburg: Johann Prüss, ca. 1500]
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116837511005511<-L-11-STOP-><-VI-11-START->MUE Bong IV 877 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991020678819705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Hemmerlin, Felix<-P-STOP->
+<-P-START->Brant, Sebastian<-P-STOP->
+<-P-START->Eugen IV. (Papst)<-P-STOP->
+<-P-START->Katholische Kirche, 1431-1447 : Eugen IV.<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Prüss, Johann<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991020678819705501<-DOI-STOP->
+<-SIGN-START->MUE Bong IV 877 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 10057nam a2200997 c 4500
+001 991020678819705501
+005 20221206171011.0
+008 170222s1500    fr |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/22.02.2017/B404/vha    
+035      |a (swissbib)071684204-41slsp_network    
+035      |a 071684204    |9 ExL    
+035      |a (IDSBB)006675937DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991020678819705501    
+035      |a (41SLSP_UBE)99116837511005511    |9 (41SLSP_UBE)99116837511005511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Hemmerlin, Felix    |d 1389-1458    |0 (DE-588)118773895    |e Verfasser    |4 aut    
+240 1 0  |a Opuscula et tractatus    
+245 1 0  |a Clarissimi viri Juriumq[ue] doctoris Felicis Hemmerlin cantoris quondam Thuricen[sis] varie oblectationis opuscula [et] tractatus    
+246 1 0  |a Variae oblectationis opuscula et tractatus    
+246 1 0  |a Varie oblectationis opuscula [et] tractatus    
+246 1    |i Titel in normierter Form    |a Clarissimi viri iuriumque doctoris Felicis Hemmerlin cantoris quondam Thuricensis variae oblectationis opuscula et tractatus    
+264   1  |a [Strassburg]    |b [Johann Prüss]    |c [ca. 1500]    
+300      |a 4 ungezählte Seiten, CXXXII Blätter    |b 1 Illustration    |c 28 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Auf der Rückseite der Titelseite: "Ad reuerendissimu[m] in christo patrem Jllustrissimumq[ue] dominu[m] Hermannu[m] Colonie Agrippine Archiantistite[m] Sacri Romani imperij principe[m] electorem ... Sebastiani brant: in libellos Felicis hemmerlin Coantoris Thuricen[sis] elegiacum Episodion" - Widmungsgedicht des Herausgebers, Sebastian Brant, an Hermann IV., Erzbischof von Köln    
+500      |a Enthält aussdem zur "Glosa bullarum per Beghardos impetratarum": "[E]Vgenius episcopus seru[us] seruoru[m] dei ... pijs votis fideliu[m] ..." - Bulle von Papst Eugenius IV., datiert 4. Mai 1431 (ab Blatt B₅ verso)    
+500      |a Impressum gemäss BSB-Ink, GW und ISTC (im ISTC Erscheinungsjahr "[after 13 Aug. 1497]")    
+500      |a Titel-Holzschnitt zwischen Titel und Gedicht zum Leben des Autors    
+500      |a Signaturformel: [*²], A-Y⁶    
+500      |a Blatt Y₆ verso (letzte Seite) unbedruckt    
+500      |a Blatt A₁ fälschlich als A₂, Blatt T₂ als S₂ bezeichnet    
+505 0 0  |g Tabula titulo[rum] [Blatt A₁ verso]    |t Contra validos mendicantes    |t Recapitulatio eiusdem    |t Contra Anachoritas Beghardos Baginasq[ue] siluestres    |t Lollhardorum descriptio    |t Glosa bullarum per Beghardos impetrata[rum]    |t De negocio monachorum    |t De plebanis et religiosis mendicantibus    |t De religiosis proprietarijs precepta d[omi]ni predicantib[us]    |t Tenor epistole de celis misse per patronos ecclesie Thuricen[sis] contra negligentes divinu[um] cultum    |t Tractatus de nouorum officiorum divino[rum] institutione    |t De oblatis [et] solutis pecunijs pro p[ro]benda seu beneficio in ecclesijs vel monasterijs percipiendo    |t Dyalogus doctoris Felicis he[m]merlin de anno iubileo    |t Recapitulatio de anno iubileo    |t De benedictionibus aure cum sacramento faciendis    |t Tractatus de exorcismis    |t Alius tractatus exorcismorum seu adiurationu[m]    |t De crudelitate demonibus exhibenda    |t De arbore torculari duceno in die festo    |t Tractatus de matrimonio    |t De furto reliquiarum [et] aliis rebus nuper in monasterio beate virginis loci heremita[rum] per tres p[er]sonas miraculose commisso [et] deducto: et finaliter reperto [et] recuperato    |t Epistola contra quendam superbum clericum    |t Forma appellationis contra cardinale[m] q[ui] in Germania vellet intrare ecclesiam cathedralem    |t De libertate ecclesiastica    |t De boni et mali occasione    |t De emptione et venditione vnius pro viginti    |t De contractibus qui obstagio dicuntur et vulgariter Gisel nuncupatur    |t Doctoratus in stulticia    |t Tenor littere doctoratus in stulticia    |t Contra iniquos iudices    |t Dyalogus de consolatione inique suppressorum    
+510 4    |a BSB-Ink    |c H-43    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_H-43.html    
+510 4    |a GW    |c 12188    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW12188.htm    
+510 4    |a ISTC    |c ih00016000    |u http://data.cerl.org/istc/ih00016000    
+530      |a Digitalisat (Exemplar der Johannes a Lasco Bibliothek, Emden)    |u http://hardenberg.jalb.de/display_page.php?elementId=2612    
+561      |a Exemplar (anders als der vorgebundene Druck im Sammelband) wohl nicht von Jacques Bongars (Titel nicht im Hortin-Katalog vermerkt); zu Beginn eingebunden ist ein handschriftlicher Brief eines ungenannten französischen Auktionshauses von 1822 an die bischöfliche Bibliothek der Domkirche St. Eberhard in Stuttgart, mit Stellungnahmen in französischer und deutscher Sprache zur Besonderheit des Exemplars    
+561      |a Datierung und Adressierung des Briefs: "Auctionis Lege Mens August: 1822. - Ad Bibliothecam Episcopi Evarien[sis]" (das war 1822 Johann Baptist Keller, Bischof von Rottenburg)    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Kalb, 19. Jahrhundert) mit Linien-Goldprägung auf beiden Deckeln und Ornament-Goldprägung sowie Titelschild in Goldprägung auf dem Rücken    
+563      |a Vorsätze: jeweils 2 fliegende Blätter mit Marmorpapier    
+563      |a Masse Einband: 28.0 x 20 x 4.8 cm    
+563      |a Zustand Einband: Streifenbildung am Einbandleder durch Behandlung mit wachshaltigem Fettungsmittel oder Eiweiss    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 134 von 134 Blättern, handschriftliches Blatt, zusammen mit Blatt [*₁] und [*₂] (Titel und Widmung) vor die Lage A geklebt; vorgesehene Stellen für Initialen freigelassen    
+590      |a Zustand Buchblock: Fehlstellenergänzung mit Büttenpapier an letzten Blättern    
+590      |a Annotationen sowie An-, Durch- und Unterstreichungen in Tinte (zum Teil beschnitten)    
+590      |a Zusammengebunden mit: De nobilitate et rusticitate / Felix Hemmerlin. [Strassburg] : [Johann Prüss], [ca. 1500] (aus der Bibliothek von Jacques Bongars; beide Drucke sind wohl erst nach 1822 in Bern zusammengebunden worden)    
+590      |a Frühere Signaturen: Inc IV 9; Inc 48; IX 33    
+700 1 2  |a Hemmerlin, Felix    |d 1389-1458    |t Opuscula et tractatus    |0 (DE-588)1127175122    
+700 1 2  |a Hemmerlin, Felix    |d 1389-1458    |t Contra validos mendicantes    |0 (DE-588)1235116573    
+700 1 2  |a Hemmerlin, Felix    |d 1389-1458    |t Contra anachoritas, id est beghardos silvestres    |0 (DE-588)1235116840    
+700 1 2  |a Hemmerlin, Felix    |d 1389-1458    |t Lollhardorum descriptio    |0 (DE-588)1235116905    
+700 1 2  |a Hemmerlin, Felix    |d 1389-1458    |t Glosa cuiusdam bulle per beghardos perpetrate    |0 (DE-588)1235116964    
+700 1 2  |a Hemmerlin, Felix    |d 1389-1458    |t De negocio monachorum    |0 (DE-588)1235117022    
+700 1 2  |a Hemmerlin, Felix    |d 1389-1458    |t De plebanis et religiosis mendicantibus in predicacionis opere et confessione discrepantibus    |0 (DE-588)1235167976    
+700 1 2  |a Hemmerlin, Felix    |d 1389-1458    |t De religiosis proprietariis precepta domini predicantibus    |0 (DE-588)1235168697    
+700 1 2  |a Hemmerlin, Felix    |d 1389-1458    |t Epistola de celis missa contra negligentes cultum divinum eciam iuratum    |0 (DE-588)1235169758    
+700 1 2  |a Hemmerlin, Felix    |d 1389-1458    |t Tractatus de novorum officiorum divinorum institutione    |0 (DE-588)1235171205    
+700 1 2  |a Hemmerlin, Felix    |d 1389-1458    |t De oblatis et solutis pecuniis pro prebenda vel beneficio in ecclesiis vel monasteriis obtinendo    |0 (DE-588)1235172082    
+700 1 2  |a Hemmerlin, Felix    |d 1389-1458    |t De anno iubileo et indulgenciis eius    |0 (DE-588)1235172317    
+700 1 2  |a Hemmerlin, Felix    |d 1389-1458    |t Recapitulatio de anno iubileo    |0 (DE-588)1235266168    
+700 1 2  |a Hemmerlin, Felix    |d 1389-1458    |t De aure et tempestatum benedictionibus    |0 (DE-588)123526632X    
+700 1 2  |a Hemmerlin, Felix    |d 1389-1458    |t De exorcismis    |0 (DE-588)1235267741    
+700 1 2  |a Hemmerlin, Felix    |d 1389-1458    |t De exorcismis et adiuracionibus    |0 (DE-588)1235266664    
+700 1 2  |a Hemmerlin, Felix    |d 1389-1458    |t De credulitate demonibus adhibenda    |0 (DE-588)1235269124    
+700 1 2  |a Hemmerlin, Felix    |d 1389-1458    |t De arbore torculari in die festo de loco ad locum transferendo    |0 (DE-588)1235270157    
+700 1 2  |a Hemmerlin, Felix    |d 1389-1458    |t De matrimonio    |0 (DE-588)1235270858    
+700 1 2  |a Hemmerlin, Felix    |d 1389-1458    |t De furto miraculoso de reliquiis in loco heremitarum beatissime virginis perpetrato    |0 (DE-588)1235271536    
+700 1 2  |a Hemmerlin, Felix    |d 1389-1458    |t Contra quendam superbum clericum epistola curialis    |0 (DE-588)1235272451    
+700 1 2  |a Hemmerlin, Felix    |d 1389-1458    |t Appelacio generalis contra cardinales beneficia in Germania petentes    |0 (DE-588)123527344X    
+700 1 2  |a Hemmerlin, Felix    |d 1389-1458    |t De libertate ecclesiastica    |0 (DE-588)123527392X    
+700 1 2  |a Hemmerlin, Felix    |d 1389-1458    |t De boni et mali occasione    |0 (DE-588)1235274217    
+700 1 2  |a Hemmerlin, Felix    |d 1389-1458    |t De empcione et vendicione unius pro viginti    |0 (DE-588)1235622169    
+700 1 2  |a Hemmerlin, Felix    |d 1389-1458    |t Tractaulus de contractibus, qui vulgariter gisel dicuntur et latine obstagium    |0 (DE-588)1235622665    
+700 1 2  |a Hemmerlin, Felix    |d 1389-1458    |t Doctoratus in stulticia    |0 (DE-588)1235623157    
+700 1 2  |a Hemmerlin, Felix    |d 1389-1458    |t Contra iniquos iudices    |0 (DE-588)1235623491    
+700 1 2  |a Hemmerlin, Felix    |d 1389-1458    |t Inique suppressorum consolacio    |0 (DE-588)1235623769    
+700 1    |a Brant, Sebastian    |d 1458-1521    |0 (DE-588)118514474    |4 edt    |4 dto    
+700 0    |a Eugen    |b IV.    |c Papst    |d 1383-1447    |0 (DE-588)118531328    |4 wst    
+700 0    |a Hermann    |b IV.    |c der Friedsame, Köln, Erzbischof, Kurfürst    |d 1449-1508    |0 (DE-588)119304309    |e Widmungsempfänger    |4 dte    
+700 1    |a Prüss, Johann    |d 1447-1510    |0 (DE-588)135917018    |e Verlag    |4 pbl    
+700 1    |a Keller, Johann Baptist <<von>>    |d 1774-1845    |0 (DE-588)116119233    |e Sonstige    |4 oth    
+710 1 2  |a Katholische Kirche    |b Papst    |g 1431-1447 : Eugen IV    |t Piis votis fidelium    |0 (DE-588)123510933X    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Bong IV 877 : 2    |9 (41SLSP_UBE)99116837511005511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc IV 9 : 2    |c 404U3    |p 12    |j MUE Bong IV 877 : 2    |b B404    |9 (41SLSP_UBE)99116837511005511    
+986      |a (41SLSP_UBE)99116837511005511    |9 (41SLSP_UBE)99116837511005511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116837511005511    
+991      |a AAK: 00386687    |5 IZ UBE/22.02.2017/B404/vha    |9 local    |9 (41SLSP_UBE)99116837511005511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

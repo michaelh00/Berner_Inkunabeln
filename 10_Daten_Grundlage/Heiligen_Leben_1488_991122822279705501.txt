@@ -1,0 +1,137 @@
+﻿<-1-1-START->
+Der Heiligen Leben
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Das Werk ist nicht, wie teilweise angenommen, eine Übersetzung der Legenda aurea von Jacobus de Voragine, sondern eigenständig<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Nürnberg: Anton Koberger, 05.12.1488
+<-500-START->Druckvarianten bei der Jahresangabe: "Tausent vierzehenhundert ..." (vorliegendes Exemplar) und korrigierte Variante: "Tausent vierhundert ..." (Exemplar der Bayerischen Staatsbibliothek München)<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+4 ungezählte Seiten, CCCLXXXV Blätter, 2 ungezählte Blätter: Illustrationen; 34 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_H-20.html<-L-5-STOP-><-VI-5-START->BSB-Ink H-20<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M11407.htm<-L-5-STOP-><-VI-5-START->GW M11407<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ij00163500<-L-5-STOP-><-VI-5-START->ISTC ij00163500<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+382 von 389 Blättern, Illustrationen koloriert, rot oder blau ausgezeichnete Initialen; rot, grün, blau und gold kolorierte Schmuckinitialen auf Blättern I recto und CLXXIII recto; Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schwein, 20. Jahrhundert), Linien-Blindprägung auf beiden Deckeln; Buchbinder: Johann Lindt (1950)
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Blätter LXXVI, LXXVII, CLVIII, CLXXII und CCXXVI, sowie die letzten beiden, unbedruckten Blätter fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116842888605511<-L-11-STOP-><-VI-11-START->MUE Inc II 52<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991122822279705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Nürnberg<-O-STOP->
+<-P-START->Koberger, Anton<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-P-START->Lindt, Johann<-P-STOP->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991122822279705501<-DOI-STOP->
+<-SIGN-START->MUE Inc II 52<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06611nam a2200589 c 4500
+001 991122822279705501
+005 20211215201455.0
+008 130419s1488    gw            00| | ger d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/23.07.2014/B400/vha    
+035      |a (swissbib)065702999-41slsp_network    
+035      |a 065702999    |9 ExL    
+035      |a (IDSBB)006117274DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991122822279705501    
+035      |a (41SLSP_UBE)99116842888605511    |9 (41SLSP_UBE)99116842888605511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+130 0    |a <<Der>> Heiligen Leben    |0 (DE-588)4133303-2    
+245 1 0  |a Passional. das ist der heyligen leben    
+246 1    |i Titel in moderner Orthografie    |a Passional, das ist der Heiligen Leben    
+246 1    |i Incipit    |a Hie hebt sich an das summer tayl der heyligen leben ...    
+246 1    |i Titel in moderner Orthografie    |a <<Das>> Summer Tayl der Heyligen Leben ...    
+246 1    |i Incipit in moderner Orthografie    |a Hie hebt sich an das Sommer-Teil der Heiligen Leben ...    
+246 1 0  |a <<Das>> Sommer-Teil der Heiligen Leben ...    
+246 1    |i Incipit des Winterteils (Blatt CLXXIII, das ist [A]₁)    |a Hie hebt sich an der heyligen leben in dem wintterteyl ...    
+246 1    |i Incipit des Winterteils in moderner Orthografie    |a Hie hebt sich an der Heiligen Leben in dem Winterteil ...    
+246 1 0  |a <<Der>> Heiligen Leben in dem Winterteil ...    
+264   1  |a I[n]n der keyserlichen stat Nüremberg    |b Ist gedruckt ... durch Anthoniu[m] Koberger    |c vn[d] geendet auff freytag den nechsten vor sant Nicklas tag ... Im iar vnser erlösung. da man zalt Tausent vierzehenhundert vn[d] im achtvndachtzigsten. nach cristi vnsers lieben herren geburt [05.12.1488]    
+300      |a 4 ungezählte Seiten, CCCLXXXV Blätter, 2 ungezählte Blätter    |b Illustrationen    |c 34 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Das Werk ist nicht, wie teilweise (auch im ISTC!) angenommen, eine Übersetzung der Legenda aurea von Jacobus de Voragine, sondern eigenständig    
+500      |a Titel und Impressum gemäss Kolophon; Reihenfolge der Vorlage: "Der hochen vnteylbern heylige[n] Triualtigkeyt zu lob ... Ist gedruckt diß Passional. das ist der heyligen leben. durch Anthoniu[m] Koberg. vn[d] geendet auff freytag den nechsten vor sant Nicklas tag. I[n]n der keyserlichen stat Nüremberg. Im iar vnser erlösung. da man zalt Tausent vierzehenhundert vn[d] im achtvndachtzigsten. nach cristi vnsers lieben herren geburt."    
+500      |a Es gibt zwei Druckvarianten bei der Jahresangabe: "Tausent vierzehenhundert ..." (vorliegendes Exemplar und Exemplar der Universitätsbibliothek Würzburg) und wohl korrigierte, spätere Variante: "Tausent vierhundert ..." (zum Beispiel Exemplar der Bayerischen Staatsbibliothek München)    
+500      |a Signaturformel (gemäss BSB-Ink): [*², a–t⁸, v⁶, x⁸, y⁶, A–T⁸, V⁸-¹, X¹⁰, Y⁶, Z¹⁰, aa⁶, bb⁸, cc⁶, dd¹⁰]    
+500      |a Blätter [dd]₉ und [dd]₁₀ unbedruckt    
+510 4    |a BSB-Ink    |c H-20    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_H-20.html    
+510 4    |a GW    |c M11407    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M11407.htm    
+510 4    |a ISTC    |c ij00163500    |u http://data.cerl.org/istc/ij00163500    
+530      |a Digitalisat (Exemplar der Universitätsbibliothek Würzburg)    |u http://vb.uni-wuerzburg.de/ub/permalink/itf954    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schwein, 1950 von Johann Lindt), Linien-Blindprägung auf beiden Deckeln    
+563      |a Vorsätze: vorne mit einem, hinten mit zwei fliegenden Blättern    
+563      |a Masse: 33.4 x 25.5 x 8.5 cm    
+590      |a Buchblockbeschreibung: 382 von 389 Blättern, handschriftliche Lagensignatur in Graphit gemäss BSB-Ink (jeweils erste Seite jeder Lage rechts unten); Illustrationen koloriert, rot oder blau ausgezeichnete Initialen; rot, grün, blau und gold kolorierte Schmuckinitialen auf Blatt I ([a]₁) recto und CLXXIII ([A]₁) recto (auf Blatt I Farbe und Blattgold fast völlig abgetragen); Rubrizierung (Absatzzeichen am Beginn von jedem Absatz und Markierung von Grossbuchstaben in Überschriften)    
+590      |a Zustand  Buchblock: Zahlreiche Verfleckungen und Griffspuren, massive Verbräunungen und Feuchtigkeitsränder, Risse und überklebte Fehlstellen, Papierüberklebungen an Bruch- und Risskanten auch über kolorierte Holzschnitte verlaufend (zum Beispiel Blatt [l₇]), Japanpapierüberklebungen an Blatträndern (Blatt [C₈] recto, teilweise in Ergänzung zu Papierüberklebungen, Blatt [D₈] recto), Lagenstruktur unklar durch An- und Verklebungen der Blätter im Falz, Versteifung mit Bruchgefahr im Falz der Blätter durch Papierfälze (ob als Verstärkung oder als Ansatzfalz ist nicht nachzuvollziehen), Malschichtschäden mit massiven Verlusten an ursprünglich vergoldeter Initiale an Blatt [a₁] recto, starker Abrieb an rotem Farbmittel der Holzschnittkolorierungen und an blauem Farbmittel der Initialen sowie der Kolorierung an Blatt [a₁]    
+590      |a Zustand Buchblock: Blätter stark beschnitten (am oberen Rand Kolumnentitel und Blattzählung oft teilweise oder ganz weggeschnitten), zahlreiche Blätter beschädigt und zum grossen Teil mit Papierstreifen repariert, zur Verstärkung der Ränder oder über Rissen (mit Textverlusten); teilweise starke Verbräunungen, Feuchtigkeitsränder    
+590      |a Unvollständiges Exemplar: Blätter LXXVI und LXXVII ([k]₄ und [k]₅), Blatt CLVIII ([v]₆), CLXXII ([y]₆) und CCXXVI ([G]₆), sowie die Blätter [dd]₉ und [dd]₁₀ (beide unbedruckt) fehlen    
+590      |a Bl. XVII und XVIII (das ist [c]₁ und [c]₂) sind zwischen den Blättern CLXVI und CLXVII ([x]₈ und [y]₁) eingebunden! - Das Register (Blätter [*]₁ und [*]₂) am Ende eingebunden    
+590      |a Handschriftliche Notiz in Tinte (18. Jahrhundert) auf hinterem fliegenden Blatt: "In diesem Buch thät man den Holigen allerhand Schletterling anhainken" (das heisst, Übles nachsagen)    
+590      |a Frühere Signatur: Inc 59 a    
+700 1    |a Koberger, Anton    |d 1440-1513    |0 (DE-588)118563890    |e Drucker    |4 prt    
+700 1    |a Lindt, Johann    |d 1899-1977    |0 (DE-588)114933774    |e Buchbinder    |4 bnd    
+751      |a Nürnberg    |0 (DE-588)4042742-0    
+852 4    |b B404    |c 404U3    |j MUE Inc II 52    |9 (41SLSP_UBE)99116842888605511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc II 52    |b B404    |9 (41SLSP_UBE)99116842888605511    
+986      |a (41SLSP_UBE)99116842888605511    |9 (41SLSP_UBE)99116842888605511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116842888605511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

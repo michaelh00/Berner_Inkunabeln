@@ -1,0 +1,239 @@
+﻿<-1-1-START->
+Poliziano, Angelo
+<-1-1-STOP->
+
+<-1-2-START->
+Werke [lateinisch]. — Plato: Charmides [lateinisch]. — Herodianus Historicus: Ab excessu divi Marci [lateinisch]. — Epictetus: Enchiridion. — Plutarchus: Amatoriae narrationes [lateinisch]. — Problemata. Iatrika aporēmata kai physika problēmata [lateinisch]. — Stilus et character psalmorum [lateinisch]
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Herausgeber: Alessandro Sarti; im Brief von Aldus Manutius an Marinus Sannutus genannt<-500-STOP->
+<-500-START->Texte anderer Verfasser von Poliziano aus dem Griechischen ins Lateinische übersetzt<-500-STOP->
+<-500-START->Enthält im ersten Teil zahlreiche Briefe von Angelo Poliziano, gewidmet Piero de Medici, sowie Briefe seiner Korrespondenten: Giovanni Pico della Mirandola, Hermolaus Barbarus (Iunior), Iulius Pomponius Laetus, Battista Guarini, Filippo Beroaldo, Nicolaus Leonicus Thomaeus, Girolamo Donati, Callimachus de Monte Viridi, Lodovico Odassi, Marcus Antonius Sabellicus, Lucidus Maffeus Phosphorus, Jacobus Antiquarius, Cesare Carmento, Bartholomaeus Scala, Antonius Urceus, Francesco Pucci, Franciscus Benedictis, Marsilius Ficinus, Macario Muzio, Tideo Acciarini, Bartolommeo Ugolino, Aldo Pio Manuzio, Matteo Bosso, Papst Innocentius VIII., Papst Pius III. (als Kardinal Franciscus Piccolimini), Paolo Cortese, Johann II. (König von Portugal), Lorenzo de' Medici, Ludovico Maria Sforza (Herzog von Mailand), Georgius Merula, Michael Acciarius, Scipione Forteguerri (Carteromachus)<-500-STOP->
+<-500-START->Mit Brief von Zenobius Acciaiolus (zu den Epigrammata), datiert: Florenz, 01.12.1495<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Aldo Pio Manuzio, 1498
+<-3-1-STOP->
+
+<-4-1-START->
+462 ungezählte Seiten, 2 ungezählte Blätter, 437 ungezählte Seiten; 34 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_P-663.html<-L-5-STOP-><-VI-5-START->BSB-Ink P-663<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M34727.htm<-L-5-STOP-><-VI-5-START->GW M34727<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/ip00886000<-L-5-STOP-><-VI-5-START->ISTC ip00886000<-VI-5-STOP->; <-VI-5-START->Ineichen, Elisabeth: Standort-Katalog "Hospinian". [Bern], [Stadt- und Universitätsbibliothek], [1972]<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+452 von 452 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit zwei Schliessen, Linien- und Ornamentrollen-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Johann Walder; Leonhard Wirth
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116797754605511<-L-11-STOP-><-VI-11-START->MUE Hospinian 52<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991073018109705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Poliziano, Angelo<-P-STOP->
+<-P-START->Plato<-P-STOP->
+<-P-START->Herodianus Historicus<-P-STOP->
+<-P-START->Epictetus<-P-STOP->
+<-P-START->Alexander Aphrodisiensis<-P-STOP->
+<-P-START->Plutarchus<-P-STOP->
+<-P-START->Athanasius Alexandrinus<-P-STOP->
+<-P-START->Sarti, Alessandro<-P-STOP->
+<-P-START->Pico della Mirandola, Giovanni<-P-STOP->
+<-P-START->Barbarus, Hermolaus (Iunior)<-P-STOP->
+<-P-START->Pomponius Laetus, Iulius<-P-STOP->
+<-P-START->Guarini, Battista<-P-STOP->
+<-P-START->Beroaldo, Filippo<-P-STOP->
+<-P-START->Leonicus Thomaeus, Nicolaus<-P-STOP->
+<-P-START->Donati, Girolamo<-P-STOP->
+<-P-START->Callimachus de Monte Viridi<-P-STOP->
+<-P-START->Odassi, Lodovico<-P-STOP->
+<-P-START->Sabellicus, Marcus Antonius<-P-STOP->
+<-P-START->Phosphorus, Lucidus Maffeus<-P-STOP->
+<-P-START->Antiquarius, Jacobus<-P-STOP->
+<-P-START->Carmento, Cesare<-P-STOP->
+<-P-START->Scala, Bartholomaeus<-P-STOP->
+<-P-START->Antonius Urceus<-P-STOP->
+<-P-START->Pucci, Francesco<-P-STOP->
+<-P-START->Maffeius, Augustinus<-P-STOP->
+<-P-START->Johannes Franciscus Benedictus<-P-STOP->
+<-P-START->Benedictis, Franciscus de<-P-STOP->
+<-P-START->Ficinus, Marsilius<-P-STOP->
+<-P-START->Muzio, Macario<-P-STOP->
+<-P-START->Acciarini, Tideo<-P-STOP->
+<-P-START->Ugolino, Bartolommeo<-P-STOP->
+<-P-START->Manuzio, Aldo Pio<-P-STOP->
+<-P-START->Bosso, Matteo<-P-STOP->
+<-P-START->Innozenz VIII. (Papst)<-P-STOP->
+<-P-START->Ammannati, Jacobus<-P-STOP->
+<-P-START->Pius III. (Papst)<-P-STOP->
+<-P-START->Cortese, Paolo<-P-STOP->
+<-P-START->Johann II. (König von Portugal)<-P-STOP->
+<-P-START->Medici, Lorenzo de'<-P-STOP->
+<-P-START->Ludovico (Herzog von Mailand)<-P-STOP->
+<-P-START->Georgius Merula<-P-STOP->
+<-P-START->Crinito, Pietro<-P-STOP->
+<-P-START->Acciarius, Michael<-P-STOP->
+<-P-START->Forteguerri, Scipione<-P-STOP->
+<-P-START->Acciaiuoli, Zanobi<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Manuzio, Aldo Pio<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Walder, Johann<-P-STOP->
+<-P-START->Wirth, Leonhard<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991073018109705501<-DOI-STOP->
+<-SIGN-START->MUE Hospinian 52<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 11738nam a2201225 c 4500
+001 991073018109705501
+005 20211215175508.0
+008 970401s1498    it            00| | lat d
+019      |a Altbestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von Signaturen    |5 IDSBB/01.04.1997/bestub/mes    
+019      |a Nach Vorlage rekatalogisiert    |5 IDSBB/17.08.2020/B404/vha    
+035      |a (swissbib)031155731-41slsp_network    
+035      |a 031155731    |9 ExL    
+035      |a (IDSBB)001365137DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991073018109705501    
+035      |a (41SLSP_UBE)99116797754605511    |9 (41SLSP_UBE)99116797754605511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+041 0    |a lat    |a grc    
+245 0 0  |a Omnia Opera Angeli Politiani, et alia quædam lectu digna    |b quorum nomina in sequenti indice uidere licet    
+246 1 0  |a Omnia Opera    
+246 1    |i Titel gemäss BSB-Ink, GW und ISTC    |a Opera    
+264   1  |a Venetiis    |b in ædibus Aldi Romani    |c mense Iulio M.IID. [1498]    
+300      |a 462 ungezählte Seiten, 2 ungezählte Blätter, 437 ungezählte Seiten    |c 34 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Herausgeber: Alessandro Sarti; im Brief von Aldus Manutius an Marinus Sannutus (Blatt a₁ verso) genannt: "... non esse hæc edita ab ipso, sed ab amicis, & præcipue ab Alexa[n]dro Sartio Bononie[n]si, literatis omnibus pergrato uiro ..."    
+500      |a Enthält im ersten Teil (bis Blatt t₈ verso) zahlreiche Briefe von Angelo Poliziano, gewidmet Piero de Medici, sowie Briefe seiner Korrespondenten: Giovanni Pico della Mirandola, Hermolaus Barbarus Iunior, Iulius Pomponius Laetus, Battista Guarini, Filippo Beroaldo, Nicolaus Leonicus Thomaeus, Girolamo Donati, Callimachus de Monte Viridi, Lodovico Odassi, Marcus Antonius Sabellicus, Lucidus Maffeus Phosphorus, Jacobus Antiquarius, Cesare Carmento, Bartholomaeus Scala, Antonius Urceus, Francesco Pucci, Franciscus Benedictis, Marsilius Ficinus, Macario Muzio, Tideo Acciarini, Bartolommeo Ugolino, Aldo Pio Manuzio, Matteo Bosso, Papst Innocentius VIII., Papst Pius III. (als Kardinal Franciscus Piccolimini), Paolo Cortese, Johann II., König von Portugal, Lorenzo de' Medici, Ludovico Maria Sforza, Herzog von Mailand, Georgius Merula, Michael Acciarius, Scipione Forteguerri (Carteromachus)    
+500      |a Auf Blatt κκ₁ verso Brief von Zenobius Acciaiolus (zu den Epigrammata), datiert "Florentiæ Kal. Decembr. 1495."    
+500      |a Texte zu einem kleinen Teil griechisch    
+500      |a Signaturformel: a–p⁸, q–r¹⁰, s–t⁸, A–I⁸, K⁴, L–P⁸, Q–R¹⁰, S⁸, T¹⁰, V⁶, X–Y¹⁰, Z⁸, &¹⁰, aa¹⁰, iteru[m] aa⁸, iteru[m] bb⁸, bb–hh⁸, ii⁶, κκ¹⁰    
+500      |a Blatt K₄ unbedruckt; Blätter L₁ recto, X₁₀ verso und κκ₁₀ verso unbedruckt    
+505 0 0  |g 6 enthaltene Werke verschiedener Verfasser, von Poliziano aus dem Griechischen ins Lateinische übersetzt    |g Blatt t₇ verso    |t Platonis Charmides de termperantia    |r ab Angelo Politiano in latinum è græco sermone ad maganimum Laure[n]tium Medicem Petri .F. conuersus    |g Blatt L₃ recto    |t Herodiani Historiae De Imperio Post Marcvm Vel De Svis Temporibvs Liber Primvs    |r E Graeco Tralatvs Angelo Politiano Interprete Ad Innocentivm .VIII. Pontificem Maximvm Prooemivm    |g Blatt S₁ verso    |t Epicteti Stoici Enchiridion    |r [aus dem Griechischen von Angelo Poliziano]    |g Blatt T₄ recto (Alexander Aphrodisiensis ist nur angeblicher Verfasser)    |t Alexandri Aphrodisei, Super nonnullis physicis dubitationibus, Solutionum, Liber    |r ab Angelo Politiano in latino conuersus    |g Blatt X₈ recto (Plutarchus Cheroneus ist nur angeblicher Verfasser)    |t Plvtarchi Cheronei Amatoriae Narrationes    |r Angelo Politiano Interprete    |g Blatt iteru[m] aa₄ verso    |t Magni Athanasii in psalmos opusculum    |r Ange. Pol. Interprete    
+510 4    |a BSB-Ink    |c P-663    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_P-663.html    
+510 4    |a GW    |c M34727    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M34727.htm    
+510 4    |a ISTC    |c ip00886000    |u https://data.cerl.org/istc/ip00886000    
+510 3    |a Ineichen, Elisabeth: Standort-Katalog "Hospinian". [Bern], [Stadt- und Universitätsbibliothek], [1972]    
+530      |a Digitalisat (Exemplar der Zentrabibliothek Zürich)    |u https://www.e-rara.ch/zuz/content/titleinfo/18893827    
+561      |a Handschriftliche Besitzvermerke auf der Titelseite: "Hans Walder"; darunter: "Leonardus Hospinianus Stammenius"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit zwei Schliessen, Linien- und Ornamentrollen-Blindprägung auf beiden Deckeln; Titel handschriftlich in Tinte auf dem Rücken (verblasst): "Ang: Politiani Opera Venet: 1498", darunter: ... [unleserlich] 1478."    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 33.1 x 23.0 x 8.3 cm    
+563      |a Zustand Einband: Rote Verfärbung am Einbandleder des Rückdeckels, Schädlingsfrass innen am Rückdeckel und an den letzten Blättern    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 452 von 452 Blättern, vorgesehene Stellen für Initialen frei gelassen, keine Rubrizierung    
+590      |a Zustand Buchblock: Griff des Papiers und Druckbild auffällig: Textdruck ohne stark sichtbaren Andruck (kein Relief, sondern vereinzelt Schultermarken in Druckfarbe, Druckfarbe schlägt stark durch auf die Versoseiten)    
+590      |a Handschriftliche Annotationen in Tinte von Johann Walder auf den Blättern a₃ recto bis a₇ recto, danach keine mehr; handschriftliche Korrekturzeichen am Rand auf Blatt l₅ recto    
+590      |a Historische Signatur auf vorderem Spiegel: "Lit. N. 102.", "102" durchgestrichen und daneben: "124."; auf der Titelseite: "Lit. B. 78."    
+590      |a Frühere Signaturen: Inc II 41, Inc 250    
+700 1    |a Poliziano, Angelo    |d 1454-1494    |0 (DE-588)118595512    |e Verfasser    |e Übersetzer    |4 aut    |4 trl    
+700 1 2  |a Poliziano, Angelo    |d 1454-1494    |t Werke    |0 (DE-588)1215927533    
+700 0    |a Plato    |d v427-v347    |0 (DE-588)118594893    |e Verfasser    |4 aut    
+700 0 2  |a Plato    |d v427-v347    |t Charmides    |0 (DE-588)4006823-7    
+700 0    |a Herodianus    |c Historicus    |d ca. 2./3. Jh.    |0 (DE-588)118639587    |e Verfasser    |4 aut    
+700 0 2  |a Herodianus    |c Historicus    |d ca. 2./3. Jh.    |t Ab excessu divi Marci    |0 (DE-588)4429365-3    
+700 0    |a Epictetus    |d 50-130    |0 (DE-588)118530577    |e Verfasser    |4 aut    
+700 0 2  |a Epictetus    |d 50-130    |t Enchiridion    |0 (DE-588)4248266-5    
+700 0    |a Alexander    |c Aphrodisiensis    |0 (DE-588)118501887    |e Mitwirkender    |4 ctb    
+700 0    |a Plutarchus    |d 45-120    |0 (DE-588)118595237    |e Mitwirkender    |4 ctb    
+700 0 2  |a Plutarchus    |d 45-120    |t Amatoriae narrationes    |0 (DE-588)4326631-9    
+700 0    |a Athanasius    |c Alexandrinus, Heiliger    |d 295-373    |0 (DE-588)118504843    |e Mitwirkender    |4 ctb    
+700 1    |a Sarti, Alessandro    |d ca. 15./16. Jh.    |0 (DE-588)1056161566    |e Herausgeber    |4 edt    
+700 1    |a Medici, Piero <<de'>>    |d 1472-1503    |0 (DE-588)11916437X    |e Widmungsempfänger    |4 dte    
+700 1    |a Pico della Mirandola, Giovanni    |d 1463-1494    |0 (DE-588)118742418    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Barbarus, Hermolaus    |c Iunior    |d 1454-1493    |0 (DE-588)118657119    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Pomponius Laetus, Iulius    |d 1428-1497    |0 (DE-588)100958656    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Guarini, Battista    |d 1435-1505    |0 (DE-588)100943985    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Beroaldo, Filippo    |d 1453-1505    |0 (DE-588)118656589    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Leonicus Thomaeus, Nicolaus    |d 1456-1531    |0 (DE-588)102377138    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Donati, Girolamo    |d 1454-1511    |0 (DE-588)104251468    |e Verfasser von ergänzendem Text    |4 wst    
+700 0    |a Callimachus    |c de Monte Viridi    |d ca. -1511    |0 (DE-588)1013958683    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Odassi, Lodovico    |d -1510    |0 (DE-588)123073081    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Sabellicus, Marcus Antonius    |d 1436-1506    |0 (DE-588)100960170    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Phosphorus, Lucidus Maffeus    |d -1503    |0 (DE-588)129050636    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Antiquarius, Jacobus    |d ca. 1444/45-1512    |0 (DE-588)119607581    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Carmento, Cesare    |d ca. 15. Jh.    |0 (DE-588)1216125767    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Scala, Bartholomaeus    |d 1430-1497    |0 (DE-588)118794795    |e Verfasser von ergänzendem Text    |4 wst    
+700 0    |a Antonius    |c Urceus    |d 1446-1500    |0 (DE-588)100938493    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Pucci, Francesco    |d 1463-1512    |0 (DE-588)1015677304    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Maffeius, Augustinus    |d 1431-1496    |0 (DE-588)129041017    |e Verfasser von ergänzendem Text    |4 wst    
+700 0    |a Johannes Franciscus    |c Benedictus    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Benedictis, Franciscus <<de>>    |d 14XX-1496    |0 (DE-588)1037568109    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Ficinus, Marsilius    |d 1433-1499    |0 (DE-588)118532855    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Muzio, Macario    |d 1440-1514    |0 (DE-588)133082652    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Acciarini, Tideo    |d 1430-1500    |0 (DE-588)1069436887    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Ugolino, Bartolommeo    |d -1494    |0 (DE-588)1023239523    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Manuzio, Aldo Pio    |d 1450-1515    |0 (DE-588)118577387    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Bosso, Matteo    |d 1427-1502    |0 (DE-588)100051340    |e Verfasser von ergänzendem Text    |4 wst    
+700 0    |a Innozenz    |b VIII.    |c Papst    |d 1432-1492    |0 (DE-588)119130025    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Ammannati, Jacobus    |d 1422-1479    |0 (DE-588)102551731    |e Verfasser von ergänzendem Text    |4 wst    
+700 0    |a Pius    |b III.    |c Papst    |d 1439-1503    |0 (DE-588)119232111    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Cortese, Paolo    |c Humanist    |d 1465-1510    |0 (DE-588)104207086    |e Verfasser von ergänzendem Text    |4 wst    
+700 0    |a Johann    |b II.    |c Portugal, König    |d 1455-1495    |0 (DE-588)118712314    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Medici, Lorenzo <<de'>>    |d 1449-1492    |0 (DE-588)118574418    |e Verfasser von ergänzendem Text    |4 wst    
+700 0    |a Ludovico    |c Milano, Duca    |d 1452-1508    |0 (DE-588)118820745    |e Verfasser von ergänzendem Text    |4 wst    
+700 0    |a Georgius    |c Merula    |d 1430-1494    |0 (DE-588)100942415    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Crinito, Pietro    |d 1465-1504    |0 (DE-588)104213671    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Acciarius, Michael    |d ca. 2. H. 15. Jh. - 1. H. 16. Jh.    |0 (DE-588)1216125139    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Forteguerri, Scipione    |d 1466-1515    |0 (DE-588)124394450    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Acciaiuoli, Zanobi    |d 1461-1519    |0 (DE-588)119600404    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Manuzio, Aldo Pio    |d 1450-1515    |0 (DE-588)118577387    |e Drucker    |4 prt    
+700 1    |a Walder, Johann    |d -1541    |0 (DE-588)103750660x    |e Früherer Eigentümer    |e Annotierende Person    |4 fmo    |4 ann    
+700 1    |a Wirth, Leonhard    |d 1505-1564    |0 (DE-588)121204618    |e Früherer Eigentümer    |4 fmo    
+730 0    |a Problemata    |g Iatrika aporēmata kai physika problēmata    |0 (DE-588)121586342X    
+730 0    |a Stilus et character psalmorum    |0 (DE-588)1215869401    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Hospinian 52    |9 (41SLSP_UBE)99116797754605511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc II 41    |c 404U3    |p 12    |j MUE Hospinian 52    |b B404    |9 (41SLSP_UBE)99116797754605511    
+986      |a (41SLSP_UBE)99116797754605511    |9 (41SLSP_UBE)99116797754605511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116797754605511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

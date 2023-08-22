@@ -1,0 +1,141 @@
+﻿<-1-1-START->
+Iuvenalis, Decimus Iunius
+<-1-1-STOP->
+
+<-1-2-START->
+Saturae. — Domitius de Calderiis: Defensio adversus Brotheum grammaticum
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Kommentar und mit Widmungsbrief von Domitius de Calderiis an Giuliano de' Medici<-500-STOP->
+<-500-START->Mit einer kurzen "Iuvenalis Vita"<-500-STOP->
+<-700-START-><-700-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Battista Torti, 30.03.1485
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 120 ungezählte Seiten, 1 ungezähltes Blatt: Druckermarke; 32 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_I-684.html<-L-5-STOP-><-VI-5-START->BSB-Ink I-684<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M15816.htm<-L-5-STOP-><-VI-5-START->GW M15816<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ij00650000<-L-5-STOP-><-VI-5-START->ISTC ij00650000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+62 von 62 Blättern, rot ausgezeichnete Initialen, nur teilweise Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Holzdeckeln (braun) mit mittiger Schliesse, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Saturae / Aulus Persius Flaccus. Venedig: Reynaldus de Novimagio, 1482
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116753874005511<-L-11-STOP-><-VI-11-START->MUE Inc III 32 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991149639299705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Iuvenalis, Decimus Iunius<-P-STOP->
+<-P-START->Domitius de Calderiis<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Torti, Battista<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991149639299705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 32 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04902nam a2200589 c 4500
+001 991149639299705501
+005 20211215195614.0
+008 170814s1485    it |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/14.08.2017/B404/vha    
+035      |a (swissbib)072236124-41slsp_network    
+035      |a 072236124    |9 ExL    
+035      |a (IDSBB)006722368DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991149639299705501    
+035      |a (41SLSP_UBE)99116753874005511    |9 (41SLSP_UBE)99116753874005511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Iuvenalis, Decimus Iunius    |d ca. 67-nach 127    |0 (DE-588)118556126    |e Verfasser    |4 aut    
+240 1 0  |a Saturae    
+245 1 0  |a [Saturae]    |c Domitii Calderini Veronensis secretarii apostolici co[m]mentarii in Satyras Iuuenalis ...    
+246 1    |i Incipit Blatt a₃ recto    |a Ivnii Ivvenalis Aquinatis Satyra prima    
+246 1    |i Titel gemäss BSB-Ink und GW    |a Satirae    
+246 1    |i Titel gemäss ISTC    |a Satyrae    
+264   1  |a Venetiis    |b per Baptistam de tortis    |c M.cccclxxxv. die. xxx. martii. [30.03.1485]    
+300      |a 1 ungezähltes Blatt, 120 ungezählte Seiten, 1 ungezähltes Blatt    |c 32 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss GND    
+500      |a Kolophon auf Blatt k₇ verso; darunter "Registrum" der Lagen und Druckermarke von Baptista de Tortis    
+500      |a Signaturformel: a-i⁶, k⁸    
+500      |a Blatt a₁ recto unbedruckt; Blatt k₈ unbedruckt    
+505 0 0  |g Blatt a₁ verso    |t Domitii Calderini Veronensis secretarii apostolici in co[m]mentarios Iuuenalis ad clarissimum uirum Iulianum Medicen Petri Cosmi filium Florentinum    |g Blatt a₂ recto    |t Ivvenalis Vita ex antiquorum monumentis    |g Blatt a₂ verso    |t Domitii Calderini Veronensis secretarii apostolici co[m]mentarii in Satyras Iuuenalis ad clarissimu[m] uirum Iulianum Medicen Petri Cosmi filium Florentinum    |g Blatt k₄ recto    |t Domitii Calderini ... in satyras Iuuenalis ad ... Iulinanum medicen Laurentii fratrem Petri Cosmi filium Florentinum editi Romæ: quum ibi publice profiteretur. Calen. septembris. M.cccc.lxxiiii. [adversus Fidentinum]    |g Blatt k₄ recto    |t Domitii Calderini ... defensio aduersus Brotheum gra[m]maticum Co[m]mentariorum Martialis calu[m]niatorem: cum recriminatione retaxationis Plinianæ: in qua Brotheus ducentis & septuagintaquinque locis præstantissimum scriptorem deprauauit    
+510 4    |a BSB-Ink    |c I-684    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_I-684.html    
+510 4    |a GW    |c M15816    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M15816.htm    
+510 4    |a ISTC    |c ij00650000    |u http://data.cerl.org/istc/ij00650000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00012315/image_5    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Holzdeckeln (braun) mit mittiger Schliesse, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln; am Kopfrand des Vorderdeckels Papierstreifen mit Aufschrift in Tinte: "Juuenalis cum persio & commentariis"    
+563      |a Ein weiterer Papierstreifen als Rückenschild wurde 1946 abgelöst und auf vorderen Innendeckel geklebt; Aufschrift mit Tinte: "Iuvenalis Com[m]entarii Calderini 1485, Persius 1482"    
+563      |a Vorsätze: keine fliegenden Blätter    
+563      |a Masse Einband: 31.6 x 22.2 x 3.5 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, Lederüberklebungen am Rücken, Titelschild vom Rücken abgelöst und auf neuen Spiegel geklebt, Vorsätze ergänzt, Schliesse vollständig ergänzt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 62 von 62 Blättern, Papierfalz zwischen erster und zweiter Lage ist ein Rest der ursprünglichen Vorsatzkonstruktion; rot ausgezeichnete Initialen, nur teilweise Rubrizierung    
+590      |a Zustand Buchblock: Verbräunungen und Verfleckungen, vereinzelt Feuchtigkeitsränder, stellenweise Schädlingsfrass    
+590      |a Zusammengebunden mit: Aulus Persius Flaccus: Saturae. Venedig : Reynaldus de Novimagio, 1482    
+590      |a Historische Signatur auf Blatt a₁ recto: "No 87."    
+590      |a Frühere Signatur: Inc 179 : 1    
+700 1 2  |a Iuvenalis, Decimus Iunius    |d ca. 67-nach 127    |t Saturae    |0 (DE-588)4331976-2    
+700 0    |a Domitius    |c de Calderiis    |d 1446-1478    |0 (DE-588)100940056    |e Kommentarverfasser    |e Widmender    |4 wac    |4 dto    
+700 0 2  |a Domitius    |c de Calderiis    |d 1446-1478    |t Defensio adversus Brotheum grammaticum    |0 (DE-588)1138242292    
+700 1    |a Medici, Giuliano <<de>>    |d 1453-1478    |0 (DE-588)119151197    |e Widmungsempfänger    |4 dte    
+700 1    |a Torti, Battista    |0 (DE-588)134140680    |e Drucker    |4 prt    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Inc III 32 : 1    |9 (41SLSP_UBE)99116753874005511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc III 32 : 1    |b B404    |9 (41SLSP_UBE)99116753874005511    
+986      |a (41SLSP_UBE)99116753874005511    |9 (41SLSP_UBE)99116753874005511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116753874005511    
+991      |a AAK: 0454927    |5 IZ UBE/14.08.2017/B404/vha    |9 LOCAL    |9 (41SLSP_UBE)99116753874005511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

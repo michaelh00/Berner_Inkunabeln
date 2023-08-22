@@ -1,0 +1,150 @@
+﻿<-1-1-START->
+Bernat de Granollachs
+<-1-1-STOP->
+
+<-1-2-START->
+Lunari
+<-1-2-STOP->
+
+<-2-1-START->
+
+<-2-1-STOP->
+
+<-3-1-START->
+[Druckort nicht ermittelbar: Drucker des Missale Romanum (H 11399), 1494 oder 1495]
+<-500-START->GW vermutet als Drucker des Missale Romanum Ludovicus Cruse aus Genf; als Druckorte wurden auch Paris, Turin und andere Orte in Frankreich oder Italien vermutet<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 59 ungezählte Seiten, 1 ungezähltes Blatt: Diagramme; 19 cm (4°)
+<-500-START->Diagramme auf verschiedenen Seiten zeigen die Mondphasen<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-VI-5-START->Lökkös, Antal: Catalogue des incunables imprimés à Genève 1478-1500. - Genève, 1978No. 211<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/GW11318.htm<-L-5-STOP-><-VI-5-START->GW 11318<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ig00345000<-L-5-STOP-><-VI-5-START->ISTC ig00345000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+28 von 32 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Pergamenteinband auf Kartondeckeln (18. Jahrhundert) mit durchzogenen Bünden, Linien-Blindprägung an beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Studentenbibliothek (Bern)
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Speculum sacerdotum. [Genf: Louis Cruse, zwischen 1485 und 1490]
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Blätter D₁ und D₂ sowie D₇ und D₈ fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116728117605511<-L-11-STOP-><-VI-11-START->MUE Inc V 205 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991125927509705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Bernat de Granollachs<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Genf<-O-STOP->
+<-P-START->Cruse, Ludovicus<-P-STOP->
+<-O-START->(Ohne Ort)<-O-STOP->
+<-P-START->Drucker des Missale Romanum (H 11399)<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Studentenbibliothek (Bern)<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991125927509705501<-DOI-STOP->
+<-SIGN-START->MUE Inc V 205 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04492nam a2200625 c 4500
+001 991125927509705501
+005 20211215191453.0
+007 cr#|||||||||||
+008 181031q14941495xx |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/31.10.2018/B404/vha    
+024 7    |a 10.3931/e-rara-88382    |2 doi    
+035      |a (swissbib)075212609-41slsp_network    
+035      |a 075212609    |9 ExL    
+035      |a (IDSBB)006843889DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991125927509705501    
+035      |a (41SLSP_UBE)99116728117605511    |9 (41SLSP_UBE)99116728117605511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Bernat    |c de Granollachs    |d 1421-1487    |0 (DE-588)11885125X    |e Verfasser    |4 aut    
+240 1 0  |a Lunari    
+245 1 0  |a Ad inueniendu[m] luna[m] noua[m] et testa mobilia cu[m] eclipsibus solis [et] lune    |c Incipit tractatus multu[m] vtilis p[er] circu[m]spectu[m] virum d[omi]n[u]m Bernardinu[m] de Granollachs ...    
+246 1    |i Titel in normalisierter Form    |a Ad inveniendum lunam novam et testa mobilia cum eclipsibus solis et lune    
+246 1    |i Titel gemäss GW    |a Lunarium 1495–1550    
+246 1    |i Titel gemäss ISTC    |a Lunarium ab anno 1495 ad annum 1550    
+246 1    |i Titel gemäss Lökkös    |a Lunarium ab anno 1495 usque ad annum 1550    
+264   1  |a [Druckort nicht ermittelbar]    |b [Drucker des Missale Romanum (H 11399) (Louis Cruse?)]    |c [1494 oder 1495]    
+300      |a 1 ungezähltes Blatt, 59 ungezählte Seiten, 1 ungezähltes Blatt    |b Diagramme    |c 19 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+337      |b c    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+338      |b cr    |2 rdacarrier    
+500      |a Verfasserangabe vom Incipit (Blatt A₂ recto); vollständig: "Incipit tractatus multu[m] vtilis p[er] circu[m]spectu[m] virum d[omi]n[u]m Bernardinu[m] de Granollachs barchinonen[sis] artiu[m] [et] medicine magistru[m] ex nobilißima arte astrologie extractus. i[n] quo Coniu[n]ctiones [et] Oppositio[n]es lune cuiuslibet me[n]sis in quolib[et] anno facilime reperiri possunt Incipiendo ab Anno d[omi]ni M.cccc.lxxxxv. vsq[ue] ad a[n]num d[omi]ni M.ccccc. quinquaginta duran[tis]"    
+500      |a Drucker gemäss GW und ISTC; als Druckorte wurden Paris, Genf, Turin oder andere Orte in Frankreich oder Italien vermutet    
+500      |a Signaturformel: A-D⁸    
+500      |a Blätter D₇ verso und D₈ unbedruckt    
+500      |a Diagramme auf verschiedenen Seiten zeigen die Mondphasen    
+510 4    |a Lökkös, Antal: Catalogue des incunables imprimés à Genève 1478-1500. - Genève, 1978    |c No. 211    
+510 4    |a GW    |c 11318    |u https://www.gesamtkatalogderwiegendrucke.de/docs/GW11318.htm    
+510 4    |a ISTC    |c ig00345000    |u http://data.cerl.org/istc/ig00345000    
+561      |a Auf der Titelseite Stempel der Studentenbibliothek Bern    
+563      |a Einbandbeschreibung: Ganzbezogener Pergamenteinband auf Kartondeckeln (18. Jahrhundert) mit durchzogenen Bünden, Linien-Blindprägung an beiden Deckeln; auf dem Rücken Titel in Tinte: "Speculum Sacerdotum ... A. ..." (verblasst, unleserlich)    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 18.6 x 12.8 x 1.8 cm    
+563      |a Zustand Einband: Natürliche Fehlstelle im Pergamentüberzug am Rückdeckel mit Pergament hinterlegt    
+590      |a Buchblockbeschreibung: 28 von 32 Blättern, keine Rubrizierung    
+590      |a Zustand Buchblock: Feuchtigkeitsränder und Schädlingsfrass    
+590      |a Unvollständiges Exemplar: Blätter D₁ und D₂ sowie D₇ und D₈ fehlen    
+590      |a Kritzeleien (unleserlich) in Tinte auf dem Titelblatt (recto und verso) und auf Blatt A₂ recto; auf Blatt A₄ recto hinter der letzten Zeile in Tinte: "l'amitie", unten auf der Seite: "Monsieur"; auf Blatt B₈ verso Zeichnung eines Kopfs, auf Blatt C₁ recto weitere Zeichnung (Motiv unklar)    
+590      |a Zusammengebunden mit: Speculum sacerdotum. - [Genf] : [Louis Cruse], [zwischen 1485 und 1490]    
+700 0 2  |a Bernat    |c de Granollachs    |d 1421-1487    |t Lunari    |0 (DE-588)1170280811    
+700 1    |a Cruse, Ludovicus    |0 (DE-588)136999212    |e Drucker    |4 prt    
+710 2    |a Drucker des Missale Romanum (H 11399)    |0 (DE-588)1170276695    |e Drucker    |4 prt    
+710 2    |a Studentenbibliothek    |g Bern    |0 (DE-588)1124859993    |e Früherer Eigentümer    |4 fmo    
+852 4    |b B404    |c 404U3    |j MUE Inc V 205 : 2    |9 (41SLSP_UBE)99116728117605511    
+856 4    |u https://doi.org/10.3931/e-rara-88382    |z Digitalisat in e-rara    
+900      |a IDSIxunikat    
+900      |a IDSIxhybrid-el    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc V 205 : 2    |b B404    |9 (41SLSP_UBE)99116728117605511    
+986      |a (41SLSP_UBE)99116728117605511    |9 (41SLSP_UBE)99116728117605511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116728117605511    
+990      |f erarabe    |9 local    |9 (41SLSP_UBE)99116728117605511    
+990      |f lza-cc0    |9 local    |9 (41SLSP_UBE)99116728117605511    
+991      |a AAK: 335674    |5 IZ UBE/31.10.2018/B404/vha    |9 local    |9 (41SLSP_UBE)99116728117605511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

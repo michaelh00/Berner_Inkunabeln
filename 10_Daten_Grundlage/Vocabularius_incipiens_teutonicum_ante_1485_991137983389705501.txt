@@ -1,0 +1,128 @@
+﻿<-1-1-START->
+Vocabularius incipiens teutonicum ante latinum
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Speyer: Peter Drach der Mittlere, um 1485]
+<-3-1-STOP->
+
+<-4-1-START->
+500 ungezählte Seiten; 22 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_V-330.html<-L-5-STOP-><-VI-5-START->BSB-Ink V-330<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M51313.htm<-L-5-STOP-><-VI-5-START->GW M51313<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/iv00318000<-L-5-STOP-><-VI-5-START->ISTC iv00318000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+250 von 250 Blättern, Rubrizierung nur zu Beginn
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit mittiger Schliesse, Linien- und Ornamentstempel-Blindprägung auf dem Rücken und beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Joannis Harst
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116885274905511<-L-11-STOP-><-VI-11-START->MUE Inc IV 53<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991137983389705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Speyer<-O-STOP->
+<-P-START->Drach, Peter (der Mittlere)<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Harst, Joannis<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991137983389705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 53<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 02778nam a2200481 c 4500
+001 991137983389705501
+005 20230203200352.0
+008 090410s1485    gw            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/06.05.2016/B404/az    
+035      |a (swissbib)059259531-41slsp_network    
+035      |a 059259531    |9 ExL    
+035      |a (IDSBB)004829313DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991137983389705501    
+035      |a (41SLSP_UBE)99116885274905511    |9 (41SLSP_UBE)99116885274905511    
+040      |a SzZuIDS BS/BE B400    |e rda    |d CH-ZuSLS    
+041 0    |a lat    |a ger    
+130 0    |a Vocabularius incipiens teutonicum ante latinum    |0 (DE-588)1280024704    
+245 1 0  |a Vocabularius incipiens teutonicu[m] ante latinum    
+264   1  |a [Speyer]    |b [Peter Drach der Mittlere]    |c [circa 1485]    
+300      |a 500 ungezählte Seiten    |c 22 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Signaturformel: a–r⁸, A–N⁸, O¹⁰    
+500      |a Das Blatt O₁₀ ist unbedruckt    
+510 4    |a BSB-Ink    |c V-330    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_V-330.html    
+510 4    |a GW    |c M51313    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M51313.htm    
+510 4    |a ISTC    |c iv00318000    |u http://data.cerl.org/istc/iv00318000    
+530      |a Digitalisat (Exemplar der Universitäts- und Landesbibliothek Darmstadt)    |u http://tudigit.ulb.tu-darmstadt.de/show/inc-ii-41    
+561      |a Handschriftlicher Besitzvermerk auf auf Titelseite: "Liber joannis Harst 6 albus" (Kaufpreis)    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit mittiger Schliesse, Linien- und Ornamentstempel- Blindprägung auf dem Rücken und beiden Deckeln    
+563      |a Vorsätze: vorne mit einem fliegenden Blatt und hinten mit 2 fliegenden Blättern    
+563      |a Masse Einband: 22 x 15.5 x 6 cm    
+563      |a Zustand Einband: an vorderem Vorsatz ein fliegendes Blatt abgetrennt und fehlend, Schädlingsfrass, Holz des Rückdeckels sowie Hakenteil und Schliessenriemen ergänzt    
+563      |a Detaillierte Beschreibung im Inkunabel-Einbandkatalog (Lindt/Mülinen)    
+590      |a Buchblockbeschreibung: 250 von 250 Blättern, keine Rubrizierung (mit Ausnahme von Blatt a₂₋₃)    
+590      |a Zustand Buchblock: einige Flecken    
+590      |a Handschriftliche Annotationen in Tinte auf beiden Spiegeln    
+590      |a Historische Signatur auf auf vorderem fliegendem Vorsatzblatt recto: "Lit: 532"    
+655   7  |a Wörterbuch    |2 gnd-content    
+700 1    |a Drach, Peter    |d 1455-1504    |0 (DE-588)124571905    |e Drucker    |4 prt    
+700 1    |a Harst, Joannis    |e Früherer Eigentümer    |4 fmo    
+751      |a Speyer    |0 (DE-588)4056179-3    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 53    |9 (41SLSP_UBE)99116885274905511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc IV 53    |b B404    |9 (41SLSP_UBE)99116885274905511    
+986      |a (41SLSP_UBE)99116885274905511    |9 (41SLSP_UBE)99116885274905511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116885274905511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116885274905511    
+991      |a AAK: 00930070    |5 IZ UBE/rekat-ubbe    |9 local    |9 (41SLSP_UBE)99116885274905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

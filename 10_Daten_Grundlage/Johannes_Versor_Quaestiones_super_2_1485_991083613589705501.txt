@@ -1,0 +1,152 @@
+﻿<-1-1-START->
+Johannes Versor
+<-1-1-STOP->
+
+<-1-2-START->
+Quaestiones super libros De generatione et corruptione Aristotelis
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Teil einer 4-bändigen Ausgabe des Werks von Johannes Versor: Quaestiones super libros Aristotelis; in BSB-Ink als Band [1], in ISTC als Band [4] des Gesamtwerks erfasst<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Köln: Diederich Molner, 29.11.1485
+<-500-START->Im ISTC auch Konrad Welker als möglicher zweiter Drucker genannt<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+2 ungezählte Blätter, xxvi Blätter; 29 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_V-164.html<-L-5-STOP-><-VI-5-START->BSB-Ink V-164,1<-VI-5-STOP->; <-L-5-START->http://gesamtkatalogderwiegendrucke.de/docs/M50238.htm<-L-5-STOP-><-VI-5-START->GW M50238<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/iv00251000<-L-5-STOP-><-VI-5-START->ISTC iv00251000,4<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+28 von 28 Blättern, Lagen zum Teil aus zwei unterschiedlichen Papierqualitäten zusammengestellt; Anfangsinitiale der Tabula rot ausgezeichnet; Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun, Kalb) mit mittiger Schliesse sowie Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln; Buchbinder: Johannes Vatter (gemäss Johann Lindt)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Dominikanerkloster Bern
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 2 weiteren Drucken und 1 Handschrift in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116737229505511<-L-11-STOP-><-VI-11-START->MUE Inc IV 77 : 4<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991083613589705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Johannes Versor<-P-STOP->
+<-P-START->Aristoteles<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Köln<-O-STOP->
+<-P-START->Diederich Molner<-P-STOP->
+<-O-START->Köln<-O-STOP->
+<-P-START->Welker, Konrad<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-P-START->Vatter, Johannes<-P-STOP->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Dominikanerkloster Bern<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991083613589705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 77 : 4<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06142nam a2200685 c 4500
+001 991083613589705501
+005 20211215184531.0
+008 151113s1485    gw            00| | lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/13.11.2015/B400/az    
+035      |a (swissbib)067119115-41slsp_network    
+035      |a 067119115    |9 ExL    
+035      |a (IDSBB)006451920DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991083613589705501    
+035      |a (41SLSP_UBE)99116737229505511    |9 (41SLSP_UBE)99116737229505511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Johannes    |c Versor    |d -1482    |0 (DE-588)102550670    |e Verfasser    |4 aut    
+240 1 0  |a Quaestiones super libros De generatione et corruptione Aristotelis    
+245 1 0  |a Et sic e[st] finis questionu[m] versoris sup[er] duos libros arestotelis de generatione sc[ilicet] et corruptio[n]e    
+246 1    |i Titel in normalisierter Form    |a Et sic est finis questionum Versoris super duos libros Arestotelis de generatione scilicet et corruptione    
+246 1    |i Titel in moderner Orthografie    |a Et sic est finis quaestionum Versoris super duos libros Aristotelis de generatione scilicet et corruptione    
+246 1 0  |a Quaestionum Versoris super duos libros Aristotelis de generatione scilicet et corruptione    
+246 1    |i Textbeginn folio i    |a [C]Jrca iniciu[m] librorum de generatione et corruptione    
+246 1    |i Textbeginn in normalisierter Form    |a Circa inicium librorum de generatione et corruptione    
+246 1    |i Textbeginn in moderner Orthographie    |a Circa initium librorum de generatione et corruptione    
+264   1  |a Colonie    |b p[er] Theodoricum [Molner] impressorem    |c Anno ... M.cccc.lxxxv. Jn vigila sancti Andree apostoli [29. November 1485]    
+300      |a 2 ungezählte Blätter, xxvi Blätter    |c 29 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+490 1    |a Quaestiones super libros Aristotelis    |v [4]    
+500      |a Teil [4] einer 4-teiligen Ausgabe des Werks von Johannes Versor: Quaestiones super libros Aristotelis; nur dieser letzte Teil mit Impressum    
+500      |a Keine Titelseite, Titel gemäss Kolophon (fol. xxv verso)    
+500      |a Impressum gemäss Kolophon (fol. xxv verso): "Et sic e[st] finis questionum versoris sup[er] duos libros arestotelis de generatione sc[ilicet] et corruptio[n]e s[ecundu]m p[ro]cessum burse montis Anno incarnat[i]onis d[omi]nice. M.cccc.lxxxv. Jn vigilia sancti Andree apostoli p[er] Theodoricum impressorem Colonie infra sedecim domos"    
+500      |a Ungezähltes Blatt []₂ (vor Blatt a₁) mit Register    
+500      |a Signaturformel: []², a⁶, b⁸, c⁶, []⁶    
+500      |a Blatt []₁ unbedruckt; Blatt []₆ verso (letzte Seite) unbedruckt    
+510 4    |a BSB-Ink    |c V-164,1    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_V-164.html    
+510 4    |a GW    |c M50238    |u http://gesamtkatalogderwiegendrucke.de/docs/M50238.htm    
+510 4    |a ISTC    |c iv00251000,4    |u http://data.cerl.org/istc/iv00251000    
+530      |a Digitalisat (Exemplar der Universitäts- und Landesbibliothek Darmstadt)    |u http://tudigit.ulb.tu-darmstadt.de/show/inc-iii-93    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun, Kalb) mit mittiger Schliesse sowie Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, blindgeprägtes Titelschild am Rücken: "De Mont[e] In Lib Arlis" (Aristotelis); darüber auf dem Rücken in Tinte: "de Monte Jn lib. Arles"; unter dem Titelschild in Tinte: "1494 Colon. Agripp"    
+563      |a Auf dem Vorderdeckel Pergamentschild mit Titel in Tinte: "Textus ethi[corum] Q[uaesti]o[ne]s lamb[er]ti de a[n]i[m]a [et] u[er]so[ris] sup[er] p[ar]ua na[tura]lia"    
+563      |a Vorsätze: vorne mit 3 fliegenden Blättern (Pergament und Papier) und hinten mit einem fliegenden Blatt (Pergament); im vorderen und hinteren Spiegel Makulatur einer mittelalterlichen Handschrift; Pergamentblätter vorne und hinten handschriftlich in Tinte mit lateinischem Text beschrieben; auf erstem fliegenden Blatt aus Papier die Titel der enthaltenen Bücher: "Text[us] Ethicoru[m] aristo[te]lis ...[?] lamb[er]t[us] sup[er] d[e] a[n]i[m]a ...[?] Joh[ann]is v[er]soris sup[er] p[ar]ua na[tura]lia"    
+563      |a Masse Einband: 28.1 x 19.6 x 5.6 cm    
+563      |a Zustand Einband: Loch am Rückdeckel von vormaliger Ankettung, Lederüberklebungen am Rücken mit Titelergänzung, beide Pergamentspiegel hoch gelöst    
+563      |a Gemäss Lindt Einband des Berner Dominikanermönchs Johannes Vatter (Johann Lindt: Berner Einbände, Buchbinder und Buchdrucker. Bern, 1969. Seite 50)    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 28 von 28 Blättern, Lagen zum Teil aus zwei unterschiedlichen Papierqualitäten zusammengestellt; Anfangsinitiale der Tabula (Blatt []₂ recto) rot ausgezeichnet, sonst vorgesehene Stellen für Initialen frei gelassen; Rubrizierung    
+590      |a Zustand Buchblock: Zum Teil Risse im roten Farbauftrag    
+590      |a Zusammengebunden mit 2 weiteren Drucken und 1 Handschrift in Sammelband    
+590      |a Vorgebunden ist Teil 3 dieser Ausgabe des Werks von Johannes Versor: Quaestiones super libros Parvorum naturalium Aristotelis    
+590      |a Abschnitte mit Initialen rubriziert    
+590      |a Am Ende des Bandes zwei Pergamentblätter, vollgeschrieben mit lateinischem Text (zeitgenössisch)    
+590      |a Frühere Signatur: Inc 79    
+700 0 2  |a Johannes    |c Versor    |d -1482    |t Quaestiones super libros De generatione et corruptione Aristotelis    |0 (DE-588)1122311125    
+700 0    |a Diederich    |c Molner    |d ca. 15. Jh.    |0 (DE-588)137426046    |e Drucker    |4 prt    
+700 1    |a Vatter, Johannes    |d 1470-1509    |0 (DE-588)1114426377    |e Buchbinder    |4 bnd    
+710 2    |a Dominikanerkloster Bern    |0 (DE-588)4302674-6    |e Früherer Eigentümer    |4 fmo    
+751      |a Köln    |0 (DE-588)4031483-2    
+800 0    |a Johannes    |c Versor    |d -1482    |t Quaestiones super libros Aristotelis    |v 4    |w (IDSBB)006654397DSV01    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 77 : 4    |9 (41SLSP_UBE)99116737229505511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 2 weiteren Drucken und 1 Handschrift in Sammelband    |p 12    |j MUE Inc IV 77 : 4    |b B404    |9 (41SLSP_UBE)99116737229505511    
+986      |a (41SLSP_UBE)99116737229505511    |9 (41SLSP_UBE)99116737229505511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116737229505511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

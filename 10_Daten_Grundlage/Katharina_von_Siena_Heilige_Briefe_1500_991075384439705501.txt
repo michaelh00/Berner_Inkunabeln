@@ -1,0 +1,150 @@
+﻿<-1-1-START->
+Katharina von Siena
+<-1-1-STOP->
+
+<-1-2-START->
+Briefe [italienisch]; Orazioni
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Herausgegeben von Bartholomaeus de Alzano<-500-STOP->
+<-500-START->Mit Widmungsbrief von Aldo Pio Manuzio an D. Francesco de Piccolhomini da Siena (später Pius III.), der "Epistola Domni Stephani de gestis et virtutibus S. Catharinae" von Stefano Maconi an Fra Thomaso de Antonio da Siena, dem Gedicht "Laude di S. Caterina" von Nastagio da Montalcino und der "Memoria quotidiana beatae Catharinae Virginis Senensis" von Pius II.<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Aldo Pio Manuzio, 15.09., das heisst nicht vor 19.09.1500
+<-3-1-STOP->
+
+<-4-1-START->
+20 ungezählte Seiten, ccccxiiii, das heisst ccccxi Blätter, 1 ungezähltes Blatt: 1 Illustration, Holzschnittinitialen; 31 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_C-193.050.html<-L-5-STOP-><-VI-5-START->BSB-Ink C-193.050<-VI-5-STOP->; <-L-5-START->http://gesamtkatalogderwiegendrucke.de/docs/GW06222.htm<-L-5-STOP-><-VI-5-START->GW 6222<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ic00281000<-L-5-STOP-><-VI-5-START->ISTC ic00281000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+422 von 422 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (schwarz, Ziege, 20. Jahrhundert), Lederauflagen mit Bogensatz- und Ornamentstempel-Vergoldung auf beiden Deckeln, Linien-Blindprägung auf beiden Deckeln und an den Bünden, Buchbinder: Henri Marius Michel
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Kloster San Nicola da Tolentino Venedig; René Philipon
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116708230905511<-L-11-STOP-><-VI-11-START->MUE Inc I 106<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991075384439705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Katharina von Siena<-P-STOP->
+<-P-START->Bartholomaeus de Alzano<-P-STOP->
+<-P-START->Stefano Maconi<-P-STOP->
+<-P-START->Nastagio da Montalcino<-P-STOP->
+<-P-START->Katholische Kirche, 1458-1464 : Pius II.<-P-STOP->
+<-P-START->Pius II. (Papst)<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Manuzio, Aldo Pio<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-P-START->Michel, Henri Marius<-P-STOP->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Philipon, René<-P-STOP->
+<-P-START->Kloster San Nicola da Tolentino Venedig<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991075384439705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 106<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05076nam a2200637 c 4500
+001 991075384439705501
+005 20211215180811.0
+008 160914s1500    it |||||      00| i|ita d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/14.09.2016/B404/faf    
+035      |a (swissbib)07052646X-41slsp_network    
+035      |a 07052646X    |9 ExL    
+035      |a (IDSBB)006620945DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991075384439705501    
+035      |a (41SLSP_UBE)99116708230905511    |9 (41SLSP_UBE)99116708230905511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Katharina    |c von Siena, Heilige    |d 1347-1380    |0 (DE-588)11856059X    |e Verfasser    |4 aut    
+240 1 0  |a Briefe    
+245 1 0  |a Epistole Devotissime    |c De Sancta Catharina Da Siena; Sappia ciascuno nele cui mano uerranno queste Epistole: che essendo state adunate insemi con grandissima diligentia & faticha per spatio di circa uinti anni per il Venerabile seruo di Dio frate Bartholomeo da Alzano da Bergamo del ordine de la obseruantia de li frati predicatori ...    
+264   1  |a Stampato in la Inclita Cita de Venetia    |b in Casa De Aldo Manutio Romano    |c a di xv. Septembrio .M.ccccc. [15.09., das heisst nicht vor 19.09.1500]    
+300      |a 20 ungezählte Seiten, ccccxiiii, das heisst ccccxi Blätter, 1 ungezähltes Blatt    |b 1 Illustration    |c 31 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Ab Blatt cccxci folgen die Orazioni der heiligen Katharina    
+500      |a Mit Widmungsbrief von Aldo Manuzio an D. Francesco de Piccolhomini da Siena (später Pius III.), der "Epistola Domni Stephani de gestis et virtutibus S. Catharinae" von Stefano Maconi an Fra Thomaso de Antonio da Siena, einem Inhaltsverzeichnis, dem Gedicht "Laude di S. Caterina" von Nastagio da Montalcino und der "Memoria quotidiana beatae Catharinae Virginis Senensis" von Pius II.    
+500      |a Impressum gemäss Kolophon    
+500      |a Widmungsbrief datiert 19. September 1500    
+500      |a Foliierungsfehler: Blattzahl cii auf Rückseite von Blatt ci, Blattzahlen clxix und ccxxxii ausgelassen, zahlreiche weitere Fehler    
+500      |a Signaturformel: *¹⁰, a–y⁸, A–G⁸, H¹⁰, I–N⁸, O¹⁰, P–Z⁸, AA–FF⁸    
+500      |a Holzschnittinitialen    
+510 4    |a BSB-Ink    |c C-193.050    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_C-193.050.html    
+510 4    |a GW    |c 6222    |u http://gesamtkatalogderwiegendrucke.de/docs/GW06222.htm    
+510 4    |a ISTC    |c ic00281000    |u http://data.cerl.org/istc/ic00281000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0004/bsb00049517/images    
+561      |a Geschenk von René Philipon an die Stadtbibliothek Bern (1935); Stempel auf Titelseite: "Domus S. Nicolai Tolent. Venet."    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (schwarz, Ziege, 20. Jh.) von Henri Marius Michel, Lederauflagen mit Bogensatz- und Ornamentstempel-Vergoldung auf beiden Deckeln, Linien-Blindprägung auf beiden Deckeln und an den Bünden    
+563      |a Vorsätze: Vorne und hinten mit 4 fliegenden Blättern (jeweils 1 fliegendes Blatt aus Pergament, Lederspiegel mit Lederauflage und Goldprägung sowie Buchbinder-Signet)    
+563      |a Masse Einband: 30.2 x 21.9 x 6.2 cm    
+563      |a Zustand Einband: Ecken zum Teil abgestossen, Hochlösung des Auflagen-Leders an kleinsten Stellen, stellenweise helle Verfleckung an beiden Deckeln    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 422 von 422 Blättern, Goldschnitt    
+590      |a Einband    
+700 0 2  |a Katharina    |c von Siena, Heilige    |d 1347-1380    |t Briefe    |0 (DE-588)1113687746    
+700 0 2  |a Katharina    |c von Siena, Heilige    |d 1347-1380    |t Orazioni    |0 (DE-588)1113750677    
+700 0    |a Bartholomaeus    |c de Alzano    |d ca. um 1461/74    |0 (DE-588)104041099    |e Herausgeber    |4 edt    
+700 0    |a Stefano    |c Maconi    |d 1347-1421    |0 (DE-588)100961150    |e Verfasser    |4 aut    
+700 0 2  |a Stefano    |c Maconi    |d 1347-1421    |t Epistola Domni Stephani de gestis et virtutibus S. Catharinae    |0 (DE-588)1113781181    
+700 0    |a Nastagio    |c da Montalcino    |d ca. 14. Jh.    |0 (DE-588)1113779241    |e Verfasser    |4 aut    
+700 0 2  |a Nastagio    |c da Montalcino    |d ca. 14. Jh.    |t Laude di S. Caterina    |0 (DE-588)1113781629    
+700 1    |a Manuzio, Aldo Pio    |d 1450-1515    |0 (DE-588)118577387    |e Drucker    |4 prt    
+700 1    |a Philipon, René    |d 1869-1936    |0 (DE-588)123272491    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Michel, Henri Marius    |d 1846-1925    |0 (DE-588)132153270    |e Buchbinder    |4 bnd    
+710 1    |a Katholische Kirche    |b Papst    |g 1458-1464 : Pius II.    |0 (DE-588)1113612533    |e Verfasser    |4 aut    
+710 2 2  |a Katholische Kirche    |b Papst    |g 1458-1464 : Pius II.    |t Memoria quotidiana beatae Catharinae Virginis Senensis    |0 (DE-588)1123242720    
+710 2    |a Kloster San Nicola da Tolentino Venedig    |0 (DE-588)1183969201    |e Früherer Eigentümer    |4 fmo    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Inc I 106    |9 (41SLSP_UBE)99116708230905511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc I 106    |b B404    |9 (41SLSP_UBE)99116708230905511    
+986      |a (41SLSP_UBE)99116708230905511    |9 (41SLSP_UBE)99116708230905511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116708230905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

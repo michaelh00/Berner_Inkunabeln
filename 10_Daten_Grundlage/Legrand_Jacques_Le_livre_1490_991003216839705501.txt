@@ -1,0 +1,130 @@
+﻿<-1-1-START->
+Legrand, Jacques
+<-1-1-STOP->
+
+<-1-2-START->
+Le livre de bonnes mœurs
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Rouen: [Guillaume Le Talleur], [um 1490]
+<-500-START->Druckjahr gemäss ISTC; gemäss GW: um 1487<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+132 ungezählte Seiten; 21 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M17689.htm<-L-5-STOP-><-VI-5-START->GW M17689<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/im00036000<-L-5-STOP-><-VI-5-START->ISTC im00036000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+66 von 66 Blättern; rot ausgezeichnete Initialen; Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (grün, Velours)
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 5 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116778469405511<-L-11-STOP-><-VI-11-START->MUE Inc IV 54 : 3<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991003216839705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Legrand, Jacques<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Rouen<-O-STOP->
+<-P-START->Le Talleur, Guillaume<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991003216839705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 54 : 3<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 02871nam a2200505 c 4500
+001 991003216839705501
+005 20211215172924.0
+008 160429s1490    fr |||||      00| ||fre d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/29.04.2016/B404/az    
+035      |a (swissbib)072556463-41slsp_network    
+035      |a 072556463    |9 ExL    
+035      |a (IDSBB)006499058DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991003216839705501    
+035      |a (41SLSP_UBE)99116778469405511    |9 (41SLSP_UBE)99116778469405511    
+040      |a SzZuIDS BS/BE    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Legrand, Jacques    |d 1365-1420    |0 (DE-588)118999877    |e Verfasser    |4 aut    
+240 1 0  |a <<Le>> livre de bonnes mœurs    
+245 1 0  |a Cy com[m]ence le liure de bonnes meurs compile par frere Jaques le grant. Religieulx de lordre saint augustin    
+246 1    |i Explicit    |a Explicit le liure de bonnes meurs imprime a rouen par .G.le.T    
+246 1    |i Explicit in normalisierter Form    |a <<Le>> livre de bonnes meurs    
+246 1    |i Titel gemäss GW    |a Sophologium    
+246 1    |i Titel in moderner Orthografie    |a Ci commence le livre de bonnes moeurs compilé par frère Jaques le Grand, religieux de l'ordre Saint Augustin    
+246 1    |i Titel in normalisierter Form    |a Cy commence le livre de bonnes meurs compile par frere Jaques le Grant. Religieulx de lordre Saint Augustin    
+264   1  |a Rouen    |b [Guillaume Le Talleur]    |c [um 1490]    
+300      |a 132 ungezählte Seiten    |c 21 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss Incipit ([a₂] verso)    
+500      |a Drucker und Druckort gemäss Explicit, Druckjahr gemäss ISTC    
+500      |a Abweichendes Druckjahr gemäss GW: um 1487    
+500      |a Signaturformel: a-g⁸,h¹⁰    
+500      |a Das letzte Blatt ist unbedruckt    
+510 4    |a GW    |c M17689    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M17689.htm    
+510 4    |a ISTC    |c im00036000    |u http://data.cerl.org/istc/im00036000    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (grün, Velours)    
+563      |a Vorsätze: vorne 2 und hinten drei fliegende Blätter    
+563      |a Masse Einband: 21.2 x 14.7 x 4.6 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, Fehlstellen mit Gewebe unterlegt, Deckel und Vorsätze ergänzt, Verschlussbänder fehlend    
+590      |a Zusammengebunden mit fünf weiteren Drucken in Sammelband    
+590      |a Buchblockbeschreibung: 66 von 66 Blättern; rot ausgezeichnete Initialen; Rubrizierung    
+590      |a Historische Signatur auf vorderem fliegendem Vorsatzblatt: "Theol N° 414 403"    
+700 1 2  |a Legrand, Jacques    |d 1365-1420    |t <<Le>> livre de bonnes mœurs    |0 (DE-588)4721346-2    
+700 1    |a Le Talleur, Guillaume    |d 14XX-1492    |0 (DE-588)1037573293    |e Drucker    |4 prt    
+751      |a Rouen    |0 (DE-588)4050751-8    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 54 : 3    |9 (41SLSP_UBE)99116778469405511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc IV 54 : 3    |b B404    |9 (41SLSP_UBE)99116778469405511    
+986      |a (41SLSP_UBE)99116778469405511    |9 (41SLSP_UBE)99116778469405511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116778469405511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

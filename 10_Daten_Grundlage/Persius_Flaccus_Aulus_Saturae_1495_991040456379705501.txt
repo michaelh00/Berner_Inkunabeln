@@ -1,0 +1,147 @@
+﻿<-1-1-START->
+Persius Flaccus, Aulus
+<-1-1-STOP->
+
+<-1-2-START->
+Saturae. — Britannico, Giovanni: In Persii satiras commentarii; Vita Persii. — Fonte, Bartolomeo: Commentum in Persium; Vita Persii
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Widmungsbrief an Senat und Volk von Brescia und Vorwort von Giovanni Britannico<-500-STOP->
+<-500-START->Mit Brief an Francesco Sassetti von Bartolomeo Fonte<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Pietro Quarengi, 13.04.1495
+<-3-1-STOP->
+
+<-4-1-START->
+95 ungezählte Seiten: Holzschnittinitialen; 32 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_P-252.html<-L-5-STOP-><-VI-5-START->BSB-Ink P-252<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M31404.htm<-L-5-STOP-><-VI-5-START->GW M31404<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ip00357000<-L-5-STOP-><-VI-5-START->ISTC ip00357000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+48 von 48 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jahrhundert) mit Sprenkelpapier (hellbraun), Ornamentrollen-Blindprägung am Rückenbezug
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Facta et dicta memorabilia / Valerius Maximus. Venedig: Bartolomeo Zani, 1497
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116915903305511<-L-11-STOP-><-VI-11-START->MUE Inc VI 2 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991040456379705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Persius Flaccus, Aulus<-P-STOP->
+<-P-START->Britannico, Giovanni<-P-STOP->
+<-P-START->Fonte, Bartolomeo<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Quarengi, Pietro<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991040456379705501<-DOI-STOP->
+<-SIGN-START->MUE Inc VI 2 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04446nam a2200661 c 4500
+001 991040456379705501
+005 20211215172450.0
+008 190717s1495    it |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/18.07.2019/B404/vha    
+035      |a (swissbib)073042021-41slsp_network    
+035      |a 073042021    |9 ExL    
+035      |a (IDSBB)007103973DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991040456379705501    
+035      |a (41SLSP_UBE)99116915903305511    |9 (41SLSP_UBE)99116915903305511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Persius Flaccus, Aulus    |d 34-62    |0 (DE-588)118592815    |e Verfasser    |4 aut    
+240 1 0  |a Saturae    
+245 1 0  |a Persius    |b cum duobus commentis    
+246 1    |i Incipit    |a Avli Flacci Persii Poetae Satyrarvm Opvs    
+246 1    |i Incipit in normalisierter Form    |a Auli Flacci Persii Poetae Satyrarum Opus    
+246 1 0  |a Satyrarum Opus    
+246 1    |i Titel gemäss BSB-Ink    |a Satirae    
+246 1    |i Titel gemäss GW und ISTC    |a Satyrae    
+264   1  |a Impressum Venetiis    |b per Petrum Io. de quarengis Pergomensem    |c Anno Domini .M.CCCCLXXXXV. die .xiii. Aprilis [13.04.1495]    
+300      |a 95 ungezählte Seiten    |c 32 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit ausführlichen Kommentaren von Giovanni Britannico und Bartolomeo Fonte    
+500      |a Widmungsbrief an Senat und Volk von Brescia (Blatt a₁ verso), "Vita Persii" und Vorwort (Blatt a₂ recto) von Giovanni Britannico    
+500      |a "Vita Persii" (Blatt a₂ recto) und Brief an Francesco Sassetti (Blatt h₃ verso) von Bartholomaeus Fontius    
+500      |a Signaturformel: a⁸, b–g⁶, h⁴    
+500      |a Blatt h₄ verso unbedruckt    
+500      |a Holzschnittinitialen    
+505 0 0  |g Blatt a₂ recto    |t Vita Persii    |r Per Ioannem Britannicvm    |t Vita Persii    |r Per Bartolomevm Fontivm    
+510 4    |a BSB-Ink    |c P-252    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_P-252.html    
+510 4    |a GW    |c M31404    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M31404.htm    
+510 4    |a ISTC    |c ip00357000    |u http://data.cerl.org/istc/ip00357000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00060445/image_5    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jahrhundert) mit Sprenkelpapier (hellbraun), Ornamentrollen-Blindprägung am Rückenbezug, Titelschild mit Goldprägung auf dem Rücken: "Val: Max: Persius"    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 31.3 x 21.7 x 4.7 cm    
+563      |a Zustand Einband: Abspaltungen und Brüche im Leder des Rückenbezuges    
+590      |a Buchblockbeschreibung: 48 von 48 Blättern, letztes Blatt (h₄) verso mit Japanpapierfalz-Verstärkung, vorgesehene Stelle für Initiale auf Blatt h₃ verso frei gelassen (Initiale mit Tinte flüchtig ergänzt), keine Rubrizierung    
+590      |a Zustand Buchblock: Buchblock mit quer verlaufender Verwellung, schwer zu blättern    
+590      |a Handschriftliche Annotationen in Tinte; auf der Titelseite Epigramm von Martial (4.29.7-8): "Sæpius in libro numerat[ur] Persius uno, quam levis in tota Marsus Amazonide. Martialis"    
+590      |a Zusammengebunden mit Valerius Maximus: Facta et dicta memorabilia. - Venedig : Bartolomeo Zani, 1497    
+700 1 2  |a Persius Flaccus, Aulus    |d 34-62    |t Saturae    |0 (DE-588)4271837-5    
+700 1 2  |a Britannico, Giovanni    |d -1518    |t Vita Persii    |0 (DE-588)1177414538    
+700 1 2  |a Britannico, Giovanni    |d -1518    |t In Persii satiras commentarii    |0 (DE-588)1177311070    
+700 1    |a Britannico, Giovanni    |d -1518    |0 (DE-588)119630249    |e Verfasser eines Vorworts    |e Verfasser von ergänzendem Text    |4 wpr    |4 wst    
+700 1 2  |a Fonte, Bartolomeo    |d 1445-1513    |t Commentum in Persium    |0 (DE-588)1177311488    
+700 1 2  |a Fonte, Bartolomeo    |d 1445-1513    |t Vita Persii    |0 (DE-588)1177415224    
+700 1    |a Fonte, Bartolomeo    |d 1445-1513    |0 (DE-588)100278760    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Quarengi, Pietro    |d 14XX-15XX    |0 (DE-588)1037566556    |e Drucker    |4 prt    
+700 1    |a Sassetti, Francesco    |d 1421-1490    |0 (DE-588)119060574    |e Widmungsempfänger    |4 dte    
+710 1    |a Brescia    |b Amministrazione Comunale    |0 (DE-588)1087201101    |e Widmungsempfänger    |4 dte    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Inc VI 2 : 2    |9 (41SLSP_UBE)99116915903305511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc VI 2 : 2    |b B404    |9 (41SLSP_UBE)99116915903305511    
+986      |a (41SLSP_UBE)99116915903305511    |9 (41SLSP_UBE)99116915903305511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116915903305511    
+991      |a AAK: 681844    |5 IZ UBE/18.07.2019/B404/vha    |9 local    |9 (41SLSP_UBE)99116915903305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

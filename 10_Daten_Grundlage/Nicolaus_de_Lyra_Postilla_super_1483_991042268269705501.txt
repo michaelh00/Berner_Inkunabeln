@@ -1,0 +1,139 @@
+﻿<-1-1-START->
+Nicolaus de Lyra
+<-1-1-STOP->
+
+<-1-2-START->
+Postilla super Psalterium
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Text der Psalmen, umgeben vom Kommentar<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Paris: Ulrich Gering, 05.11.1483
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 615 ungezählte Seiten; 22 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M26626.htm<-L-5-STOP-><-VI-5-START->GW M26626<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/in00123000<-L-5-STOP-><-VI-5-START->ISTC in00123000<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/in00123000<-L-5-STOP-><-VI-5-START->ISTC in00123000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+308 von 309 Blättern, rot, blau oder gold ausgezeichnete Initialen (gold auf rotbraunem Grund), Rubrizierung (zu gelb verblasst)
+<-6-1-STOP->
+
+<-7-1-START->
+Flexibler Pergamenteinband mit durchzogenen Kapitalbünden (16./17. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars; Albert Delaquerut
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116693009405511<-L-11-STOP-><-VI-11-START->MUE Bong I 514<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991042268269705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Nicolaus de Lyra<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Paris<-O-STOP->
+<-P-START->Gering, Ulrich<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-P-START->Delaquerut, Albert<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991042268269705501<-DOI-STOP->
+<-SIGN-START->MUE Bong I 514<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03818nam a2200565 c 4500
+001 991042268269705501
+005 20230207145120.0
+008 100713s1483    fr            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/13.07.2010    
+035      |a (swissbib)061271586-41slsp_network    
+035      |a 061271586    |9 ExL    
+035      |a (IDSBB)005277980DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991042268269705501    
+035      |a (41SLSP_UBE)99116693009405511    |9 (41SLSP_UBE)99116693009405511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Nicolaus    |c de Lyra    |d 1270-1349    |0 (DE-588)119238683    |e Verfasser    |4 aut    
+240 1 0  |a Postilla super Psalterium    
+245 1 0  |a Explicit postilla sup[er] libru[m] psalmo[rum]    |c edita a fratre Nicolao de lyra ex ordine mino[rum] sacre theologie doctore excelle[n]tissimo    
+246 1    |i Titel in normalisierter Form    |a Explicit postilla super librum psalmorum    
+246 1 0  |a Postilla super librum psalmorum    
+246 1    |i Incipit    |a Postilla venerabilis fratris Nicolai de Lyra super psalterium feliciter incipit    
+264   1  |a Impressu[m]q[ue] in celeberrima vrbe Parisie[n]si ...    |b per m[a]g[ist]r[u]m vdalricu[m] gering    |c Anno d[omi]ni M°.cccc°.lxxxiii. die quinta nouembris [05.11.1483]    
+300      |a 1 ungezähltes Blatt, 615 ungezählte Seiten    |c 22 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Text der Psalmen umgeben vom Kommentar    
+500      |a Signaturformel: a⁸, b⁹, c-z⁸, A-J⁸, kk⁶, L-O⁸, P¹²    
+500      |a Blatt a₁ unbedruckt, Blatt P₁₂ verso unbedruckt    
+510 4    |a GW    |c M26626    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M26626.htm    
+510 4    |a ISTC    |c in00123000    |u https://data.cerl.org/istc/in00123000    
+510 4    |a ISTC    |c in00123000    |u http://data.cerl.org/istc/in00123000    
+561      |a Handschriftlicher Besitzervermerk auf Blatt P₁₀ verso, unter dem Kolophon: "Ex Libris Alb delaquerut"    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Flexibler Pergamenteinband mit durchzogenen Kapitalbünden (16./17. Jahrhundert); auf dem Rücken Titel in Tinte (weitgehend verblasst, unleserlich)    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 21.9 x 15.4 x 4.5 cm    
+563      |a Zustand Einband: Beide Spiegel verwellt, mit Einrissen    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 308 von 309 Blättern, rot, blau oder gold ausgezeichnete Initialen (gold auf rotbraunem Grund), Rubrizierung zu gelb verblasst    
+590      |a Zustand Buchblock: Blatt P₁₂ zur Hälfte abgerissen, vor allem blaues Farbmittel durch Abrieb und Abklatsch auf gegenüber liegenden Seiten geschädigt (Blätter r₁ verso und r₂ recto) oder durch Feuchtigkeitsschaden abgelöst (Blätter P₁₀ verso und P₁₁ recto)    
+590      |a Blatt a₁ (unbedruckt) fehlt; von Blatt P₁₂ rechte Hälfte weggerissen (ohne Textverlust beim Register)    
+590      |a Historische Signatur auf vorderem Spiegel: "Theol. No. 133"; 133 durchgestrichen und daneben "218"    
+590      |a Frühere Signaturen: Inc IV 37; Inc 484; Hortin XI 13    
+700 0 2  |a Nicolaus    |c de Lyra    |d 1270-1349    |t Postilla super Psalterium    |0 (DE-588)116887324X    
+700 1    |a Gering, Ulrich    |d 1455-1510    |0 (DE-588)13325366X    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Delaquerut, Albert    |e Früherer Eigentümer    |4 fmo    
+730 0    |a Bibel    |p Psalmen    |0 (DE-588)4047632-7    
+751      |a Paris    |0 (DE-588)4044660-8    
+852 4    |b B404    |c 404U3    |j MUE Bong I 514    |9 (41SLSP_UBE)99116693009405511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc IV 37    |c 404U3    |p 12    |j MUE Bong I 514    |b B404    |9 (41SLSP_UBE)99116693009405511    
+986      |a (41SLSP_UBE)99116693009405511    |9 (41SLSP_UBE)99116693009405511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116693009405511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116693009405511    
+991      |a Bongars: 10178    |5 IZ UBE/B400/13.07.2010    |9 local    |9 (41SLSP_UBE)99116693009405511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

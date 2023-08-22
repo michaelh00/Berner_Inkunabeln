@@ -1,0 +1,177 @@
+﻿<-1-1-START->
+Johannes Duns Scotus
+<-1-1-STOP->
+
+<-1-2-START->
+Ordinatio
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Neben Thomas Penketh (in Kolophonen) wird auch Bartolomeo Bellati als Herausgeber genannt (Band 2)<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Johann Herbort für Johann von Köln und Nicolas Jenson (Johannes de Colonia, Nicolaus Jenson sociique), 1481
+<-500-START->Datierung in den Kolophonen: Band 1: 10.11.1481; Band 2: 22.11.1481; Band 3: nur 1481; Band 4: 13.11.1481<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+4 Bände: Druckermarken; 25 cm (4°)
+<-500-START->Band 1: 1 ungezähltes Blatt, 560 ungezählte Seiten, 1 ungezähltes Blatt; Band 2: 1 ungezähltes Blatt, 353 ungezählte Seiten; Band 3: 1 ungezähltes Blatt, 252 ungezählte Seiten, 1 ungezähltes Blatt; Band 4: 1 ungezähltes Blatt, 596 ungezählte Seiten, 1 ungezähltes Blatt<-500-STOP->
+<-500-START->Ungezählte Blätter unbedruckt<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_D-305.html<-L-5-STOP-><-VI-5-START->BSB-Ink D-305<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW09075.htm<-L-5-STOP-><-VI-5-START->GW 9075<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/id00381000<-L-5-STOP-><-VI-5-START->ISTC id00381000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+Band 1: 282 von 282 Blättern, Band 2: 178 von 178 Blättern, Band 3: 124 von 128 Blättern, Band 4: 300 von 300 Blättern; rot augezeichnete Initialen und Rubrizierung nur auf den ersten Blättern in jedem Band (in Band 4 etwas mehr); Band 3 und 4 mit zweifarbig ausgezeichneten Anfangsinitialen; sonst Initialen nur in einzelnen Fällen mit Tinte gezeichnet
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun, Schaf) mit einer mittigen Schliesse, Linien- und Ornamentstempel-Blindprägung an beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Franz Kolb; Georg Holzrüti; Kloster Thorberg
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar Band 3: Blätter q₃-q₆ fehlen, ersetzt durch unbedruckte Blätter mit handschriftlicher Abschrift des fehlenden Texts
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116814052005511<-L-11-STOP-><-VI-11-START->MUE Inc IV 57<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991137168699705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Johannes Duns Scotus<-P-STOP->
+<-P-START->Penketh, Thomas<-P-STOP->
+<-P-START->Bellati, Bartolomeo<-P-STOP->
+<-P-START->Duns Scotus, Johannes<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Johann von Köln<-P-STOP->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Jenson, Nicolas<-P-STOP->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Herbort, Johann<-P-STOP->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Johannes de Colonia, Nicolaus Jenson sociique<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Kolb, Franz<-P-STOP->
+<-P-START->Holzrüti, Georg<-P-STOP->
+<-P-START->Kloster Thorberg<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991137168699705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 57<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 12403nam a2200841 ca4500
+001 991137168699705501
+005 20211215201032.0
+008 800529s1481    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/19.12.2013/B400/vha    
+019      |a Nach Vorlage rekatalogisiert    |5 IDSBB/12.10.2020/B404/vha    
+035      |a (swissbib)064662195-41slsp_network    
+035      |a 064662195    |9 ExL    
+035      |a (IDSBB)006204819DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991137168699705501    
+035      |a (41SLSP_UBE)99116814052005511    |9 (41SLSP_UBE)99116814052005511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Johannes    |c Duns Scotus    |d 1266-1308    |0 (DE-588)118528165    |e Verfasser    |4 aut    
+240 1 0  |a Ordinatio    
+245 1 0  |a Explicit scriptum super primu[m] [- quartum] s[e]n[tent]iaru[m]    |c editum a fratre Joanne duns: ordinis fratrum minoru[m] doctore ... Per excellentissimu[m] sacre theologie doctorem magistru[m] Thoma[m] penketh anglicu[m] ordinis heremitaru[m] sancti Aug[ustini] in famosissimo studio patauino ordinarie legentem maxima cu[m] dilige[n]tia emendatum    
+246 1    |i Titel in normalisierter Form    |a Explicit scriptum super primum [- quartum] sententiarum    
+246 1 0  |a Scriptum super primum [- quartum] sententiarum    
+246 1 3  |a Scriptum super quattuor libros sententiarum    
+246 1    |i Incipit Band 1    |a Incipit scriptu[m] sup[er] Primo sente[n]tiar[um]    
+246 1    |i Incipit Band 1 in normalisierter Form    |a Incipit scriptum super primo sententiarum    
+246 1    |i Titel gemäss BSB-Ink    |a Quaestiones super Sententias. Liber 1-4    
+246 1    |i Titel gemäss GW    |a Quaestiones in quattuor libros Sententiarum    
+246 1    |i Titel gemäss ISTC    |a Quaestiones in quattuor libros Sententiarum Petri Lombardi    
+264   1  |a Impressum Venetijs    |b op[er]e ac impe[n]sa Joannis de Colonia. Nicolai Jenson: socioru[m]q[ue] eoru[n]de[m] cura[m] ac diligentia[m] adhibuit i[n] his su[m]m[us] in hac arte vir: magister Joannes de Selgenstat no[n] mediocriter obseruandus    |c Anno salut[is] .1.4.81. ... [1481]    
+300      |a 4 Bände    |c 25 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Titel und Impressum gemäss Kolophon in Band 1    
+500      |a Neben Thomas Penketh wird auch Bartolomeo Bellati als Herausgeber genannt; siehe Band 2, Blatt y₃ recto, im einleitenden Absatz zu einem ergänzenden Text von ihm: "visu[m] per clarissimu[m] theologie doctore[m] magistrum Bartholomeu[m] bellatu[m] feltrense[m]. ..."    
+500      |a Datierung in den Kolophonen: Band 1: "Anno salut[is] .1.4.81. 10. Noue[m]bris" (10.11.1481; Blatt gg₈ verso); Band 2: "Anno salutis. 1481.22. die Noue[m]bris." (22.11.1481; Blatt x₁ verso); Band 3: "Anno domini M.cccc.lxxxj." (1481; Blatt q₆ verso); Band 4: "Anno salut[is] .1481. 13. noue[m]bris." (13.11.1481; Blatt M₆ recto)    
+500      |a Rot gedruckte Druckermarken in Band 2 Blatt y₉ verso, Band 3 Blatt q₆ verso, in Band 4 Blätter M₆ recto und M₉ verso    
+500      |a Umfang Band 1: 1 ungezähltes Blatt, 560 ungezählte Seiten, 1 ungezähltes Blatt; Band 2: 1 ungezähltes Blatt, 353 ungezählte Seiten; Band 3: 1 ungezähltes Blatt, 252 ungezählte Seiten, 1 ungezähltes Blatt; Band 4: 1 ungezähltes Blatt, 596 ungezählte Seiten, 1 ungezähltes Blatt    
+500      |a Signaturformel Band 1: a-z⁸, [et]⁸, [con]⁸, [rum]⁸, aa-hh⁸, ii¹⁰; Band 2: a-x⁸, y¹⁰; Band 3: a-q⁸; Band 4: a-k⁸, h-i⁸, k¹⁰, o-y⁸, [et]⁸, [con]⁸, [rum]⁸, A-L⁸, M¹⁰    
+500      |a Erstes Blatt a₁ in allen vier Bänden unbedruckt; letzte Blätter in Band 1 (ii₁₀), 3 (q₈) und 4 (M₁₀) unbedruckt    
+510 4    |a BSB-Ink    |c D-305    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_D-305.html    
+510 4    |a GW    |c 9075    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW09075.htm    
+510 4    |a ISTC    |c id00381000    |u https://data.cerl.org/istc/id00381000    
+530      |a Digitalisat Band 1 (Exemplar der Universitäts- und Stadtbibliothek Köln)    |u http://www.ub.uni-koeln.de/cdm/compoundobject/collection/inkunabeln/id/202985    
+530      |a Digitalisat Band 2 und 3 (Exemplar der Universitäts- und Stadtbibliothek Köln)    |u http://www.ub.uni-koeln.de/cdm/ref/collection/inkunabeln/id/67935    
+530      |a Digitalisat Band 4 (Exemplar der Universitäts- und Stadtbibliothek Köln)    |u http://www.ub.uni-koeln.de/cdm/ref/collection/inkunabeln/id/70820    
+561      |a Handschriftlicher Besitzvermerk auf vorderem Spiegel (Band 1): "Pertinet domui porte montis, a [con]fratre m[a]g[ist]ro francisco kolb donatus" (ähnlich in allen vier Bänden)    
+561      |a In Band 2, Blatt y₉ verso, auf der Druckermarke handschriftliche Initialen G H, darunter Zeichnung mit handschriftlichem Text (stark abgekürzt, gemäss Ausschreibung in Graphit darunter): "Gloria laus et honor deo in amore et nomine eius - Georg Holzrüti"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun, Schaf) mit einer mittigen Schliesse, Linien- und Ornamentstempel-Blindprägung an beiden Deckeln, Papier-Signaturschilder des Klosters Thorberg ("D LXXV" bis "D LXXVIII", bei Band 3 nur in Teilen erhalten) und Pergament-Titelschilder am Rücken: "Scotus super primu[m] sente[n]tiarum", "... in s[e]c[un]d[u]m Sentenciarum", (fehlt bei Band 3), "... in quartu[m] sententiarum"    
+563      |a Rückenschilder mit handschriftlichem Titel 1960 abgelöst und in vorderen Spiegel geklebt; Band 1: "Duns Scotus in 4 libr. sentent. I Ven. 1481"; Band 4: "Duns Scotus super 4 libros sententia[rum]. IV. Ven. 1481."    
+563      |a Vorsätze Band 1-3: Vorne drei fliegende Blätter, hinten eins; Band 4: vorne sechs fliegende Blätter, hinten eins    
+563      |a Masse: Band 1: 24.0 x 18.2 x 7.1 cm, Band 2: 24.0 x 17.8 x 5.1 cm, Band 3: 24.0 x 17.7 x 4.1 cm, Band 4: 24.2 x 18.0 x 7.5 cm    
+563      |a Zustand Einband, Band 1: Kratzer und Abspaltungen im Einbandleder, Brüche im Einbandleder am Rücken, Lederüberklebungen am Rücken und den Deckelkanten, vorderer Spiegel aus dem Vorsatzlagen-Verbund gerissen, Vorsatzlage hinten heraus getrennt, mit einem verbliebenem fliegenden Blatt (um letzte Lage gehängt) sowie gerissenen Heftfäden, Schädlingsfrass an beiden DeckelnBand 2: Abspaltungen im Einbandleder vor allem am Rückdeckel (mit Fehlstelle), Brüche im Einbandleder am Rücken, Lederüberklebungen am Rücken und den Deckelecken, Schädlingsfrass an beiden Deckeln und VorsätzenBand 3: Thorberg-Signatur bis auf Reste von Papiersignatur-Schildern fehlend, Abspaltungen im Einbandleder an beiden Deckeln (am Rückdeckel mit Fehlstelle), Brüche im Einbandleder am Rücken, Lederüberklebungen am Rücken und den Deckelecken, Schädlingsfrass an beiden Deckeln und Vorsätzen, Japanpapierüberklebungen in den Fälzen beider Vorsätze Band 4: Überklebung mit Japanpapierstreifen an den Blättern der vorderen Vorsatzlage, mit Anhaftungen von rotem Löschpapier in vorderem Falz, Heftung in Resten der hinteren Vorsatzlage gerissen, Kratzer und Abspaltungen im Einbandleder (mit Fehlstelle am Vorderdeckel), Brüche im Einbandleder am Rücken, Lederüberklebungen am Rücken und den Deckelkanten    
+563      |a Detaillierte Beschreibung im Inkunabel-Einbandkatalog (Lindt/Mülinen)    
+590      |a Buchblockbeschreibung: Band 1: 282 von 282 Blättern, Band 2: 178 von 178 Blättern, Band 3: 124 von 128 Blättern, Band 4: 300 von 300 Blättern; in Band 1 auf Lagen a und b Linien zur Abgrenzung des Satzspiegels gezogen, Blatt ii₁ als Einzelblatt mit umgehängtem hinteren fliegenden Blatt an Lage ii gehängt, Papierfalz an Blatt ii₁ recto gehört zum hinteren fliegenden Blatt; in Band 3 zwischen Blatt b₈ und c₁ weiterer Zettel (mit handschriftlichen Notizen) eingebunden; rot augezeichnete Initialen und Rubrizierung nur am Beginn: Band 1 bis Blatt b₂, Band 2 bis Blatt a₇ recto, Band 3 bis Blatt a₆ recto, Band 4 bis Blatt c₅ recto sowie Blätter e₂ verso bis e₈ recto; Band 3 mit blau ausgezeichneter und rot verzierter Anfangsinitiale, Band 4 mit schwarz und rot ausgezeichneter Anfangsinitiale, jeweils auf Blatt a₂ recto; sonst vorgesehene Stellen für Initialen meist frei gelassen (in einzelnen Fällen mit Tinte gezeichnet); keine weitere Rubrizierung    
+590      |a Zustand Buchblock, Band 1: Benutzungspuren aus Umlaufeinheit ohne Einband (Tintennotationen zum Beispiel an Blättern der Lage v oder an Blatt r₁ recto bis weit in den Bundsteg hinein), Fehlstellen an unteren Ecken der ersten Lagen (Schädlingsfrass); Band 2: Frass- oder Bruchspuren in Bereichen mit bräunlicher Verfleckung und weisslichen Ablagerungen an Blättern der Lagen n und o, Papierüberklebung an Blatt y₁₀ verso, Papierfalzverstärkung aussen an Lage y (Fälze an Blättern y₁ recto und y₁₀ verso gehören zu dieser Technik), hinteres fliegendes Blatt im Falz aus dem Verbund mit dem hinteren Spiegel gelöst (Frassschäden und Risse); Band 3: bräunliche Japanpapierfälze in Lagen a, p und q (Verbindung zum Vorder- und Rückdeckel wurde offenbar für eine Buchblock-Bearbeitung gelöst und anschliessend mit dickem Japanpapierfalz überklebt), Buchblock schwer blätterbar; Band 4: Flüssigkeitsränder und Schädlingsfrass vor allem an den Blättern der Lagen a und b, Struktur der Lage a (Blätter a₂-a₈): Papierfalz an Blatt a₈ verso gehört zum 6. fliegenden Blatt, das um die Lage a gehängt ist und Blatt a₈ sichert    
+590      |a Zustand Buchblock: alle Bände mit Löchern durch Schädlingsfrass, (ohne Textverlust), Feuchtigkeitsrändern, Verbräunungen; in Band 2 in Lagen n und o am äusseren Rand ein Stück herausgerissen, mit Verbräungen um die ausgerissenen Stellen und auf angrenzenden Blättern (ohne Textverlust)    
+590      |a Unvollständiges Exemplar Band 3: Blätter q₃-q₆ fehlen, ersetzt durch unbedruckte Blätter mit handschriftlicher Abschrift des fehlenden Texts    
+590      |a Zahlreiche handschriftliche Annotationen; weitere handschriftliche Notizen in Band 2 auf unbedrucktem Blatt a₁ recto und verso, in Band 3 auf unbedrucktem Blatt a₁ verso, sowie auf zusätzlich eingebundenem Zettel zwischen den Blättern b₈ und c₁, in Band 4 auf unbedrucktem Blatt M₁₀ verso; auf oberem Schnitt jeweils Titel in Tinte: "Primo sentenciarum" bis "Quartus Sentenciarum"    
+590      |a Als Teil 5 hinzugestellt: Johannes Duns Scotus: Quaestiones quodlibetales. Venedig, 1481; im BMC (V 302) auch als Teil dieser Ausgabe angesehen    
+590      |a Historische Signaturen auf den Vorsatzblättern (in Band 4 auf erster Textseite: "Theol. No. 60" bis "63" (jeweils durchgestrichen); darunter: "Theol. Lit. b. 4. No. 54" bis "57"; auf den Rücken "D LXXV" bis "D LXXVIII" (Thorberger Signaturen)    
+590      |a Frühere Signatur: Inc 528    
+590      |a Einbandfragment aus Teil 2 in der Burgerbibliothek, Signatur BBB Cod. 847.15 (Konversationszettel(?), 1 Fragment, hs., lat./dt., Papier, 15. Jht.)    
+700 1 2  |a Duns Scotus, Johannes    |d 1266-1308    |t Ordinatio    |0 (DE-588)4366761-2    
+700 1    |a Penketh, Thomas    |d 14XX-1487    |0 (DE-588)103115684    |e Herausgeber    |4 edt    
+700 1    |a Bellati, Bartolomeo    |d 14XX-1479    |0 (DE-588)102423296    |e Herausgeber    |e Verfasser von ergänzendem Text    |4 edt    |4 wst    
+700 0    |a Johann    |c von Köln    |d 14XX-1480    |0 (DE-588)129032921    |e Verlag    |4 pbl    
+700 1    |a Jenson, Nicolas    |d 1420-1480    |0 (DE-588)118917153    |e Verlag    |4 pbl    
+700 1    |a Herbort, Johann    |d 14XX-1485    |0 (DE-588)129031704    |e Drucker    |4 prt    
+700 1    |a Kolb, Franz    |d 1465-1535    |0 (DE-588)123161312    |e Früherer Eigentümer    |e Stifter    |4 fmo    |4 dnr    
+700 1    |a Holzrüti, Georg    |e Früherer Eigentümer    |4 fmo    
+710 2    |a Johannes de Colonia, Nicolaus Jenson sociique    |0 (DE-588)1219543314    |e Drucker    |4 prt    
+710 2    |a Kloster Thorberg    |0 (DE-588)7725716-9    |e Früherer Eigentümer    |4 fmo    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 57    |9 (41SLSP_UBE)99116814052005511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |h MUE Inc IV 57 : 1    |q [Band 1]    |p 12    |j MUE Inc IV 57    |b B404    |9 (41SLSP_UBE)99116814052005511    
+949      |c 404U3    |h MUE Inc IV 57 : 3    |q [Band 3]    |p 12    |j MUE Inc IV 57    |b B404    |9 (41SLSP_UBE)99116814052005511    
+949      |c 404U3    |h MUE Inc IV 57 : 4    |q [Band 4]    |p 12    |j MUE Inc IV 57    |b B404    |9 (41SLSP_UBE)99116814052005511    
+949      |c 404U3    |h MUE Inc IV 57 : 2    |q [Band 2]    |p 12    |j MUE Inc IV 57    |b B404    |9 (41SLSP_UBE)99116814052005511    
+986      |a (41SLSP_UBE)99116814052005511    |9 (41SLSP_UBE)99116814052005511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116814052005511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

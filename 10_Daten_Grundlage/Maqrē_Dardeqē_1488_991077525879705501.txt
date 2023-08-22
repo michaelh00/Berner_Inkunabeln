@@ -1,0 +1,136 @@
+﻿<-1-1-START->
+Maqrē Dardeqē
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Übersetzung des Titels: Lehrer junger Kinder<-500-STOP->
+<-500-START->Hebräisch-arabisch-italienisches Glossar des biblischen Hebräisch, mit hebräischen Worterklärungen<-500-STOP->
+<-500-START->Text vollständig in hebräischer Schrift<-500-STOP->
+<-500-START->Das Werk wurde teilweise einem Yehi'el zugeschrieben (aufgrund des Akrostichons eines Gedichts am Anfang des Werks), teilweise Perets Trabot (aufgrund von Erwähnungen in mittelalterlichen Manuskripten)<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Neapel: Joseph ben Jacob Aschkenasi, 08.08.1488]
+<-500-START->Erscheinungsdatum im Band gemäss jüdischem Kalender: 1. Elul 5248<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+156 ungezählte Seiten; 31 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_P-192.html<-L-5-STOP-><-VI-5-START->BSB-Ink P-192<-VI-5-STOP->; <-L-5-START->http://gesamtkatalogderwiegendrucke.de/docs/M30974.htm<-L-5-STOP-><-VI-5-START->GW M30974<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/im00100100<-L-5-STOP-><-VI-5-START->ISTC im00100100<-VI-5-STOP->; <-VI-5-START->Shimeon Brisman: A history and guide to Judaic dictionaries and concordances. Hoboken (NJ), 2000.Seite 40<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+78 von 78 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Pergamenteinband auf Kartondeckeln mit durchzogenen Bünden (18. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116753786905511<-L-11-STOP-><-VI-11-START->MUE Inc III 35<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991077525879705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Ṭraboṭ, Perets<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Neapel<-O-STOP->
+<-P-START->Joseph ben Jacob Aschkenasi<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991077525879705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 35<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04083nam a22005417c 4500
+001 991077525879705501
+005 20211215181952.0
+008 170817s1488    it |||||      00| ||heb d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/17.08.2017/B404/vha    
+035      |a (swissbib)072385278-41slsp_network    
+035      |a 072385278    |9 ExL    
+035      |a (IDSBB)006723451DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991077525879705501    
+035      |a (41SLSP_UBE)99116753786905511    |9 (41SLSP_UBE)99116753786905511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+130 0    |a Maqrē Dardeqē    |0 (DE-588)1138379298    
+245 1 0  |a Maqrē Dardeqē    
+246 1    |i Titel gemäss ISTC    |a Makre Dardeke    
+264   1  |a [Neapel]    |b [Jōsēf ben Ja'aqōb Aškenāzī Gunzenhauser]    |c [8.08.1488]    
+300      |a 156 ungezählte Seiten    |c 31 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Titel gemäss BSB-Ink und GW; Übersetzung: Lehrer junger Kinder    
+500      |a Hebräisch-arabisch-italienisches Glossar des biblischen Hebräisch, mit hebräischen Worterklärungen    
+500      |a Text vollständig in hebräischer Schrift    
+500      |a Das Werk wurde teilweise einem Yehi'el zugeschrieben (aufgrund des Askrostichons eines Gedichts am Anfang des Werks), teilweise Perets Trabot (aufgrund von Erwähnungen in mittelalterlichen Manuskripten)    
+500      |a Erscheinungsdatum gemäss GW: 1. Elul 5248 (jüdischer Kalender), das ist 8.08.1488    
+500      |a Signaturformel: [Alef]-[Tet]⁸, [Yod]⁶    
+510 4    |a BSB-Ink    |c P-192    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_P-192.html    
+510 4    |a GW    |c M30974    |u http://gesamtkatalogderwiegendrucke.de/docs/M30974.htm    
+510 4    |a ISTC    |c im00100100    |u http://data.cerl.org/istc/im00100100    
+510 4    |a Shimeon Brisman: A history and guide to Judaic dictionaries and concordances. Hoboken (NJ), 2000.    |c Seite 40    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00068256/image_8    
+563      |a Einbandbeschreibung: Ganzbezogener Pergamenteinband auf Kartondeckeln mit durchzogenen Bünden (18. Jahrhundert); auf dem Rücken in Tinte: "Vocabularius Hæbr. puer[orum]"    
+563      |a Vorsätze: Vorne und hinten je zwei fliegende Blätter    
+563      |a Masse Einband: 30.4 x 22.5 x 2.0 cm    
+563      |a Zustand Einband: Schäden am Einbandpergament, Einband gefettet    
+590      |a Buchblockbeschreibung: 78 von 78 Blättern, erste Lage zum Teil mit Papierfälzen zusammengesetzt, Titelblatt in anderer Qualität als Buchblock mit Blatt [Alef]₈ zusammen gesetzt, Blätter [Alef]₂ und [Alef]₇ zusammen gesetzt; keine Rubrizierung    
+590      |a Zustand Buchblock: Untere Hälfte der ersten Seite (unterhalb der Titelkartusche) herausgeschnitten, Schnitte bis auf Blatt [Alef]₄; starke Schäden mit Feuchtigkeitsrändern sowie Fehlstellen an den Blatträndern der ersten beiden Lagen, Blattkanten zum Teil mit Büttenpapier verstärkt, Brüche im Falz an den ersten Blättern    
+590      |a Auf der Titelseite hebräische Notiz über dem Titel    
+590      |a Bis Blatt [Bet]₂ verso mit Tinte lateinische Wortentsprechungen am Rand ergänzt; weitere handschriftliche Marginalien in lateinischer Sprache, mit einigen wenigen hebräischen Worten    
+590      |a Auf hinterem Vorsatzblatt in Tinte: "Mikri Dardeki, 1488 Lexicon ad usum puerorum"; darunter in Graphit: "Wolfii Bibl. Hebr. v.II. p. 1367."    
+590      |a Historische Signatur auf der Titelseite: "Theol D 24"; historische Signaturen auf hinterem Spiegel: "Lit. 269" (durchgestrichen, darunter mit Bleistift:) "Theol. D. 24."    
+590      |a Frühere Signatur: Inc 181 a    
+700 1    |a Ṭraboṭ, Perets    |d ca. 14./15. Jh.    |0 (DE-588)1138377961    |e Verfasser    |4 aut    
+700 0    |a Joseph ben Jacob Aschkenasi    |d 1442-    |0 (DE-588)141457511    |e Drucker    |4 prt    
+751      |a Neapel    |0 (DE-588)4041476-0    
+852 4    |b B404    |c 404U3    |j MUE Inc III 35    |9 (41SLSP_UBE)99116753786905511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc III 35    |b B404    |9 (41SLSP_UBE)99116753786905511    
+986      |a (41SLSP_UBE)99116753786905511    |9 (41SLSP_UBE)99116753786905511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116753786905511    
+991      |a AAK: 0606122    |5 IZ UBE/17.08.2017/B404/vha    |9 LOCAL    |9 (41SLSP_UBE)99116753786905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

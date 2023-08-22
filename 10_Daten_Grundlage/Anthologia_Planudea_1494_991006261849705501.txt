@@ -1,0 +1,154 @@
+﻿<-1-1-START->
+Anthologia Planudea [griechisch]
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Anthologie um 1300 zusammengestellt von Maximus Planudes, herausgegeben von Iōannēs Laskaris<-500-STOP->
+<-500-START->Mit Widmungsbrief in lateinischer Sprache von Laskaris an Piero de' Medici<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Florenz: Francesco Lorenzo Alopa, 11.08.1494
+<-500-START->Die letzte Lage fehlt in zahlreichen Exemplaren, wohl meist aufgrund der Widmung an Piero de' Medici entfernt, nach dessen Flucht und Ächtung in Florenz, kurz nach Erscheinen des Buchs (ISTC ia00765000)<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+560 ungezählte Seiten; 24 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-557.html<-L-5-STOP-><-VI-5-START->BSB-Ink A-557<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW02048.htm<-L-5-STOP-><-VI-5-START->GW 02048<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ia00765000<-L-5-STOP-><-VI-5-START->ISTC ia00765000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+272 von 280 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert) mit flächig gefärbtem Papier (braun)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Laurentius; Rudolf Steck
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: die letzte Lage (8 Blätter, mit Widmung und Impressum) fehlt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116691803005511<-L-11-STOP-><-VI-11-START->MUE Inc III 87<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991006261849705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Maximus Planudes<-P-STOP->
+<-P-START->Laskaris, Iōannēs<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Florenz<-O-STOP->
+<-P-START->Alopa, Francesco Lorenzo<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Laurentius<-P-STOP->
+<-P-START->Steck, Rudolf<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991006261849705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 87<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04957nam a2200697 c 4500
+001 991006261849705501
+005 20221208160629.0
+007 cr#|||||||||||
+008 170420s1494    it |||||      00| ||grc d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/20.04.2017/B404/vha    
+024 7    |a 10.3931/e-rara-71785    |2 doi    
+035      |a (swissbib)073894362-41slsp_network    
+035      |a 073894362    |9 ExL    
+035      |a (IDSBB)006692542DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991006261849705501    
+035      |a (41SLSP_UBE)99116691803005511    |9 (41SLSP_UBE)99116691803005511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+130 0    |a Anthologia Planudea    |0 (DE-588)4654023-4    
+245 1 0  |a [A]nthologia Diaphorōn Epigrammatōn    
+246 1 0  |a Anthologia diaphorōn epigrammatōn    
+246 1    |i Titel gemäss BSB-Ink    |a Anthologia diversorum epigrammatum    
+246 1    |i Titel gemäss GW und ISTC    |a Anthologia Graeca Planudea    
+264   1  |a Impressvm Florentiae    |b per Lavrentivm Francisci de Alopa Venetvm    |c III. Idvs Avgvsti .M.CCCCLXXXXIIII. [11.08.1494]    
+300      |a 560 ungezählte Seiten    |c 24 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+337      |b c    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+338      |b cr    |2 rdacarrier    
+500      |a Anthologie um 1300 zusammengestellt von Maximus Planudes, herausgegeben von Iōannēs Laskaris    
+500      |a Text griechisch    
+500      |a Titel von der ersten bedruckten Seite (Blatt A₁ verso), aus dem Griechischen transliteriert    
+500      |a Erster Buchstabe des Titels nicht gedruckt (Platz für Initiale freigelassen)    
+500      |a In letzter Lage [ΛΛ] Widmungsbrief in lateinischer Sprache von Laskaris an Piero de' Medici: "Io. Lascaris Rhyndacenvs Petro Medici. S." (fehlt in diesem Exemplar)    
+500      |a Impressum (lateinisch) auf der letzten Seite (Blatt [ΛΛ]₈ verso; fehlt in diesem Exemplar; übertragen von Digitalisat)    
+500      |a Signaturformel: A-Ω⁸, AA-KK⁸, [ΛΛ]⁸    
+500      |a Die letzte Lage fehlt in zahlreichen Exemplaren; wohl meist aufgrund der Widmung an Piero de' Medici entfernt, nach dessen Flucht und Ächtung in Florenz, kurz nach Erscheinen des Buchs (ISTC ia00765000)    
+510 4    |a BSB-Ink    |c A-557    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-557.html    
+510 4    |a GW    |c 02048    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW02048.htm    
+510 4    |a ISTC    |c ia00765000    |u http://data.cerl.org/istc/ia00765000    
+530      |a Digitalisat (Exemplar der Bibliothèque Sainte-Geneviève, Paris, vollständig)    |u https://archive.org/details/OEXV268RES    
+561      |a Handschriftliche Besitzvermerke auf Blatt A₁ recto: "R. Steck"; "Lavrentivs Emit sibi" (18. Jahrhundert, 'Lavrentivs' durchgestrichen)    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert) mit flächig gefärbtem Papier (braun), Linien-Goldprägung und Titelschild in Goldprägung auf dem Rücken: "Anthologia Græca"    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 23.4 x 17.8 x 5.1 cm    
+563      |a Zustand Einband: Lederüberklebungen am Rücken und den Ecken, eingefärbte Papierüberklebungen an den Deckelkanten, Vorsätze im Falz mit Japanpapier verstärkt    
+590      |a Buchblockbeschreibung: 272 von 280 Blättern, vorgesehene Stellen für Initialen frei gelassen, keine Rubrizierung    
+590      |a Zustand Buchblock: Zahlreiche Verbräunungen und Verfleckungen, Schäden mit kleineren Fehlstellen an den Blattkanten, Risse an Blättern A₁ und A₂ mit dickem und dünnem Japanpapier überklebt    
+590      |a Unvollständiges Exemplar: die letzte Lage [ΛΛ] (8 Blätter) fehlt    
+590      |a Bindefehler: Lage ΚΚ zwischen Lage Ο und Lage Π eingebunden!    
+590      |a Blatt Β₈ lose    
+590      |a Zahlreiche handschriftliche Annotationen in Tinte (griechisch, 16. Jahrhundert) im ganzen Text; auf Blatt Α₁ recto Notiz: "Voici vn Liure de prix, ...[?]"; darunter von anderer Hand: "Est enim editio florentina anni 1497. quae haud dubiè omnium est prima"    
+590      |a Frühere Signatur: Inc 584    
+700 0    |a Maximus    |c Planudes    |d 1260-1310    |0 (DE-588)118942719    |e Herausgeber    |4 edt    
+700 1    |a Laskaris, Iōannēs    |d 1445-1534    |0 (DE-588)100939503    |e Herausgeber    |4 edt    
+700 1    |a Alopa, Francesco Lorenzo    |0 (DE-588)122346262    |e Drucker    |4 prt    
+700 0    |a Laurentius    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Steck, Rudolf    |d 1842-1924    |e Früherer Eigentümer    |4 fmo    |0 (DE-588)117224634    
+751      |a Florenz    |0 (DE-588)4017581-9    
+852 4    |b B404    |c 404U3    |j MUE Inc III 87    |9 (41SLSP_UBE)99116691803005511    
+856 4    |u http://dx.doi.org/10.3931/e-rara-71785    |z Digitalisat in e-rara    
+900      |a IDSIxunikat    
+900      |a IDSIxhybrid-el    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc III 87    |b B404    |9 (41SLSP_UBE)99116691803005511    
+986      |a (41SLSP_UBE)99116691803005511    |9 (41SLSP_UBE)99116691803005511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116691803005511    
+990      |f erarabe    |9 local    |9 (41SLSP_UBE)99116691803005511    
+990      |f lza-cc0    |9 local    |9 (41SLSP_UBE)99116691803005511    
+991      |a AAK: 23055    |5 IZ UBE/20.04.2017/B404/vha    |9 local    |9 (41SLSP_UBE)99116691803005511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

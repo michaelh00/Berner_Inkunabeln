@@ -1,0 +1,137 @@
+﻿<-1-1-START->
+Katholische Kirche, Erzdiözese Mainz
+<-1-1-STOP->
+
+<-1-2-START->
+Missale (Mainz)
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Herausgegeben im Auftrag von Berthold von Henneberg, Erzbischof von Mainz<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Mainz: Peter Schöffer, 03.04.1493
+<-500-START->Druckvariante (Tronnier Satz III) zu den digitalisierten Darmstädter und Weimarer Exemplaren<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 37 ungezählte Seiten, LXXXII Blätter, 35 ungezählte Seiten, LXXXIII-ccliiij Blätter, 2 ungezählte Seiten, cclv-clxiiij Blätter, 1 ungezähltes Blatt: 1 Illustration, Noten; 35 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_M-440.html<-L-5-STOP-><-VI-5-START->BSB-Ink M-440<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M24557.htm<-L-5-STOP-><-VI-5-START->GW M24557<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/im00674500<-L-5-STOP-><-VI-5-START->ISTC im00674500<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+297 von 304 Blättern, rot und blau ausgezeichnete Initialen
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun) mit Schliessen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Die Blätter  ✽✽✽₆-₈, I, 1₁₀ (mit dem Holzschnitt), 2₁ und K₁₂ fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99117231718205511<-L-11-STOP-><-VI-11-START->MUE GDB Gut 3<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991170836761305501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Katholische Kirche, Erzdiözese Mainz<-P-STOP->
+<-P-START->Berthold (Erzbischof von Mainz)<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Mainz<-O-STOP->
+<-P-START->Schöffer, Peter<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991170836761305501<-DOI-STOP->
+<-SIGN-START->MUE GDB Gut 3<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03998nam a2200553 c 4500
+001 991170836761305501
+005 20230207113521.0
+008 211230s1493    gw ||||      |00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 UBE/B404/20211230/faf    
+035      |a (EXLNZ-41SLSP_NETWORK)991170836761305501    
+035      |a (41SLSP_UBE)99117231718205511    |9 (41SLSP_UBE)99117231718205511    
+040      |a CH-ZuSLS UBE    |b ger    |e rda    
+082 7 4  |a 230    |2 23sdnb    
+110 2    |a Katholische Kirche    |0 (DE-588)2009545-4    |4 aut    
+240 1 0  |a Missale (Mainz)    
+245 1 0  |a Incipit ordo missalis secundu[m] choru[m] Maguntinen[sem] per circulu[m] anni    
+246 1    |i Titel in normalisierter Form    |a Incipit ordo missalis secundum chorum Maguntinensem per circulum anni    
+246 1    |i Incipit (Kalendarium)    |a Ianuarius habet dies .xxxi. Luna .xxx.    
+246 1    |i Titel gemäss BSB-Ink, GW und ISTC    |a Missale Moguntinum    
+264   1  |a Qua quide[m] auctoritate et conmissione in nobili Ciuitate Maguntina impressorie artis inune[n]trice elimatriceq[ue] prima    |b p[re]sens opus missaliu[m] castigatu[m]: emendatu[m]q[ue] prius. p[er] Petru[m] schoffer de gernszheym    |c Anno domini Millesimo quadringentesimononagesimotercio. tercia die Aprilis feliciter est co[n]summatum [03.04.1493]    
+300      |a 1 ungezähltes Blatt, 37 ungezählte Seiten, LXXXII Blätter, 35 ungezählte Seiten, LXXXIII-ccliiij Blätter, 2 ungezählte Seiten, cclv-clxiiij Blätter, 1 ungezähltes Blatt    |b 1 Illustration, Noten    |c 35 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Gemäss Kolophon herausgegeben im Auftrag von Berthold von Henneberg, Erzbischof von Mainz    
+500      |a Druckvariante (Tronnier Satz III) zu den digitalisierten Darmstädter und Weimarer Exemplaren    
+500      |a Keine Titelseite, Titel gemäss Incipit des Haupttextes    
+500      |a Impressum gemäss Kolophon    
+500      |a Rot- und Schwarzdruck    
+500      |a Signaturformel: [✽⁸, ✽✽⁴, ✽✽✽⁸, a-i⁸, k¹⁰, 1¹⁰, 2⁸, l-z⁸, A-F⁸, G-H⁶, I⁸, K¹²]    
+500      |a Blatt ✽₁ ist unbedruckt    
+510 4    |a BSB-Ink    |c M-440    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_M-440.html    
+510 4    |a GW    |c M24557    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M24557.htm    
+510 4    |a ISTC    |c im00674500    |u https://data.cerl.org/istc/im00674500    
+561      |a Depositum der Gesellschaft der Freunde des Gutenbergmuseums    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun) mit Schliessen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln    
+563      |a Vorsätze: Vorne und hinten ohne fliegende Blätter    
+563      |a Masse Einband: 35.0 x 25.7 x 7.8 cm    
+563      |a Zustand Einband: Schäden am Einbandleder mit Fehlstellen    
+590      |a Buchblockbeschreibung: 297 von 304 Blättern, Foliierung teilweise in Graphit korrigiert, rot und blau ausgezeichnete Initialen, Blattweiser    
+590      |a Zustand Buchblock: Untere Blattränder teilweise mit angeklebtem Papier verstärkt    
+590      |a Unvollständiges Exemplar: Die Blätter  ✽✽✽₆-₈, I, 1₁₀ (mit dem Holzschnitt), 2₁ und K₁₂ fehlen    
+590      |a Blätter ✽✽✽₁-₅ (Tabula) am Ende eingebunden    
+590      |a Wenige handschriftliche Annotationen und Korrekturen in Tinte, zusätzlicher handschriftlicher Text in Tinte auf der unbedruckten Versoseite von Blatt LXXXII, teilweise neumenartige Zeichen über dem Text    
+700 1    |a Berthold    |c Mainz, Erzbischof    |d 1441-1504    |4 pat    |0 (DE-588)118656724    
+700 1    |a Schöffer, Peter    |d 1420-1502    |4 prt    |0 (DE-588)118609947    
+710 2    |a Gesellschaft der Freunde des Gutenbergmuseums    |4 own    |0 (DE-588)2137933-6    
+710 2 2  |a Katholische Kirche    |t Missale (Mainz)    |0 (DE-588)1248606019    
+751      |a Mainz    |0 (DE-588)4037124-4    
+852 4    |b B404    |c 404U3    |j MUE GDB Gut 3    |9 (41SLSP_UBE)99117231718205511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Depositum der Gesellschaft der Freunde des Gutenbergmuseums    |p 12    |j MUE GDB Gut 3    |b B404    |9 (41SLSP_UBE)99117231718205511    
+986      |a (41SLSP_UBE)99117231718205511    |9 (41SLSP_UBE)99117231718205511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99117231718205511    
+990      |n HB404N2112    |9 local    |9 (41SLSP_UBE)99117231718205511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

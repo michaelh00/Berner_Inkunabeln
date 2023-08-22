@@ -1,0 +1,133 @@
+﻿<-1-1-START->
+Beda
+<-1-1-STOP->
+
+<-1-2-START->
+Historia ecclesiastica gentis Anglorum
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Brief Bedas an Ceolwulf, König von Northumbria<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Straßburg: Heinrich Eggestein, nicht nach 1475]
+<-3-1-STOP->
+
+<-4-1-START->
+193 ungezählte Seiten, 1 ungezähltes Blatt
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-255.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-255<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW03756.htm<-L-5-STOP-><-VI-5-START->GW 03756<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib00293000<-L-5-STOP-><-VI-5-START->ISTC ib00293000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+98 von 98 Blättern, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jahrhundert), Ornamentrollen-Blindprägung auf beiden Deckeln, Linien-Blindprägung sowie Titelschild in Goldprägung auf dem Rücken
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116697510605511<-L-11-STOP-><-VI-11-START->MUE Inc IV 4<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991048887669705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Beda<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Eggestein, Heinrich<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991048887669705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 4<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04133nam a2200541 c 4500
+001 991048887669705501
+005 20211215165352.0
+008 170503s1475    fr |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/03.05.2017/B404/vha    
+035      |a (swissbib)074354620-41slsp_network    
+035      |a 074354620    |9 ExL    
+035      |a (IDSBB)006696073DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991048887669705501    
+035      |a (41SLSP_UBE)99116697510605511    |9 (41SLSP_UBE)99116697510605511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Beda    |c Heiliger    |d 672-735    |0 (DE-588)118508237    |e Verfasser    |4 aut    
+240 1 0  |a Historia ecclesiastica gentis Anglorum    
+245 1 0  |a Finiunt libri historie ecclesiastice gestis anglorum    
+246 1 0  |a Libri historiae ecclesiasticae gentis anglorum    
+246 1 0  |a Libri historie ecclesiastice gentis anglorum    
+246 1    |i Titel in moderner Orthografie    |a Finiunt libri historiae ecclesiasticae gentis anglorum    
+264   1  |a [Straßburg]    |b [Heinrich Eggestein]    |c [nicht nach 1475]    
+300      |a 193 ungezählte Seiten, 1 ungezähltes Blatt    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss Kolophon    
+500      |a Blatt [a₁] recto mit Brief Bedas an Ceolwulf, König von Northumbria    
+500      |a Blatt [a₁] verso bis [a₂] verso mit Inhaltsverzeichnis: "Incipiu[n]t capitula hystoriaru[m] gestis anglorum"    
+500      |a Druckort und Drucker gemäss BSB-Ink, GW und ISTC; beim Druckjahr gibt es auch die Angabe: "um 1475/78", gemäss ISTC jedoch in einem Exemplar Datierung des Rubrikators: 1475)    
+500      |a Signaturformel (gemäss GW): [a¹⁰, b⁸, c–e¹⁰, f⁶, g-h¹⁰, i⁸, k¹⁰, l⁶]    
+500      |a Blatt [l₆] (letztes Blatt) unbedruckt; Blatt [l₅] verso unbedruckt    
+510 4    |a BSB-Ink    |c B-255    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-255.html    
+510 4    |a GW    |c 03756    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW03756.htm    
+510 4    |a ISTC    |c ib00293000    |u http://data.cerl.org/istc/ib00293000    
+530      |a Digitalisat (Exemplar der Universitäts- und Landesbibliothek Darmstadt)    |u http://tudigit.ulb.tu-darmstadt.de/show/inc-iv-168/0001    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jahrhundert), Ornamentrollen-Blindprägung auf beiden Deckeln, Linien-Blindprägung sowie Titelschild in Goldprägung auf dem Rücken    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 28.0 x 21.2 x 3.1 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, vorderes Vorsatz im Falz stellenweise mit Japanpapier stabilisiert    
+590      |a Buchblockbeschreibung: 98 von 98 Blättern, handschriftliche Lagensignatur in Tinte (jeweils auf 4. Blatt pro Lage, teilweise auch weiteren Blättern, auf der Recto-Seite rechts unten, Zeichen nicht nach Alphabet), weitere handschriftliche Lagensignatur in Graphit (entspricht Signaturformel des GW, jeweils auf erstem Blatt pro Lage auf der Recto-Seite rechts unten); flächig quadratische Blinddruckmarken am Kolumnenende an Blatt [l₅] recto (letzte Textseite); rot ausgezeichnete Initialen, Rubrizierung    
+590      |a Zustand Buchblock: Falzverstärkung aus Makulaturpergament in den Lagenmitten zum grössten Teil herausgelöst, Spuren von abgelösten Blattweisern an Blättern [a₁], [c₂], [d₇], [g₁], [i₃], teilweise Abrieb an rotem Farbmittel der ausgezeichneten Initialen    
+590      |a Historische Signaturen auf vorderem Spiegel: "H. Eccl. 64.6" und "G 99, b."    
+590      |a Frühere Signatur: Inc 45    
+700 0 2  |a Beda    |c Heiliger    |d 672-735    |t Historia ecclesiastica gentis Anglorum    |0 (DE-588)4236580-6    
+700 0    |a Ceolwulf    |c Northumbria, King    |d ca. ca. 700-760/64    |0 (DE-588)1014006821    |e Widmungsempfänger    |4 dte    
+700 1    |a Eggestein, Heinrich    |d 1415-1488    |0 (DE-588)100965024    |e Drucker    |4 prt    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 4    |9 (41SLSP_UBE)99116697510605511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc IV 4    |b B404    |9 (41SLSP_UBE)99116697510605511    
+986      |a (41SLSP_UBE)99116697510605511    |9 (41SLSP_UBE)99116697510605511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116697510605511    
+991      |a AAK: 62259    |5 IZ UBE/03.05.2017/B404/vha    |9 LOCAL    |9 (41SLSP_UBE)99116697510605511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

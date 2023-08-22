@@ -1,0 +1,147 @@
+﻿<-1-1-START->
+Georgius Merula
+<-1-1-STOP->
+
+<-1-2-START->
+Antiquitates Vicecomitum
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Widmungsbrief des Herausgebers Alessandro Minuziano an Otho Visconti und Vorrede des Autors an Ludovico Maria Sforza<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Mailand: Alessandro Minuziano, 1499 oder 1500]
+<-500-START->Gemäss BMC und BSB-Ink gedruckt von Guillaume Le Signerre, gemäss GW von Le Signerre für Minuziano<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+4 ungezählte Seiten, 1 ungezähltes Blatt, 10 ungezählte Seiten, 138 Blätter; 31 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_M-337.html<-L-5-STOP-><-VI-5-START->BSB-Ink M-337<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M22908.htm<-L-5-STOP-><-VI-5-START->GW M22908<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/im00499000<-L-5-STOP-><-VI-5-START->ISTC im00499000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+137 von 146 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Pergamenteinband auf Kartondeckeln (17./18. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Die Lagen [] und 1. a sowie das Blatt z₆ fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116718179205511<-L-11-STOP-><-VI-11-START->MUE Bong V 935<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991067823829705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Georgius Merula<-P-STOP->
+<-P-START->Minuziano, Alessandro<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Mailand<-O-STOP->
+<-P-START->Minuziano, Alessandro<-P-STOP->
+<-O-START->Mailand<-O-STOP->
+<-P-START->Le Signerre, Guillaume<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991067823829705501<-DOI-STOP->
+<-SIGN-START->MUE Bong V 935<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04120nam a2200613 c 4500
+001 991067823829705501
+005 20211215183614.0
+008 100708q14991500it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/16.01.2019/B404/faf    
+035      |a (swissbib)061097934-41slsp_network    
+035      |a 061097934    |9 ExL    
+035      |a (IDSBB)005276390DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991067823829705501    
+035      |a (41SLSP_UBE)99116718179205511    |9 (41SLSP_UBE)99116718179205511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Georgius    |c Merula    |d 1430-1494    |0 (DE-588)100942415    |e Verfasser    |4 aut    
+245 1 0  |a [Antiquitates Vicecomitum]    
+246 1    |i Incipit (Widmung)    |a Othoni Vicecomiti Svmmae Spei Adolescenti Alexander Minvtianvs Salvtem Cvm Foelicitate    
+246 1    |i Incipit (Widmung) in normalisierter Form    |a Othoni vicecomiti summae spei adolescenti Alexander Minutianus salutem cum foelicitate    
+246 1    |i Incipit (Haupttext)    |a Georgii Mervlae Alexandrini Antiqvitatis Vicecomitvm Liber Primus    
+246 1    |i Incipit (Haupttext) in normalisierter Form    |a Georgii Merulae Alexandrini antiquitatis vicecomitum liber primus    
+246 1    |i Titel gemäss BSB-Ink, GW und ISTC    |a De antiquitate Vicecomitum    
+264   1  |a [Mailand]    |b [Alessandro Minuziano]    |c [1499 oder 1500]    
+300      |a 4 ungezählte Seiten, 1 ungezähltes Blatt, 10 ungezählte Seiten, 138 Blätter    |c 31 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Widmungsbrief des Herausgebers Alessandro Minuziano an Otho Visconti, Vorrede des Autors an Ludovico Maria Sforza und einem Register    
+500      |a Keine Titelseite, Titel gemäss GND    
+500      |a Impressum gemäss ISTC; gemäss BMC und BSB-Ink gedruckt von Guillaume Le Signerre, gemäss GW von Le Signerre für Minuziano    
+500      |a Signaturformel: []², a⁶, a-z⁶    
+500      |a Blatt 1. a₁ ist unbedruckt    
+510 4    |a BSB-Ink    |c M-337    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_M-337.html    
+510 4    |a GW    |c M22908    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M22908.htm    
+510 4    |a ISTC    |c im00499000    |u http://data.cerl.org/istc/im00499000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11303116-6    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Ganzbezogener Pergamenteinband auf Kartondeckeln (17./18. Jh.)    
+563      |a Vorsätze: Vorne und hinten mit zwei fliegenden Blättern    
+563      |a Masse Einband: 30.6 x 22.8 x 3.3 cm    
+563      |a Zustand Einband: Einband mit zahlreichen Verfleckungen    
+590      |a Buchblockbeschreibung: 137 von 146 Blättern, vorgesehene Stellen für Initialen frei gelassen    
+590      |a Zustand Buchblock: Kleinere Einrisse an den ersten Blättern, Fehlstellen an Blatt a₁ korrespondieren mit ursprünglicher Anhaftung des ersten Blattes am vorderen Innendeckel (Anklebung beim Anpappen), Blatt a₁ verso mit Risshinterklebung aus Büttenpapier, massive Feuchtigkeitsränder mit Verschmutzungen an den Lagen x bis z    
+590      |a Unvollständiges Exemplar: Die Lagen [] und 1. a sowie das Blatt z₆ fehlen    
+590      |a Wenige handschriftliche Annotationen und Unterstreichungen in Tinte    
+590      |a Historische Signatur auf vorderem Spiegel: "Hist. Prof. 76", Zahl korrigiert zu "88."    
+590      |a Frühere Signaturen: Inc 301; Inc IV 10; VI 33    
+700 1    |a Minuziano, Alessandro    |d 1450-1521    |0 (DE-588)118582658    |e Herausgeber    |4 edt    
+700 1    |a Minuziano, Alessandro    |d 1450-1521    |0 (DE-588)118582658    |e Drucker    |e Verlag    |4 prt    |4 pbl    
+700 1    |a Le Signerre, Guillaume    |d 1453-1523    |0 (DE-588)1071433016    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 0 2  |a Georgius    |c Merula    |d 1430-1494    |t Antiquitates Vicecomitum    |0 (DE-588)1175497584    
+710 2    |a Guillermi Le Signerre fratres    |0 (DE-588)1071634410    |e Drucker    |4 prt    
+751      |a Mailand    |0 (DE-588)4037100-1    
+852 4    |b B404    |c 404U3    |j MUE Bong V 935    |9 (41SLSP_UBE)99116718179205511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc IV 10    |c 404U3    |p 12    |j MUE Bong V 935    |b B404    |9 (41SLSP_UBE)99116718179205511    
+986      |a (41SLSP_UBE)99116718179205511    |9 (41SLSP_UBE)99116718179205511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116718179205511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116718179205511    
+991      |a Bongars: 09580    |5 IZ UBE/B400/08.07.2010    |9 LOCAL    |9 (41SLSP_UBE)99116718179205511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

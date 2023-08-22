@@ -1,0 +1,136 @@
+﻿<-1-1-START->
+Iodocus Erfordensis
+<-1-1-STOP->
+
+<-1-2-START->
+Vocabularius iuris utriusque
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Vorwort des Verfassers<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Straßburg: [Georg Husner], 13.08.1494
+<-3-1-STOP->
+
+<-4-1-START->
+258 ungezählte Seiten, 1 ungezähltes Blatt; 31 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_I-272.html<-L-5-STOP-><-VI-5-START->BSB-Ink I-272<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M12662.htm<-L-5-STOP-><-VI-5-START->GW M12662<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/iv00354000<-L-5-STOP-><-VI-5-START->ISTC iv00354000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+130 von 130 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (ursprünglich chamois, jetzt braun, Schwein) mit Schliessen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Modus legendi abbreviaturas in utroque iure. Straßburg: [Georg Husner], 1494
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116800404405511<-L-11-STOP-><-VI-11-START->MUE Inc I 78 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991082156129705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Iodocus Erfordensis<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Husner, Georg<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991082156129705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 78 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03839nam a2200577 c 4500
+001 991082156129705501
+005 20211215183743.0
+008 171026s1494    fr |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/26.10.2017/B404/faf    
+035      |a (swissbib)074881590-41slsp_network    
+035      |a 074881590    |9 ExL    
+035      |a (IDSBB)006742704DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991082156129705501    
+035      |a (41SLSP_UBE)99116800404405511    |9 (41SLSP_UBE)99116800404405511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Iodocus    |c Erfordensis    |d 1420-14XX    |0 (DE-588)131707841    |e Verfasser    |4 aut    
+240 1 0  |a Vocabularius iuris utriusque    
+245 1 0  |a Vocabularius vtriusq[ue] iuris    
+246 1    |i Kolophon    |a Explicit vocabularius iuris Impressus Argentine pro co[m]muni omnium vtilitate [et] faciliori aditu ad vtriusq[ue] iuris noticiam    
+246 1    |i Kolophon in normalisierter Form    |a Explicit vocabularius iuris impressus Argentine pro communi omnium utilitate et faciliori aditu ad utriusque iuris noticiam    
+246 1    |i Titel gemäss ISTC    |a Vocabularius juris utriusque    
+246 1    |i Titel in normalisierter Form    |a Vocabularius utriusque iuris    
+264   1  |a Impressus Argentine    |b [Georg Husner]    |c Anno domini. M.cccc.xciiij. Finitus Idibus Augusti [13.08.1494]    
+300      |a 258 ungezählte Seiten, 1 ungezähltes Blatt    |c 31 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Vorwort des Verfassers    
+500      |a Verfasser gemäss GW und ISTC    
+500      |a Druckort und Druckjahr gemäss Kolophon    
+500      |a Drucker gemäss BSB-Ink und GW    
+500      |a Signaturformel: a⁸, b⁶, c⁸, d–x⁶    
+500      |a Blatt x₆ ist unbedruckt    
+510 4    |a BSB-Ink    |c I-272    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_I-272.html    
+510 4    |a GW    |c M12662    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M12662.htm    
+510 4    |a ISTC    |c iv00354000    |u http://data.cerl.org/istc/iv00354000    
+530      |a Digitalisat (Exemplar der Universitäts- und Landesbibliothek Darmstadt)    |u http://tudigit.ulb.tu-darmstadt.de/show/inc-iv-555    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (ursprünglich chamois, jetzt braun, Schwein) mit Schliessen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, auf Rücken verblassend in Tinte: "Arg." und "149[.]"    
+563      |a Vorsätze: Vorne ohne fliegendes Blatt, hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 30.5 x 21.5 x 7 cm    
+563      |a Zustand Einband: Einbandleder insgesamt gebräunt, Schädlingsfrass an den Deckeln und Vorsätzen, fliegendes Blatt an vorderem Vorsatz heraus getrennt, oberes Hakenteil der Schliessen ergänzt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 130 von 130 Blättern, vorgesehene Stellen für Initialen frei gelassen    
+590      |a Zustand Buchblock (ganzer Sammelband): Vereinzelt Risse an Schwachstellen von Papierherstellung, Papiere unterschiedlich verbräunt, Schädlingsfrass mit geringem Textverlust    
+590      |a Handschriftliche Annotationen teilweise auf Deutsch und wenige Unterstreichungen in Tinte    
+590      |a Zusammengebunden mit: Modus legendi abbreviaturas in utroque iure sive processus iuris. Strassburg : Georg Husner, 1494    
+590      |a Historische Signatur auf vorderem Spiegel: "Jur: Pol: N: 321"; auf Titelseite: "Jur. Pol. 99"    
+590      |a Frühere Signatur: Inc 105    
+700 1    |a Husner, Georg    |d 14XX-1505    |0 (DE-588)136216064    |e Drucker    |4 prt    
+700 0 2  |a Iodocus    |c Erfordensis    |d 1420-14XX    |t Vocabularius iuris utriusque    |0 (DE-588)1142275647    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Inc I 78 : 1    |9 (41SLSP_UBE)99116800404405511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 1 weiteren Druck in Sammelband    |p 12    |j MUE Inc I 78 : 1    |b B404    |9 (41SLSP_UBE)99116800404405511    
+986      |a (41SLSP_UBE)99116800404405511    |9 (41SLSP_UBE)99116800404405511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116800404405511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

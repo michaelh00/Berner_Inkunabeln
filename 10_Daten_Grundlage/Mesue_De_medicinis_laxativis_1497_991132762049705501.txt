@@ -1,0 +1,182 @@
+﻿<-1-1-START->
+Mesue
+<-1-1-STOP->
+
+<-1-2-START->
+De medicinis laxativis; Grabadin; Practica medicinarum particularium. — Mundinus Lucius: Expositio super canones universales. — Christophorus de Honestis: Expositio super Antidotario Mesue; De saccellis caput purgantibus, epithematibus et clisteribus; Tractatus de aqua ordei et de modo faciendi ptisanam. — Petrus de Abano: Additiones super Mesue. — Franciscus de Pede Montium: Complementum in opera Mesue. — Nicolaus Salernitanus: Antidotarium Nicolai. — Liber iste. — Johannes de Sancto Amando: Expositio super Antidotarium Nicolai. — Tractatus quid pro quo. — Synonyma. — Zahrāwī, Ḫalaf Ibn-Abbās az-: Liber servitoris. — Saladinus de Asculo: Compendium aromatariorum
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Die traditionell unter dem Namen Mesue überlieferten Werke wurden vermutlich von einem oder mehreren italienischen Autoren des 12./13. Jahrhundert verfasst<-500-STOP->
+<-500-START->Der Liber servitoris des Ḫalaf Ibn-Abbās az-Zahrāwī (Abulcasis) wurde von Simon Ianuensis mit Hilfe von Abraham Iudaeus aus dem Arabischen übersetzt<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Giovanni und Gregorio de Gregori, 14.10.1497
+<-3-1-STOP->
+
+<-4-1-START->
+360, das heisst 372 Blätter: Holzschnittinitialen, Druckermarke; 33 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_M-349.html<-L-5-STOP-><-VI-5-START->BSB-Ink M-349<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M22999.htm<-L-5-STOP-><-VI-5-START->GW M22999<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/im00517000<-L-5-STOP-><-VI-5-START->ISTC im00517000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+372 von 372 Blättern, teilweise rot, blau oder zweifarbig ausgezeichnete Initialen
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun, Kalb) mit Schliessen, Linien- und Ornamentrollen- sowie Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116724136505511<-L-11-STOP-><-VI-11-START->MUE Inc I 37<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991132762049705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Ibn-Māsawaih, Abū-Zakarīyā Yūḥannā<-P-STOP->
+<-P-START->Mesue<-P-STOP->
+<-P-START->Mundinus Lucius<-P-STOP->
+<-P-START->Christophorus de Honestis<-P-STOP->
+<-P-START->Petrus de Abano<-P-STOP->
+<-P-START->Franciscus de Pede Montium<-P-STOP->
+<-P-START->Nicolaus Salernitanus<-P-STOP->
+<-P-START->Matthaeus Platearius<-P-STOP->
+<-P-START->Johannes de Sancto Amando<-P-STOP->
+<-P-START->Zahrāwī, Ḫalaf Ibn-Abbās az-<-P-STOP->
+<-P-START->Simon Ianuensis<-P-STOP->
+<-P-START->Abraham Iudaeus<-P-STOP->
+<-P-START->Saladinus de Asculo<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Gregori, Giovanni de<-P-STOP->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Gregori, Gregorio de<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991132762049705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 37<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 10035nam a2200961 c 4500
+001 991132762049705501
+005 20220309095308.0
+008 170831s1497    it |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/31.08.2017/B404/faf    
+035      |a (swissbib)072893982-41slsp_network    
+035      |a 072893982    |9 ExL    
+035      |a (IDSBB)006727271DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991132762049705501    
+035      |a (41SLSP_UBE)99116724136505511    |9 (41SLSP_UBE)99116724136505511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a lat    |h ara    
+245 0 0  |a Mesue cum expositione mondini super canones vniuersales    |b ac etia[m] cum expositio[n]e Christophori de honestis in antidotarium eiusdem. Additiones petri apponi. Additiones francisci de pedemontiu[m]. Antidotarium nicolai cum expositione plateariij. Tractatus quid pro quo. Tractatus de sinonimis. Libellus bulcasis siue seruitoris. Co[m]pendiu[m] aromatarioru[m] Saladini. Joannes de sancto amando super antidotarium nicolai    
+246 1    |i Kolophon    |a Hoc loci consumantur omnia opera Diui Joannis mesue cum expositione Mondini super canones vniuersales. ac etia[m] cu[m] expositio[n]e Christophori de honestis in antidotarium eiusdem. Nec non additiones Petri apponi: [et] additiones fra[n]cisci de pedemontium. [Et] Antidotarium Nicolai cum expositione Platearij. Joannes de sancto amando super Antidotarium Nicolai. Tractatus quid pro quo. Tractatus de sinonimis. Libellus Seruitoris. Compendium aromatariorum Saladini Que omnia supradicta hic finem habent ad laudem dei    
+246 1    |i Kolophon in normalisierter Form    |a Hoc loci consumantur omnia opera divi Ioannis Mesue cum expositione Mondini super canones universales, ac etiam cum expositione Christophori de Honestis in Antidotarium eiusdem, nec non additiones Petri Apponi et additiones Francisci de Pedemontium, et Antidotarium Nicolai cum expositione Platearii, Ioannes de Sancto Amando super Antidotarium Nicolai, Tractatus quid pro quo, Tractatus de sinonimis, Libellus servitoris, Compendium aromatariorum Saladini, que omnia supradicta hic finem habent ad laudem Dei    
+246 1    |i Titel in normalisierter Form    |a Mesue cum expositione Mondini super canones universales    
+246 1    |i Titel gemäss GW und ISTC    |a Opera medicinalia    
+264   1  |a Impressa venetijs    |b per Joannem [et] Gregorium de gregorijs fratres    |c .1497. die .14. Octobris    
+300      |a 360, das heisst 372 Blätter    |c 33 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Die traditionell unter dem Namen Mesue überlieferten Werke wurden vermutlich von einem oder mehreren italienischen Autoren des 12./13. Jh. verfasst    
+500      |a Der Liber servitoris des Ḫalaf Ibn-Abbās az-Zahrāwī (Abulcasis) wurde von Simon Ianuensis mit Hilfe von Abraham Iudaeus aus dem Arabischen übersetzt    
+500      |a Impressum gemäss Kolophon    
+500      |a Druckermarke am Ende    
+500      |a Teilweise Holzschnittinitialen    
+500      |a Foliierungsfehler: Blattzahlen 43-44, 89-92, 120, 155-159 wiederholt, zahlreiche weitere Fehler    
+500      |a Signaturformel: a–d⁸, e¹², f–l⁸, ll², m–z⁸, [et]⁸, [con]⁸, [rum]⁸, aa–tt⁸, vv⁶    
+500      |a Blatt a₁ ohne Lagensignatur, Blatt a₂ mit Signatur a bezeichnet    
+505 0 0  |t Diui Joannis Mesue de consolatione medicinarum simplicium [et] correctione operationum ea[rum]. Canones cu[m] expositione preclarissimi medici magistri Mondini de lentijs feliciter incipiunt    |t Joannis Mesue grabadin    |t Preclarissimi artium [et] medicine doctoris Cristophori georgij de honestis florentini super antidotarijs Mesue clara [et] maxima necessaria expositio    |t Seq[ui]t[ur] d[e] saccelis caput purga[n]tiis epithimatib[us] [et] clisterib[us]    |t Sequit[ur] tractatulus valde vtilis de aqua ordei. [et] de modo facie[n]di ptisana[m] s[e]c[un]d[u]m co[mmun]em modu[m] practicantium    |t Mesue gradabin medicinarum particularium. Incipit    |t Petri apponi medici clarissimi in librum Joa[n]nis Mesue additio incipit    |t Hic prosequitur Clarissim[us] doctor franciscus de pedemontium. [et] complet secunda[m] diuisionem superius annotatam in primo de appropriatis Diui Joannis Mesue    |t Incipit Antidotarium Nicolai cu[m] expositionibus [et] glosis clarissimi Magistri Platearij    |t Expositio Joannis de sancto Amando supra Antidotarium Nicolai Incipit feliciter    |t Incipit tractatus quid pro quo    |t Incipiunt Sinonima    |t Incipit liber Seruitoris liber .xxviii. Bulchasin Benaberazerin    |r translatus a Simone Januensi: interprete. Abraam iudeo tortuosiensi    |t Domini Saladini de esculo Sere[n]itati pri[n]cipis. Tarenti physici principalis compe[n]dii aromatarioru[m] opus feliciter incipit    
+510 4    |a BSB-Ink    |c M-349    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_M-349.html    
+510 4    |a GW    |c M22999    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M22999.htm    
+510 4    |a ISTC    |c im00517000    |u http://data.cerl.org/istc/im00517000    
+530      |a Digitalisat (Exemplar der Biblioteca Complutense Madrid)    |u http://alfama.sim.ucm.es/dioscorides/consulta_libro.asp?ref=X531555789&idioma=0    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun, Kalb) mit Schliessen, Linien- und Ornamentrollen- sowie Ornamentstempel-Blindprägung auf beiden Deckeln, Linien-Blindprägung und Titelschild in Blindprägung ("Iohan Mesuæ") auf dem Rücken, in Tinte auf dem Rücken: "Mesve", "Ven 1497"    
+563      |a Vorsätze: Vorne ein fliegendes Blatt sowie hochgelöster Spiegel (darunter Makulaturpergament: zweispaltige Universitätshandschrift des 13./14. Jh. mit geistlichen "Quaestiones"), hinten ein fliegendes Blatt    
+563      |a Masse Einband: 32.2 x 23 x 6.6 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, Lederüberklebungen an Rücken und Deckelecken, untere Schliesse vollständig ergänzt, vorderer Vorsatzspiegel hochgelöst    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 372 von 372 Blättern, einzelne Paginierungsfehler handschriftlich korrigiert, Papier- und Pergamentfälze an den Vorsätzen gehören zur Vorsatzkonstruktion, Pergamentverstärkung in Lage ll, anfangs teilweise rot, blau oder zweifarbig ausgezeichnete Initialen, teilweise vorgesehene Stellen für Initialen frei gelassen, auf Titelseite Blattzahlen der enthaltenen Werke in Tinte eingefügt    
+590      |a Zustand Buchblock: Lage a aussen im Falz teilweise mit Büttenpapier verstärkt, Quetschfalten und Risse vor allem an Lage a, Heftung teilweise gelöst (Lagen a und vv), Craquelés im roten Farbauftrag    
+590      |a Handschriftliche Annotationen, Unterstreichungen und Zeichnungen in Tinte und Graphit    
+590      |a Handschriftliches Register (3 Seiten, 15. Jh.) im hinteren Vorsatz    
+590      |a Historische Signatur auf vorderem Spiegel: "N°. 104."; auf Titelseite: "Medic 63"    
+590      |a Frühere Signatur: Inc 203    
+700 1    |a Ibn-Māsawaih, Abū-Zakarīyā Yūḥannā    |d 777-857    |0 (DE-588)102370907    |e Verfasser    |4 aut    
+700 0    |a Mesue͏̈    |c Iunior    |d 924-1015    |0 (DE-588)102539847    |e Verfasser    |4 aut    
+700 0    |a Mundinus    |c Lucius    |d 1270-1326    |0 (DE-588)100954170    |e Verfasser    |4 aut    
+700 0    |a Christophorus    |c de Honestis    |d ca. 1320-1392    |0 (DE-588)104315091    |e Verfasser    |4 aut    
+700 0    |a Petrus    |c de Abano    |d 1250-1316    |0 (DE-588)118889443    |e Verfasser    |4 aut    
+700 0    |a Franciscus    |c de Pede Montium    |d -1320    |0 (DE-588)100941494    |e Verfasser    |4 aut    
+700 0    |a Nicolaus    |c Salernitanus    |d ca. 12. Jh.    |0 (DE-588)100955282    |e Verfasser    |4 aut    
+700 0    |a Matthaeus    |c Platearius    |d -1161    |0 (DE-588)119544733    |e Verfasser    |4 aut    
+700 0    |a Johannes    |c de Sancto Amando    |d 1262-1312    |0 (DE-588)100949312    |e Verfasser    |4 aut    
+700 1    |a Zahrāwī, Ḫalaf Ibn-Abbās <<az->>    |d 936-1009    |0 (DE-588)118816063    |e Verfasser    |4 aut    
+700 0    |a Simon    |c Ianuensis    |d ca. 13. Jh.    |0 (DE-588)100960928    |e Übersetzer    |4 trl    
+700 0    |a Abraham    |c Iudaeus    |d ca. 12. Jh.    |0 (DE-588)102421749    |e Übersetzer    |4 trl    
+700 0    |a Saladinus    |c de Asculo    |d ca. 15. Jh.    |0 (DE-588)100960219    |e Verfasser    |4 aut    
+700 1    |a Gregori, Giovanni <<de>>    |d ca. 15./16. Jh.    |0 (DE-588)129998311    |e Drucker    |4 prt    
+700 1    |a Gregori, Gregorio <<de>>    |d ca. 15./16. Jh.    |0 (DE-588)120750678    |e Drucker    |4 prt    
+700 0 2  |a Mundinus    |c Lucius    |d 1270-1326    |t Expositio super canones universales    |0 (DE-588)1139455877    
+700 0 2  |a Christophorus    |c de Honestis    |d ca. 1320-1392    |t Expositio super Antidotario Mesue    |0 (DE-588)1139459341    
+700 0 2  |a Christophorus    |c de Honestis    |d ca. 1320-1392    |t De saccellis caput purgantibus, epithematibus et clisteribus    |0 (DE-588)1139463039    
+700 0 2  |a Christophorus    |c de Honestis    |d ca. 1320-1392    |t Tractatus de aqua ordei et de modo faciendi ptisanam    |0 (DE-588)1139462156    
+700 0 2  |a Petrus    |c de Abano    |d 1250-1316    |t Additiones super Mesue    |0 (DE-588)1139464949    
+700 0 2  |a Franciscus    |c de Pede Montium    |d -1320    |t Complementum in opera Mesue    |0 (DE-588)1139470973    
+700 0 2  |a Nicolaus    |c Salernitanus    |d ca. 12. Jh.    |t Antidotarium Nicolai    |0 (DE-588)1135994609    
+700 0 2  |a Johannes    |c de Sancto Amando    |d 1262-1312    |t Expositio super Antidotarium Nicolai    |0 (DE-588)113913759X    
+700 1 2  |a Zahrāwī, Ḫalaf Ibn-Abbās <<az->>    |d 936-1009    |t Liber servitoris    |0 (DE-588)4128371-5    
+700 0 2  |a Saladinus    |c de Asculo    |d ca. 15. Jh.    |t Compendium aromatariorum    |0 (DE-588)1139129414    
+710 1    |a De Gregori, Giovanni & De Gregori, Gregorio    |4 prt    |0 (DE-588)1050734394    
+730 0    |a De medicinis laxativis    |0 (DE-588)1139388045    
+730 0    |a Grabadin    |0 (DE-588)7553044-2    
+730 0    |a Practica medicinarum particularium    |0 (DE-588)1139447475    
+730 0    |a Liber iste    |0 (DE-588)113914314X    
+730 0    |a Tractatus quid pro quo    |0 (DE-588)1139141392    
+730 0    |a Synonyma    |0 (DE-588)1139141384    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Inc I 37    |9 (41SLSP_UBE)99116724136505511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc I 37    |b B404    |9 (41SLSP_UBE)99116724136505511    
+986      |a (41SLSP_UBE)99116724136505511    |9 (41SLSP_UBE)99116724136505511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116724136505511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

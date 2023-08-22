@@ -1,0 +1,136 @@
+﻿<-1-1-START->
+Augustinus, Aurelius
+<-1-1-STOP->
+
+<-1-2-START->
+De civitate Dei
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Boneto Locatello für Ottaviano Scoto, [09.02.1486 more veneto, das heisst 1487]
+<-3-1-STOP->
+
+<-4-1-START->
+414 ungezählte Seiten, 1 ungezähltes Blatt; 23 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-860.html<-L-5-STOP-><-VI-5-START->BSB-Ink A-860<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/Show.asp?dir=AUGUAUR&file=GW02882<-L-5-STOP-><-VI-5-START->GW 2882<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ia01238000<-L-5-STOP-><-VI-5-START->ISTC ia01238000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+207 von 208 Blättern, rot und/oder blau ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Pergamenteinband auf Kartondeckeln (17./18. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Pierre Saurin
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Das unbedruckte Blatt [con]₈ fehlt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116778960405511<-L-11-STOP-><-VI-11-START->MUE Inc IV 59<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991150006949705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Augustinus, Aurelius<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Locatello, Boneto<-P-STOP->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Scoto, Ottaviano<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Saurin, Pierre<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991150006949705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 59<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03449nam a2200541 c 4500
+001 991150006949705501
+005 20211215191032.0
+008 160429q14861487it |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/29.04.2016/B400/az    
+035      |a (swissbib)072541628-41slsp_network    
+035      |a 072541628    |9 ExL    
+035      |a (IDSBB)006498931DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991150006949705501    
+035      |a (41SLSP_UBE)99116778960405511    |9 (41SLSP_UBE)99116778960405511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Augustinus, Aurelius    |c Heiliger    |d 354-430    |0 (DE-588)118505114    |e Verfasser    |4 aut    
+240 1 0  |a De civitate Dei    
+245 1 0  |a Aurelij Augustini episcopi de ciuitate dei liber primus feliciter incipit    
+246 1 0  |a De civitate dei liber primus feliciter incipit    
+246 1    |i Titel in normalisierter Form    |a Aurelii Augustini episcopi De civitate dei liber primus feliciter incipit    
+264   1  |a Co[n]fectum venetijis    |b per bonetu[m] locatellum impendio [et] sumptibus octauiani scoti modoetiensis    |c [09.02.1486/1487]    
+300      |a 414 ungezählte Seiten, 1 ungezähltes Blatt    |c 23 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Titel gemäss incipit (Blatt a₁)    
+500      |a Impressum gemäss Kolophon (Blatt [con]₇)    
+500      |a Erscheinungsjahr gemäss Kolophon: "Anno a natiuitate domini milesimo quadringentesimo octuagesimo sexto quinto idus februarij" [9.2.1486 more veneto, das heisst 9.2.1487]    
+500      |a Signaturformel: A⁸, a-z⁸, [et]⁸, [con]⁸    
+500      |a Blatt [con]₇ verso und [con]₈ sind unbedruckt    
+500      |a Mit Inhaltsverzeichnis (Blatt A₁ verso)    
+510 4    |a BSB-Ink    |c A-860    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-860.html    
+510 4    |a GW    |c 2882    |u http://www.gesamtkatalogderwiegendrucke.de/Show.asp?dir=AUGUAUR&file=GW02882    
+510 4    |a ISTC    |c ia01238000    |u http://data.cerl.org/istc/ia01238000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0004/bsb00045821/images    
+561      |a Handschriftlicher Besitzvermerk auf Blatt [a₁] recto: "Petrus Saurinus (durchgestrichen) 1662" (vielleicht Pierre Saurin, Pfarrer in Grenoble)    
+563      |a Einbandbeschreibung: Ganzbezogener Pergamenteinband auf Kartondeckeln (17./18. Jh.)    
+563      |a Vorsätze: jeweils mit einem fliegenden Blatt    
+563      |a Masse Einband: 23 x 18 x 3.5 cm    
+563      |a Zustand Einband: Verbindung zwischen Vorsätzen und Buchblock mit Papierfälzen verstärkt, Schäden am Pergament mit Papier überklebt    
+590      |a Buchblockbeschreibung: 207 von 208 Blättern (das unbedruckte Blatt [con]₈ fehlt), rot und/oder blau ausgezeichnete Initialen, Rubrizierung, rote und blaue Paragraphenzeichen    
+590      |a Handschriftliche Annotationen in Tinte    
+590      |a Historische Signatur auf vorderem Spiegel: "Patres 426" korrigiert zu "16"    
+700 1 2  |a Augustinus, Aurelius    |c Heiliger    |d 354-430    |t De civitate dei    |0 (DE-588)4120948-5    
+700 1    |a Locatello, Boneto    |0 (DE-588)1037496906    |e Drucker    |4 prt    
+700 1    |a Scoto, Ottaviano    |d 14XX-1498    |0 (DE-588)104090030    |e Verlag    |4 pbl    
+700 1    |a Saurin, Pierre    |d ca. 17. Jh.    |0 (DE-588)1197644644    |e Früherer Eigentümer    |4 fmo    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 59    |9 (41SLSP_UBE)99116778960405511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc IV 59    |b B404    |9 (41SLSP_UBE)99116778960405511    
+986      |a (41SLSP_UBE)99116778960405511    |9 (41SLSP_UBE)99116778960405511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116778960405511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

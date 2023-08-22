@@ -1,0 +1,151 @@
+﻿<-1-1-START->
+Bartolus de Saxoferrato
+<-1-1-STOP->
+
+<-1-2-START->
+Lectura super prima parte Digesti novi
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Zusätzen von Alexander de Imola<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Lyon: Johannes Siber, zwischen 1493 und 1494?]
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 320 ungezählte Seiten, 1 ungezähltes Blatt; 43 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-159.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-159<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW03559.htm<-L-5-STOP-><-VI-5-START->GW 03559<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib00220100<-L-5-STOP-><-VI-5-START->ISTC ib00220100<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+162 von 162 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen, Linien- und Ornamentstempel- sowie Ornamentrollen-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Lectura super secunda parte Digesti novi. [Lyon: Johannes Siber, zwischen 1493 und 1494?]
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116808149305511<-L-11-STOP-><-VI-11-START->MUE Inc I 16 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991003522689705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Bartolus de Saxoferrato<-P-STOP->
+<-P-START->Alexander de Imola<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Lyon<-O-STOP->
+<-P-START->Johannes Siber<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991003522689705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 16 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04336nam a22006972c 4500
+001 991003522689705501
+005 20211221144720.0
+007 cr#|||||||||||
+008 080128q14931494fr            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/21.06.2017/B404/faf    
+024 7    |a 10.3931/e-rara-92983    |2 doi    
+035      |a (swissbib)052906876-41slsp_network    
+035      |a 052906876    |9 ExL    
+035      |a (IDSBB)004410510DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991003522689705501    
+035      |a (41SLSP_UBE)99116808149305511    |9 (41SLSP_UBE)99116808149305511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Bartolus    |c de Saxoferrato    |d 1314-1357    |0 (DE-588)118652885    |e Verfasser    |4 aut    
+240 1 0  |a Lectura super prima parte Digesti novi    
+245 1 0  |a Explicit lectura d[omi]ni Bartoli de saxoferrato sup[er] prima parte. ff. noui. cu[m] additio[n]ibus eximij vtriusq[ue] iuris doctoris d[omi]ni alexandri de ymola    
+246 1 0  |a Lectura domini Bartoli de Saxoferrato super prima parte ff. novi    
+246 1    |i Incipit (Additiones)    |a Rubrica. De ope. noui nunci    
+246 1    |i Incipit (Additiones) in normalisierter Form    |a Rubrica. De ope. novi nunci    
+246 1    |i Incipit (Text)    |a Domini vt scit[is]. Hic no[n] est caput toti[us] co[m]pilationis ...    
+246 1    |i Incipit (Text) in normalisierter Form    |a Domini ut scitis. Hic non est caput totius compilationis ...    
+246 1    |i Titel gemäss BSB-Ink    |a Super Digesto novo    |p 1    
+246 1    |i Titel gemäss GW    |a Super I. parte Digesti novi    
+246 1    |i Titel gemäss ISTC    |a Super prima parte Digesti novi    
+246 1    |i Titel in normalisierter Form    |a Explicit lectura domini Bartoli de Saxoferrato super prima parte ff. novi cum additionibus eximii utriusque iuris doctoris domini Alexandri de Ymola    
+264   1  |a [Lyon]    |b [Johannes Siber]    |c [zwischen 1493 und 1494?]    
+300      |a 1 ungezähltes Blatt, 320 ungezählte Seiten, 1 ungezähltes Blatt    |c 43 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+337      |b c    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+338      |b cr    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss Explicit    
+500      |a Impressum gemäss BSB-Ink und GW    
+500      |a Signaturformel: A¹⁰, B-C⁸, D⁶, E⁸, F⁶, G–O⁸, P-Q⁶, R–X⁸    
+500      |a Blatt A₁ ohne Lagensignatur, Blätter A₂-A₅ mit Signaturen A-Aiiij bezeichnet    
+500      |a Die Blätter A₁ und X₈ sind unbedruckt    
+510 4    |a BSB-Ink    |c B-159    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-159.html    
+510 4    |a GW    |c 03559    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW03559.htm    
+510 4    |a ISTC    |c ib00220100    |u http://data.cerl.org/istc/ib00220100    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen, Linien- und Ornamentstempel sowie Ornamentrollen-Blindprägung auf beiden Deckeln    
+563      |a Vorsätze: Jeweils ohne fliegende Blätter    
+563      |a Masse Einband: 43 x 31.6 x 9.8 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, Schliessenriemen verstärkt sowie oberes Hakenteil der Schliesse ergänzt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 162 von 162 Blättern, vorgesehene Stellen für Initialen frei gelassen    
+590      |a Zustand Buchblock: Durchgängig Schädlingsfrass    
+590      |a Wenige handschriftliche Annotationen und Unterstreichungen in Tinte (z.B. Blatt G₇)    
+590      |a Zusammengebunden mit: Lectura super secunda parte Digesti novi. [Lyon] : [Johannes Siber], [zwischen 1493 und 1494?]    
+590      |a Historische Signatur auf vorderem Spiegel: "Jur: Pol: N: 35."; auf Blatt A₂ recto: "Jur. Polit 34"    
+590      |a Frühere Signatur: Inc 4    
+700 0    |a Alexander    |c de Imola    |d 1424-1477    |0 (DE-588)100935958    |e Verfasser von ergänzendem Text    |4 wst    
+700 0    |a Johannes    |c Siber    |d -1504    |0 (DE-588)138430934    |e Drucker    |4 prt    
+700 0 2  |a Bartolus    |c de Saxoferrato    |d 1314-1357    |t Lectura super prima parte Digesti novi    |0 (DE-588)1135682356    
+751      |a Lyon    |0 (DE-588)4036770-8    
+852 4    |b B404    |c 404U3    |j MUE Inc I 16 : 1    |9 (41SLSP_UBE)99116808149305511    
+856 4    |u https://doi.org/10.3931/e-rara-92983    |z Digitalisat in e-rara    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+900      |a IDSIxhybrid-el    
+949      |c 404U3    |z Zusammengebunden mit 1 weiteren Druck in Sammelband    |p 12    |j MUE Inc I 16 : 1    |b B404    |9 (41SLSP_UBE)99116808149305511    
+986      |a (41SLSP_UBE)99116808149305511    |9 (41SLSP_UBE)99116808149305511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116808149305511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116808149305511    
+990      |f erarabe    |9 local    |9 (41SLSP_UBE)99116808149305511    
+990      |f lza-cc0    |9 local    |9 (41SLSP_UBE)99116808149305511    
+991      |a MedeaB400: 00051691    |5 IZ UBE/rekat-ubbe    |9 local    |9 (41SLSP_UBE)99116808149305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

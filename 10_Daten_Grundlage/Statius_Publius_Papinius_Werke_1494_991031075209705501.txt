@@ -1,0 +1,160 @@
+﻿<-1-1-START->
+Statius, Publius Papinius
+<-1-1-STOP->
+
+<-1-2-START->
+Werke [lateinisch]. — Lactantius Placidus: Commentarii in Statii Thebaida. — Maturanzio, Francesco: Recollecta super Achilleida P. Papinii Statii. — Domitius de Calderiis: Elucubratio in quaedam Propertii loca, quae difficiliora videbantur; Epilogus et prosphōnēsis de observationibus; Ex tertio libro observationum; Papini vita
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Kommentar von Domitius de Calderiis zu "Sylvae" mit Vorwort und Widmung an Augustinus Maffeius<-500-STOP->
+<-500-START->Mit Gedicht von Domitius an Francisco de Aragón<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Bartolomeo Zani, 15.03.1494
+<-3-1-STOP->
+
+<-4-1-START->
+203 Blätter, 1 ungezähltes Blatt: Holzschnittinitialen; 32 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_S-537.html<-L-5-STOP-><-VI-5-START->BSB-Ink S-537<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M43274.htm<-L-5-STOP-><-VI-5-START->GW M43274<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/is00693000<-L-5-STOP-><-VI-5-START->ISTC is00693000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+203 von 204 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun marmoriert, Schaf, 18. Jahrhundert), gezogene Blindlinien auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars; G. Marsiboius Aurelianus; Petrus de Foueat
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116725371805511<-L-11-STOP-><-VI-11-START->MUE Bong VI 251<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991031075209705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Statius, Publius Papinius<-P-STOP->
+<-P-START->Domitius de Calderiis<-P-STOP->
+<-P-START->Lactantius Placidus<-P-STOP->
+<-P-START->Maturanzio, Francesco<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Zani, Bartolomeo<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-P-START->Aurelianus, G. Marsiboius<-P-STOP->
+<-P-START->Foueat, Petrus de<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991031075209705501<-DOI-STOP->
+<-SIGN-START->MUE Bong VI 251<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06175nam a22007572c 4500
+001 991031075209705501
+005 20230209110133.0
+008 100802s1494    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/02.08.2010    
+035      |a (swissbib)062189085-41slsp_network    
+035      |a 062189085    |9 ExL    
+035      |a (IDSBB)005286201DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991031075209705501    
+035      |a (41SLSP_UBE)99116725371805511    |9 (41SLSP_UBE)99116725371805511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Statius, Publius Papinius    |d 45-96    |0 (DE-588)118798502    |e Verfasser    |4 aut    
+240 1 0  |a Werke    
+245 1 0  |a Statii Syluæ    |c cum Domitii Commentariis ; Statii Thebais / cum Lactantii Commentariis ; Statii Achilleis / cum Maturantii Commentariis. Domitii [elucubratio]    
+246 1    |i Titel in normalisierter Form    |a Statii Sylvae    
+246 1 0  |a Sylvae    
+246 1    |i Titel in moderner Orthografie    |a Statii Silvae    
+246 1 0  |a Silvae    
+246 1    |i Titel gemäss BSB-Ink, GW und ISTC    |a Opera    
+264   1  |a Venetiis impressum    |b per Bartholameum de Zanis de Portesio    |c .M.cccc.lxxxxiiii. Die .xv. Martii. [15.03.1494]    
+300      |a 203 Blätter, 1 ungezähltes Blatt    |c 32 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Ab Rückseite der Titelseite Vorwort von Domitius de Calderiis an Augustinus Maffeius; der Kommentar von Domitius zu "Sylvae" (ab Blatt 3 recto) ist Augustinus Maffeius gewidmet    
+500      |a Blatt 2 verso mit Gedicht von Domitius an Francisco de Aragón (Incipit: "Nuper non fueras in urbe notus. ..."), Blatt 203 verso mit Gedicht an den Leser ("Domitius ad lectorem", Incipit: "Sic mihi perpetuæ contingant mrumura laudis.")    
+500      |a Impressum gemäss Kolophon (Blatt 203 verso); Reihenfolge der Vorlage: "Hoc per Bartholameum de Zanis de Portesio Venetiis impresusum opus fœliciter explicit. .M.cccc.lxxxxiiii. Die .xv. Martii."    
+500      |a Signaturformel: a–g⁸, h⁴, i–y⁸, z⁶, &⁸, [con]⁸, [rum]¹⁰    
+500      |a Blatt 60 verso ungedruckt; Blatt [rum]₁₀ (letztes Blatt) unbedruckt    
+500      |a Holzschnittinitialen    
+505 0 0  |g Blatt 198 recto    |t Domitii elucubratio i[n] quæda[m] Prop[er]tii loca. quæ difficiliora uedebant[ur]    |r Ad Fran. Arago. Fer. R. ne. F.    |g Blatt 201 verso    |t Domitii ad Franciscu[m] Aragoniu[m] Epilogus. & pros phōnēsis de obseruationibus    |g Blatt 202 recto    |t Ex tertio libro obseruationum Domitii    |g Blatt 203 verso    |t Papinii Vita    |r Per Domitivm    
+510 4    |a BSB-Ink    |c S-537    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_S-537.html    
+510 4    |a GW    |c M43274    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M43274.htm    
+510 4    |a ISTC    |c is00693000    |u http://data.cerl.org/istc/is00693000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00060506/image_3    
+561      |a Handschriftlicher Besitzvermerk in Tinte auf der Titelseite: "Bongars" (mit ausführlicher Notiz); auf Blatt 2 verso: "Sum g. Marsiboii Aureliani"; auf Blatt 60 verso (am Ende einer Abschrift aus einem anderen Werk): "Petrus de Foueat[?] huius operis statiani ...[?] possessor est" (darunter gezeichnetes Wappen mit drei Lilien)    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun marmoriert, Schaf, 18. Jahrhundert), gezogene Blindlinien auf beiden Deckeln, Linien-Goldprägung und Titelschild in Goldprägung auf dem Rücken: "Statius 1494"    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 31.3 x 22.5 x 3.0 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, Fragmente am Rücken verklebt, Falzverstärkung (Japanpapierfälze) an beiden Vorsätzen    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 203 von 204 Blättern, Falz zwischen Lagen a und b sowie Lagen [con] und [rum] (vorletzte und letzte Lage) gehört zur Vorsatzkonstruktion, keine Rubrizierung    
+590      |a Zustand Buchblock: Massive Feuchtigkeitsränder im Bundstegbereich des ersten Drittels    
+590      |a Handschriftliche Annotation von Bongars auf der Titelseite betreffend philologische Studien bei François Juret 1598; weitere Annotationen verschiedener Hände im Text verteilt, zum Teil Abschriften aus anderen Werken (vor allem Blatt 60 verso)    
+590      |a Blatt [rum]₁₀ (letztes Blatt, unbedruckt) fehlt    
+590      |a Historische Signatur auf der Titelseite: "Poët 34"    
+590      |a Frühere Signaturen: Inc II 63; Inc 194; Hortin XIIX 3    
+700 1 2  |a Statius, Publius Papinius    |d 45-96    |t Werke    |0 (DE-588)1176667424    
+700 0 2  |a Domitius    |c de Calderiis    |d 1446-1478    |t Elucubratio in quaedam Propertii loca, quae difficiliora videbantur    |0 (DE-588)1176667149    
+700 0 2  |a Domitius    |c de Calderiis    |d 1446-1478    |t Epilogus et prosphōnēsis de observationibus    |0 (DE-588)1178066746    
+700 0 2  |a Domitius    |c de Calderiis    |d 1446-1478    |t Ex tertio libro observationum    |0 (DE-588)1178063224    
+700 0 2  |a Domitius    |c de Calderiis    |d 1446-1478    |t Papini vita    |0 (DE-588)1178068269    
+700 0    |a Domitius    |c de Calderiis    |d 1446-1478    |0 (DE-588)100940056    |e Kommentarverfasser    |4 wac    
+700 0    |a Lactantius    |c Placidus    |d ca. 6. Jh.    |0 (DE-588)100515401    |e Kommentarverfasser    |4 wac    
+700 1    |a Maturanzio, Francesco    |d 1443-1518    |0 (DE-588)104349042    |e Kommentarverfasser    |4 wac    
+700 1    |a Maffeius, Augustinus    |d 1431-1496    |0 (DE-588)129041017    |e Widmungsempfänger    |4 dte    
+700 0    |a Francisco    |c de Aragón    |d 1461-1486    |0 (DE-588)129018937    |e Widmungsempfänger    |4 dte    
+700 1    |a Zani, Bartolomeo    |d 14XX-15XX    |0 (DE-588)103757317X    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Aurelianus, G. Marsiboius    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Foueat, Petrus <<de>>    |e Früherer Eigentümer    |4 fmo    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Bong VI 251    |9 (41SLSP_UBE)99116725371805511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc II 63    |c 404U3    |p 12    |j MUE Bong VI 251    |b B404    |9 (41SLSP_UBE)99116725371805511    
+986      |a (41SLSP_UBE)99116725371805511    |9 (41SLSP_UBE)99116725371805511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116725371805511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116725371805511    
+991      |a Bongars: 13255    |5 IZ UBE/B400/02.08.2010    |9 local    |9 (41SLSP_UBE)99116725371805511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

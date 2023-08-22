@@ -1,0 +1,148 @@
+﻿<-1-1-START->
+Robertus Remensis
+<-1-1-STOP->
+
+<-1-2-START->
+Historia Hierosolymitana
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->In Buch 9 zwischen Kapitel 25 und 26 ohne Kennzeichnung der Übergänge eingeschoben Buch 1, Kapitel 32 bis Buch 2, Kapitel 37 der "Historia Hierosolymitana" des Fulcherius Carnotensis<-500-STOP->
+<-500-START->Mit der "Epistula Alexii I Komneni imperatoris ad Robertum I comitem Flandrensem" am Anfang und der "Epistula patriarchae Hierosolymitani et aliorum episcoporum ad occidentales" (unvollständig) am Schluss<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Köln: Johann Schilling, um 1472]
+<-3-1-STOP->
+
+<-4-1-START->
+252 ungezählte Seiten; 21 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M38382.htm<-L-5-STOP-><-VI-5-START->GW M38382<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ir00207000<-L-5-STOP-><-VI-5-START->ISTC ir00207000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+126 von 126 Blättern, rot, braun und golden ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Flexibler Pergamenteinband mit durchzogenen Bünden (Manuskriptmakulatur)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Barnabé Brisson; Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116928274205511<-L-11-STOP-><-VI-11-START->MUE Bong V 964<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991013664809705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Robertus Remensis<-P-STOP->
+<-P-START->Alexios I. (Kaiser von Byzanz)<-P-STOP->
+<-P-START->Fulcherius Carnotensis<-P-STOP->
+<-P-START->Simeon II. (Patriarch von Jerusalem)<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Köln<-O-STOP->
+<-P-START->Schilling, Johann<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Brisson, Barnabé<-P-STOP->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991013664809705501<-DOI-STOP->
+<-SIGN-START->MUE Bong V 964<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05260nam a2200625 c 4500
+001 991013664809705501
+005 20211215163153.0
+008 100723s1472    gw            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/31.01.2019/B404/faf    
+035      |a (swissbib)061813281-41slsp_network    
+035      |a 061813281    |9 ExL    
+035      |a (IDSBB)005282859DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991013664809705501    
+035      |a (41SLSP_UBE)99116928274205511    |9 (41SLSP_UBE)99116928274205511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Robertus    |c Remensis    |d 1055-1122    |0 (DE-588)118790714    |e Verfasser    |4 aut    
+240 1 0  |a Historia Hierosolymitana    
+245 1 0  |a Explicit hystoria de Itinere [con]tra turchos    
+246 1    |i Incipit    |a Hoc exemplar epistole quarto a[n]no ante gloriosu[m] iherosolimitanu[m] iter a Co[n]sta[n]tinopolitani Imperatore omnibus occidentalibus ecc[lesi]is directu[m] e[st]    
+246 1    |i Incipit in normalisierter Form    |a Hoc exemplar epistole quarto anno ante gloriosum Iherosolimitanum iter a Constantinopolitani imperatore omnibus occidentalibus ecclesiis directum est    
+246 1    |i Titel gemäss ISTC    |a Historia Hierosolymitana, sive historia itineris contra Turcos    
+264   1  |a [Köln]    |b [Johann Schilling]    |c [um 1472]    
+300      |a 252 ungezählte Seiten    |c 21 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Zwischen Buch 9, Kapitel 25 und 26 ohne Kennzeichnung der Übergänge eingeschoben Buch 1, Kapitel 32 bis Buch 2, Kapitel 37 der "Historia Hierosolymitana" des Fulcherius Carnotensis (Blatt [m₇] verso bis Blatt [q₇] recto]    
+500      |a Mit der "Epistula Alexii I Komneni imperatoris ad Robertum I comitem Flandrensem" am Anfang und der "Epistula patriarchae Hierosolymitani et aliorum episcoporum ad occidentales" (unvollständig) am Schluss    
+500      |a Keine Titelseite, Titel gemäss Explicit    
+500      |a Impressum gemäss GW und ISTC    
+500      |a Signaturformel: [a-i⁸, k⁶, l-q⁸]    
+510 4    |a GW    |c M38382    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M38382.htm    
+510 4    |a ISTC    |c ir00207000    |u http://data.cerl.org/istc/ir00207000    
+530      |a Digitalisat (Exemplar der Universitäts- und Stadtbibliothek Köln)    |u http://www.ub.uni-koeln.de/cdm/ref/collection/inkunabeln/id/168580    
+561      |a Handschriftlicher Besitzvermerk auf Blatt [a₁] recto: "bongarsij"; handschriftlicher Vermerk neben Annotationen auf vorderem fliegendem Vorsatzblatt verso: "manu B. Brißonij"    
+563      |a Einbandbeschreibung: Flexibler Pergamenteinband mit durchzogenen Bünden (Manuskriptmakulatur)    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 20.4 x 14.5 x 2.5 cm    
+563      |a Zustand Einband: Einbandpergament mit kleineren Fehlstellen und Einrissen und hochgebogenen und verwellten Rändern, Japanpapierüberklebungen am Rücken und den Deckeln, beide Vorsätze beidseitig im Falz mit Japanpapierüberklebungen    
+590      |a Buchblockbeschreibung: 126 von 126 Blättern, handschriftliche Lagensignaturen in Graphit auf erstem Blatt jeder Lage, umgeknickte Ecke an Blatt [d₈] (Beschnittausmass sichtbar), rot, braun und golden ausgezeichnete Initialen, Rubrizierung    
+590      |a Zustand Buchblock: Heftung am unteren Bund und Fitzbund gerissen, Blätter im unteren Falz zum Teil eingerissen, zahlreiche Verfleckungen und teilweise Einrisse (Blatt [d₂]), Fehlstellen an Blättern [a₁] und [q₈] durch Reissen bzw. Schneiden, Blätter [k₁] und [k₆] sowie [k₃] und [k₄] mit Büttenpapierüberklebungen im Falz stabilisiert    
+590      |a Zahlreiche handschriftliche Annotationen und Unterstreichungen in Tinte, unter anderem von Barnabé Brisson und Jacques Bongars    
+590      |a Historische Signatur auf vorderem Spiegel: "246. Hist: Eccl:", Zahl korrigiert zu "150."    
+590      |a Frühere Signaturen: Inc 408; Inc III 110; XVII 43    
+700 0    |a Alexios    |b I.    |c Byzantinisches Reich, Kaiser    |d 1048-1118    |0 (DE-588)118501925    |e Verfasser    |4 aut    
+700 0    |a Fulcherius    |c Carnotensis    |d 1059-1127    |0 (DE-588)118956043    |e Verfasser    |4 aut    
+700 0    |a Simeon    |b II.    |c Jerusalem, Patriarch    |d -1106    |0 (DE-588)143978829    |e Verfasser    |4 aut    
+700 1    |a Schilling, Johann    |d ca. 15. Jh.    |0 (DE-588)1037511271    |e Drucker    |4 prt    
+700 1    |a Brisson, Barnabé    |d 1531-1591    |0 (DE-588)123315352    |e Früherer Eigentümer    |e Annotierende Person    |4 fmo    |4 ann    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |e Annotierende Person    |4 fmo    |4 ann    
+700 0 2  |a Robertus    |c Remensis    |d ca. 12. Jh.    |t Historia Hierosolymitana    |0 (DE-588)4569618-4    
+700 0 2  |9 U:Grek    |a Alexios    |b I.    |c Byzantinisches Reich, Kaiser    |c αυτοκράτορας του Βυζαντίου    |d 1048-1118    |t Epistula Alexii I Komneni imperatoris ad Robertum I comitem Flandrensem    |0 (DE-588)117674853X    
+700 0 2  |a Fulcherius    |c Carnotensis    |d 1059-1127    |t Historia Hierosolymitana    |n 1,32-2,37    |0 (DE-588)1176739573    
+700 0 2  |a Simeon    |c von Jerusalem    |d -1106    |t Epistula patriarchae Hierosolymitani et aliorum episcoporum ad occidentales    |0 (DE-588)1176747657    
+751      |a Köln    |0 (DE-588)4031483-2    
+852 4    |b B404    |c 404U3    |j MUE Bong V 964    |9 (41SLSP_UBE)99116928274205511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc III 110    |c 404U3    |p 12    |j MUE Bong V 964    |b B404    |9 (41SLSP_UBE)99116928274205511    
+986      |a (41SLSP_UBE)99116928274205511    |9 (41SLSP_UBE)99116928274205511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116928274205511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116928274205511    
+991      |a Bongars: 12235    |5 IZ UBE/B400/23.07.2010    |9 LOCAL    |9 (41SLSP_UBE)99116928274205511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

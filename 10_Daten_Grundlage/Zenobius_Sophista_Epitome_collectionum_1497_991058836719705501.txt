@@ -1,0 +1,153 @@
+﻿<-1-1-START->
+Zenobius Sophista
+<-1-1-STOP->
+
+<-1-2-START->
+Epitome collectionum Lucilli Tarrhaei et Didymi [griechisch]
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit einem lateinischen Widmungsbrief des Herausgebers Benedictus Ricciardinus an Georgius Dathus<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Florenz: [Benedictus Ricciardinus oder Bartolomeo di Libri für] Filippo Giunta, 1497
+<-500-START->Gemäss ISTC möglicherweise von Filippo Giunta selbst gedruckt<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 132 ungezählte Seiten, 1 ungezähltes Blatt; 23 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_Z-40.html<-L-5-STOP-><-VI-5-START->BSB-Ink Z-40<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M52087.htm<-L-5-STOP-><-VI-5-START->GW M52087<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/iz00024000<-L-5-STOP-><-VI-5-START->ISTC iz00024000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+61 von 68 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Kartondeckeln (braun, 18. Jahrhundert) mit Papier (chamois)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: François Bérauld; Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Die Lage [] sowie die Blätter α₁, α₈ und β₁ fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116786557605511<-L-11-STOP-><-VI-11-START->MUE Bong IV 889<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991058836719705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Zenobius Sophista<-P-STOP->
+<-P-START->Ricciardinus, Benedictus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Florenz<-O-STOP->
+<-P-START->Ricciardinus, Benedictus<-P-STOP->
+<-O-START->Florenz<-O-STOP->
+<-P-START->Libri, Bartolomeo di<-P-STOP->
+<-O-START->Florenz<-O-STOP->
+<-P-START->Giunta, Filippo<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bérauld, François<-P-STOP->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991058836719705501<-DOI-STOP->
+<-SIGN-START->MUE Bong IV 889<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04923nam a2200649 c 4500
+001 991058836719705501
+005 20211215174916.0
+008 100806s1497    it            00| | grc  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/29.01.2020/B404/faf    
+035      |a (swissbib)062464787-41slsp_network    
+035      |a 062464787    |9 ExL    
+035      |a (IDSBB)005288723DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991058836719705501    
+035      |a (41SLSP_UBE)99116786557605511    |9 (41SLSP_UBE)99116786557605511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+041 0    |a grc    
+100 0    |a Zenobius    |c Sophista    |d ca. 2. Jh.    |0 (DE-588)100712983    
+240 1 0  |a Epitome collectionum Lucilli Tarrhaei et Didymi    
+245 1 0  |a Zēnobiu Epitomē Tōn Tarraiu Kai Didymu Paroimiōn Syntetheisōn Kata Stoicheion    
+246 1    |i Incipit    |a Ad Reuer[n]du[m] i[n] christo dominu[m] Georgiu[m] Dathu[m] canonicu[m] florentinu[m]: ac Vicariu[m] ep[iscop]i arretini dignissimu[m]: Benedicti ricardini florentini epistola    
+246 1    |i Incipit in normalisierter Form    |a Ad reverndum in Christo dominum Georgium Dathum canonicum Florentinum ac vicarium episcopi Arretini dignissimum Benedicti Ricardini Florentini epistola    
+246 1    |i Titel gemäss BSB-Ink    |a Epitoma Tarrhaei et Didymi proverbiorum    
+246 1    |i Titel gemäss GW und ISTC    |a Epitome proverbiorum Tarrhaei et Didymi    
+264   1  |a Impressum Florentie    |b Impe[n]sis ac Cura Phylippi de zunta Florentini    |c Anno domini .m.cccc.lxxxxvii. [1497]    
+300      |a 1 ungezähltes Blatt, 132 ungezählte Seiten, 1 ungezähltes Blatt    |c 23 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit einem lateinischen Widmungsbrief des Herausgebers Benedictus Ricciardinus an Georgius Dathus und Errata    
+500      |a Keine Titelseite, nur Kopftitel auf Blatt α₁ recto    
+500      |a Impressum gemäss Kolophon    
+500      |a Drucker ist gemäss BMC Benedictus Ricciardinus, gemäss Proctor Bartolomeo di Libri, gemäss ISTC möglicherweise Filippo Giunta selbst    
+500      |a Signaturformel: []⁴, α-θ⁸    
+500      |a Die Blätter []₁ und θ₈ sind unbedruckt    
+510 4    |a BSB-Ink    |c Z-40    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_Z-40.html    
+510 4    |a GW    |c M52087    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M52087.htm    
+510 4    |a ISTC    |c iz00024000    |u http://data.cerl.org/istc/iz00024000    
+530      |a Digitalisat (Exemplar der Real Academia de la Historia)    |u https://bvpb.mcu.es/es/catalogo_imagenes/grupo.do?path=4966    
+561      |a Sammlung Bongars; handschriftlicher Besitzvermerk auf Blatt α₂ recto: "f. Beraldi"; auf Blatt θ₇ recto: "f. Beraldus"    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Kartondeckeln (braun, 18. Jh.) mit Papier (chamois), Linien-Blindprägung und Titelschild auf dem Rücken: "Zenodori: Collec:"    
+563      |a Vorsätze: Vorne mit einem und hinten ohne fliegendes Blatt    
+563      |a Masse Einband: 22.4 x 16.5 x 2.2 cm    
+563      |a Zustand Einband: Massiver Schädlingsfrass am Lederrücken, Japanpapierüberklebungen an Rissen des vorderen fliegenden Blattes, Japanpapierüberklebungen im Falz vor Blatt α₂ und nach Blatt θ₈    
+590      |a Buchblockbeschreibung: 61 von 68 Blättern, Papierfalz zwischen Lagen α und β sowie Lagen η und θ gehört zur Vorsatzkonstruktion, vorgesehene Stellen für Initialen frei gelassen    
+590      |a Zustand Buchblock: Zwischen Lagen α und β Rest des herausgetrennten Blattes β₁ sichtbar, Japanpapierüberklebungen an Rissen des Blattes θ₈    
+590      |a Unvollständiges Exemplar: Die Lage [] sowie die Blätter α₁, α₈ und β₁ fehlen    
+590      |a Handschriftliche Annotationen und Unterstreichungen in Tinte    
+590      |a Historische Signatur auf Blatt α₂ recto: "Lit: N°. 109."    
+590      |a Frühere Signaturen: Inc 585; Inc IV 47; XV 31    
+700 1    |a Ricciardinus, Benedictus    |d -1506    |0 (DE-588)129064580    |e Herausgeber    |e Verfasser von ergänzendem Text    |4 edt    |4 wst    
+700 1    |a Ricciardinus, Benedictus    |d -1506    |0 (DE-588)129064580    |e Drucker    |4 prt    
+700 1    |a Libri, Bartolomeo <<di>>    |d 14XX-15XX    |0 (DE-588)124298001    |e Drucker    |4 prt    
+700 1    |a Giunta, Filippo    |d 1450-1517    |0 (DE-588)130478334    |e Verlag    |e Drucker    |4 pbl    |4 prt    
+700 1    |a Bérauld, François    |d ca. 16. Jh.    |0 (DE-588)119628430    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 0 2  |a Zenobius    |c Sophista    |d ca. 2. Jh.    |t Epitome collectionum Lucilli Tarrhaei et Didymi    |0 (DE-588)1087994888    
+751      |a Florenz    |0 (DE-588)4017581-9    
+852 4    |b B404    |c 404U3    |j MUE Bong IV 889    |9 (41SLSP_UBE)99116786557605511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc IV 47    |c 404U3    |p 12    |j MUE Bong IV 889    |b B404    |9 (41SLSP_UBE)99116786557605511    
+986      |a (41SLSP_UBE)99116786557605511    |9 (41SLSP_UBE)99116786557605511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116786557605511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116786557605511    
+991      |a Bongars: 14858    |5 IZ UBE/B400/06.08.2010    |9 LOCAL    |9 (41SLSP_UBE)99116786557605511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

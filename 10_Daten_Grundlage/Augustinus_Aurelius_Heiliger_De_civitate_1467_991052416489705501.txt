@@ -1,0 +1,147 @@
+﻿<-1-1-START->
+Augustinus, Aurelius
+<-1-1-STOP->
+
+<-1-2-START->
+De civitate dei
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Subiaco]: [Konrad Sweynheym und Arnold Pannartz], 12.06.1467
+<-500-START->Druckvariante unter dem Kolophon: Die Worte "GOD" und darunter ".AL." fehlen teilweise (siehe GW, Anmerkung 1); hier vorhanden<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+24 ungezählte Seiten, 2 ungezählte Blätter, 313 ungezählte Seiten; 41 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_A-852.html<-L-5-STOP-><-VI-5-START->BSB-Ink A-852<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/GW02874.htm<-L-5-STOP-><-VI-5-START->GW 02874<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ia01230000<-L-5-STOP-><-VI-5-START->ISTC ia01230000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+269 von 271 Blättern, rot oder blau ausgezeichnete Initialen, Schmuckinitialen am Beginn jedes einzelnen Buchs mehrfarbig, auch mit Blattgold, aufwendig koloriert und mit Schmuckranken versehen; erste Textseite mit aufwendigem Schmuckrahmen farbig ausgemalt, Wappen am Fuss der Seite; Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, marmoriert, 18./19. Jahrhundert), gezogene Blindlinien an beiden Deckeln, Linien- und Ornamentstempel-Vergoldung am Rücken
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Pierre Dutoit; Jacques Tacheron
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116768354905511<-L-11-STOP-><-VI-11-START->MUE Inc II 12<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991052416489705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Augustinus, Aurelius<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Subiaco<-O-STOP->
+<-P-START->Sweynheym, Konrad<-P-STOP->
+<-O-START->Subiaco<-O-STOP->
+<-P-START->Pannartz, Arnold<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Dutoit, Pierre<-P-STOP->
+<-P-START->Tacheron, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991052416489705501<-DOI-STOP->
+<-SIGN-START->MUE Inc II 12<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06066nam a2200649 c 4500
+001 991052416489705501
+005 20211215171530.0
+008 130314s1467    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/16.03.2013/B400/vha    
+035      |a (swissbib)067429890-41slsp_network    
+035      |a 067429890    |9 ExL    
+035      |a (IDSBB)006093340DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991052416489705501    
+035      |a (41SLSP_UBE)99116768354905511    |9 (41SLSP_UBE)99116768354905511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Augustinus, Aurelius    |c Heiliger    |d 354-430    |0 (DE-588)118505114    |4 aut    |e Verfasser    
+240 1 0  |a De civitate dei    
+245 1 0  |a Aurelij Augustini Ep[iscop]i de Ciuitate dei prologus foeliciter incipit    
+246 1    |i Titel in normalisierter Form    |a Aurelio Augustini episcopi de civitate dei prologus foeliciter incipit    
+246 1    |i Titel in normalisierter Form (Werktitel)    |a De civitate dei prologus foeliciter incipit    
+246 1    |i Beginn Inhaltsverzeichnis    |a Aurelii Augustini de ciuitate dei primi libri incipiunt Rubricę    
+246 1    |i Beginn Inhaltsverzeichnis in normalisierter Form    |a Aurelii Augustini de civitate dei primi libri incipiunt Rubrice    
+246 1    |i Kolophon    |a Avrelii. Avgvstini. doctoris egregii atq[ue] Episcopi ypponensis de ciuitate dei liber uicesimussecundus explicit contra paganos    
+246 1    |i Kolophon in normalisierter Form    |a Aurelii Augustini doctoris egregii atque episcopi Ypponensis de civitate dei liber vicesimussecundus explicit contra paganos    
+264   1  |a [Subiaco]    |b [Konrad Sweynheym und Arnold Pannartz]    |c Sub anno a natiuitate domini .M.CCCC.LXVII. ... die uero duodecima mensis Iunii. [12.06.1467]    
+300      |a 24 ungezählte Seiten, 2 ungezählte Blätter, 313 ungezählte Seiten    |c 41 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Druckort und Drucker gemäss BSB-Ink, GW und ISTC, Druckdatum gemäss Kolophon (Blatt [E₇] recto)    
+500      |a Druckvariante unter dem Kolophon: (Blatt E₇ recto): Die Worte "GOD" und darunter ".AL." fehlen teilweise (siehe GW, Anmerkung 1); hier vorhanden    
+500      |a Signaturformel: [a¹⁰, b⁴, c–m¹⁰, n¹², o–r¹⁰, s¹²-¹, t–y¹⁰, z¹⁰-¹, A–C¹⁰, D⁸, E⁸-¹]    
+500      |a Blätter [b₃] und [b₄] unbedruckt; Blatt [E₇] verso unbedruckt    
+510 4    |a BSB-Ink    |c A-852    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_A-852.html    
+510 4    |a GW    |c 02874    |u https://www.gesamtkatalogderwiegendrucke.de/docs/GW02874.htm    
+510 4    |a ISTC    |c ia01230000    |u http://data.cerl.org/istc/ia01230000    
+530      |a Digitalisat (Exemplar der Bibliothèque Sainte Genevieve, Paris; Inhaltsverzeichnis, "Rubricę", am Anfang)    |u https://archive.org/details/OEXV6RES    
+561      |a Handschriftlicher Besitzvermerk auf Blatt [c₁] recto (hier erste Seite): "Hunc librum mihi Jacobo Tacherono Meldunensi Dicacono dono dedit Petrus de Tecto Meldunensis Pastor et Vitricus meus anno 1629."    
+561      |a Wappen im handgemalten Schmuckrahmen auf Blatt [c₁] nicht identifiziert    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, marmoriert, 18./19. Jahrhundert), gezogene Blindlinien an beiden Deckeln, Linien- und Ornamentstempel-Vergoldung am Rücken und Titelschild in Goldprägung: "Augustinus De Civitate Dei"    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse: 40.7 x 30.0 x 6.8 cm    
+563      |a Zustand Einband: zahlreiche Kratzer und Abspaltungen im Einbandleder mit Brüchen am Rücken entlang der Fälze, Japanpapierüberklebungen in den Vorsatzfälzen    
+590      |a Buchblockbeschreibung: 269 von 271 Blättern, handschriftliche Lagensignatur (gemäss GW) in Graphit, jeweils auf der ersten Recto-Seite jeder Lage unten rechts; Pergamentverstärkung in den Lagenmitten vollflächig verklebt und teilweise herausgelöst; rot oder blau ausgezeichnete Initialen, Schmuckinitialen am Beginn jedes einzelnen Buchs jeweils mehrfarbig, auch mit Blattgold, aufwendig koloriert und mit Schmuckranken versehen; erste Textseite (Blatt [c₁] recto) mit aufwendigem Schmuckrahmen farbig ausgemalt (Ranken mit floralen Motiven, Vögeln, Kaninchen, Putten; Wappen am Fuss der Seite); Rubrizierung mit roten oder blauen Absatzzeichen, Incipit vor jedem Buch handschriftlich in roter Tinte, Nummer des jeweiligen Buchs als römische Zahl in roter Tinte am Kopf jeder Seite    
+590      |a Zustand Buchblock: teilweise massive Papierüber- und anklebungen an den ersten und letzten Blättern, vor allem im unteren Falzbereich, Blatt [c₁] recto (erste Seite) mit deutlichem Abrieb, vor allem des grünen und blauen Farbmittels und Craqueleé in vergoldeten Bereichen, Blätter [c₁] und [c₁₀] mit Papierfalz zusammengesetzt    
+590      |a Blätter [b₃] und [b₄] (unbedruckt, am Ende der "Rubricę") fehlen    
+590      |a Lagen [a] und [b] ("Rubricę") ans Ende gebunden    
+590      |a Zahlreiche handschriftliche Annotationen in Tinte, vor allem bis liber VII    
+590      |a Handschriftliches Incipit vor jedem Buch in der Regel mit der Formulierung: "Aurelij Augustini de Ciuitate dei Liber ... incipit"    
+590      |a Historische Signatur auf vorderem Spiegel: "N. Theol. fol. 65."    
+590      |a Frühere Signatur: Inc 284    
+700 1 2  |a Augustinus, Aurelius    |c Heiliger    |d 354-430    |t De civitate dei    |0 (DE-588)4120948-5    
+700 1    |a Sweynheym, Konrad    |d -1477    |0 (DE-588)119073595    |e Drucker    |4 prt    
+700 1    |a Pannartz, Arnold    |d -1478    |0 (DE-588)119073587    |e Drucker    |4 prt    
+700 1    |a Dutoit, Pierre    |d 1560-1639    |0 (DE-588)1197161325    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Tacheron, Jacques    |d ca. 1. H. 17. Jh.    |0 (DE-588)119716183X    |e Früherer Eigentümer    |4 fmo    
+751      |a Subiaco    |0 (DE-588)4118868-8    
+852 4    |b B404    |c 404U3    |j MUE Inc II 12    |9 (41SLSP_UBE)99116768354905511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc II 12    |b B404    |9 (41SLSP_UBE)99116768354905511    
+986      |a (41SLSP_UBE)99116768354905511    |9 (41SLSP_UBE)99116768354905511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116768354905511    
+991      |a AAK: 36966    |5 IZ UBE/16.03.2013/B400/vha    |9 local    |9 (41SLSP_UBE)99116768354905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

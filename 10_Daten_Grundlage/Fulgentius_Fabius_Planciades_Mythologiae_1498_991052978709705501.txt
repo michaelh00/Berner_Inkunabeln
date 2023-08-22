@@ -1,0 +1,144 @@
+﻿<-1-1-START->
+Fulgentius, Fabius Planciades
+<-1-1-STOP->
+
+<-1-2-START->
+Mythologiae; Expositio sermonum antiquorum
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit einem Widmungsbrief des Herausgebers Giovanni Battista Pio an Antonius Maria Bentivolaeus, dem Kommentar Pios zu den "Mythologiae", einem Gedicht Pios an Bentivolaeus und einer Notiz zu Leben und Werk des Fulgentius<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Mailand: Ulrich Scinzenzeler, 23.04.1498
+<-3-1-STOP->
+
+<-4-1-START->
+82 ungezählte Seiten, 1 ungezähltes Blatt, 12 ungezählte Seiten: Holzschnittinitialen; 32 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_F-280.html<-L-5-STOP-><-VI-5-START->BSB-Ink F-280<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW10423.htm<-L-5-STOP-><-VI-5-START->GW 10423<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/if00326000<-L-5-STOP-><-VI-5-START->ISTC if00326000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+48 von 48 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Reden und Briefe [lateinisch] / Bernardus Iustinianus. Venedig: Bernardinus Benalius, [1492?]
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116683209905511<-L-11-STOP-><-VI-11-START->MUE Bong IV 854 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991052978709705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Fulgentius, Fabius Planciades<-P-STOP->
+<-P-START->Pio, Giovanni Battista<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Mailand<-O-STOP->
+<-P-START->Scinzenzeler, Ulrich<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991052978709705501<-DOI-STOP->
+<-SIGN-START->MUE Bong IV 854 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04303nam a2200613 c 4500
+001 991052978709705501
+005 20211215164757.0
+008 100614s1498    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/12.03.2019/B404/faf    
+035      |a (swissbib)063659492-41slsp_network    
+035      |a 063659492    |9 ExL    
+035      |a (IDSBB)005245507DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991052978709705501    
+035      |a (41SLSP_UBE)99116683209905511    |9 (41SLSP_UBE)99116683209905511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Fulgentius, Fabius Planciades    |d ca. 5./6. Jh.    |0 (DE-588)118703544    |e Verfasser    |4 aut    
+240 1 0  |a Mythologiae    
+245 1 0  |a Enarrationes allegoricæ fabularum fulgentii placiadis    
+246 1    |i Explicit    |a Explicit liber mythologicos Tertius & ultimus    
+246 1    |i Titel gemäss GW    |a Mitologiae    
+264   1  |a Impressum Mediolani    |b p[er] magistru[m] Vldericu[m] scinzenzeler    |c anno D[omi]ni. Mcccclxxxxviii. die. xxiii. mensis aprilis [23.04.1498]    
+300      |a 82 ungezählte Seiten, 1 ungezähltes Blatt, 12 ungezählte Seiten    |c 32 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Privileg von Ludovico Maria Sforza (gezeichnet B. Chalcus), einem Inhaltsverzeichnis, einem Widmungsbrief des Herausgebers Giovanni Battista Pio an Antonius Maria Bentivolaeus, dem Kommentar Pios zu den "Mythologiae", der "Expositio sermonum antiquorum" des Fulgentius, einem Gedicht Pios an Bentivolaeus, einer Notiz zu Leben und Werk des Fulgentius sowie Errata    
+500      |a Impressum gemäss Kolophon auf Blatt f₅ verso    
+500      |a Signaturformel: a-d⁸, e⁴, f-g⁶    
+500      |a Blatt f₆ ist unbedruckt    
+500      |a Holzschnittinitialen    
+510 4    |a BSB-Ink    |c F-280    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_F-280.html    
+510 4    |a GW    |c 10423    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW10423.htm    
+510 4    |a ISTC    |c if00326000    |u http://data.cerl.org/istc/if00326000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/0006/bsb00069271/images    
+561      |a Handschriftlicher Besitzvermerk auf Titelseite: "Bongars"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jh.), Titelschild in Goldprägung auf dem Rücken: "Fulgenti Placiad: Enarrat: Allegor: Fabula:", dazu handschriftlich in Tinte: "Venet 1414", letzte zwei Ziffern korrigiert zu "??"    
+563      |a Vorsätze: Vorne und hinten mit 3 fliegenden Blättern    
+563      |a Masse Einband: 32 x 22.2 x 2.9 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, Lederüberklebungen am Rücken und an den Deckelecken, Japanpapierüberklebung zwischen vorderem Vorsatz und Buchblock    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 48 von 48 Blättern    
+590      |a Zustand Buchblock: Zum Teil massive Verfleckungen und Feuchtigkeitsränder    
+590      |a Das unbedruckte Blatt f₆ ist hinter Lage g eingebunden    
+590      |a Zahlreiche handschriftliche Annotationen in Tinte    
+590      |a Zusammengebunden mit: Orationes et epistolae / Bernardus Iustinianus ; Ad Nicoclem regem / Isocrates ; Epistolae / Leonardus Iustinianus. Venedig : Bernardinus Benalius, [1492?]    
+590      |a Historische Signatur auf vorderem Spiegel: "Lit. 248." (über älterer Signatur); auf Titelseite: "Lit. A. 96."    
+590      |a Frühere Signaturen: Inc 167; Inc I 101    
+700 1    |a Pio, Giovanni Battista    |d 1475-1543    |0 (DE-588)129355682    |e Herausgeber    |e Kommentarverfasser    |4 edt    |4 wac    
+700 1    |a Scinzenzeler, Ulrich    |d -1500    |0 (DE-588)13839413X    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 1 2  |a Fulgentius, Fabius Planciades    |d ca. 5./6. Jh.    |t Mythologiae    |0 (DE-588)1088050417    
+700 1 2  |a Fulgentius, Fabius Planciades    |d ca. 5./6. Jh.    |t Expositio sermonum antiquorum    |0 (DE-588)1180430190    
+700 1 2  |a Pio, Giovanni Battista    |d 1475-1543    |t Commentarius in Fulgentium    |0 (DE-588)1180430700    
+751      |a Mailand    |0 (DE-588)4037100-1    
+852 4    |b B404    |c 404U3    |j MUE Bong IV 854 : 1    |9 (41SLSP_UBE)99116683209905511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc I 101 : 1    |c 404U3    |z Zusammengebunden mit 1 weiteren Druck in Sammelband    |p 12    |j MUE Bong IV 854 : 1    |b B404    |9 (41SLSP_UBE)99116683209905511    
+986      |a (41SLSP_UBE)99116683209905511    |9 (41SLSP_UBE)99116683209905511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116683209905511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116683209905511    
+991      |a Bongars: 05709    |5 IZ UBE/B400/14.06.2010    |9 LOCAL    |9 (41SLSP_UBE)99116683209905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,140 @@
+﻿<-1-1-START->
+Gellius, Aulus
+<-1-1-STOP->
+
+<-1-2-START->
+Noctes Atticae
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Giovanni Tacuino, 06.04.1496
+<-3-1-STOP->
+
+<-4-1-START->
+20 ungezählte Seiten, CXYIII, das heisst CXVIII Blätter: Druckermarke; 32 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_G-68.html<-L-5-STOP-><-VI-5-START->BSB-Ink G-68<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW10601.htm<-L-5-STOP-><-VI-5-START->GW 10601<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ig00126000<-L-5-STOP-><-VI-5-START->ISTC ig00126000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+128 von 128 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Pergamenteinband (17./18. Jahrhundert) auf Kartondeckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Johannes Clericus; Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116837899105511<-L-11-STOP-><-VI-11-START->MUE Bong IV 841<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991048453229705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Gellius, Aulus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Tacuino, Giovanni<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-P-START->Clericus, Johannes<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991048453229705501<-DOI-STOP->
+<-SIGN-START->MUE Bong IV 841<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03701nam a2200589 c 4500
+001 991048453229705501
+005 20211215164258.0
+008 100616s1496    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/16.06.2010    
+035      |a (swissbib)063846330-41slsp_network    
+035      |a 063846330    |9 ExL    
+035      |a (IDSBB)005247038DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991048453229705501    
+035      |a (41SLSP_UBE)99116837899105511    |9 (41SLSP_UBE)99116837899105511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Gellius, Aulus    |d 130-170    |0 (DE-588)118716735    |e Verfasser    |4 aut    
+245 1 0  |a [Noctes Atticae]    |c Avlvs Gelivs    
+246 1 3  |a Avli Gelii Noctivm Atticarvm Commentarii    
+246 1 3  |a Auli Gelii Noctium Atticarum commentarii    
+246 1 3  |a Avli Gellii Noctivm Atticarvm Commentarii    
+246 1 3  |a Auli Gellii Noctium Atticarum commentarii    
+264   1  |a Impressum Venetiis    |b per Ioanne[m] De Tridino alias Tacuinum    |c Anno domini .M.cccc.lxxxxvi. die .vi. Aprilis [06.04.1496]    
+300      |a 20 ungezählte Seiten, CXYIII, das heisst CXVIII Blätter    |c 32 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Inhaltsverzeichnis    
+500      |a Impressum gemäss Kolophon    
+500      |a Druckermarke am Ende    
+500      |a Signaturformel: A⁶, B⁴, c-h⁸, i-t⁶, u⁴    
+500      |a Foliierung der Lagen c und f in Klein-, der restlichen Lagen in Grossbuchstaben; mehrere Foliierungsfehler    
+510 4    |a BSB-Ink    |c G-68    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_G-68.html    
+510 4    |a GW    |c 10601    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW10601.htm    
+510 4    |a ISTC    |c ig00126000    |u http://data.cerl.org/istc/ig00126000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0005/bsb00053373/images    
+561      |a Sammlung Bongars; handschriftlicher Besitzvermerk auf Titelseite: "Jo. clericj"    
+563      |a Einbandbeschreibung: Ganzbezogener Pergamenteinband (17./18. Jh.) auf Kartondeckeln    
+563      |a Vorsätze: Vorne und hinten mit 2 fliegenden Blättern    
+563      |a Masse Einband: 31.9 x 22.2 x 3.2 cm    
+563      |a Zustand Einband: Verklebung des Pergamentüberzuges manipuliert, Spiegel ganzflächig bis über den Falz mit dünnem Japan- oder Seidenpapier überfangen    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 128 von 128 Blättern, verschiedene Papierstärken und -qualitäten, vorgesehene Stellen für Initialen frei gelassen    
+590      |a Zustand Buchblock: Erste Blätter mit Rissen und Fehlstellen im Falz gelöst, Papier zum Teil grossflächig verbräunt    
+590      |a Auf Titelblatt verso ein handschriftlicher, nicht entzifferter Vermerk von 1540, vermutlich Motto ("Plus Est Mourir"?) und Namenszug    
+590      |a Wenige handschriftliche Annotationen und Unterstreichungen in Tinte (z.B. Blatt iiii verso)    
+590      |a Historische Signatur auf vorderem Spiegel: "Lit: N: 202", Zahl korrigiert zu "223" und weiter zu "224"; auf Titelseite: "Lit. Or. 92"    
+590      |a Frühere Signaturen: Inc 202; Inc I 36; VII 14    
+700 1 2  |a Gellius, Aulus    |d 130-170    |t Noctes Atticae    |0 (DE-588)4265734-9    
+700 1    |a Tacuino, Giovanni    |d 14XX-15XX    |0 (DE-588)119845156    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Clericus, Johannes    |e Früherer Eigentümer    |4 fmo    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Bong IV 841    |9 (41SLSP_UBE)99116837899105511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc I 36    |c 404U3    |p 12    |j MUE Bong IV 841    |b B404    |9 (41SLSP_UBE)99116837899105511    
+986      |a (41SLSP_UBE)99116837899105511    |9 (41SLSP_UBE)99116837899105511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116837899105511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116837899105511    
+991      |a Bongars: 05893    |5 IZ UBE/B400/16.06.2010    |9 LOCAL    |9 (41SLSP_UBE)99116837899105511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

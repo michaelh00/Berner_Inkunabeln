@@ -1,0 +1,144 @@
+﻿<-1-1-START->
+Vinzenz von Beauvais
+<-1-1-STOP->
+
+<-1-2-START->
+Speculum historiale
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Das "Capitulum primum" ist eine Einführung zum Gesamtwerk (Speculum maius), bekannt als: "Libellus totius operis apologeticus"<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Straßburg]: Johann Mentelin, 04.12.1473
+<-3-1-STOP->
+
+<-4-1-START->
+4 Bände; 47 cm (2°)
+<-500-START->Band 1: 1 ungezähltes Blatt, 338 ungezählte Seiten; Band 2: 410 ungezählte Seiten, 1 ungezähltes Blatt; Band 3: 1 ungezähltes Blatt, 400 ungezählte Seiten, 1 ungezähltes Blatt; Band 4: 416 ungezählte Seiten, 1 ungezähltes Blatt<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_V-201.html<-L-5-STOP-><-VI-5-START->BSB-Ink V-201<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M50587.htm<-L-5-STOP-><-VI-5-START->GW M50587<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/iv00283000<-L-5-STOP-><-VI-5-START->ISTC iv00283000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+Band 1: 169 von 170 Blättern, Band 2: 206 von 206 Blättern, Band 3: 202 von 202 Blättern, Band 4: 213 von 214 Blättern, rot ausgezeichnete Initialen, einige als Schmuckinitialen in roter und schwarzer Tinte mit Mustern und Ranken, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Bände 1-3: Halbbezogene Ledereinbände auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert) mit Sprenkelpapier (beige/braun), Band 4: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert), Ornamentrollen-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Die Blätter [a₁] (Band 1) und [YY₈] (Band 4, beide unbedruckt) fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116832388705511<-L-11-STOP-><-VI-11-START->MUE Inc II 5<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991130824029705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Vinzenz von Beauvais<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Mentelin, Johann<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991130824029705501<-DOI-STOP->
+<-SIGN-START->MUE Inc II 5<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06442nam a2200625 ca4500
+001 991130824029705501
+005 20211215193823.0
+008 130403s1473    fr            00| | lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/21.07.2014/B400/vha    
+035      |a (swissbib)063868539-41slsp_network    
+035      |a 063868539    |9 ExL    
+035      |a (IDSBB)006100323DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991130824029705501    
+035      |a (41SLSP_UBE)99116832388705511    |9 (41SLSP_UBE)99116832388705511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Vinzenz    |c von Beauvais    |d 1190-1264    |0 (DE-588)118627163    |e Verfasser    |4 aut    
+240 1 0  |a Speculum historiale    
+245 1 0  |a Explicit Specvlvm Historiale Fratris Vincencii Ordinis Predicatorvm    
+246 1    |i Titel in normalisierter Form    |a Explicit speculum historiale fratris Vincencii Ordinis Predicatorum    
+246 1 0  |a Explicit speculum historiale    
+246 1    |i Incipit    |a Incipit Specvlvm Historiale Fratris Vincencii    
+246 1    |i Incipit in normalisierter Form    |a Incipit Speculum Historiale Fratris Vincencii    
+246 1 0  |a Incipit Speculum Historiale    
+264   1  |a [Strassburg]    |b Impressvm Per Iohannem Mentellin    |c Anno Domini Millesimoqvadringentesimoseptvagesimotercio Qvarta Die Decembris [04.12.1473]    
+300      |a 4 Bände    |c 47 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel und Impressum gemäss Kolophon (Band 4, Blatt [YY₇] verso)    
+500      |a Textbeginn Band 1, Blatt [a₂] recto (Vorwort): "[S]ecundu[m] Augustinum xix. libro de ciuitate dei Ordo est pariu[m] disp[ar]iu[m]q[ue] ..."    
+500      |a Das "Capitulum primum" ab Blatt [a₄] recto ist eine Einführung zum Gesamtwerk (Speculum maius): "Incipit Specvlvm Historiale Fratris Vincencii Capitvlvm Primvm. De Cavsa Svscepti Operis Et Eivs Materia. [Q]Voniam multitudo librorum & temp[or]is breuitas ...", bekannt als: "Libellus totius operis apologeticus"    
+500      |a Ab Blatt [a₈] verso folgt das Inhaltsverzeichnis, ab Blatt [c₁₀] recto der eigentliche Werkbeginn (".I. Epilogvs De Vnitate. Divine. Svbstancie.")    
+500      |a Umfang Band 1: 1 ungezähltes Blatt, 338 ungezählte Seiten; Band 2: 410 ungezählte Seiten, 1 ungezähltes Blatt; Band 3: 1 ungezähltes Blatt, 400 ungezählte Seiten, 1 ungezähltes Blatt; Band 4: 416 ungezählte Seiten, 1 ungezähltes Blatt    
+500      |a Signaturformel (gemäss BSB-Ink) Band 1: [a–r¹⁰]; Band 2: [A–T¹⁰, V–X⁸]; Band 3: [aa–tt¹⁰, vv¹²]; Band 4: [AA–SS¹⁰, TT⁸, VV¹⁰, XX–YY⁸]    
+500      |a Band 1: Blätter [a₁] und [r₁₀] unbedruckt; Band 2: Blatt [X₈] unbedruckt; Band 3: Blatt [a₁] unbedruckt, Blatt [vv₁₂] verso unbedruckt; Band 4: Blatt YY₈ unbedruckt    
+510 4    |a BSB-Ink    |c V-201    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_V-201.html    
+510 4    |a GW    |c M50587    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M50587.htm    
+510 4    |a ISTC    |c iv00283000    |u http://data.cerl.org/istc/iv00283000    
+530      |a Digitalisat Band 1 (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00035798/image_7    
+530      |a Digitalisat Band 2 (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00035799/image_1    
+530      |a Digitalisat Band 3 (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00035801/image_7    
+530      |a Digitalisat Band 4 (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00035802/image_1    
+563      |a Einbandbeschreibung: Bände 1-3: Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert) mit Sprenkelpapier (beige/braun), Ornamentlinien-Blindprägung (Titelschilder in rotem Leder) auf dem Rücken; Band 4: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert), Ornamentrollen-Blindprägung auf beiden Deckeln, Ornamentlinien-Blindprägung (Titelschild in grau-gründem Leder) am Rücken; Rückentitel aller vier Bände: "Vincenty Speculum Historiale"; im Bundfeld darunter jeweils Bandangabe "I."-"III." (Band 4 ohne Bandangabe auf dem Rücken); darunter in Tinte: "Argent 1473" (Band 4: "Argentor: 1473")    
+563      |a Vorsätze aller vier Bände: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einbände, Band 1: 46.9 x 33.8 x 5 cm; Band 2: 47.0 x 34 x 6.1 cm; Band 3: 47.0 x 34 x 5.8 cm; Band 4: 47.0 x 33.8 x 7.4 cm    
+563      |a Zustand Einband Band 1: Lederüberklebung am unteren Häubchen, Klebespuren an den Ecken und Kanten der Deckel, Japanpapierüberklebung im Falz beider Vorsätze; Band 4: Japanpapierüberklebung in den Fälzen der Vorsätze    
+590      |a Buchblockbeschreibung: Band 1: 169 von 170 Blättern, Band 2: 206 von 206 Blättern, Band 3: 202 von 202 Blättern, Band 4: 213 von 214 Blättern, insgesamt 790 von 792 Blättern; handschriftliche Lagensignatur (gemäss BSB-Ink) in Graphit, jeweils rechts unten auf dem ersten Blatt recto jeder Lage; Pergamentverstärkung in den Lagenmitten (Manuskriptmakulatur) teilweise rausgelöst, bläuliche Papierfälze zwischen erster und zweiter sowie vorletzter und letzter Lage der Bände 1-3 gehören zur Vorsatzkonstruktion; rot ausgezeichnete Initialen, einige als Schmuckinitialen in roter und schwarzer Tinte mit Mustern und Ranken; Rubrizierung    
+590      |a Zustand Buchblock, Band 1: teilweise starke Verfleckung (Blatt [q₆] recto); Band 4: Blätter [AA₁] und [HH₁₀] am Rand leicht beschädigt, mit Papier verstärkt    
+590      |a Blätter [a₁] (Band 1) und [YY₈] (Band 4, beide unbedruckt) fehlen    
+590      |a In allen vier Bänden wenige handschriftliche Annotationen in Tinte, meist Textkorrekturen    
+590      |a Frühere Signatur: Inc 95    
+700 0 2  |a Vinzenz    |c von Beauvais    |d 1190-1264    |t Speculum historiale    |0 (DE-588)4259242-2    
+700 0 2  |a Vinzenz    |c von Beauvais    |d 1190-1264    |t Libellus totius operis apologeticus    |0 (DE-588)1201320232    
+700 1    |a Mentelin, Johann    |d 1410-1478    |0 (DE-588)118783319    |e Drucker    |4 prt    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Inc II 5    |9 (41SLSP_UBE)99116832388705511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |h MUE Inc II 5 : 3    |p 12    |j MUE Inc II 5    |b B404    |9 (41SLSP_UBE)99116832388705511    
+949      |c 404U3    |h MUE Inc II 5 : 2    |p 12    |j MUE Inc II 5    |b B404    |9 (41SLSP_UBE)99116832388705511    
+949      |c 404U3    |h MUE Inc II 5 : 4    |p 12    |j MUE Inc II 5    |b B404    |9 (41SLSP_UBE)99116832388705511    
+949      |c 404U3    |h MUE Inc II 5 : 1    |p 12    |j MUE Inc II 5    |b B404    |9 (41SLSP_UBE)99116832388705511    
+986      |a (41SLSP_UBE)99116832388705511    |9 (41SLSP_UBE)99116832388705511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116832388705511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

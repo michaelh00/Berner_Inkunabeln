@@ -1,0 +1,172 @@
+﻿<-1-1-START->
+Johannes Bonaventura
+<-1-1-STOP->
+
+<-1-2-START->
+Commentarii in quatuor libros Sententiarum Petri Lombardi. — Petrus Lombardus: Sententiae
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Brief des Herausgebers, Johann Beckenhub, an Nicolaus Tinctoris<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Freiburg im Breisgau: Kilian Fischer, [nicht vor 02.05.1493]
+<-3-1-STOP->
+
+<-4-1-START->
+5 Bände; 32-33 cm (2°)
+<-500-START->4 Bände Text mit Kommentar, 1 Band Index<-500-STOP->
+<-500-START->Band 1: 367 ungezählte Seiten; Band 2: 479 ungezählte Seiten; Band 3: 406 ungezählte Seiten, 1 ungezähltes Blatt (leer); Band 4: 471 ungezählte Seiten; Tabula: 206 ungezählte Seiten, 1 ungezähltes Blatt (leer)<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://incunables.bodleian.ox.ac.uk/record/P-228<-L-5-STOP-><-VI-5-START->Bod-Inc P-228<-VI-5-STOP->; <-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_P-390.html<-L-5-STOP-><-VI-5-START->BSB-Ink P-390<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M32509.htm<-L-5-STOP-><-VI-5-START->GW M32509<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ip00487000<-L-5-STOP-><-VI-5-START->ISTC ip00487000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+Band 1: 184 von 184 Blättern; Band 2: 236 von 240 Blättern; Band 3: 202 von 204 Blättern; Band 4: 236 von 236 Blättern; Tabula: 104 von 104 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+5 ganzbezogene Ledereinbände auf Holzdeckeln (braun, Schaf) mit Schliessen, Spuren von Kettenösen an den oberen Kanten der Rückdeckel an Bänden 1 und 2, Kettenösen an Bänden 4 und Tabula, Kettenöse mit nachgebilderter Kette an Band 3, Linien-, Ornamentstempel- und Platten-Blindprägung auf jeweils beiden Deckeln (Bände 3 und Tabula ohne Plattenprägung, Band 1 ohne Ornamentstempel)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Johannes Büchler; Kloster Thorberg
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Band 2: Blätter Mmm₃ und Mmm₄, sowie Nnn₂ und Nnn₅ fehlen; Band 3: Blätter Dd₂ und Dd₅ fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116918971005511<-L-11-STOP-><-VI-11-START->MUE Inc III 59<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991135076509705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Johannes Bonaventura<-P-STOP->
+<-P-START->Beckenhub, Johann<-P-STOP->
+<-P-START->Tinctoris, Nikolaus<-P-STOP->
+<-P-START->Petrus Lombardus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Freiburg im Breisgau<-O-STOP->
+<-P-START->Fischer, Kilian<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Büchler, Johannes<-P-STOP->
+<-P-START->Kloster Thorberg<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991135076509705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 59<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 09378nam a2200853 ca4500
+001 991135076509705501
+005 20211215200159.0
+008 111216s1493    gw            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für das Anhängen von weiteren Exemplaren    |5 IDSBB/16.12.2011/B400/vha    
+035      |a (swissbib)062914561-41slsp_network    
+035      |a 062914561    |9 ExL    
+035      |a (IDSBB)005710313DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991135076509705501    
+035      |a (41SLSP_UBE)99116918971005511    |9 (41SLSP_UBE)99116918971005511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Johannes Bonaventura    |c Kardinal, Heiliger    |d 1221-1274    |0 (DE-588)118513176    |e Verfasser    |4 aut    
+240 1 0  |a Commentarii in quatuor libros Sententiarum Petri Lombardi    
+245 1 0  |a Perlustratio Sancti Bonauenture in ... librum Sententiarum    
+246 1 0  |a Elucidatio in librum sententiarum    
+246 1 0  |a Perlustratio in librum sententiarum    
+246 1    |i Liber 3 und 4    |a Elucidatio Sancti Bonauenture in ... librum Sententiarum    
+246 1    |i Liber [5]    |a Tabula super libros Sententiarum cum Bonauentura    
+246 1    |i Titel gemäss BSB-Ink, unter Petrus Lombardus    |a Sententiarum libri quattuor    
+246 1    |i Titel gemäss GW und ISTC, unter Petrus Lombardus    |a Sententiarum libri IV    
+246 1    |i Titel in moderner Orthografie    |a Elucidatio Sancti Bonaventurae in ... librum sententiarum    
+246 1    |i Titel in moderner Orthografie    |a Perlustratio Sancti Bonaventurae in ... librum sententiarum    
+246 1    |i Titel in normalisierter Form    |a Elucidatio Sancti Bonaventure in ... librum sententiarum    
+246 1    |i Titel in normalisierter Form    |a Perlustratio Sancti Bonaventure in ... librum sententiarum    
+246 1    |i Titel in normalisierter Form    |a Tabula super libros Sententiarum cum Bonaventura    
+264   1  |a Friburgi    |b impressor ... Kilianus    |c [nach 2.05.1493]    
+300      |a 5 Bände    |c 32-33 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a 4 Bände Text mit Kommentar, 1 Band Index ("Tabula")    
+500      |a Herausgegeben von Johannes Beckenhaub, genannt zu Beginn seines Briefs an Nicolaus Tinctoris (Band 1, Blatt a₂ recto)    
+500      |a Druckort und Drucker gemäss Gedicht von Beckenhaub "in laudem vtriusq[ue] autoris carmen" (Band 1, Blatt a₂ verso: "Quo libri impressor Friburgi Kilianus ip[s]e Piscator tendat post sua fata precor"    
+500      |a Erscheinungsdatum gemäss Datierung des Briefs von Nicolaus Tinctoris in Band 1, Blatt a₂ verso    
+500      |a Umfang Band 1: 367 ungezählte Seiten; Band 2: 479 ungezählte Seiten; Band 3: 406 ungezählte Seiten, 1 ungezähltes Blatt (letztes Blatt leer); Band 4: 471 ungezählte Seiten; Tabula: 206 ungezählte Seiten, 1 ungezähltes Blatt (letztes Blatt leer)    
+500      |a Signaturformel Band 1: a⁸, b–e⁶, f–h⁴, i-k⁶, l-m⁴, n–z⁶, [et]⁶, [con]⁶, aa–gg⁶; Band 2: Aa–Zz⁶, Aaa–Qqq⁶, V⁶; Band 3: A⁸, B–Y⁶, 2Zz⁶, 2Aa–Gg⁶, Hh-Ii⁸, K⁶; Band 4: 2a–z⁶, 2A–O⁶, P⁸, S⁶; Tabula: 3a⁸, b–r⁶    
+500      |a Unbedruckte Seiten: Band 1: Blätter a₁ verso, ff₆ verso und gg₆ verso; Band 2: Blätter Aa₁ verso und V₆ verso; Band 3: Blatt A₁ verso; Band 4: Blätter a₁ verso, P₈ verso und S₅ verso, Tabula: Blatt a₁ verso    
+500      |a Vollständig unbedruckte Blätter: Band 3 : Blatt K₆, Tabula: Blatt r₆    
+500      |a Die letzten beiden Lagen q-r⁸ in den Tabula sind in manchen Exemplaren in Band 4 zwischen Lage P und S eingebunden (vergleiche Bod-Inc)    
+505 0 0  |g Blatt a₂ recto    |t Joha[n]nes bekenhub Moguntin[us] eua[n]gelice theologie su[m]mo doctori d[omi]no Nicolao tinctoris de guntzenhusen imp[er]ialis eccl[esi]e bambergensis p[re]dicatori salute[m]    |t Johannis bekenhub Moguntini in laudem vtriusq[ue] autoris carmen    |g Blatt a₂ verso    |t Niolaus tinctoris de gunte[n]husen doctor theolige[!] p[re]dicator imp[er]ialis eccl[es]ie Bamberge[n]sis. Docto m[a]g[ist]ro Johanni bekenhub Moguntino. Salute[m]    
+510 4    |a Bod-Inc    |c P-228    |u http://incunables.bodleian.ox.ac.uk/record/P-228    
+510 4    |a BSB-Ink    |c P-390    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_P-390.html    
+510 4    |a GW    |c M32509    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M32509.htm    
+510 4    |a ISTC    |c ip00487000    |u http://data.cerl.org/istc/ip00487000    
+530      |a Digitalisat Band 1 (Exemplar der Herzog August Bibliothek Wolfenbüttel)    |u http://diglib.hab.de/inkunabeln/e-94-2f-helmst-2/start.htm    
+530      |a Digitalisat Band 2 (Exemplar der Herzog August Bibliothek Wolfenbüttel)    |u http://diglib.hab.de/inkunabeln/e-94-2f-helmst-3/start.htm    
+530      |a Digitalisat Band 3 (Exemplar der Herzog August Bibliothek Wolfenbüttel)    |u http://diglib.hab.de/inkunabeln/e-95-2f-helmst-1/start.htm    
+530      |a Digitalisat Band 4 (Exemplar der Herzog August Bibliothek Wolfenbüttel)    |u http://diglib.hab.de/inkunabeln/e-95-2f-helmst-2/start.htm    
+530      |a Digitalisat Tabula (Exemplar der Herzog August Bibliothek Wolfenbüttel)    |u http://diglib.hab.de/inkunabeln/e-94-2f-helmst-1/start.htm    
+561      |a Handschriftlicher Eintrag auf den vorderen Innenspiegeln: "Lib. Cartusien[sis] Jn Torb[er]g p[er]uenie[n]s a m[a]g[ist]ro Joa[n]ne Büchler d'Herre[n]b[er]g quo[n]da[m] plebano ac d[e]cano Jn Walkringen" (Übertragung von Band 1, ähnlich in allen 5 Bänden)    
+561      |a Einband vom Kloster Thorberg    
+563      |a Einbandbeschreibung: 5 ganzbezogene Ledereinbände auf Holzdeckeln (braun, Schaf) mit Schliessen, Spuren von Kettenösen an den oberen Kanten der Rückdeckel an Bänden 1 und 2, Kettenösen an Bänden 4 und Tabula, Kettenöse mit nachgebilderter Kette an Band 3, Linien-. Ornamentstempel- und Platten-Blindprägung auf jeweils beiden Deckeln (Bände 3 und Tabula ohne Plattenprägung, Band 1 ohne Ornamentstempel); auf den Rücken jeweils Titel und Signatur der Bibliothek des Kloster Thorberg    
+563      |a Vorsätze: Band 1: vorne mit einem und hinten ohne fliegendes Blatt; Bände 2, 3 und Tabula: vorne und hinten mit einem fliegenden Blatt; Band 4: vorne und hinten ohne fliegende Blätter    
+563      |a Masse Einband (ohne Kettenösen): Band 1: 32.3 x 22.6 x 5.5 cm, Band 2: 32.4 x 22.7 x 6 cm, Band 3: 32.3 x 22.4 x 6.3 cm, Band 4: 32.1 x 22.4 x 5.7 cm, Tabula: 32 x 22.7 x 3.8 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, zum Teil starker Schädlingsfrass, Lederüberklebungen an den Rücken und Deckeln mit Bearbeitung der originalen Signaturschilder sowie Nachbildung der Linien-Blindprägung, Schliessenriemen zum Teil stabilisiert    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: Band 1: 184 von 184 Blättern; Band 2: 236 von 240 Blättern; Band 3: 202 von 204 Blättern; Band 4: 236 von 236 Blättern; Tabula: 104 von 104 Blättern; Verstärkung der Vorsätze mit Makulaturpergament aussen im Falz, Band 2: Papierfalz vor Blatt Aa₁ und nach Blatt V₆ gehört zur Vorsatzkonstruktion, Papierfälze im Buchblock gehören zu heraus getrennten Blättern Mmm₃ und Mmm₄ sowie Nnn₂ und Nnn₅; Band 3: Papierfalz vor Blatt A₁ und nach Blatt k₆ gehört zur Vorsatzkonstruktion, Papierfälze im Buchblock gehören zu heraus getrennten Blättern Dd₂ und Dd₅; vorgesehene Stellen für Initialen frei gelassen, keine Rubrizierung    
+590      |a Zustand Buchblöcke: durchgehend Schädlingsfrass, Fehlstellen an fliegenden Blättern und Spiegeln mit Japanpapier stabilisiert (Band 2)    
+590      |a Unvollständiges Exemplar, Band 2: Blätter Mmm₃ und Mmm₄, sowie Nnn₂ und Nnn₅ fehlen; Band 3: Blätter Dd₂ und Dd₅ fehlen (in allen Fällen herausgeschnitten, Papierfälze übrig)    
+590      |a Historische Signaturen des Kloster Thorberg mit roter Tinte auf den Rücken, Band 1: "D LXXXXVII", Band 2: "D LXXXIX", Band 3: "D LXXXXVIII", Band 4: "D LXXXXIX", Tabula: "D C". - Historische Signaturen auf vorderm Innendeckel: Band 1-5: "Theol. 104" - "108"; auf den Titelseiten Band 1-5: "Theol. No. 79" - "83"    
+590      |a Frühere Signaturen: Band 1: Inc 29, Band 2: Inc 24, Band 3: Inc 25, Band 4: Inc 26, Tabula: Inc 27    
+650   0  |a Incunabula    |v Specimens    
+700 0 2  |a Johannes Bonaventura    |c Kardinal, Heiliger    |d 1221-1274    |t Commentarii in quatuor libros Sententiarum Petri Lombardi    |0 (DE-588)1105429814    
+700 0 2  |a Petrus    |c Paris, Bischof    |d 1095-1160    |t Sententiae    |0 (DE-588)4192097-1    
+700 1    |a Beckenhub, Johann    |d 1440-1491    |0 (DE-588)100124232    |e Herausgeber    |4 edt    
+700 1    |a Tinctoris, Nikolaus    |d -1498    |0 (DE-588)129072893    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Fischer, Kilian    |d 1451-1510    |0 (DE-588)133121003    |e Drucker    |4 prt    
+700 1    |a Büchler, Johannes    |d 1450-1521    |0 (DE-588)1113671742    |e Früherer Eigentümer    |4 fmo    
+710 2    |a Kloster Thorberg    |0 (DE-588)7725716-9    |e Früherer Eigentümer    |4 fmo    
+751      |a Freiburg im Breisgau    |0 (DE-588)4018272-1    
+852 4    |b B404    |c 404U3    |j MUE Inc III 59    |9 (41SLSP_UBE)99116918971005511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |h MUE Inc III 59 : Tabula    |q Tabula    |p 12    |j MUE Inc III 59    |b B404    |9 (41SLSP_UBE)99116918971005511    
+949      |c 404U3    |h MUE Inc III 59 : 4    |q Liber 4    |p 12    |j MUE Inc III 59    |b B404    |9 (41SLSP_UBE)99116918971005511    
+949      |c 404U3    |h MUE Inc III 59 : 3    |q Liber 3    |p 12    |j MUE Inc III 59    |b B404    |9 (41SLSP_UBE)99116918971005511    
+949      |c 404U3    |h MUE Inc III 59 : 2    |q Liber 2    |p 12    |j MUE Inc III 59    |b B404    |9 (41SLSP_UBE)99116918971005511    
+949      |c 404U3    |h MUE Inc III 59 : 1    |q Liber 1    |p 12    |j MUE Inc III 59    |b B404    |9 (41SLSP_UBE)99116918971005511    
+986      |a (41SLSP_UBE)99116918971005511    |9 (41SLSP_UBE)99116918971005511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116918971005511    
+991      |a AAK: 109186    |5 IZ UBE/16.12.2011/B400/vha    |9 LOCAL    |9 (41SLSP_UBE)99116918971005511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,147 @@
+﻿<-1-1-START->
+Berthold der Bruder
+<-1-1-STOP->
+
+<-1-2-START->
+Das andächtig Zeitglöcklein des Lebens und Leidens Christi, nach dem 24 Stunden ausgeteilt [lateinisch]
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Lateinischer Titel: Horologium devotionis circa vitam Christi<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Basel: Johannes Amerbach, nicht nach 1490]
+<-500-START->Druckvariante: Illustration auf Blatt a₃ verso links, mit Fliesstext rechts davon (hier) oder umgekehrt (siehe Digitalisat der Universitätsbibliothek Basel)<-500-STOP->
+<-500-START->Weitere Druckvariante: Die Bogensignatur von Blatt a₄ recto (Digitalisat der Universitätsbibliothek Basel) fehlt hier<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+130 ungezählte Seiten: 36 Illustrationen; 16 cm (8°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_B-398.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-398<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/GW04175.htm<-L-5-STOP-><-VI-5-START->GW 04175<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib00506000<-L-5-STOP-><-VI-5-START->ISTC ib00506000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+63 von 66 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (chamois, Schwein, 20. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: die letzten drei Blätter h₈-h₁₀ fehlen (ersetzt durch Fotokopien der Seiten des Basler Exemplars)
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116825718305511<-L-11-STOP-><-VI-11-START->MUE AD 63 : 3<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991135086799705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Berthold der Bruder<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Amerbach, Johannes<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991135086799705501<-DOI-STOP->
+<-SIGN-START->MUE AD 63 : 3<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04170nam a22006372c 4500
+001 991135086799705501
+005 20211215200205.0
+007 cr#|||||||||||
+008 080730s1490    sz            00| | lat  
+019      |a Unikatsaufnahme, gesperrt für das Anhängen weiterer Signaturen    |5 IDSBB/13.08.2020/bv,cpi    
+024 7    |a 10.3931/e-rara-88623    |2 doi    
+035      |a (swissbib)055921426-41slsp_network    
+035      |a 055921426    |9 ExL    
+035      |a (IDSBB)004568455DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991135086799705501    
+035      |a (41SLSP_UBE)99116825718305511    |9 (41SLSP_UBE)99116825718305511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a lat    |g ger    
+100 0    |a Berthold    |c der Bruder    |d ca. 13./14. Jh.    |0 (DE-588)118510061    |e Verfasser    |4 aut    
+240 1 0  |a <<Das>> andächtig Zeitglöcklein des Lebens und Leidens Christi, nach dem 24 Stunden ausgeteilt    
+245 1 0  |a Horologium deuotionis circa vitam Christi    
+246 1    |i Titel in normalisierter Form    |a Horologium devotionis circa vitam Christi    
+246 1    |i Incipit    |a Incipit in horologiu[m] deuotionis p[ro]logus circa vitam christi    
+246 1    |i Incipit in normalisierter Form    |a Incipit in horologium devotionis prologus circa vitam Christi    
+246 1    |i Kolophon    |a Explicit horologiu[m] deuotionis    
+246 1    |i Kolophon in normalisierter Form    |a Explicit horologium devotionis    
+246 1    |i Titel gemäss GW und ISTC    |a Zeitglöcklein des Lebens und Leidens Christi    
+246 1    |i Titel gemäss ISTC    |a Horologium devotionis    
+264   1  |a [Basel]    |b [Johannes Amerbach]    |c [nicht nach 1490]    
+300      |a 130 ungezählte Seiten    |b 36 Illustrationen    |c 16 cm (8°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+337      |b c    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+338      |b cr    |2 rdacarrier    
+500      |a Impressum gemäss BSB-Ink, GW und ISTC; Druckjahr aufgrund der Datierung des Rubrikators in einem Exemplar der Universitätsbibliothek Basel    
+500      |a Signaturformel: a-g⁸, h¹⁰    
+500      |a Titelblatt (a₁) verso unbedruckt; Blatt h₁₀ unbedruckt    
+500      |a Druckvariante: Die Illustration auf Blatt a₃ verso kann sich rechts befinden, mit dem Fliesstext links davon (Digitalisat der Universitätsbibliothek Basel und andere), oder umgekehrt (vorliegendes Exemplar)    
+500      |a Weitere Druckvariante: Die Bogensignatur von Blatt a₄ recto (Digitalisat der Universitätsbibliothek Basel) fehlt im vorliegenden Exemplar    
+510 4    |a BSB-Ink    |c B-398    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_B-398.html    
+510 4    |a GW    |c 04175    |u https://www.gesamtkatalogderwiegendrucke.de/docs/GW04175.htm    
+510 4    |a ISTC    |c ib00506000    |u http://data.cerl.org/istc/ib00506000    
+530      |a Digitalisat (Druckvariante Blätter a₃ verso und a₄ recto; Exemplar der Universitätsbibliothek Basel)    |u https://doi.org/10.3931/e-rara-4611    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (chamois, Schwein, 20. Jahrhundert)    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 15.4 x 10.8 x 1.4 cm    
+563      |a Zustand Einband: Neueinband    
+590      |a Buchblockbeschreibung: 63 von 66 Blättern, Papierfalz nach erster Lage a und zwischen hinzugefügten Kopien gehört zur Vorsatzkonstruktion, vorgesehene Stellen für Initialen frei gelassen, keine Rubrizierung    
+590      |a Zustand Buchblock: Neubindung inklusive Heftung und Kapital, Blätter teilweise angefasert (helle Blattkanten und Papierfasern auf dem Textdruck, zum Beispiel Blätter a₁ und c₁), letzte Blätter als Fotokopien eingebunden    
+590      |a Unvollständiges Exemplar: die letzten drei Blätter h₈-h₁₀ fehlen (ersetzt durch Fotokopien der Seiten des Basler Exemplars)    
+700 0 2  |a Berthold    |c der Bruder    |d ca. 13./14. Jh.    |t <<Das>> andächtig Zeitglöcklein des Lebens und Leidens Christi, nach dem 24 Stunden ausgeteilt    |0 (DE-588)119555835X    
+700 1    |a Amerbach, Johannes    |d 1440-1513    |0 (DE-588)123073189    |e Drucker    |4 prt    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE AD 63 : 3    |9 (41SLSP_UBE)99116825718305511    
+856 4    |u https://doi.org/10.3931/e-rara-88623    |z Digitalisat in e-rara    
+900      |a IDSIxunikat    
+900      |a IDSIxhybrid-el    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE AD 63 : 3    |b B404    |9 (41SLSP_UBE)99116825718305511    
+986      |a (41SLSP_UBE)99116825718305511    |9 (41SLSP_UBE)99116825718305511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116825718305511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116825718305511    
+990      |f erarabe    |9 local    |9 (41SLSP_UBE)99116825718305511    
+990      |f lza-cc0    |9 local    |9 (41SLSP_UBE)99116825718305511    
+991      |a MedeaB400: 00416157    |5 IZ UBE/rekat-ubbe    |9 local    |9 (41SLSP_UBE)99116825718305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,134 @@
+﻿<-1-1-START->
+Cicero, Marcus Tullius
+<-1-1-STOP->
+
+<-1-2-START->
+De oratore
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Venedig: Wendelin von Speyer, 1470?]
+<-500-START->Ohne gedruckte Leiste am Fuss von Blatt [a₂] recto und ohne gedruckten Rahmen um den Textbeginn (vergleiche GW, Anmerkung 1 und 2)<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 216 ungezählte Seiten, 1 ungezähltes Blatt; 30 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_C-317.html<-L-5-STOP-><-VI-5-START->BSB-Ink C-317<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW06745.htm<-L-5-STOP-><-VI-5-START->GW 6745<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ic00657000<-L-5-STOP-><-VI-5-START->ISTC ic00657000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+110 von 110 Blättern, Schmuckinitialen rot und blau ausgezeichnet, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Velours) mit Schliessen, Spuren vormaliger Zierbeschläge auf beiden Deckeln, Linien-Blindprägung an beiden Deckeln, Ornamentstempel-Blindprägung am Vorderdeckel
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Werner Zesiger
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: De officiis / Marcus Tullius Cicero. Venedig: Wendelin von Speyer, 1470
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116801612405511<-L-11-STOP-><-VI-11-START->MUE Zesk 24 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991142748799705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Cicero, Marcus Tullius<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Wendelin von Speyer<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Zesiger, Werner<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991142748799705501<-DOI-STOP->
+<-SIGN-START->MUE Zesk 24 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04377nam a2200529 c 4500
+001 991142748799705501
+005 20220217134917.0
+008 950711s1470    it ||||| |||| 00| ||lat d
+019      |a Altbestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von Signaturen.    |5 IDSBB/14.03.1995/bestub/mes    
+035      |a (swissbib)028130189-41slsp_network    
+035      |a 028130189    |9 ExL    
+035      |a (IDSBB)001127041DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991142748799705501    
+035      |a (41SLSP_UBE)99116801612405511    |9 (41SLSP_UBE)99116801612405511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+072   7  |a kp    |2 SzZuIDS BS/BE    
+100 1    |a Cicero, Marcus Tullius    |d v106-v43    |0 (DE-588)118520814    |e Verfasser    |4 aut    
+240 1 0  |a De oratore    
+245 1 0  |a M.T. Ciceronis ad Quintum Fratrem In Libros De Oratore Pr[a]efatio Incipit Foeliciter    
+246 1    |i Titel in normalisierter Form    |a M.T. Ciceronis ad Quintum fratrem in libros de oratore praefatio incipit foeliciter    
+246 1 0  |a In libros de oratore praefatio    
+264   1  |a [Venedig]    |b [Wendelin von Speyer]    |c [1470?]    
+300      |a 1 ungezähltes Blatt, 216 ungezählte Seiten, 1 ungezähltes Blatt    |c 30 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss Incipit    
+500      |a Impressum gemäss BSB-Ink, GW und ISTC    
+500      |a Signaturformel: [a⁸, b⁶, c¹⁰, d–n⁸, o⁶]    
+500      |a Blatt [a₁] und Blatt [o₆] (erstes und letztes Blatt) unbedruckt    
+500      |a Ohne gedruckte Leiste am Fuss von Blatt [a₂] recto und ohne gedruckten Rahmen um den Textbeginn (vergleiche GW, Anmerkung 1 und 2)    
+510 4    |a BSB-Ink    |c C-317    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_C-317.html    
+510 4    |a GW    |c 6745    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW06745.htm    
+510 4    |a ISTC    |c ic00657000    |u http://data.cerl.org/istc/ic00657000    
+561      |a Stempel auf Blatt [o₆] verso: "Dr. Zesiger"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Velours) mit Schliessen, Spuren vormaliger Zierbeschläge auf beiden Deckeln, Linien-Blindprägung an beiden Deckeln, Ornamentstempel-Blindprägung am Vorderdeckel; handbeschriebenes Titelschild auf dem Rücken, in Tinte: "M. Tullij Ciceronis officiorum Libri III. & de Oratione Libri III."    
+563      |a Vorsätze: Vorne und hinten ohne fliegende Blätter, Spiegel: mittelalterliche Handschriften-Makulatur auf Pergament, mit rot oder blau ausgezeichneten Initialen    
+563      |a Masse: 29.4 x 21.0 x 8.3 cm    
+563      |a Zustand Einband: Hinterer Spiegel zum Teil hoch gelöst mit Schnittspuren entsprechend der Oberkante des Spiegels, ungesteppte Häubchen unten ganz abgerissen und oben mit Einrissen und kleineren Fehlstellen erhalten, Zierbeschläge an beiden Deckeln fehlend (3 Vernietungen am Vorderdeckel und eine am Rückdeckel erhalten)    
+590      |a Buchblockbeschreibung: 110 von 110 Blättern; handschriftliche Lagensignatur in Tinte (15./16. Jahrhundert) von a-o, jeweils unten rechts, teilweise durch Beschnitt verloren; spätere handschriftliche Lagensignatur (Nummerierung) in Graphit, jeweils auf der ersten Seite der Lage unten rechts; handschriftliche Foliierung (nur auf jeder 10. Recto-Seiten und Blatt 108, das ist [o₅], gezählt ab Blatt [a₂]) jeweils oben rechts; Pergamentfalz-Verstärkung (Manuskriptmakulatur einseitig rötlich gefärbt) und Papierfälze hinter der letzten Lage gehören zu vormaligen Lagen(?); Schmuckinitialen (Blätter [a₂] recto, [a₄] verso und [e₂] recto) rot und blau ausgezeichnet; Rubrizierung; die drei Anfangszeilen und Satzanfänge (Grossbuchstaben) gelb markiert    
+590      |a Signaturformel der handschriftlichen Lagensignatur: 1⁸, 2⁶, 3¹⁰, 4–13⁸, 14⁶    
+590      |a Zusammengebunden mit: Cicero, Marcus Tullius: De officiie. Venedig: Wendelin von Speyer, 13.08.1470    
+600 1 7  |a Cicero, Marcus Tullius    |d v106-v43    |t De oratore    |0 (DE-588)4113227-0    |2 gnd    
+700 1 2  |a Cicero, Marcus Tullius    |d v106-v43    |t De oratore    |0 (DE-588)4113227-0    
+700 0    |a Wendelin    |c von Speyer    |d 14XX-1477    |0 (DE-588)129071226    |e Drucker    |4 prt    
+700 1    |a Zesiger, Werner    |d 1902-1958    |0 (DE-588)121027392    |e Früherer Eigentümer    |4 fmo    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Zesk 24 : 2    |9 (41SLSP_UBE)99116801612405511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit einem weiteren Druck    |p 12    |j MUE Zesk 24 : 2    |b B404    |9 (41SLSP_UBE)99116801612405511    
+986      |a (41SLSP_UBE)99116801612405511    |9 (41SLSP_UBE)99116801612405511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116801612405511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,144 @@
+﻿<-1-1-START->
+Robertus de Tumbalena
+<-1-1-STOP->
+
+<-1-2-START->
+Commentarii in cantica canticorum
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Angeblicher Verfasser ist Papst Gregor I., wirklicher Verfasser gemäss ISTC<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Basel: [Michael Furter], 13.03.1496
+<-3-1-STOP->
+
+<-4-1-START->
+44 ungezählte Seiten; 24 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW11415.htm<-L-5-STOP-><-VI-5-START->GW 11415<-VI-5-STOP->; <-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_G-307.html<-L-5-STOP-><-VI-5-START->BSB-Ink G-307<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ig00395000<-L-5-STOP-><-VI-5-START->ISTC ig00395000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+22 von 22 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun, Kalb) mit mittiger Schliesse sowie Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien-Blindprägung auf beiden Deckeln, Ornamentstempel-Blindprägung auf dem Vorderdeckel; Buchbinder (gemäss Lindt): Johannes Vatter
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Dominikanerkloster Bern
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 4 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116708395405511<-L-11-STOP-><-VI-11-START->MUE Inc III 84 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991019743779705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Robertus de Tumbalena<-P-STOP->
+<-P-START->Gregor I. (Papst)<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Furter, Michael<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-P-START->Vatter, Johannes<-P-STOP->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Dominikanerkloster Bern<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991019743779705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 84 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04926nam a2200625 c 4500
+001 991019743779705501
+005 20221214135850.0
+008 160921s1496    sz |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/22.09.2016/B400/vha    
+035      |a (swissbib)070867143-41slsp_network    
+035      |a 070867143    |9 ExL    
+035      |a (IDSBB)006623543DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991019743779705501    
+035      |a (41SLSP_UBE)99116708395405511    |9 (41SLSP_UBE)99116708395405511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Robertus    |c de Tumbalena    |d 1010-1080    |0 (DE-588)118869663    |e Verfasser    |4 aut    
+240 1 0  |a Commentarii in cantica canticorum    
+245 1 0  |a Expositio beati Gregorij pape super Cantica canticorum    
+246 1    |i Titel gemäss BSB-Ink    |a Expositio super Cantica canticorum    
+246 1    |i Titel gemäss ISTC    |a Commentum super Cantica canticorum    
+246 1    |i Titel in normalisierter Form    |a Expositio beati Gregorii pape super Cantica canticorum    
+264   1  |a Impressa Basilee    |b [Michael Furter]    |c Anno d[omi]ni. Millesimoquadringe[n]tesimononogesimosexto. Die vero deci[m]otertio Me[n]sis martij. [13.03.1496]    
+300      |a 44 ungezählte Seiten    |c 24 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Papst Gregor I. ist angeblicher Verfasser, in Wirklichkeit: Robertus de Tumbalena    
+500      |a BSB-Ink und ISTC nennen Gregor I. als Verfasser, jedoch ISTC mit Anmerkung: "The true author is Robertus de Tumbalena (Bod-inc)"; Verfasser gemäss GW: "Pseudo-Gregor I., Papst"    
+500      |a Druckort und Druckjahr gemäss Kolophon (Blatt d₆ verso)    
+500      |a "Expositio beati Gregorij pape super Cantica cantico[rum] feliciter explicit. Impressa Basilee Anno d[omi]ni. Millesimoquadringe[n]tesimononogesimosexto. Die vero deci[m]otertio Me[n]sis martij. Laus deo." - Kolophon    
+500      |a Drucker gemäss BSB-Ink, GW und ISTC, sowie aufgrund des Kolophons in: Libri dialogorum sancti Gregorii pape, Basel: Furter, 1496    
+500      |a Signaturformel: a⁸, b-c⁴, d⁶    
+500      |a Rückseite der Titelseite (Blatt a₁ verso) unbedruckt; Blatt a₂ fälschlich als b₂ bezeichnet    
+510 4    |a GW    |c 11415    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW11415.htm    
+510 4    |a BSB-Ink    |c G-307    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_G-307.html    
+510 4    |a ISTC    |c ig00395000    |u http://data.cerl.org/istc/ig00395000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00036670/image_1    
+561      |a Band aus dem ehemaligen Dominikanerkloster Bern (J. Lindt: Berner Einbände, Buchbinder und Buchdrucker, Bern, 1969)    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun, Kalb) mit mittiger Schliesse sowie Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien-Blindprägung auf beiden Deckeln, Ornamentstempel-Blindprägung auf dem Vorderdeckel    
+563      |a Auf dem Rücken Titel in Tinte (teils unleserlich): "Seb. Brant de orig. & conver... bon.reg. & laude civit... Hierosolymæ ... 1495. Gregorius I Dialogi Super Cantica. Pastorale"    
+563      |a Gemäss Johann Lindt (Berner Einbände, Buchbinder und Buchdrucker, Bern, 1969, Seite 50) Einband des Berner Dominikanermönchs Johannes Vatter    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt aus Velours-Pergament (Makulatur einer grossformatigen mittelalterlichen Notenhandschrift, auf hinterem fliegenden Blatt auch mit einem Gebet, 15. Jahrhundert)    
+563      |a Masse Einband: 23.7 x 16.6 x 7.7 cm    
+563      |a Zustand Einband: Loch und Rostspuren am Rückdeckel von vormaliger Ankettung, Unterklebung an Fehlstelle im Einbandleder des Rückdeckels, Lederüberklebungen am Rücken, vorderes Vorsatz im Falz mit Japanpapier verstärkt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 22 von 22 Blättern, vorgesehene Stellen für Initialen frei gelassen, keine Rubrizierung    
+590      |a Zusammengebunden mit 4 weiteren Drucken in Sammelband    
+590      |a Historische Signaturen auf fliegendem Vorsatzblatt vorne: "Theol. Lit: b. 4[?] No. 62."; "Theol. No. 65"    
+590      |a Frühere Signatur: Inc 599    
+700 0 2  |a Robertus    |c de Tumbalena    |d 1010-1080    |t Commentarii in cantica canticorum    |0 (DE-588)4216027-3    
+700 0    |a Gregor    |b I.    |c Papst    |d 542-604    |0 (DE-588)118541838    |e Verfasser    |4 aut    
+700 1    |a Furter, Michael    |d 14XX-1517    |0 (DE-588)102766193    |e Drucker    |4 prt    
+700 1    |a Vatter, Johannes    |d 1470-1509    |0 (DE-588)1114426377    |e Buchbinder    |4 bnd    
+710 2    |a Dominikanerkloster Bern    |0 (DE-588)4302674-6    |e Früherer Eigentümer    |4 fmo    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc III 84 : 2    |9 (41SLSP_UBE)99116708395405511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 4 weiteren Drucken in Sammelband    |p 12    |j MUE Inc III 84 : 2    |b B404    |9 (41SLSP_UBE)99116708395405511    
+986      |a (41SLSP_UBE)99116708395405511    |9 (41SLSP_UBE)99116708395405511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116708395405511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

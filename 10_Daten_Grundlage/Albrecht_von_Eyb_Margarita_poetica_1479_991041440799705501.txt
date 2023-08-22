@@ -1,0 +1,135 @@
+﻿<-1-1-START->
+Albrecht von Eyb
+<-1-1-STOP->
+
+<-1-2-START->
+Margarita poetica
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Widmungsbrief des Autors an Johann II. von Pfalz-Simmern, Bischof von Münster, und Widmungsepilog<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Straßburg: Georg Husner, nicht nach 1479]
+<-3-1-STOP->
+
+<-4-1-START->
+484 ungezählte Seiten; 41 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_E-154.html<-L-5-STOP-><-VI-5-START->BSB-Ink E-154<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW09531.htm<-L-5-STOP-><-VI-5-START->GW 09531<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ie00173000<-L-5-STOP-><-VI-5-START->ISTC ie00173000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+243 von 243 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jahrhundert), Linien- und Ornamentrollen-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116926591305511<-L-11-STOP-><-VI-11-START->MUE Inc I 17<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991041440799705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Albrecht von Eyb<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Husner, Georg<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991041440799705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 17<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03702nam a2200553 c 4500
+001 991041440799705501
+005 20211215173103.0
+008 080520s1479    fr            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/08.08.2017/B404/faf    
+035      |a (swissbib)053857968-41slsp_network    
+035      |a 053857968    |9 ExL    
+035      |a (IDSBB)004501854DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991041440799705501    
+035      |a (41SLSP_UBE)99116926591305511    |9 (41SLSP_UBE)99116926591305511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Albrecht    |c von Eyb    |d 1420-1475    |0 (DE-588)118644378    |e Verfasser    |4 aut    
+240 1 0  |a Margarita poetica    
+245 1 0  |a Summa Alberti de Eyb vtriusq[ue] iuris doctoris eximii: que Margarita poetica dicit[ur]: feliciter finit    
+246 1    |i Incipit (Haupttext)    |a Margarita poetica: opus clarissimus feliciter incipit    
+246 1    |i Incipit (Tabula)    |a Tabula siue registru[m] p[rae]sentis op[er]is    
+246 1    |i Incipit (Tabula) in normalisierter Form    |a Tabula sive registrum praesentis operis    
+246 1    |i Titel in normalisierter Form    |a Summa Alberti de Eyb utriusque iuris doctoris eximii, que Margarita poetica dicitur, feliciter finit    
+264   1  |a [Straßburg]    |b [Georg Husner]    |c [nicht nach 1479]    
+300      |a 484 ungezählte Seiten    |c 41 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Widmungsbrief des Autors an Johann II. von Pfalz-Simmern, Bischof von Münster, Widmungsepilog, Inhaltsverzeichnis und Register    
+500      |a Keine Titelseite, Titel gemäss Explicit    
+500      |a Impressum gemäss BSB-Ink, GW und ISTC    
+500      |a Signaturformel: [a-b⁶, c–g¹⁰, h-i⁸, k⁹, l–q⁸, r-s¹⁰, t–z⁸, A–F⁸]    
+500      |a Die Blätter [a₁] recto und [F₈] verso sind unbedruckt    
+500      |a Hinter Blatt k₅ ist ein zusätzliches einspaltiges Blatt in den sonst zweispaltig gedruckten Text eingefügt    
+510 4    |a BSB-Ink    |c E-154    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_E-154.html    
+510 4    |a GW    |c 09531    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW09531.htm    
+510 4    |a ISTC    |c ie00173000    |u http://data.cerl.org/istc/ie00173000    
+530      |a Digitalisat (Exemplar der Bodleian Library, Oxford)    |u http://gallica.bnf.fr/ark:/12148/bpt6k83867t    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jh.), Linien- und Ornamentrollen-Blindprägung auf beiden Deckeln und dem Rücken, Titelschild in Goldprägung auf dem Rücken    
+563      |a Vorsätze: Vorne und hinten jeweils ein fliegendes Blatt    
+563      |a Masse Einband: 40.3 x 29.5 x 5.5 cm    
+563      |a Zustand Einband: Schäden am Einbandleder    
+590      |a Buchblockbeschreibung: 243 von 243 Blättern, vorgesehene Stellen für Initialen frei gelassen    
+590      |a Zustand Buchblock: Risse und Fehlstellen zum Teil mit Büttenpapier überklebt oder ergänzt, Rostabdrücke an letzten Blättern weisen auf einen früheren Einband mit Ankettung hin, auf den ersten Blättern Schädlingsfrass mit Textverlust    
+590      |a Wenige handschriftliche Annotationen, An- und Unterstreichungen in Tinte (z.B. Blatt [x₅] recto)    
+590      |a Historische Signatur auf Blatt [a₁] recto: "Poet n° 2"    
+590      |a Frühere Signatur: Inc 9    
+700 1    |a Husner, Georg    |d 14XX-1505    |0 (DE-588)136216064    |e Drucker    |4 prt    
+700 0 2  |a Albrecht    |c von Eyb    |d 1420-1475    |t Margarita poetica    |0 (DE-588)1137875801    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Inc I 17    |9 (41SLSP_UBE)99116926591305511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc I 17    |b B404    |9 (41SLSP_UBE)99116926591305511    
+986      |a (41SLSP_UBE)99116926591305511    |9 (41SLSP_UBE)99116926591305511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116926591305511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116926591305511    
+991      |a MedeaB400: 00254702    |5 IZ UBE/rekat-ubbe    |9 LOCAL    |9 (41SLSP_UBE)99116926591305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

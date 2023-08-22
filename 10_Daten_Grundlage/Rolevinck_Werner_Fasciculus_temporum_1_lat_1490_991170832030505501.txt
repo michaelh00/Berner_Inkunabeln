@@ -1,0 +1,134 @@
+﻿<-1-1-START->
+Rolevinck, Werner
+<-1-1-STOP->
+
+<-1-2-START->
+Fasciculus temporum
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Vorwort des Verfassers und Fortsetzung der Chronik bis 1490<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Straßburg: Johann Prüss, zwischen 06.04.1490 und 1494]
+<-3-1-STOP->
+
+<-4-1-START->
+12 ungezählte Seiten, XC Blätter, 2 ungezählte Blätter: 18 Illustrationen, Diagramme; 26 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_R-250.html<-L-5-STOP-><-VI-5-START->BSB-Ink R-250<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M38727.htm<-L-5-STOP-><-VI-5-START->GW M38727<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ir00275000<-L-5-STOP-><-VI-5-START->ISTC ir00275000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+95 von 98 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Flexibler Pergamenteinband (Makulatur)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Karmelitenkloster Augsburg
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Blatt []₂ und die unbedruckten Blätter P₅-₆ fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99117228525105511<-L-11-STOP-><-VI-11-START->MUE GDA Gut 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991170832030505501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Rolevinck, Werner<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Prüss, Johann<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Karmelitenkloster Augsburg<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991170832030505501<-DOI-STOP->
+<-SIGN-START->MUE GDA Gut 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03238nam a2200517 c 4500
+001 991170832030505501
+005 20230208094008.0
+008 211216q14901494fr ||||      |00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 UBE/B404/20211216    
+035      |a (EXLNZ-41SLSP_NETWORK)991170832030505501    
+035      |a (41SLSP_UBE)99117228525105511    |9 (41SLSP_UBE)99117228525105511    
+040      |a CH-ZuSLS UBE    |b ger    |e rda    
+082 7 4  |a 900    |2 23sdnb    
+100 1    |a Rolevinck, Werner    |d 1425-1502    |0 (DE-588)118749536    |4 aut    
+240 1 0  |a Fasciculus temporum    
+245 1 0  |a Fasciculus temporum omnes antiquorum cronicas complectens    
+246 1    |i Incipit (Haupttext)    |a Fasciculus temporum o[mn]es antiquo[rum] cronicas [com]plectens incipit feliciter    
+264   1  |a [Straßburg]    |b [Johann Prüss]    |c [zwischen 06.04.1490 und 1494]    
+300      |a 12 ungezählte Seiten, XC Blätter, 2 ungezählte Blätter    |b 18 Illustrationen, Diagramme    |c 26 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Register, Vorwort des Verfassers und Fortsetzung der Chronik bis 1490    
+500      |a Impressum gemäss GW und ISTC    
+500      |a Signaturformel: []⁶, A⁸, B-P⁶    
+500      |a Die Blätter P₅-₆ sind unbedruckt    
+500      |a Bei der Illustration wurden einige Druckstöcke mehrfach verwendet    
+510 4    |a BSB-Ink    |c R-250    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_R-250.html    
+510 4    |a GW    |c M38727    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M38727.htm    
+510 4    |a ISTC    |c ir00275000    |u http://data.cerl.org/istc/ir00275000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/0001/bsb00011098/images    
+561      |a Depositum der Gesellschaft der Freunde des Gutenbergmuseums; handschriftlicher Besitzvermerk auf Blatt []₃ recto: "Conventus Carmelit: Discalce: Augustæ."    
+563      |a Einbandbeschreibung: Flexibler Pergamenteinband (Makulatur)    
+563      |a Vorsätze: Vorne mit einem fliegenden Blatt, hinten mit zwei fliegenden Blättern    
+563      |a Masse Einband: 25.5 x 19.2 x 1.9 cm    
+563      |a Zustand Einband: Am Rücken grössere Fehlstellen am Pergament, Bünde teilweise freigelegt    
+590      |a Buchblockbeschreibung: 95 von 98 Blättern, falsche Blattzahl LI in Rot zu LII korrigiert, vorgesehene Stellen für Initialen frei gelassen    
+590      |a Zustand Buchblock: Grösserer Wasserschaden in den ersten Lagen, mehrere Seiten stark verbräunt    
+590      |a Unvollständiges Exemplar: Blatt []₂ und die unbedruckten Blätter P₅-₆ fehlen    
+590      |a Papierstück mit bibliographischen Notizen auf Titelseite aufgeklebt    
+590      |a Wenige An- und Unterstreichungen in Rot, Tintenspuren auf Blatt E₆ recto    
+700 1 2  |a Rolevinck, Werner    |d 1425-1502    |t Fasciculus temporum    |0 (DE-588)7539276-8    
+700 1    |a Prüss, Johann    |d 1447-1510    |4 prt    |0 (DE-588)135917018    
+710 1    |a Karmelitenkloster Augsburg    |4 fmo    |0 (DE-588)1082223360    
+710 2    |a Gesellschaft der Freunde des Gutenbergmuseums    |4 own    |0 (DE-588)2137933-6    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE GDA Gut 2    |9 (41SLSP_UBE)99117228525105511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Depositum der Gesellschaft der Freunde des Gutenbergmuseums    |p 12    |j MUE GDA Gut 2    |b B404    |9 (41SLSP_UBE)99117228525105511    
+986      |a (41SLSP_UBE)99117228525105511    |9 (41SLSP_UBE)99117228525105511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99117228525105511    
+990      |n HB404N2112    |9 local    |9 (41SLSP_UBE)99117228525105511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

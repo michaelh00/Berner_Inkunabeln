@@ -1,0 +1,145 @@
+﻿<-1-1-START->
+Johannes Bonaventura
+<-1-1-STOP->
+
+<-1-2-START->
+Commentarii in quatuor libros Sententiarum Petri Lombardi. — Petrus Lombardus: Sententiae
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Herausgeber gemäss GW: Johann Beckenhub<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Freiburg im Breisgau: Kilian Fischer, nicht vor 02.05.1493]
+<-3-1-STOP->
+
+<-4-1-START->
+5 Bände; 33 cm (2°)
+<-500-START->Band [2]: 479 ungezählte Seiten<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_P-390.html<-L-5-STOP-><-VI-5-START->BSB-Ink P-390<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M32509.htm<-L-5-STOP-><-VI-5-START->GW M32509<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/ip00487000<-L-5-STOP-><-VI-5-START->ISTC ip00487000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+Band [2]: 240 von 240 Blättern, rot ausgezeichnete Initialen, Rubrizierung    
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Pergmantband auf Holzdeckel, Ornamentlinien-Blindprägung, eine Schliesse
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Nur Band [2] vorhanden
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99117258503305511<-L-11-STOP-><-VI-11-START->MUE GDB Gut 6<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991170863844905501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Johannes Bonaventura<-P-STOP->
+<-P-START->Petrus Lombardus<-P-STOP->
+<-P-START->Beckenhub, Johann<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Freiburg im Breisgau<-O-STOP->
+<-P-START->Fischer, Kilian<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991170863844905501<-DOI-STOP->
+<-SIGN-START->MUE GDB Gut 6<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05262nam a2200637 c 4500
+001 991170863844905501
+005 20221206155811.0
+008 220301s1493    gw ||||      |00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 UBE/B404/20220301/vha    
+035      |a (EXLNZ-41SLSP_NETWORK)991170863844905501    
+035      |a (41SLSP_UBE)99117258503305511    |9 (41SLSP_UBE)99117258503305511    
+040      |a CH-ZuSLS UBE    |b ger    |e rda    
+082 7 4  |a 230    |2 23sdnb    
+245 0 0  |a Perlustratio Sancti Bonauenture in ... librum Sententiaru[m]    
+246 1    |i Titel in normalisierter Form    |a Perlustratio Sancti Bonaventure in ... librum sententiarum    
+246 1    |i Titel von Band [2]    |a Perlustratio Sancti Bonauenture in secundum librum Sententiaru[m]    
+246 1    |i Titel von Band [2] in normalisierter Form    |a Perlustratio Sancti Bonaventure in secundum librum sententiarum    
+246 1    |i Titel gemäss BSB-Ink    |a Sententiarum libri quattuor    
+246 1    |a Titel gemäss GW und ISTC    |a Sententiarum libri IV    
+264   1  |a [Freiburg im Breisgau]    |b [Kilian Fischer]    |c [nicht vor 02.05.1493]    
+300      |a 4 Bände, 1 Band Tabula    |c 33 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Enthält sowohl die Sententiae, als auch - um die typografisch hervorgehobenen Sententiae herum, sowie auf eigenen Seiten - den umfangreichen Kommentar von Bonaventura    
+500      |a Titel gemäss Titelblatt von Band [2]    
+500      |a Titelaufnahme für unvollständiges Exemplar (nur Band [2] der fünfbändigen Ausgabe vorhanden)    
+500      |a Band [5] enthält Tabula von Johann Beckenhub (in GW als Herausgeber geführt), und eine Zusammenstellung von "varij articuli erronei ... in anglia [et] parisius studiose [et] autoritatiue [con]demnati cum reuocationibus eorunde[m]" (Blatt q₁ recto)    
+500      |a Impressum gemäss BSB-Ink, GW und ISTC (Druckort und Drucker in Band [1], Blatt a₂ verso, in einem Gedicht genannt: "Quo libri impressor Friburgi kilianus ip[s]e Piscator ...")    
+500      |a Umfang Band [2]: 479 ungezählte Seiten    
+500      |a Signaturformel Band [2]: Aa–Zz⁶, Aaa–Qqq⁶, V⁶    
+500      |a Blatt U₆ verso unbedruckt    
+500      |a Blätter Ddd₃ und Ddd₄ fälschlich als Eee₃ und Eee₄ bezeichnet    
+510 4    |a BSB-Ink    |c P-390    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_P-390.html    
+510 4    |a GW    |c M32509    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M32509.htm    
+510 4    |a ISTC    |c ip00487000    |u https://data.cerl.org/istc/ip00487000    
+530      |a Digitalisat Band [2] (Exemplar der Herzog August Bibliothek Wolfenbüttel)    |u http://diglib.hab.de/inkunabeln/e-94-2f-helmst-3/start.htm    
+561      |a Depositum der Gesellschaft der Freunde des Gutenbergmuseums    
+561      |a Auf vorderem Innendeckel Stempel: "E...[?]Lederhausern[?]", handschriftlich darin: "D/66."    
+561      |a Stempel auf der Titelseite: "Gutenberggesellschaft Schweiz", handschriftlich darin: "1093"    
+563      |a Einbandbeschreibung: Ganzbezogener Pergmantband auf Holzdeckel, Ornamentlinien-Blindprägung, eine Schliesse; Reste eines Papierschilds auf dem Rücken, darauf handschriftlich in Tinte: "13"; auf dem Vorderdeckel in Tinte oben: "G 9[?]"    
+563      |a Vorsätze: Vorne und hinten ohne fliegendes Blatt und ohne Spiegel    
+563      |a Masse Einband: 32.5 x 22.6 x 7.0 cm    
+563      |a Zustand Einband: Stark zerkratzt und fleckig    
+590      |a Buchblockbeschreibung Band [2]: 240 von 240 Blättern, Pergamentfalz (Makulatur einer Handschrift) nach erster Lage A und vor letzter Lage V von Vorsatzkonstruktion (um Lagen gelegter Ansatzfalz), rot ausgezeichnete Initialen, Rubrizierung    
+590      |a Zustand Buchblock: Ein Stück vom Titelblatt unten aussen herausgeschnitten; kleines Loch in Blatt Nn₄ (im Text der Sententiae), Schäden an Blättern Mm₆ (Riss) und Nnn₄ (ausgerissenes Stück oben) durch aufgeklebtes Papier repariert, beide ohne Textverlust; Papier teilweise gebräunt und fleckig, auf Blatt Nn₂ recto Druckerschwärze verschmiert, kleine Flecken roter Farbe auf den Blättern Yy₄ verso und Nnn₃ verso    
+590      |a Unvollständiges Exemplar: Nur Band [2], die Bände [1], [3]-[4] und Tabula fehlen    
+590      |a Handschriftliche Annotationen und Unterstreichungen in Tinte    
+590      |a Auf manchen Blättern handgeschriebene Bogensignaturen, zusätzlich zu den gedruckten, sichtbar (zum Beispiel Blätter Rr₂, Vv₃, Bbb₁-Bbb₃)    
+700 0    |a Johannes Bonaventura    |c Kardinal, Heiliger    |d 1221-1274    |0 (DE-588)118513176    |4 aut    
+700 0    |a Petrus    |c Paris, Bischof    |d 1095-1160    |0 (DE-588)11859334X    |e Verfasser    |4 aut    
+700 1    |a Beckenhub, Johann    |d 1440-1491    |0 (DE-588)100124232    |4 edt    
+700 1    |a Fischer, Kilian    |d 1451-1510    |0 (DE-588)133121003    |4 prt    
+700 0 2  |a Johannes Bonaventura    |c Kardinal, Heiliger    |d 1221-1274    |t Commentarii in quatuor libros Sententiarum Petri Lombardi    |0 (DE-588)1105429814    
+700 0 2  |a Petrus    |c Paris, Bischof    |d 1095-1160    |t Sententiae    |0 (DE-588)4192097-1    
+710 2    |a Gesellschaft der Freunde des Gutenbergmuseums    |0 (DE-588)2137933-6    |4 own    
+751      |a Freiburg im Breisgau    |0 (DE-588)4018272-1    
+852 4    |b B404    |c 404U3    |j MUE GDB Gut 6    |9 (41SLSP_UBE)99117258503305511    
+900      |a IDSIxunikat    
+949      |c 404U3    |z Depositum der Gesellschaft der Freunde des Gutenbergmuseums    |p 12    |j MUE GDB Gut 6    |b B404    |9 (41SLSP_UBE)99117258503305511    
+986      |a (41SLSP_UBE)99117258503305511    |9 (41SLSP_UBE)99117258503305511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99117258503305511    
+990      |n HB404N2203    |9 local    |9 (41SLSP_UBE)99117258503305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

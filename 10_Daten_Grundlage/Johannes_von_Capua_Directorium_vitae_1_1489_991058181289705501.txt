@@ -1,0 +1,152 @@
+﻿<-1-1-START->
+Johannes von Capua
+<-1-1-STOP->
+
+<-1-2-START->
+Directorium vitae humanae
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Übersetzung einer hebräischen Übersetzung der von ʿAbdallāh Ibn-al-Muqaffaʿ über das Mittelpersische des Burzōe übersetzten und redigierten, unter dem Titel Kalīla wa-Dimna bekannten arabischen Fassung des Viṣṇuśarmā oder Bidpai zugeschriebenen indischen Pañcatantra; mit Vorwort des Übersetzers Johannes von Capua<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Straßburg: Johann Prüss, nicht nach 1489]
+<-500-START->Druckvariante zum Wolfenbütteler Exemplar, siehe Lagensignatur auf Blatt n₁: "v" statt "n"<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+163 ungezählte Seiten: 119 Illustrationen; 29 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-VI-5-START->Hain 4411a<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M13175.htm<-L-5-STOP-><-VI-5-START->GW M13175<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ij00268000<-L-5-STOP-><-VI-5-START->ISTC ij00268000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+73 von 82 Blättern, Illustrationen teilweise rot oder braun koloriert, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Kalb, 19. Jahrhundert), Linien- und Ornamentrollen-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: John Bellingham Inglis; George Long
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Die Blätter a₂, e₂, und f₅ sowie die Lage c fehlen; Blatt a₂ ersetzt durch Blatt aus einer anderen Ausgabe, wohl HC *4411 Variante, die Blätter c₄-c₅ durch Blätter aus einem anderen Exemplar, die Blätter c₂-c₃, e₂ und f₅ durch spätere genaue Abschriften einschliesslich abgezeichneter Illustrationen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116826025005511<-L-11-STOP-><-VI-11-START->MUE Inc I 109<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991058181289705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Viṣṇuśarmā<-P-STOP->
+<-P-START->Bidpai<-P-STOP->
+<-P-START->Burzōe<-P-STOP->
+<-P-START->Ibn-al-Muqaffaʿ, ʿAbdallāh<-P-STOP->
+<-P-START->Johannes de Capua<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Prüss, Johann<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Inglis, John Bellingham<-P-STOP->
+<-P-START->Long, George<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991058181289705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 109<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05493nam a2200673 c 4500
+001 991058181289705501
+005 20211215174829.0
+008 180201s1489    fr |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/01.02.2018/B404/faf    
+035      |a (swissbib)072367725-41slsp_network    
+035      |a 072367725    |9 ExL    
+035      |a (IDSBB)006770886DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991058181289705501    
+035      |a (41SLSP_UBE)99116826025005511    |9 (41SLSP_UBE)99116826025005511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a lat    |h heb    |h ara    |h pal    |h san    
+130 0    |a Kalīla wa-Dimna    |0 (DE-588)4250623-2    
+245 1 0  |a Directorium humane vite alias parabole antiquoru[m] sapientu[m]    
+246 1    |i Titel in normalisierter Form    |a Directorium humane vite alias parabole antiquorum sapientum    
+246 1    |i Explicit    |a Explicit liber parabolaru[m] antiquo[rum] sapientum    
+246 1    |i Explicit in normalisierter Form    |a Explicit liber parabolarum antiquorum sapientum    
+246 1    |i Titel gemäss GW und ISTC    |a Directorium humanae vitae    
+264   1  |a [Straßburg]    |b [Johann Prüss]    |c [nicht nach 1489]    
+300      |a 163 ungezählte Seiten    |b 119 Illustrationen    |c 29 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Übersetzung einer hebräischen Übersetzung der von ʿAbdallāh Ibn-al-Muqaffaʿ über das Mittelpersische des Burzōe übersetzten und redigierten, unter dem Titel Kalīla wa-Dimna bekannten arabischen Fassung des Viṣṇuśarmā oder Bidpai zugeschriebenen indischen Pañcatantra    
+500      |a Mit Vorwort des Übersetzers Johannes von Capua    
+500      |a Druckvariante zum Wolfenbütteler Exemplar, siehe Lagensignatur auf Blatt n₁: "v" statt "n"    
+500      |a Druckort und Drucker gemäss GW und ISTC    
+500      |a Zur Datierung: Ein Exemplar in der New York Public Library weist einen Besitzvermerk von 1489 auf    
+500      |a Bei der Illustration wurden einige Druckstöcke mehrfach verwendet    
+500      |a Signaturformel: a-m⁶, n¹⁰    
+500      |a Blatt a₁ ohne Lagensignatur, Blätter a₂-a₄ mit Signaturen a-a3 bezeichnet    
+510 4    |a Hain    |c 4411a    
+510 4    |a GW    |c M13175    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M13175.htm    
+510 4    |a ISTC    |c ij00268000    |u http://data.cerl.org/istc/ij00268000    
+530      |a Digitalisat (Exemplar der Herzog August Bibliothek Wolfenbüttel)    |u http://diglib.hab.de/inkunabeln/160-3-quod-2f/start.htm    
+561      |a Handschriftlicher Besitzvermerk auf zweitem fliegendem vorderem Vorsatzblatt recto: "This book was given to me by J.B. Inglis. The defects in it were supplied by him from another copy. [...] London, June 1 1867 [...] George Long"; 1940 durch die Stadtbibliothek Bern erworben bei Julius Hess, Antiquar in Bern    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Kalb, 19. Jh.), Linien- und Ornamentrollen-Blindprägung auf beiden Deckeln    
+563      |a Vorsätze: Vorne 2 und hinten 3 fliegende Blätter (teilweise Marmorpapier)    
+563      |a Masse Einband: 28.2 x 20.8 x 1.9 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, Lederüberklebungen am Rücken, beide Vorsätze im Falz mit Japanpapier verstärkt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 73 von 82 Blättern, handschriftliche Paginierung in Tinte, Illustrationen teilweise rot oder braun koloriert, rot ausgezeichnete Initialen, Rubrizierung, Lesebändchen    
+590      |a Zustand Buchblock: Starke Abklatschbildung des Bild- und Textdruckes, rotes Farbmittel der Initialauszeichnung mit Ausbrüchen und starker Abklatschbildung    
+590      |a Unvollständiges Exemplar: Die Blätter a₂, e₂, und f₅ sowie die Lage c fehlen; Blatt a₂ ersetzt durch Blatt aus einer anderen Ausgabe, wohl HC *4411 Variante (ohne Paginierung, Initialen und Rubrizierung; Faksimile?), die Blätter c₄-c₅ durch Blätter aus einem anderen Exemplar (mit Paginierung, aber Abweichungen bei Initialen, Rubrizierung und Frasslöchern), die Blätter c₂-c₃, e₂ und f₅ durch spätere genaue Abschriften einschliesslich abgezeichneter Illustrationen (ebenso)    
+590      |a Wenige handschriftliche Annotationen in Tinte und Graphit    
+700 0    |a Viṣṇuśarmā    |0 (DE-588)119300540    |e Verfasser    |4 aut    
+700 0    |a Bidpai    |d Person der Antike oder des Mittelalters    |0 (DE-588)100794211    |e Verfasser    |4 aut    
+700 0    |a Burzōe    |d ca. 6. Jh.    |0 (DE-588)111138604    |e Mitwirkender    |4 ctb    
+700 1    |a Ibn-al-Muqaffaʿ, ʿAbdallāh    |d 724-759    |0 (DE-588)118955985    |e Mitwirkender    |4 ctb    
+700 0    |a Johannes    |c de Capua    |d ca. 13. Jh.    |0 (DE-588)118935607    |e Übersetzer    |e Verfasser eines Vorworts    |4 trl    |4 wpr    
+700 1    |a Prüss, Johann    |d 1447-1510    |0 (DE-588)135917018    |e Drucker    |4 prt    
+700 1    |a Inglis, John Bellingham    |d 1780-1870    |0 (DE-588)1055144773    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Long, George    |d 1800-1879    |0 (DE-588)117211850    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Hess, Julius    |d 1900-1940    |0 (DE-588)1018997547    |e Früherer Eigentümer    |4 fmo    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Inc I 109    |9 (41SLSP_UBE)99116826025005511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc I 109    |b B404    |9 (41SLSP_UBE)99116826025005511    
+986      |a (41SLSP_UBE)99116826025005511    |9 (41SLSP_UBE)99116826025005511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116826025005511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

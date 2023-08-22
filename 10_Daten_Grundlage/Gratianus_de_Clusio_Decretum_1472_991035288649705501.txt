@@ -1,0 +1,150 @@
+﻿<-1-1-START->
+Gratianus de Clusio
+<-1-1-STOP->
+
+<-1-2-START->
+Decretum
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit der Glossa ordinaria des Johannes Teutonicus in der Bearbeitung des Bartholomaeus Brixiensis<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Straßburg]: Heinrich Eggestein, 1472
+<-3-1-STOP->
+
+<-4-1-START->
+918 ungezählte Seiten, 1 ungezähltes Blatt; 50 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_G-253.html<-L-5-STOP-><-VI-5-START->BSB-Ink G-253<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW11352.htm<-L-5-STOP-><-VI-5-START->GW 11352<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ig00361000<-L-5-STOP-><-VI-5-START->ISTC ig00361000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+354 von 460 Blättern, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun, Kalb) mit Schliessen sowie Mittel- und Eckbeschlägen, Spuren zweier Kettenösen am oberen Rand des Rückdeckels, Linien-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Kloster Thorberg
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Die Lagen [a]-[l] fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116885064305511<-L-11-STOP-><-VI-11-START->MUE Inc II 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991035288649705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Gratianus de Clusio<-P-STOP->
+<-P-START->Johannes Teutonicus<-P-STOP->
+<-P-START->Bartholomaeus Brixiensis<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Eggestein, Heinrich<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Kloster Thorberg<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991035288649705501<-DOI-STOP->
+<-SIGN-START->MUE Inc II 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06265nam a2200697 c 4500
+001 991035288649705501
+005 20211215164726.0
+008 170606s1472    fr |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/06.06.2017/B404/faf    
+035      |a (swissbib)069832943-41slsp_network    
+035      |a 069832943    |9 ExL    
+035      |a (IDSBB)006704415DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991035288649705501    
+035      |a (41SLSP_UBE)99116885064305511    |9 (41SLSP_UBE)99116885064305511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Gratianus    |c de Clusio    |d -1158    |0 (DE-588)118541625    |e Verfasser    |4 aut    
+240 1 0  |a Decretum    
+245 1 0  |a Expliciu[n]t Decreta Gratiani    
+246 1 0  |a Decreta Gratiani    
+246 1    |i Incipit (Kommentar)    |a Qvonia[m] nouis sup[er]uenientib[us] causis nouis est remedijs succurre[n]du[m]    
+246 1    |i Incipit (Kommentar) in normalisierter Form    |a Quoniam novis supervenientibus causis novis est remediis succurrendum    
+246 1    |i Incipit (Text)    |a In nomine sancte et indiuidue trinitatis Incipit concordia discordantium Canonum    
+246 1    |i Incipit (Text) in normalisierter Form    |a In nomine sancte et individue trinitatis incipit concordia discordantium canonum    
+246 1    |i Kolophon    |a Presens Gratiani decretu[m] vna cu[m] apparatu d[omi]ni johannis theuthonici. atq[ue] additionibus Bartho. Brixien[sis]. in suis distinctionib[us] causis et co[n]secrationib[us] bene visu[m] et correctu[m]    
+246 1    |i Kolophon in normalisierter Form    |a Presens Gratiani decretum una cum apparatu domini Iohannis Theuthonici atque additionibus Bartho. Brixiensis in suis distinctionibus causis et consecrationibus bene visum et correctum    
+264   1  |a [Straßburg]    |b per venerabile[m] viru[m] Heinricu[m] Eggesteyn. artiu[m] liberaliu[m] magistrum Ciue[m] inclite ciuitatis Argentin[ensis]    |c Anno domini M°.cccc°.lxxij. [et]c[etera] [1472]    
+300      |a 918 ungezählte Seiten, 1 ungezähltes Blatt    |c 50 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit der Glossa ordinaria des Johannes Teutonicus in der Bearbeitung des Bartholomaeus Brixiensis    
+500      |a Keine Titelseite, Titel gemäss Explicit    
+500      |a Impressum gemäss Kolophon    
+500      |a Rot- und Schwarzdruck    
+500      |a Unterschiedlich angeordnete, flächig quadratische Blinddruck-Marken am Rand der Kolumnendrucke    
+500      |a Signaturformel: [a–i¹⁰, k-l⁸, m–z¹⁰, A–H¹⁰, I-K⁸, L–Z¹⁰, aa⁸]    
+500      |a Blatt [aa₈] ist unbedruckt    
+510 4    |a BSB-Ink    |c G-253    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_G-253.html    
+510 4    |a GW    |c 11352    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW11352.htm    
+510 4    |a ISTC    |c ig00361000    |u http://data.cerl.org/istc/ig00361000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/0007/bsb00072343/images    
+561      |a Handschriftlicher Besitzvermerk auf erstem vorderem fliegendem Vorsatzblatt recto: "Iste liber p[er]tinet domui portemont[is] ordi[ni]s carthusien[sis] p[ro]pe bernum.", das heisst Kloster Thorberg    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun, Kalb) mit Schliessen sowie Mittel- und Eckbeschlägen, Spuren zweier Kettenösen am oberen Rand des Rückdeckels, Linien-Blindprägung auf beiden Deckeln, auf Vorderdeckel in grosser Tintenschrift: "ihs", darüber kleiner: "Tractat[us] s[e]c[un]d[us] decretj", auf Rücken aufgeklebter Pergamentstreifen mit roter Thorberg-Signatur: "G XIIII" und handschriftlichem Rückentitel: "Decretu[m] quo ad causas"    
+563      |a Vorsätze: Vorne mit fünf und hinten mit zwei fliegenden Blättern    
+563      |a Masse Einband: 49.3 x 35.2 x 14 cm    
+563      |a Zustand Einband: Zwei Löcher mit Korrosionsschaden am Rückdeckel von vormaliger Ankettung, Pergamentspiegel teilweise hochgelöst, Lederüberklebungen am Rücken, grosse Tintenschrift auf dem Vorderdeckel schwarz nachgezeichnet, vom Rücken abgelöstes gedrucktes Titelschild jetzt innen im Rückdeckel verklebt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 354 von 460 Blättern, Pergamentverstärkung (Velours, Makulatur) im Falz des vorderen Vorsatzes sowie im Falz der Lage [aa], Papierfälze und Pergamentfalz zwischen den Lagen [Z] und [aa] gehören zur Vorsatzkonstruktion (2 fliegende Blätter, Pergamentspiegel), rot ausgezeichnete Initialen, Rubrizierung, auf letzten Blättern der Lagen handschriftliche Kustoden in Tinte (grösstenteils abgeschnitten), Blattweiser    
+590      |a Zustand Buchblock: Craquelés in rotem Farbauftrag der ausgezeichneten Initialen, Pergament der Blattweiser verhärtet mit Rissen an den Blattkanten    
+590      |a Unvollständiges Exemplar: Die Lagen [a]-[l] fehlen    
+590      |a Handschriftlich auf erstem vorderem fliegendem Vorsatzblatt recto: "In hoc libro continentur ista Secundus tractatus decreti. qui e[st] de causis et q[uae]stionib[us]. habens triginta et sex causas Et sciend[um] q[uod] tractat[us] depenitentia est sub causa xxxiij. et h[abet] septe[m] distinctiones Item tractatus de co[n]secrat[i]one. h[abe]ns qui[n]q[ue] distinctiones."    
+590      |a Handschriftliche Annotation in Tinte (Blatt R₇ recto)    
+590      |a Historische Signatur auf vorderem Spiegel: "Jur: Pol: N.° 2."; auf Blatt [m₁] recto: "Jur. Pol. 2"    
+590      |a Frühere Signatur: Inc 91    
+700 0    |a Johannes    |c Teutonicus    |d 1170-1245    |0 (DE-588)100950477    |e Kommentarverfasser    |4 wac    
+700 0    |a Bartholomaeus    |c Brixiensis    |d -1258    |0 (DE-588)100937365    |e Kommentarverfasser    |4 wac    
+700 1    |a Eggestein, Heinrich    |d 1415-1488    |0 (DE-588)100965024    |e Drucker    |4 prt    
+700 0 2  |a Gratianus    |c de Clusio    |d -1158    |t Decretum    |0 (DE-588)4072001-9    
+700 0 2  |a Johannes    |c Teutonicus    |d 1170-1245    |t Glossa ordinaria    |0 (DE-588)1153129515    
+710 2    |a Kloster Thorberg    |0 (DE-588)7725716-9    |e Früherer Eigentümer    |4 fmo    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Inc II 2    |9 (41SLSP_UBE)99116885064305511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc II 2    |b B404    |9 (41SLSP_UBE)99116885064305511    
+986      |a (41SLSP_UBE)99116885064305511    |9 (41SLSP_UBE)99116885064305511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116885064305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

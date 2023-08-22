@@ -1,0 +1,143 @@
+﻿<-1-1-START->
+Angelus Carletus
+<-1-1-STOP->
+
+<-1-2-START->
+Summa Angelica casuum conscientiae
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Brief von Girolamo Tornielli an den Autor, sowie die kurze "Responsio" des Autors<-500-STOP->
+<-500-START->Am Ende Gedicht von Jacobinus Suigus<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Nürnberg: Anton Koberger, 23.08.1498
+<-3-1-STOP->
+
+<-4-1-START->
+12 ungezählte Seiten, CCLV Blätter, 1 ungezähltes Blatt; 33 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-536.html<-L-5-STOP-><-VI-5-START->BSB-Ink A-536<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW01944.htm<-L-5-STOP-><-VI-5-START->GW 01944<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ia00728000<-L-5-STOP-><-VI-5-START->ISTC ia00728000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+268 von 268 Blättern, rot oder blau ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun, Schaf) mit Schliessen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln; Buchbinder (gemäss Lindt): Jakob Spindler, Basel
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Kloster Thorberg
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116851154505511<-L-11-STOP-><-VI-11-START->MUE Inc III 60<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991121555149705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Angelus Carletus<-P-STOP->
+<-P-START->Tornielli, Girolamo<-P-STOP->
+<-P-START->Suigus, Jacobinus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Nürnberg<-O-STOP->
+<-P-START->Koberger, Anton<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-P-START->Spindler, Jakob<-P-STOP->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Kloster Thorberg<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991121555149705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 60<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05083nam a2200589 c 4500
+001 991121555149705501
+005 20211216142344.0
+008 171018s1498    gw |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/18.10.2017/B404/vha    
+035      |a (swissbib)074628712-41slsp_network    
+035      |a 074628712    |9 ExL    
+035      |a (IDSBB)006740516DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991121555149705501    
+035      |a (41SLSP_UBE)99116851154505511    |9 (41SLSP_UBE)99116851154505511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Angelus    |c Carletus    |d 1410-1495    |0 (DE-588)119253593    |e Verfasser    |4 aut    
+240 1 0  |a Summa Angelica casuum conscientiae    
+245 1 0  |a Summa Angelica de casibus conscientie    |b cum additionib[us] nouiter additis    
+246 1    |i Titel in normalisierter Form und moderner Orthografie    |a Summa Angelica de casibus conscientiae    |b cum additionibus noviter additis    
+264   1  |a Nure[m]berge    |b impressa p[er] Anthoniu[m] koberger inibi co[n]ciue[m]    |c Anno d[omi]ni M.cccc.xcviij. in vigilia sancti Barhtolomei ap[osto]li [23.08.1498]    
+300      |a 12 ungezählte Seiten, CCLV Blätter, 1 ungezähltes Blatt    |c 33 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Brief von Hieronymus Tornieli an den Autor (Blatt []₁ verso, sowie die kurze "Responsio" des Autors (Blatt []₂ recto)    
+500      |a Am Ende, hinter dem Kolophon (Blatt J₇ verso), Gedicht von Jacobinus Suigus: "Humano angelicas quicu[m]q[ue] audire loquelas ..."    
+500      |a "Finit summa Angelica de casibus conscientie per fratrem Angelum de clauasio compilata. maxima cu[m] diligentia reuisa. [et] fideli studio emendata. sicut ip[s]um opus per se satis attestabitur Nure[m]berge impressa p[er] Anthoniu[m] koberger inibi co[n]ciue[m] Anno d[omi]ni M.cccc.xcviij. in vigilia sancti Barhtolomei ap[osto]li." - Kolophon    
+500      |a Signaturformel: []⁶, 2[]⁶, a-z⁸, A-J⁸    
+500      |a Blätter 2 bis 4 der ersten Lage arabisch von 2 bis 4 nummeriert, die Blätter 1 bis 4 der zweiten Lage arabisch von 5 bis 8 nummeriert (jeweils rechts unten, anstelle einer Bogensignatur)    
+500      |a Blatt J₈ (letztes Blatt) unbedruckt    
+505 0 0  |g Blatt []₁ verso    |t Epistola. F. Hieronymi tormeli lectoris: ad R[everendissimum] p. F. Angelu[m] de clauasio p[re]sentis operis auctorem ...    
+510 4    |a BSB-Ink    |c A-536    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-536.html    
+510 4    |a GW    |c 01944    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW01944.htm    
+510 4    |a ISTC    |c ia00728000    |u http://data.cerl.org/istc/ia00728000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00040828/image_5    
+561      |a Einband vom Kloster Thorberg    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun, Schaf) mit Schliessen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln; auf dem Rücken Nachbildung des Signatur-Buchstabens (C) des Klosters Thorberg und Titel auf aufgeklebtem Pergamentstreifen: "Suma angelica"; Buchbinder gemäss Lindt: Jakob Spindler, Basel    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 32.7 x 22.8 x 5.5 cm    
+563      |a Zustand Einband: starker Schädlingsfrass, Schäden am Einbandleder mit Fehlstellen, Rücken vollständig mit Leder überklebt, inkl. Nachbildung des Thorberger Signatur-Schriftzeichens sowie der Blindlinierung, Lederüberklebungen am Rückdeckel inkl. Nachbildung der Ornamentstempel-Blindprägung, Schliessenriemen ergänzt, Vorsätze im Falz verstärkt bzw. neu zusammengesetzt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 268 von 268 Blättern, Gewebefalz auf vorderem Spiegel und zwischen erster und zweiter Lage aus Restaurierung von Vorsatz und erster Lage; rot oder blau ausgezeichnete Initialen, Rubrizierung; Blattweiser aus rotem Leder    
+590      |a Zustand Buchblock: Heftung teilweise gerissen, Schädlingsfrass zum Teil mit Textverlust, Blattweiser zum Teil abgerissen, erste Lage neu geheftet    
+590      |a Historische Signatur des Klosters Thorberg auf dem Rücken: "C XLV"; auf vorderem Spiegel: "Theol. 103."; auf der Titelseite: "Theol. No. 71"    
+590      |a Frühere Signatur: Inc 28    
+700 0 2  |a Angelus    |c Carletus    |d 1410-1495    |t Summa Angelica casuum conscientiae    |0 (DE-588)4377594-9    
+700 1    |a Tornielli, Girolamo    |0 (DE-588)119850869    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Suigus, Jacobinus    |d ca. 15. Jh.    |0 (DE-588)129072052    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Koberger, Anton    |d 1440-1513    |0 (DE-588)118563890    |e Drucker    |4 prt    
+700 1    |a Spindler, Jakob    |d ca. 15. Jh.    |0 (DE-588)102513575X    |e Buchbinder    |4 bnd    
+710 2    |a Kloster Thorberg    |0 (DE-588)7725716-9    |4 fmo    
+751      |a Nürnberg    |0 (DE-588)4042742-0    
+852 4    |b B404    |c 404U3    |j MUE Inc III 60    |9 (41SLSP_UBE)99116851154505511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc III 60    |b B404    |9 (41SLSP_UBE)99116851154505511    
+986      |a (41SLSP_UBE)99116851154505511    |9 (41SLSP_UBE)99116851154505511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116851154505511    
+991      |a AAK: 00171546    |5 IZ UBE/18.10.2017/B404/vha    |9 local    |9 (41SLSP_UBE)99116851154505511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,182 @@
+﻿<-1-1-START->
+Diomedes Grammaticus
+<-1-1-STOP->
+
+<-1-2-START->
+Ars grammatica. — Phocas Grammaticus: Ars. — Priscianus: Institutio de nomine et pronomine et verbo. — De orthographia. — Agroecius Senonensis: Ars de orthographia. — Donatus, Aelius: Ars maior 2 und 3. — Servius: Commentarius in artem Donati. Ars minor und Ars maior 2
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit einem Vorwort an Atanasius, "Ars de orthographia" mit einem Vorwort an Bischof Eucherius, "Ars maior" mit einem Gedicht auf Donat<-500-STOP->
+<-500-START->"De orthographia" wird Flavius Caper zugeschrieben, enthält aber lediglich einige Exzerpte aus "De Latinitate" kombiniert mit Zitaten aus einem Lehrgedicht<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig [vielmehr Mailand: Leonhard Pachel], 10.03.1494
+<-500-START->Seitengetreuer Nachdruck der Ausgabe von Cristoforo de' Pensi, Venedig 1491 (GW 08402); auf Blatt g₄ hat der Drucker den doppelt gedruckten Text der Vorlage weggelassen (mit Notiz des Druckers), aber ohne den fehlenden Text einzusetzen<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 165 ungezählte Seiten: 1 Illustration, Holzschnittinitialen; 32 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW08403.htm<-L-5-STOP-><-VI-5-START->GW 08403<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/id00237000<-L-5-STOP-><-VI-5-START->ISTC id00237000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+82 von 84 Blättern, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Pierre Daniel; Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Die Blätter i₃-i₄ fehlen (ersetzt durch unbedrucktes Doppelblatt)
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116837804405511<-L-11-STOP-><-VI-11-START->MUE Bong IV 849<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991025868349705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Diomedes Grammaticus<-P-STOP->
+<-P-START->Phocas Grammaticus<-P-STOP->
+<-P-START->Priscianus<-P-STOP->
+<-P-START->Caper, Flavius<-P-STOP->
+<-P-START->Agroecius Senonensis<-P-STOP->
+<-P-START->Donatus, Aelius<-P-STOP->
+<-P-START->Servius<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Mailand<-O-STOP->
+<-P-START->Pachel, Leonhard<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-P-START->Daniel, Pierre<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991025868349705501<-DOI-STOP->
+<-SIGN-START->MUE Bong IV 849<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 07425nam a2200949 c 4500
+001 991025868349705501
+005 20211215162138.0
+007 cr#|||||||||||
+008 100617s1494    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/27.02.2019/B404/faf    
+024 7    |a 10.3931/e-rara-88391    |2 doi    
+035      |a (swissbib)063940191-41slsp_network    
+035      |a 063940191    |9 ExL    
+035      |a (IDSBB)005247869DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991025868349705501    
+035      |a (41SLSP_UBE)99116837804405511    |9 (41SLSP_UBE)99116837804405511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Diomedes    |c Grammaticus    |d ca. 4. Jh.    |0 (DE-588)100107761    |e Verfasser    |4 aut    
+240 1 0  |a Ars grammatica    
+245 1 0  |a Diomedis Doctissimi Ac Diligentissimi Lingvae Latinae Perscrvtatoris De Arte Grammatica Opvs Vtilitissimvm    
+246 1    |i Titel in normalisierter Form    |a Diomedis doctissimi ac diligentissimi linguae Latinae perscrutatoris de arte grammatica opus utilitissimum    
+246 1 0  |a De arte grammatica opus utilitissimum    
+246 1    |i Incipit des 2. enthaltenen Werks in normalisierter Form    |a Vetustissimi ac perspicacissimi Phocae grammatici de nomine et verbo liber incipit    
+246 1    |i Explicit des 2. enthaltenen Werks    |a Phocae clarissimi Grammatici ars de nomine & uerbo foeliciter explicit    
+246 1    |i Incipit des 4. enthaltenen Werks in normalisierter Form    |a Capri vetustissimi ac illustris grammatici de orthographia et Latinitate verborum liber incipit    
+246 1    |i Titel des 5. enthaltenen Werks in normalisierter Form    |a Agraetius de orthogrophia et proprietate et differentia sermonis    
+246 1    |i Titel des 6. enthaltenen Werks in normalisierter Form    |a Donati viri clarissimi de octo partibus orationis editio secunda    
+246 1    |i Titel des 7. enthaltenen Werks in normalisierter Form    |a Donatus de barbarismo    
+246 1    |i Titel des 8. enthaltenen Werks in normalisierter Form    |a Servii Honorati in secundam Donati editionem interpretatio    
+246 1    |i Titel des 9. enthaltenen Werks in normalisierter Form    |a Sergii Grammatici in secundam Donati editionem commentarius    
+264   1  |a Impressum Venetiis    |b [Leonhard Pachel]    |c Anno .M.cccclxxxxiiii. mensis Martii. die .x. [10.03.1494]    
+300      |a 1 ungezähltes Blatt, 165 ungezählte Seiten    |b 1 Illustration    |c 32 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+337      |b c    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+338      |b cr    |2 rdacarrier    
+500      |a Mit Inhaltsverzeichnis, einem Vorwort an Atanasius und acht weiteren grammatischen Traktaten: der "Ars" des Phocas Grammaticus, Priscians "Institutio de nomine et pronomine et verbo", der Flavius Caper zugeschriebenen Schrift "De orthographia", der "Ars de orthographia" des Agroecius Senonensis (mit Vorwort an Bischof Eucherius), den Teilen 2 und 3 aus Donats "Ars maior" (mit einem Gedicht auf Donat) und Teilen des "Commentarius in artem Donati" (zu Ars minor und Ars maior 2) des Servius    
+500      |a Keine Titelseite, nur Kopftitel    
+500      |a Druckort und Druckdatum gemäss Kolophon; gemäss GW und ISTC in Wahrheit wohl in Mailand gedruckt    
+500      |a Drucker gemäss GW und ISTC    
+500      |a Seitengetreuer Nachdruck der Ausgabe von Cristoforo de' Pensi, Venedig 1491 (GW 08402); auf Blatt g₄ hat der Drucker den doppelt gedruckten Text der Vorlage weggelassen (mit Notiz des Druckers), aber ohne den fehlenden Text einzusetzen    
+500      |a Signaturformel: a-o⁶    
+500      |a Blatt a₁ recto ist unbedruckt    
+500      |a Holzschnittinitialen    
+505 0 0  |t Vetvstissimi Ac Perspicacissimi Phocae Grammatici De Nomine Et Verbo Liber Incipit    |t Prisciani Casesariensis Clarissimi Grammatici Epitoma    |t Capri Vetvstissimi Ac Illvstris Grammatici De Orthographia Et Latinitate Verborvm Liber Incipit    |t Agraetivs De Orthogrophia Et Proprietate Et Differentia Sermonis    |t Donati Viri Clarissimi De Octo Partibvs Orationis Editio Secvnda    |t Donatvs De Barbarismo    |t Servii Honorati In Secvndam Donati Editionem Interpretatio    |t Sergii Grammatici In Secvndam Donati Editionem Commentarivs    
+510 4    |a GW    |c 08403    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW08403.htm    
+510 4    |a ISTC    |c id00237000    |u http://data.cerl.org/istc/id00237000    
+561      |a Handschriftlicher Besitzvermerk auf Blatt a₂ recto: "Bongarsij fuit P. Danielis"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jh.), Titelschild in Goldprägung am Rücken: "Diomedes", daneben in Tinte: "Gramatici Venet. 1494"    
+563      |a Vorsätze: Vorne und hinten mit 2 fliegenden Blättern    
+563      |a Masse Einband: 31.9 x 21.5 x 2.2 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, Lederüberklebungen am Rücken    
+590      |a Buchblockbeschreibung: 82 von 84 Blättern, Pergamentverstärkung aussen an den Vorsätzen, Rubrizierung (rote und blaue Paragraphenzeichen)    
+590      |a Zustand Buchblock: Risse an Blatt o₆ mit Papierhinterklebungen stabilisiert    
+590      |a Unvollständiges Exemplar: Die Blätter i₃-i₄ fehlen (ersetzt durch unbedrucktes Doppelblatt)    
+590      |a Zahlreiche handschriftliche Annotationen und Unterstreichungen in Tinte, teilweise von Pierre Daniel    
+590      |a Auf Blatt g₄ recto wurde der fehlende Text handschriftlich in Tinte ergänzt    
+590      |a Historische Signatur auf vorderem Spiegel: "Lit. 246." (über älterer Signatur); auf Blatt a₂ recto: "Lit. A. 97."    
+590      |a Frühere Signaturen: Inc 198; Inc I 71; VII 7    
+590      |a Dublette: Bong IV 897 : 1    
+700 0    |a Phocas    |c Grammaticus    |d ca. 3./4. Jh., nach LAW abweichend 5. Jh.    |0 (DE-588)100537278    |e Verfasser    |4 aut    
+700 0    |a Priscianus    |d ca. 5./6. Jh.    |0 (DE-588)118596624    |e Verfasser    |4 aut    
+700 1    |a Caper, Flavius    |d ca. 2. Jh.    |0 (DE-588)100735258    |e Verfasser    |4 aut    
+700 0    |a Agroecius    |c Senonensis    |d ca. 5. Jh.    |0 (DE-588)100728340    |e Verfasser    |4 aut    
+700 1    |a Donatus, Aelius    |d ca. 4. Jh.    |0 (DE-588)118526715    |e Verfasser    |4 aut    
+700 0    |a Servius    |d ca. 4./5. Jh.    |0 (DE-588)118796313    |e Verfasser    |4 aut    
+700 1    |a Pachel, Leonhard    |d 1451-1511    |0 (DE-588)120259516    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Daniel, Pierre    |d 1530-1603    |0 (DE-588)101087934    |e Früherer Eigentümer    |e Annotierende Person    |4 fmo    |4 ann    
+700 0 2  |a Diomedes    |c Grammaticus    |d ca. 4. Jh.    |t Ars grammatica    |0 (DE-588)4643640-6    
+700 0 2  |a Phocas    |c Grammaticus    |d ca. 3./4. Jh., nach LAW abweichend 5. Jh.    |t Ars    |0 (DE-588)1179294335    
+700 0 2  |a Priscianus    |d ca. 5./6. Jh.    |t Institutio de nomine et pronomine et verbo    |0 (DE-588)4468974-3    
+700 0 2  |a Agroecius    |c Senonensis    |d ca. 5. Jh.    |t Ars de orthographia    |0 (DE-588)1179386191    
+700 1 2  |a Donatus, Aelius    |d ca. 4. Jh.    |t Ars maior 2    |0 (DE-588)4819982-5    
+700 1 2  |a Donatus, Aelius    |d ca. 4. Jh.    |t Ars maior 3    |0 (DE-588)4561050-2    
+700 0 2  |a Servius    |d ca. 4./5. Jh.    |t Commentarius in artem Donati    |p Ars minor    |0 (DE-588)1179404939    
+700 0 2  |a Servius    |d ca. 4./5. Jh.    |t Commentarius in artem Donati    |p Ars maior 2    |0 (DE-588)1179404890    
+730 0    |a De orthographia    |0 (DE-588)1179383729    
+751      |a Mailand    |0 (DE-588)4037100-1    
+852 4    |b B404    |c 404U3    |j MUE Bong IV 849    |9 (41SLSP_UBE)99116837804405511    
+856 4    |u https://doi.org/10.3931/e-rara-88391    |z Digitalisat in e-rara    
+900      |a IDSIxunikat    
+900      |a IDSIxhybrid-el    
+900      |a NOMERGEALEX    
+949      |i ZB Inc I 71    |c 404U3    |p 12    |j MUE Bong IV 849    |b B404    |9 (41SLSP_UBE)99116837804405511    
+986      |a (41SLSP_UBE)99116837804405511    |9 (41SLSP_UBE)99116837804405511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116837804405511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116837804405511    
+990      |f erarabe    |9 local    |9 (41SLSP_UBE)99116837804405511    
+990      |f lza-cc0    |9 local    |9 (41SLSP_UBE)99116837804405511    
+991      |a Bongars: 06269, 04066, 11040, 11573    |5 IZ UBE/B400/17.06.2010    |9 local    |9 (41SLSP_UBE)99116837804405511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

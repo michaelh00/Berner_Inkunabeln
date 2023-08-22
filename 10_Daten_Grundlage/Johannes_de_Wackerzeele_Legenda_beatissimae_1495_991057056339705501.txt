@@ -1,0 +1,137 @@
+﻿<-1-1-START->
+Johannes de Wackerzeele
+<-1-1-STOP->
+
+<-1-2-START->
+Legenda beatissimae virginis Barbarae
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Verfasser gemäss BSB-Ink, sowie Manuscripta Mediaevalia (online)<-500-STOP->
+<-500-START->Erster Teil (Prolog) eines dreiteiligen Werks von Johannes de Wackerzeele: 1. Prologus in legendam Beatissimae Virginis Barbarae (8 Blätter) 2. Legenda Beatissimae Virginis Barbarae (6 Blätter) 3. Historia Beatissimae Virginis Barbarae (36 Blätter)<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Köln: Ulrich Zell, [um 1495]
+<-3-1-STOP->
+
+<-4-1-START->
+13 ungezählte Seiten, 1 ungezähltes Blatt; 20 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_I-561.html<-L-5-STOP-><-VI-5-START->BSB-Ink I-561<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW03327.htm<-L-5-STOP-><-VI-5-START->GW 03327,1<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib00098000<-L-5-STOP-><-VI-5-START->ISTC ib00098000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+8 von 8 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Pergamenteinband auf Kartondeckeln mit Papier (beige, 17./18. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Johannes Ellin
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 6 weiteren Drucken und 4 Handschriften in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116835145205511<-L-11-STOP-><-VI-11-START->MUE Inc III 105 : 7<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991057056339705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Johannes de Wackerzeele<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Köln<-O-STOP->
+<-P-START->Zell, Ulrich<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Ellin, Johannes<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991057056339705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 105 : 7<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03853nam a2200529 c 4500
+001 991057056339705501
+005 20211215190146.0
+008 081218s1495    gw            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/24.07.2014/B400/vha    
+035      |a (swissbib)056212615-41slsp_network    
+035      |a 056212615    |9 ExL    
+035      |a (IDSBB)004701134DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991057056339705501    
+035      |a (41SLSP_UBE)99116835145205511    |9 (41SLSP_UBE)99116835145205511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Johannes    |c de Wackerzeele    |d 13XX-14XX    |0 (DE-588)104360054    |e Verfasser    |4 aut    
+240 1 0  |a Legenda beatissimae virginis Barbarae    
+245 1 0  |a Incipit prolog[us] i[n] legenda[m] beatissime virginis Barbare    
+246 1 0  |a Prologus in legendam beatissimae virginis Barbarae    
+246 1    |i Titel in normierter Form    |a Incipit prologus in legendam beatissimae virginis Barbarae    
+264   1  |a Impressum Colonie    |b apud lÿskirchen [Ulrich Zell]    |c [um 1495]    
+300      |a 13 ungezählte Seiten, 1 ungezähltes Blatt    |c 20 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Titelseite mit Titel-Holzschnitt (Maria(!) mit Kind in architektonischem Rahmen, über dem Giebel Wappen der Stadt Köln; unten geschnittenes Impressum)    
+500      |a Erster Teil eines dreiteiligen Werks von Johannes de Wackerzeele: 1. Prologus in legendam Beatissimae Virginis Barbarae (8 Blätter) 2. Legenda Beatissimae Virginis Barbarae (6 Blätter) 3. Historia Beatissimae Virginis Barbarae (36 Blätter)    
+500      |a Verfasser gemäss BSB-Ink, sowie Manuscripta Mediaevalia (online)    
+500      |a Signaturformel: A⁸    
+500      |a Blatt A₁ verso (Rückseite des Titelblatts) und Blatt A₇ verso (Rückseite der letzten Textseite) unbedruckt; Blatt A₈ unbedruckt    
+510 4    |a BSB-Ink    |c I-561    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_I-561.html    
+510 4    |a GW    |c 03327,1    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW03327.htm    
+510 4    |a ISTC    |c ib00098000    |u http://data.cerl.org/istc/ib00098000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München; Prologus ab Bild 74)    |u http://daten.digitale-sammlungen.de/bsb00029477/image_74    
+561      |a Früherer Eigentümer (erkennbar an den Handschriften im Band): Dr. Johannes Ellin, genannt Dr. Barbatus, Stadtarzt von Bern    
+563      |a Einbandbeschreibung: Halbbezogener Pergamenteinband auf Kartondeckeln mit Papier (beige, 17./18. Jahrhundert); auf dem Rücken die Titel in Tinte; darunter, längs zum Rücken: "Sanctoru[m] Legenda"    
+563      |a Vorsätze: vorne und hinten mit 2 fliegenden Blättern    
+563      |a Masse Einband: 19.8 x 14.9 x 2.6 cm    
+563      |a Zustand Einband: Fliegende Blätter an hinterem Vorsatz an oberer Falzkante nicht aufgeschnitten    
+590      |a Buchblockbeschreibung: 8 von 8 Blättern, handschriftliche Foliierung in Graphit auf Recto-Seiten rechts oben (f.1 - 8), vorgesehene Stellen für Initialen frei gelassen (auf Blatt A₇ recto - letzte Textseite - ein T in Tinte ergänzt), keine Rubrizierung    
+590      |a Wenige handschriftliche Annotationen in Tinte (kleine Textkorrekturen auf Blatt A₂, A₅ und A₇ recto)    
+590      |a Zusammengebunden mit 6 weiteren Drucken und 4 Handschriften in Sammelband    
+590      |a Frühere Signatur: Inc 596    
+700 0 2  |a Johannes    |c de Wackerzeele    |d 13XX-14XX    |t Legenda beatissimae virginis Barbarae    |0 (DE-588)1124952861    
+700 1    |a Zell, Ulrich    |d 1430-1507    |0 (DE-588)11907155X    |e Drucker    |4 prt    
+700 1    |a Ellin, Johannes    |d ca. 2. H. 15. Jh.    |0 (DE-588)1194516130    |e Früherer Eigentümer    |4 fmo    
+751      |a Köln    |0 (DE-588)4031483-2    
+852 4    |b B404    |c 404U3    |j MUE Inc III 105 : 7    |9 (41SLSP_UBE)99116835145205511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit weiteren Drucken und Handschriften    |p 12    |j MUE Inc III 105 : 7    |b B404    |9 (41SLSP_UBE)99116835145205511    
+986      |a (41SLSP_UBE)99116835145205511    |9 (41SLSP_UBE)99116835145205511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116835145205511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116835145205511    
+991      |a MedeaB400: 00525495    |5 IZ UBE/rekat-ubbe    |9 local    |9 (41SLSP_UBE)99116835145205511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

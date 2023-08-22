@@ -1,0 +1,143 @@
+﻿<-1-1-START->
+Katholische Kirche
+<-1-1-STOP->
+
+<-1-2-START->
+Breviarium Romanum
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Gemäss ISTC für den Gebrauch des Franziskaner-Ordens<-500-STOP->
+<-500-START->Enthält 6 Teile: Kalendarium, Psalterium, Proprium de tempore, Proprium de sanctis, Commune sanctorum, Officia annexa<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Venedig: Christoph Arnold?, nicht nach 1478]
+<-3-1-STOP->
+
+<-4-1-START->
+967 ungezählte Seiten; 19 cm
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW05127.htm<-L-5-STOP-><-VI-5-START->GW 05127<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib01118250<-L-5-STOP-><-VI-5-START->ISTC ib01118250<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+474 von 484 Blättern,  gesamter Band auf Pergament gedruckt; rot oder blau ausgezeichnete Initialen, zum Teil mit Schmuckelementen wie Rankenmuster oder Köpfen im Portrait; Schmuckinitialen in Teil 2 (Psalterium) mehrfarbig ausgezeichnet; Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen, Linien-Blindprägung auf dem Vorderdeckel
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Georg Muggensturm; Johann Kraus; Bibliothek von Mülinen
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Blatt [a]₁ in Teil 1 (Kalendarium) sowie 9 Blätter in Teil 3 (Proprium de tempore) fehlen (Blätter [a]₉, [h]₁-[h]₂, [h]₁₁-[h]₁₂, [k]₁-[k]₂ und [k]₁₁-[k]₁₂); die fehlenden Blätter der Lagen [h] und [k] wurden durch handschriftlich, in gotischer Buchschrift beschriebene Blätter mit dem fehlenden Text ersetzt)
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116697172205511<-L-11-STOP-><-VI-11-START->MUE Inc III 132<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991065083109705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Katholische Kirche<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Christophorus Arnoldus<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Muggensturm, Georg<-P-STOP->
+<-P-START->Kraus, Johann<-P-STOP->
+<-P-START->Bibliothek von Mülinen<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991065083109705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 132<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 07034nam a2200601 c 4500
+001 991065083109705501
+005 20230207112835.0
+008 170503s1478    it |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/04.05.2017/B404/vha    
+035      |a (swissbib)074320882-41slsp_network    
+035      |a 074320882    |9 ExL    
+035      |a (IDSBB)006695810DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991065083109705501    
+035      |a (41SLSP_UBE)99116697172205511    |9 (41SLSP_UBE)99116697172205511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+110 2    |a Katholische Kirche    |0 (DE-588)2009545-4    |4 aut    
+245 1 0  |a [Breviarium Romanum]    
+264   1  |a [Venedig]    |b [Christoph Arnold?]    |c [nicht nach 1478]    
+300      |a 967 ungezählte Seiten    |c 19 cm    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Gemäss ISTC für den Gebrauch des Franziskaner-Ordens    
+500      |a Impressum gemäss GW und ISTC    
+500      |a Enthält 6 Teile: Kalendarium (16 ungezählte Seiten), Psalterium (148 ungezählte Seiten), Proprium de tempore (388 ungezählte Seiten), Proprium de sanctis (292 ungezählte Seiten), Commune sanctorum (88 ungezählte Seiten), Officia annexa (35 ungezählte Seiten)    
+500      |a Signaturformel gemäss GW, Kalendarium: [a⁸]; Psalterium: [a-f¹², g²]; Proprium de tempore: [a-q¹², r²]; Proprium de sanctis [a-m¹², n²]; Commune sanctorum: [a-c¹², d⁸]; Officia annexa: [a¹², b⁶]    
+500      |a Officina annexa, Blatt [b]₆ verso (letzte Seite) unbedruckt    
+500      |a Rot- und Schwarzdruck    
+505 0 0  |g Incipit des Psalterium    |t Jncipit psalterium s[ecundum] conuetudinem curie romanum    |g Incipit des Proprium de tempore    |t <<Jn no[m]i[n]e d[omi]ni iesu: eiusq[ue] genitricis uirginis marie.>> Jnicipit ordo breuiarij. secu[n]du[m] ritu[m] sancte romane eccl[esi]e    |g Incipit des Proprium de sanctis    |t Jncipit p[ro]p[ri]u[m] s[an]c[t]o[rum]    |g Incipit des Commune sanctorum    |t Jncipit co[mmun]e s[an]c[t]o[rum]    |g Incipit der Officia annexa    |t De festiuitatib[us] q[uae] i[n]fra octa[vam] s[an]c[t]i francisci ve[n]iunt    
+510 4    |a GW    |c 05127    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW05127.htm    
+510 4    |a ISTC    |c ib01118250    |u http://data.cerl.org/istc/ib01118250    
+561      |a Handschriftliche Widmung auf vorderstem Blatt recto: "Hunc librum dono dedit Georgius Muggensturm Joanni Krausen amico suo haud vul[...?] anno 1561."    
+561      |a Handschriftlicher Besitzvermerk auf vorderstem Blatt verso: "Bibliothek von Mülinen in Bern. 1912" (Stempel auf vorderstem Blatt recto: "Bibliotheca Bernensis, Sammlg. v. Mülinen, 1937")    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen, Linien-Blindprägung auf dem Vorderdeckel    
+563      |a Vorsätze: vorne mit 3 fliegenden Blättern, hinten ohne fliegende Blätter; Tintenabklatsch der Widmung und des Ovid-Zitats vom fliegenden Blatt auf dem vorderen Spiegel    
+563      |a Masse Einband: 18.9 x 14.1 x 8.3 cm    
+563      |a Zustand Einband: Blätter des hinteren vorgehefteten Doppelblattes (Teil des Vorsatzes) herausgeschnitten, hinterer Falz mit Japanpapier verstärkt, Rücken mit neuem Leder unterlegt, rostige Nieten der Ösenteile der Schliessen mit Japanpapier abgedeckt; Zustandsbericht vor und nach der Restaurierung von Lindt, 1938, auf vorderem Innendeckel geklebt    
+590      |a Buchblockbeschreibung: 474 von 484 Blättern, handschriftliche Lagensignatur in Graphit ab dem Psalterium, 2. Teil, jeweils auf der ersten Recto-Seite einer Lage, rechts unten; auf denselben Seiten oben jeweils handschriftliche Foliierung in Graphit (Blattzählung für den jeweiligen Teil); Psalterium, Teil 2, mit handschriftlicher Foliierung in Tinte von Blatt 1 bis 66; gesamter Band auf Pergament gedruckt; rot oder blau ausgezeichnete Initialen, zum Teil mit Schmuckelementen wie Rankenmuster oder Köpfen im Portrait; Schmuckinitialen in Psalterium, Teil 2, Blatt a₁, recto und verso, mehrfarbig ausgezeichnet; Rubrizierung    
+590      |a Zustand Buchblock: Verwischungen und Abrieb vor allem an blauem Farbmittel, Teile von Blatträndern heraus geschnitten zum Teil mit Schnittspuren in benachbarten Blättern (z.B. Psalterium, Blatt [a₇]), Spuren von abgetrennten Blattweisern, Schwachstellen an ersten Blättern mit Japanpapier verstärkt    
+590      |a Unvollständiges Exemplar: Blatt [a]₁ im Kalendarium sowie 9 Blätter im Proprium de tempore, 3. Teil, fehlen (Blätter [a]₉, [h]₁-[h]₂, [h]₁₁-[h]₁₂, [k]₁-[k]₂ und [k]₁₁-[k]₁₂); die 8 fehlenden Blätter der Lagen [h] und [k] wurden durch handschriftlich, in gotischer Buchschrift beschriebene Blätter mit dem fehlenden Text ersetzt)    
+590      |a Officia annexa (6. Teil, 35 ungezählte Seiten) vor dem Commune sanctorum (5. Teil, 88 ungezählte Seiten) eingebunden    
+590      |a Signaturformel der handschriftlichen Lagensignatur (ab dem 2. Teil, Psalterium): 2a-2f¹², 2g², 3a-3q¹², 3r², 4a-4m¹², 4n², 5 i.e. 6a¹², 5 i.e. 6b⁶, 6 i.e. 5a - 6 i.e. 5c¹², 6 i.e. 5d⁸    
+590      |a Handschriftlich in Tinte unter dem Besitzvermerk auf vorderstem Blatt: "Omnia Svb Leges Mors Vocat Atra Svas" (Ovid, Consolatio ad Liviam, 359); handschriftliche Annotation in Tinte im Proprium de sanctis, 4. Teil, auf Blatt i₄ recto: "B[ernhardus] Clar[aevallensis] stet vor dem co[m]mu[n]. vn[d] sa[nc]t luduig stet glich vor ir" (Hinweis zur Abfolge)    
+590      |a Zeichnungen in Tinte im Kalendarium, 1. Teil, Blatt a₂ recto: thronende Gestalt (möglicherweise Karl der Grosse zu seinem Namenstag, 28. Januar); Proprium de sanctis, 4. Teil, Blatt e₁₂ recto: Frau mit Haube, die einen Korb oder eine Tasche trägt    
+590      |a Als zweites Blatt eingebunden: Notenhandschrift und Liedtext: "Exultat spirit[us] m[eu]s in d[omi]no deo salutari ..."    
+590      |a Drittes Blatt (vor Blatt [a]₂ des Kalendariums) mit handschriftlichem Titel: "Breuiarium romanum", darunter Motto: "Jus est inarmis", darunter: "Liturg."; auf der Rückseite eine Schmuckbordüre in Tinte (16. Jahrhundert), ohne Text    
+590      |a Beigelegt ist ein handschriftlicher Zettel von "Dr. Reichling", datiert "Münster i/ Westf., 21. Sept. [19]12", an den "Herr Oberbibliothekar" (der Stadtbibiothek Bern), mit Bemerkungen zum Exemplar    
+700 0    |a Christophorus    |c Arnoldus    |d XXXX-1479    |0 (DE-588)135808294    |e Drucker    |4 prt    
+700 1    |a Muggensturm, Georg    |e Beschriftende Person    |4 ins    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Kraus, Johann    |e Widmungsempfänger    |4 dte    |e Früherer Eigentümer    |4 fmo    
+710 2 2  |a Katholische Kirche    |t Breviarium Romanum    |0 (DE-588)4335738-6    
+710 2    |a Bibliothek von Mülinen    |0 (DE-588)1131176316    |e Früherer Eigentümer    |4 fmo    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Inc III 132    |9 (41SLSP_UBE)99116697172205511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc III 132    |b B404    |9 (41SLSP_UBE)99116697172205511    
+986      |a (41SLSP_UBE)99116697172205511    |9 (41SLSP_UBE)99116697172205511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116697172205511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

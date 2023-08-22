@@ -1,0 +1,143 @@
+﻿<-1-1-START->
+Bibel [lateinisch]
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Biblia Vulgata mit der Übersetzung des Hieronymus, sowie seinen Prologen und Briefen an Paulinus von Nola und Papst Damasus I.<-500-STOP->
+<-500-START->Mit Anmerkungen von Menardus Eisnacensis (auch Menardus Monachus genannt)<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Nürnberg: Anton Koberger, 14.04.1478
+<-500-START->Druckvariante: Blatt i ist hier nur als ".j." bezeichnet, ohne "fol." davor, wie in einem Teil sonst satzidentischer Exemplare<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, cccclxi Blätter, 12 ungezählte Seiten; 24 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-429.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-429<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW04232.htm<-L-5-STOP-><-VI-5-START->GW 4232<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib00557000<-L-5-STOP-><-VI-5-START->ISTC ib00557000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+468 von 468 Blättern, auf Blättern i, iv und ccxxxiiii recto mehrfarbig auszeichnete Initialen mit Blütenranken, sonst rot, teilweise schwarz und rot ausgezeichnete Initialen; Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun) mit Schliessen und Eck- sowie Mittelbeschlägen mit blau gefärbter Pergamentunterlage, Linien- und Stempel-Blindprägung auf beiden Deckeln und auf dem Rücken
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Werner Zesiger
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116902455605511<-L-11-STOP-><-VI-11-START->MUE Zesk 6<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991110529179705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Hieronymus, Sophronius Eusebius<-P-STOP->
+<-P-START->Menardus Eisnacensis<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Nürnberg<-O-STOP->
+<-P-START->Koberger, Anton<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Zesiger, Werner<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991110529179705501<-DOI-STOP->
+<-SIGN-START->MUE Zesk 6<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06879nam a22006257c 4500
+001 991110529179705501
+005 20220218094000.0
+008 950302s1478    gw            00| | lat d
+019      |a Altbestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von Signaturen.    |5 IDSBB/19.12.1994/bestub/mes    
+035      |a (swissbib)028448456-41slsp_network    
+035      |a 028448456    |9 ExL    
+035      |a (IDSBB)001082769DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991110529179705501    
+035      |a (41SLSP_UBE)99116902455605511    |9 (41SLSP_UBE)99116902455605511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a lat    |h heb    |h grc    |h arc    
+072   7  |a th    |2 SzZuIDS BS/BE    
+130 0    |a Bibel    |0 (DE-588)4006406-2    
+245 1 0  |a Veteris nouiq[ue] testamenti opus    |b cum canonib[us] eua[n]gelistarumq[ue] concordantiis    
+246 1    |i Titel in normalisierter Form    |a Veteris novique testamenti opus    |b cum canonibus evangelistarumque concordantiis    
+246 1    |i Titel gemäss BSB-Ink und GW    |a Biblia    
+246 1    |i Titel gemäss ISTC    |a Biblia latina    
+264   1  |a Intemerate virginisq[ue] marie imp[re]ssum. In oppido Nurnberg[e]n.    |b per Antoniu[m] Coburger prefati oppidi incolam ...    |c Anno incarnat[i]onis d[omi]nice. Millesimoquadringentesimoseptuagesimooctauo. Mai v[er]o k[a]l[endris] octauodecimo [14.04.1478]    
+300      |a 1 ungezähltes Blatt, cccclxi Blätter, 12 ungezählte Seiten    |c 24 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Titel gemäss Kolophon (Blatt cccclxi verso)    
+500      |a Vulgata mit Brief des Hieronymus an Paulinus (Blatt i recto) und Prologen des Hieronymus zu einzelnen Büchern    
+500      |a Mit Anmerkungen von Menardus Eisnacensis (auch Menardus Monachus genannt) auf Blatt [cc₁] recto - [cc₄] verso, nach dem Kolophon    
+500      |a Impressum gemäss Kolophon (Blatt cccclxi verso; Reihenfolge der Vorlage: "Anno incarnat[i]onis d[omi]nice. Millesimoquadringentesimoseptuagesimooctauo. Mai v[er]o k[a]l[endris] octauodecimo ... insigne veteris nouiq[ue] testamenti opus. cum canonib[us] eua[n]gelistarumq[ue] concordantiis. In laude[m] [et] gloriam Sancte ac indiuidue trinitatis. Intemerate virginisq[ue] marie imp[re]ssum. In oppido Nurnberg[e]n. per Antoniu[m] Coburger prefati oppidi incolam industria cui[us] q[uam] dilige[n]tissime fabrefactum. finit feliciter."    
+500      |a Signaturformel: [a¹², b–y¹⁰, z⁶, A⁶, B–N¹⁰, O-P⁶, Q–S¹⁰, T-V⁸, X–Z¹⁰, aa-bb¹⁰, cc⁶]    
+500      |a Blatt [a₁] recto (erste Seite) unbedruckt    
+500      |a Druckvariante: Blatt i ist nur als ".j." bezeichnet, "fol." davor fehlt, anders als im (sonst satzidentischen) Exemplar der Bayerischen Staatsbibliothek München    
+505 0 0  |g Blatt [cc₁] (hinter Blatt cccclxi)    |t [V]enerabili viro domino Jacobo de ÿsenaco. Menard[us] solo nomine monachus vtina[m] [christ]i seruus. Rogatus nuper a vobis ... aliqua[m] gneralem [et] [com]pe[n]diosam libro[rum] biblie [con]scriberem noticia[m]    
+510 4    |a BSB-Ink    |c B-429    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-429.html    
+510 4    |a GW    |c 4232    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW04232.htm    
+510 4    |a ISTC    |c ib00557000    |u http://data.cerl.org/istc/ib00557000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00041349/image_8    
+561      |a Stempel auf vorderem fliegenden Blatt: "Dr. Zesiger"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun) mit Schliessen und Eck- sowie Mittelbeschlägen mit blau gefärbter Pergamentunterlage, Linien- und Stempel-Blindprägung auf beiden Deckeln und auf dem Rücken    
+563      |a Vorsätze: Vorne und hinten mit zwei fliegenden Blättern, Spiegel vorne und hinten mit Pergament-Makulatur eines Choralbuchs    
+563      |a Masse: 42.7 x 31.5 x 13.2 cm    
+563      |a Zustand Einband: Lederüberklebungen aus Ziegenleder am Rücken und den Deckelkanten mit nachgebilderter Blindprägung, vereinzelt Lederunterlegung an Bundstellen im vorderen Falz, hinten Unterlegung der Lederüberklebung mit Lederfasern, Lederüberklebung an den Bundstellen in beiden Fälzen bereits wieder gebrochen, mit Fehlstellen im Reparaturleder, hoch stehende Fragmente im Überklebungsleder an den Häubchen, Brüche im versteiften Leder entlang der Beschläge im hinteren Falz, Kittungen mit Lederfasern am Vorderdeckel neben dem unteren Hakenteil    
+590      |a Buchblockbeschreibung: 468 von 468 Blättern; handschriftliche Lagensignatur in Graphit (Nummerierung, jeweils auf der ersten Seite jeder Lage, 20. Jahrhundert), sowie grösstenteils Nummerierung der ersten Blätter jeder Lage in Rot (wahrscheinlich schon vom Rubrizierer); Pergamentverstärkung (Manuskriptmakulatur) in den Lagenmitten, Pergamentfalz nach fliegenden Blättern gehört zum nachträglich eingefügten Pergamentspiegel des Vorderdeckels (siehe Entsprechung am Rückdeckel); auf Blättern i, iv und ccxxxiiii recto mehrfarbig auszeichnete Initialen mit Blütenranken, sonst rot, teilweise schwarz und rot ausgezeichnete Initialen; Rubrizierung    
+590      |a Zustand Buchblock: Tintenfrass-Problematik an mit Tinte ausgezeichneten Initialen (zum Beispiel Blätter [i₁] und [k₁]); Blatt [a₂]: angelöstes und verteiltes Pinselgold an Schmuckinitiale durch später ausgeführten Farbauftrag mit blauviolettem Farbmittel, Ausbrüche an blauvioletten Farbaufträgen im unteren Blattbereich    
+590      |a Bindefehler: Blatt ccxciiii ([H₁]) hinter Blatt cccxiii ([I₁₀]) und Blatt ccccxxiii ([Z₁]) hinter Blatt ccccli ([aa₁₀]) eingebunden    
+590      |a Signaturformel der handschriftlichen Lagensignatur: 1¹², 2–22¹⁰, 23⁶, 24⁶, 25–36¹⁰, 37-38⁶, 39-41¹⁰, 42-43⁸, 44–46¹⁰, 47-48¹⁰, 49⁶ (Blatt 31₁ hinter 32₁₀ und Blatt 46₁ hinter 47₁₀ eingebunden)    
+590      |a Unter dem Kolophon (Blatt cccclxi verso) handschriftliche bibliographische Notizen in Tinte aus dem 19. Jahrhundert    
+590      |a Historische Signatur unter dem Stempel von Zesiger auf vorderem fliegenden Blatt: "F IV 324"    
+700 1    |a Hieronymus, Sophronius Eusebius    |d 345-420    |0 (DE-588)118550853    |e Übersetzer    |e Verfasser von ergänzendem Text    |4 trl    |4 wst    
+700 0    |a Menardus    |c Eisnacensis    |0 (DE-588)102518688    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Koberger, Anton    |d 1440-1513    |0 (DE-588)118563890    |e Drucker    |4 prt    
+700 1    |a Zesiger, Werner    |d 1902-1958    |0 (DE-588)121027392    |e Früherer Eigentümer    |4 fmo    
+751      |a Nürnberg    |0 (DE-588)4042742-0    
+852 4    |b B404    |c 404U3    |j MUE Zesk 6    |9 (41SLSP_UBE)99116902455605511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Zesk 6    |b B404    |9 (41SLSP_UBE)99116902455605511    
+986      |a (41SLSP_UBE)99116902455605511    |9 (41SLSP_UBE)99116902455605511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116902455605511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,138 @@
+﻿<-1-1-START->
+Dal Maino, Giasone
+<-1-1-STOP->
+
+<-1-2-START->
+Epithalamium in nuptiis Maximiliani regis et Blancae Mariae. — Brant, Sebastian: Epithalamion
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Brief an Hippolitus Celestinus von Cornelius Niger, datiert Kempten 17.04.1494, und Versen von Jakob Wimpfeling (Distichum in Blancham Mariam)<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Basel: Johann Bergmann, nicht vor 17.04.1494]
+<-3-1-STOP->
+
+<-4-1-START->
+28 ungezählte Seiten: Holzschnittinitiale; 23 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_M-52.html<-L-5-STOP-><-VI-5-START->BSB-Ink M52<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M22387.htm<-L-5-STOP-><-VI-5-START->GW M22387<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/im00401900<-L-5-STOP-><-VI-5-START->ISTC im00401900<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+14 von 14 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband (braun, Schaf) auf Holzdeckeln mit mittiger Schliesse, Linien- sowie Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 4 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116682068205511<-L-11-STOP-><-VI-11-START->MUE Inc IV 31 : 5<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991031476009705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Dal Maino, Giasone<-P-STOP->
+<-P-START->Brant, Sebastian<-P-STOP->
+<-P-START->Wimpfeling, Jakob<-P-STOP->
+<-P-START->Niger, Cornelius<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Bergmann, Johann<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991031476009705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 31 : 5<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03776nam a2200565 c 4500
+001 991031476009705501
+005 20211215162216.0
+008 160906s1494    sz |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/02.09.2016/B404/az    
+035      |a (swissbib)070300283-41slsp_network    
+035      |a 070300283    |9 ExL    
+035      |a (IDSBB)006619192DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991031476009705501    
+035      |a (41SLSP_UBE)99116682068205511    |9 (41SLSP_UBE)99116682068205511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Dal Maino, Giasone    |d 1435-1519    |0 (DE-588)10037381X    |e Verfasser    |4 aut    
+240 1 0  |a Epithalamium in nuptiis Maximiliani regis et Blancae Mariae    
+245 1 0  |a Oratio Jasonis nitidissima in sanctissimu[m] matrimonium fœlicissimasq[ue] nuptias Maximiliani regis & Blance̜ Marie̜ Regine̜ Romanorum    |b ; Earundem Faustarum nuptiarum Epithalamion Sebastiani Brant    
+246 1    |i Titel gemäss GW    |a Epithalamion in nuptias Maximiliani regis et Blanchae Mariae reginae Romanorum    
+246 1    |i Titel in normalisierter Form    |a Oratio Iasonis nitidissima in sanctissimum matrimonium foelicissimasque nuptias Maximiliani regis et Blancae Mariae Reginae Romanorum    
+264   1  |a [Basel]    |b [Johann Bergmann]    |c [nicht vor 17. April 1494]    
+300      |a 28 ungezählte Seiten    |c 23 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Brief an Hippolitus Celestinus von Cornelius Niger, Kempten 1494.04.17, und Versen von Jakob Wimpfeling (Distichum in Blancham Mariam)    
+500      |a Druckort, Drucker und Druckjahr gemäss GW, BSB-Ink und ISTC    
+500      |a Letzte Seite unbedruckt    
+500      |a Signaturformel: a⁸, b⁶    
+510 4    |a BSB-Ink    |c M52    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_M-52.html    
+510 4    |a GW    |c M22387    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M22387.htm    
+510 4    |a ISTC    |c im00401900    |u http://data.cerl.org/istc/im00401900    
+530      |a Digitalisat (Exemplar der Universitätsbibliothek Basel)    |u http://dx.doi.org/10.3931/e-rara-14782    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband (braun, Schaf) auf Holzdeckeln mit mittiger Schliesse, Linien- sowie Ornamentstempel-Blindprägung auf beiden Deckeln, drei Titel in Tintenschrift auf vorderem Holzdeckel, 4. Titelangabe durch Auskratzen getilgt    
+563      |a Vorsätze: jeweils mit einem fliegenden Blatt    
+563      |a Masse Einband: 22.6 x 16.5 x 3.1    
+563      |a Zustand Einband: Lederüberklebungen am Einband mit Ergänzung der Blindprägung, Schliesse restauriert (Hakenteil inkl. Schliessenriemen und -plättchen sowie Nieten am Ösenteil ergänzt), Vorsätze im Falz verstärkt    
+563      |a Detaillierte Beschreibung im Inkunabel-Einbandkatalog (Lindt/Mülinen)    
+563      |a Zustand Buchblock: vereinzelt Frasslöcher    
+590      |a Buchblockbeschreibung: Lagensignatur gedruckt    
+590      |a Masse Buchblock: 21.5 x 15.4 x 0.2 cm    
+590      |a Detaillierte Beschreibung Buchblock im Inkunabel-Einbandkatalog (Lindt/Mülinen)    
+590      |a Zusammengebunden mit 4 weiteren Drucken in Sammelband    
+700 1 2  |a Dal Maino, Giasone    |d 1435-1519    |t Epithalamium in nuptiis Maximiliani regis et Blancae Mariae    |0 (DE-588)113310875X    
+700 1    |a Brant, Sebastian    |d 1458-1521    |0 (DE-588)118514474    |e Verfasser    |4 aut    
+700 1 2  |a Brant, Sebastian    |d 1458-1521    |t Epithalamion    |0 (DE-588)1133109586    
+700 1    |a Wimpfeling, Jakob    |d 1450-1528    |0 (DE-588)118769189    |e Mitwirkender    |4 ctb    
+700 1    |a Niger, Cornelius    |d ca. 15. Jh.    |0 (DE-588)129047414    |e Mitwirkender    |4 ctb    
+700 1    |a Bergmann, Johann    |d 1455-1532    |0 (DE-588)128982918    |e Drucker    |4 prt    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 31 : 5    |9 (41SLSP_UBE)99116682068205511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc IV 31 : 5    |b B404    |9 (41SLSP_UBE)99116682068205511    
+986      |a (41SLSP_UBE)99116682068205511    |9 (41SLSP_UBE)99116682068205511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116682068205511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

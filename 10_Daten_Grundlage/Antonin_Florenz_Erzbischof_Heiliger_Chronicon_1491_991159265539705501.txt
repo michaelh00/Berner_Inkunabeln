@@ -1,0 +1,141 @@
+﻿<-1-1-START->
+Antonin (Erzbischof von Florenz)
+<-1-1-STOP->
+
+<-1-2-START->
+Chronicon
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Epitaph auf Antonin am Ende von Teil 3<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Basel: Nicolaus Kessler, 10.02.1491
+<-3-1-STOP->
+
+<-4-1-START->
+3 Bände; 31 cm (2°)
+<-500-START->Band 1: 22 ungezählte Seiten, 1 ungezähltes Blatt, 4 ungezählte Seiten, CCXV Blätter, 1 ungezähltes Blatt, 9 ungezählte Seiten, 1 ungezähltes Blatt; Band 2: 21 ungezählte Seiten, 1 ungezähltes Blatt, 4 ungezählte Seiten, CCXLI, das heisst CCXL Blätter, 10 ungezählte Seiten, 1 ungezähltes Blatt<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-565.html<-L-5-STOP-><-VI-5-START->BSB-Ink A-565<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW02074.htm<-L-5-STOP-><-VI-5-START->GW 02074<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ia00780000<-L-5-STOP-><-VI-5-START->ISTC ia00780000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+Band 1: 235 von 236 Blättern, Band 2: 259 von 260 Blättern, rot, gold und mit brauner Tinte ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+2 ganzbezogene Ledereinbände auf Kartondeckeln (braun, Schaf, 18. Jahrhundert), Ornamentrollen-Blindprägung auf jeweils beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Teil 1 zusammengebunden mit: Fasciculus temporum / Werner Rolevinck. [Basel]: Bernhard Richel, 1482
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Teil 3 und die unbedruckten Blätter Pp₆ und b₆ fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116685184205511<-L-11-STOP-><-VI-11-START->MUE Inc I 97 : 1:1 und MUE Inc I 97 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991159265539705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Antonin (Erzbischof von Florenz)<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Kessler, Nicolaus<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991159265539705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 97 : 1:1 und MUE Inc I 97 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05674nam a2200601 ca4500
+001 991159265539705501
+005 20211215195751.0
+008 171101s1491    sz |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/01.11.2017/B404/faf    
+035      |a (swissbib)075077477-41slsp_network    
+035      |a 075077477    |9 ExL    
+035      |a (IDSBB)006744548DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991159265539705501    
+035      |a (41SLSP_UBE)99116685184205511    |9 (41SLSP_UBE)99116685184205511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Antonin    |c Florenz, Erzbischof, Heiliger    |d 1389-1459    |0 (DE-588)118897489    |e Verfasser    |4 aut    
+240 1 0  |a Chronicon    
+245 1 0  |a Prima [-Tertia] pars historialis venerabilis domini Antonini    
+246 1    |i Explicit von Teil 1    |a Prima p[ar]s hystorialis d[omi]ni Antonini archiep[iscop]i flore[n]tini ordinis p[re]dicato[rum] finit feliciter. Laus deo    
+246 1    |i Explicit von Teil 2    |a Finit feliciter s[e]c[un]da pars historialis d[omi]ni Anthonini archiep[iscop]i flore[n]tini    
+246 1    |i Explicit von Teil 3    |a Finit feliciter tertia p[ar]s historial[is] d[omi]ni Antonini Archiep[iscop]i florentini vsq[ue] ad t[em]p[or]a sua: morte p[re]ue[n]tus non plura absoluit    
+246 1    |i Explicit von Teil 3 in normalisierter Form    |a Finit feliciter tertia pars historialis domini Antonini archiepiscopi Florentini usque ad tempora sua: morte preventus non plura absolvit    
+246 1    |i Kolophon    |a Perfectu[m] atq[ue] finitum est opus excellentissimum trium partiu[m] historialiu[m] seu Cronice d[omi]ni Antonini archiep[iscop]i Flore[n]tini cum suis registris    
+264   1  |a In Basilea    |b p[er] Nicolaum Keßler ciuem Basiliensem    |c Anno incarnate deitatis. M.ccccxcj. decima die Februarij [10.02.1491]    
+300      |a 3 Bände    |c 31 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Jeder Teil mit Summarium, Inhaltsverzeichnis und Register, Epitaph auf Antonin am Ende von Teil 3    
+500      |a Impressum gemäss Kolophon am Ende von Teil 3; Reihenfolge der Vorlage: "In Basilea. Anno incarnate deitatis. M.ccccxcj. decima die Februarij p[er] Nicolaum Keßler ciuem Basiliensem."    
+500      |a Umfang Band 1: 22 ungezählte Seiten, 1 ungezähltes Blatt, 4 ungezählte Seiten, CCXV Blätter, 1 ungezähltes Blatt, 9 ungezählte Seiten, 1 ungezähltes Blatt; Band 2: 21 ungezählte Seiten, 1 ungezähltes Blatt, 4 ungezählte Seiten, CCXLI, das heisst CCXL Blätter, 10 ungezählte Seiten, 1 ungezähltes Blatt; Band 3: 22 ungezählte Seiten, 1 ungezähltes Blatt, 4 ungezählte Seiten, CCLVI Blätter, 8 ungezählte Seiten, 2 ungezählte Blätter    
+500      |a Foliierungsfehler in Band 2: Blattzahl CCXIII ausgelassen, einige weitere Fehler    
+500      |a Signaturformel Band 1: A-B⁶, C–F⁸, G–Z⁶, Aa–Pp⁶; Band 2: a-b⁶, c⁸, d–r⁶, [rundes r]⁶, [langes s]⁶, s–v⁶, u-z⁶, [et]⁶, [con]⁶, [ter]⁶, [rum]⁶, aA–nN⁶; Band 3: AA-BB⁶, cc⁸, dd–zz⁶, [et][et]⁶, [con][con]⁶, [ter][ter]⁶, AA–RR⁶, SS¹⁰, TT⁶    
+500      |a Die Blätter B₆, Oo₆, Pp₆, b₆, nN₆, BB₆, TT₅ und TT₆ sind unbedruckt    
+510 4    |a BSB-Ink    |c A-565    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-565.html    
+510 4    |a GW    |c 02074    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW02074.htm    
+510 4    |a ISTC    |c ia00780000    |u http://data.cerl.org/istc/ia00780000    
+530      |a Digitalisat (Exemplar der Universitätsbibliothek Basel)    |u http://dx.doi.org/10.3931/e-rara-15860    
+563      |a Einbandbeschreibung: 2 ganzbezogene Ledereinbände auf Kartondeckeln (braun, Schaf, 18. Jh.), Ornamentrollen-Blindprägung auf jeweils beiden Deckeln, Linien-Blindprägung sowie Titelschild in Goldprägung jeweils auf dem Rücken    
+563      |a Vorsätze: Jeweils vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einbände: 30.9 x 22.8 x 6.5 cm (Band 1), 30 x 22.6 x 5.3 cm (Band 2)    
+563      |a Zustand Einbände: Schäden am Einbandleder, Fehlstellen im Einbandleder auf den Kartondeckeln farbig retuschiert, Vorsätze im Falz mit Japanpapier verstärkt    
+590      |a Buchblockbeschreibung: Band 1: 235 von 236 Blättern, Band 2: 259 von 260 Blättern, rot, gold und mit brauner Tinte ausgezeichnete Initialen, Rubrizierung    
+590      |a Zustand Buchblöcke: In Band 1 rotes Farbmittel der Initialauszeichnung und Rubrizierung stark abriebempfindlich mit zahlreichen Verwischungen (z.B. Blätter der Lagen Kk-Ll), in Band 2 Schädlingsfrass mit geringem Textverlust    
+590      |a Unvollständiges Exemplar: Teil 3 und die unbedruckten Blätter Pp₆ und b₆ fehlen    
+590      |a Wenige handschriftliche Annotationen, An- und Unterstreichungen in Tinte    
+590      |a Bindefehler in Band 2: Blätter CXLVI-CXLIX ([et]₂-[et]₅] an der Stelle der Blätter XCII-XCV ([rundes r]₂-[rundes r]₅) eingebunden und umgekehrt    
+590      |a Teil 1 zusammengebunden mit: Fasciculus temporum / Werner Rolevinck. Basel : Richel, 1482    
+590      |a Historische Signatur auf vorderem Spiegel von Band 1: "H. Eccl. 32."; auf vorderem Spiegel von Band 2: "H. Eccl. 33."    
+590      |a Frühere Signatur: Inc 315    
+700 1    |a Kessler, Nicolaus    |d 1445-1519    |0 (DE-588)137735677    |e Drucker    |4 prt    
+700 0 2  |a Antonin    |c Florenz, Erzbischof, Heiliger    |d 1389-1459    |t Chronicon    |0 (DE-588)1120531284    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc I 97 : 1    |9 (41SLSP_UBE)99116685184205511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |h MUE Inc I 97 : 2    |q Pars 2    |p 12    |j MUE Inc I 97 : 1    |b B404    |9 (41SLSP_UBE)99116685184205511    
+949      |c 404U3    |z Zusammengebunden mit 1 weiteren Druck in Sammelband    |h MUE Inc I 97 : 1:1    |q Pars 1    |p 12    |j MUE Inc I 97 : 1    |b B404    |9 (41SLSP_UBE)99116685184205511    
+986      |a (41SLSP_UBE)99116685184205511    |9 (41SLSP_UBE)99116685184205511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116685184205511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,140 @@
+﻿<-1-1-START->
+Horatius Flaccus, Quintus
+<-1-1-STOP->
+
+<-1-2-START->
+Werke [lateinisch]
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Gedicht auf Horaz von Angelo Poliziano und Vorrede an Guido Feltrius, Vita des Horaz und Kommentar von Cristoforo Landino<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Bernardino Stagnino, 1486
+<-3-1-STOP->
+
+<-4-1-START->
+CLXXVIII Blätter; 32 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_H-365.html<-L-5-STOP-><-VI-5-START->BSB-Ink H-365<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW13462.htm<-L-5-STOP-><-VI-5-START->GW 13462<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ih00450000<-L-5-STOP-><-VI-5-START->ISTC ih00450000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+178 von 178 Blättern, teilweise Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jahrhundert), Ornamentrollen-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Nicolaus Artopoeus
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116690060905511<-L-11-STOP-><-VI-11-START->MUE Artopoeus 18<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991059433659705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Horatius Flaccus, Quintus<-P-STOP->
+<-P-START->Landino, Cristoforo<-P-STOP->
+<-P-START->Poliziano, Angelo<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Stagnino, Bernardino<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Artopoeus, Nicolaus<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991059433659705501<-DOI-STOP->
+<-SIGN-START->MUE Artopoeus 18<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04244nam a2200589 c 4500
+001 991059433659705501
+005 20211215175307.0
+008 980605s1486    it            00| | lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/03.01.2018/B404/faf    
+035      |a (swissbib)031628060-41slsp_network    
+035      |a 031628060    |9 ExL    
+035      |a (IDSBB)001516537DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991059433659705501    
+035      |a (41SLSP_UBE)99116690060905511    |9 (41SLSP_UBE)99116690060905511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Horatius Flaccus, Quintus    |d v65-v8    |0 (DE-588)118553569    |e Verfasser    |4 aut    
+240 1 0  |a Werke    
+245 1 0  |a Christophori Landini Florentini In Qu. Horatii Flacci Libros Omnes Ad Illvstrissimvm Gvidonem Feltrivm Magni Federici Dvcis Filivm Interpretationes Incipivnt Foeliciter    
+246 1    |i Titel in normalisierter Form    |a Christophori Landini Florentini in Qu. Horatii Flacci libros omnes ad illustrissimum Guidonem Feltrium magni Federici ducis filium interpretationes incipiunt foeliciter    
+246 1    |i Incipit    |a Ad Horativm Flaccvm Ode Dicolos Tetrastrophos Angeli Politiani    
+246 1    |i Incipit in normalisierter Form    |a Ad Horatium Flaccum ode dicolos tetrastrophos Angeli Politiani    
+246 1    |i Titel gemäss BSB-Ink, GW und ISTC    |a Opera    
+264   1  |a Imp[re]ssu[m] uenetiis    |b p[er] magistru[m] Bernardinu[m] de tridino ex mo[n]teserrato    |c Anno salutis .M.cccc.lxxxvi. [1486]    
+300      |a CLXXVIII Blätter    |c 32 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Gedicht auf Horaz von Angelo Poliziano und Vorrede an Guido Feltrius, Vita des Horaz und Kommentar von Cristoforo Landino    
+500      |a Keine Titelseite, Titel gemäss Incipit des Vorworts    
+500      |a Impressum gemäss Kolophon    
+500      |a Signaturformel: a–x⁸, y¹⁰    
+510 4    |a BSB-Ink    |c H-365    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_H-365.html    
+510 4    |a GW    |c 13462    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW13462.htm    
+510 4    |a ISTC    |c ih00450000    |u http://data.cerl.org/istc/ih00450000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0005/bsb00054110/images    
+561      |a Handschriftlicher Besitzvermerk auf Blatt a₁ recto: "Su[m] Nicólai Artopoei Balingij"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jh.), Ornamentrollen-Blindprägung auf beiden Deckeln, Linien-Blindprägung sowie Titelschild in Goldprägung ("Horatius") auf dem Rücken, dazu handschriftlich: "1486. Ven:"    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 31.5 x 22.1 x 4 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, Fragmente am Rückdeckel zum Teil zurückgeklebt    
+590      |a Buchblockbeschreibung: 178 von 178 Blättern, vorgesehene Stellen für Initialen frei gelassen, teilweise Rubrizierung    
+590      |a Zustand Buchblock: Riss an Blatt a₁ verso mit Pergament hinterklebt sowie recto mit Spuren einer vormaligen Verklebung, Spuren abgelöster Blattweiser (Leder, braun) an Blättern a₄ und f₃    
+590      |a Zahlreiche handschriftliche Annotationen und Unterstreichungen in Tinte (teils beschnitten) von Artopoeus und anderen Händen    
+590      |a Historische Signatur auf Blatt a₁ recto: "Poet 35"    
+590      |a Frühere Signaturen: Inc 180; Inc III 33    
+700 1    |a Landino, Cristoforo    |d 1424-1498    |0 (DE-588)118569112    |e Kommentarverfasser    |e Herausgeber    |4 wac    |4 edt    
+700 1    |a Poliziano, Angelo    |d 1454-1494    |0 (DE-588)118595512    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Stagnino, Bernardino    |d 14XX-15XX    |0 (DE-588)118975854    |e Drucker    |4 prt    
+700 1    |a Artopoeus, Nicolaus    |d 1500-1553    |0 (DE-588)128632380    |e Früherer Eigentümer    |e Annotierende Person    |4 fmo    |4 ann    
+700 1 2  |a Horatius Flaccus, Quintus    |d v65-v8    |t Werke    |0 (DE-588)1149752793    
+700 1 2  |a Landino, Cristoforo    |d 1424-1498    |t In Q. Horatii Flacci libros omnes interpretationes    |0 (DE-588)114982865X    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Artopoeus 18    |9 (41SLSP_UBE)99116690060905511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc III 33    |c 404U3    |p 12    |j MUE Artopoeus 18    |b B404    |9 (41SLSP_UBE)99116690060905511    
+986      |a (41SLSP_UBE)99116690060905511    |9 (41SLSP_UBE)99116690060905511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116690060905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

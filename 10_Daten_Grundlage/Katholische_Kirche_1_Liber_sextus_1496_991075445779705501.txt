@@ -1,0 +1,166 @@
+﻿<-1-1-START->
+Katholische Kirche, 1294-1303 : Bonifatius VIII.
+<-1-1-STOP->
+
+<-1-2-START->
+Liber sextus. — Katholische Kirche, 1305-1314 : Klemens V.: Clementinen. — Extravaganten
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Enthält zu Beginn: Johannes Andreae: Super arboribus consanguinitatis et affinitatis<-500-STOP->
+<-500-START->Glosse und Additiones von Johannes Andreae, Johannes Monachus, Guido de Baysio und Hieronymus Clarius, sowie den Summaria und Divisiones von Johannes Andreae, Dominicus de Sancto Geminiano und anderer (GW, ISTC)<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Lyon]: Jacobinus Suigus und Nicolas de Benedictis, 28.07.1496
+<-3-1-STOP->
+
+<-4-1-START->
+128, 57 Blätter, 1 ungezähltes Blatt: Druckermarke; 43 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW04896.htm<-L-5-STOP-><-VI-5-START->GW 04896<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib01009500<-L-5-STOP-><-VI-5-START->ISTC ib01009500<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+186 von 186 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Kartondeckeln (braun, Kalb, 18./19. Jahrhundert) mit flächig eingefärbtem Papier (grün), Linien-Blindprägung
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Heiliggeistspital Bern
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116762049905511<-L-11-STOP-><-VI-11-START->MUE Inc III 4<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991075445779705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Brant, Sebastian<-P-STOP->
+<-P-START->Bonifatius VIII. (Papst)<-P-STOP->
+<-P-START->Klemens V. (Papst)<-P-STOP->
+<-P-START->Johannes Andreae<-P-STOP->
+<-P-START->Chiari, Girolamo<-P-STOP->
+<-P-START->Johannes Monachus<-P-STOP->
+<-P-START->Guido de Baisio<-P-STOP->
+<-P-START->Dominicus de Sancto Geminiano<-P-STOP->
+<-P-START->Katholische Kirche, 1294-1303 : Bonifatius VIII.<-P-STOP->
+<-P-START->Katholische Kirche, 1305-1314 : Klemens V.<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Lyon<-O-STOP->
+<-P-START->Suigus, Jacobinus<-P-STOP->
+<-O-START->Lyon<-O-STOP->
+<-P-START->Benedictis, Nicolas de<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Heiliggeistspital Bern<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991075445779705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 4<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06350nam a2200745 c 4500
+001 991075445779705501
+005 20230207134349.0
+007 cr#|||||||||||
+008 170628s1496    fr |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/28.06.2017/B404/vha    
+024 7    |a 10.3931/e-rara-91812    |2 doi    
+035      |a (swissbib)070580480-41slsp_network    
+035      |a 070580480    |9 ExL    
+035      |a (IDSBB)006710216DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991075445779705501    
+035      |a (41SLSP_UBE)99116762049905511    |9 (41SLSP_UBE)99116762049905511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+245 0 0  |a Sextus [et] clementine    |b cum certis additionibus [et] glosulis antiquis Joan. andree [et] Jo. monachi ac archidia coni suis in locis nouiter additis    
+246 1    |i Titel in normalisierter Form    |a Sextus et Clementine    |b cum certis additionibus et glosulis antiquis Joan. Andree et Jo. Monachi ac archidia coni suis in locis noviter additis    
+246 1    |i Titel in moderner Orthografie    |a Sextus et Clementinae    
+264   1  |a [Lyon]    |b Impressum per Jacobinum suigum    |c Anno domimi. Mccccxcvj. die. xxviij. iulij. [28.07.1496]    
+300      |a 128, 57 Blätter, 1 ungezähltes Blatt    |c 43 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+337      |b c    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+338      |b cr    |2 rdacarrier    
+500      |a Glosse und Additiones von Johannes Andreae, Johannes Monachus, Guido de Baysio und Hieronymus Clarius, sowie den Summaria und Divisiones von Johannes Andreae, Dominicus de Sancto Geminiano und anderer (GW, ISTC)    
+500      |a Drucker und Erscheinungsdatum gemäss Kolophon am Ende des ersten Teils    
+500      |a "Impressum per magistrum Jacobinu[m] suigum de sancto germano in pedemonte vercellensis diocesis [et] Nicholaum de benedictis eius socium" - Kolophon am Ende des zweiten Teils (folio 57)    
+500      |a Druckermarke in Rotdruck auf folio 57 verso    
+500      |a Signaturformel: a-q⁸; A-E⁸, F-H⁶    
+500      |a Blatt A₁ recto ist die Titelseite zum zweiten Teil, nur mit dem Titelwort "Clementine." (in Rotdruck), Blatt A₁ verso unbedruckt    
+500      |a Blatt H₆ (letztes Blatt) unbedruckt    
+500      |a Titelseite sowie Teile des Texts, Initialen und Absatzzeichen in Rotdruck    
+505 0 0  |g Teil 1, Blatt a₂ verso - a₃ verso (folio [2] und [3])    |t [Super arboribus consanguinitatis et affinitatis]    |r [Johannes Andreae; Herausgeber: Sebastian Brant]    |g Textüberschrift Teil 1, folio 4    |t Sexti libri decretaliu[m] in concilio lugdunen[sis]    |r p[er] Bonifacium octauu[m] editi co[m]pilatio illustrata cum summulis diuisionib[us] d[omi]nici de sancto geminiano ac quibusda[m] aliis additio[n]ibus ex nouella Jo. an. oportunis i[n] locis: vigili lucubrat[i]o[n]e in vrbe lugdu. exarata    |g Titelblatt Teil 2, Blatt A₁ (folio [1])    |t Clementine    |g Incipit Teil 2, folio 2    |t Incipiunt constitutiones clementis pape quinti, vna cum apparatu. d[omi]ni Joa[n]nis andree    |g Incipit Teil 2, folio 50    |t Incipiunt decretales extrauagantes que emanarunt post sextu[m]    |r [Mit Vorwort des Herausgebers Hieronymus Clarius]    
+510 4    |a GW    |c 04896    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW04896.htm    
+510 4    |a ISTC    |c ib01009500    |u http://data.cerl.org/istc/ib01009500    
+561      |a Auf der Titelseite handschriftlich neben dem Titel: "HG" (Heiliggeist-Spital in Bern?)    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Kartondeckeln (braun, Kalb, 18./19. Jahrhundert) mit flächig eingefärbtem Papier (grün), Linien-Blindprägung sowie Titelschild in Goldprägung auf dem Rücken: "Sextus et Clementin", darunter in Tinte: "1497."(!)    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 42,3 x 31,1 x 4,8 cm    
+563      |a Zustand Einband: Lederfragmente an den Ecken zurück geklebt, Vorsätze mit Papierstreifen verstärkt, im vorderen Spiegel eingeklebtes Blatt Papier (ca. 13 x 20,5 cm), evtl. Entwurf zu einer Urkunde, mit Datum vom 11.05.1520 in Lausanne; genannt sind Fridericus Blachardus, der ein Haus von einem Herrn Jacobus de Monte Falcone gemietet oder gekauft habe, und die nun im Streit sind über den Betrag von 9 Gulden, die am Michaelstag zu bezahlen wären; darunter in Graphit: "Das Blatt diente zu diesem Buch als Buchzeichen, ich habe es eingeklebt. Lindt 1966."    
+590      |a Buchblockbeschreibung: 186 von 186 Blättern, vorgesehene Stellen für Initialen (soweit sie nicht gedruckt sind) freigelassen    
+590      |a Zustand Buchblock: zum Teil starke Feuchtigkeitsränder    
+590      |a Historische Signatur auf der Titelseite (Blatt a₁ recto): "Jus. Pol. 30"    
+590      |a Frühere Signatur: Inc 14    
+700 1    |a Brant, Sebastian    |d 1458-1521    |0 (DE-588)118514474    |e Herausgeber    |4 edt    
+700 0    |a Bonifatius    |b VIII.    |c Papst    |d 1230-1303    |0 (DE-588)118513257    |e Auftraggeber    |4 pat    
+700 0    |a Klemens    |b V.    |c Papst    |d 1250-1314    |0 (DE-588)118723529    |e Auftraggeber    |4 pat    
+700 0    |a Johannes    |c Andreae    |d 1270-1348    |0 (DE-588)119244071    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Chiari, Girolamo    |0 (DE-588)119642271    |e Herausgeber    |e Verfasser von ergänzendem Text    |4 edt    |4 wst    
+700 0    |a Johannes    |c Monachus    |d 1250-1313    |0 (DE-588)119307405    |e Verfasser von ergänzendem Text    |4 wst    
+700 0    |a Guido    |c de Baisio    |d -1313    |0 (DE-588)100964893    |e Verfasser von ergänzendem Text    |4 wst    
+700 0    |a Dominicus    |c de Sancto Geminiano    |d -1424    |0 (DE-588)100965466    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Suigus, Jacobinus    |d ca. 15. Jh.    |0 (DE-588)129072052    |e Drucker    |4 prt    
+700 1    |a Benedictis, Nicolas <<de>>    |d 14XX-1519    |0 (DE-588)1037552652    |e Drucker    |4 prt    
+700 0 2  |a Johannes    |c Andreae    |d 1270-1348    |t Super arboribus consanguinitatis et affinitatis    |0 (DE-588)108804333X    
+710 2    |a Heiliggeistspital Bern    |0 (DE-588)1203150342    |e Früherer Eigentümer    |4 fmo    
+710 0 2  |a Katholische Kirche    |b Papst    |g 1294-1303 : Bonifatius VIII.    |t Liber sextus    |0 (DE-588)4581170-2    
+710 0 2  |a Katholische Kirche    |b Papst    |g 1305-1314 : Klemens V.    |t Clementinen    |0 (DE-588)4691099-2    
+730 0 2  |a Extravaganten    |0 (DE-588)4529672-8    
+751      |a Lyon    |0 (DE-588)4036770-8    
+852 4    |b B404    |c 404U3    |j MUE Inc III 4    |9 (41SLSP_UBE)99116762049905511    
+856 4    |u https://doi.org/10.3931/e-rara-91812    |z Digitalisat in e-rara    
+900      |a IDSIxunikat    
+900      |a IDSIxhybrid-el    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc III 4    |b B404    |9 (41SLSP_UBE)99116762049905511    
+986      |a (41SLSP_UBE)99116762049905511    |9 (41SLSP_UBE)99116762049905511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116762049905511    
+990      |f erarabe    |9 local    |9 (41SLSP_UBE)99116762049905511    
+990      |f lza-cc0    |9 local    |9 (41SLSP_UBE)99116762049905511    
+991      |a AAK: 109747    |5 IZ UBE/28.06.2017/B404/vha    |9 local    |9 (41SLSP_UBE)99116762049905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

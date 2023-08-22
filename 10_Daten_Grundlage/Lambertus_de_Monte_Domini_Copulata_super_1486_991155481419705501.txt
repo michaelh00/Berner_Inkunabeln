@@ -1,0 +1,147 @@
+﻿<-1-1-START->
+Lambertus de Monte Domini
+<-1-1-STOP->
+
+<-1-2-START->
+Copulata super tres libros Aristotelis De anima iuxta doctrinam Thomae de Aquino
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Köln]: [Konrad Welker], 1486
+<-500-START->Gemäss Voulliéme gedruckt von Welker mit Typen Diederich Molners<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+5 ungezählte Seiten, lxxxix Blätter; 29 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_L-31.html<-L-5-STOP-><-VI-5-START->BSB-Ink L-31<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M16771.htm<-L-5-STOP-><-VI-5-START->GW M16771<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/im00836000<-L-5-STOP-><-VI-5-START->ISTC im00836000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+92 von 92 Blättern, rot ausgezeichnete Anfangsinitiale (Blatt i recto) und Initiale auf Blatt lv verso, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun, Kalb) mit mittiger Schliesse sowie Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, Buchbinder: Johannes Vatter
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Dominikanerkloster Bern
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 2 weiteren Drucken und 1 Handschrift in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116736765105511<-L-11-STOP-><-VI-11-START->MUE Inc IV 77 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991155481419705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Lambertus de Monte Domini<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Köln<-O-STOP->
+<-P-START->Welker, Konrad<-P-STOP->
+<-O-START->Köln<-O-STOP->
+<-P-START->Diederich Molner<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-P-START->Vatter, Johannes<-P-STOP->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Dominikanerkloster Bern<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991155481419705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 77 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06069nam a2200649 c 4500
+001 991155481419705501
+005 20211215193645.0
+008 151111s1486    gw            00| | ger d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/11.11.2015/B400/az    
+035      |a (swissbib)06696363X-41slsp_network    
+035      |a 06696363X    |9 ExL    
+035      |a (IDSBB)006450385DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991155481419705501    
+035      |a (41SLSP_UBE)99116736765105511    |9 (41SLSP_UBE)99116736765105511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Lambertus    |c de Monte Domini    |d 1430-1499    |0 (DE-588)100975704    |e Verfasser    |4 aut    
+240 1 0  |a Copulata super tres libros Aristotelis De anima iuxta doctrinam Thomae de Aquino    
+245 1 0  |a Notata diligenter visa et p[er]uigili cura auscultata circa tres libros de Anima Arestotilis. Laberti de mo[n]te artium magistri ac sacre theologie p[ro]fessoris iuxta doctrina[m] insignis et sancti doctoris Thome de Aquino ordinis fratrum p[re]dicatorum. Expliciunt feliciter    
+246 1    |i Incipit (Haupttext)    |a Circa inicium libri de A[n]i[m]a Queritur primo ...    
+246 1    |i Incipit (Tabula)    |a Incipiunt tituli questionum triu[m] libro[rum] de anima s[ecundu]m nu[meru]m folio[rum] assignati. post quos ponuntur autoritates. et figura que pri[n]cipalem materia[m] totius libri in se comprehendit ...    
+246 1    |i Titel gemäss BSB-Ink    |a Copulata super tres libros De anima Aristotelis iuxta doctrinam Thomae Aquinatis    
+246 1    |i Titel gemäss GW    |a Copulata super tres libros De anima Aristotelis    
+246 1    |i Titel in normalisierter Form    |a Notata diligenter visa et pervigili cura auscultata circa tres libros de anima Arestotilis Laberti de Monte artium magistri ac sacre theologie professoris iuxta doctrinam insignis et sancti doctoris Thome de Aquino ordinis fratrum predicatorum. Expliciunt feliciter    
+264   1  |a [Köln]    |b [Konrad Welker]    |c Anno d[omi]ni. Mcccc.lxxxvi. [1486]    
+300      |a 5 ungezählte Seiten, lxxxix Blätter    |c 29 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Inhaltsverzeichnis und tabellarischem Überblick    
+500      |a Keine Titelseite, Titel und Druckjahr gemäss Explicit    
+500      |a Druckort und Drucker gemäss BSB-Ink, GW und ISTC; gemäss Voulliéme gedruckt von Welker mit Typen Diederich Molners    
+500      |a Signaturformel: []³, a⁵, B-J⁸, K⁶, L⁸, M⁶    
+500      |a Blatt a₁ recto ist unbedruckt    
+510 4    |a BSB-Ink    |c L-31    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_L-31.html    
+510 4    |a GW    |c M16771    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M16771.htm    
+510 4    |a ISTC    |c im00836000    |u http://data.cerl.org/istc/im00836000    
+530      |a Digitalisat (Exemplar der Universitäts- und Landesbibliothek Darmstadt)    |u http://tudigit.ulb.tu-darmstadt.de/show/inc-iii-86    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun, Kalb) mit mittiger Schliesse sowie Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, blindgeprägtes Titelschild am Rücken: "De Mont[e] In Lib Arlis" (Aristotelis); darüber auf dem Rücken in Tinte: "de Monte Jn lib. Arles"; unter dem Titelschild in Tinte: "1494 Colon. Agripp"    
+563      |a Auf dem Vorderdeckel Pergamentschild mit Titel in Tinte: "Textus ethi[corum] Q[uaesti]o[ne]s lamb[er]ti de a[n]i[m]a [et] u[er]so[ris] sup[er] p[ar]ua na[tura]lia"    
+563      |a Vorsätze: vorne mit 3 fliegenden Blättern (Pergament und Papier) und hinten mit einem fliegenden Blatt (Pergament); im vorderen und hinteren Spiegel Makulatur einer mittelalterlichen Handschrift; Pergamentblätter vorne und hinten handschriftlich in Tinte mit lateinischem Text beschrieben; auf erstem fliegenden Blatt aus Papier die Titel der enthaltenen Bücher: "Text[us] Ethicoru[m] aristo[te]lis ...[?] lamb[er]t[us] sup[er] d[e] a[n]i[m]a ...[?] Joh[ann]is v[er]soris sup[er] p[ar]ua na[tura]lia"    
+563      |a Masse Einband: 28.1 x 19.6 x 5.6 cm    
+563      |a Zustand Einband: Loch am Rückdeckel von vormaliger Ankettung, Lederüberklebungen am Rücken mit Titelergänzung, beide Pergamentspiegel hoch gelöst    
+563      |a Gemäss Lindt Einband des Berner Dominikanermönchs Johannes Vatter (Johann Lindt: Berner Einbände, Buchbinder und Buchdrucker. Bern, 1969. Seite 50)    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 92 von 92 Blättern, Lagen zum Teil aus zwei unterschiedlichen Papierqualitäten zusammengestellt; rot ausgezeichnete Anfangsinitiale (Blatt i recto) und Initiale auf Blatt lv verso, vorgesehene Stellen für Initialen auf den Blättern xii recto, [xiv] recto und lxii recto frei gelassen; Rubrizierung    
+590      |a Zustand Buchblock: Verfleckungen mit rotem Farbmittel an rotem Farbmittel    
+590      |a Wenige handschriftliche Annotationen und Textmarkierungen am Rand in Tinte    
+590      |a Zusammengebunden mit 2 weiteren Drucken und 1 Handschrift in Sammelband    
+590      |a Vorweg gebunden sind 46 Blätter Pergament, davon 44 mit einer mittelalterlichen Handschrift beschrieben, die Rückseite von Blatt [44] sowie die letzten beiden Seiten eng beschrieben mit einem lateinischen Text (15. Jahrhundert?)    
+590      |a Dublette: Inc II 70 : 2    
+590      |a Frühere Signatur: Inc 79    
+700 1    |a Welker, Konrad    |0 (DE-588)136160883    |e Drucker    |4 prt    
+700 0    |a Diederich    |c Molner    |d ca. 15. Jh.    |0 (DE-588)137426046    |e Drucker    |4 prt    
+700 1    |a Vatter, Johannes    |d 1470-1509    |0 (DE-588)1114426377    |e Buchbinder    |4 bnd    
+700 0 2  |a Lambertus    |c de Monte Domini    |d 1430-1499    |t Copulata super tres libros Aristotelis De anima iuxta doctrinam Thomae de Aquino    |0 (DE-588)112231275X    
+710 2    |a Dominikanerkloster Bern    |0 (DE-588)4302674-6    |e Früherer Eigentümer    |4 fmo    
+751      |a Köln    |0 (DE-588)4031483-2    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 77 : 2    |9 (41SLSP_UBE)99116736765105511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 2 weiteren Drucken und 1 Handschrift in Sammelband    |p 12    |j MUE Inc IV 77 : 2    |b B404    |9 (41SLSP_UBE)99116736765105511    
+986      |a (41SLSP_UBE)99116736765105511    |9 (41SLSP_UBE)99116736765105511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116736765105511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

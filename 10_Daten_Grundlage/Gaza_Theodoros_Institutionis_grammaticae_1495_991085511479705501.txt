@@ -1,0 +1,153 @@
+﻿<-1-1-START->
+Gaza, Theodoros
+<-1-1-STOP->
+
+<-1-2-START->
+Institutionis grammaticae libri IV [griechisch]; Peri mēnōn [griechisch]. — Bios Apollōniu Alexandreōs tu grammatiku [griechisch]. — Apollonius Dyscolus: De constructione [griechisch]. — Herodianus, Aelius: De notis numerorum [griechisch]
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Vorrede an den Leser von Aldo Pio Manuzio<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Aldo Pio Manuzio, 25.12.1495
+<-500-START->Druckvariante entspricht dem Exemplar der Österreichischen Nationalbibliothek, nicht jenen aus München und Zürich, siehe Blatt AΑ₁ recto<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+175, 35, 183 ungezählte Seiten: Holzschnittinitialen; 33 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_G-47.html<-L-5-STOP-><-VI-5-START->BSB-Ink G-47<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW10562.htm<-L-5-STOP-><-VI-5-START->GW 10562<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ig00110000<-L-5-STOP-><-VI-5-START->ISTC ig00110000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+198 von 198 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf) mit Spuren von Verschlussbändern (Leder), Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116683005805511<-L-11-STOP-><-VI-11-START->MUE Bong IV 855<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991085511479705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Gaza, Theodoros<-P-STOP->
+<-P-START->Apollonius Dyscolus<-P-STOP->
+<-P-START->Herodianus, Aelius<-P-STOP->
+<-P-START->Manuzio, Aldo Pio<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Manuzio, Aldo Pio<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991085511479705501<-DOI-STOP->
+<-SIGN-START->MUE Bong IV 855<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05493nam a2200697 c 4500
+001 991085511479705501
+005 20220309100449.0
+008 100615s1495    it            00| | grc  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/13.03.2019/B404/faf    
+035      |a (swissbib)063722208-41slsp_network    
+035      |a 063722208    |9 ExL    
+035      |a (IDSBB)005246035DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991085511479705501    
+035      |a (41SLSP_UBE)99116683005805511    |9 (41SLSP_UBE)99116683005805511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+041 0    |a grc    |a lat    
+245 0 0  |a Theodori Introductiuæ gra[m]matices libri quatuor    |b ; Eiusdem de Mensibus opusculum sanequa[m]pulchtu[m]. Apollonii gra[m]matici de constructione libri quatuor. Herodianus de numeris    
+246 1    |i Beginn der Titelseite    |a In hoc uolumine haec insunt. Theodori Introductiuæ gra[m]matices libri quatuor ...    
+246 1    |i Titelseite in normalisierter Form    |a In hoc volumine haec insunt. Theodori introductivæ grammatices libri quatuor. Eiusdem de mensibus opusculum sanequampulchtum. Apollonii grammatici de constructione libri quatuor. Herodianus de numeris    
+246 1    |i Titel gemäss BSB-Ink und ISTC    |a Grammatica introductiva    
+246 1    |i Titel gemäss GW    |a Introductio grammaticae etc    
+264   1  |a Impressum Venetiis    |b in ædibus Aldi Romani    |c octauo Calendas Ianuarias M.CCCCLXXXXV. [25.12.1495]    
+300      |a 175, 35, 183 ungezählte Seiten    |c 33 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Druckvariante entspricht dem Exemplar der Österreichischen Nationalbibliothek, nicht jenen aus München und Zürich, siehe Blatt AΑ₁ recto    
+500      |a Mit Vorrede an den Leser von Aldo Pio Manuzio, einer Vita des Apollonius Dyscolus, einem Inhaltsverzeichnis zu "De constructione" und einem Privileg des venezianischen Senats    
+500      |a Impressum gemäss Kolophon    
+500      |a Signaturformel: a⁸, bβ-kκ⁸, lΛ⁸, a⁸, b¹⁰, AΑ-HΘ, II-LL⁸, MM⁴    
+500      |a Blatt 1. a₁ ohne Lagensignatur, Blatt 1. a₂ mit α statt a    
+500      |a Holzschnittinitialen    
+505 0 0  |t Theodōru Grammatikēs Eisagōgēs Tōn Eis Tessara To Prōton    |t Theodōru Peri Mēnōn    |t Bios Apollōniu Alexandreōs Tu Grammatiku    |t Apollōniu Alexandreōs Peri Syntaxeōs Biblion Prōton    |t Hērōdianu Peri Tōn Arithmōn    
+510 4    |a BSB-Ink    |c G-47    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_G-47.html    
+510 4    |a GW    |c 10562    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW10562.htm    
+510 4    |a ISTC    |c ig00110000    |u http://data.cerl.org/istc/ig00110000    
+530      |a Digitalisat (Exemplar der Österreichischen Nationalbibliothek)    |u http://data.onb.ac.at/dtl/2379853    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf) mit Spuren von Verschlussbändern (Leder), Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, Titelschild in Goldprägung auf dem Rücken: "Theodori Introduct Gram[m]atices Libri Quat"    
+563      |a Vorsätze: Vorne mit 2 und hinten mit 3 fliegenden Blättern    
+563      |a Masse Einband: 32.7 x 22.1 x 4 cm    
+563      |a Zustand Einband: Verschlussbänder fehlend, Einbandleder verschwärzt mit zahlreichen Schäden, Lederüberklebungen am Rücken und beiden Deckeln, Manipulation an beiden Spiegeln    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 198 von 198 Blättern, Pergamentverstärkung aussen an beiden Vorsätzen (Velours, Makulatur)    
+590      |a Zustand Buchblock: Feuchtigkeitsränder am Vorderschnitt    
+590      |a Zahlreiche handschriftliche Annotationen in Tinte; Kaufvermerk in Tinte auf vorderem Spiegel    
+590      |a Einbandfragmente aus diesem Band in der Burgerbibliothek, Signatur BBB Cod. 847.14 (Notariatsurkunden, hs., 6 Fragm., franz., 15. Jht.)    
+590      |a Historische Signatur auf vorderem Spiegel: "Lit. 242." (über älterer Signatur); auf erstem vorderem fliegendem Vorsatzblatt recto: "N° 85"; auf Titelseite: "Lit A. 93."    
+590      |a Frühere Signaturen: Inc 240; Inc II 38; VII 11    
+700 1    |a Gaza, Theodoros    |d 1398-1476    |0 (DE-588)11882497X    |e Verfasser    |4 aut    
+700 0    |a Apollonius    |c Dyscolus    |d ca. 2. Jh.    |0 (DE-588)118645471    |e Verfasser    |4 aut    
+700 1    |a Herodianus, Aelius    |d ca. 2. Jh.    |0 (DE-588)11870379X    |e Verfasser    |4 aut    
+700 1    |a Manuzio, Aldo Pio    |d 1450-1515    |0 (DE-588)118577387    |e Verfasser eines Vorworts    |4 wpr    
+700 1    |a Manuzio, Aldo Pio    |d 1450-1515    |0 (DE-588)118577387    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 1 2  |a Gaza, Theodoros    |d 1398-1476    |t Institutionis grammaticae libri IV    |0 (DE-588)1088045227    
+700 1 2  |a Gaza, Theodoros    |d 1398-1476    |t Peri mēnōn    |0 (DE-588)1180537866    
+700 0 2  |a Apollonius    |c Dyscolus    |d ca. 2. Jh.    |t De constructione    |0 (DE-588)4524879-5    
+700 1 2  |a Herodianus, Aelius    |d ca. 2. Jh.    |t De notis numerorum    |0 (DE-588)1180541669    
+730 0    |a Bios Apollōniu Alexandreōs tu grammatiku    |0 (DE-588)1180547004    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Bong IV 855    |9 (41SLSP_UBE)99116683005805511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc II 38    |c 404U3    |p 12    |j MUE Bong IV 855    |b B404    |9 (41SLSP_UBE)99116683005805511    
+986      |a (41SLSP_UBE)99116683005805511    |9 (41SLSP_UBE)99116683005805511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116683005805511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116683005805511    
+991      |a Bongars: 05851, 00539, 07130    |5 IZ UBE/B400/15.06.2010    |9 local    |9 (41SLSP_UBE)99116683005805511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

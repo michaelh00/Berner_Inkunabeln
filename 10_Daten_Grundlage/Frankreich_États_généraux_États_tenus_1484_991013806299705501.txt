@@ -1,0 +1,143 @@
+﻿<-1-1-START->
+Frankreich, États généraux
+<-1-1-STOP->
+
+<-1-2-START->
+États tenus à Tours en février 1483/4
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Das Werk besteht aus zwei Ansprachen von Jean de Rély sowie weiteren Beiträgen<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Paris: Jean Du Pré, nicht vor 23.03.1484]
+<-500-START->GW datiert "um 1489" wie bei Pellechet<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+110 ungezählte Seiten; 25 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M28372.htm<-L-5-STOP-><-VI-5-START->GW M28372<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ie00111700<-L-5-STOP-><-VI-5-START->ISTC ie00111700<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+38 von 56 Blättern (plus 2 zusätzliche)
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Pergamenteinband auf Kartondeckeln (17./18. Jahrhundert) mit durchzogenen Bünden und Stosskanten, Spuren von Verschlussbändern
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 5 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Die Lagen b, ee und f und das Doppelblatt d₃ und d₆ fehlen, dafür ist ein zweites Doppelblatt d₄ und d₅ eingebunden
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116682951305511<-L-11-STOP-><-VI-11-START->MUE Bong IV 881 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991013806299705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Frankreich, États généraux<-P-STOP->
+<-P-START->Johannes de Reli<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Paris<-O-STOP->
+<-P-START->Du Pré, Jean<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991013806299705501<-DOI-STOP->
+<-SIGN-START->MUE Bong IV 881 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04426nam a2200577 c 4500
+001 991013806299705501
+005 20230207112503.0
+008 100611s1484    fr            00| | fre  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/19.12.2019/B404/faf    
+035      |a (swissbib)063551713-41slsp_network    
+035      |a 063551713    |9 ExL    
+035      |a (IDSBB)005244528DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991013806299705501    
+035      |a (41SLSP_UBE)99116682951305511    |9 (41SLSP_UBE)99116682951305511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+110 1    |a Frankreich    |b États généraux    |0 (DE-588)212555-9    |e Verfasser    |4 aut    
+245 1 0  |a [États tenus à Tours en février 1483/4]    
+246 1    |i Incipit    |a Cest lordre qui a este gardee a tours pour appeller deuant le roy nostre souuerain seigneur ceulx des troys estatz de ce royaume    
+246 1    |i Incipit in normalisierter Form    |a Cest lordre qui a este gardee a Tours pour appeller devant le roy nostre souverain seigneur ceulx des troys estatz de ce royaume    
+264   1  |a [Paris]    |b [Jean Du Pré]    |c [nicht vor 23.03.1484]    
+300      |a 110 ungezählte Seiten    |c 25 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Das Werk besteht aus zwei Ansprachen von Jean de Rély sowie weiteren Beiträgen    
+500      |a Keine Titelseite, Titel gemäss ISTC    
+500      |a Impressum gemäss ISTC; GW datiert "um 1489" wie bei Pellechet    
+500      |a Auf Blatt E₆ recto: "Collacion par nous faicte auec loriginal en ceste forme en papier signe. J. Robertet. le xxiii. iour de mars. Mil quatre cens quatre vingtz et troys auant pasques. Ainsi signe P Delmaye. et P Des moulins."    
+500      |a Signaturformel: a-b⁸, c⁴, d-e⁸, ee⁴, E⁶, f⁴, g⁶    
+500      |a Eine Druckvariante hat auf dem ersten Blatt der Lage E die Signatur h₁, und die Lage ist ans Ende versetzt (siehe Exemplar der Bibliothèque Sainte-Geneviève, Paris)    
+500      |a Seite a₁ recto ist unbedruckt    
+510 4    |a GW    |c M28372    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M28372.htm    
+510 4    |a ISTC    |c ie00111700    |u http://data.cerl.org/istc/ie00111700    
+530      |a Digitalisat (Exemplar der Real Biblioteca de Madrid)    |u http://www.patrimonionacional.es/fotos/biblioteca/ibis/pmi/II_00078/index(3).html    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Ganzbezogener Pergamenteinband auf Kartondeckeln (17./18. Jh.) mit durchzogenen Bünden und Stosskanten, Spuren von Verschlussbändern    
+563      |a Vorsätze: Vorne und hinten mit zwei fliegenden Blättern    
+563      |a Masse Einband: 24.2 x 18.9 x 2.7 cm    
+563      |a Zustand Einband: Verklebung des Pergamentes an den Deckeln manipuliert, Spiegel und fliegendes Blatt vorne und hinten ergänzt (siehe Vermerk von J. Lindt mit Datumsangabe auf dem Schuber), Verschlussbänder ganz fehlend    
+590      |a Buchblockbeschreibung: 38 von 56 Blättern (plus 2 zusätzliche), Verbräunungen an den letzten Blättern der Lagen sowie Falzspuren an den Blättern und Schädlingsfrass an Blatt E₆ weisen auf Umlaufeinheiten der Lagen in geknicktem Zustand hin: Lagen a und c zusammen, d, e, E und g einzeln    
+590      |a Zustand Buchblock: Zum Teil starke Verbräunung und Verfleckung, massiver Schädlingsfrass mit grossem Textverlust an Blatt E₆    
+590      |a Unvollständiges Exemplar: Die Lagen b, ee und f und die Blätter d₃ und d₆ fehlen    
+590      |a Bindefehler: Anstelle des fehlenden Doppelblatts d₃ + d₆ ist ein zweites Doppelblatt d₄ + d₅ eingebunden    
+590      |a Handschriftliche bibliographische Notizen in Tinte und Graphit auf Blatt a₁ recto; wenige handschriftliche Annotationen und Unterstreichungen in Tinte und Graphit    
+590      |a Zusammengebunden mit 5 weiteren Drucken in Sammelband    
+590      |a Frühere Signaturen: Inc 523; Inc III 88; iii R 25    
+700 0    |a Johannes    |c de Reli    |d 1430-1499    |0 (DE-588)102535604    |e Verfasser    |4 aut    
+700 1    |a Du Pré, Jean    |d 14XX-1504    |0 (DE-588)103757382X    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+710 2 2  |a Frankreich    |b États généraux    |t États tenus à Tours en février 1483/4    |0 (DE-588)1201844770    
+751      |a Paris    |0 (DE-588)4044660-8    
+852 4    |b B404    |c 404U3    |j MUE Bong IV 881 : 2    |9 (41SLSP_UBE)99116682951305511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc III 88 : 2    |c 404U3    |z Zusammengebunden mit 5 weiteren Drucken in Sammelband    |p 12    |j MUE Bong IV 881 : 2    |b B404    |9 (41SLSP_UBE)99116682951305511    
+986      |a (41SLSP_UBE)99116682951305511    |9 (41SLSP_UBE)99116682951305511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116682951305511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116682951305511    
+991      |a Bongars: 05500    |5 IZ UBE/B400/11.06.2010    |9 local    |9 (41SLSP_UBE)99116682951305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

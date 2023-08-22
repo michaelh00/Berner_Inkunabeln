@@ -1,0 +1,136 @@
+﻿<-1-1-START->
+Giovanni Sulpizio da Veroli
+<-1-1-STOP->
+
+<-1-2-START->
+De arte grammatica
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Vorrede des Autors an Angelus Lupus (Bischof von Tivoli) und Gedichten des Autors an die Leser und an Aulus<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Basel: Johann Amerbach, um 1480]
+<-3-1-STOP->
+
+<-4-1-START->
+172 ungezählte Seiten; 22 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_S-624.html<-L-5-STOP-><-VI-5-START->BSB-Ink S-624<-VI-5-STOP->; <-L-5-START->http://gesamtkatalogderwiegendrucke.de/docs/M44311.htm<-L-5-STOP-><-VI-5-START->GW M44311<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/is00833000<-L-5-STOP-><-VI-5-START->ISTC ISTC is00833000<-VI-5-STOP->; <-VI-5-START->Hain15142<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+86 von 86 Blättern, rot und blau ausgezeichnete Initialen; Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (rot eingefärbt, Ziege) mit mittiger Langriemenschliesse sowie Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Kloster Thorberg
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116750566805511<-L-11-STOP-><-VI-11-START->MUE Inc IV 52<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991022498319705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Giovanni Sulpizio da Veroli<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Amerbach, Johannes<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Kloster Thorberg<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991022498319705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 52<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03782nam a2200565 c 4500
+001 991022498319705501
+005 20211215172843.0
+008 130510s1480    sz            00| | lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/24.07.2014/B400/vha    
+035      |a (swissbib)06652380X-41slsp_network    
+035      |a 06652380X    |9 ExL    
+035      |a (IDSBB)006124870DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991022498319705501    
+035      |a (41SLSP_UBE)99116750566805511    |9 (41SLSP_UBE)99116750566805511    
+040      |a SzZuIDS BS/BE B400    |e rda    |d CH-ZuSLS    
+100 0    |a Giovanni Sulpizio    |c da Veroli    |d 1444-1503    |0 (DE-588)123890241    |e Verfasser    |4 aut    
+240 1 0  |a De arte grammatica    
+245 1 0  |a Sulpitij verulani examen    |b ; Sulpitij verulani de nominum declinatio[n]e opusculu[m] co[n]pendium ...    
+246 1    |i Textbeginn Examen (a₂ recto)    |a Gramatica est recte loquele recteque scripture scientia origo et fons omnium liberalium artium    
+246 1    |i Textbeginn Vorrede (a₁ verso)    |a Amplissimo longeque reverendo patri et domino domino Angelo pontifici Tyburtino et in Agro Piceno vicelegato dignissimo Sulpitius Verulanus cum plurima commendatione foelicitatem    
+246 1    |i Titel gemäss BSB-Ink und ISTC    |a De arte grammatica, sive De octo partibus orationis    
+246 1    |i Titel gemäss GW    |a Grammatica latina    
+264   1  |a [Basel]    |b [Johann Amerbach]    |c [circa 1480]    
+300      |a 172 ungezählte Seiten    |c 22 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Vorrede des Autors an Angelus Lupus, Bischof von Tivoli, Perugia und Gedichten des Autors an die Leser und an Aulus    
+500      |a Impressum gemäss BSB-Ink, GW und ISTC    
+500      |a Signaturformel: a¹⁰, b-f⁸, g⁴, h-l⁸    
+510 4    |a BSB-Ink    |c S-624    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_S-624.html    
+510 4    |a GW    |c M44311    |u http://gesamtkatalogderwiegendrucke.de/docs/M44311.htm    
+510 4    |a ISTC    |c ISTC is00833000    |u http://data.cerl.org/istc/is00833000    
+510 4    |a Hain    |c 15142    
+530      |a Digitalisat (Exemplar der Universitätsbibliothek Basel)    |u http://www.e-rara.ch/doi/10.3931/e-rara-16602    
+561      |a Thorberger Einband    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (rot eingefärbt, Ziege) mit mittiger Langriemenschliesse sowie Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentstempel- Blindprägung auf beiden Deckeln    
+563      |a Vorsätze: keine fliegenden Blätter    
+563      |a Masse Einband: 21.8 x 15.3 x 3.8 cm    
+563      |a Zustand Einband: rote Lederfärbung grösstenteils abgerieben bzw. ausgeblichen, Loch mit Rostabdruck von vormaliger Ankettung, Langriemenschliesse ergänzt    
+563      |a Detaillierte Beschreibung im Inkunabel-Einbandkatalog (Lindt/Mülinen)    
+590      |a Buchblockbeschreibung: 86 von 86 Blättern; Blatt a₁ auf Spiegel geklebt; rot und blau ausgezeichnete Initialen; Rubrizierung    
+590      |a Bindefehler: Die Blätter i₃₋₄ befinden sich vor Blatt i₁, Blatt l₃ befindet sich vor Blatt l₂, und Blatt l₇ vor Blatt l₆    
+590      |a Eine handschriftliche Annotation in Tinte (Blatt h₈ verso)    
+590      |a Historische Signatur auf vorderem Spiegel: "Lit: 538"; auf Blatt a₂ recto: "Lit 453"    
+700 0 2  |a Giovanni Sulpizio    |c da Veroli    |d 1444-1503    |t De arte grammatica    |0 (DE-588)1143057163    
+700 1    |a Lupus, Angelus    |d -1485    |0 (DE-588)129040932    |e Widmungsempfänger    |4 dte    
+700 1    |a Amerbach, Johannes    |d 1440-1513    |0 (DE-588)123073189    |e Drucker    |4 prt    
+710 2    |a Kloster Thorberg    |0 (DE-588)7725716-9    |e Früherer Eigentümer    |4 fmo    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 52    |9 (41SLSP_UBE)99116750566805511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc IV 52    |b B404    |9 (41SLSP_UBE)99116750566805511    
+986      |a (41SLSP_UBE)99116750566805511    |9 (41SLSP_UBE)99116750566805511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116750566805511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

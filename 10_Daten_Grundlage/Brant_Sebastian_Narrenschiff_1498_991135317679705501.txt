@@ -1,0 +1,152 @@
+﻿<-1-1-START->
+Brant, Sebastian
+<-1-1-STOP->
+
+<-1-2-START->
+Das Narrenschiff [lateinisch]
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Lateinischer Titel: Stultifera navis; Übersetzung von Jakob Locher<-500-STOP->
+<-500-START->Mit Vorrede, Briefen an den Autor (datiert Freiburg 01.02.1497) und den Drucker (Freiburg 1497) von Jakob Locher, sowie Gedichten von Jakob Locher, Sebastian Brant und Thomas Beccadelli<-500-STOP->
+<-500-START->Gemäss BSB-Ink Holzschnitte von Albrecht Dürer, vom Meister des Haintz Narr und anderen<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Basel] : Johann Bergmann, 1498
+<-500-START->Erscheinungsjahr auf der Titelseite; Datierung gemäss Kolophon: 01.04.1498<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+CLIX, das heisst CLXIII Blätter, 1 ungezähltes Blatt: 117 Illustrationen: Druckermarke; 22 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-821.html<-L-5-STOP-><-VI-5-START->bsb-ink B-821<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW05062.htm<-L-5-STOP-><-VI-5-START->GW 5062<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib01091000<-L-5-STOP-><-VI-5-START->ISTC ib01091000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+164 von 164 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Flexibler Pergamenteinband (17. Jahrhundert) mit durchzogenen Bünden und Stosskanten
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Wilhelm Stettler; Jacob Spengler; Johannes Spirer
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Doctor Brants Narrenschiff. [Basel]: Nicolaus Lamparter de Baslea, 1509
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116928047805511<-L-11-STOP-><-VI-11-START->MUE Inc IV 68 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991135317679705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Brant, Sebastian<-P-STOP->
+<-P-START->Beccadelli, Thomas<-P-STOP->
+<-P-START->Locher, Jakob<-P-STOP->
+<-P-START->Dürer, Albrecht<-P-STOP->
+<-P-START->Meister des Haintz Narr<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Bergmann, Johann<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Stettler, Wilhelm<-P-STOP->
+<-P-START->Spengler, Jacob<-P-STOP->
+<-P-START->Spirer, Johannes<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991135317679705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 68 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05264nam a2200637 c 4500
+001 991135317679705501
+005 20211215200007.0
+008 180228s1498    sz ||||| |||| 00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/28.02.2018 /B404/az    
+035      |a (swissbib)073344575-41slsp_network    
+035      |a 073344575    |9 ExL    
+035      |a (IDSBB)006778043DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991135317679705501    
+035      |a (41SLSP_UBE)99116928047805511    |9 (41SLSP_UBE)99116928047805511    
+040      |a SzZuIDS BS/BE B400    |e rda    |d CH-ZuSLS    
+041 1    |a lat    |h ger    
+100 1    |a Brant, Sebastian    |d 1458-1521    |0 (DE-588)118514474    |e Verfasser    |4 aut    
+240 1 0  |a <<Das>> Narrenschiff    
+245 1 0  |a Stultifera navis    |b narragonice perfectionis nunquam satis laudata navis    |c per Sebastianum Brant: vernaculo vulgarique sermone & rhythmo, pro cunctorum mortalium fatuitatis semitas effugere cupientium directione, speculo, commodoque & salute: proque inertis ignavaeque stulticiae perpetua infamia, execratione, & confutatione, nuper fabricata ; atque iampridem per Iacobum Locher cognomento Philomusum: Suevum in Latinum traducta eloquium ; & per Sebastianum Brant: denuo seduloque revisa, & nova quadam exactaque emendatione elimata atque super additis quibusdam novis admiram disque fatuorum generibus suppleta: foelici exorditur principio    
+250      |a Denuo seduloque revisa, & nova quadam exactaque emendatione elimata atque super additis quibusdam novis admiram disque fatuorum generibus suppleta    
+264   1  |a [Basel]    |b Io. de Olpe.    |c 1498    
+300      |a CLIX, das heisst CLXIII Blätter, 1 ungezähltes Blatt    |b 117 Illustrationen    |c 22 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Lateinische Übersetzung von Jacobus Locher Philomusus; mit 2 Gedichten von Thomas Beccadelli; Holzschnitte zum Theil von Albrecht Dürer    
+500      |a Titel gemäss Titelseite    
+500      |a Impressum gemäss Titelseite: "1498. Nihil sine causa. Io. de Olpe." und Kolophon: "In laudatissima Germaniae urbe Basiliensi: nuper opera & promotione Iohannis Bergman de Olpe anno salutis nostrae. M.CCCCXCVIII Kalendas Martii."    
+500      |a Mit Druckermarke (Blatt CLVI verso)    
+500      |a "Unter Mitarbeit und mit weiteren Zusätzen des Autors aus dem Dt. übers. und ergänzt von Jakob Locher. Mit Vorrede, Brief an den Autor, Freiburg 1.2.1497, und an den Drucker, Freiburg 1497, und Gedichten u.a. an die Leser, den Autor und den Drucker von Jakob Locher, vom Autor an Locher und von Thomas Beccadellus an Thomas Wolf, den Autor und den Drucker. Holzschnitte von Albrecht, vom Meister des Haintz Narr u.a." (BSB-Ink)    
+500      |a Signaturformel: a-s⁸, ſ-y⁴    
+500      |a Das Blatt y₄ ist unbedruckt    
+510 4    |a bsb-ink    |c B-821    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-821.html    
+510 4    |a GW    |c 5062    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW05062.htm    
+510 4    |a ISTC    |c ib01091000    |u http://data.cerl.org/istc/ib01091000    
+561      |a Exlibris auf vorderem Spiegel: "Scand/it ad astra/labor" (Wilhelm Stettler, Wegmann 6847) mit handschriftlichem Besitzvermerk "Wilhelm Stettler 1695."    
+561      |a Handschriftlicher Besitzvermerk auf Blatt a₁ recto des zusammengebunden Werkes: "Jacob Spengler glasmahler 1698 Jan."    
+561      |a Handschriftlicher Besitzvermerk auf erstem vorderem fliegendem Vorsatzblatt recto: (teilweise nicht zu entziffern) ... Ausgabe ... Zarncke, Leipzig bei Georg ... ... 1854, 26.70    
+561      |a Handschriftlicher Besitzvermerk auf Blatt a₁ recto: "Johannes Spirer"    
+563      |a Einbandbeschreibung: Flexibler Pergamenteinband (17. Jh.) mit durchzogenen Bünden und Stosskanten    
+563      |a Vorsätze: jeweils 2 fliegende Blätter    
+563      |a Masse Einband: 21.6 x 15.7 x 5.5 cm    
+563      |a Zustand Einband: Vorsätze mit Japanpapier ergänzt, vorderes Vorsatz im Falz verstärkt    
+590      |a Buchblockbeschreibung: 164 von 164 Blättern, keine Rubrizierung    
+590      |a Zustand Buchblock: fleckig; Zeichnungen in Tinte, Graphit und Stift auf Blatt y₄    
+590      |a Notizen zu Sebastian Brant auf zweitem vorderem fliegendem Vorsatzblatt verso, Zitat aus einer Beschreibung von Heinrich Pantaleon; darunter von anderer Hand "Trithemi[us] Script: Johannes Trithemius Abbas Spanheimensis"    
+590      |a Zusammengebunden mit: Doctor Brants Narrenschiff. - [Basel] : Nicolaus Lamparter de Baslea, 1509    
+590      |a Historische Signatur auf vorderem Deckel: "122" und auf zweitem vorderem fliegendem Vorsatzblatt: "Poet 83"    
+700 1 2  |a Brant, Sebastian    |d 1458-1521    |t <<Das>> Narrenschiff    |0 (DE-588)4245841-9    
+700 1    |a Beccadelli, Thomas    |d 15. Jh.    |0 (DE-588)108980685X    |e Mitwirkender    |4 ctb    
+700 1    |a Locher, Jakob    |d 1471-1528    |0 (DE-588)118780247    |e Übersetzer    |4 trl    
+700 1    |a Bergmann, Johann    |d 1455-1532    |0 (DE-588)128982918    |e Drucker    |4 prt    
+700 1    |a Stettler, Wilhelm    |d 1643-1708    |0 (DE-588)124488536    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Spengler, Jacob    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Spirer, Johannes    |e Früherer Eigentümer    |4 fmo    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 68 : 2    |9 (41SLSP_UBE)99116928047805511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 1 weiteren Druck in Sammelband    |p 12    |j MUE Inc IV 68 : 2    |b B404    |9 (41SLSP_UBE)99116928047805511    
+986      |a (41SLSP_UBE)99116928047805511    |9 (41SLSP_UBE)99116928047805511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116928047805511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

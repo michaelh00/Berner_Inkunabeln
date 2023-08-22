@@ -1,0 +1,161 @@
+﻿<-1-1-START->
+Suda
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Das vermutlich aus mehreren Autoren kompilierte Lexikon wurde bis ins 20. Jahrhundert fälschlich einem nicht belegten Autor namens Suida(s) zugeschrieben, was wohl auf eine Fehlinterpretation des Titels "Suda" (Festung, Schanzwerk) zurückgeht<-500-STOP->
+<-500-START->Herausgegeben und verlegt von Dēmētrios Chalkokondylēs<-500-STOP->
+<-500-START->Mit griechischem "Dialogos" von Stephanus Niger, zwei lateinischen Epigrammen von Antonius Motta, einem lateinischen Brief von Giovanni Maria Cattaneo an Albertus Pius, Fürst von Carpi, sowie zwei lateinischen Gedichten von Johannes Salandus an den Herausgeber und "ad lectorem"<-500-STOP->
+<-500-START->Text griechisch, ausser dem Kolophon und den lateinischen Beigaben<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Mailand: Giovanni Bissoli und Benedetto Dolcibelli del Mangio für Dēmētrios Chalkokondylēs, 15.11.1499
+<-3-1-STOP->
+
+<-4-1-START->
+1031 ungezählte Seiten: Druckermarke; 39 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_S-606.html<-L-5-STOP-><-VI-5-START->BSB-Ink S-606<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M44268.htm<-L-5-STOP-><-VI-5-START->GW M44268<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/is00829000<-L-5-STOP-><-VI-5-START->ISTC is00829000<-VI-5-STOP->; <-VI-5-START->Ineichen, Elisabeth: Standort-Katalog "Hospinian". [Bern : Stadt- und Universitätsbibliothek, 1972]<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+514 von 516 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen, Linien- und Ornamentrollen- und Ornamentstempel-Blindpräung an beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Leonhard Wirth
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Blätter Η₆ und Η₇ fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116759237405511<-L-11-STOP-><-VI-11-START->MUE Hospinian 12<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991115360229705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Suida<-P-STOP->
+<-P-START->Chalkokondylēs, Dēmētrios<-P-STOP->
+<-P-START->Niger, Stephanus<-P-STOP->
+<-P-START->Cattaneo, Giovanni Maria<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Mailand<-O-STOP->
+<-P-START->Chalkokondylēs, Dēmētrios<-P-STOP->
+<-O-START->Mailand<-O-STOP->
+<-P-START->Bissoli, Giovanni<-P-STOP->
+<-O-START->Mailand<-O-STOP->
+<-P-START->Dolcibelli del Mangio, Benedetto<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Wirth, Leonhard<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991115360229705501<-DOI-STOP->
+<-SIGN-START->MUE Hospinian 12<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05915nam a2200745uc 4500
+001 991115360229705501
+005 20220324155729.0
+008 990731s1499    it            00| | grc d
+019      |a Altbestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von Signaturen    |5 IDSBB/21.01.1997/bestub/mes    
+019      |a Nach Vorlage rekatalogisiert    |5 UBE/IDSBB/B404/21.12.2020/vha    
+035      |a (swissbib)033876614-41slsp_network    
+035      |a 033876614    |9 ExL    
+035      |a (IDSBB)001340107DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991115360229705501    
+035      |a (41SLSP_UBE)99116759237405511    |9 (41SLSP_UBE)99116759237405511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+130 0    |a Suda    |0 (DE-588)4579463-7    
+245 1 0  |a <<To>> Men Paron Biblion, Suida    |b Hoi De Syntaxamenoi Tuto, Andres Sophoi ...    
+246 1    |i Titel gemäss GW    |a Lexicon    
+246 1    |i Titel gemäss ISTC    |a Lexicon graecum    
+264   1  |a Impressum Mediolani    |b impensa & dexteritate D Demetrii Chalcondyli Ioannis Bissoli Benedicti Mangii Carpensium    |c Anno ab incarnatione .M.cccc,lxxxxviiii die xv nouembris [15.11.1499]    
+300      |a 1031 ungezählte Seiten    |c 39 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Titel gemäss Incipit (Blatt α₃ recto)    
+500      |a Das vermutlich aus mehreren Autoren kompilierte Lexikon wurde bis ins 20. Jahrhundert fälschlich einem nicht belegten Autor namens Suida(s) zugeschrieben, was wohl auf eine Fehlinterpretation des Titels "Suda" (Festung, Schanzwerk) zurückgeht    
+500      |a Herausgegeben und verlegt von Dēmētrios Chalkokondylēs (Vorwort auf Blatt α₂ verso, Impressum auf Blatt ΖΖ₅ verso)    
+500      |a Mit griechischem "Dialogos" von Stephanus Niger (Blatt α₁ recto), zwei lateinischen Epigrammen von Antonius Motta (α₁ verso), einem lateinischen Brief von Giovanni Maria Cattaneo an Albertus Pius, Fürst von Carpi (α₂ recto), sowie zwei lateinischen Gedichten von Johannes Salandus an den Herausgeber und "ad lectorem" (ΖΖ₆ recto)    
+500      |a Impressum gemäss Kolphon (Blatt ΖΖ₅ verso); Reihenfolge der Vorlage: "Anno ab incarnatione .M.cccc,lxxxxviiii die xv nouembris, Impressum Mediolani impensa & dexteritate D Demetrii Chalcondyli Ioannis Bissoli Benedicti Mangii Carpensium"; darunter eine Druckermarke (Holzschnitt)    
+500      |a Text griechisch, ausser dem Kolophon und den genannten lateinischen Beigaben    
+500      |a Signaturformel: α–ω⁸, ααα–λλλ⁸, Α–Ω⁸, ΑΑ–ΔΔ⁸, ΕΕ–ZZ⁶    
+500      |a Blatt ZZ₆ verso (letzte Seite) unbedruckt    
+510 4    |a BSB-Ink    |c S-606    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_S-606.html    
+510 4    |a GW    |c M44268    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M44268.htm    
+510 4    |a ISTC    |c is00829000    |u https://data.cerl.org/istc/is00829000    
+510 3    |a Ineichen, Elisabeth: Standort-Katalog "Hospinian". [Bern : Stadt- und Universitätsbibliothek, 1972]    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u https://daten.digitale-sammlungen.de/~db/0005/bsb00050756/images/    
+561      |a Handschriftlicher Besitzvermerk auf Blatt α₁ recto (erste Seite): "Pro Leon. Hospiniano"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen, Linien- und Ornamentrollen- und Ornamentstempel-Blindpräung an beiden Deckeln    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse: 38.6 x 27.2 x 9.8 cm    
+563      |a Zustand Einband: Nachgearbeitete Nietung der Schliessen, Schädlingsfrass an den Vorsätzen    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 514 von 516 Blättern, handschriftliche Foliierung in Graphit jeweils rechts oben auf den Recto-Seiten, von 2 bis 516 (Zählung springt wegen fehlender Blätter korrekt von 333 auf 336); vorgesehene Stellen für Initialen frei gelassen, keine Rubrizierung    
+590      |a Zustand Buchblock: Wenige Verfleckungen, Schädlingsfrass an den ersten und letzten Blatträndern    
+590      |a Unvollständiges Exemplar: Blätter Η₆ und Η₇ (334 und 335) fehlen    
+590      |a Eine kurze handschriftliche Annotation auf Blatt Χ₅ (453) verso, vereinzelte Unterstreichungen in Tinte    
+590      |a Weiteres Exemplar dieser Ausgabe (jedoch mit nur 89 erhaltenen Blättern): MUE GDB Gut 7    
+590      |a Historische Signatur auf vorderem Spiegel in Tinte: "Lit. N. 25." 25 durchgestrichen, daneben: "40."; auf Blatt α₁ recto (erste Seite): "Lit. B. 18."    
+590      |a Frühere Signaturen: Inc II 33, Inc 300    
+648   4  |a Geschichte 900-1000    
+650   4  |a Lexikon    
+651   4  |a Byzantinisches Reich    
+655   4  |a Quelle    
+700 0    |a Suida    |c Fiktive Gestalt    |d ca. 10. Jahrhundert    |4 aut    |0 (DE-588)115232710    
+700 1    |a Chalkokondylēs, Dēmētrios    |d 1424-1511    |0 (DE-588)119514567    |4 edt    
+700 1    |a Chalkokondylēs, Dēmētrios    |d 1424-1511    |0 (DE-588)119514567    |4 pbl    
+700 1    |a Niger, Stephanus    |d 1475-1540    |0 (DE-588)125002246    |4 wst    
+700 1    |a Cattaneo, Giovanni Maria    |d -1529    |0 (DE-588)100454259    |4 wst    
+700 1    |a Pio di Carpi, Alberto    |d 1475-1550    |0 (DE-588)119399806    |4 dte    
+700 1    |a Bissoli, Giovanni    |d ca. um 1499    |0 (DE-588)10246667X    |e Drucker    |4 prt    
+700 1    |a Dolcibelli del Mangio, Benedetto    |0 (DE-588)102831823    |e Drucker    |4 prt    
+700 1    |a Wirth, Leonhard    |d 1505-1564    |e Früherer Eigentümer    |4 fmo    |0 (DE-588)121204618    
+751      |a Mailand    |0 (DE-588)4037100-1    
+852 4    |b B404    |c 404U3    |j MUE Hospinian 12    |9 (41SLSP_UBE)99116759237405511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc II 33    |c 404U3    |p 12    |j MUE Hospinian 12    |b B404    |9 (41SLSP_UBE)99116759237405511    
+986      |a (41SLSP_UBE)99116759237405511    |9 (41SLSP_UBE)99116759237405511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116759237405511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,187 @@
+﻿<-1-1-START->
+Tibullus, Albius
+<-1-1-STOP->
+
+<-1-2-START->
+Elegiae. — Catullus, Gaius Valerius: Carmina. — Avancius, Hieronymus: Emendationes. — Propertius, Sextus: Elegiae
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Elegiae des Tibullus mit Kommentar von Bernardinus Cyllenius, einem Gedicht von Cyllenius an Baptista Ursinus, einer kurzen "Summa vitae Albii Tibulli" und Epigrammen auf Tibullus von Domitius Marsus, Mapheus Vegius und Publius Ovidius Naso<-500-STOP->
+<-500-START->Carmina des Catullus mit Kommentaren von Antonius Parthenius und Palladio Fosco, einem Brief von Parthenius an Iulius Pomponius, zwei Briefen von Fosco an Laurentius Bragadenus, einem Gedicht von Donatus Civalellus auf Foscos Kommentar, einem Vorwort von Fosco an den Leser, einem Nachwort von Parthenius an den Leser, einem Brief von Iacobus Iuliarius an Parthenius und einem Gedicht von Parthenius auf sein Buch<-500-STOP->
+<-500-START->Emendationes des Hieronymus Avancius adressiert an Aelius Lampridius Cervinus, Augustinus Olomucensis, Marcus Cornelius und Iacobus Cornelius, mit Brief von Augustinus Olomucensis an die studierende Jugend<-500-STOP->
+<-500-START->Elegiae des Propertius mit Kommentar von Filippo Beroaldo, einem Brief von Beroaldo an Minus Roscius, einem Gedicht von Beroaldo an Roscius und einem Gedicht von Hieronymus Salius Faventinus an Beroaldo<-500-STOP->
+<-500-START->Die auf der Titelseite genannten Annotationes von Domitius de Calderiis und Johannes Stephanus Cotta sind im Druck nicht enthalten<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Giovanni Tacuino, 19.05.1500
+<-3-1-STOP->
+
+<-4-1-START->
+362 ungezählte Seiten, 1 ungezähltes Blatt: Holzschnittinitialen, Druckermarke; 34 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_T-348.html<-L-5-STOP-><-VI-5-START->BSB-Ink T-348<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M47037.htm<-L-5-STOP-><-VI-5-START->GW M47037<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/it00374000<-L-5-STOP-><-VI-5-START->ISTC it00374000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+182 von 182 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun, Schaf) mit Schliessen, Linien-, Ornamentstempel- und Ornamentrollen-Blindprägung auf beiden Deckeln, Buchbinder: Jakob Spindler
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jakob Salzmann; Nicolaus Artopoeus
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 2 anderen Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116753144205511<-L-11-STOP-><-VI-11-START->MUE Artopoeus 14 : 3<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991097017469705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Tibullus, Albius<-P-STOP->
+<-P-START->Catullus, Gaius Valerius<-P-STOP->
+<-P-START->Propertius, Sextus<-P-STOP->
+<-P-START->Cyllenius, Bernardinus<-P-STOP->
+<-P-START->Parthenius, Antonius<-P-STOP->
+<-P-START->Fosco, Palladio<-P-STOP->
+<-P-START->Avancius, Hieronymus<-P-STOP->
+<-P-START->Beroaldo, Filippo<-P-STOP->
+<-P-START->Domitius Marsus<-P-STOP->
+<-P-START->Vegius, Mapheus<-P-STOP->
+<-P-START->Ovidius Naso, Publius<-P-STOP->
+<-P-START->Civalellus, Donatus<-P-STOP->
+<-P-START->Iuliarius, Jacobus<-P-STOP->
+<-P-START->Augustinus Olomucensis<-P-STOP->
+<-P-START->Salio, Girolamo<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Tacuino, Giovanni<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-P-START->Spindler, Jakob<-P-STOP->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Salzmann, Jakob<-P-STOP->
+<-P-START->Artopoeus, Nicolaus<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991097017469705501<-DOI-STOP->
+<-SIGN-START->MUE Artopoeus 14 : 3<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 08882nam a2200925 c 4500
+001 991097017469705501
+005 20220309095235.0
+008 990731s1500    it ||||| |||| 00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/27.02.2019/B404/faf    
+035      |a (swissbib)031336604-41slsp_network    
+035      |a 031336604    |9 ExL    
+035      |a (IDSBB)001513906DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991097017469705501    
+035      |a (41SLSP_UBE)99116753144205511    |9 (41SLSP_UBE)99116753144205511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+245 0 0  |a Tibullus com commentariis Cyllæni Veronensis    |b ; Catullus com commentariis Parthenii Veronensis & Palladii patauini. Emendationes Catullianæ per Hieronymum Auancium Veronensem & eiusdem in Priapeias castigationes. Propertius cum commentariis Phylippi Beroaldi. Annotationes in Propertium: tum per Domitium Calderinum: tum per Ioannem Cottam Veronensem    |c Hæc omnia sunt ex exe[m]plaribus emendatis domini Hieronymi Aua[n]cii    
+246 1    |i Titel des 2. enthaltenen Werks in normalisierter Form    |a Catullus com commentariis Parthenii Veronensis & Palladii Patavini    
+246 1    |i Titel des 3. enthaltenen Werks in normalisierter Form    |a Emendationes Catullianæ per Hieronymum Avancium Veronensem & eiusdem in Priapeias castigationes    
+264   1  |a Impressum Venetiis    |b per Ioannem de Tridino de Cereto alias Tacuinum    |c M.D. dieuero .xix. Maii Regnante inclyto Principe Augustino Barbadico [19.05.1500]    
+300      |a 362 ungezählte Seiten, 1 ungezähltes Blatt    |c 34 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Elegiae des Tibullus mit Kommentar von Bernardinus Cyllenius, einem Gedicht von Cyllenius an Baptista Ursinus, einer kurzen "Summa vitae Albii Tibulli" und Epigrammen auf Tibullus von Domitius Marsus, Mapheus Vegius und Publius Ovidius Naso    
+500      |a Carmina des Catullus mit Kommentaren von Antonius Parthenius und Palladio Fosco, einem Brief von Parthenius an Iulius Pomponius, zwei Briefen von Fosco an Laurentius Bragadenus, einem Gedicht von Donatus Civalellus auf Foscos Kommentar, einem Vorwort von Fosco an den Leser, einem Druckprivileg für Foscos Kommentar, einem Nachwort von Parthenius an den Leser, einem Brief von Iacobus Iuliarius an Parthenius und einem Gedicht von Parthenius auf sein Buch    
+500      |a Emendationes des Hieronymus Avancius adressiert an Aelius Lampridius Cervinus, Augustinus Olomucensis, Marcus Cornelius und Iacobus Cornelius, mit Brief von Augustinus Olomucensis an die studierende Jugend    
+500      |a Elegiae des Propertius mit Kommentar von Filippo Beroaldo, einem Brief von Beroaldo an Minus Roscius, einem Gedicht von Beroaldo an Roscius und einem Gedicht von Hieronymus Salius Faventinus an Beroaldo    
+500      |a Die auf der Titelseite genannten Annotationes von Domitius de Calderiis und Johannes Stephanus Cotta sind im Druck nicht enthalten    
+500      |a Impressum gemäss Kolophon    
+500      |a Druckermarke am Ende    
+500      |a Signaturformel: a-c⁸, d-e⁶, f-l⁸, m-n⁶, o⁴, p-y⁸, z⁶, &⁶, [con]⁶    
+500      |a Blatt [con]₆ ist unbedruckt    
+500      |a Holzschnittinitialen    
+510 4    |a BSB-Ink    |c T-348    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_T-348.html    
+510 4    |a GW    |c M47037    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M47037.htm    
+510 4    |a ISTC    |c it00374000    |u http://data.cerl.org/istc/it00374000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/0005/bsb00058264/images    
+561      |a Handschriftlicher Besitzvermerk auf vorderem Spiegel: "Curiæ ad Jaccobi Salandronij vsus Comparatum Anno .M.D.XI. Quando illic scholas rexit puerorum"; auf Titelseite des ersten vorgebundenen Werks: "Sum Nicólai Artopoei Balingij"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun, Schaf) mit Schliessen, Linien-, Ornamentstempel- und Ornamentrollen-Blindprägung auf beiden Deckeln, blindgeprägtes Rückenschild: "Beroaldvs In Tvscvlan: Qvaestion: Tibvll: Cat Propert:.", dazu in Tinte: "Beroaldus in Tusculan: quæstiones. Tibullus Catullus Propertius. 1500 Ven."; Buchbinder gemäss Lindt: Jakob Spindler, Basel    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 33.1 x 23 x 7.1 cm    
+563      |a Zustand Einband: Schädlingsfrass an beiden Deckeln und am Rücken, Schäden am Einbandleder, Lederüberklebungen am Rücken und an beiden Deckeln mit Nachbildung der Blindlinierung    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 182 von 182 Blättern, handschriftliche Foliierung in Tinte (pro Autor: 1-35, 1-59, 1-76 und 78-82, fehlend auf den Blättern a₁, n₆-o₄ und [con]₆), Papierfalz vor Lage [con] gehört zur Vorsatzkonstruktion, vorgesehene Stellen für Initialen frei gelassen, Gedichte teilweise am Rand durchnummeriert, Inhaltsangabe des Sammelbands in Tinte auf Kopf- und Vorderschnitt, Blattweiser    
+590      |a Zustand Buchblock: Zahlreiche Vefleckungen, gelb-braune Schwemmränder an den Blattkanten durch Schnittausrüstung, Schädlingsfrass, Heftung geschädigt (Lage [con] gelöst), Reste von Blattweisern an Blättern a₁, f₁ und p₁ (Textil, schwarz, grün, gelb)    
+590      |a Zahlreiche handschriftliche Annotationen und Unterstreichungen in Tinte, teilweise von Artopoeus    
+590      |a Zusammengebunden mit 2 anderen Drucken in Sammelband    
+590      |a Historische Signaturen auf vorderem Spiegel: "Lit. N. 113." (durchgestrichen), "Lit. N°. 135."; auf Titelseite des ersten vorgebundenen Drucks: "Lit. 43"    
+590      |a Frühere Signaturen: Inc 210; Inc I 45    
+600 1 7  |a Tibullus, Albius    |d v50-v19    |t Elegiae    |0 (DE-588)4241483-0    |2 gnd    
+700 1    |a Tibullus, Albius    |d v50-v19    |0 (DE-588)11862251X    |e Verfasser    |4 aut    
+700 1    |a Catullus, Gaius Valerius    |d ca. v84-v55    |0 (DE-588)118519719    |e Verfasser    |4 aut    
+700 1    |a Propertius, Sextus    |d v50-v15    |0 (DE-588)118596764    |e Verfasser    |4 aut    
+700 1    |a Cyllenius, Bernardinus    |d ca. 2. H. 15. Jh.    |0 (DE-588)102325847    |e Kommentarverfasser    |e Verfasser von ergänzendem Text    |4 wac    |4 wst    
+700 1    |a Parthenius, Antonius    |d 1456-1506    |0 (DE-588)1023577089    |e Kommentarverfasser    |e Verfasser von ergänzendem Text    |4 wac    |4 wst    
+700 1    |a Fosco, Palladio    |d 14XX-1520    |0 (DE-588)100956920    |e Kommentarverfasser    |e Verfasser von ergänzendem Text    |4 wac    |4 wst    
+700 1    |a Avancius, Hieronymus    |d ca. 15. Jh. - 16. Jh.    |0 (DE-588)12448932X    |e Verfasser    |e Herausgeber    |4 aut    |4 edt    
+700 1    |a Beroaldo, Filippo    |d 1453-1505    |0 (DE-588)118656589    |e Kommentarverfasser    |e Verfasser von ergänzendem Text    |4 wac    |4 wst    
+700 0    |a Domitius    |c Marsus    |d v1. Jh.    |0 (DE-588)100461654    |e Verfasser    |4 aut    
+700 1    |a Vegius, Mapheus    |d 1407-1458    |0 (DE-588)100963757    |e Verfasser    |4 aut    
+700 1    |a Ovidius Naso, Publius    |d v43-17    |0 (DE-588)118590995    |e Verfasser    |4 aut    
+700 1    |a Civalellus, Donatus    |d ca. 15. Jh.    |0 (DE-588)128995327    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Iuliarius, Jacobus    |d ca. 15. Jh.    |0 (DE-588)129034134    |e Verfasser von ergänzendem Text    |4 wst    
+700 0    |a Augustinus    |c Olomucensis    |d 1467-1513    |0 (DE-588)100020127    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Salio, Girolamo    |d 14XX-15XX    |0 (DE-588)1042519382    |e Verfasser von ergänzendem Text    |4 wst    
+700 0    |a Domitius    |c de Calderiis    |d 1446-1478    |0 (DE-588)100940056    |e Kommentarverfasser    |4 wac    
+700 1    |a Cotta, Giovanni    |d ca. 1480/82-1510    |0 (DE-588)128996498    |e Kommentarverfasser    |4 wac    
+700 1    |a Tacuino, Giovanni    |d 14XX-15XX    |0 (DE-588)119845156    |e Drucker    |4 prt    
+700 1    |a Spindler, Jakob    |d ca. 15. Jh.    |0 (DE-588)102513575X    |e Buchbinder    |4 bnd    
+700 1    |a Salzmann, Jakob    |d 1485-1526    |0 (DE-588)1089451105    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Artopoeus, Nicolaus    |d 1500-1553    |0 (DE-588)128632380    |e Früherer Eigentümer    |e Annotierende Person    |4 fmo    |4 ann    
+700 1 2  |a Tibullus, Albius    |d v50-v19    |t Elegiae    |0 (DE-588)4241483-0    
+700 1 2  |a Catullus, Gaius Valerius    |d ca. v84-v55    |t Carmina    |0 (DE-588)4133649-5    
+700 1 2  |a Propertius, Sextus    |d v50-v15    |t Elegiae    |0 (DE-588)4202886-3    
+700 1 2  |a Cyllenius, Bernardinus    |d ca. 2. H. 15. Jh.    |t Tibullus cum commento    |0 (DE-588)1178739627    
+700 1 2  |a Parthenius, Antonius    |d 1456-1506    |t In Catullum commentationes    |0 (DE-588)1178730034    
+700 1 2  |a Fosco, Palladio    |d 14XX-1520    |t In Catullum commentarii    |0 (DE-588)117923488X    
+700 1 2  |a Avancius, Hieronymus    |d ca. 15. Jh. - 16. Jh.    |t Emendationes    |0 (DE-588)1179236076    
+700 1 2  |a Beroaldo, Filippo    |d 1453-1505    |t Commentarii in Propertium    |0 (DE-588)1178732126    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Artopoeus 14 : 3    |9 (41SLSP_UBE)99116753144205511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc I 45 : 3    |c 404U3    |z Zusammengebunden mit 2 weiteren Drucken in Sammelband    |p 12    |j MUE Artopoeus 14 : 3    |b B404    |9 (41SLSP_UBE)99116753144205511    
+986      |a (41SLSP_UBE)99116753144205511    |9 (41SLSP_UBE)99116753144205511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116753144205511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

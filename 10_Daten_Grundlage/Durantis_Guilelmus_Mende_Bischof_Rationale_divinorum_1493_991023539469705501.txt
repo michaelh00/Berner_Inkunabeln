@@ -1,0 +1,139 @@
+﻿<-1-1-START->
+Durantis, Guilelmus (Bischof von Mende)
+<-1-1-STOP->
+
+<-1-2-START->
+Rationale divinorum officiorum
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Straßburg: [Drucker des Jordanus, das ist Georg Husner], 19.07.1493
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 4 ungezählte Seiten, CCLX Blätter, 1 ungezähltes Blatt
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_D-353.html<-L-5-STOP-><-VI-5-START->BSB-Ink D-353<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/GW09137.htm<-L-5-STOP-><-VI-5-START->GW 09137<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/id00436000<-L-5-STOP-><-VI-5-START->ISTC id00436000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+264 von 264 Blättern, rot ausgezeichnete Initialen, Anfangsinitale auf folium I recto rot und blau ausgezeichnet, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun) mit Schliessen, Linien- und Ornamentstempel-Blindprägung an beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Johannes Vrerius; Arthur Stein; Kloster Sankt Heinrich und Kunigunde Bamberg
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116920358205511<-L-11-STOP-><-VI-11-START->MUE Inc VI 4<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991023539469705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Durantis, Guilelmus (Bischof von Mende)<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Husner, Georg<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Vrerius, Johannes<-P-STOP->
+<-P-START->Stein, Arthur<-P-STOP->
+<-P-START->Kloster Sankt Heinrich und Kunigunde Bamberg<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991023539469705501<-DOI-STOP->
+<-SIGN-START->MUE Inc VI 4<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05530nam a2200577 c 4500
+001 991023539469705501
+005 20211215173346.0
+008 190816s1493    fr |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/16.08.2019/B404/vha    
+035      |a (swissbib)07384764X-41slsp_network    
+035      |a 07384764X    |9 ExL    
+035      |a (IDSBB)007109820DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991023539469705501    
+035      |a (41SLSP_UBE)99116920358205511    |9 (41SLSP_UBE)99116920358205511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Durantis, Guilelmus    |c Mende, Bischof    |d 1230-1296    |0 (DE-588)118681273    |e Verfasser    |4 aut    
+240 1 0  |a Rationale divinorum officiorum    
+245 1 0  |a Rationale diuinoru[m]    
+246 1    |i Titel in normalisierter Form    |a Rationale divinorum    
+246 1    |i Incipit    |a Incipit rationale diuino[rum] officio[rum] guilhelmi minatensis ecclesie episcopi    
+246 1    |i Incipit in normalisierter Form    |a Incipit rationale divinorum officiorum Guilhelmi Minatensis ecclesie episcopi    
+246 1    |i Kolophon    |a Explicit rationale diuinorum officiorum    
+264   1  |a Impressum argentine    |b [Drucker des Jordanus, das ist Georg Husner]    |c Anno d[omi]ni .M.cccc.xciij. Finitum sexta feria ante festu[m] Marie magdalene. [19.07.1493]    
+300      |a 1 ungezähltes Blatt, 4 ungezählte Seiten, CCLX Blätter, 1 ungezähltes Blatt    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Druckort und Druckdatum gemäss Kolophon, Drucker gemäss BSB-Ink und ISTC; GW bezeichnet ihn nur als "Drucker des Jordanus von Quedlinburg", der jedoch von Goff (Goff, Frederick Richmond: Incunabula in American libraries) als Georg Husner identifiziert wurde    
+500      |a Signaturformel: a⁸, b⁸c⁶-h⁸i⁶, k⁶, l⁸m⁶–t⁸v⁶, x–z⁶, A–H⁶, I⁸K⁶–N⁸O⁶, P-Q⁸    
+500      |a Titelblatt ohne Bogensignatur, Blätter a₂ bis a₅ als a₁ bis a₄ signiert; Blatt Q₈ (letztes Blatt) unbedruckt    
+510 4    |a BSB-Ink    |c D-353    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_D-353.html    
+510 4    |a GW    |c 09137    |u https://www.gesamtkatalogderwiegendrucke.de/docs/GW09137.htm    
+510 4    |a ISTC    |c id00436000    |u http://data.cerl.org/istc/id00436000    
+530      |a Digitalisat (Exemplar der Universitäts- und Landesbibliothek Darmstadt)    |u http://tudigit.ulb.tu-darmstadt.de/show/inc-iv-126    
+561      |a Handschriftliche Besitzvermerke in Tinte auf der Titelseite: "Loci Capuccinorum Bambergæ. 1638." und "Sum Joannis Vrerij[?] nec muto Dum vel Possessore"    
+561      |a Gemäss Zugangsbuch 1934 der Bibliothek geschenkt von Prof. Dr. Arthur Stein, Burgdorf    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun) mit Schliessen, Linien- und Ornamentstempel-Blindprägung an beiden Deckeln; Reste eines Titelschilds auf dem Rücken mit handschriftlichem Titel in Tinte: "[... G]uil: [Du]ranti. Ep. [R]ationale D[ivino]rum Offi[cium]"; darunter Rest eines Schildes mit dem Namen "M. Flach" in Tinte    
+563      |a Vorsätze: vorne ohne fliegendes Blatt, hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 30.2 x 21.0 x 6.2 cm    
+563      |a Zustand Einband: Schliessenriemen und Schliessenhaken fehlend, Einbandleder stark geschädigt, mit Fehlstellen an den Fälzen, durch Fettung verschwärzt und brüchig, Bünde im Falz angebrochen, oberer Bund vorne fast vollständig gebrochen, Heftung des hinteren fliegenden Blattes gelöst    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 264 von 264 Blättern, Pergamentfalz (Manuskriptmakulatur, Velours, aus 2 Teilen zusammengesetzt) vor hinterem fliegenden Blatt gehört zur Vorsatzkonstruktion; rot ausgezeichnete Initialen, Anfangsinitale auf folium I (Blatt a₃) recto rot und blau ausgezeichnet, Rubrizierung    
+590      |a Zustand Buchblock: Unterschiedlich stark verbräunt (z.B. Doppelblätter l₃//l₆ und A₁/A₆ mit Feuchtungs- oder Leimungsspuren), teilweise Verschwärzung an roter Initialauszeichnung (Blatt c₆ verso), letztes Blatt aus Lagenverbund abgetrennt (haftet an hinterem Spiegel), Einrisse und Verknautschungen an Schwachstelle im Blatt O₆, Papierüberklebung im vorderen Falz    
+590      |a Wenige handschriftliche Annotationen in Tinte im Text; auf vorderem Spiegel eine "Tabula festoru[m] mobiliu[m] p[er]petua"; auf dem letzten, unbedruckten Blatt Q₈ recto ein Gedicht (Incipit: "Sup[erbia] Lucifer Anthiochus nemroth Nabuch phariseus ..."); weitere Annotationen auf hinterem fliegenden Blatt und hinterem Spiegel (dort auch Kreisdiagramm - zur Kalenderberechnung? - mit Jahreszahl 1490)    
+590      |a Auf dem vorderen Schnitt in Tinte: "37." (historische Signatur?)    
+700 1 2  |a Durantis, Guilelmus    |c Mende, Bischof    |d 1230-1296    |t Rationale divinorum officiorum    |0 (DE-588)4070634-5    
+700 1    |a Vrerius, Johannes    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Stein, Arthur    |d 1888-1978    |0 (DE-588)117237841    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Husner, Georg    |d 14XX-1505    |0 (DE-588)136216064    |e Drucker    |4 prt    
+710 2    |a Kloster Sankt Heinrich und Kunigunde Bamberg    |0 (DE-588)16334153-9    |e Früherer Eigentümer    |4 fmo    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Inc VI 4    |9 (41SLSP_UBE)99116920358205511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc VI 4    |b B404    |9 (41SLSP_UBE)99116920358205511    
+986      |a (41SLSP_UBE)99116920358205511    |9 (41SLSP_UBE)99116920358205511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116920358205511    
+991      |a AAK: 227682    |5 IZ UBE/16.08.2019/B404/vha    |9 local    |9 (41SLSP_UBE)99116920358205511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

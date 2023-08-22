@@ -1,0 +1,149 @@
+﻿<-1-1-START->
+Cicero, Marcus Tullius
+<-1-1-STOP->
+
+<-1-2-START->
+De re publica. Somnium Scipionis. — Macrobius, Ambrosius Theodosius: Commentarii in Ciceronis somnium Scipionis; Saturnalia
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: [Giovanni Rosso], 29.06.1492
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, XXXXIII Blätter, 1 ungezähltes Blatt, XXXXIIII-LXXXIX Blätter: 7 Illustrationen, 1 Karte; 30 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_M-4.html<-L-5-STOP-><-VI-5-START->BSB-Ink M-4<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M19707.htm<-L-5-STOP-><-VI-5-START->GW M19707<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/im00012000<-L-5-STOP-><-VI-5-START->ISTC im00012000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+6 von 91 Blättern, einfache Initialen in Tinte
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Pergamenteinband auf Kartondeckeln (17./18. Jahrhundert) mit Spuren von Verschlussbändern (grün, Textil), Linien-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Instituta artium; Catholica / [Pseudo-]Marcus Valerius Probus. Vicenza: Ca' Zeno, 1509
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Nur Blätter LVI-LXI (Lage k, Anfang 5. Buch Saturnalia) vorhanden
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116772494705511<-L-11-STOP-><-VI-11-START->MUE Bong IV 875 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991041846449705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Cicero, Marcus Tullius<-P-STOP->
+<-P-START->Macrobius, Ambrosius Theodosius<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Rosso, Giovanni<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991041846449705501<-DOI-STOP->
+<-SIGN-START->MUE Bong IV 875 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05173nam a2200673 c 4500
+001 991041846449705501
+005 20230207124056.0
+008 100706s1492    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/18.12.2019/B404/faf    
+035      |a (swissbib)060918136-41slsp_network    
+035      |a 060918136    |9 ExL    
+035      |a (IDSBB)005275002DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991041846449705501    
+035      |a (41SLSP_UBE)99116772494705511    |9 (41SLSP_UBE)99116772494705511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+041 0    |a lat    |a grc    
+245 0 0  |a [De re publica    |p Somnium Scipionis]    |c [Marcus Tullius Cicero]. [Commentarii in Ciceronis somnium Scipionis] ; [Saturnalia] / [Ambrosius Theodosius Macrobius]    
+246 1    |i Titel des 1. enthaltenen Werks in normalisierter Form    |a Somnium Scipionis ex Ciceronis libro de republica excerptum    
+246 1    |i Titel des 2. enthaltenen Werks in normalisierter Form    |a Macrobii Aurelii Theodosii viri consularis et illustris in somnium Scipionis expositionis quam elegantissime liber primus [-II.]    
+246 1    |i Titel des 3. enthaltenen Werks in normalisierter Form    |a Macrobii Aurelii Theodosii viri consularis et illustris primi diei Saturnaliorum liber primus [-VII.]    
+246 1    |i Explicit des 2. enthaltenen Werks    |a Macrobii Avrelii Theodosii Viri Consvlaris Et Illvstris In Somnivm Scipionis Expositionis Qvam Elegantissime Libri Secvndi Et Vltimi Finis    
+246 1    |i Explicit des 2. enthaltenen Werks in normalisierter Form    |a Macrobii Aurelii Theodosii viri consularis et illustris in somnium Scipionis expositionis quam elegantissime libri secundi et ultimi finis    
+246 1    |i Kolophon    |a Macrobii Aurelii Theodosii uiri consularis & illustris saturnaliorum libri impressi ...    
+246 1    |i Titel gemäss BSB-Ink    |a In Somnium Scipionis Ciceronis expositio; Saturnalia    
+246 1    |i Titel gemäss ISTC    |a In Somnium Scipionis expositio. Saturnalia    
+264   1  |a impressi Venetiis    |b [Giovanni Rosso]    |c Anno domini. M.cccclxxxxii. die. xxviiii. Iunii. [29.06.1492]    
+300      |a 1 ungezähltes Blatt, XXXXIII Blätter, 1 ungezähltes Blatt, XXXXIIII-LXXXIX Blätter    |b 7 Illustrationen, 1 Karte    |c 30 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel der enthaltenen Werke gemäss GND    
+500      |a Druckort und Druckdatum gemäss Kolophon    
+500      |a Drucker gemäss BSB-Ink, GW und ISTC    
+500      |a Signaturformel: a⁸, b-f⁶, g⁷, h-o⁶, p⁴    
+500      |a Blatt a₁ ist unbedruckt    
+505 0 0  |t Somnivm Scipionis Ex Ciceronis Libro De Repvblica Excerptvm    |t Macrobii Avrelii Theodosii Viri Consvlaris Et Illvstris In Somnivm Scipionis Expositionis Qvam Elegantissime. Liber Primvs [-.II.]    |t Macrobii Avrelii Theodosii Viri Consvlaris Et Illvstris Conviviorvm Primi Diei Satvrnaliorvm Liber Primvs [-VII.]    
+510 4    |a BSB-Ink    |c M-4    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_M-4.html    
+510 4    |a GW    |c M19707    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M19707.htm    
+510 4    |a ISTC    |c im00012000    |u http://data.cerl.org/istc/im00012000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0005/bsb00056150/images    
+561      |a Handschriftlicher Besitzvermerk auf Titelseite des vorgebundenen Werks: "Bongarsii."    
+563      |a Einbandbeschreibung: Ganzbezogener Pergamenteinband auf Kartondeckeln (17./18. Jh.) mit Spuren von Verschlussbändern (grün, Textil), Linien-Blindprägung auf beiden Deckeln    
+563      |a Vorsätze: Vorne und hinten mit drei fliegenden Blättern    
+563      |a Masse Einband: 29.1 x 21 x 1.7 cm    
+563      |a Zustand Einband: Schäden am Einbandpergament. Japanpapierüberklebungen am Rücken, Falzverstärkung mit Japanpapierfälzen an beiden Vorsätzen    
+590      |a Buchblockbeschreibung: 6 von 91 Blättern, einfache Initialen in Tinte    
+590      |a Unvollständiges Exemplar: Nur Blätter LVI-LXI (Lage k, Anfang 5. Buch Saturnalia) vorhanden    
+590      |a Zahlreiche handschriftliche Annotationen auf Latein und Griechisch in Tinte    
+590      |a Zusammengebunden mit: [Traktate von Probus, Fronto und Phocas Grammaticus]. Vicenza : Ca' Zeno, 1509    
+590      |a Historische Signatur auf vorderem Spiegel: "Lit. 293."    
+590      |a Frühere Signaturen: Inc 323; Inc 324; Inc IV 8; III R 18    
+700 1    |a Cicero, Marcus Tullius    |d v106-v43    |0 (DE-588)118520814    |e Verfasser    |4 aut    
+700 1    |a Macrobius, Ambrosius Theodosius    |d 385-430    |0 (DE-588)118640763    |e Verfasser    |4 aut    
+700 1    |a Rosso, Giovanni    |0 (DE-588)1037570634    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 1 2  |a Cicero, Marcus Tullius    |d v106-v43    |t De re publica    |p Somnium Scipionis    |0 (DE-588)4254901-2    
+700 1 2  |a Macrobius, Ambrosius Theodosius    |d 385-430    |t Commentarii in Ciceronis somnium Scipionis    |0 (DE-588)4245343-4    
+700 1 2  |a Macrobius, Ambrosius Theodosius    |d 385-430    |t Saturnalia    |0 (DE-588)4328116-3    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Bong IV 875 : 2    |9 (41SLSP_UBE)99116772494705511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc IV 8 : 2    |c 404U3    |z Zusammengebunden mit 1 weiteren Druck in Sammelband    |p 12    |j MUE Bong IV 875 : 2    |b B404    |9 (41SLSP_UBE)99116772494705511    
+986      |a (41SLSP_UBE)99116772494705511    |9 (41SLSP_UBE)99116772494705511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116772494705511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116772494705511    
+991      |a Bongars: 09027    |5 IZ UBE/B400/06.07.2010    |9 local    |9 (41SLSP_UBE)99116772494705511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,147 @@
+﻿<-1-1-START->
+Brant, Sebastian
+<-1-1-STOP->
+
+<-1-2-START->
+De origine et conversatione bonorum regum et de laude civitatis Hierosolymae
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Widmungsbrief von Sebastian Brant an König Maximilian I.<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Basel: Johann Bergmann, 01.03.1495
+<-3-1-STOP->
+
+<-4-1-START->
+320 ungezählte Seiten: 2 Illustrationen, Druckermarke, Holzschnittinitialen; 24 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-810.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-810<-VI-5-STOP->; <-L-5-START->http://gesamtkatalogderwiegendrucke.de/docs/GW05072.htm<-L-5-STOP-><-VI-5-START->GW 05072<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib01097000<-L-5-STOP-><-VI-5-START->ISTC iv00125000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+160 von 160 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun, Kalb) mit mittiger Schliesse sowie Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien-Blindprägung auf beiden Deckeln, Ornamentstempel-Blindprägung auf dem Vorderdeckel; Buchbinder: Johannes Vatter
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Dominikanerkloster Bern
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 4 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116750920405511<-L-11-STOP-><-VI-11-START->MUE Inc III 84 : 5<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991070632879705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Brant, Sebastian<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Bergmann, Johann<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-P-START->Vatter, Johannes<-P-STOP->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Dominikanerkloster Bern<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991070632879705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 84 : 5<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05517nam a2200673 c 4500
+001 991070632879705501
+005 20211215185253.0
+008 160921s1495    sz |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/26.09.2016/B404/vha    
+035      |a (swissbib)070957274-41slsp_network    
+035      |a 070957274    |9 ExL    
+035      |a (IDSBB)006624226DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991070632879705501    
+035      |a (41SLSP_UBE)99116750920405511    |9 (41SLSP_UBE)99116750920405511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Brant, Sebastian    |d 1458-1521    |0 (DE-588)118514474    |e Verfasser    |4 aut    
+240 1 0  |a De origine et conversatione bonorum regum et de laude civitatis Hierosolymae    
+245 1 0  |a De Origine et co[n]uersatione bonoru[m] Regum: & laude Ciuitatis Hierosolymæ    |b cum exhortatio[n]e eiusdem recuperand[a]e    |c Sebastianus Brant    
+246 1    |i Titel in normalisierter Form    |a De origine et conversatione bonorum regum & laude Civitatis Hierosolymae    |b cum exhortatione eiusdem recuperandae    
+246 1    |i Überschrift Blatt A₄ recto    |a De vrbis Hierosolyme origine & statu Epitoma: Sebastia. Brant    
+246 1    |i Überschrift Blatt A₄ recto in normalisierter Form    |a De urbis Hierosolyme origine & statu epitoma    
+246 1    |i Titel im Kolophon    |a Epitoma vrbis Hierosolymæ    
+246 1    |i Titel im Kolophon in normalisierter Form    |a Epitoma urbis Hierosolymae    
+246 1    |i Titel gemäss GW und ISTC    |a De origine et conversatione bonorum regum et de laude civitatis Hierosolymae    
+264   1  |a Basile[a]e    |b opera & impensa Iohannis Bergman de Olpe    |c anno .1.4.9.5. Kalendis Marciis ... [1.03.1495]    
+300      |a 320 ungezählte Seiten    |b 2 Illustrationen    |c 24 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Widmungsbrief von Sebastian Brant an König Maximilian I. (ab Rückseite der Titelseite)    
+500      |a Impressum gemäss Kolophon (Blatt V₈ recto): "Epitoma vrbis Hierosolymæ p[er] Sebastianu[m] Brtant vtriusq[ue] iuris doctore[m] subito collectu[m]: Basile[a]e opera & impensa Iohannis Bergman de Olpe anno .1.4.9.5 Kalendis Marciis/ in honore[m] sacrosanct[a]e regi[a]e maiestatis impr[a]essum: finit fœliciter"    
+500      |a Hinter dem Kolophon am Ende Druckermarke von Johann Bergmann im Schmuckrahmen (mit Wappen, Initialen I.B., Motto "Nihil sine causa" und Jahreszahl 1495)    
+500      |a Signaturformel: A-V⁸    
+500      |a Blatt V₈ verso (letzte Seite) unbedruckt    
+500      |a Titel-Holzschnitt mit Portrait von König Maximilian und einer Abbildung Jerusalems; 2. Holzschnitt auf Blatt T₄ recto    
+500      |a Holzschnittinitialen    
+510 4    |a BSB-Ink    |c B-810    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-810.html    
+510 4    |a GW    |c 05072    |u http://gesamtkatalogderwiegendrucke.de/docs/GW05072.htm    
+510 4    |a ISTC    |c iv00125000    |u http://data.cerl.org/istc/ib01097000    
+530      |a Digitalisat (Exemplar der Universitätsbibliothek Basel)    |u http://www.e-rara.ch/bau_1/content/titleinfo/4197274    
+561      |a Band aus dem ehemaligen Dominikanerkloster Bern (J. Lindt: Berner Einbände, Buchbinder und Buchdrucker, Bern, 1969)    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun, Kalb) mit mittiger Schliesse sowie Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien-Blindprägung auf beiden Deckeln, Ornamentstempel-Blindprägung auf dem Vorderdeckel    
+563      |a Auf dem Rücken Titel in Tinte (teils unleserlich): "Seb. Brant de orig. & conver... bon.reg. & laude civit... Hierosolymæ ... 1495. Gregorius I Dialogi Super Cantica. Pastorale"    
+563      |a Gemäss Johann Lindt (Berner Einbände, Buchbinder und Buchdrucker, Bern, 1969, Seite 50) Einband des Berner Dominikanermönchs Johannes Vatter    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt aus Velours-Pergament (Makulatur einer grossformatigen mittelalterlichen Notenhandschrift, auf hinterem fliegenden Blatt auch mit einem Gebet, 15. Jahrhundert)    
+563      |a Masse Einband: 23.7 x 16.6 x 7.7 cm    
+563      |a Zustand Einband: Loch und Rostspuren am Rückdeckel von vormaliger Ankettung, Unterklebung an Fehlstelle im Einbandleder des Rückdeckels, Lederüberklebungen am Rücken, vorderes Vorsatz im Falz mit Japanpapier verstärkt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 160 von 160 Blättern, keine Rubrizierung    
+590      |a Zustand Buchblock: Riss und versteifende Papierüberklebung am Rand von Blatt c₁    
+590      |a Zusammengebunden mit 4 weiteren Drucken in Sammelband    
+590      |a Historische Signaturen auf fliegendem Vorsatzblatt vorne: "Theol. Lit: b. 4[?] No. 62."; "Theol. No. 65"    
+590      |a Frühere Signatur: Inc 599    
+700 1 2  |a Brant, Sebastian    |d 1458-1521    |t De origine et conversatione bonorum regum et de laude civitatis Hierosolymae    |0 (DE-588)111500784X    
+700 0    |a Maximilian    |b I.    |c Heiliges Römisches Reich, Kaiser    |d 1459-1519    |0 (DE-588)118579371    |e Widmungsempfänger    |4 dte    
+700 1    |a Bergmann, Johann    |d 1455-1532    |0 (DE-588)128982918    |e Drucker    |4 prt    
+700 1    |a Vatter, Johannes    |d 1470-1509    |0 (DE-588)1114426377    |e Buchbinder    |4 bnd    
+710 2    |a Dominikanerkloster Bern    |0 (DE-588)4302674-6    |e Früherer Eigentümer    |4 fmo    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc III 84 : 5    |9 (41SLSP_UBE)99116750920405511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 4 weiteren Drucken in Sammelband    |p 12    |j MUE Inc III 84 : 5    |b B404    |9 (41SLSP_UBE)99116750920405511    
+986      |a (41SLSP_UBE)99116750920405511    |9 (41SLSP_UBE)99116750920405511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116750920405511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

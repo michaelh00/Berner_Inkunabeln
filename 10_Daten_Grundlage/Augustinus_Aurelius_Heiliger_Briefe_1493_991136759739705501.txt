@@ -1,0 +1,137 @@
+﻿<-1-1-START->
+Augustinus, Aurelius
+<-1-1-STOP->
+
+<-1-2-START->
+Briefe [lateinisch]
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Basel]: Johannes Amerbach, 1493
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 654 ungezählte Seiten; 33 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-888.html<-L-5-STOP-><-VI-5-START->BSB-Ink A-888<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW02906.htm<-L-5-STOP-><-VI-5-START->GW 02906<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ia01268000<-L-5-STOP-><-VI-5-START->ISTC ia01268000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+328 von 328 Blättern, rot ausgezeichnete Initialen, Anfangsinitiale blau ausgezeichnet, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit mittiger Schliesse sowie Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln; Buchbinder: Hans Leman (ca. 1500-1505)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Kloster Thorberg
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116903214005511<-L-11-STOP-><-VI-11-START->MUE Inc III 54<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991136759739705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Augustinus, Aurelius<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Amerbach, Johannes<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-P-START->Leman, Hans<-P-STOP->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Kloster Thorberg<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991136759739705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 54<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04601nam a2200565 c 4500
+001 991136759739705501
+005 20211215201015.0
+008 171011s1493    sz |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/11.10.2017/B404/vha    
+035      |a (swissbib)074390279-41slsp_network    
+035      |a 074390279    |9 ExL    
+035      |a (IDSBB)006738631DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991136759739705501    
+035      |a (41SLSP_UBE)99116903214005511    |9 (41SLSP_UBE)99116903214005511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Augustinus, Aurelius    |c Heiliger    |d 354-430    |0 (DE-588)118505114    |e Verfasser    |4 aut    
+240 1 0  |a Briefe    
+245 1 0  |a Liber Epistolarum beati Augustini episcopi hipponensis ecclesie    
+246 1 0  |a Liber epistolarum    
+246 1    |i Titel gemäss GW und ISTC    |a Epistolae    
+264   1  |a [Basel]    |b op[er]a magistri Ioha[n]nis de Amerbach ciuis Basilien[sis] p[er]fecta[rum]    |c Anno d[omi]ni &c. xciij. Fœliciter explicit [1493]    
+300      |a 1 ungezähltes Blatt, 654 ungezählte Seiten    |c 33 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Drucker und Druckjahr gemäss Kolophon; vollständig: "Diui Aurelij Augustini Hippone[n]sis ep[isco]pi Liber ep[isto]la[rum] uigilanti accuratissimoq[ue] studio eme[n]data[rum] & impressa[rum] Argume[n]toru[m] quoq[ue] nouo[rum] prænotatio[n]e succincte & dilucide exposita[rum] atq[ue] op[er]a magistri Ioha[n]nis de Amerbach ciuis Basilien[sis] p[er]fecta[rum] Anno d[omi]ni &c. xciij. Fœliciter explicit."    
+500      |a Signaturformel: []⁸, a⁸, b–e⁶, 2a⁸b⁶–g⁸h⁶, i-k⁶, l⁸m⁶-x⁸y⁶, z⁸A⁶, B⁸C⁶–M⁸N⁶, O–Q⁸, R⁶, S⁸    
+500      |a Blatt e₆ verso unbedruckt    
+500      |a Das Register "Precipua[rum] sente[n]tia[rum] ac materia[rum] annotatio" (a⁸, b-e⁶) ist in manchen Exemplaren vor den Textbeginn ("Sancti Avgvstini Epistola I Et II") gebunden, in anderen ans Ende des Bandes    
+510 4    |a BSB-Ink    |c A-888    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-888.html    
+510 4    |a GW    |c 02906    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW02906.htm    
+510 4    |a ISTC    |c ia01268000    |u http://data.cerl.org/istc/ia01268000    
+530      |a Digitalisat (Exemplar der Universitätsbibliothek Basel)    |u http://dx.doi.org/10.3931/e-rara-14236    
+561      |a Handschriftlicher Besitzvermerk auf vorderem Spiegel: "Pertinet Carthusiensib[us] In Torberg"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit mittiger Schliesse sowie Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, auf dem Rücken mit Tinte: "Aug[usti]n[us] liber ep[isto]la[rum]", sowie Thorberger Signatur    
+563      |a Vorsätze: vorne ohne, hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 32.6 x 22.2 x 8.0 cm    
+563      |a Zustand Einband: Fehlstellen sowie historische Ansatznähte im Einbandleder, Loch mit Rostspuren am Rückdeckel von vormaliger Ankettung, Blattweiser aus Leder zum Teil abgerissen    
+563      |a Gemäss Lindt wohl von Hans Leman gebunden (Initialen "hl"), ca. 1500-1505    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 328 von 328 Blättern, Pergamentverstärkung im Falz der ersten Lage [] und der letzten Lage S, Papierfalz zwischen Blättern R₆ und S₁ aus Vorsatzkonstruktion, rot ausgezeichnete Initialen, Anfangsinitiale auf Blatt a₁ recto blau ausgezeichnet, Rubrizierung, Blattweiser    
+590      |a Register vor den Textbeginn gebunden (vergleiche Signaturformel)    
+590      |a Handschriftliche Annotationen in Tinte (wenige Wörter) nur auf Blatt c₁ recto    
+590      |a Historische Signatur auf dem Rücken (Thorberger Signatur): "E XVIII"; auf vorderem Spiegel: "Patr: No. 239"; unter "239" weitere Zahl: "188"    
+590      |a Frühere Signatur: Inc 339    
+700 1 2  |a Augustinus, Aurelius    |c Heiliger    |d 354-430    |t Epistulae    |0 (DE-588)4333072-1    
+700 1    |a Amerbach, Johannes    |d 1440-1513    |0 (DE-588)123073189    |e Drucker    |4 prt    
+700 1    |a Leman, Hans    |d ca. 1480-1558    |0 (DE-588)1116441802    |e Buchbinder    |4 bnd    
+710 2    |a Kloster Thorberg    |0 (DE-588)7725716-9    |e Früherer Eigentümer    |4 fmo    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc III 54    |9 (41SLSP_UBE)99116903214005511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc III 54    |b B404    |9 (41SLSP_UBE)99116903214005511    
+986      |a (41SLSP_UBE)99116903214005511    |9 (41SLSP_UBE)99116903214005511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116903214005511    
+991      |a AAK: 00037001    |5 IZ UBE/11.10.2017/B404/vha    |9 LOCAL    |9 (41SLSP_UBE)99116903214005511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,165 @@
+﻿<-1-1-START->
+Bibel [lateinisch]
+<-1-1-STOP->
+
+<-1-2-START->
+. — Nicolaus de Lyra: Postillae perpetuae in vetus et novum testamentum; Probatio adventus Christi. — Guilelmus Brito (Exegeta): Expositio in prologos Biblie. — Paulus Burgensis: Additiones. — Doering, Matthias: Defensorium postillae Nicolai de Lyra contra Paulum Burgensem
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Biblia Vulgata mit der Übersetzung des Hieronymus, sowie seinen Prologen und Briefen an Paulinus von Nola und Papst Damasus I.<-500-STOP->
+<-500-START->Am Ende von Band 3 beigegebene Probatio adventus Christi von Nicolaus de Lyra in manchen Exemplaren am Anfang von Band 2 oder am Ende von Band 4<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Straßburg: [Johannes Grüninger], 03.11.1492
+<-3-1-STOP->
+
+<-4-1-START->
+4 Bände: 45 Illustrationen; 33 cm (2°)
+<-500-START->Umfang Band 1: 935 ungezählte Seiten; Band 2: 739 ungezählte Seiten; Band 3: 708 ungezählte Seiten; Band 4: 755 ungezählte Seiten<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-468.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-468<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW04292.htm<-L-5-STOP-><-VI-5-START->GW 04292<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib00617000<-L-5-STOP-><-VI-5-START->ISTC ib00617000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+Band 1: 468 von 468 Blättern, Band 2: 364 von 370 Blättern, Band 3: 354 von 354 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+3 ganzbezogene Ledereinbände auf Holzdeckeln (chamois, Schwein) mit Schliessen, Eck- und Mittelbeschlägen sowie einer Kettenöse (Band 1) bzw. Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jeorius Doleatoris; Kloster Thorberg
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Band 4 und Lage (D von Band 2 fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116753783605511<-L-11-STOP-><-VI-11-START->MUE Inc I 22<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991088884589705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Hieronymus, Sophronius Eusebius<-P-STOP->
+<-P-START->Nicolaus de Lyra<-P-STOP->
+<-P-START->Guilelmus Brito (Exegeta)<-P-STOP->
+<-P-START->Paulus Burgensis<-P-STOP->
+<-P-START->Doering, Matthias<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Grüninger, Johannes<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Doleatoris, Jeorius<-P-STOP->
+<-P-START->Kloster Thorberg<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991088884589705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 22<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 10038nam a2200793 ca4500
+001 991088884589705501
+005 20211215175141.0
+008 170815s1492    fr |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/15.08.2017/B404/faf    
+035      |a (swissbib)07229941X-41slsp_network    
+035      |a 07229941X    |9 ExL    
+035      |a (IDSBB)006722834DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991088884589705501    
+035      |a (41SLSP_UBE)99116753783605511    |9 (41SLSP_UBE)99116753783605511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a lat    |h heb    |h grc    |h arc    
+130 0    |a Bibel    |0 (DE-588)4006406-2    
+245 1 0  |a Exactu[m] est Arge[n]tine insigne h[oc] ac inusitatu[m] op[us] biblie vnacu[m] postillis venera[n]di viri ordinis mino[rum] fr[atr]is Nicolai de lyra    |b cu[m]q[ue] addit[i]o[n]ib[us] p[er] venerabile[m] ep[iscopu]m Paulu[m] burge[n]sem edit[um] ac replicis m[a]g[ist]ri Matthie dorinck eiusdem ordinis mino[rum] fratris et theologi optimi ... : Ite[m] p[ro]logo[rum] biblie expositio[n]es in h[oc] totali op[er]e ab imp[re]ssorib[us] inserte recepte su[n]t ex tractatu britonis. de expositio[n]ib[us] p[ro]logoru[m] biblie. demptis exposit[i]o[n]ib[us] p[ro]logo[rum] i[n] q[ua]ttuor eua[n]gelistas que sunt ip[s]ius Nicolai de lyra. q[ui] in s[e]c[un]da p[re]fatione ante initium postille veteris testame[n]ti. posita excusat se de huiusmodi expositione p[ro]logorum    
+246 1    |i Titel gemäss BSB-Ink und GW    |a Biblia    
+246 1    |i Titel gemäss ISTC    |a Biblia latina    
+246 1    |i Titel in normalisierter Form    |a Exactum est Argentine insigne hoc ac inusitatum opus Biblie unacum postillis venerandi viri ordinis minorum fratris Nicolai de Lyra, cumque additionibus per venerabilem episcopum Paulum Burgensem editum ac replicis magistri Matthie Dorinck eiusdem ordinis minorum fratris et theologi optimi    |b Item prologorum Biblie expositiones in hoc totali opere ab impressoribus inserte recepte sunt ex tractatu Britonis de expositionibus prologorum Biblie, demptis expositionibus prologorum in quattuor evangelistas que sunt ipsius Nicolai de Lyra, qui in secunda prefatione ante initium postille veteris testamenti posita excusat se de huiusmodi expositione prologorum    
+264   1  |a Exactu[m] est Arge[n]tine ...    |b [Johannes Grüninger]    |c charactere v[er]o impressum habes iucundissimo. expletum deniq[ue] Anno incarnate deitatis. M.cccclxxxxij. die vero Nonaru[m]. iij. Noue[m]briu[m] [03.11.1492]    
+300      |a 4 Bände    |b 45 Illustrationen    |c 33 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a In der Vulgata-Übersetzung des Hieronymus, mit Vorworten von Hieronymus und Briefen von ihm an Paulinus von Nola und Papst Damasus I.    
+500      |a Keine Titelseite für das Gesamtwerk, Titel gemäss Kolophon    
+500      |a Band 1, 3 und 4 je mit eigener Titelseite    
+500      |a Druckort und Druckdatum gemäss Kolophon (in Band 4)    
+500      |a Drucker gemäss BSB-Ink, GW und ISTC    
+500      |a Die am Ende von Band 3 beigegebene Probatio adventus Christi von Nicolaus de Lyra findet sich in manchen Exemplaren am Anfang von Band 2 oder am Ende von Band 4    
+500      |a Umfang Band 1: 935 ungezählte Seiten; Band 2: 739 ungezählte Seiten; Band 3: 708 ungezählte Seiten; Band 4: 755 ungezählte Seiten    
+500      |a Signaturformel Band 1: (A¹⁰, (B¹², (C–(H¹⁰, (I-(K⁸, (L–(O¹⁰, (P⁶, (Q⁸, (R–(Z¹⁰, ([et]¹⁰, (AA–(DD¹⁰, (EE¹², (FF¹⁰, (GG⁸, (HH⁶, (II–(OO¹⁰, (PP-(QQ⁶, (RR–(UU¹⁰, (XX¹², (YY-(ZZ¹⁰, ([et][et]¹⁰, ([con][con]⁶; Band 2: A–C⁸, (D⁶, D¹⁰, E–I⁸, K⁶, L⁸, M-N⁶, O–Z⁸, Aa–Gg⁸, Hh-Ii⁶, Kk–Nn⁸, Oo⁶, Pp–Rr⁸, Ss⁶, Tt-Uv⁸, Xx–Zz⁶, [et][et]⁶, [con][con]⁸; Band 3: AA–ZZ⁸, [et][et]⁶, [con][con]⁸, AAA–RRR⁸, SSS⁶, TTT⁸, []⁶; Band 4: a–o⁸, p⁶, q–x⁸, y⁶, aa-bb⁸, cc⁴, dd–ll⁸, mm⁶, nn–zz⁸, [et][et]⁸, [con][con]⁶, [rum][rum]⁸, [et]c[etera]⁶    
+500      |a Blatt Kk₈ ist unbedruckt    
+505 0 0  |g 1    |t Prima pars venerabilis fratris Nicolai de lyra ordinis seraphici francisci (in testamentu[m] vetus) tracta[n]s super toto corpore biblie. cum suis additionibus. deq[ue] replicis. et figuris sculptis    
+505 0 0  |g 3    |t Secunda pars Nicolai de Lira tracta[n]s super toto corpore biblie. cu[m] additionibus. Replicis. [et] figuris sculptis    |t Incipit libellus editus p[er] m[a]g[ist]r[u]m Nicolau[m] de lyra ordinis mino[rum] theologie p[ro]fessorem in quo sunt pulcerrime q[uesti]ones iudaica[m] p[er]fidiam in catholica fide improba[n]tes    
+505 0 0  |g 4    |t Quarta pars d[omi]ni Nicolai de Lira. cum suis addit[i]o[n]ibus. deq[ue] replicis. tractans super toto corpore biblie    
+510 4    |a BSB-Ink    |c B-468    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-468.html    
+510 4    |a GW    |c 04292    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW04292.htm    
+510 4    |a ISTC    |c ib00617000    |u http://data.cerl.org/istc/ib00617000    
+530      |a Digitalisat (Exemplar der Universitäts- und Landesbibliothek Düsseldorf)    |u http://digital.ub.uni-duesseldorf.de/id/4110435    
+561      |a Handschriftliche Besitzvermerke auf vorderen Spiegeln aller 4 Bände: "Iste liber pertinet domui portemo[n]tis Ordi[ni]s Carthusien[sis] proueniens a d[omi]no Jeorio doleatoris plebano In Walkringenn" (Band 1, leichte Varianten in den anderen Bänden)    
+563      |a Einbandbeschreibung: 3 ganzbezogene Ledereinbände auf Holzdeckeln (chamois, Schwein) mit Schliessen, Eck- und Mittelbeschlägen sowie einer Kettenöse (Band 1) bzw. Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, auf Vorderdeckeln jeweils verblasster Titel in Tintenschrift (Band 2 als "3. pars" bezeichnet, Band 3 als "2 pars"), auf Rücken rote Thorberg-Signaturen auf Pergamentschildern: "R" sowie "LXIIII" (Band 1), "LXV" (Band 3) und "LXVI" (Band 2)    
+563      |a Vorsätze: Band 1 vorne und hinten mit einem fliegenden Blatt, Band 2 vorne und hinten mit fünf fliegenden Blättern, Band 3 vorne mit einem und hinten mit zwei fliegenden Blättern    
+563      |a Masse Einbände: 32.2 x 23 x 10.6 cm (Band 1), 32.6 x 23.5 x 8.1 cm (Band 2), 32.1 x 23 x 7.8 cm (Band 3)    
+563      |a Zustand Einbände: Rost an Kettenöse und Vorsatz (Band 1) bzw. Rost an Löchern von vormaliger Ankettung, Schädlingsfrass an Band 2, Spuren eines abgelösten Rückenschildes in zweiten Bundfeldern von oben, Korrosion an den Schliessen, ergänzte Schliessenriemen an Band 1, Nachbildung des Thorberger Signatur-Schildes "R" an Band 3, ergänzte Schliessen an Band 3    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: Band 1: 468 von 468 Blättern, Band 2: 364 von 370 Blättern, Band 3: 354 von 354 Blättern, gelegentlich fehlende Lagensignatur in Tinte nachgetragen, Pergamentverstärkung (Makulatur) in ersten beiden und letzten beiden Lagen von Band 1, ersten drei und vorletzter Lage sowie beiden Vorsatzlagen von Band 2 und erster und letzter Lage von Band 3, erste und letzte Lage von Band 1 und 3 zusätzlich aussen mit Makulaturpergament verstärkt (Falz zwischen erster und zweiter sowie vorletzter und letzter Lage sichtbar), Papierfalz zwischen erster und zweiter sowie vorletzter und letzter Lage von Band 1 und 3 aus Vorsatzkonstruktion, in Band 2 Pergamentverstärkung aussen um beide Vorsatzlagen an den Heftstationen, in Band 3 zwischen vorletzter und letzter Lage unbedrucktes Blatt aus Vorsatzkonstruktion, vorgesehene Stellen für Initialen frei gelassen    
+590      |a Zustand Buchblöcke: In Band 1 Risse mit Büttenpapier geschlossen, in Band 2 Feuchtigkeitsschaden mit Verlust der Blattecken in den letzten beiden Lagen    
+590      |a Unvollständiges Exemplar: Band 4 und Lage (D von Band 2 fehlen    
+590      |a Wenige handschriftliche Annotationen und Unterstreichungen in Tinte (z.B. Band 1, Blatt (D₈ verso)    
+590      |a Historische Signaturen auf vorderem Spiegel: "120", "121" (beide Band 1), "123" (Band 2), "122" (Band 3)    
+590      |a Frühere Signatur: Inc 103    
+700 1    |a Hieronymus, Sophronius Eusebius    |d 345-420    |0 (DE-588)118550853    |e Übersetzer    |e Verfasser eines Vorworts    |4 trl    |4 wpr    
+700 0    |a Nicolaus    |c de Lyra    |d 1270-1349    |0 (DE-588)119238683    |e Kommentarverfasser    |4 wac    
+700 0    |a Guilelmus    |c Brito, Exegeta    |d -1275    |0 (DE-588)102482799    |e Kommentarverfasser    |4 wac    
+700 0    |a Paulus    |c Burgensis    |d 1352-1435    |0 (DE-588)119105144    |e Kommentarverfasser    |4 wac    
+700 1    |a Doering, Matthias    |d 1390-1469    |0 (DE-588)100964664    |e Kommentarverfasser    |4 wac    
+700 1    |a Grüninger, Johannes    |d 1455-1531    |0 (DE-588)118698451    |e Drucker    |4 prt    
+700 1    |a Doleatoris, Jeorius    |d ca. 1. H. 16. Jh.    |0 (DE-588)1138292648    |e Früherer Eigentümer    |4 fmo    
+700 0 2  |a Nicolaus    |c de Lyra    |d 1270-1349    |t Postillae perpetuae in vetus et novum testamentum    |0 (DE-588)4372198-9    
+700 0 2  |a Nicolaus    |c de Lyra    |d 1270-1349    |t Probatio adventus Christi    |0 (DE-588)4588623-4    
+700 0 2  |a Guilelmus    |c Brito, Exegeta    |d -1275    |t Expositio in prologos Biblie    |0 (DE-588)1138297658    
+700 0 2  |a Paulus    |c Burgensis    |d 1352-1435    |t Additiones    |0 (DE-588)1138302341    
+700 1 2  |a Doering, Matthias    |d 1390-1469    |t Defensorium postillae Nicolai de Lyra contra Paulum Burgensem    |0 (DE-588)1138298751    
+710 2    |a Kloster Thorberg    |0 (DE-588)7725716-9    |e Früherer Eigentümer    |4 fmo    
+730 0    |a Bibel    |g Vulgata    |0 (DE-588)4188770-0    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Inc I 22    |9 (41SLSP_UBE)99116753783605511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |h MUE Inc I 22 : 1    |q 1    |p 12    |j MUE Inc I 22    |b B404    |9 (41SLSP_UBE)99116753783605511    
+949      |c 404U3    |h MUE Inc I 22 : 3    |q 3    |p 12    |j MUE Inc I 22    |b B404    |9 (41SLSP_UBE)99116753783605511    
+949      |c 404U3    |h MUE Inc I 22 : 2    |q 2    |p 12    |j MUE Inc I 22    |b B404    |9 (41SLSP_UBE)99116753783605511    
+986      |a (41SLSP_UBE)99116753783605511    |9 (41SLSP_UBE)99116753783605511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116753783605511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

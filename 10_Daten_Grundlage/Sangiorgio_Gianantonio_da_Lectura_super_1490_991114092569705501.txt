@@ -1,0 +1,142 @@
+﻿<-1-1-START->
+Sangiorgio, Gianantonio da
+<-1-1-STOP->
+
+<-1-2-START->
+Lectura super quarto libro Decretalium
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Widmung und Gedicht des Verfassers an Ascanio Maria Sforza<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Pavia: Antonio Carcano für Johannes Franciscus de Nebiis, 24.06.1490
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 46 ungezählte Seiten, 1 ungezähltes Blatt, 360 ungezählte Seiten, 1 ungezähltes Blatt; 45 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_S-75.html<-L-5-STOP-><-VI-5-START->BSB-Ink S-75<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M39963.htm<-L-5-STOP-><-VI-5-START->GW M39963<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/is00137000<-L-5-STOP-><-VI-5-START->ISTC is00137000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+206 von 206 Blättern, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit zwei Schliessen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, Buchbinder (gemäss Stempel): Uoldaricus
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116843537805511<-L-11-STOP-><-VI-11-START->MUE Inc II 29<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991114092569705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Sangiorgio, Gianantonio da<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Pavia<-O-STOP->
+<-P-START->Nebiis, Johannes Franciscus de<-P-STOP->
+<-O-START->Pavia<-O-STOP->
+<-P-START->Carcano, Antonio<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-P-START->Uoldaricus<-P-STOP->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991114092569705501<-DOI-STOP->
+<-SIGN-START->MUE Inc II 29<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06361nam a2200625 c 4500
+001 991114092569705501
+005 20220902094248.0
+008 191028s1490    it |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/29.10.2019/B404/vha    
+035      |a (swissbib)075728532-41slsp_network    
+035      |a 075728532    |9 ExL    
+035      |a (IDSBB)007128957DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991114092569705501    
+035      |a (41SLSP_UBE)99116843537805511    |9 (41SLSP_UBE)99116843537805511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Sangiorgio, Gianantonio <<da>>    |d 1439-1509    |0 (DE-588)100142117    |e Verfasser    |4 aut    
+240 1 0  |a Lectura super quarto libro Decretalium    
+245 1 0  |a Explicit lectura solemnis sup[er] quarto libro decretaliu[m] d[e] sponsalibus [et] m[at]rimonijs    |c edita p[er] ... Iurisutriusq[uem] interprete[m] d[omi]n[u]m Joh[ann]em antoniu[m] de sancto georgio patriciu[m] mediolane[n]se[m] sacri palatij ap[osto]licu[m] auditore[m]. Nec no[n] alexandrinu[m] Ep[iscopu]m ac r[e]frendariu[m] ap[osto]licu[m] dignissimu[m]    
+246 1    |i Titel in normalisierter Form    |a Explicit lectura solemnis super quarto libro decretalium de sponsalibus et matrimoniis    
+246 1 0  |a Lectura solemnis super quarto libro decretalium de sponsalibus et matrimoniis    
+246 1    |i Incipit    |a [R]Euere[n]di patris [et] celebratissimi iureco[n]sulti. d. Johannisantonii de sancto Georgio ... Co[m]me[n]tu[m] dignissimu[m] sup[er] quarto libro decretaliu[m] ...    
+246 1    |i Incipit in normalisierter Form    |a Reverendi patris et celebratissimi iureconsulti D. Johannisantonii de Sancto Georgio ... Commentum dignissimum super quarto libro decretalium ...    
+246 1 0  |a Commentum dignissimum super quarto libro decretalium    
+246 1    |i Titel gemäss GW    |a Lectura super IV. Decretalium    
+246 1    |i Titel gemäss ISTC    |a Super quarto libro Decretalium    
+264   1  |a Imp[re]ssa p[a]p[ie]    |b p[er] magist[rum] Antoniu[m] de Carchano    |b Impensa Joha[n]ni francisci de nebiis de burgo ciuis .p[a]p[ie].    |c Anno a natali christiano .1490. octauo kalendas Iulii [24.06.1490]    
+300      |a 1 ungezähltes Blatt, 46 ungezählte Seiten, 1 ungezähltes Blatt, 360 ungezählte Seiten, 1 ungezähltes Blatt    |c 45 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Titel gemäss Kolophon (Blatt [et]₇ verso)    
+500      |a Mit Register (Blatt A₁ verso bis C₁₀ verso) und einem Gedicht auf das Werk (Blatt C₁₀ verso, "I liber ac omnem predi venalis in vrbem")    
+500      |a Widmung (Blatt a₁ verso) und Gedicht (Blatt [et]₇ verso, "Inuigilata mihi princeps. comenta libenter // Suscipe ...") des Verfassers an Ascanio Maria Sforza    
+500      |a Impressum gemäss Kolophon; Reihenfolge der Vorlage: "Explicit lectura solemnis sup[er] quarto libro decretaliu[m] d[e] sponsalibus [et] m[at]rimonijs. edita p[er] ... Iurisutriusq[uem] interprete[m] d[omi]n[u]m Joh[ann]em antoniu[m] de sancto georgio patriciu[m] mediolane[n]se[m] sacri palatij ap[osto]licu[m] auditore[m]. Nec no[n] alexandrinu[m] Ep[iscopu]m ac r[e]frendariu[m] ap[osto]licu[m] dignissimu[m]. Imp[re]ssa p[a]p[ie] p[er] magist[rum] Antoniu[m] de Carchano Anno a natali christiano .1490. octauo kalendas Iulii. Impensa Joha[n]ni francisci de nebiis de burgo ciuis .p[a]p[ie]."    
+500      |a Signaturformel: A⁸, B⁶, C¹⁰, a–e⁸, f–h⁶, i–l⁸, m⁶, n–r⁸, s⁶, t–z⁸, [et]⁸    
+500      |a Blatt a₁ recto unbedruckt; letztes Blatt [et]₈ unbedruckt    
+500      |a Incipit (Blatt a₂ recto) rot gedruckt    
+510 4    |a BSB-Ink    |c S-75    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_S-75.html    
+510 4    |a GW    |c M39963    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M39963.htm    
+510 4    |a ISTC    |c is00137000    |u http://data.cerl.org/istc/is00137000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00068835/image_4    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit zwei Schliessen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, dazu Buchbinderstempel "Uoldaric[us]" (jeweils oben und unten); Titel in Tinte im oberen Bundfeld auf dem Rücken (teilweise verblasst): "...[?] super 4 Decretaliu[m] 1490" (weiteres Wort im Bundfeld darunter unleserlich)    
+563      |a Vorsätze: vorne und hinten ohne fliegende Blätter    
+563      |a Masse: 44.5 x 30.6 x 5.6 cm    
+563      |a Zustand Einband: Kratzer und Verfleckungen am Einbandleder, Ledereinschlag am Vorderdeckel mit Rissen im Spiegel hoch gelöst, lokale Verstärkung aus Gewebe unterhalb der Spiegel an beiden Innendeckeln (siehe auch Rückenhinterklebung mit grobem Gewebe), ergänzter Haken und Schliessenriemen an oberer Schliesse    
+590      |a Buchblockbeschreibung: 206 von 206 Blättern, Pergamentverstärkung in den ersten und letzten drei Lagen (Velours, Manuskriptmakulatur); Papierfalz nach Lage A und vor letzter Lage [et] gehört zum jeweiligen Spiegel, Pergamentstreifen nach Lage A und vor letzter Lage [et] gehören zu Anzatzfälzen auf beiden Deckeln; rot ausgezeichnete Initialen, Rubrizierung    
+590      |a Wenige handschriftliche Annotationen in Tinte, teilweise in roter Tinte; Blatt p₂ verso bis q₅ recto jeweils mit handschriftlichem Kopftitel: "Li[ber] iiii Qui fil[ii] sint legit[imi]" (entsprechend Kapitelbeginn auf Blatt p₂ verso); dieser Titel auch in roter Tinte oben auf den Blättern s₁ und s₂ recto    
+590      |a Historische Signatur auf vorderem Spiegel: "Jur: Pol: N. 14"; auf Blatt A₂ recto: "Jurid. Polit 21"    
+590      |a Frühere Signatur: Inc 298    
+700 1 2  |a Sangiorgio, Gianantonio <<da>>    |d 1439-1509    |t Lectura super quarto libro Decretalium    |0 (DE-588)1198255331    
+700 1    |a Sforza, Ascanio Maria    |d 1455-1505    |0 (DE-588)124371817    |e Widmungsempfänger    |4 dte    
+700 1    |a Nebiis, Johannes Franciscus <<de>>    |d ca. 15. Jahrhundert    |0 (DE-588)1180515617    |e Verlag    |4 pbl    
+700 1    |a Carcano, Antonio    |0 (DE-588)1172448353    |e Drucker    |4 prt    
+700 1    |a Uoldaricus    |0 (DE-588)1124489932    |4 bnd    
+751      |a Pavia    |0 (DE-588)4044970-1    
+852 4    |b B404    |c 404U3    |j MUE Inc II 29    |9 (41SLSP_UBE)99116843537805511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc II 29    |b B404    |9 (41SLSP_UBE)99116843537805511    
+986      |a (41SLSP_UBE)99116843537805511    |9 (41SLSP_UBE)99116843537805511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116843537805511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

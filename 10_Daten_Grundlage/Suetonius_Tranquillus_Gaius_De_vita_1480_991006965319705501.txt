@@ -1,0 +1,151 @@
+﻿<-1-1-START->
+Suetonius Tranquillus, Gaius
+<-1-1-STOP->
+
+<-1-2-START->
+De vita Caesarum
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Auszügen aus Ausonius' Caesares (Monosticha, Nerva bis Commodus) und einer kurzen Beschreibung von Suetons Leben und Werk<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Venedig oder Treviso: Drucker von Valla, Elegantiae (H 15809) (Giovanni Rosso?)], 1480
+<-500-START->Gemäss BMC ist der Drucker von Valla, Elegantiae (H 15809) identisch oder steht in enger Verbindung mit Giovanni Rosso<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 218 ungezählte Seiten; 32 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_S-612.html<-L-5-STOP-><-VI-5-START->BSB-Ink S-612<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M44225.htm<-L-5-STOP-><-VI-5-START->GW M44225<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/is00820000<-L-5-STOP-><-VI-5-START->ISTC is00820000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+110 von 110 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Holzdeckeln (braun, Schaf) mit mittiger Schliesse
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116903108005511<-L-11-STOP-><-VI-11-START->MUE Inc II 72<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991006965319705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Suetonius Tranquillus, Gaius<-P-STOP->
+<-P-START->Ausonius, Decimus Magnus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Drucker von Valla, Elegantiae (H 15809)<-P-STOP->
+<-O-START->Treviso<-O-STOP->
+<-P-START->Rosso, Giovanni<-P-STOP->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Rosso, Giovanni<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991006965319705501<-DOI-STOP->
+<-SIGN-START->MUE Inc II 72<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05194nam a2200697 c 4500
+001 991006965319705501
+005 20211215161346.0
+008 171010s1480    it |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/10.10.2017/B404/faf    
+035      |a (swissbib)074345575-41slsp_network    
+035      |a 074345575    |9 ExL    
+035      |a (IDSBB)006738233DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991006965319705501    
+035      |a (41SLSP_UBE)99116903108005511    |9 (41SLSP_UBE)99116903108005511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Suetonius Tranquillus, Gaius    |d 70-150    |0 (DE-588)118619918    |e Verfasser    |4 aut    
+240 1 0  |a De vita Caesarum    
+245 1 0  |a C. Svetonii Tranqvilli De Vita .XII. Caesarvm Liber Primvs [-Dvodecimvs]    
+246 1 0  |a De Vita .XII. Caesarvm Liber Primvs [-Dvodecimvs]    
+246 1    |i Titel in normalisierter Form    |a C. Suetonii Tranquilli de vita XII Caesarum liber primus [-duodecimus]    
+246 1    |i Titel gemäss GW und ISTC    |a Vitae XII Caesarum    
+264   1  |a [Venedig oder Treviso]    |b [Drucker von Valla, Elegantiae (H 15809) (Giovanni Rosso?)]    |c M.CCCC.LXXX [1480]    
+300      |a 1 ungezähltes Blatt, 218 ungezählte Seiten    |c 32 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Auszügen aus Ausonius' "Caesares" (Monosticha, Nerva bis Commodus) und einer kurzen Beschreibung von Suetons Leben und Werk    
+500      |a Keine Titelseite, Titel folgt auf 6 Verse unter dem Titel "Avsonii Versus" auf Blatt a₂ recto    
+500      |a Druckjahr gemäss Kolophon    
+500      |a Druckort und Drucker gemäss ISTC; gemäss BMC ist der Drucker von Valla, Elegantiae (H 15809) identisch oder steht in enger Verbindung mit Giovanni Rosso    
+500      |a Signaturformel: a¹⁰, b–g⁸, h⁶, i⁸, k⁶, l⁸, m–p⁶    
+500      |a Blatt a₁ ist unbedruckt    
+510 4    |a BSB-Ink    |c S-612    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_S-612.html    
+510 4    |a GW    |c M44225    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M44225.htm    
+510 4    |a ISTC    |c is00820000    |u http://data.cerl.org/istc/is00820000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/0001/bsb00012316/images    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Holzdeckeln (braun, Schaf) mit mittiger Schliesse, handschriftlicher Titel in Tinte auf dem Holz des Rückdeckels: "Suetonius Tranquillus. Corneli[us] Tacit[us] de morib[us], situ & populis Germaniae."    
+563      |a Vorsätze: Vorne und hinten ohne fliegende Blätter, Makulaturpergament auf beiden Spiegeln    
+563      |a Masse Einband: 31.3. x 22.8 x 3.5 cm    
+563      |a Zustand Einband: Schliesse vollständig ergänzt, Lederüberklebungen am Rücken, Heftung im hinteren Ansatzfalz gerissen    
+590      |a Buchblockbeschreibung: 110 von 110 Blättern, Falz von Makulaturpergament zwischen den Lagen a und b gehört zur Konstruktion der Deckelverbindung, vorgesehene Stellen für Initialen frei gelassen, Blattweiser    
+590      |a Zustand Buchblock: Feuchtigkeitsränder und Verfleckungen, Fehlstelle an Blatt a₁ mit Japanpapier ergänzt, Riss an Blatt c₇    
+590      |a Druck auf Blatt b₇ recto teilweise leicht verschmiert    
+590      |a Wenige handschriftliche Annotationen in Tinte    
+590      |a Auf Blatt a₁ recto wird wie auf dem Rückdeckel handschriftlich Tacitus' "Germania" als weiteres enthaltenes Werk genannt, das im Band jedoch nicht zu finden ist    
+590      |a Papierstreifen mit Abbildern von Münzen auf vorderem Spiegel eingeklebt    
+590      |a Historische Signatur auf ehemaligem Titelschild eingeklebt auf vorderem Spiegel: "N°. 75."; auf Blatt a₂ recto: "N° 88."    
+590      |a Frühere Signaturen: Inc 25; Inc 36    
+700 1    |a Ausonius, Decimus Magnus    |d 310-395    |0 (DE-588)118505165    |e Verfasser    |4 aut    
+700 1    |a Drucker von Valla, Elegantiae (H 15809)    |d ca. 15. Jh.    |0 (DE-588)1141237318    |e Drucker    |4 prt    
+700 1    |a Rosso, Giovanni    |0 (DE-588)1037570634    |e Drucker    |4 prt    
+700 1 2  |a Suetonius Tranquillus, Gaius    |d 70-150    |t De vita Caesarum    |0 (DE-588)4297019-2    
+700 1 2  |a Ausonius, Decimus Magnus    |d 310-395    |t Caesares    |p Monosticha    |0 (DE-588)4494786-0    
+700 1 2  |a Ausonius, Decimus Magnus    |d 310-395    |t Caesares    |p De Caesaribus post Tranquillum    |p Nerva    |0 (DE-588)4495538-8    
+700 1 2  |a Ausonius, Decimus Magnus    |d 310-395    |t Caesares    |p De Caesaribus post Tranquillum    |p Traianus    |0 (DE-588)4495541-8    
+700 1 2  |a Ausonius, Decimus Magnus    |d 310-395    |t Caesares    |p De Caesaribus post Tranquillum    |p Hadrianus    |0 (DE-588)4495613-7    
+700 1 2  |a Ausonius, Decimus Magnus    |d 310-395    |t Caesares    |p De Caesaribus post Tranquillum    |p Antoninus Pius    |0 (DE-588)4495692-7    
+700 1 2  |a Ausonius, Decimus Magnus    |d 310-395    |t Caesares    |p De Caesaribus post Tranquillum    |p M. Antonius    |0 (DE-588)4495696-4    
+700 1 2  |a Ausonius, Decimus Magnus    |d 310-395    |t Caesares    |p De Caesaribus post Tranquillum    |p Commodus    |0 (DE-588)4495700-2    
+751      |a Venedig    |0 (DE-588)4062501-1    
+751      |a Treviso    |0 (DE-588)4119702-1    
+852 4    |b B404    |c 404U3    |j MUE Inc II 72    |9 (41SLSP_UBE)99116903108005511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc II 72    |b B404    |9 (41SLSP_UBE)99116903108005511    
+986      |a (41SLSP_UBE)99116903108005511    |9 (41SLSP_UBE)99116903108005511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116903108005511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

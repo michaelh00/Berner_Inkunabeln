@@ -1,0 +1,144 @@
+﻿<-1-1-START->
+Johannes Versor
+<-1-1-STOP->
+
+<-1-2-START->
+Quaestiones super libros Aristotelis
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Behandelt die Bücher von Aristoteles zu: Physica, De caelo, De mundo, De generatione et corruptione, Meteorologica, De anima, De sensu et sensibilibus, De memoria et reminiscentia; De somno et vigilia; De longitudine et brevitate vitae<-500-STOP->
+<-500-START->Mit Widmungsbrief von Petrus de Sancto Johanne an Johannes Pardus<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Lyon]: Johann Trechsel, [1489]
+<-3-1-STOP->
+
+<-4-1-START->
+260 ungezählte Blätter: Druckermarke; 25 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_V-177.html<-L-5-STOP-><-VI-5-START->BSB-Ink V-177<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M50267.htm<-L-5-STOP-><-VI-5-START->GW M50267<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/iv00258400<-L-5-STOP-><-VI-5-START->ISTC iv00258400<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+260 von 260 Blättern, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116834228405511<-L-11-STOP-><-VI-11-START->MUE Inc III 69<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991092889719705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Johannes Versor<-P-STOP->
+<-P-START->Petrus de Sancto Johanne<-P-STOP->
+<-P-START->Aristoteles<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Lyon<-O-STOP->
+<-P-START->Trechsel, Johann<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991092889719705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 69<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05517nam a2200649 c 4500
+001 991092889719705501
+005 20221214141955.0
+008 170317s1489    fr |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/17.03.2017/B404/vha    
+035      |a (swissbib)072610255-41slsp_network    
+035      |a 072610255    |9 ExL    
+035      |a (IDSBB)006682860DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991092889719705501    
+035      |a (41SLSP_UBE)99116834228405511    |9 (41SLSP_UBE)99116834228405511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Johannes    |c Versor    |d -1482    |0 (DE-588)102550670    |e Verfasser    |4 aut    
+240 1 0  |a Quaestiones super libros Aristotelis    
+245 1 0  |a Johannis versoris philosophi p[rae]clarissimi in diui Aristotelis Philosophie libros glosule exactissime    
+246 1 0  |a In divi Aristotelis philosophie libros glosule exactissime    
+246 1    |i Sachtitel in moderner Orthografie    |a In divi Aristotelis philosophiae libros glossulae exactissimae    
+246 1    |i Titel gemäss BSB-Ink und ISTC    |a Quaestiones super libros philosophiae naturalis Aristotelis    
+246 1    |i Titel gemäss GW (gibt nur Teil des Inhalts wieder)    |a Quaestiones super Parva naturalia Aristotelis    
+246 1    |i Titel gemäss Textende    |a Glosule super philosophia naturali Johannis versoris p[rae]stantissimi philosophi    
+246 1    |i Titel gemäss Textende in moderner Orthografie    |a Glossulae super philosophia naturali Johannis Versoris praestantissimi philosophi    
+246 1    |i Titel in moderner Orthografie    |a Johannis Versoris philosophi praeclarissimi in divi Aristotelis philosophiae libros glossulae exactissimae    
+246 1    |i Titel in normierter Form    |a Johannis Versoris philosophi praeclarissimi in divi Aristotelis philosophie libros glosule exactissime    
+264   1  |a [Lyon]    |b Has quidem caractheres sculpsit trechselq[ue] iohannes    |c [1489]    
+300      |a 260 ungezählte Blätter    |c 25 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Textende (Blatt p₆ verso): "Glosule super philosophia naturali Johannis versoris p[rae]stantissimi philosophi finiunt feliciter. Sequitur tabula"    
+500      |a Enthält: Liber primus [- octavus] phisicorum; Liber primus [- quartus] de celo et mundo; Liber primus [- secundus] de generatione et corruptione; Liber primus [- quartus] methaurorum; Liber primus [- tertius] de anima; Liber de sensu et sensato; Liber de memoria et reminiscentia; Liber de somno et vigilia; Liber de longitudine et brevitate vite    
+500      |a Auf der Rückseite der Titelseite Widmungsbrief von Petrus de Sancto Johanne an Johannes Pardus: "Petrus de sancto ioh[ann]e Joha[n]ni pardo salute[m] ..."    
+500      |a Auf Blatt q₇ recto (letzte bedruckte Seite), vor dem Kolophon, ein Gedicht auf Versor: 'Hic est ille tuus doctor parisea ...'    
+500      |a "... Has quidem caractheres sculpsit trechselq[ue] iohannes. Anno milleno ter. c. ll. sociato. Lx adiuncto ter x semel i q[ue] amoto." - Kolophon in Gedichtform, gefolgt von Druckermarke auf Blatt q₇ recto (letzte bedruckte Seite)    
+500      |a Die Jahresangabe im Kolophon liest sich: M (milleno), 3 x 100 (ter C), 2 x 50 angefügt (LL sociato), 60 hinzugefügt (LX adiuncto) und 3 x 10 (ter X), zugleich 1 abgezogen (semel i que amoto) = 1489 (siehe Anatole Claudin: Histoire de l'imprimerie en France au XVe et au XVIe siècle. Paris: Imprimerie Nationale, 1914. Tome 4, Seite 57)    
+500      |a Signaturformel: A–G⁸, H¹⁰, I–P⁸, Q–R⁶, a–o⁸, p⁶, q⁸    
+500      |a Letztes Blatt q₈ unbedruckt    
+500      |a Blatt    
+510 4    |a BSB-Ink    |c V-177    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_V-177.html    
+510 4    |a GW    |c M50267    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M50267.htm    
+510 4    |a ISTC    |c iv00258400    |u http://data.cerl.org/istc/iv00258400    
+530      |a Digitalisat (Exemplar der BSB München)    |u http://daten.digitale-sammlungen.de/bsb00072882/image_5    
+563      |a Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jahrhundert), Ornamentrollen-Blindprägung auf beiden Deckeln, Linien-Blindprägung sowie Titelschild in Goldprägung auf dem Rücken: "Versor: In Aristotel."; mit Tinte handschriftlich darunter: "1489. Trechsel Jo"    
+563      |a Vorsätze: vorne und hinten ein fliegendes Blatt    
+563      |a Masse Einband: 24.3 x 18 x 5.2 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, Leder-Fragmente zurück geklebt, Vorsätze im Falz mit Japanpapier verstärkt    
+590      |a Buchblockbeschreibung: 260 von 260 Blättern, rot ausgezeichnete Initialen, vorgesehene Stellen für Initialen teilweise frei gelassen, Rubrizierung    
+590      |a Zustand Buchblock: Stellenweise Craqueleé in rotem Farbauftrag mit Abklatschbildung und Anhaftung der abgespaltenen Papieroberfläche (zum Beispiel Blätter der Lage q)    
+590      |a Historische Signatur auf der Titelseite: "Phil 32"    
+590      |a Frühere Signatur: Inc 413    
+700 0    |a Petrus    |c de Sancto Johanne    |d ca. 15. Jh.    |0 (DE-588)129050156    |e Widmender    |e Verfasser eines Vorworts    |4 dto    |4 wpr    
+700 1    |a Pardus, Johannes    |0 (DE-588)129048151    |e Widmungsempfänger    |4 dte    
+700 0 2  |a Johannes    |c Versor    |d -1482    |t Quaestiones super libros Aristotelis    |0 (DE-588)1122311494    
+700 1    |a Trechsel, Johann    |d 14XX-1498    |0 (DE-588)129073482    |e Drucker    |4 prt    
+751      |a Lyon    |0 (DE-588)4036770-8    
+852 4    |b B404    |c 404U3    |j MUE Inc III 69    |9 (41SLSP_UBE)99116834228405511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc III 69    |b B404    |9 (41SLSP_UBE)99116834228405511    
+986      |a (41SLSP_UBE)99116834228405511    |9 (41SLSP_UBE)99116834228405511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116834228405511    
+991      |a AAK: 924122    |5 IZ UBE/17.03.2017/B404/vha    |9 local    |9 (41SLSP_UBE)99116834228405511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

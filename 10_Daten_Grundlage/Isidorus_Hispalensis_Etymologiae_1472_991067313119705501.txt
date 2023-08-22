@@ -1,0 +1,147 @@
+﻿<-1-1-START->
+Isidorus Hispalensis
+<-1-1-STOP->
+
+<-1-2-START->
+Etymologiae
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Briefwechsel zwischen Isidor und Braulio Caesaraugustanus, Bischof von Saragossa<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Augsburg]: Günther Zainer, 19.11.1472
+<-3-1-STOP->
+
+<-4-1-START->
+527 ungezählte Seiten: 4 Illustrationen; 33 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_I-627.html<-L-5-STOP-><-VI-5-START->BSB-Ink I-627<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M15250.htm<-L-5-STOP-><-VI-5-START->GW M15250<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ii00181000<-L-5-STOP-><-VI-5-START->ISTC ii00181000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+264 von 264 Blättern, rot ausgezeichnete Initialen (auch innerhalb der Illustrationen), Schmuckinitialen (Blätter [a₁] recto und [a₄] verso) schwarz und rot ausgezeichnet; Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun, Ziege) mit Langriemenschliessen sowie einer Kettenöse am oberen Rand des Rückdeckels (Frühbestand der Bibliothek), Linien- und Ornamentstempel-Blindprägung an beiden Deckeln; Buchbinder: Rolet Stos
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Johannes Ellin
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116774541805511<-L-11-STOP-><-VI-11-START->MUE Inc III 52<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991067313119705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Isidorus Hispalensis<-P-STOP->
+<-P-START->Braulio Caesaraugustanus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Augsburg<-O-STOP->
+<-P-START->Günther Zainer<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-P-START->Stos, Rolet<-P-STOP->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Ellin, Johannes<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991067313119705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 52<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06934nam a2200661 c 4500
+001 991067313119705501
+005 20211215183217.0
+008 130501s1472    gw            00| | lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/24.07.2014/B400/vha    
+035      |a (swissbib)066200962-41slsp_network    
+035      |a 066200962    |9 ExL    
+035      |a (IDSBB)006121739DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991067313119705501    
+035      |a (41SLSP_UBE)99116774541805511    |9 (41SLSP_UBE)99116774541805511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Isidorus    |c Hispalensis    |d 560-636    |0 (DE-588)118555995    |e Verfasser    |4 aut    
+240 1 0  |a Etymologiae    
+245 1 0  |a Isidori iunioris hispalensis episcopi. Ethimologiarum libri numero viginti finiunt foeliciter    
+246 1 0  |a Ethimologiarum libri    
+246 1 0  |a Liber Etimologiarum    
+246 1 0  |a Liber Etymologiarum    
+246 1 3  |a Isidori Iunioris Hispalensis Episcopi Liber Etimologiarum    
+246 1    |i Titel auf Blatt b₄ recto    |a Isidori Ivnioris Hispalensis Episcopi Liber Etimologiarvm    
+246 1    |i Titel in moderner Orthografie    |a Isidori iunioris Hispalensis episcopi Etymologiarum libri    
+246 1    |i Werkttitel in moderner Orthografie    |a Etymologiarum libri    
+264   1  |a [Augsburg]    |b Per Gintherum zainer ex Reutlingen progenitum. literis impressi ahenis    |c Anno ab incarnatione domini. MillesimoQuadringentesimo Septuagesimosecundo. Decimanona die. Mensis. noue[m]bris. [19.11.1472]    
+300      |a 527 ungezählte Seiten    |b 4 Illustrationen    |c 33 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Titel und Impressum gemäss Kolophon (letztes Blatt recto)    
+500      |a Blatt [a₁]-[a₃] mit Briefwechsel zwischen Isidor und Braulio Caesaraugustanus, Bischof von Saragossa    
+500      |a Blatt [a₃] verso und [a₄] recto mit Vorwort an den Leser: "De quibus conditor huius operis dipsutauerit[!] hac tabula subscripta et quide[m] generali co[n]tinetur"    
+500      |a Signaturformel (gemäss BSB-Ink): [*⁴, a¹⁰+¹, b–m¹⁰, n⁸+¹, o–z¹⁰, A⁸, B¹⁰, C¹⁰+²]    
+500      |a Illustrationen (Holzschnitte) auf den Blättern [n₅] (cxxvi) verso ("Stemma Stirpis Humane"), [n₆] (cxxvii) recto (Arbor Consanguineitatis" und verso ("Arbor affinitatis") sowie Blatt [s₇] (clxxvii) verso (schematische Darstellung der Erde)    
+510 4    |a BSB-Ink    |c I-627    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_I-627.html    
+510 4    |a GW    |c M15250    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M15250.htm    
+510 4    |a ISTC    |c ii00181000    |u http://data.cerl.org/istc/ii00181000    
+530      |a Digitalisat (Exemplar der ETH-Bibliothek, Zürich)    |u http://dx.doi.org/10.3931/e-rara-8812    
+561      |a Handschriftlicher Besitzvermerk auf leerem Blatt vor Blatt [*₁] (verso): "Barbato p[er]tinet E[m]ptus [est] i[n] franckforda p[ro] iiij flor[enos] ab vno mercatore q[ui] hanc m[ateriam] secu[m] detulit de regno Neapolitano" (Barbatus ist Johannes Ellin, Berner Stadtarzt)    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun, Ziege) mit Langriemenschliessen sowie einer Kettenöse am oberen Rand des Rückdeckels (Frühbestand der Bibliothek), Linien- und Ornamentstempel-Blindprägung an beiden Deckeln, Titelschild in Goldprägung auf dem Rücken: "Isidori Epistolæ", darunter in Tinte: "Reutling... 1472"    
+563      |a Abbildung des Einbands und der Stempel bei Lindt: Berner Einbände, Buchbinder und Buchdrucker, Bern, 1969, Seiten 12-13; Buchbinder (bei Lindt noch "anonym") in Burgerbibliothek Bern identifiziert als Rolet Stos (Einbanddatenbank, Werkstatt-Nr. w002225)    
+563      |a Vorsätze: ohne fliegende Blätter; vorne (laut Bleistiftnotiz von Lindt) abgelöster Deckelvorsatz, als fliegendes Blatt eingeklebt (ca. 20.5 x 30.5 cm, lateinischer kirchenpolitischer Text des 14. Jahrhunderts, darin erwähnt Titel von kirchlichen Ämtern, "rebelles", Androhung eines Interdikts von 10 Tagen), auf der Rückseite von Hand des 15. Jahrhunderts: "Dem H[errn] Prior vo[n] Buchsi" (Prior von Herzogenbuchsee) ; hinterer Spiegel: Verschnitt einer geistlichen Musik-Handschrift (Antiphonar), Pergament, 15. Jahrhundert (teilweise abgerieben, rubriziert, jeweils 4 Notenlinien)    
+563      |a Masse Einband: 32.5 x 22.3 x 7.7 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, Lederüberklebungen am Rücken, Langriemenschliessen vollständig ergänzt, vorderer Pergamentspiegel hoch gelöst und mit Japanpapierfalz stabilisiert    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 264 von 264 Blättern, handschriftliche Foliierung in Tinte ab Blatt [a₁] recto im rechten, oberen Eck, mit römischen Zahlen von i bis cclx; Lage [*] und Lage [B] innen und aussen mit Pergamentverstärkung im Falz (Makulatur), Pergamentfälze zwischen Lage [*] und Lage [a], sowie zwischen Lage [A] und Lage [B] gehören zu den Pergamentspiegeln, Papierfalz zwischen Blättern [a₄] und [a₅] gehört zur Lagenkonstruktion (Blatt [a₇] als Einzelblatt mitgeheftet), Papierfälze innerhalb Lage [C] gehören zur Lagenkonstruktion (Blätter [C₁₂] und [C₁₃] als Einzelblätter mitgeheftet); rot ausgezeichnete Initialen (auch innerhalb der Illustrationen), Schmuckinitialen auf Blatt [a₁] recto und Blatt [a₄] verso schwarz und rot ausgezeichnet; Rubrizierung    
+590      |a Zustand Buchblock: Schmuckinitiale auf Blatt [a₄] verso, oben, durch überklebte Initiale ("D") korrigiert    
+590      |a Titelnotiz von Johannes Ellin auf leerem Blatt vor Blatt [*₁]: "10 liber ysidorum ad Braulio[nem] Ep[iscopu]m"; darunter weitere lateinische Notizen von ihm    
+590      |a Bleistiftnotiz auf leerem Blatt (verso) nach Blatt *₄: "Armoir VII, Tablar V, Nummer VI", dazu Notiz von Johann Lindt: "Erste Einzeichnungsziffern der 'Bibliothek auf der Schule' in Bern. Um 1650."    
+590      |a Historische Signatur auf Pergamentblatt (verso): "Lit: N: 210"; unter "210" weitere Zahl: "232"; auf der ersten Registerseite (Blatt *₁ recto): "Lit. A 90"    
+590      |a Frühere Signatur: Inc 63a    
+700 0 2  |a Isidorus    |c Hispalensis    |d 560-636    |t Etymologiae    |0 (DE-588)4406765-3    
+700 0    |a Braulio    |c Caesaraugustanus    |d 581-651    |0 (DE-588)100938272    |e Verfasser von ergänzendem Text    |4 wst    
+700 0    |a Günther    |c Zainer    |d 1430-1478    |0 (DE-588)118636111    |e Drucker    |4 prt    
+700 1    |a Stos, Rolet    |d 14XX-1501    |0 (DE-588)13396650X    |e Buchbinder    |4 bnd    
+700 1    |a Ellin, Johannes    |d ca. 2. H. 15. Jh.    |0 (DE-588)1194516130    |e Früherer Eigentümer    |e Annotierende Person    |4 fmo    |4 ann    
+751      |a Augsburg    |0 (DE-588)4003614-5    
+852 4    |b B404    |c 404U3    |j MUE Inc III 52    |9 (41SLSP_UBE)99116774541805511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc III 52    |b B404    |9 (41SLSP_UBE)99116774541805511    
+986      |a (41SLSP_UBE)99116774541805511    |9 (41SLSP_UBE)99116774541805511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116774541805511    
+991      |a AAK: 450504    |5 IZ UBE/10.10.2017/B404/vha    |9 LOCAL    |9 (41SLSP_UBE)99116774541805511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

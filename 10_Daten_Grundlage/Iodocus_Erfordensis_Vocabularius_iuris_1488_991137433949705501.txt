@@ -1,0 +1,131 @@
+﻿<-1-1-START->
+Iodocus Erfordensis
+<-1-1-STOP->
+
+<-1-2-START->
+Vocabularius iuris utriusque
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Vorwort des Verfassers<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Basel: Nicolaus Kessler, 17.08.1488
+<-3-1-STOP->
+
+<-4-1-START->
+283 ungezählte Seiten; 30 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_I-268.html<-L-5-STOP-><-VI-5-START->BSB-Ink I-268<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M12624.htm<-L-5-STOP-><-VI-5-START->GW M12624<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/iv00347000<-L-5-STOP-><-VI-5-START->ISTC iv00347000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+142 von 142 Blättern, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Papiereinband auf Kartondeckeln (braun, Marmorpapier, 19. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116800236305511<-L-11-STOP-><-VI-11-START->MUE Inc II 47<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991137433949705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Iodocus Erfordensis<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Kessler, Nicolaus<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991137433949705501<-DOI-STOP->
+<-SIGN-START->MUE Inc II 47<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03474nam a2200529 c 4500
+001 991137433949705501
+005 20211215201445.0
+008 171025s1488    sz |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/25.10.2017/B404/faf    
+035      |a (swissbib)074870866-41slsp_network    
+035      |a 074870866    |9 ExL    
+035      |a (IDSBB)006742594DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991137433949705501    
+035      |a (41SLSP_UBE)99116800236305511    |9 (41SLSP_UBE)99116800236305511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Iodocus    |c Erfordensis    |d 1420-14XX    |0 (DE-588)131707841    |e Verfasser    |4 aut    
+240 1 0  |a Vocabularius iuris utriusque    
+245 1 0  |a Vocabularius vtriusq[ue] Iuris    
+246 1    |i Kolophon    |a Finit vocabularius ex summis complurimorum vtriusq[ue] iuris perito[rum] studiosissime collect[us]. Ipsisq[ue] iuriu[m] alumnis p[er]utilissimus    
+246 1    |i Kolophon in normalisierter Form    |a Finit vocabularius ex summis complurimorum utriusque iuris peritorum studiosissime collectus ipsisque iurium alumnis perutilissimus    
+246 1    |i Titel gemäss ISTC    |a Vocabularius juris utriusque    
+246 1    |i Titel in normalisierter Form    |a Vocabularius utriusque iuris    
+264   1  |a Impressus Basilee    |b p[er] Nicolau[m] kesler    |c Anno salut. Milesimoquadringentesimoactuagesimo octauo. Decimo v[er]o sexto kalnedas mensis Sepe[m]bris [17.08.1488]    
+300      |a 283 ungezählte Seiten    |c 30 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Vorwort des Verfassers    
+500      |a Verfasser gemäss GW und ISTC    
+500      |a Impressum gemäss Kolophon    
+500      |a Signaturformel: a–b⁸, c–d⁶, e⁸, f–g⁶, h⁸, i⁶, k⁸, l⁶, m⁸, n⁶, o⁸, p⁶, q⁸, r-x⁶    
+500      |a Blatt a₁ ohne Lagensignatur, Blätter a₂-a₅ mit Signaturen a-a4 bezeichnet    
+510 4    |a BSB-Ink    |c I-268    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_I-268.html    
+510 4    |a GW    |c M12624    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M12624.htm    
+510 4    |a ISTC    |c iv00347000    |u http://data.cerl.org/istc/iv00347000    
+530      |a Digitalisat (Exemplar der Herzog August Bibliothek Wolfenbüttel)    |u http://diglib.hab.de/inkunabeln/84-jur-2f-2/start.htm    
+563      |a Einbandbeschreibung: Ganzbezogener Papiereinband auf Kartondeckeln (braun, Marmorpapier, 19. Jh.) mit Linien-Goldprägung sowie Titelschild auf dem Rücken: "Vocabularium Juris"    
+563      |a Vorsätze: Vorne und hinten mit einem fliegendem Blatt    
+563      |a Masse Einband: 29.2 x 21.3 x 2.8 cm    
+563      |a Zustand Einband: Einbandpapier mit Abrieb und Abspaltungen    
+590      |a Buchblockbeschreibung: 142 von 142 Blättern, mindestens drei verschiedene Papiertypen, rot ausgezeichnete Initialen (fehlend auf den Blättern m₈ verso und x₆ recto), Rubrizierung, grünes Lesebändchen    
+590      |a Zustand Buchblock: Blätter unterschiedlich stark verbräunt, Loch im Titelblatt, Feuchtigkeitsränder    
+590      |a Historische Signatur auf der Titelseite: "Jur Pol. 94"    
+590      |a Frühere Signatur: Inc 342    
+700 1    |a Kessler, Nicolaus    |d 1445-1519    |0 (DE-588)137735677    |e Drucker    |4 prt    
+700 0 2  |a Iodocus    |c Erfordensis    |d 1420-14XX    |t Vocabularius iuris utriusque    |0 (DE-588)1142275647    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc II 47    |9 (41SLSP_UBE)99116800236305511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc II 47    |b B404    |9 (41SLSP_UBE)99116800236305511    
+986      |a (41SLSP_UBE)99116800236305511    |9 (41SLSP_UBE)99116800236305511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116800236305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

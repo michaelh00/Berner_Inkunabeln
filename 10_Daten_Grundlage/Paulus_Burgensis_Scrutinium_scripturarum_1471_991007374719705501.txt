@@ -1,0 +1,145 @@
+﻿<-1-1-START->
+Paulus Burgensis
+<-1-1-STOP->
+
+<-1-2-START->
+Scrutinium scripturarum contra perfidiam Iudaeorum
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Rom]: Ulrich Han, [nicht nach April 1471]
+<-3-1-STOP->
+
+<-4-1-START->
+578 ungezählte Seiten, 1 ungezähltes Blatt; 29 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://incunables.bodleian.ox.ac.uk/record/P-046<-L-5-STOP-><-VI-5-START->Bod-Inc P-046<-VI-5-STOP->; <-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_P-46.html<-L-5-STOP-><-VI-5-START->BSB-Ink P-46<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M29969.htm<-L-5-STOP-><-VI-5-START->GW M29969<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ip00202000<-L-5-STOP-><-VI-5-START->ISTC ip00202000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+289 von 290 Blättern, Initiale auf Blatt [a₁] mehrfarbig koloriert, mit Schmuck-Bordüre; Initiale auf Blatt [r₁₀] verso rot und blau koloriert, mit roter Schmuck-Bordüre; Rubrizierung (rote und blaue Absatzzeichen)
+<-6-1-STOP->
+
+<-7-1-START->
+Halbezogener Gewebeeinband auf Kartondeckeln (Steifbroschur, Bibliotheksgewebe und Marmorpapier, 20. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Hans Steinwachs; Kloster San Frediano Lucca
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Unbedrucktes letztes Blatt (nach "Registrum") fehlt 
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116758311005511<-L-11-STOP-><-VI-11-START->MUE Inc VI 7<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991007374719705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Paulus Burgensis<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Rom<-O-STOP->
+<-P-START->Han, Ulrich<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Steinwachs, Hans<-P-STOP->
+<-P-START->Kloster San Frediano Lucca<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991007374719705501<-DOI-STOP->
+<-SIGN-START->MUE Inc VI 7<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05874nam a2200649 c 4500
+001 991007374719705501
+005 20221214140857.0
+008 190906s1471    it |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/09.09.2019/B404/vha    
+035      |a (swissbib)074614274-41slsp_network    
+035      |a 074614274    |9 ExL    
+035      |a (IDSBB)007116253DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991007374719705501    
+035      |a (41SLSP_UBE)99116758311005511    |9 (41SLSP_UBE)99116758311005511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Paulus    |c Burgensis    |d 1352-1435    |0 (DE-588)119105144    |e Verfasser    |4 aut    
+240 1 0  |a Scrutinium scripturarum contra perfidiam Iudaeorum    
+245 1 0  |a Incipit dialogus qui uocatur Scrutiniu[m] scriptura[rum]    |c Compositus per Reuere[n]dum patrem dominu[m] Paulu[m] de sancta Maria Magistrum in theologia Episcopum Burgensem ... Quem co[m]posuit post additiones per eum compositas ad postillam Nicolai de Lyra Anno domini .M.CCCCxxxiiii. Anno uero ętatis suę .Lxxxi.    
+246 1    |i Titel in normalisierter Form    |a Incipit dialogus qui vocatur Scrutinium scripturarum    
+246 1 0  |a Dialogus qui vocatur Scrutinium scripturarum    
+246 1    |i Titel gemäss BSB-Ink, GW und ISTC    |a Scrutinium scripturarum    
+264   1  |a [Rom]    |b Vdalricus Gallus: ne que[m] pascantur in usum Edocuit pennis nil opus esse tuis. Imprimit ille die: quantum non scribitur anno ...    |c [nicht nach April 1471]    
+300      |a 578 ungezählte Seiten, 1 ungezähltes Blatt    |c 29 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Titel gemäss Incipit (Blatt [a₁])    
+500      |a Druckort gemäss BSB-Ink, GW und ISTC, Druckdatum gemäss GW und ISTC    
+500      |a Druckdatum gemäss BSB-Ink "[nicht nach 1471.06.11.]"; gemäss ISTC stammt diese Datierung vom Exemplar in Leipzig, das am 11.06. gekauft wurde, allerdings sei das Exemplar der Biblioteca Casanatense in Rom bereits im April gekauft worden (Quelle: A. Modigliani: Tipografi a Roma prima della stampa. Rome, 1989. S. 50, Nr. 109)    
+500      |a Drucker gemäss Gedicht am Ende (Blatt F₈ recto): "Anser Tarpeii custos Iouis: unde: q[uod] alis // Contreperes: Gallus decidie: ultor adest: // Vdalricus Gallus: ne que[m] pascantur in usum // Edocuit pennis nil opus esse tuis. // Imprimit ille die: quantum non scribitur anno: // Ingenio: haud noceas: omina uincit homo:"    
+500      |a Signaturformel: [a–z¹⁰, A–E¹⁰, F⁸, G²]    
+500      |a Blatt [F]₈ verso unbedruckt; Blatt [G₁] mit "Registrum", Blatt [G₂] unbedruckt    
+500      |a Bod-Inc, BSB-Ink und GW ohne Lage [G], mit Signaturformel [a–z¹⁰, A–E¹⁰, F⁸] (288 Blätter); Bod-Inc erwähnt die beiden zusätzlichen Blätter nur bei Angaben zu einem Exemplar    
+510 4    |a Bod-Inc    |c P-046    |u http://incunables.bodleian.ox.ac.uk/record/P-046    
+510 4    |a BSB-Ink    |c P-46    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_P-46.html    
+510 4    |a GW    |c M29969    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M29969.htm    
+510 4    |a ISTC    |c ip00202000    |u http://data.cerl.org/istc/ip00202000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München, ohne "Registrum" am Ende)    |u http://daten.digitale-sammlungen.de/bsb00063823/image_3    
+530      |a Digitalisat (Exemplar der Universidad de Salamanca)    |u https://gredos.usal.es/handle/10366/83658    
+561      |a Handschriftlicher Besitzvermerk auf Blatt [F₈] recto: "Sum mo[naster]ij[?] s[an]c[t]i Frigdiani de luca."    
+561      |a 1934 von der Stadtbibliothek in einer Auktion bei Gutekunst & Klipstein, Bern, erworben aus der Bibliothek Steinwachs (Hans Steinwachs)    
+563      |a Einbandbeschreibung: Halbezogener Gewebeeinband auf Kartondeckeln (Steifbroschur, Bibliotheksgewebe und Marmorpapier, 20. Jahrhundert)    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 28.8 x 20.0 x 7.1 cm    
+563      |a Zustand Einband: Abrieb und Fehlstellen an den Einbandmaterialien, Rücken mit Gegenrundung    
+590      |a Buchblockbeschreibung: 289 von 290 Blättern, handschriftliche Lagensignatur (entsprechend BSB-Ink und GW) in Graphit, jeweils auf der ersten Recto-Seite jeder Lage rechts unten; Initiale auf Blatt [a₁] mehrfarbig (mit Blattgold) koloriert, mit Schmuck-Bordüre; Initiale auf Blatt [r₁₀] verso (Beginn von Kapitel 1 des 2. Teils) rot und blau koloriert, mit roter Schmuck-Bordüre; vorgesehene Stelle für Initale auf Blatt [r₁₀] recto frei gelassen; Rubrizierung (rote und blaue Absatzzeichen)    
+590      |a Zustand Buchblock: Durchgehend Feuchtigkeitsränder, Papierergänzung an Blatt [a₁] nach Schweidler-Technik (vermutlich von Entfernung des alten Besitzervermerks, jetzt mit Prägestempel der UB Bern)    
+590      |a Letztes Blatt [G₂] (unbedruckt, nach "Registrum") fehlt    
+590      |a Wenige handschriftliche Annotationen in Tinte    
+590      |a Schnitt auf allen drei Seiten in Tinte beschriftet; auf oberem Schnitt: "Scrvtin[ium] Scrip[tuarum]"; Beschriftung sonst verblasst und unleserlich    
+590      |a Historische Signatur(?) auf vorderem Spiegel und fliegendem Blatt in Graphit: "B XXII 418657"    
+700 0 2  |a Paulus    |c Burgensis    |d 1352-1435    |t Scrutinium scripturarum contra perfidiam Iudaeorum    |0 (DE-588)4600004-5    
+700 1    |a Han, Ulrich    |d 1425-1480    |0 (DE-588)102501025    |e Drucker    |4 prt    
+700 1    |a Steinwachs, Hans    |d 1880-1934    |0 (DE-588)1020031050    |e Früherer Eigentümer    |4 fmo    
+710 2    |a Monasterium Sancti Frigdiani de Luca    |e Früherer Eigentümer    |4 fmo    
+710 2    |a Gutekunst und Klipstein    |g Firma    |0 (DE-588)33226-4    |e Verkäufer    |4 sll    
+751      |a Rom    |0 (DE-588)4050471-2    
+852 4    |b B404    |c 404U3    |j MUE Inc VI 7    |9 (41SLSP_UBE)99116758311005511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc VI 7    |b B404    |9 (41SLSP_UBE)99116758311005511    
+986      |a (41SLSP_UBE)99116758311005511    |9 (41SLSP_UBE)99116758311005511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116758311005511    
+991      |a AAK: 675972    |5 IZ UBE/09.09.2019/B404/vha    |9 local    |9 (41SLSP_UBE)99116758311005511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,161 @@
+﻿<-1-1-START->
+Ovidius Naso, Publius
+<-1-1-STOP->
+
+<-1-2-START->
+Werke [lateinisch]
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Unter den Werken finden sich auch die traditionell Ovid zugeschriebenen, aber vermutlich nicht von ihm stammenden Gedichte Pulex, Philomena, Nux und Consolatio ad Liviam<-500-STOP->
+<-500-START->Band 1 mit einem Brief des Metamorphosen-Herausgebers Bonus Accursius an Cicchus Simoneta und einer Vita Ovids von Bonus Accursius<-500-STOP->
+<-500-START->Band 2 mit einem Exzerpt aus der Suda und Versen von Antipater Sidonius, Ausonius, Publius Papinius Statius und Horaz zu Sappho sowie drei angeblich von dem Dichter Sabinus verfasste Antwortbriefe zu den Heroides, die vermutlich von Angelus Cneus Sabinus stammen<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Lazzaro de' Soardi, 03.03.1492
+<-3-1-STOP->
+
+<-4-1-START->
+2 Bände; 32 cm (2°)
+<-500-START->Band 1: 1 ungezähltes Blatt, 221 ungezählte Seiten; Band 2: 359 ungezählte Seiten<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M28599.htm<-L-5-STOP-><-VI-5-START->GW M28599<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/io00136000<-L-5-STOP-><-VI-5-START->ISTC io00136000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+Band 1: 112 von 112 Blättern, Band 2: 174 von 180 Blättern (plus 6 zusätzliche), einzelne Initialen in Tinte eingetragen, aufgeklebte rot, blau und gold ausgezeichnete Initiale auf Blatt R₆ verso
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jahrhundert), Ornamentrollen-Blindprägung an beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Nicolaus Artopoeus
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Die Lage a (Band 2) fehlt, an ihrer Stelle ist eine zusätzliche Lage aa eingebunden
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116872693805511<-L-11-STOP-><-VI-11-START->MUE Artopoeus 20 A<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991114631379705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Ovidius Naso, Publius<-P-STOP->
+<-P-START->Angelus Cneus Sabinus<-P-STOP->
+<-P-START->Bonus Accursius<-P-STOP->
+<-P-START->Ausonius, Decimus Magnus<-P-STOP->
+<-P-START->Antipater Sidonius<-P-STOP->
+<-P-START->Statius, Publius Papinius<-P-STOP->
+<-P-START->Horatius Flaccus, Quintus<-P-STOP->
+<-P-START->Sabinus (Poeta)<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Soardi, Lazzaro de'<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Artopoeus, Nicolaus<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991114631379705501<-DOI-STOP->
+<-SIGN-START->MUE Artopoeus 20 A<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 07634nam a2200733 ca4500
+001 991114631379705501
+005 20211215200104.0
+008 980714s1492    it            00| | lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/23.07.2020/B404/faf    
+035      |a (swissbib)033184909-41slsp_network    
+035      |a 033184909    |9 ExL    
+035      |a (IDSBB)001530741DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991114631379705501    
+035      |a (41SLSP_UBE)99116872693805511    |9 (41SLSP_UBE)99116872693805511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Ovidius Naso, Publius    |d v43-17    |0 (DE-588)118590995    |e Verfasser    |4 aut    
+240 1 0  |a Werke    
+245 1 0  |a Ovidii Opera    
+246 1 0  |a Opera    
+246 1    |i Incipit von Band 1    |a Bonus Accursius Pisanus salute[m] dicit plurimam Magnifico equiti aurato & sapie[n]tissimo ac pri[m]o ducali secretario Ciccho Simo[n]etæ    
+246 1    |i Incipit von Band 1 in normalisierter Form    |a Bonus Accursius Pisanus salutem dicit plurimam magnifico equiti aurato & sapientissimo ac primo ducali secretario Ciccho Simonetæ    
+246 1    |i Incipit von Band 2    |a Liber Heroidum. P. Ovi. Nasonis Svlmonensis Poetae Clarissimi Heroidvm Liber Vnicvs    
+246 1    |i Incipit von Band 2 in normalisierter Form    |a Liber Heroidum. P. Ovi. Nasonis Sulmonensis poetae clarissimi Heroidum liber unicus    
+246 1    |i Kolophon von Band 1    |a Publii Ouidii Nasonis Metamorphoseos Libri q[ui]ntidecimi    
+246 1    |i Kolophon von Band 1 in normalisierter Form    |a Publii Ovidii Nasonis Metamorphoseos Libri quintidecimi    
+246 1    |i Kolophon von Band 2    |a Publii Ouidii Nasonis Sulmonensis poetæ Clarissimi Opera o[mn]ia ...    
+246 1    |i Kolophon von Band 2 in normalisierter Form    |a Publii Ovidii Nasonis Sulmonensis poetæ clarissimi opera omnia ...    
+264   1  |a Venetiis    |b per Lazarum de Sauiliano    |c M.cccclxxxxii. die. iii. Martii [03.03.1492]    |3 Band 1    
+264 3 1  |a Venetiis    |b diligentissime per Lazarum de Sauiliano Impressa sunt    |c Anno a natali Christiano. M.CCCCLXXXXII. Calendis Aprilibus [01.04.1492]    |3 Band 2    
+300      |a 2 Bände    |c 32 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Unter den Werken finden sich auch die traditionell Ovid zugeschriebenen, aber vermutlich nicht von ihm stammenden Gedichte Pulex, Philomena, Nux und Consolatio ad Liviam    
+500      |a Band 1 mit einem Brief des Metamorphosen-Herausgebers Bonus Accursius an Cicchus Simoneta, einer Vita Ovids von Bonus Accursius und einem Inhaltsverzeichnis der Metamorphosen    
+500      |a Band 2 mit einem Exzerpt aus der Suda und Versen von Antipater Sidonius, Ausonius, Publius Papinius Statius und Horaz zu Sappho sowie drei angeblich von dem Dichter Sabinus verfasste Antwortbriefe zu den Heroides, die vermutlich von Angelus Cneus Sabinus stammen    
+500      |a Titel gemäss "Fabularum tabula" auf Blatt dd₆ recto    
+500      |a Impressen gemäss Kolophonen    
+500      |a Umfang Band 1: 1 ungezähltes Blatt, 221 ungezählte Seiten; Band 2: 359 ungezählte Seiten    
+500      |a Signaturformel Band 1: A-P⁶, Q-R⁸, S⁶; Band 2: a-z⁶, &⁶, [con]⁶, [rum]⁶, aa-dd⁶    
+500      |a Blatt A₁ recto ist unbedruckt    
+505 0 0  |g (gemäss "Fabularum tabula" auf Blatt dd₆ recto)    |t Ouidii uita diligentissime composita    |t Publii Ouidii Nasonis Metamorphoseos Libri .xv. cum fabulis ad loca sua positis    |t <<Eiusdem>> heroidu[m] liber unicus: In quo plurimi uersus additi ex antiq[ui]ssimo codice præsertim in epistola Paridis ad Helenam: & in epistola Cydipes ad Acontium    |t <<Eiusdem>> Sappho    |t Sabini eq[ui]tis Ro. epistolæ tres. s. Vlyssis ad Penelopen: Demophoontis ad Phyllide[n]: & Paridis ad Oenonen    |t <<Eiusdem>> Ouidii Amorum libri tres    |t <<Eiusde[m]>> ad iuuentute[m] romana[m] de arte amandi libri .iii.    |t <<Eiusdem>> de remedio amoris libri duo    |t <<Eiusdem>> inuectiua in Ibin    |t <<Eiusdem>> de morte Germanici epistola co[n]solatoria    |t <<Eiusdem>> ad Germanicu[m] Cæsarem Fasto[rum] libri sex    |t <<Eiusdem>> de Tristibus libri quinque    |t <<Eiusdem>> de Ponto libri quattuor    |t <<Eiusdem>> de pulice    |t <<Eiusdem>> de Philomena    |t De medicamine faciei    |t <<Eiusdem>> de Nuce    
+510 4    |a GW    |c M28599    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M28599.htm    
+510 4    |a ISTC    |c io00136000    |u http://data.cerl.org/istc/io00136000    
+530      |a Digitalisat (Exemplar der Biblioteca Apostolica Vaticana)    |u http://digi.vatlib.it/view/Inc.II.683    
+561      |a Sammlung Artopoeus    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jh.), Ornamentrollen-Blindprägung an beiden Deckeln sowie Titelschild in Goldprägung auf dem Rücken: "Ovidii Metamorpho", darauf handschriftlich: "1492", darunter: "Venet."    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 31.5 x 23.5 x 5.3 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, Rückklebungen der Fragmente des Einbandleders, Japanpapierüberklebungen in den Fälzen der Vorsätze    
+590      |a Buchblockbeschreibung: Band 1: 112 von 112 Blättern, Band 2: 174 von 180 Blättern (plus 6 zusätzliche), vorgesehene Stellen für Initialen grösstenteils frei gelassen, einzelne Initialen in Tinte eingetragen, aufgeklebte rot, blau und gold ausgezeichnete Initiale auf Blatt R₆ verso, Blattweiser    
+590      |a Zustand Buchblock: Blätter mit zahlreichen Verfleckungen, Blatt A₁ zur Hälfte beschnitten, Schäden und Rückstände von vormalig aufgeklebten und jetzt abgelösten C-Initialen aus Manuskriptmakulatur an Blättern A₂ recto und P₄ verso sowie einer P-Initiale an Blatt G₅ recto, aufgeklebte Q-Initiale aus Velourspergament an Blatt R₆ verso mit hochgelöster Ecke unten rechts und entsprechendem Bruch in Polimentvergoldung (Anhaftung kleinster Pflanzenblätter auf der Farbschicht), Pergamentüberklebung (Velours) an Annotation an Blatt G₃ recto, Blatt R₃ verso mit massiven Anhaftungen eines roten Farbmittels, Blattweiser grösstenteils abgelöst mit Frassschäden (z.B. Blätter der ersten Lage aa), Papierüberklebungen an Rissen der Blätter c₅ recto, d₅ recto und verso, cc₃ verso und dd₆ verso, Blätter d₂ und d₅ als Einzelblätter mit Papierfälzen zusammengesetzt, Blätter dd₁ und dd₆ sowie dd₂ und dd₅ mit Fälzen zusammengesetzt (Annotationen liegen auf den Ergänzungsstellen über den Verklebungen)    
+590      |a Unvollständiges Exemplar: Die Lage a fehlt, an ihrer Stelle ist eine zusätzliche Lage aa eingebunden    
+590      |a In einem Band gebunden    
+590      |a Handschriftliche Annotationen und Unterstreichungen von Artopoeus und anderen in Tinte    
+590      |a Historische Signatur auf Blatt A₁ recto: "Poet 27"    
+590      |a Frühere Signaturen: Inc 185; Inc III 18    
+700 0    |a Angelus Cneus    |c Sabinus    |d ca. 15. Jh.    |0 (DE-588)102833249    |e Verfasser    |4 aut    
+700 0    |a Bonus    |c Accursius    |d -1485    |0 (DE-588)100956602    |e Herausgeber    |e Verfasser von ergänzendem Text    |4 edt    |4 wst    
+700 1    |a Soardi, Lazzaro <<de'>>    |d 1450-1517    |0 (DE-588)130483265    |e Drucker    |4 prt    
+700 1    |a Artopoeus, Nicolaus    |d 1500-1553    |0 (DE-588)128632380    |e Früherer Eigentümer    |e Annotierende Person    |4 fmo    |4 ann    
+700 1 2  |a Ovidius Naso, Publius    |d v43-17    |t Werke    |0 (DE-588)121439812X    
+700 0 2  |a Angelus Cneus    |c Sabinus    |d ca. 15. Jh.    |t Auli Sabini epistolae tres    |0 (DE-588)1214743579    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Artopoeus 20 A    |9 (41SLSP_UBE)99116872693805511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc III 18    |c 404U3    |h MUE Artopoeus 20 A    |p 12    |j MUE Artopoeus 20 A    |b B404    |9 (41SLSP_UBE)99116872693805511    
+986      |a (41SLSP_UBE)99116872693805511    |9 (41SLSP_UBE)99116872693805511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116872693805511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

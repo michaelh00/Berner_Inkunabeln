@@ -1,0 +1,132 @@
+﻿<-1-1-START->
+Viola sanctorum
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Straßburg: Johann Prüss, 23.08.1487
+<-3-1-STOP->
+
+<-4-1-START->
+20 ungezählte Seiten, CXXXV Blätter, 1 ungezähltes Blatt; 23 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_V-225.html<-L-5-STOP-><-VI-5-START->BSB-Ink V-225<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M21487.htm<-L-5-STOP-><-VI-5-START->GW M21487<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/im00337000<-L-5-STOP-><-VI-5-START->ISTC im00337000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+146 von 146 Blättern, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (rot mit ornamentalem Modeldruck mit Farbmittel in Inkarnat-Ton, Ziege) mit mittiger Schliesse, Schmuckbeschlag am Schliessenriemen (Schliessenplättchen in Herzform), Kantenbeschläge und Nagelspuren vormaliger Beschläge an beiden Deckeln, Linien-Blindprägung und Ornamentstempel-Blindprägung an beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116725391505511<-L-11-STOP-><-VI-11-START->MUE Bong V 969<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991140443289705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Prüss, Johann<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991140443289705501<-DOI-STOP->
+<-SIGN-START->MUE Bong V 969<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04424nam a2200529 c 4500
+001 991140443289705501
+005 20211215203333.0
+008 100804s1487    fr            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/07.02.2019/B404/faf    
+035      |a (swissbib)062396978-41slsp_network    
+035      |a 062396978    |9 ExL    
+035      |a (IDSBB)005288066DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991140443289705501    
+035      |a (41SLSP_UBE)99116725391505511    |9 (41SLSP_UBE)99116725391505511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+130 0    |a Viola sanctorum    |0 (DE-588)1177260069    
+245 1 0  |a Viola sanctorum    
+246 1    |i Kolophon    |a Viola sancto[rum] finit feliciter    
+246 1    |i Titel gemäss GW und ISTC    |a Martyrologium    |b Viola sanctorum    
+264   1  |a Argentinen[si] impressum    |b per Iohannem prüß    |c Anno d[omi]ni 1487. x. kall[endas] Septe[m]bris [23.08.1487]    
+300      |a 20 ungezählte Seiten, CXXXV Blätter, 1 ungezähltes Blatt    |c 23 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Register der Heiligen    
+500      |a Impressum gemäss Kolophon; Reihenfolge der Vorlage: "Anno d[omi]ni 1487. x. kall[endas] Septe[m]bris Argentinen[si] impressum per Iohannem prüß."    
+500      |a Foliierungsfehler: Blattzahl XLIX ausgelassen, vor CXIX zusätzlich CXVIIII    
+500      |a Signaturformel: a¹⁰, A-F⁸, G-H⁶, I-M⁸, N-O⁶, P-S⁸    
+500      |a Blatt S₈ ist unbedruckt    
+510 4    |a BSB-Ink    |c V-225    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_V-225.html    
+510 4    |a GW    |c M21487    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M21487.htm    
+510 4    |a ISTC    |c im00337000    |u http://data.cerl.org/istc/im00337000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0003/bsb00038494/images    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (rot mit ornamentalem Modeldruck mit Farbmittel in Inkarnat-Ton, Ziege) mit mittiger Schliesse, Schmuckbeschlag am Schliessenriemen (Schliessenplättchen in Herzform), Kantenbeschläge und Nagelspuren vormaliger Beschläge an beiden Deckeln, Linien-Blindprägung und Ornamentstempel-Blindprägung an beiden Deckeln    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt (Manuskriptmakulatur, Velours)    
+563      |a Masse Einband: 22.5 x 16 x 3.7 cm    
+563      |a Zustand Einband: Verschmutzung und Griffspuren am Rücken und den Deckeln, Kratzer und Schnitte sowie Frasslöcher am Vorderdeckel, Nagelspuren ev. von vormaligen Schutzstegen (zwei pro Deckel parallel zum Rücken), Einband stark überarbeitet: Lederüberklebungem am Rücken, Schad- und Fehlstellen im Einbandleder farbig retuschiert, Hakenteil der Schliesse teilweise ergänzt (oberer Bogen) und Vernietung des Hakenteils nachgearbeitet, Kantenbeschläge zum Rücken hin am Vorderdeckel ergänzt und am Rückdeckel an unterer Kante ergänzt und an oberer Kante bearbeitet, Wachsreste am Hakenteil der Schliesse    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 146 von 146 Blättern, Papierüberstand an oberer Kante von Blatt S₈ zeigt das Beschnittmass, rot ausgezeichnete Initialen, Rubrizierung, am Rand handschriftliche Angabe der Festgrade in Rot    
+590      |a Zustand Buchblock: Heftung im vorderen Vorsatz gerissen, massive Feuchtigkeitsränder mit Schimmelverfleckungen, geschwächte Papiersubstanz an den unteren Blattkanten mit Fehlstellen, anhaftende Papierfasern von gegenüberliegenden Blättern an beiden fliegenden Pergamentblättern, hinterer Spiegel teilweise hochgelöst    
+590      |a Handschriftliche Annotationen in Tinte; getilgte Besitzvermerke (?) auf vorderem fliegendem Vorsatzblatt recto    
+590      |a Historische Signatur auf Titelblatt verso: "Hist: Eccl: 177", Zahl korrigiert zu "63."    
+590      |a Frühere Signaturen: Inc 432; Inc IV 48; XIX 23    
+700 1    |a Prüss, Johann    |d 1447-1510    |0 (DE-588)135917018    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Bong V 969    |9 (41SLSP_UBE)99116725391505511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc IV 48    |c 404U3    |p 12    |j MUE Bong V 969    |b B404    |9 (41SLSP_UBE)99116725391505511    
+986      |a (41SLSP_UBE)99116725391505511    |9 (41SLSP_UBE)99116725391505511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116725391505511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116725391505511    
+991      |a Bongars: 14464    |5 IZ UBE/B400/04.08.2010    |9 LOCAL    |9 (41SLSP_UBE)99116725391505511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,138 @@
+﻿<-1-1-START->
+Richardus Armachanus
+<-1-1-STOP->
+
+<-1-2-START->
+Defensorium curatorum
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Brief von Papst Pius II. an Ludwig XIV., König von Frankreich, datiert: 26.10.1461<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Lyon: Guillaume Le Roy, um 1487]
+<-3-1-STOP->
+
+<-4-1-START->
+55 ungezählte Seiten; 21 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-VI-5-START->Hain/Copinger(Add.) 13672<-VI-5-STOP->; <-VI-5-START->GoffR-2<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+28 von 28 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Pergamenteinband auf Kartondeckeln (17. Jahrhundert) mit Stosskanten und Linien-Blindprägung auf beiden Deckeln, Spuren von Verschlussbändern (grün, Textil)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 10 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116683319605511<-L-11-STOP-><-VI-11-START->MUE Bong I 522 : 6<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991095832689705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Richardus Armachanus<-P-STOP->
+<-P-START->Pius II. (Papst)<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Lyon<-O-STOP->
+<-P-START->Le Roy, Guillaume<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991095832689705501<-DOI-STOP->
+<-SIGN-START->MUE Bong I 522 : 6<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03683nam a2200541 c 4500
+001 991095832689705501
+005 20211215183456.0
+008 100611s1487    fr            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/11.06.2010    
+035      |a (swissbib)06353925X-41slsp_network    
+035      |a 06353925X    |9 ExL    
+035      |a (IDSBB)005244402DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991095832689705501    
+035      |a (41SLSP_UBE)99116683319605511    |9 (41SLSP_UBE)99116683319605511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Richardus    |c Armachanus    |d 1295-1360    |0 (DE-588)119373998    |e Verfasser    |4 aut    
+245 1 0  |a Defensorium curatorum    |c Incipit p[ro]positio Ricardi arhiep[isco]pi armachani ...    
+246 1    |i Kopftitel auf Blatt a₂ recto    |a Defensorium curatorum contra eos qui priuilegiatos se dicunt    
+246 1    |i Kopftitel in normalisierter Form    |a Defensorium curatorum contra eos qui privilegiatos se dicunt    
+264   1  |a [Lyon]    |b [Guillaume Le Roy]    |c [um 1487]    
+300      |a 55 ungezählte Seiten    |c 21 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Verfasserangabe von Blatt a₂ recto    
+500      |a Impressum gemäss Goff    
+500      |a Brief von Pius II. datiert am Ende: "Datum rome die. xxvi. octobris. Anno domini. Millesimo quadringentesimo sexagesimo primo pontificatus nostri anno quarto." (26.10.1461)    
+500      |a Signaturformel: a-c⁸, d⁴    
+500      |a Kein Nachweis in BSB-Ink, GW oder ISTC    
+505 0 0  |g Blatt d₂ recto    |t Epistola domini pij pape tra[n]smissa ludouico christianissimo fra[n]corum regi: ad quassatione[m] seu destructionem sanctionis pragmatice    
+510 4    |a Hain/Copinger    |c (Add.) 13672    
+510 4    |a Goff    |c R-2    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Ganzbezogener Pergamenteinband auf Kartondeckeln (17. Jahrhundert) mit Stosskanten und Linien-Blindprägung auf beiden Deckeln, Spuren von Verschlussbändern (grün, Textil)    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 20.5 x 15.1 x 4.2 cm    
+563      |a Zustand Einband: Rücken vollständig mit Japanpapier überklebt, Stabilisierung mit Japanpapierfälzen in vorderem und hinterem Falz, Frass-Schäden an beiden Deckeln und dem hinterem Vorsatz, Stosskanten deformiert    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Zusammengebunden mit 10 weiteren Drucken in Sammelband    
+590      |a Buchblockbeschreibung: 28 von 28 Blättern, vorgesehene Stellen für Initialen frei gelassen, keine Rurizierung    
+590      |a Zustand Buchblock: Zum Teil starke Verfleckung (Blätter c₄-c₈), Druckfarbenabklatsch in Textform (Blätter b₃ recto und b₆ verso) oder diffus über Seiten verteilt (Blätter c₁ und c₂)    
+590      |a Historische Signatur auf vorderem Spiegel: "Hist: Eccl: 124." (vor dem "Hist:" die Zahl "224.", durchgestrichen)    
+590      |a Frühere Signaturen: Inc V 197; Inc 495; Hortin [E spiegelverkehrt] I R 15    
+700 0 2  |a Richardus    |c Armachanus    |d 1295-1360    |t Defensorium curatorum    |0 (DE-588)1169260489    
+700 0 2  |a Pius    |b II.    |c Papst    |d 1405-1464    |t Epistola transmissa Ludovico Christianissimo Francorum regi ad quassationem seu destructionem sanctionis pragmaticae    |0 (DE-588)1169260349    
+700 1    |a Le Roy, Guillaume    |d 14XX-1493    |0 (DE-588)1055454969    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+751      |a Lyon    |0 (DE-588)4036770-8    
+852 4    |b B404    |c 404U3    |j MUE Bong I 522 : 6    |9 (41SLSP_UBE)99116683319605511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc V 197 : 6    |c 404U3    |z Zusammengebunden mit 10 weiteren Drucken in Sammelband    |p 12    |j MUE Bong I 522 : 6    |b B404    |9 (41SLSP_UBE)99116683319605511    
+986      |a (41SLSP_UBE)99116683319605511    |9 (41SLSP_UBE)99116683319605511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116683319605511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116683319605511    
+991      |a Bongars: 05361    |5 IZ UBE/B400/11.06.2010    |9 LOCAL    |9 (41SLSP_UBE)99116683319605511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

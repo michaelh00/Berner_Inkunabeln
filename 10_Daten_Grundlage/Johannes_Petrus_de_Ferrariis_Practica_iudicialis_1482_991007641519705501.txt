@@ -1,0 +1,133 @@
+﻿<-1-1-START->
+Johannes Petrus de Ferrariis
+<-1-1-STOP->
+
+<-1-2-START->
+Practica iudicialis
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Nürnberg]: Anton Koberger, 28.02.1482
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 13 ungezählte Seiten, 1 ungezähltes Blatt, clxxvij Blätter, 2 ungezählte Seiten, clxxviij-cciiij Blätter: 1 Illustration; 33 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_F-78.html<-L-5-STOP-><-VI-5-START->BSB-Ink F-78<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW09815.htm<-L-5-STOP-><-VI-5-START->GW 09815<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/if00113000<-L-5-STOP-><-VI-5-START->ISTC if00113000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+213 von 214 Blättern, rot und rot-blau ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jahrhundert), Ornamentrollen-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Das unbedruckte Blatt [b₁] fehlt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116851271705511<-L-11-STOP-><-VI-11-START->MUE Inc I 64<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991007641519705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Johannes Petrus de Ferrariis<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Nürnberg<-O-STOP->
+<-P-START->Koberger, Anton<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991007641519705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 64<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04218nam a2200553 c 4500
+001 991007641519705501
+005 20211215172602.0
+008 171024s1482    gw |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/24.10.2017/B404/faf    
+035      |a (swissbib)074793187-41slsp_network    
+035      |a 074793187    |9 ExL    
+035      |a (IDSBB)006741867DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991007641519705501    
+035      |a (41SLSP_UBE)99116851271705511    |9 (41SLSP_UBE)99116851271705511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Johannes Petrus    |c de Ferrariis    |d ca. 1357/58-1416/21    |0 (DE-588)100282431    |e Verfasser    |4 aut    
+240 1 0  |a Practica iudicialis    
+245 1 0  |a Opus p[rese]ns insigne et admodu[m] vtile iuris noua practica appellatum: a iurisp[er]itissimo Joh[ann]e petri (q[ui] ferrarijs floruit) de papia: curiose p[ro]mulgatum ... Feliciter finit    
+246 1    |i Incipit (Haupttext)    |a Qvoniam vita breuis ac incerta qua fruimur ...    
+246 1    |i Incipit (Haupttext) in normalisierter Form    |a Quoniam vita brevis ac incerta qua fruimur ...    
+246 1    |i Incipit (Tabula)    |a Tabula seu rep[er]toriu[m] ad facile recipiendu[m] for[m]as p[re]sentis practice incipit    
+246 1    |i Titel gemäss ISTC    |a Practica nova judicialis    
+246 1    |i Titel in normalisierter Form    |a Opus presens insigne et admodum utile iuris nova practica appellatum a iurisperitissimo Johanne Petri (qui Ferrariis floruit) de Papia curiose promulgatum ... feliciter finit    
+264   1  |a [Nürnberg]    |b Impensis anthonij koburger Nurenberge effigiatum    |c Anno salutis christiane. M.cccc.lxxxij. pridie k[a]l[enda]s Marcij [28.02.1482]    
+300      |a 1 ungezähltes Blatt, 13 ungezählte Seiten, 1 ungezähltes Blatt, clxxvij Blätter, 2 ungezählte Seiten, clxxviij-cciiij Blätter    |b 1 Illustration    |c 33 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Inhaltsverzeichnis und Register    
+500      |a Keine Titelseite, Titel gemäss Kolophon    
+500      |a Impressum gemäss Kolophon    
+500      |a Signaturformel: [a-b⁸, c–z⁶, A–M⁶]    
+500      |a Die Blätter [a₁] recto und [b₁] sind unbedruckt    
+510 4    |a BSB-Ink    |c F-78    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_F-78.html    
+510 4    |a GW    |c 09815    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW09815.htm    
+510 4    |a ISTC    |c if00113000    |u http://data.cerl.org/istc/if00113000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0002/bsb00026998/images    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jh.), Ornamentrollen-Blindprägung auf beiden Deckeln, Linien-Blindprägung sowie Titelschild in Goldprägung auf dem Rücken    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 33 x 22.6 x 4.8 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, Lederfragmente zurückgeklebt    
+590      |a Buchblockbeschreibung: 213 von 214 Blättern, handschriftliche Lagensignatur (a-z, A-L) in Graphit nur auf erstem oder falsch auf zweitem Blatt jeder Lage ab Lage [b], handschriftliche Lagensignatur (d-e) in Rot nur auf Lagen [e]-[f], rot und rot-blau ausgezeichnete Initialen, Rubrizierung    
+590      |a Zustand Buchblock: Rostspuren an letzten Blättern von Ankettung des vormaligen Einbandes, Schädlingsfrass mit Textverlust, Schäden am blauen Farbauftrag der ausgezeichneten Initiale, Fehlstellen an Blättern [a₁] und [M₆] mit Büttenpapier überklebt, Blätter [M₁] und [M₆] mit einem Papierfalz zusammengesetzt    
+590      |a Unvollständiges Exemplar: Das unbedruckte Blatt [b₁] fehlt    
+590      |a Historische Signatur auf Blatt [a₂] recto: "Jur Pol B 39"    
+590      |a Frühere Signatur: Inc 54    
+700 1    |a Koberger, Anton    |d 1440-1513    |0 (DE-588)118563890    |e Drucker    |e Verlag    |4 prt    |4 pbl    
+700 0 2  |a Johannes Petrus    |c de Ferrariis    |d ca. 1357/58-1416/21    |t Practica iudicialis    |0 (DE-588)114216103X    
+751      |a Nürnberg    |0 (DE-588)4042742-0    
+852 4    |b B404    |c 404U3    |j MUE Inc I 64    |9 (41SLSP_UBE)99116851271705511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc I 64    |b B404    |9 (41SLSP_UBE)99116851271705511    
+986      |a (41SLSP_UBE)99116851271705511    |9 (41SLSP_UBE)99116851271705511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116851271705511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

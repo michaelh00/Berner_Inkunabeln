@@ -1,0 +1,148 @@
+﻿<-1-1-START->
+Lochmair, Michael
+<-1-1-STOP->
+
+<-1-2-START->
+Sermones de sanctis. — Wann, Paul: Sermones de sanctis
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Enthält 114 Predigten (römisch nummeriert), darunter verstreut diejenigen von Paul Wann<-500-STOP->
+<-500-START->Predigten von Paul Wann: Nr. 26, 29, 32, 33, 42, 46, 50, 52 53, 61, 65, 69, 79, 82, 86, 87, 88, 91, 94, 98, 100, 105/106, 107<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Hagenau: Heinrich Gran für Johann Rynman, 24.03.1500
+<-500-START->Johann Rynman war als Verleger in Augsburg tätig<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+502 ungezählte Seiten, 1 ungezähltes Blatt; 28 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_L-218.html<-L-5-STOP-><-VI-5-START->BSB-Ink L-218<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M18675.htm<-L-5-STOP-><-VI-5-START->GW M18675<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/il00272000<-L-5-STOP-><-VI-5-START->ISTC il00272000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+251 von 252 Blättern, rot ausgezeichnete Initialen
+<-6-1-STOP->
+
+<-7-1-START->
+Steifbroschurtechnik (blaues Bezugspapier auf Kartondeckeln)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Theodor Engelmann
+<-8-1-STOP->
+
+<-9-1-START->
+Unvollständiges Exemplar: Unbedrucktes Blatt I₈ fehlt   
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116722705505511<-L-11-STOP-><-VI-11-START->MUE Inc VI 3<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991119410349705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Lochmair, Michael<-P-STOP->
+<-P-START->Wann, Paul<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Augsburg<-O-STOP->
+<-P-START->Rynman, Johann<-P-STOP->
+<-O-START->Hagenau<-O-STOP->
+<-P-START->Gran, Heinrich<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Engelmann, Theodor<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991119410349705501<-DOI-STOP->
+<-SIGN-START->MUE Inc VI 3<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05915nam a2200625 c 4500
+001 991119410349705501
+005 20230209095746.0
+008 190718s1500    fr |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/19.07.2019/B404/vha    
+035      |a (swissbib)073102997-41slsp_network    
+035      |a 073102997    |9 ExL    
+035      |a (IDSBB)007104418DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991119410349705501    
+035      |a (41SLSP_UBE)99116722705505511    |9 (41SLSP_UBE)99116722705505511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+245 0 0  |a Celeberrimi sacre theologie necno[n] iurispontificij doctoris: et artium magistri. ac ecclesie Patauien[sis] Canonici d[omi]ni Michaelis lochmair sermones de sanctis perutiles: cum vigintitribus sermonibus magistri Pauli wann annexis feliciter incipiunt    
+246 1    |i Titel in normalisierter Form    |a Celeberrimi sacre theologie necnon iurispontificii doctoris et artium magistri ac ecclesie Pataviensis Canonici domini Michaelis Lochmair sermones de sanctis perutiles, cum vigintitribus sermonibus magistri Pauli Wann annexis feliciter incipiunt    
+246 1    |i Titel in moderner Orthografie    |a Celeberrimi sacrae theologiae nec non iurispontificii doctoris et artium magistri ac ecclesiae Pataviensis Canonici domini Michaelis Lochmair sermones de sanctis perutiles, cum vigintitribus sermonibus magistri Pauli Wann annexis feliciter incipiunt    
+246 1 0  |a Sermones de sanctis perutiles    
+246 1    |i Incipit    |a Sermones perutiles de sanctis per circulu[m] anni eximij doctoris ac eccl[es]ie Patauiensis canonici d[omi]ni Michaelis lochmair. cu[m] vigintitrib[us] sermonib[us] magistri Pauli wann annexis feliciter incipiunt    
+246 1    |i Incipit in normalisierter Form    |a Sermones perutiles de sanctis per circulum anni eximii doctoris ac ecclesie Pataviensis canonici domini Michaelis Lochmair, cum vigintitribus sermonibus magistri Pauli Wann annexis feliciter incipiunt    
+246 1 0  |a Sermones perutiles de sanctis    
+264   1  |a [Augsburg]    |b Expensis prouidi viri Johannis Rynman: diligenter reuisi [et] eme[n]dati    |a Impressiq[ue] in imperiali oppido Hagenaw    |b per Henricu[m] Gran ...    |c .xxiiij. die mensis Martij. Anno salutis post Millesimu[m] quingentesimum." [24.03.1500]    
+300      |a 502 ungezählte Seiten, 1 ungezähltes Blatt    |c 28 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Enthält 114 Predigten (römisch nummeriert), darunter verstreut die von Paul Wann (jeweils am Anfang der Predigt gekennzeichnet als "wann .j.", "wann secu[n]dus", "wann .iij" usw.)    
+500      |a Predigten von Paul Wann: Nr. 26, 29, 32, 33, 42, 46, 50, 52 53, 61, 65, 69, 79, 82, 86, 87, 88, 91, 94, 98, 100, 105/106 (beide als "wann .xxij." nummeriert), 107    
+500      |a Impressum gemäss Kolophon; Johann Rynmann war als Verleger in Augsburg tätig    
+500      |a Signaturformel: a–b⁶, 2a⁸2b⁸c⁶–d⁸e⁸f⁶, g–l⁸, m–n⁶, o–p⁸, q⁸r⁸s⁶-y⁸z⁸A⁶, B⁸C⁸D⁶, E–I⁸    
+500      |a Blatt I₈ unbedruckt; Rückseite der Titelseite (Blatt a₁ verso) und letzte Seite des Registrum (Blatt b₆ verso) unbedruckt    
+510 4    |a BSB-Ink    |c L-218    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_L-218.html    
+510 4    |a GW    |c M18675    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M18675.htm    
+510 4    |a ISTC    |c il00272000    |u http://data.cerl.org/istc/il00272000    
+530      |a Digitalisat (Exemplar der Universitäts- und Landesbibliothek Düsseldorf)    |u https://nbn-resolving.de/urn:nbn:de:hbz:061:1-115906    
+561      |a Auf dem Vorderdeckel Papierschild mit Namen: "Dr. Th. Engelmann, Basel."    
+561      |a Handschriftlicher Besitzvermerk in Tinte auf vorderem fliegenden Blatt: "E...[?] 1858" (Name unleserlich)    
+563      |a Einbandbeschreibung: Steifbroschurtechnik (blaues Bezugspapier auf Kartondeckeln)    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 27.7 x 20.1 x 4.2 cm    
+563      |a Zustand Einband: Deckel deformiert, starker Verschmutzung in hinterem Vorsatz    
+590      |a Buchblockbeschreibung: 251 von 252 Blättern, rot ausgezeichnete Initialen, sonst keine Rubrizierung    
+590      |a Zustand Buchblock: Spuren und Reste von Blattweisern (braun, Leder) an Blättern a₂ (Inhaltsverzeichnis) und dem Titelblatt (a₁) verso; Feuchtigkeitsränder (auffällig auf den ersten Blättern und ab Blatt F₂); roter Farbauftrag der Initialen an ersten und letzten Blättern geschädigt; Abklatsch mit rotem Farbmittel am Titelblatt (a₁) verso entspricht den handschriftlich ergänzten Initialen F, G und H auf Blatt a₆ recto (Hinweis auf Umlaufeinheit oder Bearbeitungsphase ohne Blätter a₂ bis a₅); im hinteren Teil Löcher in den Blättern (durch Wurmfrass?); Papierüberklebung an unterer Ecke des letzten Blattes verso    
+590      |a Blatt I₈ (unbedruckt) fehlt    
+590      |a Wenige handschriftliche Annotationen in Tinte (Blätter k₆ verso mit Unterstreichung und H₁ recto bis H₃ recto)    
+700 1    |a Lochmair, Michael    |d -1499    |0 (DE-588)100370128    |e Verfasser    |4 aut    
+700 1 2  |a Lochmair, Michael    |d -1499    |t Sermones de sanctis    |0 (DE-588)1190915146    
+700 1    |a Wann, Paul    |d 1420-1489    |0 (DE-588)102519005    |e Verfasser    |4 aut    
+700 1 2  |a Wann, Paul    |d 1420-1489    |t Sermones de sanctis    |0 (DE-588)1190915588    
+700 1    |a Rynman, Johann    |d 1475-1522    |0 (DE-588)12285487X    |e Verlag    |4 pbl    
+700 1    |a Gran, Heinrich    |d -1527    |0 (DE-588)13764390X    |e Drucker    |4 prt    
+700 1    |a Engelmann, Theodor    |d 1851-1931    |0 (DE-588)116497076    |e Früherer Eigentümer    |4 fmo    
+751      |a Augsburg    |0 (DE-588)4003614-5    
+751      |a Hagenau    |0 (DE-588)4094465-7    
+852 4    |b B404    |c 404U3    |j MUE Inc VI 3    |9 (41SLSP_UBE)99116722705505511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc VI 3    |b B404    |9 (41SLSP_UBE)99116722705505511    
+986      |a (41SLSP_UBE)99116722705505511    |9 (41SLSP_UBE)99116722705505511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116722705505511    
+991      |a AAK: 547773    |5 IZ UBE/19.07.2019/B404/vha    |9 local    |9 (41SLSP_UBE)99116722705505511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

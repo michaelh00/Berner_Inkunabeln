@@ -1,0 +1,151 @@
+﻿<-1-1-START->
+Augustinus, Aurelius
+<-1-1-STOP->
+
+<-1-2-START->
+De civitate dei
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Kommentar von Thomas Wallensis (oder Waleys) und Nicolaus Trevetus (Trivet)<-500-STOP->
+<-500-START->Illustration (Holzschnitt) auf der Rückseite der Titelseite gemäss BSB vom "Meister des Haintz Narr"<-500-STOP->
+<-500-START->Unter dem Holzschnitt Gedicht: "Mirifico poteris textos sermone libellos ..."<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Basel: Johannes Amerbach, 13.02.1489
+<-3-1-STOP->
+
+<-4-1-START->
+536 ungezählte Seiten: 1 Illustration; 34 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW02887.htm<-L-5-STOP-><-VI-5-START->GW 2887<-VI-5-STOP->; <-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-861.html?pos=1&index=indexInkAuf&suche=gwNummer:2887&high=2887<-L-5-STOP-><-VI-5-START->BSB-Ink A-861<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ia01243000<-L-5-STOP-><-VI-5-START->ISTC ia01243000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+268 von 268 Blättern, Illustration koloriert, teilweise rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln mit mittiger Schliesse (braun, Kalb), Linien-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Kloster Thorberg
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: De trinitate / Aurelius Augustinus. Basel: Johann von Amerbach, 1489
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116708241505511<-L-11-STOP-><-VI-11-START->MUE Inc II 46 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991060421099705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Augustinus, Aurelius<-P-STOP->
+<-P-START->Thomas Wallensis<-P-STOP->
+<-P-START->Nicolaus Trevetus<-P-STOP->
+<-P-START->Meister des Haintz Narr<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Amerbach, Johannes<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Kloster Thorberg<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991060421099705501<-DOI-STOP->
+<-SIGN-START->MUE Inc II 46 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06710nam a2200673 c 4500
+001 991060421099705501
+005 20211215175723.0
+008 160920s1489    sz |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/20.09.2016/B404/vha    
+035      |a (swissbib)070771995-41slsp_network    
+035      |a 070771995    |9 ExL    
+035      |a (IDSBB)006622843DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991060421099705501    
+035      |a (41SLSP_UBE)99116708241505511    |9 (41SLSP_UBE)99116708241505511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Augustinus, Aurelius    |c Heiliger    |d 354-430    |0 (DE-588)118505114    |e Verfasser    |4 aut    
+240 1 0  |a De civitate dei    
+245 1 0  |a Augustinus de Ciuitate dei cum commento    
+246 1 0  |a De Ciuitate dei com commento    
+246 1 3  |a De civitate dei cum commento    
+246 1    |i Titel in normalisierter Form    |a Augustinus de civitate dei cum commento    
+264   1  |a [Basel]    |b Hoc opus exactu[m] diuina arte Joannis Amerbacensis: lector vbiq[ue] legas    |c Anno salutiferi virginalis partus octogesimonono supra millesimu[m] quaterq[ue] centesimu[m] Jdibus februarijs [das ist 13.02.1489]    
+300      |a 536 ungezählte Seiten    |b 1 Illustration    |c 34 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Kommentar von Thomas Waleys und Nicolaus Trivet - Vorwort auf Blatt a₃ beginnt: "Sacr[a]e pagin[a]e p[ro]fesso[rum] ordinis p[rae]dicatorum Thom[a]e valois e Nicolai triueth in libros beati augustini de ciuitate dei Come[n]taria feliciter inchoant"    
+500      |a Ab Bl. O₄v 8 ungezählte Seiten mit Register: "Jncipit tabula fratris nicolai triueth ordinis predicatoru[m] sacr[a]e pagin[a]e p[ro]fessoris, tam sup[er] textu q[uam] co[m]mento feliciter"    
+500      |a Zwei-, drei- und vierspaltiger Druck (zweispaltiger Textdruck mit Marginal- und Rahmenglossen)    
+500      |a "Hoc opus exactu[m] diuina arte Joannis Amerbacensis: lector vbiq[ue] legas. Inuenis in textu glosis seu margine mi[rum]: Quo merito gaudet vrbs Basilea dec[us]. Anno salutiferi virginalis partus octogesimonono supra millesimu[m] quaterq[ue] centesimu[m] Jdibus februarijs" - Kolophon (Bl. O₄r)    
+500      |a Signaturformel: a¹⁰, b-p⁸, q⁶, r⁸, s⁶, t⁸, v⁶, x⁸, y⁶, A⁸, B⁶, C⁸, D⁶, E⁸, F⁶, G⁸, H⁶, J⁸, K-L⁶, M⁸, N⁶, O⁸    
+500      |a Blatt O₈ verso (letzte Seite) unbedruckt    
+500      |a Illustration (Holzschnitt) auf Rückseite der Titelseite (laut BSB vom "Meister des Haintz Narr")    
+500      |a Unter dem Holzschnitt Gedicht: "Mirifico poteris textos sermone libellos ..."    
+510 4    |a GW    |c 2887    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW02887.htm    
+510 4    |a BSB-Ink    |c A-861    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-861.html?pos=1&index=indexInkAuf&suche=gwNummer:2887&high=2887    
+510 4    |a ISTC    |c ia01243000    |u http://data.cerl.org/istc/ia01243000    
+530      |a Digitalisat (Exemplar der Universitätsbibliothek Basel)    |u http://www.e-rara.ch/bau_1/content/titleinfo/3872481    
+561      |a Handschriftlicher Besitzvermerk auf dem vorderen Spiegel ans Kloster Thorberg: "Hic liber p[ertine]t donne s[anc]te paule a[pud] torberg cartusien[sium]". - Es wurde versucht, den Besitzvermerk auszuschneiden (umlaufende Ritzung); er ist teilweise bis auf den Holzdeckel ausgekratzt; die Tintenschrift wurde mit Tinte überzeichnet    
+561      |a Band zeitweise in Privatbesitz; Kaufnotiz in vorderem Spiegel: "Ch. G. Constat 65 b[at]z[en] d[en] 17. Sept. 1661"; weiter unten: "20 batz[en]"; links unten (durch Tintenfleck unkenntlich gemacht): "25 batz[en]"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln mit mittiger Schliesse (braun, Kalb), Linien- Blindprägung auf beiden Deckeln, Titel in Tintenschrift ("Aug de ciuitate dei - de sta trinitate") und Thorberger Signatur ("E XXXVII") mit rotem Farbmittel auf dem Rücken; abgelöstes Titel-Papierschild ("Augustinus De Trinitate. 1489. [durchgestrichen:] 195. Basil") in den vorderen Deckel geklebt. - Pergamentverstärkung in der ersten und letzten Lage (Pergamentstreifen zum Teil mit Schrift als Verstärkungsfalz beim Heften)    
+563      |a Vorsätze: jeweils ohne fliegendes Blatt    
+563      |a Masse Einband: 33.8 x 23.5 x 8.5 cm    
+563      |a Zustand Einband: Einband und Schliesse 1946 restauriert: Leder am Rücken neu unterlegt (Pergamentfragmente der alten Rückenhinterklebung zusammen mit Restaurierungsfoto in hinterem Deckel vorhanden), Deckelecken mit Leder überklebt, Schliessenriemen und Hakenteil sowie Nietung am Ösenteil ergänzt, Stabilisierung mit Japanpapierfälzen in vorderem und hinterem Falz    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 268 von 268 Blättern, Pergamentfalz als Heftverstärkung zwischen Blättern O₄ und O₅, Illustration (Holzschnitt, Blatt a₁ verso) koloriert, rot ausgezeichnete Initialen, teilweise freigelassen, Rubrizierung (Paragraphenzeichen, Titelunterstreichungen, Strichelung)    
+590      |a Zustand Buchblock: Schädlingsfrass mit Fehlstellen, Fehlstellenergänzung an Blatt a₁ und letzten Blättern, Feuchtigkeitsränder    
+590      |a Wenige handschriftliche Annotationen in Tinte auf der Titelseite ("De Sybilla Erythrea: vide libro 17 cap. 23. quid ipsa de d[omi]no d[omi]no p[rae]dixerit"), Blatt s₄ recto (zur Trinitätslehre) und A₄ recto (Stichwort "Gymnosophisticae caves in India")    
+590      |a Titel in Tinte auf dem Kopfschnitt: "August: De Trinit et De Ciuitate Dei"    
+590      |a Handschriftliche Notiz auf der Titelseite: "De Sybilla Erythrea: vide libro 1[?] cap. 23. quid ipsa de Chr[ist]o d[omi]no p[?]dixevit[?]"    
+590      |a Zusammengebunden mit einem weiteren Druck: Aurelius Augustinus:De trinitate. Basel :Johann von Amerbach, 1489    
+590      |a Historische Signatur auf vorderem Spiegel: "Patr. No. 195"    
+590      |a Frühere Signatur: Inc 343    
+700 0    |a Thomas    |c Wallensis    |d 1287-1349    |0 (DE-588)100963323    |e Kommentarverfasser    |4 wac    
+700 0    |a Nicolaus    |c Trevetus    |d 1258-1328    |0 (DE-588)118587706    |e Kommentarverfasser    |4 wac    
+700 1 2  |a Augustinus, Aurelius    |c Heiliger    |d 354-430    |t De civitate dei    |0 (DE-588)4120948-5    
+700 1    |a Amerbach, Johannes    |d 1440-1513    |0 (DE-588)123073189    |e Drucker    |4 prt    
+710 2    |a Kloster Thorberg    |0 (DE-588)7725716-9    |e Früherer Eigentümer    |4 fmo    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc II 46 : 2    |9 (41SLSP_UBE)99116708241505511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 1 weiteren Druck in Sammelband    |p 12    |j MUE Inc II 46 : 2    |b B404    |9 (41SLSP_UBE)99116708241505511    
+986      |a (41SLSP_UBE)99116708241505511    |9 (41SLSP_UBE)99116708241505511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116708241505511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,138 @@
+﻿<-1-1-START->
+Aubusson, Pierre d'
+<-1-1-STOP->
+
+<-1-2-START->
+De servata urbe praesidioque suo et insigni contra Turcos victoria
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Straßburg: Heinrich Knoblochtzer, nicht vor 13.09.1480]
+<-3-1-STOP->
+
+<-4-1-START->
+10 ungezählte Seiten, 1 ungezähltes Blatt: Holzschnittinitiale; 22 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-816.html<-L-5-STOP-><-VI-5-START->BSB-Ink A-816<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW02775.htm<-L-5-STOP-><-VI-5-START->GW 02775<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ia01181000<-L-5-STOP-><-VI-5-START->ISTC ia01181000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+5 von 6 Blättern, Holzschnittinitiale rot koloriert, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (rot eingefärbt, Ziege), Verschlussbänder fehlend, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 5 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Das unbedruckte Blatt [a₆] fehlt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116849818805511<-L-11-STOP-><-VI-11-START->MUE Inc III 68 : 6<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991073111159705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Aubusson, Pierre d'<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Knoblochtzer, Heinrich<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991073111159705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 68 : 6<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04275nam a2200577 c 4500
+001 991073111159705501
+005 20211215175537.0
+008 080409s1480    fr            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/10.07.2018/B404/faf    
+035      |a (swissbib)054817609-41slsp_network    
+035      |a 054817609    |9 ExL    
+035      |a (IDSBB)004469498DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991073111159705501    
+035      |a (41SLSP_UBE)99116849818805511    |9 (41SLSP_UBE)99116849818805511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Aubusson, Pierre <<d'>>    |d 1423-1503    |0 (DE-588)119060450    |e Verfasser    |4 aut    
+240 1 0  |a De servata urbe praesidioque suo et insigni contra Turcos victoria    
+245 1 0  |a Que in obsidione Rohdie vrbis a thurcis expugna[n]do [et] a nobis tuta[n]do gesta sunt    |c E.V. Imperi. M. Humiles seruitores Petrus Danbussen. Mayster hospitalis Hierosolomitam et co[n]sulu[m]    
+246 1    |i Titel in normalisierter Form    |a Que in obsidione Rohdie urbis a Thurcis expugnando et a nobis tutando gesta sunt    
+246 1    |i Incipit    |a Serenissimo ac inuictissimo principi ac domino nostro. domino friderico Ro[ma]noru[m] Imp[er]atori semper augusto domino nobis obs[er]ua[n]dissimo    
+246 1    |i Incipit in normalisierter Form    |a Serenissimo ac invictissimo principi ac domino nostro, domino Friderico Romanorum imperatori semper augusto domino nobis observandissimo    
+246 1    |i Titel gemäss BSB-Ink, GW und ISTC    |a De obsidione urbis Rhodiae ad Fridericum imperatorem    
+264   1  |a [Straßburg]    |b [Heinrich Knoblochtzer]    |c [nicht vor 13.09.1480]    
+300      |a 10 ungezählte Seiten, 1 ungezähltes Blatt    |c 22 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss Blatt [a₁] recto nach der Grussformel    
+500      |a Verfasser gemäss Blatt [a₅] verso    
+500      |a Impressum gemäss BSB-Ink, GW und ISTC    
+500      |a Holzschnittinitiale auf Blatt [a₁] recto    
+500      |a Signaturformel: [a⁶]    
+500      |a Blatt [a₆] ist unbedruckt    
+510 4    |a BSB-Ink    |c A-816    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-816.html    
+510 4    |a GW    |c 02775    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW02775.htm    
+510 4    |a ISTC    |c ia01181000    |u http://data.cerl.org/istc/ia01181000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/0003/bsb00032877/images    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (rot eingefärbt, Ziege), Verschlussbänder fehlend, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, handschriftlich mit Tinte auf Vorderdeckel: "Michael Scotus, Secreta mulie[rum], Tractat[us] de [...?]"    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 22 x 15.6 x 4 cm    
+563      |a Zustand Einband: Schädlingsfrass an Vorsätzen und Deckeln, Verschlussbänder vollständig fehlend, starke Verfleckungen an beiden Deckeln, Brüche im Einbandleder am Rücken, Lederüberklebungen am Rücken und an den Ecken, hinterer Spiegel teilweise hochgelöst    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 5 von 6 Blättern, handschriftliche Lagensignaturen in Rot, Papierfalz hinter Blatt [a₅] gehört zur Vorsatzkonstruktion, Holzschnittinitiale rot koloriert, Rubrizierung    
+590      |a Unvollständiges Exemplar: Das unbedruckte Blatt [a₆] fehlt    
+590      |a Signaturformel der handschriftlichen Lagensignatur: b⁶    
+590      |a Zusammengebunden mit 5 weiteren Drucken in Sammelband    
+590      |a Historische Signatur auf vorderem Spiegel: "Lit: 517."; auf Titelseite des ersten Drucks im Sammelband: "Liter. 26[?]", korrigiert zu "Phil 88"    
+590      |a Frühere Signatur: Inc 410    
+700 1    |a Knoblochtzer, Heinrich    |d 1445-1500    |0 (DE-588)119011557    |e Drucker    |4 prt    
+700 1 2  |a Aubusson, Pierre <<d'>>    |d 1423-1503    |t De servata urbe praesidioque suo et insigni contra Turcos victoria    |0 (DE-588)1162507527    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Inc III 68 : 6    |9 (41SLSP_UBE)99116849818805511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 5 weiteren Drucken in Sammelband    |p 12    |j MUE Inc III 68 : 6    |b B404    |9 (41SLSP_UBE)99116849818805511    
+986      |a (41SLSP_UBE)99116849818805511    |9 (41SLSP_UBE)99116849818805511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116849818805511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116849818805511    
+991      |a MedeaB400: 00193792    |5 IZ UBE/rekat-ubbe    |9 LOCAL    |9 (41SLSP_UBE)99116849818805511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

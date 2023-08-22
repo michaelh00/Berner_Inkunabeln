@@ -1,0 +1,151 @@
+﻿<-1-1-START->
+Bibel. Neues Testament [französisch]
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Herausgegeben von Julien Macho und Pierre Farget<-500-STOP->
+<-500-START->Die Übersetzung basiert auf der Bible historiale von Guiart des Moulins<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Lyon: [Guillaume Le Roy für] Barthélemy Buyer, [um 1476?]
+<-3-1-STOP->
+
+<-4-1-START->
+607 ungezählte Seiten; 27 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-VI-5-START->Chambers, Bettye: Bibliography of French Bibles no. 3<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M45689.htm<-L-5-STOP-><-VI-5-START->GW M45689<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib00651000<-L-5-STOP-><-VI-5-START->ISTC ib00651000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+304 von 304 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Guillelmus Paulus
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116783509405511<-L-11-STOP-><-VI-11-START->MUE Inc I 32<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991010203479705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Guiart des Moulins<-P-STOP->
+<-P-START->Macho, Julien<-P-STOP->
+<-P-START->Farget, Pierre<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Lyon<-O-STOP->
+<-P-START->Buyer, Barthélemy<-P-STOP->
+<-O-START->Lyon<-O-STOP->
+<-P-START->Le Roy, Guillaume<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Paulus, Guillelmus<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991010203479705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 32<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05038nam a2200673 c 4500
+001 991010203479705501
+005 20211215173819.0
+008 080514s1476    fr            00| | fre  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/17.08.2017/B404/faf    
+035      |a (swissbib)057644977-41slsp_network    
+035      |a 057644977    |9 ExL    
+035      |a (IDSBB)004495991DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991010203479705501    
+035      |a (41SLSP_UBE)99116783509405511    |9 (41SLSP_UBE)99116783509405511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a fre    |h lat    |h grc    
+130 0    |a Bibel    |p Neues Testament    |0 (DE-588)4041771-2    
+245 1 0  |a Cy finist lapocalipse et samblablement le nouueau testament    |c veu et corrige p[ar] venerables person[n]es freres iullien macho et pierre farget docteurs en theologie de lordre des augustins de lyo[n] sus le rosne    
+246 1 0  |a <<Le>> Nouveau Testament    
+246 1    |i Incipit (Haupttext)    |a Cy comme[n]ce le nouueau testament Et premiereme[n]t leuuangile nostre seigneur i[es]ucrist selon saint mahieu    
+246 1    |i Incipit (Haupttext) in normalisierter Form    |a Cy commence le Nouveau Testament, et premierement levvangile nostre seigneur Iesucrist selon saint Mahieu    
+246 1    |i Incipit (Table)    |a Cy commence la table du nouueau testament    
+246 1    |i Incipit (Table) in normalisierter Form    |a Cy commence la table du Nouveau Testament    
+246 1    |i Titel gemäss GW    |a Testamentum novum    
+246 1    |i Titel gemäss ISTC    |a Novum Testamentum    
+246 1    |i Titel in normalisierter Form    |a Cy finist lapocalipse et samblablement le nouveau testament    
+264   1  |a Imprime en la dicte ville de lyon    |b par Bartholomieu buyer citoien du dit lion    |c [um 1476?]    
+300      |a 607 ungezählte Seiten    |c 27 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Die Übersetzung basiert auf der Bible historiale von Guiart des Moulins    
+500      |a Keine Titelseite, Titel gemäss Kolophon    
+500      |a Druckort und Drucker gemäss Kolophon; gemäss GW und ISTC gedruckt von Guillaume Le Roy für Barthélemy Buyer    
+500      |a Mutmassliches Druckjahr gemäss GW und ISTC    
+500      |a Signaturformel: [a-p¹⁰, q¹², r-z¹⁰, A-F¹⁰, G¹²] (abweichend von der Angabe in GW)    
+500      |a Gedruckte Initialen (an einigen Stellen fehlend)    
+510 4    |a Chambers, Bettye: Bibliography of French Bibles    |c no. 3    
+510 4    |a GW    |c M45689    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M45689.htm    
+510 4    |a ISTC    |c ib00651000    |u http://data.cerl.org/istc/ib00651000    
+530      |a Digitalisat (Exemplar der Bibliothèque municipale Blois)    |u http://www.bvh.univ-tours.fr/Consult/index.asp?numfiche=703    
+561      |a Gezeichnetes Vollwappen (Crespin de Billy?) auf zweitem von zwei vor der ersten Lage vorgeklebten Blättern recto, darunter: "Guillelm. Paulus. Nobilis Gallus Occitanus J.U. Licent. et in Sup. Curiâ Advocatus."    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jh.), Linien und Ornamentstempel-Prägung ursprünglich in Gold auf dem Rücken sowie Titelschild    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt, Spiegel aus Marmorpapier    
+563      |a Masse Einband: 26.5 x 20.5 x 6 cm    
+563      |a Zustand Einband: Leder in marmorierten Bereichen stark abgebaut mit Fehlstellen in der Lederoberfläche, durch Fettungsbehandlung stark nachgeschwärzt, untere Ecken und beide Häubchen sowie Fälze zum Teil an den Bundstationen mit Leder überklebt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 304 von 304 Blättern, Foliierung in Tinte (grösstenteils abgeschnitten) und Graphit, vorgeklebtes Doppelblatt zwischen Vorsatz und Lage [a], wechselnde Papierqualität (siehe z.B. Lagen [z]-[B]), bei den Paulusbriefen anfangs in Tinte Adressaten als Kolumnentitel recto und Kapitelnummern am Rand ergänzt    
+590      |a Auf vorderem fliegendem Vorsatzblatt handschriftlich in Tinte: "Lyon 1477."    
+590      |a Einzelne handschriftliche Anstreichungen in Tinte    
+590      |a Zustand Buchblock: Beginnender Tintenfrass an Zeichnung und Schrift des Wappens, Feuchtigkeitsränder und braune Verfleckungen durch eingedrungene Substanz, Blätter [v₄] und [v₇] mit Papierfalz zusammengehängt    
+590      |a Frühere Signatur: Inc 121    
+700 0    |a Guiart    |c des Moulins    |d 1251-1313    |0 (DE-588)100947093    |e Übersetzer    |4 trl    
+700 1    |a Macho, Julien    |d ca. 15. Jh.    |0 (DE-588)112375464    |e Herausgeber    |4 edt    
+700 1    |a Farget, Pierre    |0 (DE-588)100989063    |e Herausgeber    |4 edt    
+700 1    |a Buyer, Barthélemy    |d 1433-1485    |0 (DE-588)113838450X    |e Verlag    |e Drucker    |4 pbl    |4 prt    
+700 1    |a Le Roy, Guillaume    |d 14XX-1493    |0 (DE-588)1055454969    |e Drucker    |4 prt    
+700 0    |a Paulus, Guillelmus    |e Früherer Eigentümer    |4 fmo    
+751      |a Lyon    |0 (DE-588)4036770-8    
+852 4    |b B404    |c 404U3    |j MUE Inc I 32    |9 (41SLSP_UBE)99116783509405511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc I 32    |b B404    |9 (41SLSP_UBE)99116783509405511    
+986      |a (41SLSP_UBE)99116783509405511    |9 (41SLSP_UBE)99116783509405511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116783509405511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116783509405511    
+991      |a MedeaB400: 00089066    |5 IZ UBE/rekat-ubbe    |9 LOCAL    |9 (41SLSP_UBE)99116783509405511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

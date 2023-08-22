@@ -1,0 +1,144 @@
+﻿<-1-1-START->
+Engel, Johann
+<-1-1-STOP->
+
+<-1-2-START->
+Astrolabium planum in tabulis ascendens
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Von Johann Engel bearbeitetes und zum Teil verfasstes Sammelwerk; enthält das vermutlich von Petrus de Abano verfasste "Astrolabium planum" und Auszüge aus der "Mathesis" des Iulius Firmicus Maternus<-500-STOP->
+<-500-START->Mit Widmungsbrief des Druckers Erhard Ratdolt an Albrecht IV. von Bayern<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Augsburg: Erhard Ratdolt, 06.10. oder 27.11.1488
+<-500-START->Druckdatum gemäss Kolophon: "Vigesimoseptimo kalendas Nouembris"<-500-STOP->
+<-500-START->Abweichung zum digitalisierten Münchner Exemplar: Falsche Lagensignatur (c3) auf Blatt c₄<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+348 ungezählte Seiten, 2 ungezählte Blätter: 439 Illustrationen, Holzschnittinitialen; 26 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_E-63.html<-L-5-STOP-><-VI-5-START->BSB-Ink E-63<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW01900.htm<-L-5-STOP-><-VI-5-START->GW 01900<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ia00711000<-L-5-STOP-><-VI-5-START->ISTC ia00711000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+176 von 176 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun, Ziege) mit Schliessen sowie Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung an beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116774557505511<-L-11-STOP-><-VI-11-START->MUE Inc III 64<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991098600199705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Engel, Johann<-P-STOP->
+<-P-START->Petrus de Abano<-P-STOP->
+<-P-START->Firmicus Maternus, Iulius<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Augsburg<-O-STOP->
+<-P-START->Ratdolt, Erhard<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991098600199705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 64<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05394nam a2200625 c 4500
+001 991098600199705501
+005 20211215184712.0
+008 130501s1488    gw            00| | lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/05.07.2018/B404/faf    
+035      |a (swissbib)066201217-41slsp_network    
+035      |a 066201217    |9 ExL    
+035      |a (IDSBB)006121730DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991098600199705501    
+035      |a (41SLSP_UBE)99116774557505511    |9 (41SLSP_UBE)99116774557505511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Engel, Johann    |d 1463-1512    |0 (DE-588)119495058    |e Verfasser    |4 aut    
+240 1 0  |a Astrolabium planum in tabulis ascendens    
+245 1 0  |a Astrolabium planu[m] in tabulis Ascendens co[n]tinens qualibet hora atq[ue] mi[nu]to. Equationes domorum celi. Mora[m] nati in vtero matris cum quoda[m] tractatu natiuitatu[m] vtili ac ornato. Nec no[n] horas inequales p[ro] quolibet climate mundi    
+246 1    |i Titel in normalisierter Form    |a Astrolabium planum in tabulis ascendens continens qualibet hora atque minuto equationes domorum celi, moram nati in utero matris cum quodam tractatu nativitatum utili ac ornato, nec non horas inequales pro quolibet climate mundi    
+246 1    |i Kolophon    |a Opus Astrolabij plani in tabulis: a Joha[n]ne Angeli artium liberaliu[m] magistro a nouo elaboratu[m]: explicit feliciter    
+246 1    |i Kolophon in normalisierter Form    |a Opus astrolabii plani in tabulis a Johanne Angeli artium liberalium magistro a novo elaboratum explicit feliciter    
+246 1    |i Titel gemäss BSB-Ink    |a Astrolabium planum in tabulis    
+246 1    |i Titel gemäss GW und ISTC    |a Astrolabium    
+264   1  |a Auguste vindelicoru[m]    |b Erhardi ratdolt Auguste[n]sis viri solertis: eximia industria: [et] mira imprimendi arte ...    |c Vigesimoseptimo kalendas Nouembris. M.cccc.lxxxviij. [06.10. oder 27.11.1488]    
+300      |a 348 ungezählte Seiten, 2 ungezählte Blätter    |b 439 Illustrationen    |c 26 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Von Johann Engel bearbeitetes und zum Teil verfasstes Sammelwerk; enthält das vermutlich von Petrus de Abano verfasste "Astrolabium planum" und Auszüge aus der "Mathesis" des Iulius Firmicus Maternus    
+500      |a Mit Widmungsbrief des Druckers Erhard Ratdolt an Albrecht IV. von Bayern    
+500      |a Impressum gemäss Kolophon; Reihenfolge der Vorlage: "Erhardi ratdolt Auguste[n]sis viri solertis: eximia industria: [et] mira imprimendi arte: qua nup[er] venecijs nunc Auguste vindelicoru[m] excellet nominatissimus. Vigesimoseptimo kalendas Nouembris. M.cccc.lxxxviij."    
+500      |a Holzschnittinitialen    
+500      |a Signaturformel: []⁴, a–e⁸, f-s⁴, t–y⁸, z¹², A–C⁸, D¹²    
+500      |a Abweichung zum digitalisierten Münchner Exemplar: Falsche Lagensignatur (c3) auf Blatt c₄    
+500      |a Die Blätter D₁₁-₁₂ sind unbedruckt    
+510 4    |a BSB-Ink    |c E-63    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_E-63.html    
+510 4    |a GW    |c 01900    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW01900.htm    
+510 4    |a ISTC    |c ia00711000    |u http://data.cerl.org/istc/ia00711000    
+530      |a Digitalisat (Exemplar der Bayerischen Landesbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0002/bsb00026866/images    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun, Ziege) mit Schliessen sowie Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung an beiden Deckeln, gedrucktes Titelschild am Rücken, handschriftlicher Titel verblassend in Tinte auf Vorderdeckel: "Astrolabiu[m] plan."    
+563      |a Vorsätze: Vorne ohne und hinten mit 6 fliegenden Blättern    
+563      |a Masse Einband: 25.2 x 18 x 4.3 cm    
+563      |a Zustand Einband: Loch mit Korrosionsschaden am Rückdeckel von vormaliger Ankettung, fliegende Blätter des vorderen Vorsatzes fehlend, Lederüberklebungen am Rücken, Schliessenriemen und Hakenteile der Schliessen ergänzt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 176 von 176 Blättern, Pergamentverstärkung (Velours, Makulatur) in den Lagenmitten (Lagen [], f-r)    
+590      |a Zustand Buchblock: Schädlingsfrass mit Fehlstellen an den letzten Blättern, Fehlstellenergänzung an letztem Blatt    
+590      |a Wenige handschriftliche Annotationen in Tinte (z.B. Blatt s₁ recto)    
+590      |a Handschriftlich in Tinte auf hinterem Spiegel (teilweise durch Kettenloch zerstört): "A[...] Joannis de monte Regio"; wohl kein Besitzvermerk, sondern Verweis auf Johannes Regiomontanus (1436-1476)    
+590      |a Historische Signatur auf vorderem Spiegel: "Math: N°. 183."; auf Titelseite: "Math. 23."    
+590      |a Frühere Signatur: Inc 424    
+700 0    |a Petrus    |c de Abano    |d 1250-1316    |0 (DE-588)118889443    |e Verfasser    |4 aut    
+700 1    |a Firmicus Maternus, Iulius    |d ca. 335/350    |0 (DE-588)118683659    |e Verfasser    |4 aut    
+700 1    |a Ratdolt, Erhard    |d 1447-1527    |0 (DE-588)11878790X    |e Drucker    |4 prt    
+700 1 2  |a Engel, Johann    |d 1463-1512    |t Astrolabium planum in tabulis ascendens    |0 (DE-588)1162302658    
+751      |a Augsburg    |0 (DE-588)4003614-5    
+852 4    |b B404    |c 404U3    |j MUE Inc III 64    |9 (41SLSP_UBE)99116774557505511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc III 64    |b B404    |9 (41SLSP_UBE)99116774557505511    
+986      |a (41SLSP_UBE)99116774557505511    |9 (41SLSP_UBE)99116774557505511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116774557505511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

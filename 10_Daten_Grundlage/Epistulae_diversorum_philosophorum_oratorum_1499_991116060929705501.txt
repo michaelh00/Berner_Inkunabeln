@@ -1,0 +1,193 @@
+﻿<-1-1-START->
+Epistulae diversorum philosophorum, oratorum, rhetorum
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Herausgeber: Marcus Musurus<-500-STOP->
+<-500-START->Enthält in Band 1 (angebliche) Briefe von Synesius Cyrenensis, (Pseudo-)Demosthenes, Plato, Aristoteles, Philipp II., König von Makedonien, Alexander III. (der Große), König von Makedonien, (Pseudo-)Hippocrates, (Pseudo-)Democritus Abderita, (Pseudo-)Heraclitus Ephesius, (Pseudo-)Diogenes Sinopensis, (Pseudo-)Crates Thebanus, (Pseudo-)Anacharsis, (Pseudo-)Euripides, (Pseudo-)Theano Pythagorea, (Pseudo-)Melissa Pythagorica, (Pseudo-)Myia Pythagorica, Alciphron, Flavius Philostratus, Theophylactus Simocatta, Aelianus Tacticus, Aeneas Gazaeus, Prokopius von Gaza, Dionysius Antiochenus, (Pseudo-)Lysis Tarentinus (Pythagoreus), (Pseudo-)Amasis, Pharao von Ägypten und (Pseudo-)Musonius Rufus, Gaius<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Aldo Pio Manuzio, nicht vor 17.04.1499
+<-3-1-STOP->
+
+<-4-1-START->
+2 Bände; 21 cm (4°)
+<-500-START->Band 1: 531 ungezählte Seiten<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_E-86.html<-L-5-STOP-><-VI-5-START->BSB-Ink E-86<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/GW09367.htm<-L-5-STOP-><-VI-5-START->GW 09367<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ie00064000<-L-5-STOP-><-VI-5-START->ISTC ie00064000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+<-6-1-STOP->
+
+<-7-1-START->
+Band 1: 182 von 266 Blättern, Flexibler Pergamenteinband (Velourpergament, Manuskript-Makulatur mit Schrift verso) mit durchzogenen Bünden (Leder), Reste vormaliger Verschlussbänder (Leder)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Blätter α–ε¹², σ¹², ζ⁸ (Text von Synesius, 80 Blätter) und Γ₅-₈ (4 Blätter) in Band 1 fehlen; Band 2 fehlt vollständig
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116768772405511<-L-11-STOP-><-VI-11-START->MUE Bong IV 895<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991116060929705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Musuros, Markos<-P-STOP->
+<-P-START->Synesius Cyrenensis<-P-STOP->
+<-P-START->Demosthenes<-P-STOP->
+<-P-START->Plato<-P-STOP->
+<-P-START->Aristoteles<-P-STOP->
+<-P-START->Philipp II. (König von Makedonien)<-P-STOP->
+<-P-START->Alexander III. (König von Makedonien)<-P-STOP->
+<-P-START->Hippocrates<-P-STOP->
+<-P-START->Democritus Abderita<-P-STOP->
+<-P-START->Heraclitus Ephesius<-P-STOP->
+<-P-START->Diogenes Sinopensis<-P-STOP->
+<-P-START->Crates Thebanus<-P-STOP->
+<-P-START->Anacharsis<-P-STOP->
+<-P-START->Euripides<-P-STOP->
+<-P-START->Theano Pythagorea<-P-STOP->
+<-P-START->Melissa Pythagorica<-P-STOP->
+<-P-START->Myia Pythagorica<-P-STOP->
+<-P-START->Alciphron<-P-STOP->
+<-P-START->Philostratus, Flavius<-P-STOP->
+<-P-START->Theophylactus Simocatta<-P-STOP->
+<-P-START->Aelianus Tacticus<-P-STOP->
+<-P-START->Aeneas Gazaeus<-P-STOP->
+<-P-START->Prokopios von Gaza<-P-STOP->
+<-P-START->Dionysius Antiochenus<-P-STOP->
+<-P-START->Lysis Tarentinus<-P-STOP->
+<-P-START->Amasis (Pharao von Ägypten)<-P-STOP->
+<-P-START->Musonius Rufus, Gaius<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Manuzio, Aldo Pio<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991116060929705501<-DOI-STOP->
+<-SIGN-START->MUE Bong IV 895<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 07951nam a2200901 ca4500
+001 991116060929705501
+005 20220222145932.0
+008 100608s1499    it            00| | grc  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/08.06.2010    
+019      |a Nach Vorlage rekatalogisiert    |5 IDSBB/06.10.2020/B404/vha    
+035      |a (swissbib)063208687-41slsp_network    
+035      |a 063208687    |9 ExL    
+035      |a (IDSBB)005241298DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991116060929705501    
+035      |a (41SLSP_UBE)99116768772405511    |9 (41SLSP_UBE)99116768772405511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+130 0    |a Epistulae diversorum philosophorum, oratorum, rhetorum    
+245 1 0  |a Epistolai diaphorōn philosophōn. rhētorōn. sophistōn    |b ex pros tois eikosi. ōn ta onomata en tē exēs eurēseis selidi = Epistolæ diuersorum philosophorum. oratorum. Rhetorum sex & uiginti : Quorum nomina in sequenti in uenies Pagina    
+246 1    |i Lateinischer Titel in normalisierter Form    |a Epistolae diversorum philosophorum, oratorum, rhetorum sex et viginti    
+246 1    |i Titel gemäss GW und ISTC    |a Epistolae diversorum philosophorum, oratorum, rhetorum    
+246 1 1  |a Epistolæ diuersorum philosophorum. oratorum. Rhetorum sex & uiginti    
+264   1  |a Venetiis    |b apud Aldum    |c mense Martio. M.ID. [03.1499] - [nicht vor 17.04.1499]    
+300      |a 2 Bände    |c 21 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Herausgeber: Marcus Musurus, genannt im Postskript zu Band 1 (Blatt Δ₂ verso)    
+500      |a Enthält in Band 1 (angebliche) Briefe von Synesius Cyrenensis, (Pseudo-)Demosthenes, Plato, Aristoteles, Philipp II., König von Makedonien, Alexander III. (der Große), König von Makedonien, (Pseudo-)Hippocrates, (Pseudo-)Democritus Abderita, (Pseudo-)Heraclitus Ephesius, (Pseudo-)Diogenes Sinopensis, (Pseudo-)Crates Thebanus, (Pseudo-)Anacharsis, (Pseudo-)Euripides, (Pseudo-)Theano Pythagorea, (Pseudo-)Melissa Pythagorica, (Pseudo-)Myia Pythagorica, Alciphron, Flavius Philostratus, Theophylactus Simocatta, Aelianus Tacticus, Aeneas Gazaeus, Prokopius von Gaza, Dionysius Antiochenus, (Pseudo-)Lysis Tarentinus (Pythagoreus), (Pseudo-)Amasis, Pharao von Ägypten und (Pseudo-)Musonius Rufus, Gaius    
+500      |a Druckort und Drucker gemäss Kolophon in beiden Bänden, Datum von Band 1 gemäss Kolophon in Band 1 (genaues Datum gemäss BSB-Ink, GW und ISTC: 29.03.1499); Datum von Band 2 gemäss BSB Ink, GW und ISTC (GW ergänzt: "nicht nach 31.XII.1499")    
+500      |a Umfang von Band 1: 531 ungezählte Seiten; Band 2: 274 ungezählte Seiten, 1 ungezähltes Blatt    
+500      |a Signaturformel Band 1: *⁶, α–ε¹², σ¹², ζ-η⁸, θ¹⁰, ι–τ⁸, ττ⁶, υ–ω⁸, Α–Γ⁸, Δ⁴,; Band 2: α–ε⁸, ζη⁶, θ–ρ⁸, σ⁶    
+500      |a Band 1: Blatt Δ₄ verso (letzte Seite) unbedruckt; Band 2: Blatt σ₆ (letztes Blatt) unbedruckt    
+510 4    |a BSB-Ink    |c E-86    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_E-86.html    
+510 4    |a GW    |c 09367    |u https://www.gesamtkatalogderwiegendrucke.de/docs/GW09367.htm    
+510 4    |a ISTC    |c ie00064000    |u http://data.cerl.org/istc/ie00064000    
+530      |a Digitalisat Band 1 (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00050513/image_1    
+530      |a Digitalisat Band 2 (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00050514/image_5    
+561      |a Handschriftlicher Besitzvermerk auf der Titelseite: "Bongarsius"    
+563      |a Einbandbeschreibung: Flexibler Pergamenteinband (Velourpergament, Manuskript-Makulatur mit Schrift verso) mit durchzogenen Bünden (Leder), Reste vormaliger Verschlussbänder (Leder); Titel in Tinte längs dem Rücken: "Epistolæ philosophoru[m] et Rhetorum Græce: Ven. AD. 1499" (Jahreszahl schwer lesbar); quer dazu von späterer Hand: "AD 1499"    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 21.2 x 15.4 x 3.0 cm    
+563      |a Zustand Einband: Falzungen im Pergament aus Umlaufeinheit als Schriftstück, Verschlussbänder fehlend, Japanpapierverstärkung (gefärbt bzw. geölt) verso Einbandpergament des Rückens, Japanpapierüberklebungen an beiden Deckeln, Spiegel an beiden Deckeln grossflächig herausgelöst    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung von Band 1: 182 von 266 Blättern, Pergamentverstärkung (Velours) aussen am Falz der Vorsätze, vorgesehene Stellen für Initialen frei gelassen, keine Rubrizierung    
+590      |a Zustand Buchblock: Blätter vereinzelt stark verbräunt    
+590      |a Unvollständiges Exemplar: Blätter α–ε¹², σ¹², ζ⁸ (Text von Synesius, 80 Blätter) und Γ₅-₈ (4 Blätter) in Band 1 fehlen; Band 2 fehlt vollständig    
+590      |a Historische Signatur auf der Titelseite: "Lit 184"    
+590      |a Frühere Signaturen: Inc IV 67; Inc 541; Hortin XIII 24    
+700 1    |a Musuros, Markos    |d 1470-1517    |0 (DE-588)119014386    |e Herausgeber    |4 edt    
+700 0    |a Synesius    |c Cyrenensis    |d 370-412    |0 (DE-588)118642634    |e Verfasser    |4 aut    
+700 0    |a Demosthenes    |d v384-v322    |0 (DE-588)118524658    |e Verfasser    |4 aut    
+700 0    |a Plato    |d v427-v347    |0 (DE-588)118594893    |e Verfasser    |4 aut    
+700 0    |a Aristoteles    |d v384-v322    |0 (DE-588)118650130    |e Verfasser    |4 aut    
+700 0    |a Philipp    |b II.    |c Makedonien, König    |d v382-v336    |0 (DE-588)118593838    |e Verfasser    |4 aut    
+700 0    |a Alexander    |b III.    |c Makedonien, König    |d v356-v323    |0 (DE-588)118501828    |e Verfasser    |4 aut    
+700 0    |a Hippocrates    |d v460-v370    |0 (DE-588)11855140X    |e Verfasser    |4 aut    
+700 0    |a Democritus    |c Abderita    |d v460-v370    |0 (DE-588)11852464X    
+700 0    |a Heraclitus    |c Ephesius    |d v550-v480    |0 (DE-588)118549421    |e Verfasser    |4 aut    
+700 0    |a Diogenes    |c Sinopensis    |d v400-v323    |0 (DE-588)118525867    |e Verfasser    |4 aut    
+700 0    |a Crates    |c Thebanus    |d v365-v285    |0 (DE-588)118715534    |e Verfasser    |4 aut    
+700 0    |a Anacharsis    |d ca. v6. Jh.    |0 (DE-588)118649000    |e Verfasser    |4 aut    
+700 0    |a Euripides    |d ca. 485/480 v. Chr.-406 v.Chr.    |0 (DE-588)118531395    |e Verfasser    |4 aut    
+700 0    |a Theano    |c Pythagorea    |d ca. v6./5. Jh.    |0 (DE-588)102368740    |e Verfasser    |4 aut    
+700 0    |a Melissa    |c Pythagorica    |d ca. v3. Jh. bzw. 1. Jh.    |0 (DE-588)102398917    |e Verfasser    |4 aut    
+700 0    |a Myia    |c Pythagorica    |d v6./5. bzw. v3./2. Jh.    |0 (DE-588)102400016    |e Verfasser    |4 aut    
+700 0    |a Alciphron    |d ca. 2./3. Jh.    |0 (DE-588)118644459    |e Verfasser    |4 aut    
+700 1    |a Philostratus, Flavius    |d 160-245    |0 (DE-588)118594044    |e Verfasser    |4 aut    
+700 0    |a Theophylactus    |c Simocatta    |d 580-628    |0 (DE-588)118621807    |e Verfasser    |4 aut    
+700 0    |a Aelianus    |c Tacticus    |d ca. 1./2. Jh.    |0 (DE-588)100005985    |e Verfasser    |4 aut    
+700 0    |a Aeneas    |c Gazaeus    |d 430-486    |0 (DE-588)118647148    |e Verfasser    |4 aut    
+700 0    |a Prokopios    |c von Gaza    |d 465-529    |0 (DE-588)118793497    |e Verfasser    |4 aut    
+700 0    |a Dionysius    |c Antiochenus    |d ca. 5./6. Jh.    |0 (DE-588)102432775    |e Verfasser    |4 aut    
+700 0    |a Lysis    |c Tarentinus    |d ca. v4./2. Jh.    |0 (DE-588)100372252    |e Verfasser    |4 aut    
+700 0    |a Amasis    |c Ägypten, Pharao    |d v570-v529    |0 (DE-588)102378940    |e Verfasser    |4 aut    
+700 1    |a Musonius Rufus, Gaius    |d 30-100    |0 (DE-588)118585932    |e Verfasser    |4 aut    
+700 1    |a Manuzio, Aldo Pio    |d 1450-1515    |0 (DE-588)118577387    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Bong IV 895    |9 (41SLSP_UBE)99116768772405511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc IV 67    |c 404U3    |h MUE Bong IV 895    |q Band 1    |p 12    |j MUE Bong IV 895    |b B404    |9 (41SLSP_UBE)99116768772405511    
+986      |a (41SLSP_UBE)99116768772405511    |9 (41SLSP_UBE)99116768772405511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116768772405511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116768772405511    
+991      |a Bongars: 04800    |5 IZ UBE/B400/08.06.2010    |9 local    |9 (41SLSP_UBE)99116768772405511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

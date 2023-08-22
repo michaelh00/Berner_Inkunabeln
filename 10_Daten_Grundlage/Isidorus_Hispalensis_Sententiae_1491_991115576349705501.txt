@@ -1,0 +1,144 @@
+﻿<-1-1-START->
+Isidorus Hispalensis
+<-1-1-STOP->
+
+<-1-2-START->
+Sententiae
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Paris: Philippe Pigouchet für Frères de Marnef, 1491
+<-3-1-STOP->
+
+<-4-1-START->
+101 Blätter, 6 ungezählte Seiten: Druckermarke; 15 cm (8°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-VI-5-START->BSB-Ink<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M15314.htm<-L-5-STOP-><-VI-5-START->GW M15314<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/ii00195000<-L-5-STOP-><-VI-5-START->ISTC ii00195000<-VI-5-STOP->; <-VI-5-START->Catalogue of books printed in the XVth century now in the British Museum (BMC)<-VI-5-STOP->; <-VI-5-START->Polain, Louis: Catalogue des livres imprimés au quinzième siècle des bibliothèques de Belgique<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+101 von 104 Blättern, rot ausgezeichnete Initialen, Rubrizierung sonst nur auf einzelnen Seiten (ab folium 65)
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert) mit Kleisterpapier (Abklatschmuster, rot) und Pergamentecken
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Meditationes vitae Christi. Pavia: Giovanni Antonio Beretta, 1490
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Titelblatt, folium 101 mit Kolophon und letztes Blatt (mit Druckermarke) fehlen (Identifizierung der Ausgabe und Wiedergabe von Titel und Impressum aufgrund genauer Textangaben in GW, BMC und Polain)
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116895953305511<-L-11-STOP-><-VI-11-START->MUE Inc V 207 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991115576349705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Isidorus Hispalensis<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Paris<-O-STOP->
+<-P-START->Marnef, Enguilbert de<-P-STOP->
+<-O-START->Paris<-O-STOP->
+<-P-START->Marnef, Geoffroy de<-P-STOP->
+<-O-START->Paris<-O-STOP->
+<-P-START->Pigouchet, Philippe<-P-STOP->
+<-O-START->Paris<-O-STOP->
+<-P-START->Frères de Marnef<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991115576349705501<-DOI-STOP->
+<-SIGN-START->MUE Inc V 207 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04232nam a2200589 c 4500
+001 991115576349705501
+005 20211215201107.0
+008 181127s1491    fr |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/27.11.2018/B404/vha    
+035      |a (swissbib)069976104-41slsp_network    
+035      |a 069976104    |9 ExL    
+035      |a (IDSBB)006851689DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991115576349705501    
+035      |a (41SLSP_UBE)99116895953305511    |9 (41SLSP_UBE)99116895953305511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Isidorus    |c Hispalensis    |d 560-636    |0 (DE-588)118555995    |e Verfasser    |4 aut    
+240 1 0  |a Sententiae    
+245 1 0  |a Isidorus de summo bono    
+246 1    |i Titel gemäss GW und ISTC    |a De summo bono    
+246 1    |i Incipit (folium 2)    |a In christi nomine incipit liber primus sancti Isidori hispalensis episcopi de su[m]mo bono    
+246 1    |i Kolophon    |a Isidori hyspalensis ep[iscop]i tractatus de summo bono: finit feliciter    
+246 1 0  |a Tractatus de summo bono    
+264   1  |a Imp[re]ssus Parisii    |b Per Philippu[m] pigouchet    |c M.cccc.xci. [1491]    
+300      |a 101 Blätter, 6 ungezählte Seiten    |c 15 cm (8°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Titelaufnahme von unvollständigem Exemplar; Ausgabe identifiziert anhand genauer Textwiedergabe von Zeilen auf folium 2 (Incipit) und Blatt n₆ recto (Beginn Inhaltsverzeichnis) in GW, BMC und bei Polain (dort auch Wiedergabe der 1. Zeile von folium 9), sowie Anzahl der Zeilen pro Seite (30 oder, ab Lage c, 31)    
+500      |a Wiedergabe von Titel und Impressum (folium 101 verso) gemäss GW, BMC und Polain    
+500      |a Auf der Titelseite Firmenzeichen der Brüder Geoffroy und Enguilbert de Marnef; auf Blatt n₈ verso (letzte Seite) Druckermarke von Pigouchet (gemäss GW, BMC und Polain)    
+500      |a Signaturformel: a-n⁸    
+500      |a Rückseite der Titelseite unbedruckt    
+510 4    |a BSB-Ink    
+510 4    |a GW    |c M15314    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M15314.htm    
+510 4    |a ISTC    |c ii00195000    |u https://data.cerl.org/istc/ii00195000    
+510 4    |a Catalogue of books printed in the XVth century now in the British Museum (BMC)    |b part VIII, page 114    
+510 4    |a Polain, Louis: Catalogue des livres imprimés au quinzième siècle des bibliothèques de Belgique    |b tome 2, no. 2146    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert) mit Kleisterpapier (Abklatschmuster, rot) und Pergamentecken, Linien-Goldprägung und Datumsschild in Goldprägung auf dem Rücken: "1490"    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 14.1 x 10.4 x 2.2 cm    
+563      |a Zustand Einband: Brüche im Lederbezug an Rücken und Fälzen, Papier abgerieben und Ecken gestaucht, Vorsätze im Falz mit Japanpapier stabilisiert, Lederüberklebungen an Rücken und Falz    
+590      |a Buchblockbeschreibung: 101 von 104 Blättern, rot ausgezeichnete Initialen, Rubrizierung sonst (Grossbuchstaben) nur auf einzelnen Seiten (ab folium 65)    
+590      |a Zustand Buchblock: Riss-Spuren im Falz vom fehlenden Titelblatt, Ausbrüche im roten Farbmittel der ausgezeichneten Initialen (Blatt a₂ recto), Blätter unterschiedlich stark verbräunt    
+590      |a Unvollständiges Exemplar: Blätter a₁ (Titelblatt), n₅ (folium 101 mit Kolophon) und n₈ (letztes Blatt, Recto-Seite: "Laus deo.", Verso-Seite: Druckermarke) fehlen    
+590      |a Zusammengebunden mit: Meditationes vitae Christi. - Pavia : Giovanni Antonio Beretta, 1490    
+590      |a Frühere Signatur: Singer IV 118    
+700 0 2  |a Isidorus    |c Hispalensis    |d 560-636    |t Sententiae    |0 (DE-588)4569091-1    
+700 1    |a Marnef, Enguilbert <<de>>    |d 14XX-15XX    |0 (DE-588)129043583    |e Buchhändler    |4 bsl    
+700 1    |a Marnef, Geoffroy <<de>>    |d 14XX-1518    |0 (DE-588)129043621    |e Buchhändler    |4 bsl    
+700 1    |a Pigouchet, Philippe    |d -1518    |0 (DE-588)1037584597    |e Drucker    |4 prt    
+710 2    |a Frères de Marnef    |0 (DE-588)1171494688    |e Verlag    |4 pbl    
+751      |a Paris    |0 (DE-588)4044660-8    
+852 4    |b B404    |c 404U3    |j MUE Inc V 207 : 1    |9 (41SLSP_UBE)99116895953305511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i MUE Singer IV 118 : 1    |c 404U3    |z Zusammengebunden mit 1 weiteren Druck in Sammelband    |p 12    |j MUE Inc V 207 : 1    |b B404    |9 (41SLSP_UBE)99116895953305511    
+986      |a (41SLSP_UBE)99116895953305511    |9 (41SLSP_UBE)99116895953305511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116895953305511    
+991      |a AAK: 450501    |5 IZ UBE/27.11.2018/B404/vha    |9 LOCAL    |9 (41SLSP_UBE)99116895953305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

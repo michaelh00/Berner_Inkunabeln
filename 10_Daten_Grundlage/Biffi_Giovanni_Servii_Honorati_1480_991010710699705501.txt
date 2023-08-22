@@ -1,0 +1,151 @@
+﻿<-1-1-START->
+Biffi, Giovanni
+<-1-1-STOP->
+
+<-1-2-START->
+Servii Honorati vocabula brevi compendio cum auctoritatibus ipsius Vergilii
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Gemäss BSB-Ink und ISTC ist der echte Verfasser nicht, wie angegeben, der römische Grammatiker Servius (Honoratus), sondern Giovanni Biffi<-500-STOP->
+<-500-START->Mit Widmungsgedicht von Giovanni Biffi an Petrus Guarrinus (gemäss BSB-Ink finigierter Name)<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Mailand: Leonhard Pachel und Ulrich Scinzenzeler, um 1480]
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 94 ungezählte Seiten: Holzschnittinitialen; 20 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_B-517.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-517<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M41904.htm<-L-5-STOP-><-VI-5-START->GW M41904<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/is00485000<-L-5-STOP-><-VI-5-START->ISTC is00485000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+48 von 48 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Papiereinband auf Kartondeckeln (rot, 20. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116697471805511<-L-11-STOP-><-VI-11-START->MUE Bong VI 75<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991010710699705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Biffi, Giovanni<-P-STOP->
+<-P-START->Servius<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Mailand<-O-STOP->
+<-P-START->Pachel, Leonhard<-P-STOP->
+<-O-START->Mailand<-O-STOP->
+<-P-START->Scinzenzeler, Ulrich<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991010710699705501<-DOI-STOP->
+<-SIGN-START->MUE Bong VI 75<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04524nam a2200661 c 4500
+001 991010710699705501
+005 20211215174151.0
+008 090402s1480    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/30.07.2010    
+035      |a (swissbib)058269398-41slsp_network    
+035      |a 058269398    |9 ExL    
+035      |a (IDSBB)004819082DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991010710699705501    
+035      |a (41SLSP_UBE)99116697471805511    |9 (41SLSP_UBE)99116697471805511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Biffi, Giovanni    |d 1464-1515    |0 (DE-588)124082289    |e Verfasser    |4 aut    
+240 1 0  |a Servii Honorati vocabula brevi compendio cum auctoritatibus ipsius Vergilii    
+245 1 0  |a Seruii honorati Vocabula breui co[m]pendio cu[m] auctoritatibus ipsius uirgilii    |b utilissima p[ro] pueris ad disputandu[m]    
+246 1    |i Titel in normalisierter Form    |a Servii Honorati Vocabula brevi compendio cum auctoritatibus ipsius Virgilii    |b utilissima pro pueris ad disputandum    
+246 1 0  |a Vocabula brevi compendio cum auctoritatibus ipsius Virgilii    
+246 1    |i Titel gemäss GW und ISTC    |a Vocabula    
+246 1    |i Kolophon    |a Epithoma siue collectaneu[m] uocabulo[rum] Seruii honorati    
+246 1    |i Kolophon in normalisierter Form    |a Epithoma sive collectaneum vocabulorum Servii Honorati    
+246 1 0  |a Epithoma sive collectaneum vocabulorum    
+246 1 0  |a Epitoma sive collectaneum vocabulorum    
+264   1  |a [Mailand]    |b [Leonardus Pachel]    |b [Uldericus Scinzenzeler]    |c [um 1480]    
+300      |a 1 ungezähltes Blatt, 94 ungezählte Seiten    |c 20 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, nur Kopftitel    
+500      |a GW und ISTC führen Servius als Verfasser, jedoch ISTC mit Anmerkung "The true author is Johannes Biffus (DBI 10 p.384)"; BSB-Ink führt Biffi ("Biffus, Johannes") als Verfasser    
+500      |a Widmungsempfänger Petrus Guarrinus (Gedicht von Biffi auf Blatt a₁ verso) gemäss BSB-Ink finigiert    
+500      |a Impressum gemäss BSB-Ink; GW und ISTC nur mit Scinzenzeler als Drucker; er und Pachel haben jedoch 1477-1488 zusammen gearbeitet    
+500      |a Signaturformel: a-f⁸    
+500      |a Blatt a₁ recto unbedruckt    
+500      |a Holzschnittinitialen    
+505 0 0  |g Blatt a₁ verso    |t Ad dominu[m] petru[m] Guarrinu[m] Ingenuu[m] eruditissimu[m]q[ue] uiru[m] amicoru[m] optimu[m] presbiteri Ioa[n]nis Biffi Mediolane[n]sis epigra[m]ma: Cui libru[m] hunc perpetuo dicat    
+510 4    |a BSB-Ink    |c B-517    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_B-517.html    
+510 4    |a GW    |c M41904    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M41904.htm    
+510 4    |a ISTC    |c is00485000    |u http://data.cerl.org/istc/is00485000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00066060/image_7    
+561      |a Handschriftlicher Besitzvermerk in Tinte auf Blatt a₂ recto: "Bongars"    
+563      |a Einbandbeschreibung: Ganzbezogener Papiereinband auf Kartondeckeln (rot, 20. Jahrhundert)    
+563      |a Vorsätze: vorne und hinten mit vier fliegenden Blättern    
+563      |a Masse Einband: 19.1 x 14.8 x 1.9 cm    
+590      |a Buchblockbeschreibung: 48 von 48 Blättern, keine Rubrizierung    
+590      |a Zustand Buchblock: Papierfälze zwischen den Lagen gehören zur Einbandkonstruktion (Konservierungseinband mit Leporellofalz), Japanpapierrestaurierungen an letzter Lage    
+590      |a Hinter Blatt f₈ weiteres Blatt eingebunden, mit handschriftlichen Annotationen auf der Verso-Seite in Tinte und Datierung "5 martii 1491[?]"    
+590      |a Historische Signaturen auf Blatt a₁ verso: "Litt 358", "Lit: 679."; "N. 172."; auf Blatt a₂ recto: "Lit. 358."    
+590      |a Frühere Signaturen: Litt IV 78; Hortin XXIV 66    
+700 1 2  |a Biffi, Giovanni    |d 1464-1515    |t Servii Honorati vocabula brevi compendio cum auctoritatibus ipsius Vergilii    |0 (DE-588)1176436082    
+700 1 2  |a Biffi, Giovanni    |d 1464-1515    |t Ad dominum Petrum Guarrinum    |0 (DE-588)1176436708    
+700 0    |a Servius    |d ca. 4./5. Jh.    |0 (DE-588)118796313    |e Verfasser    |4 aut    
+700 1    |a Pachel, Leonhard    |d 1451-1511    |0 (DE-588)120259516    |e Drucker    |4 prt    
+700 1    |a Scinzenzeler, Ulrich    |d -1500    |0 (DE-588)13839413X    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+751      |a Mailand    |0 (DE-588)4037100-1    
+852 4    |b B404    |c 404U3    |j MUE Bong VI 75    |9 (41SLSP_UBE)99116697471805511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Litt IV 78    |c 404U3    |p 12    |j MUE Bong VI 75    |b B404    |9 (41SLSP_UBE)99116697471805511    
+986      |a (41SLSP_UBE)99116697471805511    |9 (41SLSP_UBE)99116697471805511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116697471805511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116697471805511    
+991      |a Bongars: 12963    |5 IZ UBE/B400/30.07.2010    |9 LOCAL    |9 (41SLSP_UBE)99116697471805511    
+991      |a MedeaB400: 00826174    |5 IZ UBE/rekat-ubbe    |9 LOCAL    |9 (41SLSP_UBE)99116697471805511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,152 @@
+﻿<-1-1-START->
+Johannes Versor
+<-1-1-STOP->
+
+<-1-2-START->
+Quaestiones super libros Parvorum naturalium Aristotelis
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Teil einer 4-bändigen Ausgabe des Werks von Johannes Versor: Quaestiones super libros Aristotelis; in BSB-Ink und ISTC als Band [3] des Gesamtwerks erfasst<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Köln: Diederich Molner, ca. 1485]
+<-500-START->Im ISTC auch Konrad Welker als möglicher zweiter Drucker genannt<-500-STOP->
+<-500-START->Erscheinungsjahr gemäss GW: ca. 1486<-500-STOP->
+
+<-3-1-STOP->
+
+<-4-1-START->
+2 ungezählte Blätter, xxii Blätter; 29 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_V-164.html<-L-5-STOP-><-VI-5-START->BSB-Ink V-164,3<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M50264.htm<-L-5-STOP-><-VI-5-START->GW M50264<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/iv00251000<-L-5-STOP-><-VI-5-START->ISTC iv00251000,3<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+24 von 24 Blättern, teilweise ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun, Kalb) mit mittiger Schliesse sowie Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln; Buchbinder: Johannes Vatter (gemäss Johann Lindt)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Dominikanerkloster Bern
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 2 weiteren Drucken und 1 Handschrift in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116737068605511<-L-11-STOP-><-VI-11-START->MUE Inc IV 77 : 3<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991052096159705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Johannes Versor<-P-STOP->
+<-P-START->Aristoteles<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Köln<-O-STOP->
+<-P-START->Diederich Molner<-P-STOP->
+<-O-START->Köln<-O-STOP->
+<-P-START->Welker, Konrad<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-P-START->Vatter, Johannes<-P-STOP->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Dominikanerkloster Bern<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991052096159705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 77 : 3<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05564nam a2200661 c 4500
+001 991052096159705501
+005 20211215171625.0
+008 151113s1485    gw            00| | lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/13.11.2015/B400/az    
+035      |a (swissbib)067118801-41slsp_network    
+035      |a 067118801    |9 ExL    
+035      |a (IDSBB)006451915DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991052096159705501    
+035      |a (41SLSP_UBE)99116737068605511    |9 (41SLSP_UBE)99116737068605511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Johannes    |c Versor    |d -1482    |0 (DE-588)102550670    |e Verfasser    |4 aut    
+240 1 0  |a Quaestiones super libros Parvorum naturalium Aristotelis    
+245 1 0  |a [Quaestiones super libros Parvorum naturalium Aristotelis]    
+246 1    |i Textbeginn (folio i recto)    |a [C]Jrca iniciu[m] paruorum naturaliu[m]. Queritur primo ...    
+246 1    |i Textbeginn in normalisierter Form    |a Circa inicium parvorum naturalium queritur primo ...    
+246 1    |i Textbeginn in moderner Orthografie    |a Circa initium parvorum naturalium queritur primo ...    
+246 1    |i Titel gemäss GW    |a Quaestiones super Parva naturalia Aristotelis    
+264   1  |a [Köln]    |b [Diederich Molner]    |c [ca. 1485]    
+300      |a 2 ungezählte Blätter, xxii Blätter    |c 29 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+490 1    |a Quaestiones super libros Aristotelis    |v [3]    
+500      |a Keine Titelseite, Haupttitel gemäss BSB-Ink (Teil [3])    
+500      |a Teil [3] einer 4-teiligen Ausgabe des Werks von Johannes Versor: Quaestiones super libros Aristotelis; nur Teil [4] (De generatione et corruptione) mit Impressum (Köln : Diederich Molner, 29.11.1485)    
+500      |a Impressum gemäss Teil [4], sowie BSB-Ink, GW und ISTC (dort auch Konrad Welker, Boppard, als möglicher 2. Drucker genannt)    
+500      |a Erscheinungsjahr gemäss GW: ca. 1486    
+500      |a Die 2 ungezählten Blätter ([a]₁ und [a]₂) mit Register und Inhaltsangabe    
+500      |a Signaturformel: [a]⁸, b-c⁸    
+500      |a Blatt [a₁] recto unbedruckt, Lage [a] nicht bezeichnet    
+505 0 0  |g Inhalt, Kopftitel fol. i recto - xii verso    |t De sensu Et sensato    |g fol. xiii recto - xv verso    |t De memoria Et reminiscencia    |g fol. xvi recto - xxi recto    |t De somno Et vigilia    |g fol. xxi verso - xxii verso    |t De longitudine Et breuitate vite    
+510 4    |a BSB-Ink    |c V-164,3    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_V-164.html    
+510 4    |a GW    |c M50264    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M50264.htm    
+510 4    |a ISTC    |c iv00251000,3    |u http://data.cerl.org/istc/iv00251000    
+530      |a Digitalisat (Exemplar der Universitäts- und Landesbibliothek Darmstadt)    |u http://tudigit.ulb.tu-darmstadt.de/show/inc-iv-209    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun, Kalb) mit mittiger Schliesse sowie Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, blindgeprägtes Titelschild am Rücken: "De Mont[e] In Lib Arlis" (Aristotelis); darüber auf dem Rücken in Tinte: "de Monte Jn lib. Arles"; unter dem Titelschild in Tinte: "1494 Colon. Agripp"    
+563      |a Auf dem Vorderdeckel Pergamentschild mit Titel in Tinte: "Textus ethi[corum] Q[uaesti]o[ne]s lamb[er]ti de a[n]i[m]a [et] u[er]so[ris] sup[er] p[ar]ua na[tura]lia"    
+563      |a Vorsätze: vorne mit 3 fliegenden Blättern (Pergament und Papier) und hinten mit einem fliegenden Blatt (Pergament); im vorderen und hinteren Spiegel Makulatur einer mittelalterlichen Handschrift; Pergamentblätter vorne und hinten handschriftlich in Tinte mit lateinischem Text beschrieben; auf erstem fliegenden Blatt aus Papier die Titel der enthaltenen Bücher: "Text[us] Ethicoru[m] aristo[te]lis ...[?] lamb[er]t[us] sup[er] d[e] a[n]i[m]a ...[?] Joh[ann]is v[er]soris sup[er] p[ar]ua na[tura]lia"    
+563      |a Masse Einband: 28.1 x 19.6 x 5.6 cm    
+563      |a Zustand Einband: Loch am Rückdeckel von vormaliger Ankettung, Lederüberklebungen am Rücken mit Titelergänzung, beide Pergamentspiegel hoch gelöst    
+563      |a Gemäss Lindt Einband des Berner Dominikanermönchs Johannes Vatter (Johann Lindt: Berner Einbände, Buchbinder und Buchdrucker. Bern, 1969. Seite 50)    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 24 von 24 Blättern, vorgesehene Stellen für Initialen teilweise frei gelassen (unter anderem Anfangsinitiale auf Blatt i recto), Rubrizierung    
+590      |a Zustand Buchblock: Zum Teil Risse im roten Farbauftrag    
+590      |a Zusammengebunden mit 2 weiteren Drucken und 1 Handschrift in Sammelband    
+590      |a Angebunden ist Teil [4] dieses mehrteiligen Werks: Quaestiones super libros De generatione et corruptione Aristotelis. Köln : Diederich Molner, 29.11.1485    
+590      |a Frühere Signatur: Inc 79    
+700 0 2  |a Johannes    |c Versor    |d -1482    |t Quaestiones super libros Parvorum naturalium Aristotelis    |0 (DE-588)1122310706    
+700 0    |a Diederich    |c Molner    |d ca. 15. Jh.    |0 (DE-588)137426046    |e Drucker    |4 prt    
+700 1    |a Vatter, Johannes    |d 1470-1509    |0 (DE-588)1114426377    |e Buchbinder    |4 bnd    
+710 2    |a Dominikanerkloster Bern    |0 (DE-588)4302674-6    |e Früherer Eigentümer    |4 fmo    
+751      |a Köln    |0 (DE-588)4031483-2    
+800 0    |a Johannes    |c Versor    |d -1482    |t Quaestiones super libros Aristotelis    |v 3    |w (IDSBB)006654397DSV01    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 77 : 3    |9 (41SLSP_UBE)99116737068605511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 2 weiteren Drucken und 1 Handschrift in Sammelband    |p 12    |j MUE Inc IV 77 : 3    |b B404    |9 (41SLSP_UBE)99116737068605511    
+986      |a (41SLSP_UBE)99116737068605511    |9 (41SLSP_UBE)99116737068605511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116737068605511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

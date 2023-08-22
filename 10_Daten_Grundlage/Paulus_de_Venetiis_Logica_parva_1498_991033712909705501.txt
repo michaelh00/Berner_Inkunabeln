@@ -1,0 +1,126 @@
+﻿<-1-1-START->
+Paulus de Venetiis
+<-1-1-STOP->
+
+<-1-2-START->
+Logica parva
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Pietro Quarengi, 23.06.1498
+<-3-1-STOP->
+
+<-4-1-START->
+96 ungezählte Seiten: 1 Diagramm; 22 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M30355.htm<-L-5-STOP-><-VI-5-START->GW M30355<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ip00231000<-L-5-STOP-><-VI-5-START->ISTC ip00231000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+44 von 44 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun, Kalb) mit Langriemenschliesse sowie Resten zweier Ganzmetallschliessen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Nicolas Clasquin; Dominikanerkloster Metz
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116780444605511<-L-11-STOP-><-VI-11-START->MUE Inc IV 63<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991033712909705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Paulus de Venetiis<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Quarengi, Pietro<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Clasquin, Nicolas<-P-STOP->
+<-P-START->Dominikanerkloster Metz<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991033712909705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 63<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 02878nam a2200445 c 4500
+001 991033712909705501
+005 20230207150804.0
+008 171212s1498    it |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/12.12.2017/B404/az    
+035      |a (swissbib)070758158-41slsp_network    
+035      |a 070758158    |9 ExL    
+035      |a (IDSBB)006759020DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991033712909705501    
+035      |a (41SLSP_UBE)99116780444605511    |9 (41SLSP_UBE)99116780444605511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Paulus    |c de Venetiis    |d 1372-1429    |0 (DE-588)118739646    |e Verfasser    |4 aut    
+240 1 0  |a Logica parva    
+245 1 0  |a Tractatus summularu[m] logice Pauli Veneti    
+264   1  |a Impresse Venetijs    |b P[er] Petrum Bergomense[m]    |c Anno domini. i498. die. 23. Junij [23.06.1498]    
+300      |a 96 ungezählte Seiten    |b 1 Diagramm    |c 22 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Impressum gemäss Explicit    
+500      |a Signaturformel: a-f⁸    
+510 4    |a GW    |c M30355    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M30355.htm    
+510 4    |a ISTC    |c ip00231000    |u http://data.cerl.org/istc/ip00231000    
+561      |a Handschriftlicher Besitzvermerk unter dem Explicit (Blatt f₈ verso): "H[ae]c Logica empta fuit ad usum sacrae theologiae p[ro]fessoris Magistri Nicholai Clasquini Co[n]ve[n]tus alm[ae] Civitat[is] Mete[n]sis ordi[ni]s fr[atru]m praedicatorum"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun, Kalb) mit Langriemenschliesse sowie Resten zweier Ganzmetallschliessen, Linien- und Ornamentstempel- Blindprägung auf beiden Deckeln, vereinzelte Ornamentstempel sowie Titelschild auf dem Rücken    
+563      |a Vorsätze: jeweils ein hoch gelöster Spiegel aus Makulaturpergament    
+563      |a Masse Einband: 22 x 16 x 1.5 cm    
+563      |a Zustand Einband: Langriemenschliesse vollständig ergänzt, Hakenteile der Ganzmetallschliessen fehlend, Lederüberklebungen am Rücken, Spiegel aus Makulaturpergament hoch gelöst, von weiterer herausgetrennter Vorsatzkonstruktion nur noch Heftfäden sichtbar    
+563      |a Detaillierte Beschreibung im Inkunabel-Einbandkatalog (Lindt/Mülinen)    
+590      |a Buchblockbeschreibung: 44 von 44 Blättern, vorgesehene Stellen für Initialen frei gelassen    
+590      |a Historische Signatur auf Titelseite: "Phil 83"    
+700 0 2  |a Paulus    |c de Venetiis    |d 1372-1429    |t Logica parva    |0 (DE-588)1153936984    
+700 1    |a Quarengi, Pietro    |d 14XX-15XX    |0 (DE-588)1037566556    |e Drucker    |4 prt    
+700 1    |a Clasquin, Nicolas    |d ca. 15./16. Jh.    |e Früherer Eigentümer    |4 fmo    
+710 2    |a Couvent des Frères Prêcheurs de Metz    |0 (DE-588)1199406856    |e Früherer Eigentümer    |4 fmo    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 63    |9 (41SLSP_UBE)99116780444605511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc IV 63    |b B404    |9 (41SLSP_UBE)99116780444605511    
+986      |a (41SLSP_UBE)99116780444605511    |9 (41SLSP_UBE)99116780444605511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116780444605511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

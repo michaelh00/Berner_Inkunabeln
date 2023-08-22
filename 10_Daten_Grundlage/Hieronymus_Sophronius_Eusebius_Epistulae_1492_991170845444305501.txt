@@ -1,0 +1,215 @@
+﻿<-1-1-START->
+Hieronymus, Sophronius Eusebius
+<-1-1-STOP->
+
+<-1-2-START->
+Epistulae
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit einer "Vita S. Hieronymi" (anonym); Vorwort und Tabula gemäss BSB-Ink und GW von Theodorus de Lellis<-500-STOP->
+<-500-START->Holzschnitt auf der Titelseite gemäss BSB-Ink und ISTC von Albrecht Dürer<-500-STOP->
+<-500-START->Die Ausgabe enthält, ausser den Briefen im engeren Sinne, über 100 weitere Werke, sowohl von Hieronymus (zum Teil ihm nur zugeschrieben), als auch zum Teil von Hieronymus vom Griechischen ins Lateinische übersetzte - Briefe, Abhandlungen und Auszüge aus Werken weiterer Verfasser, überwiegend Zeitgenossen und Korrespondenten von Hieronymus<-500-STOP->
+<-500-START->Die in dieser Ausgabe genannten, zusätzlichen oder angeblichen Verfasser sind: Rufinus Aquileiensis (Tyrannus), Pelagius Haereticus, Aurelius Augustinus, Gennadius Massiliensis, Isidorus Hispalensis, Epiphanius Constantiensis, Theophilus Alexandrinus, Pammachius und Oceanus Presbyter, Papst Anastasius I., Papst Damasus I., Chromatius Aquileiensis und Heliodorus von Altino (in Bod-Inc als Pseudo-Chromatius und Pseudo-Heliodorus geführt), Petrus Paulus Vergerius, Origenes, Heilige Paula (von Rom) und Sancta Eustochium, Didymus Caecus (Alexandrinus), Alypius (Bischof von Thagaste), Pontius Meropius Paulinus (Nolanus), Papst Martin V., Eusebius Cremonensis (eigentlich Pseudo-Eusebius), Cyrillus Hierosolymitanus (eigentlich Pseudo-Cyrillus)<-500-STOP->
+<-500-START->Nicht in der Ausgabe genannte, ermittelte oder mutmassliche Verfasser sind: Eucherius Lugdunensis, Eutropius Presbyter, (Paschasius) Radbert (Abt von Corbie), Eusebius Gallicanus, Eusebius Caesariensis, Nicetas Remesianensis, Lupus de Olmedo, Caelestius Pelagianus, Bachiarius, Walter Map<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Basel: Nicolaus Kessler, 8.08.1492
+<-3-1-STOP->
+
+<-4-1-START->
+2 Bände: 2 Illustrationen, Druckermarke; 33 cm (2°)
+<-500-START->Pars 1: 1 ungezähltes Blatt, 12 ungezählte Seiten, CCVIII, das heisst CCVI Blätter, 1 ungezähltes Blatt (leer); Pars 2: 12 ungezählte Seiten, CCLXXI Blätter, 1 ungezähltes Blatt (leer)<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_H-252.html<-L-5-STOP-><-VI-5-START->BSB-Ink H-252<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/GW12433.htm<-L-5-STOP-><-VI-5-START->GW 12433<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/ih00173000<-L-5-STOP-><-VI-5-START->ISTC ih00173000<-VI-5-STOP->; <-L-5-START->http://incunables.bodleian.ox.ac.uk/record/H-090<-L-5-STOP-><-VI-5-START->Bod-Inc H-090<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+Pars 1: 211 von 214 Blättern; Pars 2: 277 von 278 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Pars 1: Titelblatt, fol. I und fol. XCIV fehlen (Katalogisat gemäss Digitalisat der Bayerischen Staatsbibliothek München); Pars 2: Letztes, unbedrucktes Blatt fehlt 
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99117248122505511<-L-11-STOP-><-VI-11-START->MUE GDB Gut 5<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991170845444305501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Hieronymus, Sophronius Eusebius<-P-STOP->
+<-P-START->Lellis, Theodorus de<-P-STOP->
+<-P-START->Dürer, Albrecht<-P-STOP->
+<-P-START->Rufinus Aquileiensis<-P-STOP->
+<-P-START->Pelagius Haereticus<-P-STOP->
+<-P-START->Augustinus, Aurelius<-P-STOP->
+<-P-START->Gennadius Massiliensis<-P-STOP->
+<-P-START->Isidorus Hispalensis<-P-STOP->
+<-P-START->Epiphanius Constantiensis<-P-STOP->
+<-P-START->Theophilus Alexandrinus<-P-STOP->
+<-P-START->Pammachius<-P-STOP->
+<-P-START->Oceanus Presbyter<-P-STOP->
+<-P-START->Anastasius I. (Papst)<-P-STOP->
+<-P-START->Damasus I. (Papst)<-P-STOP->
+<-P-START->Chromatius Aquileiensis<-P-STOP->
+<-P-START->Heliodorus von Altino<-P-STOP->
+<-P-START->Vergerius, Petrus Paulus<-P-STOP->
+<-P-START->Origenes<-P-STOP->
+<-P-START->Paula (Heilige)<-P-STOP->
+<-P-START->Eustochium<-P-STOP->
+<-P-START->Didymus Caecus<-P-STOP->
+<-P-START->Alypius (Bischof von Thagaste)<-P-STOP->
+<-P-START->Paulinus, Pontius Meropius<-P-STOP->
+<-P-START->Martin V. (Papst)<-P-STOP->
+<-P-START->Eusebius Cremonensis<-P-STOP->
+<-P-START->Cyrillus Hierosolymitanus<-P-STOP->
+<-P-START->Eucherius Lugdunensis<-P-STOP->
+<-P-START->Eutropius Presbyter<-P-STOP->
+<-P-START->Radbert (Abt von Corbie)<-P-STOP->
+<-P-START->Eusebius Gallicanus<-P-STOP->
+<-P-START->Eusebius Caesariensis<-P-STOP->
+<-P-START->Nicetas Remesianensis<-P-STOP->
+<-P-START->Lupus de Olmedo<-P-STOP->
+<-P-START->Caelestius Pelagianus<-P-STOP->
+<-P-START->Bachiarius<-P-STOP->
+<-P-START->Map, Walter<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Kessler, Nicolaus<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991170845444305501<-DOI-STOP->
+<-SIGN-START->MUE GDB Gut 5<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 10107nam a2201045 c 4500
+001 991170845444305501
+005 20221206155943.0
+008 220126s1492    sz ||||      |00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 UBE/B404/20220126/vha    
+035      |a (EXLNZ-41SLSP_NETWORK)991170845444305501    
+035      |a (41SLSP_UBE)99117248122505511    |9 (41SLSP_UBE)99117248122505511    
+040      |a CH-ZuSLS UBE    |b ger    |e rda    
+082 7 4  |a 230    |2 23sdnb    
+245 0 0  |a Epistolare beati Hieronymi    
+246 1    |i Titel gemäss GW und ISTC    |a Epistolae    
+264   1  |a ... Basilea locum    |b Nil lachesi sup[er]at: Nicolaus viuere kesler. Nomine p[er]petuo me facit ingenio    |c Mille q[ua]dringe[n]tas nonaginta a[n]nos numerab[is] Atq[ue] duos iunge: credito pressus eram. Fla[m]mifero Tita[n] clarus vixisset eoo Octaua augusti dum minor vmbra foret [8.08.1492]    
+300      |a 2 Bände    |b 2 Illustrationen    |c 33 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Die Ausgabe enthält, ausser den Briefen im engeren Sinne, über 100 weitere Werke, sowohl von Hieronymus (zum Teil ihm nur zugeschrieben), als auch (zum Teil von Hieronymus vom Griechischen ins Lateinische übersetzte) Briefe, Abhandlungen und Auszüge aus Werken weiterer Verfasser, überwiegend Zeitgenossen und Korrespondenten von Hieronymus    
+500      |a Titel gemäss Titelseite im Digitalisat der Bayerischen Staatsbibliothek München (Titelblatt fehlt im katalogisierten Exemplar)    
+500      |a Eine Auflistung sämtlicher enthaltener Werke findet sich in GW und in Bod-Inc (in Bod-Inc genauer, mit Blattangabe, teilweise mit unterschiedlicher Zuschreibung der Verfasserschaft)    
+500      |a Die in dieser Ausgabe genannten, zusätzlichen oder angeblichen Verfasser sind: Rufinus Aquileiensis (Tyrannus), Pelagius Haereticus, Augustinus, Gennadius de Massilia, Isidorus Hispalensis, Epiphanius Constantiensis, Theophilus Alexandrinus, Pammachius und Oceanus Presbyter, Papst Anastasius I., Papst Damasus I., Chromatius Aquileiensis und Heliodorus (in Bod-Inc als Pseudo-Chromatius und Pseudo-Heliodorus geführt), Petrus Paulus Vergerius, Origenes, Heilige Paula (von Rom) und Sancta Eustochium, Didymus Caecus (Alexandrinus), Alypius Thagaste, (Pontius Meropius) Paulinus Nolanus, Papst Martin V., Eusebius Cremonensis (eigentlich Pseudo-Eusebius), Cyrillus Hierosolymitanus (eigentlich Pseudo-Cyrillus)    
+500      |a Nicht in der Ausgabe genannte, ermittelte oder mutmassliche Verfasser sind: Eucherius Lugdunensis, Eutropius Presbyter, Paschasius Radbertus (Radbert, Abt von Corbie), Eusebius Gallicanus, Eusebius Caesariensis, Nicetas Remesianus, Lupus de Olmeto (Olmedo), Caelestius Pelagianus, Bachiarius, Walter Map    
+500      |a Vorwort und Tabula (Blätter a₂ bis a₄) gemäss BSB-Ink und GW von Theodorus Lelius (Theodorus de Lellis)    
+500      |a Impressum gemäss Kolophon (Blatt QQ₅ verso); Reihenfolge der Vorlage und Zeilenumbruch: "Si dilectet opes? nomen si forte rogaris. // Artificis: legito: carmina lecta dabu[n]t. // Hieronym[us] latij sum gloria: me venerant[ur]. // ... // Nil lachesi sup[er]at: Nicolaus viuere kesler. // Nomine p[er]petuo me facit ingenio. // Cui merito celebr[is] vrbs i[n]clita sectaq[ue] ab vndis // Rheni: condignu[m] dat Basilea locum. // ... // Mille q[ua]dringe[n]tas nonaginta a[n]nos numerab[is] // Atq[ue] duos iunge: credito pressus eram. // Fla[m]mifero Tita[n] clarus vixisset eoo // Octaua augusti dum minor vmbra foret"    
+500      |a Mit Druckermarke über dem Kolophon    
+500      |a Umfang Pars 1: 1 ungezähltes Blatt, 12 ungezählte Seiten, CCVIII, das heisst CCVI Blätter, 1 ungezähltes Blatt; Pars 2: 12 ungezählte Seiten, CCLXXI Blätter, 1 ungezähltes Blatt    
+500      |a Signaturformel: Pars 1: a⁸, b⁸c⁶–y⁸z⁶, aa⁸bb⁶-cc⁸dd⁶, ee–gg⁸; pars 2: j⁶, A⁸, B⁸C⁶–K⁸L⁶, M⁶N⁸–Y⁶Z⁸, AA⁶BB⁸–NN⁶OO⁸, PP-QQ⁶    
+500      |a Pars 1: Titelblatt a₁ verso und letztes Blatt gg₈ unbedruckt; pars 2: Letztes Blatt QQ₆ unbedruckt    
+500      |a Auf der Titelseite Holzschnitt (gemäss BSB-Ink und ISTC von Albrecht Dürer); in Pars 2 kleiner Holzschnitt auf Blatt j₁ verso    
+505 0 0  |g Blatt a₅ recto - a₇ verso    |t Diui Hieronymi vita: que co[m]muniter legit[ur] sub auctore incerto: no[n] satisfaciens meritis tanti doctoris    
+510 4    |a BSB-Ink    |c H-252    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_H-252.html    
+510 4    |a GW    |c 12433    |u https://www.gesamtkatalogderwiegendrucke.de/docs/GW12433.htm    
+510 4    |a ISTC    |c ih00173000    |u https://data.cerl.org/istc/ih00173000    
+510 4    |a Bod-Inc    |c H-090    |u http://incunables.bodleian.ox.ac.uk/record/H-090    
+530      |a Digitalisat Band 1 (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00027908/image_4    
+530      |a Digitalisat Band 2 (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00027919/image_4    
+561      |a Depositum der Gesellschaft der Freunde des Gutenbergmuseums    
+561      |a Handschriftlicher Vermerk auf vorderem fliegenden Blatt: "Gekauft aus der Stiftung von Fr. 100.- von Frau W[it]we Brosi-Rahn zum Gedächtnis an unser liebes und treues Vorstandsmitglied Herrn Fritz Brosi, +1947"    
+563      |a Halbbezogener Ledereinband auf Holzdeckeln mit marmoriertem Papier, auf dem Rücken Schmuckelemente und Titelschild mit Goldprägung: "S. Hieronymi Epistolæ"    
+563      |a Vorsätze: Vorne mit einem, hinten ohne fliegendes Blatt    
+563      |a Masse Einband: 32.5 x 23.0 x 9.0 cm    
+563      |a Zustand Einband: Rückenleder gerissen, Verbindung zum Vorderdeckel vollständig gebrochen, Abrieb des Papiers auf den Deckeln; vorderes fliegendes Blatt aus 19. oder 20. Jahrhundert    
+590      |a Buchblockbeschreibung: Pars 1: 211 von 214 Blättern; Pars 2: 277 von 278 Blättern, vorgesehene Stellen für Initialen frei gelassen, keine Rubrizierung    
+590      |a Zustand Buchblock: Pars 1: Löcher durch Schädlingsfrass (vor allem in den ersten Lagen von Pars 1 und den letzten Lagen von Pars 2), Ränder abgegriffen, teilweise leicht beschädigt (ohne Textverlust), fleckig    
+590      |a Unvollständiges Exemplar: Pars 1: Titelblatt a₁, fol. I (Blatt a₈) und fol. XCIV (Blatt p₁) fehlen; Pars 2: Letztes, unbedrucktes Blatt QQ₆ fehlt    
+590      |a Beide Teile in einen Band gebunden    
+590      |a Handschriftlicher Titel in Tinte auf dem oberen Schnitt: "Divi Hieronimi Epistole"    
+590      |a Wenige handschriftliche Annotationen in Tinte, zum Beispiel Pars 1, fol. XXXII (Blatt f₃) verso und XXXIIII (f₅) recto und verso, Pars 2, fol. XLVI (Blatt G₂) recto und verso, folio CCLII (NN₆) - CCLVI (OO₄) und andere; wenige Unterstreichungen, zum Beispiel Pars 2, fol. XLVI (G₂) verso und XLVII (G₃) recto, sowie Anstreichungen mit rotem Stift auf folio CCLVI (OO₄) verso bis folio CCLVIII (OO₆) verso    
+700 1 2  |a Hieronymus, Sophronius Eusebius    |d 345-420    |t Epistulae    |0 (DE-588)4329905-2    
+700 1    |a Hieronymus, Sophronius Eusebius    |d 345-420    |0 (DE-588)118550853    |4 aut    |4 rcp    |4 trl    
+700 1    |a Lellis, Theodorus <<de>>    |d 1427-1466    |0 (DE-588)104366222    |4 wpr    
+700 0    |a Rufinus    |c Aquileiensis    |d 345-410    |0 (DE-588)118750313    |4 aut    
+700 0    |a Pelagius    |c Haereticus    |d ca. 360-422    |0 (DE-588)118592432    |4 aut    
+700 0    |a Augustinus, Aurelius    |c Heiliger    |d 354-430    |0 (DE-588)118505114    |4 aut    
+700 0    |a Gennadius    |c Massiliensis    |d -492    |0 (DE-588)100942261    |4 aut    
+700 0    |a Isidorus    |c Hispalensis    |d 560-636    |0 (DE-588)118555995    |4 aut    
+700 0    |a Epiphanius    |c Constantiensis    |d 315-403    |0 (DE-588)118682229    |4 aut    
+700 0    |a Theophilus    |c Alexandrinus    |d 345-412    |0 (DE-588)118756915    |4 aut    
+700 0    |a Pammachius    |d 4. Jh.    |0 (DE-588)102401349    |4 aut    
+700 0    |a Oceanus    |c Presbyter    |d 420    |0 (DE-588)10240089X    |4 aut    
+700 0    |a Anastasius    |b I.    |c Papst    |d 3XX-402    |0 (DE-588)119222396    |4 aut    
+700 0    |a Damasus    |b I.    |c Papst    |d 305-384    |0 (DE-588)118878689    |4 aut    
+700 0    |a Chromatius    |c Aquileiensis    |d -407    |0 (DE-588)118888188    |4 aut    
+700 0    |a Heliodorus    |c von Altino    |d ca. ca. 330/340-407    |0 (DE-588)119133040    |4 aut    
+700 1    |a Vergerius, Petrus Paulus    |d 1370-1444    |0 (DE-588)118768069    |4 aut    
+700 0    |a Origenes    |d 185-254    |0 (DE-588)118590235    |4 aut    
+700 0    |a Paula    |c Heilige    |d 347-404    |0 (DE-588)118789910    |4 aut    
+700 0    |a Eustochium    |c Sancta    |d 368-419    |0 (DE-588)102393230    |4 aut    
+700 0    |a Didymus    |c Caecus    |d 313-398    |0 (DE-588)118678213    |4 aut    
+700 0    |a Alypius    |c Thagaste, Bischof    |d 354-429    |0 (DE-588)102378916    |4 aut    
+700 1    |a Paulinus, Pontius Meropius    |d 353-431    |0 (DE-588)118592165    |4 aut    
+700 0    |a Martin    |b V.    |c Papst    |d 1368-1431    |0 (DE-588)118578286    |4 aut    
+700 0    |a Eusebius    |c Cremonensis    |d ca. 4./5. Jh.    |0 (DE-588)100125611    |4 aut    
+700 0    |a Cyrillus    |c Hierosolymitanus    |d 312-386    |0 (DE-588)118677594    |4 aut    
+700 0    |a Eucherius    |c Lugdunensis    |d -450    |0 (DE-588)118682547    |4 aut    
+700 0    |a Eutropius    |c Presbyter    |d ca. Um 400/430    |0 (DE-588)118826530    |4 aut    
+700      |a Radbert    |c Corbie, Abt, Heiliger    |d 785-865    |0 (DE-588)118739409    
+700 0    |a Eusebius    |c Gallicanus    |d 5. Jh.    |0 (DE-588)10239315X    |4 aut    
+700 0    |a Eusebius    |c Caesariensis    |d 260-339    |0 (DE-588)118531425    |4 aut    
+700 0    |a Nicetas    |c Remesianensis    |d ca. -nach 414    |0 (DE-588)118786075    |4 aut    
+700 0    |a Lupus    |c de Olmedo    |d ca. 1370 - 1433    |0 (DE-588)100969062    |4 aut    
+700 0    |a Caelestius    |c Pelagianus    |d -431    |0 (DE-588)118666487    |4 aut    
+700 0    |a Bachiarius    |0 (DE-588)100727956    |4 aut    
+700 1    |a Map, Walter    |d 1140-1209    |0 (DE-588)118781669    |4 aut    
+700 1    |a Kessler, Nicolaus    |d 1445-1519    |0 (DE-588)137735677    |4 prt    
+710 2    |a Gesellschaft der Freunde des Gutenbergmuseums    |0 (DE-588)2137933-6    |4 own    
+730 0 2  |a Vita s. Hieronymi    |0 (DE-588)1212219643    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE GDB Gut 5    |9 (41SLSP_UBE)99117248122505511    
+900      |a IDSIxunikat    
+949      |c 404U3    |z Depositum der Gesellschaft der Freunde des Gutenbergmuseums    |p 12    |j MUE GDB Gut 5    |b B404    |9 (41SLSP_UBE)99117248122505511    
+986      |a (41SLSP_UBE)99117248122505511    |9 (41SLSP_UBE)99117248122505511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99117248122505511    
+990      |n HB404N2201    |9 local    |9 (41SLSP_UBE)99117248122505511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

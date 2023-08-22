@@ -1,0 +1,144 @@
+﻿<-1-1-START->
+Raimundus de Sebunda
+<-1-1-STOP->
+
+<-1-2-START->
+Theologia naturalis seu liber creaturarum
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Lyon: Guillaume Balsarin, um 1488]
+<-500-START->Erscheinungsjahr in älteren Verzeichnissen auch: ca. 1496 (siehe ISTC sowie A. Labarre: Sur le date de quelques editions de Guillaume Balsarin. In: Gutenberg-Jahrbuch 1974, Seite 84)<-500-STOP->
+<-500-START->Druckvariante: Titelseite hier überschrieben mit: "Tabula"; es gibt Exemplare ohne das Wort "Tabula" (vgl. Digitalisat der BSB München)<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+16 ungezählte Seiten, 1 ungezähltes Blatt, cclv, das heisst cclxvi Blätter: Druckermarke; 27 cm (4°)
+<-500-START->Teilweise fehlerhafte Foliierung<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_R-20.html<-L-5-STOP-><-VI-5-START->BSB-Ink R-20<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M36908.htm<-L-5-STOP-><-VI-5-START->GW M36908<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ir00032500<-L-5-STOP-><-VI-5-START->ISTC ir00032500<-VI-5-STOP->; <-VI-5-START->Meyer, Druckerzeichen der Inkunabelzeit22<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+274 von 274 Blättern, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun, 15. Jahrhundert) mit mittiger Schliesse, Linien- und Ornamentstempel-Blindprägung (Evangelisten) auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Nicolaus Foelg
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116920403005511<-L-11-STOP-><-VI-11-START->MUE Inc III 89<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991120019929705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Raimundus de Sebunda<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Lyon<-O-STOP->
+<-P-START->Balsarin, Guillaume<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Foelg, Nicolaus<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991120019929705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 89<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05328nam a2200637 c 4500
+001 991120019929705501
+005 20211215203417.0
+008 101009s1488    fr            00| | lat|d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/18.12.2013/B400/vha    
+035      |a (swissbib)064616495-41slsp_network    
+035      |a 064616495    |9 ExL    
+035      |a (IDSBB)006204492DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991120019929705501    
+035      |a (41SLSP_UBE)99116920403005511    |9 (41SLSP_UBE)99116920403005511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Raimundus    |c de Sebunda    |d 1385-1436    |0 (DE-588)119220733    |e Verfasser    |4 aut    
+240 1 0  |a Theologia naturalis seu liber creaturarum    
+245 1 0  |a Liber creatura[rum] siue de ho[m]i[n]e    |c compositus a reuerendo raymu[n]do sebeydein artib[us] et medicina magistro. et in sacra pagina egregio p[ro]fessore regente in alma vniuersitate tholosiana    
+246 1    |i Kolophon    |a Et sic explicit liber creaturaru[m] seu liber [de] ho[min]e    
+246 1    |i Titel gemäss BSB-Ink und ISTC    |a Theologia naturalis sive liber creaturarum    
+246 1    |i Titel gemäss GW    |a Theologia naturalis    
+246 1    |i Titel in normalisierter Form    |a Liber creaturarum sive de homine    
+264   1  |a [Lyon]    |b [Guillaume Balsarin]    |c [ca. 1488]    
+300      |a 16 ungezählte Seiten, 1 ungezähltes Blatt, cclv, das heisst cclxvi Blätter    |c 27 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Titelseite überschrieben mit: "Tabula"    
+500      |a Druckvariante: es gibt Exemplare ohne das Wort "Tabula" über dem Titel (vergleiche Digitalisat der BSB München)    
+500      |a Druckermarke von Guillaume Balsarin am Ende (folio cclv, das heisst cclxvi, recto)    
+500      |a Datierung gemäss BSB-Ink, GW und ISTC (Erscheinungsjahr gemäss CIBN, Goff und IGI: ca. 1496; siehe ISTC)    
+500      |a Zur Datierung vergleiche A. Labarre: Sur le date de quelques editions de Guillaume Balsarin. In: Gutenberg-Jahrbuch 1974, Seite 84    
+500      |a Signaturformel: AA⁸, a-z⁸, [et]⁸, [con]⁸, A-G⁸, H¹⁰    
+500      |a Erstes Blatt von Lage a unbedruckt (zweites als Blatt a₁ gekennzeichnet, drittes als a₂, viertes als a₄)    
+500      |a In Lage a Foliierungsfehler: Folio vi verso als Folio vii bezeichnet, das nächste Blatt als Folio viii (auf diese Weise zählt Lage a quasi korrekt "viii" Blätter obwohl nur 7 Blätter foliiert sind)    
+500      |a Fehlerhafte Foliierung nach Blatt xviii (Reihenfolge: weiteres Blatt xviii, xix, xxii, xxi, xxiii; ab Blatt xxiii wieder korrekt), Blatt xxix und xxx als xxx als xxxi paginiert (danach wieder korrekt, ausser das letzte Blatt)    
+510 4    |a BSB-Ink    |c R-20    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_R-20.html    
+510 4    |a GW    |c M36908    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M36908.htm    
+510 4    |a ISTC    |c ir00032500    |u http://data.cerl.org/istc/ir00032500    
+510 4    |a Meyer, Druckerzeichen der Inkunabelzeit    |c 22    
+530      |a Exemplar der Bayerischen Staatsbibliothek München (satzidentisch ausser: es fehlt das Wort 'Tabula' auf Haupttitelseite)    |u http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11302877_00003.html    
+561      |a Handschriftliche Widmung auf vorderem und auf hinterem fliegenden Blatt: "Pro Nicolao Fælg" (auf hinterem fliegenden Blatt mit Zeichnungen von einem Vogel und Fratzen)    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun, 15. Jahrhundert) mit mittiger Schliesse, Linien- und Ornamentstempel-Blindprägung (Evangelisten) auf beiden Deckeln    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt; Ansetzfälze im vorderen und im hinteren Deckel Makulatur einer mittelalterlichen Handschrift    
+563      |a Masse Einband: 26.4 x 19.5 x 7.0 cm    
+563      |a Zustand Einband: Schäden am Einbandleder mit Fehlstellen an den Deckelkanten, Spuren vormaliger Spiegel aus mittelalterlichem Handschriftenmaterial, Lederüberklebungen am Rücken, Schliessenriemen und Hakenteil der Schliesse ergänzt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 274 von 274 Blättern, Papierfalz zwischen erster und zweiter Lage (AA und a) sowie vorletzter und letzter Lage (G und H) gehört zum fliegenden Blatt, rot ausgezeichnete Initialen, Rubrizierung    
+590      |a Handschriftliche, scholastische Annotationen in Tinte auf vorderem fliegenden Blatt: "Conceptio est triplex ...[?] - divinalis - supernaturalis virg[in]is marie - et maternalis ..."    
+590      |a Einbandfragmente aus diesem Band in der Burgerbibliothek, Signatur BBB Cod. 756.25 (theologischer Text(?), 2 Blätter, handschriftlich, Pergament, lateinisch, 13./14. Jahrhundert)    
+590      |a Historische Signatur auf vorderem fliegenden Blatt: "N. Theol. fol. 103"    
+590      |a Frühere Signatur: Inc 524    
+700 0 2  |a Raimundus    |c de Sebunda    |d 1385-1436    |t Theologia naturalis seu liber creaturarum    |0 (DE-588)4446735-7    
+700 1    |a Balsarin, Guillaume    |d 1455-1527    |0 (DE-588)103757270X    |e Drucker    |4 prt    
+700 1    |a Foelg, Nicolaus    |e Früherer Eigentümer    |4 fmo    
+751      |a Lyon    |0 (DE-588)4036770-8    
+852 4    |b B404    |c 404U3    |j MUE Inc III 89    |9 (41SLSP_UBE)99116920403005511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc III 89    |b B404    |9 (41SLSP_UBE)99116920403005511    
+986      |a (41SLSP_UBE)99116920403005511    |9 (41SLSP_UBE)99116920403005511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116920403005511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

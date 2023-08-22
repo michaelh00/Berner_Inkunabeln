@@ -1,0 +1,138 @@
+﻿<-1-1-START->
+Origenes
+<-1-1-STOP->
+
+<-1-2-START->
+Contra Celsum
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Brief von Theodorus Gaza an Christophorus Persona und Widmungsbrief von Persona an Giovanni Mocenigo<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Rom: Georg Herolt, Januar 1481
+<-3-1-STOP->
+
+<-4-1-START->
+527 ungezählte Seiten; 30 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_O-80.html<-L-5-STOP-><-VI-5-START->BSB-Ink O-80<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M28390.htm<-L-5-STOP-><-VI-5-START->GW M28390<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/io00095000<-L-5-STOP-><-VI-5-START->ISTC io00095000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+264 von 264 Blättern, rot oder blau ausgezeichnete Initialen
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Holzdeckeln (braun) mit Schliessen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Werner Zesiger
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116801626505511<-L-11-STOP-><-VI-11-START->MUE Zesk 26<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991021494889705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Origenes<-P-STOP->
+<-P-START->Persona, Christophorus<-P-STOP->
+<-P-START->Gaza, Theodoros<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Rom<-O-STOP->
+<-P-START->Herolt, Georg<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Zesiger, Werner<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991021494889705501<-DOI-STOP->
+<-SIGN-START->MUE Zesk 26<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05175nam a2200565 c 4500
+001 991021494889705501
+005 20220217135904.0
+008 990731s1481    it ||||| |||| 00| ||lat d
+019      |a Altbestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von Signaturen.    |5 IDSBB/17.03.1995/bestub/mes    
+035      |a (swissbib)028131533-41slsp_network    
+035      |a 028131533    |9 ExL    
+035      |a (IDSBB)001127068DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991021494889705501    
+035      |a (41SLSP_UBE)99116801626505511    |9 (41SLSP_UBE)99116801626505511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a lat    |h grc    
+072   7  |a th    |2 SzZuIDS BS/BE    
+100 0    |a Origenes    |d 185-254    |0 (DE-588)118590235    |e Verfasser    |4 aut    
+240 1 0  |a Contra Celsum    
+245 1 0  |a Origenis contra Celsum finis    |c quem Christophorus persona Romanus: prior sanctæ Balbinæ de urbe: latine græceq[ue] peritissimus: cu[m] fide e græco traduxit & emendauit    
+246 1    |i Titel gemäss ISTC    |a Contra Celsum et in fidei Christianae defensionem libri    
+264   1  |a Romæ impressit    |b Magister uero Georgius Herolt de Bamberga    |c Anno incarnationis domini Millesimoquadringe[n]tesimooctogesimo primo: mense Ianuarii: regnante Sixto quarto pontifice maximo: anno eius decimo [Januar 1481]    
+300      |a 527 ungezählte Seiten    |c 30 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss Kolophon    
+500      |a Mit Brief von Theodorus Gaza ("Gazinus") an Christophorus Persona (Blatt [a₁] verso) und Widmungsbrief von Persona an Giovanni Mocenigo ("Ioanni Mocenico"; Blatt [a₂] recto und verso)    
+500      |a Impressum gemäss Kolophon (Blatt [I₅] verso); Reihenfolge der Vorlage: "Origenis contra Celsum finis: quem Christophorus persona Romanus: prior sanctæ Balbinæ de urbe: latine græceq[ue] peritissimus: cu[m] fide e græco traduxit & emendauit Magister uero Georgius Herolt de Bamberga Romæ impressit.. Anno incarnationis domini Millesimoquadringe[n]tesimooctogesimo primo: mense Ianuarii: regnante Sixto quarto pontifice maximo: anno eius decimo."    
+500      |a Signaturformel: [a¹⁰, b–o⁸, p–s¹⁰, t–z⁸, A–H⁸, I⁶]    
+510 4    |a BSB-Ink    |c O-80    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_O-80.html    
+510 4    |a GW    |c M28390    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M28390.htm    
+510 4    |a ISTC    |c io00095000    |u http://data.cerl.org/istc/io00095000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00037992/image_14    
+561      |a Stempel auf vorderem fliegenden Blatt: "Dr. Zesiger"    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Holzdeckeln (braun) mit Schliessen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln; Reste eines Titelschilds auf dem Rücken    
+563      |a Vorsätze: Vorne und hinten mit drei fliegenden Blättern    
+563      |a Masse: 29.3 x 22.5 x 7.2 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, Lederüberklebung am oberen Häubchen teilweise wieder abgelöst mit Fehlstellen, Klebespuren aus vormaliger Montageverklebung mit Proteinleim am vorderen Spiegel (eventuell von abgelöstem Zettel)    
+590      |a Buchblockbeschreibung: 264 von 264 Blättern, handschriftliche Lagensignatur in roter Tinte, ausserdem handschriftliche Lagensignatur (Nummerierung) in Graphit, jeweils auf der ersten Recto-Seite jeder Lage rechts unten; Vorsatzlagen mit Pergamentverstärkung (Manuskriptmakulatur) aussen am Falz, rot oder blau ausgezeichnete Initialen (zu Anfang der beiden Briefe und von jedem Buch), ausser beim "Proaemium", Blatt [a₃] (dort vorgesehene Stelle für Initiale freigelassen); keine Rubrizierung, Blattweiser (markieren jeweils die Buchanfänge)    
+590      |a Zustand Buchblock: Gelöschte Tintenschrift unten auf Blatt [a₂] recto (vermutlich Besitzvermerk, nicht mehr lesbar), Schäden an Blattweisern aus Pergament, Fehlstellenergänzung mit Büttenpapier an Blatt [a₂] , Blätter unterschiedlich stark verbräunt    
+590      |a Signaturformel der handschriftlichen Lagensignatur in Tinte: A¹⁰, B–O⁸, P–S¹⁰, T–Z⁸, AA–HH⁸, II⁶; in Graphit: 1¹⁰, 2–14⁸, 15–18¹⁰, 19–31⁸, 32⁶    
+590      |a Historische Signatur auf vorderem fliegenden Blatt (unter dem Stempel "Dr. Zesiger", durchgestrichen): "G IV 349"    
+700 0 2  |a Origenes    |d 185-254    |t Contra Celsum    |0 (DE-588)4330535-0    
+700 1    |a Persona, Christophorus    |d 1416-1486    |0 (DE-588)100750648    |e Übersetzer    |e Verfasser von ergänzendem Text    |4 trl    |4 wst    
+700 1    |a Giovanni    |c Republik Venedig, Doge    |d 1409-1485    |0 (DE-588)129044881    |e Widmungsempfänger    |4 dte    
+700 1    |a Gaza, Theodoros    |d 1398-1476    |0 (DE-588)11882497X    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Herolt, Georg    |0 (DE-588)107190292X    |e Drucker    |4 prt    
+700 1    |a Zesiger, Werner    |d 1902-1958    |0 (DE-588)121027392    |e Früherer Eigentümer    |4 fmo    
+751      |a Rom    |0 (DE-588)4050471-2    
+852 4    |b B404    |c 404U3    |j MUE Zesk 26    |9 (41SLSP_UBE)99116801626505511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Zesk 26    |b B404    |9 (41SLSP_UBE)99116801626505511    
+986      |a (41SLSP_UBE)99116801626505511    |9 (41SLSP_UBE)99116801626505511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116801626505511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

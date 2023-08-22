@@ -1,0 +1,131 @@
+﻿<-1-1-START->
+L'art et science de bien mourir
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Paris: Antoine Caillaut, um 1490]
+<-3-1-STOP->
+
+<-4-1-START->
+16 ungezählte Seiten; 21 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW0258510N.htm<-L-5-STOP-><-VI-5-START->GW 0258510N<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ia01123700<-L-5-STOP-><-VI-5-START->ISTC ia01123700<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+8 von 8 Blättern, rot ausgezeichnete Initialen; teilweise rubriziert
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (grün, Velours)
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit fünf weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116909013305511<-L-11-STOP-><-VI-11-START->MUE Inc IV 54 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991090474739705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Paris<-O-STOP->
+<-P-START->Caillaut, Antoine<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991090474739705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 54 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 02454nam a2200505 c 4500
+001 991090474739705501
+005 20211215180359.0
+007 cr |||||||||||
+008 080402s1490    fr            00| | fre  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/29.04.2016/B400/az    
+024 7    |a 10.3931/e-rara-35766    |2 doi    
+035      |a (swissbib)054147743-41slsp_network    
+035      |a 054147743    |9 ExL    
+035      |a (IDSBB)004463152DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991090474739705501    
+035      |a (41SLSP_UBE)99116909013305511    |9 (41SLSP_UBE)99116909013305511    
+040      |a SzZuIDS BS/BE B400    |e rda    |d CH-ZuSLS    
+041 1    |a fre    |h lat    
+130 0    |a <<L'>>art et science de bien mourir    |0 (DE-588)1143637712    
+245 1 0  |a Lart et science de bien mourir    
+246 1    |i Explicit    |a Cy fine lart et science de bien et sagement mourir translate en francoys pour la doctrine des simples gens principalement    
+246 1    |i Textanfang    |a Selon les sains docteurs no[us] sero[n]s telz presentes a dieu..    
+264   1  |a [Paris]    |b [Antoine Caillaut]    |c [um 1490]    
+300      |a 16 ungezählte Seiten    |c 21 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+337      |b c    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+338      |b cr    |2 rdacarrier    
+500      |a Keine Titelseite, nur Kopftitel    
+500      |a Impressum gemäss GW und ISTC (Typen 1:81G)    
+500      |a Signaturformel: [a⁸]    
+510 4    |a GW    |c 0258510N    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW0258510N.htm    
+510 4    |a ISTC    |c ia01123700    |u http://data.cerl.org/istc/ia01123700    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (grün, Velours)    
+563      |a Vorsätze: Vorne zwei und hinten drei fliegende Blätter    
+563      |a Masse Einband: 21.2 x 14.7 x 4.6 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, Fehlstellen mit Gewebe unterlegt, Deckel und Vorsätze ergänzt, Verschlussbänder fehlend    
+590      |a Zusammengebunden mit fünf weiteren Drucken in Sammelband    
+590      |a Buchblockbeschreibung: 8 von 8 Blättern, rot ausgezeichnete Initialen; teilweise rubriziert    
+590      |a Historische Signatur auf vorderem fliegendem Vorsatzblatt: "Theol N° 414 403"    
+700 1    |a Caillaut, Antoine    |d 14XX-1506    |0 (DE-588)128991100    |e Drucker    |4 prt    
+751      |a Paris    |0 (DE-588)4044660-8    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 54 : 2    |9 (41SLSP_UBE)99116909013305511    
+856 4    |u http://dx.doi.org/10.3931/e-rara-35766    |z Digitalisat in e-rara    
+900      |a IDSIxunikat    
+900      |a IDSIxhybrid-el    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc IV 54 : 2    |b B404    |9 (41SLSP_UBE)99116909013305511    
+986      |a (41SLSP_UBE)99116909013305511    |9 (41SLSP_UBE)99116909013305511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116909013305511    
+990      |f erarabe    |9 LOCAL    |9 (41SLSP_UBE)99116909013305511    
+990      |f lza-cc0    |9 LOCAL    |9 (41SLSP_UBE)99116909013305511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116909013305511    
+991      |a AAK: 00031547    |5 IZ UBE/rekat-ubbe    |9 LOCAL    |9 (41SLSP_UBE)99116909013305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,159 @@
+﻿<-1-1-START->
+Johannes de Thurocz
+<-1-1-STOP->
+
+<-1-2-START->
+Chronica Hungarorum
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit einem Widmungsbrief von Theobald Feger an König Matthias von Ungarn und Böhmen, einem Widmungsbrief des Verfassers an Thomas de Drag, dem "Carmen miserabile" von Magister Rogerus und einem Gedicht "Quanta sit invicti terrena potentia sceptri"<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Augsburg und Budapest]: Erhard Ratdolt für Theobald Feger, 03.06.1488
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 305 ungezählte Seiten, 2 ungezählte Blätter, 33 ungezählte Seiten, 1 ungezähltes Blatt: 66 Illustrationen, Holzschnittinitialen, Druckermarke; 22 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_T-342.html<-L-5-STOP-><-VI-5-START->BSB-Ink T-342<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M14775.htm<-L-5-STOP-><-VI-5-START->GW M14775<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/it00361000<-L-5-STOP-><-VI-5-START->ISTC it00361000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+82 von 174 Blättern, zusammengestellt aus drei Umlaufeinheiten mit fünf verschiedenen Papiertypen, Illustrationen auf Blättern von zwei Umlaufeinheiten koloriert
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Pergamenteinband auf Kartondeckeln (17. Jahrhundert) mit Stosskanten und Verschlussbändern (grünes Gewebe), Linien-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 3 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Die Blätter []₁-a₂, b₃-b₆, d₁-d₅, d₇-f₁, g₁-g₈, h₂, h₅, i₁-k₂, k₄-k₅, k₇, l₄, m₁, m₈, n₆, o₂-o₃, o₆, q₁, q₃-q₆, r₁-r₈, s₆, t₄-t₅, v₂-x₁ und x₃-y₁₀ fehlen (darunter fast alle Blätter mit Illustrationen)
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116725259105511<-L-11-STOP-><-VI-11-START->MUE Bong V 968 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991081058759705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Johannes de Thurocz<-P-STOP->
+<-P-START->Rogerus (Magister)<-P-STOP->
+<-P-START->Feger, Theobald<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Augsburg<-O-STOP->
+<-P-START->Ratdolt, Erhard<-P-STOP->
+<-O-START->Budapest<-O-STOP->
+<-P-START->Feger, Theobald<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991081058759705501<-DOI-STOP->
+<-SIGN-START->MUE Bong V 968 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 07117nam a2200745 c 4500
+001 991081058759705501
+005 20211215183249.0
+008 100803s1488    gw            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/05.02.2019/B404/faf    
+035      |a (swissbib)062253395-41slsp_network    
+035      |a 062253395    |9 ExL    
+035      |a (IDSBB)005286751DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991081058759705501    
+035      |a (41SLSP_UBE)99116725259105511    |9 (41SLSP_UBE)99116725259105511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Johannes    |c de Thurocz    |d 1435-1490    |0 (DE-588)100950531    |e Verfasser    |4 aut    
+240 1 0  |a Chronica Hungarorum    
+245 1 0  |a Serenissimoru[m] hungarie regu[m] chronica bene reuisa ac fideli studio emendata finit feliciter    
+246 1    |i Titel in normalisierter Form    |a Serenissimorum Hungarie regum chronica bene revisa ac fideli studio emendata finit feliciter    
+246 1    |i Incipit    |a Serenissimo ac inuictissimo principi ac d[omi]no d[omi]no Mathiae hu[n]gariae bohemiaeq[ue] rege Theobaldus fegher Salute[m] [et] gloria[m] exoptat    
+246 1    |i Incipit in normalisierter Form    |a Serenissimo ac invictissimo principi ac domino domino Mathiae Hungariae Bohemiaeque rege Theobaldus Fegher salutem et gloriam exoptat    
+246 1    |i Incipit des 2. enthaltenen Werks in normalisierter Form    |a Epistola magistri Rogerii in miserabili carmen super destructione regni Hungarie per Tartaros facta editum ab reverendum dominum Iohannem Pestheniensis ecclesie episcopum feliciter incipit    
+264   1  |a [Augsburg und Budapest]    |b Impressa erhardi ratdolt viri solertissimi eximia industria et mira imprimendi arte: qua nuper venetijs nu[n]c Auguste excellet nominatissimus    |b Impensis siquidem Theobaldi feger conciuis Budensis    |c Anno salutifere incarnatio[n]is millesimo q[ua]dringentesimo octogesimooctauo tertio nonas Junij [03.06.1488]    
+300      |a 1 ungezähltes Blatt, 305 ungezählte Seiten, 2 ungezählte Blätter, 33 ungezählte Seiten, 1 ungezähltes Blatt    |b 66 Illustrationen    |c 22 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit einem Widmungsbrief von Theobald Feger an König Matthias von Ungarn und Böhmen, einem Widmungsbrief des Verfassers an Thomas de Drag, dem "Carmen miserabile" von Magister Rogerus und einem Gedicht "Quanta sit invicti terrena potentia sceptri"    
+500      |a Keine Titelseite, Titel gemäss Kolophon    
+500      |a Drucker, Verleger und Druckdatum gemäss Kolophon    
+500      |a Druckermarke von Feger am Ende    
+500      |a Signaturformel: []², a-g⁸, h⁶, i¹⁰, k-o⁸, p⁶, q-t⁸, v⁴, x⁸, y¹⁰    
+500      |a Die Seiten []₁ recto, v₂ verso und x₁ recto sowie die Blätter v₃, v₄ und y₁₀ sind unbedruckt    
+500      |a Bei der Illustration wurde einige Druckstöcke mehrfach verwendet    
+500      |a Holzschnittinitialen    
+505 0 0  |t Epistola magistri rogerij in miserabili carmen sup[er] destructio[n]e regni Hu[n]garie per Tartaros facta editum ab Reuerendu[m] d[omi]n[u]m Iohanne[m] pestheniensis ecclesie episcopu[m] feliciter incipit    
+510 4    |a BSB-Ink    |c T-342    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_T-342.html    
+510 4    |a GW    |c M14775    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M14775.htm    
+510 4    |a ISTC    |c it00361000    |u http://data.cerl.org/istc/it00361000    
+530      |a Digitalisat (Exemplar der Boston Public Library)    |u https://archive.org/details/prefatiomagistri00thur    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Ganzbezogener Pergamenteinband auf Kartondeckeln (17. Jh.) mit Stosskanten und Verschlussbändern (grünes Gewebe), Linien-Blindprägung auf beiden Deckeln    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 21.4 x 16.7 x 2.7 cm    
+563      |a Zustand Einband: Schädlingsfrass an vorderem Deckel, Verschlussbänder fehlend, Rücken mit Gewebe neu hinterklebt, Rückenbezug mit eingefärbtem Japanpapier vollständig ergänzt, vorderes Vorsatz im Falz mit Japanpapier stabilisiert    
+590      |a Buchblockbeschreibung: 82 von 174 Blättern, Lagen zum Teil aus Einzelblättern zusammengesetzt und (gegeneinander) vorgeklebt, zusammengestellt aus 3 Umlaufeinheiten mit 5 verschiedenen Papiertypen (A: a₃-a₈, c₈, f₂-f₃, f₇-f₈, k₃, k₆, k₈-l₃, l₅-l₈, m₂-m₇, n₁-n₅, n₇-o₁, o₄-o₅, o₇-p₆, q₈, s₃; B: b₁-b₂, b₇-c₇, f₄, f₆, h₁, h₃-h₄, h₆, q₂, q₇, s₁-s₂, s₄-s₅, s₇-t₃, t₆-v₁, x₂; C: d₆, f₅), an vorderem fliegendem Vorsatzblatt verso Tinten-Abklatsch eines vormaligen handschriftlichen Titelblattes "Chronica Hungarorum", Illustrationen auf Blättern der Umlaufeinheiten A und B koloriert    
+590      |a Zustand Buchblock: Schädlingsfrass nur an Blättern der Umlaufeinheit A, aufliegende Substanz über Kolorierung des Holzschnittes auf Blatt b₇ verso, Heftung gerissen zwischen den Blättern s₄-s₅    
+590      |a Unvollständiges Exemplar: Die Blätter []₁-a₂, b₃-b₆, d₁-d₅, d₇-f₁, g₁-g₈, h₂, h₅, i₁-k₂, k₄-k₅, k₇, l₄, m₁, m₈, n₆, o₂-o₃, o₆, q₁, q₃-q₆, r₁-r₈, s₆, t₄-t₅, v₂-x₁ und x₃-y₁₀ fehlen (darunter fast alle Blätter mit Illustrationen)    
+590      |a Handschriftliche Annotationen und Unterstreichungen in Tinte (hauptsächlich auf Blättern der Umlaufeinheit B), unter anderem von Jacques Bongars    
+590      |a Zusammengebunden mit 3 weiteren Drucken in Sammelband    
+590      |a Historische Signatur auf vorderem Spiegel: "Hist: Prof. 516.", Zahl korrigiert zu "109."    
+590      |a Frühere Signaturen: Inc 425; Inc IV 45; III R 30    
+648   4  |a Geschichte Anfänge-1460    
+648   4  |a Geschichte Anfänge-1488    
+648   4  |a Geschichte Anfänge-1500    
+651   4  |a Ungarn    
+655   4  |a Quelle    
+700 0    |a Rogerus    |c Magister    |d 1205-1266    |0 (DE-588)100959938    |e Verfasser    |4 aut    
+700 1    |a Ratdolt, Erhard    |d 1447-1527    |0 (DE-588)11878790X    |e Drucker    |4 prt    
+700 1    |a Feger, Theobald    |d ca. 15. Jh.    |0 (DE-588)129016047    |e Verlag    |e Verfasser von ergänzendem Text    |4 pbl    |4 wst    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |e Annotierende Person    |4 fmo    |4 ann    
+700 0 2  |a Johannes    |c de Thurocz    |d 1435-1490    |t Chronica Hungarorum    |0 (DE-588)4606941-0    
+700 0 2  |a Rogerus    |c Magister    |d 1205-1266    |t Carmen miserabile    |0 (DE-588)1088017452    
+751      |a Augsburg    |0 (DE-588)4003614-5    
+751      |a Budapest    |0 (DE-588)4008684-7    
+852 4    |b B404    |c 404U3    |j MUE Bong V 968 : 1    |9 (41SLSP_UBE)99116725259105511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc IV 45 : 1    |c 404U3    |z Zusammengebunden mit 3 weiteren Drucken in Sammelband    |p 12    |j MUE Bong V 968 : 1    |b B404    |9 (41SLSP_UBE)99116725259105511    
+986      |a (41SLSP_UBE)99116725259105511    |9 (41SLSP_UBE)99116725259105511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116725259105511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116725259105511    
+991      |a Bongars: 13750    |5 IZ UBE/B400/03.08.2010    |9 LOCAL    |9 (41SLSP_UBE)99116725259105511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

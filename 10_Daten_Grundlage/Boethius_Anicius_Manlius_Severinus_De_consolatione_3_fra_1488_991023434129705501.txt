@@ -1,0 +1,152 @@
+﻿<-1-1-START->
+Boethius, Anicius Manlius Severinus
+<-1-1-STOP->
+
+<-1-2-START->
+De consolatione philosophiae [französisch]
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Es handelt sich nicht um die Prosaübersetzung des Jean de Meung, von dem nur der Widmungsbrief an Philipp IV. stammt, sondern um die anonyme zweite französische Übersetzung in Prosa und Versen, die teils auf Boethius' Text, teils auf Jean de Meungs Übersetzung und teils auf der ersten Übersetzung in Prosa und Versen beruht (siehe Histoire littéraire de la France 37, Paris 1938)<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Lyon: Drucker des Champion des Dames (Jean Du Pré?), um 1488]
+<-500-START->Von Péligry Guillaume Le Roy zugeschrieben<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+94 ungezählte Seiten, 1 ungezähltes Blatt: 2 Illustrationen, Holzschnittinitiale; 26 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW04578.htm<-L-5-STOP-><-VI-5-START->GW 04578<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib00813970<-L-5-STOP-><-VI-5-START->ISTC ib00813970<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+48 von 48 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener einteiliger Kartoneinband mit flächig gefärbtem Papier (chamois, 18. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 2 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116886104705511<-L-11-STOP-><-VI-11-START->MUE Inc I 84 : 3<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991023434129705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Boethius, Anicius Manlius Severinus<-P-STOP->
+<-P-START->Jean de Meung<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Lyon<-O-STOP->
+<-P-START->Drucker des Champion des Dames<-P-STOP->
+<-O-START->Lyon<-O-STOP->
+<-P-START->Du Pré, Jean<-P-STOP->
+<-O-START->Lyon<-O-STOP->
+<-P-START->Le Roy, Guillaume<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991023434129705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 84 : 3<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04539nam a2200649 c 4500
+001 991023434129705501
+005 20211215173405.0
+007 cr |||||||||||
+008 080229s1488    fr            00| | fre  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/02.08.2018/B404/faf    
+024 7    |a 10.3931/e-rara-72171    |2 doi    
+035      |a (swissbib)055759106-41slsp_network    
+035      |a 055759106    |9 ExL    
+035      |a (IDSBB)004436894DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991023434129705501    
+035      |a (41SLSP_UBE)99116886104705511    |9 (41SLSP_UBE)99116886104705511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a fre    |h lat    
+100 1    |a Boethius, Anicius Manlius Severinus    |d 480-524    |0 (DE-588)11851282X    |e Verfasser    |4 aut    
+240 1 0  |a De consolatione philosophiae    
+245 1 0  |a <<Le>> boece de consolation    |c translate de latin en francois par honnourable homme maistre Jehan de meun A la requeste du roy Philippe le quart    
+246 1    |i Incipit    |a Cy commance Boece de consolation en francois    |b iouxte et au plus pres du latin pour consoler les entendemens de ceulx qui prene[n]t soulas et plaisir au latin et au roman qui fut translate par maistre Jehan de meun a la requeste de tresexcellent crestien iadis roy de france Philippe le quart    
+246 1    |i Explicit    |a Cy finist le souuerain liure intitule Boece de consolation selon la translation de treshonnourable orateur maistre Jehan de Mun    
+246 1    |i Explicit in normalisierter Form    |a Cy finist le souverain livre intitule Boece de consolation selon la translation de treshonnourable orateur maistre Jehan de Mun    
+264   1  |a [Lyon]    |b [Drucker des Champion des Dames (Jean Du Pré?)]    |c [um 1488]    
+300      |a 94 ungezählte Seiten, 1 ungezähltes Blatt    |b 2 Illustrationen    |c 26 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+337      |b c    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+338      |b cr    |2 rdacarrier    
+500      |a Es handelt sich nicht um die Prosaübersetzung des Jean de Meung, von dem nur der Widmungsbrief an Philipp IV. stammt, sondern um die anonyme zweite französische Übersetzung in Prosa und Versen, die teils auf Boethius' Text, teils auf Jean de Meungs Übersetzung und teils auf der ersten Übersetzung in Prosa und Versen beruht (siehe Histoire littéraire de la France 37, Paris 1938)    
+500      |a Impressum gemäss ISTC; von Péligry Guillaume Le Roy zugeschrieben    
+500      |a Holzschnittinitiale auf der Titelseite    
+500      |a Signaturformel: a⁸, b–e⁶, f-g⁸    
+500      |a Blatt g₈ ist unbedruckt    
+510 4    |a GW    |c 04578    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW04578.htm    
+510 4    |a ISTC    |c ib00813970    |u http://data.cerl.org/istc/ib00813970    
+563      |a Einbandbeschreibung: Ganzbezogener einteiliger Kartoneinband mit flächig gefärbtem Papier (chamois, 18. Jh.)    
+563      |a Vorsätze: Vorne mit einem und hinten ohne fliegendes Blatt    
+563      |a Masse Einband: 25.8 x 20.0 x 3.8 cm    
+563      |a Zustand Einband: Papierüberzug an den Fälzen und Deckelkanten zurückgeklebt und geglättet, Buchblock mit Moltongewebe hinterklebt    
+590      |a Buchblockbeschreibung: 48 von 48 Blättern, Papierfalz zwischen den Lagen f und g gehört zur Vorsatzkonstruktion, vorgesehene Stellen für Initialen frei gelassen    
+590      |a Zustand Buchblock: Papierhinterklebung an Fehlstelle im Text (Ausschnitt) an Blatt a₁, herstellungsbedingte Schwachstelle im Papier an Blatt f₄    
+590      |a Wenige Unterstreichungen in Rot    
+590      |a Auf Blatt g₈ recto durchgestrichener Besitzvermerk (?) von 1545    
+590      |a Zusammengebunden mit 2 weiteren Drucken in Sammelband    
+590      |a Handschriftliches Inhaltsverzeichnis des Sammelbands in Tinte auf vorderem fliegendem Vorsatzblatt verso    
+590      |a Frühere Signatur: Inc 395 a    
+700 0    |a Jean    |c de Meung    |d -1305    |0 (DE-588)118557203    |e Verfasser eines Vorworts    |4 wpr    
+700 0    |a Drucker des Champion des Dames    |d ca. 2. Hälfte 15. Jahrhundert    |0 (DE-588)1163756504    |e Drucker    |4 prt    
+700 1    |a Du Pré, Jean    |d ca. 15. Jh.    |0 (DE-588)1037649958    |e Drucker    |4 prt    
+700 1    |a Le Roy, Guillaume    |d 14XX-1493    |0 (DE-588)1055454969    |e Drucker    |4 prt    
+700 1 2  |a Boethius, Anicius Manlius Severinus    |d 480-524    |t De consolatione philosophiae    |0 (DE-588)4099136-2    
+751      |a Lyon    |0 (DE-588)4036770-8    
+852 4    |b B404    |c 404U3    |j MUE Inc I 84 : 3    |9 (41SLSP_UBE)99116886104705511    
+856 4    |u http://dx.doi.org/10.3931/e-rara-72171    |z Digitalisat in e-rara    
+900      |a IDSIxunikat    
+900      |a IDSIxhybrid-el    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 2 weiteren Drucken in Sammelband    |p 12    |j MUE Inc I 84 : 3    |b B404    |9 (41SLSP_UBE)99116886104705511    
+986      |a (41SLSP_UBE)99116886104705511    |9 (41SLSP_UBE)99116886104705511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116886104705511    
+990      |f erarabe    |9 LOCAL    |9 (41SLSP_UBE)99116886104705511    
+990      |f lza-cc0    |9 LOCAL    |9 (41SLSP_UBE)99116886104705511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116886104705511    
+991      |a AAK: 00105925    |5 IZ UBE/rekat-ubbe    |9 LOCAL    |9 (41SLSP_UBE)99116886104705511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

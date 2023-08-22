@@ -1,0 +1,149 @@
+﻿<-1-1-START->
+Petrus Lombardus
+<-1-1-STOP->
+
+<-1-2-START->
+Sententiae
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit den Conclusiones in libros Sententiarum des Heinrich von Gorkum, ohne den im Titel genannten Sentenzenkommentar des Pseudo-Thomas und die in anderen Ausgaben vorhandenen in England und Paris verurteilten Errores<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Basel]: Nicolaus Kessler, 19.02.1492
+<-3-1-STOP->
+
+<-4-1-START->
+250 ungezählte Seiten, 1 ungezähltes Blatt, 250 ungezählte Seiten, 1 ungezähltes Blatt: Druckermarke; 33 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_P-389.html<-L-5-STOP-><-VI-5-START->BSB-Ink P-389 Ausgabe B<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M32486.htm<-L-5-STOP-><-VI-5-START->GW M32486<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ip00495000<-L-5-STOP-><-VI-5-START->ISTC ip00495000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+252 von 252 Blättern, rot ausgezeichnete Initialen, Rubrizierung, Druckermarke teilweise rot koloriert
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun, Kalb) mit Schliessen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, Buchbinder: Johannes Vatter
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Dominikanerkloster Bern; Eberhard von Rümlang; Wolfgang Musculus
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116918965405511<-L-11-STOP-><-VI-11-START->MUE Inc I 85<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991092278719705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Petrus Lombardus<-P-STOP->
+<-P-START->Heinrich von Gorkum<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Kessler, Nicolaus<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-P-START->Vatter, Johannes<-P-STOP->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Rümlang, Eberhard von<-P-STOP->
+<-P-START->Musculus, Wolfgang<-P-STOP->
+<-P-START->Dominikanerkloster Bern<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991092278719705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 85<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05676nam a2200673 c 4500
+001 991092278719705501
+005 20221214111031.0
+008 950830s1492    sz            00| | lat|d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/28.12.2017/B404/faf    
+035      |a (swissbib)062865285-41slsp_network    
+035      |a 062865285    |9 ExL    
+035      |a (IDSBB)005709902DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991092278719705501    
+035      |a (41SLSP_UBE)99116918965405511    |9 (41SLSP_UBE)99116918965405511    
+040      |a TWU    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Petrus    |c Paris, Bischof    |d 1095-1160    |0 (DE-588)11859334X    |e Verfasser    |4 aut    
+240 1 0  |a Sententiae    
+245 1 0  |a Textus Sententiaru[m]    |b cum conclusionib[us] Heinrici gorichem. necno[n] scriptis s[an]cti Thome de Aquino ad Hanibaldum episcopum    
+246 1    |i Kolophon    |a Liber Sententiarum magistri Petri Lombardi cum conclusionibus magistri Henrici Gorichem: sacraru[m] litteraru[m] interpretis explicit    
+246 1    |i Titel gemäss BSB-Ink    |a Sententiarum libri quattuor    
+246 1    |i Titel gemäss GW und ISTC    |a Sententiarum libri IV    
+246 1    |i Titel in normalisierter Form    |a Textus sententiarum    |b cum conclusionibus Heinrici Gorichem    
+264   1  |a [Basel]    |b Impensis atq[ue] singulari opera Nicolai Keslers ciuis Basilieen[sis]. ad honore[m] sancte [et] indiuidue trinitatis ac fidei catholice augmentu[m] et tuitionem q[uam] dilige[n]tissime impressus    |c Anno incarnationis d[omi]ni post milesimu[m] quaterq[ue] centesimu[m] nonagesimosecundo. Duodecimo vero kal[e]n. Martij [19.02.1492]    
+300      |a 250 ungezählte Seiten, 1 ungezähltes Blatt, 250 ungezählte Seiten, 1 ungezähltes Blatt    |c 33 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Register, ohne den im Titel genannten Sentenzenkommentar des Pseudo-Thomas und die in anderen Ausgaben vorhandenen in England und Paris verurteilten Errores    
+500      |a Impressum gemäss Kolophon (Blatt Q₆ verso)    
+500      |a Druckermarke über dem Kolophon    
+500      |a Signaturformel: a-r⁶, [rundes r]⁶, s⁶, [langes s]⁶, t⁶, A⁸B⁶-P⁸Q⁶, R⁶, S⁸    
+500      |a Die Blätter t₆ und S₈ sind unbedruckt    
+510 4    |a BSB-Ink    |c P-389 Ausgabe B    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_P-389.html    
+510 4    |a GW    |c M32486    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M32486.htm    
+510 4    |a ISTC    |c ip00495000    |u http://data.cerl.org/istc/ip00495000    
+530      |a Digitalisat (Exemplar der Thüringer Universitäts- und Landesbibliothek Jena)    |u https://archive.thulb.uni-jena.de/hisbest/receive/HisBest_cbu_00011814    
+561      |a Handschriftliche Widmung auf der Titelseite: "Eberhardus Rümlang Wolfgango Musculo dono dedit. Anno 1550. Martij .24. Berne Helvet:"; in anderer Handschrift darunter: "Wolfgangus Musculus codice[m] hunc per com[m]utatio[nem] publicae Bibliothecae tradidit 1556."; vorher Besitz des Dominikanerklosters Bern    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun, Kalb) mit Schliessen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln    
+563      |a Vorsätze: Vorne mit einem und hinten ohne fliegendes Blatt    
+563      |a Masse Einband: 32.4 x 22.5 x 6.1 cm    
+563      |a Zustand Einband: Heftung in vorderem Vorsatz fehlend, Spiegel an Rückdeckel hochgelöst und beschädigt zurückgeklebt und fliegendes Blatt abgetrennt, Brüche in den Schliessenriemen, Schliessenplättchen mit Haken an Hakenteilen ergänzt, Lederüberklebungen am Rücken und den Deckeln mit Ergänzung der Blindlinierung, Loch von vormaliger Ankettung am Rückdeckel    
+563      |a Gemäss Johann Lindt (Berner Einbände, Buchbinder und Buchdrucker, Bern 1969) Einband des Berner Dominikanermönchs Johannes Vatter    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 252 von 252 Blättern, Foliierung in Graphit, rot ausgezeichnete Initialen, Rubrizierung, Druckermarke teilweise rot koloriert, Titel "Sententia[rum]" in Tintenschrift auf dem Kopfschnitt (Buch auf dem Vorderdeckel liegend)    
+590      |a Zustand Buchblock: Schädlingsfrass in den vorderen und hinteren Lagen mit geringem Textverlust, Risse an Lage a    
+590      |a Handschriftliche Annotationen und Unterstreichungen in Tinte    
+590      |a Historische Signatur auf der Titelseite: "Theol. N°. 70."    
+590      |a Frühere Signatur: Inc 345    
+590      |a Einbandfragmente aus diesem Band in der Burgerbibliothek, Signatur BBB Cod. 756.59 (Turoner Bibel, 2 Bl., hs., Pergament, lat., 9. Jht.)    
+610 2 0  |a Catholic Church    |x Doctrines    |v Early works to 1800    
+700 0    |a Heinrich    |c von Gorkum    |d 1378-1431    |0 (DE-588)100945767    |e Kommentarverfasser    |4 wac    
+700 1    |a Kessler, Nicolaus    |d 1445-1519    |0 (DE-588)137735677    |e Drucker    |4 prt    
+700 1    |a Vatter, Johannes    |d 1470-1509    |0 (DE-588)1114426377    |e Buchbinder    |4 bnd    
+700 1    |a Rümlang, Eberhard <<von>>    |d -1551    |0 (DE-588)1089804970    |e Früherer Eigentümer    |4 fmo    |e Beschriftende Person    |4 ins    
+700 1    |a Musculus, Wolfgang    |d 1497-1563    |0 (DE-588)11948370X    |e Früherer Eigentümer    |e Widmungsempfänger    |4 fmo    |4 dte    
+700 0 2  |a Petrus    |c Paris, Bischof    |d 1095-1160    |t Sententiae    |0 (DE-588)4192097-1    
+700 0 2  |a Heinrich    |c von Gorkum    |d 1378-1431    |t Conclusiones in libros Sententiarum    |0 (DE-588)1149546247    
+710 2    |a Dominikanerkloster Bern    |0 (DE-588)4302674-6    |e Früherer Eigentümer    |4 fmo    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc I 85    |9 (41SLSP_UBE)99116918965405511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc I 85    |b B404    |9 (41SLSP_UBE)99116918965405511    
+986      |a (41SLSP_UBE)99116918965405511    |9 (41SLSP_UBE)99116918965405511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116918965405511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

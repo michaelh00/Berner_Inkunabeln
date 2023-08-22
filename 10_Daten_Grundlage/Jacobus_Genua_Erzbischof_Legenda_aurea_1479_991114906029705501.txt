@@ -1,0 +1,160 @@
+﻿<-1-1-START->
+Jacobus (Erzbischof von Genua)
+<-1-1-STOP->
+
+<-1-2-START->
+Legenda aurea. — Katholische Kirche, 1389-1404 : Bonifatius IX.: Superni benignitas conditoris. — Beda: Beata dei genitrix virgo semper Maria. — Katholische Kirche, 1464-1471 : Paul II.: Rationi congruit et convenit; Bulla indulgentiarum prefati festi. — Adolf II. (Erzbischof von Mainz): Institutio festivitatis praesentationis beatae Mariae
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Straßburg: [Georg Husner], 1479
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 805 ungezählte Seiten; 31 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_I-74.html<-L-5-STOP-><-VI-5-START->BSB-Ink I-74<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M11307.htm<-L-5-STOP-><-VI-5-START->GW M11307<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ij00092000<-L-5-STOP-><-VI-5-START->ISTC ij00092000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+404 von 404 Blättern, rot oder blau ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun, Ziegenleder, 15. Jahrhundert), mit Schliessen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln; Buchbinder: Rolet Stos (gemäss Johann Lindt)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: S. Brüggler
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116774335905511<-L-11-STOP-><-VI-11-START->MUE Inc II 62<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991114906029705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Jacobus (Erzbischof von Genua)<-P-STOP->
+<-P-START->Bonifatius IX. (Papst)<-P-STOP->
+<-P-START->Katholische Kirche, 1389-1404 : Bonifatius IX.<-P-STOP->
+<-P-START->Beda<-P-STOP->
+<-P-START->Paul II. (Papst)<-P-STOP->
+<-P-START->Katholische Kirche, 1464-1471 : Paul II.<-P-STOP->
+<-P-START->Adolf II. (Erzbischof von Mainz)<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Husner, Georg<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-P-START->Stos, Rolet<-P-STOP->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Brüggler, S.<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991114906029705501<-DOI-STOP->
+<-SIGN-START->MUE Inc II 62<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 08739nam a2200781 c 4500
+001 991114906029705501
+005 20211215200310.0
+008 130501s1479    fr            00| | lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/23.07.2014/B400/vha    
+035      |a (swissbib)066211611-41slsp_network    
+035      |a 066211611    |9 ExL    
+035      |a (IDSBB)006121837DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991114906029705501    
+035      |a (41SLSP_UBE)99116774335905511    |9 (41SLSP_UBE)99116774335905511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Jacobus    |c Genua, Erzbischof    |d 1228-1298    |0 (DE-588)118556401    |e Verfasser    |4 aut    
+240 1 0  |a Legenda aurea    
+245 1 0  |a Hoc opus historie lombardice deo opitulante cum legendis in fine annexis    
+246 1    |i Titel in moderner Orthografie    |a Hoc opus historiae lombardicae deo opitulante cum legendis in fine annexis    
+246 1    |i Titel in normalisierter Form    |a Opus historiae lombardicae    
+246 1    |i Titel in moderner Orthografie    |a Opus historie lombardice    
+246 1    |i Incipit    |a Incipit legenda sanctoru[m] que lombardica nominatur historia ...    
+246 1    |i Incipit in moderner Orthografie    |a Incipit legenda sanctorum quae Lombardica nominatur historia ...    
+246 1 0  |a Legenda sanctorum quae Lombardica nominatur historia    
+246 1    |i Titel gemäss ISTC    |a Legenda aurea sanctorum, sive Lombardica historia    
+264   1  |a Est impressum Argentine    |b [Georg Husner]    |c Anno domini Millesimoquadringentesimoseptuagesimonono [1479]    
+300      |a 1 ungezähltes Blatt, 805 ungezählte Seiten    |c 31 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Ab Blatt [T]₆ verso: "Sequuntur quedam legende a quibusdam alijs superaddite", mit Texten von Papst Bonifatius IX. , Beda Venerabilis, Papst Paulus II., Adolf II., Erzbischof von Mainz, und weiteren Texten und Legenden, darunter Auszügen eines "Tractatus de conceptione Mariae virginis" (Blatt [X]₆ recto, fälschlich Anselm von Canterbury zugeschrieben) und "Ex decreto concilii Basiliensis" (Blatt [Y]₁ recto)    
+500      |a Titel gemäss Kolophon    
+500      |a Druckort und Druckjahr gemäss Kolophon, Drucker gemäss BSB-Ink, GW und ISTC    
+500      |a Signaturformel (gemäss BSB-Ink): [*–**⁸, a¹⁰, b–e⁸, f¹⁰, g–l⁸, m¹⁰, n–o⁸, p⁶, q–v⁸, x⁶, y–z⁸, A¹⁰, B–D⁸, E⁶, F–K⁸, L¹⁰, M–O⁸, P⁶, Q–X⁸, Y⁶, Z⁸, aa-bb¹⁰]    
+500      |a Blatt [*]₁ unbedruckt; Blätter [**]₈ verso, [a]₁ recto und [bb]₁₀ verso unbedruckt    
+505 0 0  |g Blatt [T]₇ verso    |t Tenor bulle per bonifacium papam .ix. transmisse ad diuersas mundi partes super festo visitationis beate marie virginis ad elizabeth    |g Blatt [T]₈ verso    |t Ex sermone venerabilis bede. Beata dei genitrix virgo semper maria ...    |g Blatt [V]₆ verso    |t De festo presentationis marie ad templum in hierusalem    |r Paulus e[pisco]pus seruus seruo[rum] dei ...    |g Blatt [V]₇ recto    |t Sequit[ur] bulla indulgentia[rum] p[re]fati festi    |r Paulus e[pisco]pus seruus seruo[rum] dei ...    |g Blatt [V]₇ verso    |t Sequit[ur] institutio huius festi p[er] archie[pisco]p[u]m maguntine[n]sem    |r Adolfus dei gratia sancte magu[n]tine sedis archie[pisco]p[u]s ...    
+510 4    |a BSB-Ink    |c I-74    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_I-74.html    
+510 4    |a GW    |c M11307    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M11307.htm    
+510 4    |a ISTC    |c ij00092000    |u http://data.cerl.org/istc/ij00092000    
+561      |a Handschriftlicher Besitzvermerk auf vorderem fliegenden Blatt (verso), Blatt [*]₂ recto und [a]₄ recto: "S Brüggler"; auf vorderem fliegenden Blatt mit Jahr: "1563."    
+561      |a Handschriftlicher Besitzvermerk auf vorderem fliegenden Blatt (verso), auf dem Kopf stehend: "... pertinet ...[?] de Zoffingen ... socius ...[?]" (zum Teil Schrift verblasst, zum Teil nicht entzifferbar)    
+563      |a Ganzbezogener Ledereinband auf Holzdeckeln (braun, Ziegenleder, 15. Jahrhundert), mit Schliessen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln; gemäss Johann Lindt aus der Werkstatt des Franziskaners Rolet Stos (Freiburg im Üechtland oder Bern)    
+563      |a Vorsätze: vorne und hinten ohne fliegende Blätter (beide Pergamentspiegel hoch gelöst)    
+563      |a Masse Einband: 30.5 x 22.0 x 10.2 cm    
+563      |a Zustand Einband: Schäden am Einbandleder und den Holzdeckeln durch Brüche und Schädlingsfrass, besonders am vorderen Falz, Reste einer vormaligen Lederanschnürung an beiden Schliessenriemen, Lederüberklebungen am Rücken und den Deckelecken, beide Spiegel (Manuskriptpergament) vom Deckel gelöst    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 404 von 404 Blättern, handschriftliche Nummerierung der Lagen in Tinte (zeitgenössisch, jeweils auf dem ersten Blatt jeder Lage unten, zum grössten Teil durch Beschnitt verloren; Blatt [c]₁: "4" etc.); handschriftliche Lagensignatur (gemäss BSB-Ink) in Graphit, jeweils auf der ersten Seite jeder Lage; Falzverstärkung in den Lagenmitten (Makulatur-Pergament), Pergamentfalz zwischen den ersten beiden Lagen [*] und [**] und den letzten beiden Lagen [aa] und [bb] gehört zum Spiegel; rot oder blau ausgezeichnete Initialen, Rubrizierung    
+590      |a Zustand Buchblock: Heftung in erster Lage gerissen, auffällige braune Verfleckung an fast allen blau ausgezeichneten Initialen (auf Blatt [i]₇ recto auch unter rot ausgezeichneter Initiale), mit zum Teil starken Ausblühungen am blauen Farbauftrag oder der Verbräunung Blätter [R]₂ recto und  [Z]₆ verso (nicht eindeutig, ob als Grundierung unterhalb des Farbauftrages: Blatt [bb]₂ recto oder als Festigung darüber: Blatt [H]₁ recto); Schädlingsfrass besonders stark an der ersten Lage, Blätter unterschiedlich stark verbräunt, teilweise mit unregelmässig helleren Rändern (z.B. Blätter [a]₉ und [a]₁₀); Buchblock deformiert, mit über die Deckel hinaus ragendem Buchblock, Buchblock sperrt beim Öffnen mit Brüchen im Bundsteg    
+590      |a Blätter [X]₃ und [X]₆ sind doppelt eingebunden, Lage [X] hat deshalb in diesem Exemplar 10 statt 8 Blätter!    
+590      |a Handschriftliche Lagenzählung erkennbar auf Blatt [a]₁: (3), [c]₁: (4!), [f]₁-[g]₁: (7-8), [i]₁-[m]₁: (10-13) und [o]₁: (15, davon untere Hälfte weggeschnitten)    
+590      |a Handschriftlicher, längerer Text in Tinte auf vorderem fliegenden Blatt (recto, dort teilweise abgerieben) und auf hinterem fliegenden Blatt (recto und verso); Abklatsch des Textes vorne und hinten im Spiegel    
+590      |a Handschriftliche Annotationen und wenige Handzeichen in Tinte; kleine Zeichnung (Blatt [e]₅ recto)    
+590      |a Historische Signatur auf vorderem fliegenden Blatt: "N. Theol. fol. 102"    
+590      |a Frühere Signatur: Inc 96    
+700 0 2  |a Jacobus    |c Genua, Erzbischof    |d 1228-1298    |t Legenda aurea    |0 (DE-588)4133343-3    
+700 0    |a Bonifatius    |b IX.    |c Papst    |d 1350-1404    |0 (DE-588)118661469    |e Verfasser von ergänzendem Text    |4 wst    
+700 0 2  |a Katholische Kirche    |b Papst    |g 1389-1404 : Bonifatius IX.    |t Superni benignitas conditoris    |0 (DE-588)1213101808    
+700 0    |a Beda    |c Heiliger    |d 672-735    |0 (DE-588)118508237    |e Verfasser von ergänzendem Text    |4 wst    
+700 0 2  |a Beda    |c Venerabilis    |d 672-735    |t Beata dei genitrix virgo semper Maria    |0 (DE-588)121310369X    
+700 0    |a Paul    |b II.    |c Papst    |d 1417-1471    |0 (DE-588)11923212X    |e Verfasser von ergänzendem Text    |4 wst    
+700 0 2  |a Katholische Kirche    |b Papst    |g 1464-1471 : Paul II.    |t Rationi congruit et convenit    |0 (DE-588)1213115787    
+700 0 2  |a Katholische Kirche    |b Papst    |g 1464-1471 : Paul II.    |t Bulla indulgentiarum prefati festi    |0 (DE-588)1213116155    
+700 0    |a Adolf    |b II.    |c Mainz, Erzbischof, Kurfürst    |d 1423-1475    |0 (DE-588)120251973    |e Verfasser von ergänzendem Text    |4 wst    
+700 0 2  |a Adolf    |b II.    |c Mainz, Erzbischof, Kurfürst    |d 1423-1475    |t Institutio festivitatis praesentationis beatae Mariae    |0 (DE-588)1213267560    
+700 1    |a Husner, Georg    |d 14XX-1505    |0 (DE-588)136216064    |e Drucker    |4 prt    
+700 1    |a Stos, Rolet    |d 14XX-1501    |0 (DE-588)13396650X    |e Buchbinder    |4 bnd    
+700 1    |a Brüggler, S.    |e Früherer Eigentümer    |4 fmo    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Inc II 62    |9 (41SLSP_UBE)99116774335905511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc II 62    |b B404    |9 (41SLSP_UBE)99116774335905511    
+986      |a (41SLSP_UBE)99116774335905511    |9 (41SLSP_UBE)99116774335905511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116774335905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

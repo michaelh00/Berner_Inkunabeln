@@ -1,0 +1,149 @@
+﻿<-1-1-START->
+Lambertus de Monte Domini
+<-1-1-STOP->
+
+<-1-2-START->
+Copulata tractatuum Petri Hispani etiam parvorum logicalium et syncategorematum cum textu
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Enthält den Text der logischen Werke des Petrus Hispanus, der traditionell mit Papst Johannes XXI. identifiziert wird<-500-STOP->
+<-500-START->Vermutlich von Lambertus gemeinsam mit andern Professoren der Universität Köln verfasst<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Köln: Heinrich Quentell], 06.-07.04.1490
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, cclxxix Blätter, 10 ungezählte Seiten, 2 ungezählte Blätter, cxix Blätter, 1 ungezähltes Blatt, xxxi Blätter: 7 Illustrationen; 22 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_L-23.html<-L-5-STOP-><-VI-5-START->BSB-Ink L-23<-VI-5-STOP->; <-L-5-START->http://gesamtkatalogderwiegendrucke.de/docs/M32344.htm<-L-5-STOP-><-VI-5-START->GW M32344<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ij00238600<-L-5-STOP-><-VI-5-START->ISTC ij00238600<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+438 von 438 Blättern, Illustration des Titelblatts teilweise koloriert
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, 18./19. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jakob Kölliker
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: De universalibus. - [Straßburg: Heinrich Eggestein, um 1479]
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116719750605511<-L-11-STOP-><-VI-11-START->MUE Inc IV 33 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991017268159705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Johannes XXI. (Papst)<-P-STOP->
+<-P-START->Lambertus de Monte Domini<-P-STOP->
+<-P-START->Petrus Hispanus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Köln<-O-STOP->
+<-P-START->Quentell, Heinrich<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Kölliker, Jakob<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991017268159705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 33 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 07010nam a22006737c 4500
+001 991017268159705501
+005 20211215165416.0
+008 160830s1490    gw |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/30.08.2016/B404/az    
+035      |a (swissbib)070119007-41slsp_network    
+035      |a 070119007    |9 ExL    
+035      |a (IDSBB)006617807DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991017268159705501    
+035      |a (41SLSP_UBE)99116719750605511    |9 (41SLSP_UBE)99116719750605511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Johannes    |b XXI.    |c Papst    |d 1210-1277    |0 (DE-588)118557904    |e Verfasser    |4 aut    
+240 1 0  |a Copulata tractatuum Petri Hispani etiam parvorum logicalium et syncategorematum cum textu    
+245 1 0  |a Copulata omniu[m] tractatuu[m] Petri hyspani paruor[um] logicalium. etiam syncathegreumatu[m] cum textu ... s[ecundu]m doctrina[m] diui Thome Aquinat[is]    |c iuxta p[ro]cessum magistror[um] Colonie in bursa Montis rege[n]tium    
+246 1    |i Kolophon    |a Finit text[us] cu[m] cop[u]latis o[mn]i[u]m tractatuu[m] p[ar]uo[rum] logicaliu[m] Petri hyspani. nec no[n] text[us] eiusde[m] de sincathegreumatib[us]. que[m] aliq[ui] octauu[m] appela[n]t tractatu[m] cu[m] q[ui]busda[m] alijs    
+246 1    |i Kolophon in normalisierter Form    |a Finit textus cum copulatis omnium tractatuum parvorum logicalium Petri Hyspani, nec non textus eiusdem de sincathegreumatibus, quem aliqui octavum appelant tractatum cum quibusdam aliis    
+246 1    |i Titel in BSB-Ink    |a Copulata omnium tractatuum Petri Hispani etiam syncategorematum et parvorum logicalium ac trium modernorum secundum doctrinam Thomae Aquinatis cum textu    
+246 1    |i Titel in GW    |a Copulata tractatuum Petri Hispani etiam parvorum logicalium et syncategorematum cum textu    
+246 1    |i Titel in ISTC    |a Copulata tractatuum Petri Hispani et parvorum logicalium etiam Syncategorematum, cum textu, secundum doctrinam Thomae Aquinatis    
+250      |a denuo diligentissime correcta    
+264   1  |a [Köln]    |b [Quentell]    |c Anno nonagesimo sup[er] millesimu[m] quat[er]q[ue] ce[n]tesimu[m]. octauo Idus Aprilis. [8.4.1490]    
+300      |a 1 ungezähltes Blatt, cclxxix Blätter, 10 ungezählte Seiten, 2 ungezählte Blätter, cxix Blätter, 1 ungezähltes Blatt, xxxi Blätter    |b 7 Illustrationen    |c 22 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Herausgeber Lambertus de Monte im Kolophon genannt (folio cxix, das ist Blatt pp₈ recto): "Finit text[us] cu[m] cop[u]latis o[mn]i[u]m tractatuu[m] p[ar]uo[rum] logicaliu[m] Petri hyspani. nec no[n] text[us] eiusde[m] de sincathegreumatib[us]. que[m] aliq[ui] octauu[m] appela[n]t tractatu[m] cu[m] q[ui]busda[m] alijs. iuxta p[ro]cessum m[a]g[ist]ro[rum] Colonie rege[n]tiu[m] in bursa m[a]g[ist]ri Lamberti de Monte artium. ac sa[n]cte theologie p[ro]fessoris exim- summa lucubrat[i]o[n]e ite[rum] atq[ue] ite[rum] correctis. [et] nu[n]c demu[m] imp[re]ssis. Anno nonagesimo sup[er] millesimu[m] quat[er]q[ue] ce[n]tesimu[m]. octauo Idus Aprilis."    
+500      |a Druckort und Drucker gemäss BSB-Ink, GW und ISTC; Druckjahr gemäss Kolophon    
+500      |a Signaturformel: a–e⁸, f–g⁶, h⁸, i-k⁶,l-m⁸, n–q⁶, r-s⁸, t-v⁶, x⁸, y-z⁶, A–E⁶ F⁸, G⁶, H–O⁸, P⁶, Q⁸, R-S⁶, aa⁶, bb–nn⁸, oo¹⁰, pp⁸, AA–DD⁸    
+500      |a Blatt S₆ (erstes der beiden ungezählten vor den cxic Blättern) ist unbedruckt; letztes Blatt DD₈ verso ist unbedruckt    
+500      |a Dieselbe Illustration wurde auf allen drei Titelblättern verwendet    
+505 0 0  |g Titel des 2. Teils (Blatt aa₁)    |t Copulata super o[mn]es tractatus p[ar]uo[rum] logicaliu[m] Petri hispani cu[m] textu eorunde[m] pulcherrime inserto    
+505 0 0  |g Titel des 2. Teils in normalisierter Form    |t Copulata super omnes tractatus parvorum logicalium Petri Hyspani cum textu eorundem pulcherrime inserto    
+505 0 0  |g Titel des 3. Teils (Blatt AA₁)    |t Tractat[us] sincathegreumatum Petri hyspani cum pulcherrimis sophismatibus qui nouiter correctus cu[m] diligentià volentibus in logicis subtiliter speculari est multum vtilis    
+505 0 0  |g Titel des 3. Teils in normalisierter Form    |t Tractatus sincathegreumatum Petri Hyspani cum pulcherrimis sophismatibus qui noviter correctus cum diligentia volentibus in logicis subtiliter speculari est multum utilis    
+510 4    |a BSB-Ink    |c L-23    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_L-23.html    
+510 4    |a GW    |c M32344    |u http://gesamtkatalogderwiegendrucke.de/docs/M32344.htm    
+510 4    |a ISTC    |c ij00238600    |u http://data.cerl.org/istc/ij00238600    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München), Teil 1    |u http://daten.digitale-sammlungen.de/~db/0002/bsb00027817/images    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München), Teil 2    |u http://daten.digitale-sammlungen.de/~db/0002/bsb00027819/images    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München), Teil 3    |u http://daten.digitale-sammlungen.de/~db/0002/bsb00027820/images    
+561      |a Handschriftlicher Besitzvermerk auf der Titelseite: "Ex dono D. Jacobi Koellikeri [...] in Schola Avoensis Nicolai Henry B sum Mense Majo 1597"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, 18./19. Jahrhundert), Titelschild in Goldprägung auf dem Rücken: "Petri Hispani. Opera."    
+563      |a Vorsatz: Vorne mit einem und hinten mit zwei fliegenden Blättern    
+563      |a Masse: 21.2 x 15.8 x 6.8 cm    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 438 von 438 Blättern, vorgesehene Stellen für Initialen frei gelassen, Illustration des Titelblattes teilweise koloriert    
+590      |a Zustand Buchblock: Starke Gebrauchspuren mit Verfleckungen an den ersten Blättern, Abklatsch des braunen Farbmittels von erstem Blatt auf das fliegende Blatt, Papieranhaftungen von fliegendem Blatt an braunen Farbbereichen an erstem Blatt, Papierergänzung an Oberkante des ersten Blattes    
+590      |a Zahlreiche handschriftliche Annotationen und einige Zeichnungen in Tinte    
+590      |a Zusammengebunden mit: De universalibus. - [Strassburg] : [Heinrich Eggestein], [um 1479]    
+590      |a Historische Signatur auf Titelseite: "Phil 102"    
+700 0    |a Lambertus    |c de Monte Domini    |d 1430-1499    |0 (DE-588)100975704    |e Herausgeber    |4 edt    
+700 0 2  |a Johannes    |b XXI.    |c Papst    |d 1210-1277    |t Copulata tractatuum Petri Hispani etiam parvorum logicalium et syncategorematum cum textu    |0 (DE-588)1141207907    
+700 1    |a Quentell, Heinrich    |d 14XX-1501    |0 (DE-588)102359229    |e Drucker    |4 prt    
+700 1    |a Kölliker, Jakob    |e Früherer Eigentümer    |4 fmo    
+751      |a Köln    |0 (DE-588)4031483-2    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 33 : 1    |9 (41SLSP_UBE)99116719750605511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit einem weiteren Werk    |p 12    |j MUE Inc IV 33 : 1    |b B404    |9 (41SLSP_UBE)99116719750605511    
+986      |a (41SLSP_UBE)99116719750605511    |9 (41SLSP_UBE)99116719750605511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116719750605511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

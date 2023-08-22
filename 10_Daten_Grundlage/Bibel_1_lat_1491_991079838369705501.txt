@@ -1,0 +1,143 @@
+﻿<-1-1-START->
+Bibel [lateinisch]
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Biblia Vulgata mit der Übersetzung des Hieronymus, sowie seinen Prologen und Briefen an Paulinus von Nola und Papst Damasus I.<-500-STOP->
+<-500-START->Mit einleitenden Kurztexten (im vorliegenden Exemplar fehlend), inkl. "Summarium librorum totius Sacre scripture" <-500-STOP->
+<-500-START->Mit Marginalkonkordanzen zum Alten und Neuen Testament und Kapitularien zu den Evangelien<-500-STOP->
+<-500-START->Verzeichnisse am Ende: Interpretationes Nominum Hebraicorum, Translatores Bible, Modi intelligendi sacram scripturam<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Basel: Johann Froben, 27.06.1491
+<-3-1-STOP->
+
+<-4-1-START->
+988 ungezählte Seiten, 2 ungezählte Blätter; 18 cm (8°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-466.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-466<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW04269.htm<-L-5-STOP-><-VI-5-START->GW 04269<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib00592000<-L-5-STOP-><-VI-5-START->ISTC ib00592000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+489 von 496 Blättern; teilweise rot oder blau ausgezeichnete Initialen, teilweise (spärliche) Rubrizierung bis Blatt o₇ (Buch Regum II)
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit einer mittigen Schliesse, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: W. Betz
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: die ersten 5 Blätter und die letzten 2 Blätter fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116691610505511<-L-11-STOP-><-VI-11-START->MUE Inc III 90<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991079838369705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Hieronymus, Sophronius Eusebius<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Froben, Johann<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Betz, W.<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991079838369705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 90<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05353nam a2200601 c 4500
+001 991079838369705501
+005 20211215182832.0
+008 170426s1491    sz |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/26.04.2017/B404/vha    
+035      |a (swissbib)074094246-41slsp_network    
+035      |a 074094246    |9 ExL    
+035      |a (IDSBB)006694064DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991079838369705501    
+035      |a (41SLSP_UBE)99116691610505511    |9 (41SLSP_UBE)99116691610505511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a lat    |h heb    |h grc    |h arc    
+130 0    |a Bibel    |0 (DE-588)4006406-2    
+245 1 0  |a Biblia integra: summata: distincta: sup[er]eme[n]data vtriusq[ue] testame[n]ti [con]corda[n]tijs illustrata    
+246 1    |i Titel gemäss BSB-Ink und GW    |a Biblia    
+246 1    |i Titel gemäss ISTC    |a Biblia latina    
+246 1    |i Titel in normalisierter Form    |a Biblia integra, summata, distincta, superemendata, utriusque testamenti concordantiis illustrata    
+264   1  |a Explicita est biblia p[rae]sens Basilee    |b su[m]ma lucubratione: per Joha[n]nem froben de Hammelburck    |c Anno nonagesimoprimo supra Millesimu[m] quaterq[ue] centesimu[m] die vero vicesimaseptima Junij. [27.06.1491]    
+300      |a 988 ungezählte Seiten, 2 ungezählte Blätter    |c 18 cm (8°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Titel gemäss Digitalisat der ÖNB Wien erfasst    
+500      |a Einleitende Kurztexte (im vorliegenden Exemplar fehlend), Blatt [a]₁ verso: "Ad diuinaru[m] verarumq[ue] diuitiarum amatore exhortatio", Blatt [a]₂ recto: "Jn su[m]mariu[m] Biblie ad lectore[m] Tetrastichon", "Jn ordinem libro[rum] distichon ad eundem", "Librorum ordo"; Blatt [a]₂ verso: "Summarium Libro[rum] toti[us] Sacre scripture i[n] biblia co[m]prehe[n]se"    
+500      |a Mit Marginalkonkordanzen zum Alten und Neuen Testament und Kapitularien zu den Evangelien    
+500      |a Verzeichnisse am Ende, Blatt A₁ recto: "Jnterpretationes Nominu[m] Hebraico[rum]"; Blatt E₆ recto: "Translatores Bible"; Text, Blatt E₆ verso: "Modi intelligendi sacra[m] scriptura[m]"    
+500      |a Impressum gemäss Kolophon auf Blatt 11₈ verso (vor: Jnterpretationes Nominu[m] Hebraico[rum])    
+500      |a Signaturformel: [a⁴], a–y⁸, A–Z⁸, 1–10⁸, 11⁴, 11⁸, A–E⁸    
+500      |a Blätter a₁ (2. Lage), E₇ und E₈ (letzte Lage) unbedruckt    
+510 4    |a BSB-Ink    |c B-466    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-466.html    
+510 4    |a GW    |c 04269    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW04269.htm    
+510 4    |a ISTC    |c ib00592000    |u http://data.cerl.org/istc/ib00592000    
+530      |a Digitalisat (Exemplar der Österreichischen Nationalbibliothek, Wien)    |u http://data.onb.ac.at/rec/AC07002453    
+561      |a Handschriftlicher Besitzvermerk auf vorderem Spiegel: "W. Betz"[?]; auf Blatt a₂ recto unten: "F.L.M." (Besitzvermerk?)    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit einer mittigen Schliesse, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln; auf dem Rücken Titelschild, mit Tinte beschrieben: "Biblia lat. Hieronymi."; von anderer Hand darunter: "Basil. Froben. 1491"    
+563      |a Vorsätze: vorne und hinten ohne fliegendes Blatt    
+563      |a Masse Einband: 17.2 x 12.0 x 9.1 cm    
+563      |a Zustand Einband: Abrieb und Verfärbungen am Einbandleder, Überklebung an unterer Stehkante des Vorderdeckels, Schliesse und Schliessenriemen vollständig ergänzt, fliegendes Blatt des vorderen Vorsatztes evtl. herausgelöst    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 489 von 496 Blättern, Pergamentfalz vor erstem vorhandenen Blatt a₂ und zwischen vorletzter und letzter Lage (D und E) gehört zum Ansatzfalz; bis Blatt o₇ (Buch Regum II) teilweise, rot oder blau ausgezeichnete Initialen, danach vorgesehene Stellen für Initialen vollständig frei gelassen, teilweise (spärliche) Rubrizierung, ebenfalls bis Blatt o₇    
+590      |a Zustand Buchblock: Trotz fehlendem Blatt a₁ ist Blatt a₈ noch stabil im Lagenverbund; vom fehlenden Blatt E₈ noch Spurenim hinteren Falz sichtbar; zahlreiche Verfleckungen und Feuchtigkeitsränder, Fehlstellen an ersten Blättern durch ursprüngliche Vernietung der Schliesse    
+590      |a Unvollständiges Exemplar: die ersten 5 Blätter (Lage [a]⁴ und Blatt a₁) und die letzten 2 Blätter (E₇ und E₈, unbedruckt) fehlen    
+590      |a Wenige handschrifliche Annotationen in Tinte; auf hinterem Spiegel Annotationen von drei Händen, unter anderem mit einer Datierung: "... 23. die Novembris, ab Obergfellis ..."[?]    
+590      |a Frühere Signatur: Inc 629    
+700 1    |a Hieronymus, Sophronius Eusebius    |d 345-420    |0 (DE-588)118550853    |e Übersetzer    |4 trl    
+700 1    |a Froben, Johann    |d 1460-1527    |0 (DE-588)118955179    |e Drucker    |4 prt    
+700 1    |a Betz, W.    |e Früherer Eigentümer    |4 fmo    
+730 0    |a Bibel    |g Vulgata    |0 (DE-588)4188770-0    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc III 90    |9 (41SLSP_UBE)99116691610505511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc III 90    |b B404    |9 (41SLSP_UBE)99116691610505511    
+986      |a (41SLSP_UBE)99116691610505511    |9 (41SLSP_UBE)99116691610505511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116691610505511    
+991      |a AAK: 88101    |5 IZ UBE/26.04.2017/B404/vha    |9 LOCAL    |9 (41SLSP_UBE)99116691610505511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

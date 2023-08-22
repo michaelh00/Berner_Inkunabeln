@@ -1,0 +1,143 @@
+﻿<-1-1-START->
+Johannes de Milis
+<-1-1-STOP->
+
+<-1-2-START->
+Repertorium iuris
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit einem Gedicht: "Exuperat cunctas hec iuris practica milis ..."<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Basel: Nicolaus Kessler, 15.03.1488
+<-3-1-STOP->
+
+<-4-1-START->
+309 ungezählte Seiten: Druckermarke; 33 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_M-389.html<-L-5-STOP-><-VI-5-START->BSB-Ink M-389<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M2340310.htm<-L-5-STOP-><-VI-5-START->GW M2340310<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/im00573000<-L-5-STOP-><-VI-5-START->ISTC im00573000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+155 von 155 Blättern, Druckermarke rot koloriert, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun, Kalb) mit Schliessen sowie Spuren einer Kettenöse am oberen Rand der Rückdeckel, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, Buchbinder: Johannes Vatter
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Dominikanerkloster Bern
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Tractatus de materiis diversis indulgentiarum / Johannes Pfeffer de Weidenberg. [Basel: Johann Besicken, um 1482]
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116888229005511<-L-11-STOP-><-VI-11-START->MUE Inc I 88 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991059800359705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Johannes de Milis<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Kessler, Nicolaus<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-P-START->Vatter, Johannes<-P-STOP->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Dominikanerkloster Bern<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991059800359705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 88 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04667nam a2200613 c 4500
+001 991059800359705501
+005 20211215175433.0
+008 050601s1488    sz            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/11.01.2018/B404/faf    
+035      |a (swissbib)065955218-41slsp_network    
+035      |a 065955218    |9 ExL    
+035      |a (IDSBB)006166363DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991059800359705501    
+035      |a (41SLSP_UBE)99116888229005511    |9 (41SLSP_UBE)99116888229005511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Johannes    |c de Milis    |d ca. 1. H. 15. Jh.    |0 (DE-588)119722593    |e Verfasser    |4 aut    
+240 1 0  |a Repertorium iuris    
+245 1 0  |a Repertorium Milis alias Absenti    
+246 1    |i Kopftitel auf Blatt a₂ recto    |a Repertorium clarissimi viri: domini Johannis Milis: in vtroq[ue] iure doctoris excellentissimi    
+246 1    |i Titel gemäss ISTC    |a Repertorium juris canonici    
+264   1  |a Basilea    |b kesler Nicolaus    |c Idibus Martij Anno salutis octuagesimo octauo supra millesimu[m] quaterq[ue] ce[n]tesimum [15.03.1488]    
+300      |a 309 ungezählte Seiten    |c 33 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit einem Gedicht: "Exuperat cunctas hec iuris practica milis ..."    
+500      |a Druckort und Drucker gemäss Kolophon in Gedichtform; Reihenfolge der Vorlage: "Noscere forte voles q[ui]s sculpserit hoc op[us] ere ... Ille quidem kesler Nicolaus: littore rheni. Urbs dedit insignem cui Basilea domu[m] ..."    
+500      |a Druckdatum gemäss Kolophon unter dem Gedicht    
+500      |a Druckermarke am Ende    
+500      |a Signaturformel: a-b⁸, c⁶, d-e⁸, f⁶, g⁸, h-i⁶, k⁸, l-p⁶, q⁸, r⁵, s-t⁶, v⁸, x-y⁶, z⁸    
+500      |a Blatt a₁ ohne Lagensignatur, Blätter a₂-a₅ mit Signaturen a-a4 bezeichnet    
+510 4    |a BSB-Ink    |c M-389    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_M-389.html    
+510 4    |a GW    |c M2340310    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M2340310.htm    
+510 4    |a ISTC    |c im00573000    |u http://data.cerl.org/istc/im00573000    
+530      |a Digitalisat (Exemplar der Universitätsbibliothek Basel)    |u http://dx.doi.org/10.3931/e-rara-16275    
+561      |a Aus dem Besitz des Dominikanerklosters Bern    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun, Kalb) mit Schliessen sowie Spuren einer Kettenöse am oberen Rand der Rückdeckel, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, auf Vorderdeckel aufgeklebtes Schild aus Pergament mit handschriftlichem Titel: "Rep[er]toriu[m] d[omi]ni ioh[ann]is milis Jn vtroq[ue] Jure doctoris. Cum tractatu sollempni de indulge[n]cijs. inge[nios]i pfeffer widenber theologie p[ro]fessoris", auf Rücken weiteres Schild mit geprägtem Titel: "Repertorium Milis"    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 32.5 x 23.5 x 5.8 cm    
+563      |a Zustand Einband: Loch am Rückdeckel von vormaliger Ankettung, Schäden am Einbandleder, Lederüberklebungen am Rücken, Vorsätze im Falz mit Japanpapier verstärkt    
+563      |a Gemäss Johann Lindt (Berner Einbände, Buchbinder und Buchdrucker, Bern 1969) Einband des Berner Dominikanermönchs Johannes Vatter    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 155 von 155 Blättern, Druckermarke rot koloriert, rot ausgezeichnete Initialen, Rubrizierung    
+590      |a Zustand Buchblock: Unterschiedliche Verbräunungen    
+590      |a Vereinzelte handschriftliche Unterstreichungen in Tinte (z.B. Blatt p₂ recto)    
+590      |a Zusammengebunden mit: Tractatus de materiis diversis indulgentiarum / Johannes Pfeffer de Weidenberg. Basel: Johann Besicken, um 1482    
+590      |a Einbandfragmente aus diesem Band in der Burgerbibliothek, Signatur BBB Cod. 756.58 (Clemens: Recognitiones, 1 Doppelblatt, 1 Blatt, handschriftlich, Pergament, lateinisch, 11. Jh.)    
+590      |a Historische Signatur auf Titelseite: "Jur. Pol. 80"    
+590      |a Frühere Signatur: Inc 33    
+700 1    |a Kessler, Nicolaus    |d 1445-1519    |0 (DE-588)137735677    |e Drucker    |4 prt    
+700 1    |a Vatter, Johannes    |d 1470-1509    |0 (DE-588)1114426377    |e Buchbinder    |4 bnd    
+700 0 2  |a Johannes    |c de Milis    |d ca. 1. H. 15. Jh.    |t Repertorium iuris    |0 (DE-588)1150412070    
+710 2    |a Dominikanerkloster Bern    |0 (DE-588)4302674-6    |e Früherer Eigentümer    |4 fmo    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc I 88 : 1    |9 (41SLSP_UBE)99116888229005511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 1 weiteren Druck in Sammelband    |p 12    |j MUE Inc I 88 : 1    |b B404    |9 (41SLSP_UBE)99116888229005511    
+986      |a (41SLSP_UBE)99116888229005511    |9 (41SLSP_UBE)99116888229005511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116888229005511    
+991      |a AAK: 606677    |5 IZ UBE/03.09.2013/B400/vha    |9 LOCAL    |9 (41SLSP_UBE)99116888229005511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

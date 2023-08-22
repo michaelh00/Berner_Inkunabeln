@@ -1,0 +1,155 @@
+﻿<-1-1-START->
+Alexander von Hales
+<-1-1-STOP->
+
+<-1-2-START->
+Summa theologica
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Enthält in Band 1 ein Lobgedicht und ein Epitaph auf Alexander Halensis von Robert Gaguin (Verfasser gemäss BSB-Ink)<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Nürnberg: Anton Koberger, 23.08.1482
+<-500-START->Jeder Band mit eigenem Kolophon, Datierung von Band 1: 24.01.1482, Band 2: 29.11.1481, Band 3: 06.05.1482, Band 4: 23.08.1482<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+4 Bände; 43 cm (2°)
+<-500-START->Band 1: 662 ungezählte Seiten, 1 ungezähltes Blatt; Band 2: 1 ungezähltes Blatt, 18 ungezählte Seiten, 1 ungezähltes Blatt, 656 ungezählte Seiten, 1 ungezähltes Blatt; Band 3: 1 ungezähltes Blatt, 10 ungezählte Seiten, 1 ungezähltes Blatt, 476 ungezählte Seiten, 1 ungezähltes Blatt; Band 4: 1 ungezähltes Blatt, 14 ungezählte Seiten, 1 ungezähltes Blatt, 701 ungezählte Seiten<-500-STOP->
+<-500-START->Einzelne ungezählte Blätter jeweils unbedruckt<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_A-240.html<-L-5-STOP-><-VI-5-START->BSB-Ink A-240<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/GW00871.htm<-L-5-STOP-><-VI-5-START->GW 00871<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ia00383000<-L-5-STOP-><-VI-5-START->ISTC ia00383000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+Band 1: 166 von 166 Blättern, Band 2: 340 von 340 Blättern, Band 3: 246 von 246 Blättern, Band 4: 360 von 360 Blättern; rot ausgezeichnete Initialen, jeweils eine Schmuckinitiale, blau, rot und lila koloriert; Rubrizierung: in Band 1 und Band 4 nur teilweise, in Band 2 keine (ausser Initialen), in Band 3 vollständig
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogene Ledereinbände auf Holzdeckeln (chamois, Schwein) mit je zwei Schliessen und Spuren vormaliger Kettenösen am oberen Rand der Rückdeckel, Linien- und Ornamentstempel-Blindprägung jeweils an beiden Deckeln; Buchbinder: Hans Leman
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Kloster Thorberg
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116924410805511<-L-11-STOP-><-VI-11-START->MUE Inc II 13<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991089146079705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Alexander von Hales<-P-STOP->
+<-P-START->Gaguin, Robert<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Nürnberg<-O-STOP->
+<-P-START->Koberger, Anton<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-P-START->Leman, Hans<-P-STOP->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Kloster Thorberg<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991089146079705501<-DOI-STOP->
+<-SIGN-START->MUE Inc II 13<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 10376nam a2200685 c 4500
+001 991089146079705501
+005 20211215175645.0
+008 200318m14811482gw |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/18.03.2020/B404/vha    
+035      |a (swissbib)075706423-41slsp_network    
+035      |a 075706423    |9 ExL    
+035      |a (IDSBB)007177398DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991089146079705501    
+035      |a (41SLSP_UBE)99116924410805511    |9 (41SLSP_UBE)99116924410805511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Alexander    |c von Hales    |d 1185-1245    |0 (DE-588)118648004    |e Verfasser    |4 aut    
+240 1 0  |a Summa theologica    
+245 1 0  |a Incliti anglo[rum] leuite. theologo[rum] isdem temp[or]ibus monarche Alexandri de ales: minorum fratris mendicantium primi doctoris Summa theologicalis    
+246 1 0  |a Summa theologicalis    
+246 1    |i Titel in normalisierter Form    |a Incliti Anglorum Levite theologorum isdem temporibus monarche Alexandri de Ales, minorum fratris mendicantium primi doctoris Summa theologicalis    
+246 1    |i Incipit    |a Doctoris irrefragabilis anglici Alexandri de ales regule sancti Francisci p[ro]fessoris: parisius sepulti: prima p[ar]s summe theolo[g]ice felicit[er] incipit    
+246 1    |i Titel gemäss BSB-Ink und ISTC    |a Summa universae theologiae    
+246 1    |i Titel gemäss GW    |a Summa    
+264   1  |a Nurenberge    |b Anthonij koburger ... impensis impressa ...    |c Et sub anno salutis [christ]ianisimi .M.cccc.lxxxij. xxiij. Augusti co[n]summata est [23.08.1482]    
+300      |a 4 Bände    |c 43 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss Kolophon in Band 4 (Blatt [mm₈] recto)    
+500      |a Enthält in Band 1, Blatt [c₁] verso, ein Lobgedicht und ein Epitaph auf Alexander Halensis von Robert Gaguin (Verfasser gemäss BSB-Ink und Bod-Inc): "In laudem irrefragabilis doctoris diui Alexandri de Ales: ordinis beatissimmi Francisci: pangericu[m] carmen incipit" und "Anno ab incarnatione domini .M.ccxlv. xij. kal[end]is Septembris obijt idem irrefragabilis doctor: parisius sepultus: cuius tumba his preconizatur metris"    
+500      |a Impressum gemäss Kolophon in Band 4; Reihenfolge der Vorlage: "Incliti anglo[rum] leuite. theologo[rum] isdem temp[or]ibus monarche Alexandri de ales: minorum fratris mendicantium primi doctoris Summa theologicalis Anthonij koburger Nurenberge impensis impressa q[uam] diligenter visa et in formale[m] processu[m] directa experientia edocebit. Et sub anno salutis [christ]ianisimi .M.cccc.lxxxij. xxiij. Augusti co[n]summata est. Unde no[n] immerito: laudes [et] gratias referam[us] deo."    
+500      |a Jeder Band mit eigenem Kolophon, Band 1 (Blatt [E₇] verso): "Explicit prima pars summe alexandri de Ales doct. irrefragabilis theologorum monarche diligenter eme[n]date impensis atq[ue] industria Anthonij koburger nurenberge impressa et finita Anno salutis [christ]iane. M.cccclxxxij. die. xxiiij. mensis Januarij." [24.01.1482]    
+500      |a Kolophon Band 2 (Blatt [ii₇] verso): "Explicit secu[n]da pars su[m]me Alexandri de Ales irreuocabilis anglici doctoris Anthonij koburger impens[is] Anno [christ]iane salutis M°.cccc°.lxxxj. iij. k[a]l[endas] decembris." [29.11.1481]    
+500      |a Kolophon Band 3 (Blatt [R₇] verso): "Tercia pars summe alexandri de ales theologorum parisiensiu[m] monarche doctoris irrefragabilis q[uam] dilige[n]ter emendata [et] ad ordinem redacta. Impensis Antonij koberger Nuremberge impressa finit: co[n]su[m]mata pridie nonas Maij. Anno [christ]iane salutis .M.cccclxxxij." [06.05.1482]    
+500      |a Signaturformel Band 1: [a², b4, c⁸, d–z⁶, A–D⁶, E⁸]; Band 2: [a¹⁰, b⁸, c–z⁶, A–Z⁶, aa–gg⁶, hh-ii⁸]; Band 3: [a⁶, b⁸, c–z⁶, A–P⁶, Q-R⁸]; Band 4: [a-b⁸, c–z⁶, A–U⁶, X-Y⁸, Z⁶, aa–kk⁶, ll-mm⁸]    
+500      |a Band 1: Letztes Blatt E₈ unbedruckt; Blatt c₁ recto unbedruckt; Band 2: Blätter a₁, b₁ und letzte Blatt ii₈ unbedruckt; Band 3: Blätter a₁, b₁ und letztes Blatt R₈ ubedruckt; Band 4: Blätter a₁ und b₁ unbedruckt; Blatt mm₈ verso (letzte Seite) unbedruckt    
+500      |a Signaturformel der handschriftlichen Lagensignatur in Tinte, Band 1: []², vst[?]⁴, A⁸, B-V⁶, W⁶, X-Z⁶, [Symbol]⁶, [con]⁸; Band 2: a¹⁰, b⁸, c-r⁶, [langes] s⁶, [rundes] s⁶, t-v⁶, u⁶, x-z⁶, aa-rr⁶, [langes] ss⁶, [rundes] ss⁶, tt-vv⁶, uu⁶, w⁶, xx-zz⁶, [et]⁶, [con]⁶, ame[n]⁸, vlti[mus]⁸; Band 3: 1⁶, 2⁸, 3-38⁶, 39-40⁸; Band 4: 1-2⁸, 3–23⁶, 24–43⁶, 44-45⁸, 46⁶, 47–56⁶, 57-58⁸ (Ziffern in der im 15./16. Jahrhundert gebräuchlichen Form geschrieben)    
+510 4    |a BSB-Ink    |c A-240    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_A-240.html    
+510 4    |a GW    |c 00871    |u https://www.gesamtkatalogderwiegendrucke.de/docs/GW00871.htm    
+510 4    |a ISTC    |c ia00383000    |u http://data.cerl.org/istc/ia00383000    
+530      |a Digitalisat Band 1 (Exemplar der Universitäts- und Stadtbibliothek Köln)    |u http://www.ub.uni-koeln.de/cdm/compoundobject/collection/inkunabeln/id/94289/rec/1    
+530      |a Digitalisat Band 2 (Exemplar der Universitäts- und Stadtbibliothek Köln)    |u http://www.ub.uni-koeln.de/cdm/compoundobject/collection/inkunabeln/id/94979/rec/2    
+530      |a Digitalisat Band 3 (Exemplar der Universitäts- und Stadtbibliothek Köln)    |u http://www.ub.uni-koeln.de/cdm/compoundobject/collection/inkunabeln/id/95481/rec/3    
+530      |a Digitalisat Band 4 (Exemplar der Universitäts- und Stadtbibliothek Köln)    |u http://www.ub.uni-koeln.de/cdm/compoundobject/collection/inkunabeln/id/96211/rec/4    
+561      |a Handschriftlicher Besitzvermerk auf vorderem Spiegel von Band 1 und 3: "P[er]tinet ad Torberg"; Band 2: "Pertinet fr[atr]ib[us] in Torberg"; Band 4 ohne Besitzvermerk    
+563      |a Einbandbeschreibung: Ganzbezogene Ledereinbände auf Holzdeckeln (chamois, Schwein) mit je zwei Schliessen (bei Band 4 mit Stempelverzierung) und Spuren vormaliger Kettenösen am oberen Rand der Rückdeckel, Linien- und Ornamentstempel-Blindprägung jeweils an beiden Deckeln; auf den Rücken Titel in schwarzer Tinte: "Prima ["Secu[n]da", "Tercia", "Quarta"] p[ar]s su[m]me Alexa[n]dri de ales"; dazu in roter Tinte die Thorberger Signatur (für alle vier Bände gleich): "D LVIII"    
+563      |a Vorsätze: Band 1: vorne mit zwei, hinten ohne fliegende Blätter; Band 2: vorne mit einem, hinten ohne fliegendes Blatt; Band 3 und 4: jeweils vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband, Band 1: 42.9 x 30.3. x 6.5 cm; Band 2: 42.6 x 29.5 x 9.2 cm; Band 3: 42.6 x 29.5 x 7.0 cm; Band 4: 42.5 x 30.0 x 9.6 cm    
+563      |a Zustand Einband, Bände 1-4: Kratzer im Einbandleder mit Fehlstellen am Rückdeckel, Loch von vormaliger Ankettung am Rückdeckel mit starker Korrosionsbildung; Bände 1 und 3: Unteres Häubchen mit überstehendem Einschlag (ungestepptes Kapital) an den Fälzen eingerissen und verhärtet, Buchblock steht über Deckelvorderkanten hinaus; Bände 2 und 4: Oberes Häubchen mit überstehendem Einschlag (ungestepptes Kapital) an den Fälzen eingerissen und verhärtet    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: Band 1: 166 von 166 Blättern, Band 2: 340 von 340 Blättern, Band 3: 246 von 246 Blättern, Band 4: 360 von 360 Blättern; in jedem Band handschriftliche Lagensignatur in Tinte (zeitgenössisch, jeweils bis ein Blatt nach Lagenmitte), sowie handschriftliche Lagensignatur in Graphit (modern, jeweils nur erstes bzw. erstes bedrucktes Blatt jeder Lage, am Ende auch letztes bedrucktes Blatt); Pergamentverstärkungen jeweils in den Lagenmitten der ersten und letzten Lage, Papierfälze jeweils zwischen den Lagen [a] und [b] sowie zwischen den letzten beiden Lagen in Band 3 ([Q] und [R]) und Band 4 ([ll] und [mm]) gehören zur Vorsatzkonstruktion; in Band 1 zusätzlich mit um Lage [a] gehängte fliegende Blätter (unbedruckte Blätter vor Blatt [a₁] und nach Blatt [a₂]); rot ausgezeichnete Initialen, jeweils eine Schmuckinitiale, blau, rot und lila koloriert, in Band 1 (Blatt [c₂] recto), Band 2 (Blatt [b₂] recto und Band 3 (Blatt [b₂] recto); in Band 4 vorgesehene Stelle für Schmuckinitiale (Blatt [b₂] recto) frei gelassen; Rubrizierung: in Band 1 bis Blatt [d₈] verso, danach nur erster Buchstabe in Überschriften, in Band 2 keine (ausser Initialen), in Band 3 vollständig, in Band 4 bis Blatt [E₈] verso, danach nur erster Buchstabe in Überschriften; Band 3 und 4 mit Blattweiser    
+590      |a Zustand Buchblock: Band 2, Lage [p] und letzte beide Lagen [hh] und [ii] mit Feuchtigkeitsrändern; vereinzelte Blätter mit kleineren Schäden (kleine Teile an Ecken abgerissen, ohne Textverlust), zum Beispiel Band 2, Blatt [bb₁], Band 4, Blätter [B₃] und [B₆], Riss in Blatt [L₄]    
+590      |a In Bänden 1-3 auf vorderem Spiegel, jeweils unter den Besitzvermerken: "Prima pars ["Secunda p[ar]s", "Tercia pars"] su[m]me Alexandri de Ales", in Band 4 nur "4ta Pars"    
+590      |a In Band 4, Blätter [s₅] verso bis [t₃] recto: Unterstreichungen in schwarzer Tinte, Blatt [s₆] verso mit zwei Handweisern; sonst keine Annotationen    
+590      |a Frühere Signatur: Inc 53    
+700 0 2  |a Alexander    |c von Hales    |d 1185-1245    |t Summa theologica    |0 (DE-588)4265889-5    
+700 1    |a Gaguin, Robert    |d 1433-1501    |0 (DE-588)118986309    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Koberger, Anton    |d 1440-1513    |0 (DE-588)118563890    |e Drucker    |4 prt    
+710 2    |a Kloster Thorberg    |0 (DE-588)7725716-9    |e Früherer Eigentümer    |4 fmo    
+751      |a Nürnberg    |0 (DE-588)4042742-0    
+852 4    |b B404    |c 404U3    |j MUE Inc II 13    |9 (41SLSP_UBE)99116924410805511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |h MUE Inc II 13 : 3    |q [Band 3]    |p 12    |j MUE Inc II 13    |b B404    |9 (41SLSP_UBE)99116924410805511    
+949      |c 404U3    |h MUE Inc II 13 : 1    |q [Band 1]    |p 12    |j MUE Inc II 13    |b B404    |9 (41SLSP_UBE)99116924410805511    
+949      |c 404U3    |h MUE Inc II 13 : 2    |q [Band 2]    |p 12    |j MUE Inc II 13    |b B404    |9 (41SLSP_UBE)99116924410805511    
+949      |c 404U3    |h MUE Inc II 13 : 4    |q [Band 4]    |p 12    |j MUE Inc II 13    |b B404    |9 (41SLSP_UBE)99116924410805511    
+986      |a (41SLSP_UBE)99116924410805511    |9 (41SLSP_UBE)99116924410805511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116924410805511    
+991      |a AAK: 11844    |5 IZ UBE/18.03.2020/B404/vha    |9 local    |9 (41SLSP_UBE)99116924410805511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,148 @@
+﻿<-1-1-START->
+Gratianus de Clusio
+<-1-1-STOP->
+
+<-1-2-START->
+Decretum
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit der Glossa ordinaria des Johannes Teutonicus in der Bearbeitung des Bartholomaeus Brixiensis<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Straßburg]: Heinrich Eggestein, 1471
+<-3-1-STOP->
+
+<-4-1-START->
+918 ungezählte Seiten, 1 ungezähltes Blatt; 51 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_G-252.html<-L-5-STOP-><-VI-5-START->BSB-Ink G-252<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW11351.htm<-L-5-STOP-><-VI-5-START->GW 11351<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ig00360000<-L-5-STOP-><-VI-5-START->ISTC ig00360000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+460 von 460 Blättern, handgezeichnete Illustration auf Blatt [1], rot und blau ausgezeichnete Initialen sowie in Tinte ausgezeichnete und mehrfarbig kolorierte Zierinitialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein), mit Schliessen (2 von ursprünglich 4 Schliessen erhalten), Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Thüring Frickart; Kloster Thorberg
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116885204105511<-L-11-STOP-><-VI-11-START->MUE Inc I 3<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991084306749705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Gratianus de Clusio<-P-STOP->
+<-P-START->Johannes Teutonicus<-P-STOP->
+<-P-START->Bartholomaeus Brixiensis<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Eggestein, Heinrich<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Frickart, Thüring<-P-STOP->
+<-P-START->Kloster Thorberg<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991084306749705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 3<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06760nam a2200673 c 4500
+001 991084306749705501
+005 20211215184616.0
+008 170601s1471    fr |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/01.06.2017/B404/faf    
+035      |a (swissbib)069751439-41slsp_network    
+035      |a 069751439    |9 ExL    
+035      |a (IDSBB)006703755DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991084306749705501    
+035      |a (41SLSP_UBE)99116885204105511    |9 (41SLSP_UBE)99116885204105511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Gratianus    |c de Clusio    |d -1158    |0 (DE-588)118541625    |e Verfasser    |4 aut    
+240 1 0  |a Decretum    
+245 1 0  |a Presens Gratiani decretum vna cu[m] apparatu Bartho. Brixien[sis] in suis distinctionib[us] causis et co[n]secrationib[us] bene visu[m] et correctu[m]    
+246 1 0  |a Gratiani decretum    
+246 1    |i Incipit (Kommentar)    |a Qvonia[m] nouis sup[er]uenientib[us] causis nouis est remedijs succurre[n]du[m]    
+246 1    |i Incipit (Kommentar) in normalisierter Form    |a Quoniam novis supervenientibus causis novis est remediis succurrendum    
+246 1    |i Incipit (Text)    |a In nomine sancte et jndiuidue trinitatis Incipit concordia discordantium Canonum    
+246 1    |i Incipit (Text) in normalisierter Form    |a In nomine sancte et individue trinitatis incipit concordia discordantium canonum    
+246 1    |i Titel in normalisierter Form    |a Presens Gratiani decretum una cum apparatu Bartho. Brixiensis in suis distinctionibus, causis et consecrationibus bene visum et correctum    
+264   1  |a [Straßburg]    |b Per venerabilem viru[m] Heinricu[m] Eggesteyn. artiu[m] liberaliu[m] magistrum ciuem inclite ciuitatis Argentin[ensis]    |c Anno d[omi]ni. M°.cccc°.lxxj°. [1471]    
+300      |a 918 ungezählte Seiten, 1 ungezähltes Blatt    |c 51 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit der Glossa ordinaria des Johannes Teutonicus in der Bearbeitung des Bartholomaeus Brixiensis    
+500      |a Keine Titelseite, Titel und Impressum gemäss Kolophon    
+500      |a Rot- und Schwarzdruck    
+500      |a Signaturformel: [a–i¹⁰, k–l⁸, m–z¹⁰, A–H¹⁰, I–K⁸, L–Z¹⁰, aa⁸]    
+500      |a Blatt [aa₈] (460) ist unbedruckt    
+510 4    |a BSB-Ink    |c G-252    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_G-252.html    
+510 4    |a GW    |c 11351    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW11351.htm    
+510 4    |a ISTC    |c ig00360000    |u http://data.cerl.org/istc/ig00360000    
+530      |a Digitalisat Teil 1 (Exemplar der Bodleian Library)    |u http://digital.bodleian.ox.ac.uk/inquire/p/951a3f9a-8e10-4cba-a149-17dd3fc370cd    
+530      |a Digitalisat Teil 2 (Exemplar der Bodleian Library)    |u http://digital.bodleian.ox.ac.uk/inquire/p/41ec8318-82c5-42f5-80cc-98ce0e801c48    
+561      |a Handschriftlicher Besitzvermerk auf vorderem fliegendem Vorsatzblatt verso: "Liber Carthusie[nsium] In Torrb[er]g. p[ro]ueniens ex dono d[omi]ni doctoris Thuringi p[ro]thonotarij Berne[n]sis [etc.] A[nn]° 1514"; Wappen des Thüring Frickart in Initiale auf Blatt [a₁] (1)    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein), mit Schliessen (2 von ursprünglich 4 Schliessen erhalten), Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, auf Vorderdeckel in Tinte: "Gratiani decreta", auf Rücken rote Thorberg-Signatur: "G IV", dazu in Tinte auf Pergamentschild: "Dec[re]tum Gratiani cum apparatu." und direkt auf dem Leder: "Decretorum Gratiani 1471 Argent[..]"    
+563      |a Vorsätze: Vorne mit einem und hinten ohne fliegendes Blatt, Makulaturpergament (Vulgata) auf beiden Spiegeln    
+563      |a Masse Einband: 50.5 x 36 x 15.5 cm    
+563      |a Zustand Einband: Papierergänzung an fliegendem Blatt des vorderen Vorsatzes, Lederüberklebungen am Rücken, Schliessenhaken und -riemen vollständig ergänzt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 460 von 460 Blättern, handschriftliche Lagensignaturen (nur Nummern 1-5 bzw. 1-4) in Rot unten rechts auf den Rectoseiten der ersten Lagenhälften (teilweise abgeschnitten), handschriftliche Reklamanten in Tinte auf der letzten Seite jeder Lage, handschriftliche Foliierung in Graphit, Pergamentverstärkung in den Lagenmitten, Papier- und Pergamentfalz von Vorsatzkonstruktion zwischen Lagen [a] und [b] sowie (nur Pergamentfalz) [Z] und [aa], Druck an einzelnen Stellen verschmiert (z.B. Blatt [T₃] (405) recto), handgezeichnete Illustration auf Blatt [a₁] (1), rot und blau ausgezeichnete Initialen sowie in Tinte ausgezeichnete und mehrfarbig kolorierte Zierinitialen (Bildeinschluss und Figurinitialen, auf den Blättern [s₁] (167) verso und [A₁] (227) recto mit Initialen "J.H.V.G.", auf Blatt [P₁₀] (372) verso eine nicht kolorierte Federzeichnung), Rubrizierung, Kapitelüberschriften handschriftlich in Rot im Text eingetragen, Gliederung (Prima Pars, Prima-xxxvi. Causa, De penitentia, De consecratione) handschriftlich in Rot als Kolumnentitel, im ersten Teil teilweise Angabe der Distinctio in Tinte oder Graphit am Spaltenrand und am oberen Blattrand, im zweiten Teil teilweise Angabe der Quaestio in Rot oder Tinte in der oberen rechten Ecke der Rectoseiten, Blattweiser    
+590      |a Zustand Buchblock: Blattweiser zum Teil fehlend (Schädlingsfrass), Abrieb und Verwischungen an Farbmitteln der Zierinitalen, Schädlingsfrass und Fehlstelle an Blatt [aa₈] (460), auf Blatt [V₁₀] (422) Initiale herausgerissen (mit Textverlust)    
+590      |a Wenige handschriftliche Annotationen in Tinte (z.B. Blatt [f₄] (54) verso)    
+590      |a Historische Signatur auf vorderem Spiegel: "Jur: Pol: N°. 1."; auf Blatt a₁ recto: "Jur Pol 1"    
+590      |a Frühere Signatur: Inc 1    
+700 0    |a Johannes    |c Teutonicus    |d 1170-1245    |0 (DE-588)100950477    |e Kommentarverfasser    |4 wac    
+700 0    |a Bartholomaeus    |c Brixiensis    |d -1258    |0 (DE-588)100937365    |e Kommentarverfasser    |4 wac    
+700 1    |a Eggestein, Heinrich    |d 1415-1488    |0 (DE-588)100965024    |e Drucker    |4 prt    
+700 1    |a Frickart, Thüring    |d 1429-1519    |0 (DE-588)104111887    |e Früherer Eigentümer    |4 fmo    
+700 0    |a J. H. V. G    |e Illuminator    |4 ilu    
+700 0 2  |a Gratianus    |c de Clusio    |d -1158    |t Decretum    |0 (DE-588)4072001-9    
+700 0 2  |a Johannes    |c Teutonicus    |d 1170-1245    |t Glossa ordinaria    |0 (DE-588)1153129515    
+710 2    |a Kloster Thorberg    |0 (DE-588)7725716-9    |e Früherer Eigentümer    |4 fmo    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Inc I 3    |9 (41SLSP_UBE)99116885204105511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc I 3    |b B404    |9 (41SLSP_UBE)99116885204105511    
+986      |a (41SLSP_UBE)99116885204105511    |9 (41SLSP_UBE)99116885204105511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116885204105511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

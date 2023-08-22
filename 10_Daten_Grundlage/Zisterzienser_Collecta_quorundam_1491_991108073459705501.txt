@@ -1,0 +1,146 @@
+﻿<-1-1-START->
+Zisterzienser
+<-1-1-STOP->
+
+<-1-2-START->
+Collecta quorundam privilegiorum ordinis Cisterciensis
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit einem Vorwort von Jean de Cirey, dem Gedicht "Gaude, felix mater Cistercium" und einem Gedicht von Conradus Leontorius an den Leser<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Dijon: Peter Metlinger, 04.07.1491
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 394 ungezählte Seiten, 2 ungezählte Blätter: 2 Illustrationen, Holzschnittinitialen; 24 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_P-775.html<-L-5-STOP-><-VI-5-START->BSB-Ink P-775<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M35439.htm<-L-5-STOP-><-VI-5-START->GW M35439<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ip00976000<-L-5-STOP-><-VI-5-START->ISTC ip00976000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+200 von 200 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Flexibler Pergamenteinband mit durchzogenen Bünden (Leder) und Stosskanten
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116838249405511<-L-11-STOP-><-VI-11-START->MUE Bong V 956<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991108073459705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Zisterzienser<-P-STOP->
+<-P-START->Cirey, Jean de<-P-STOP->
+<-P-START->Leontorius, Conradus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Dijon<-O-STOP->
+<-P-START->Metlinger, Peter<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991108073459705501<-DOI-STOP->
+<-SIGN-START->MUE Bong V 956<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05433nam a2200637 c 4500
+001 991108073459705501
+005 20230209145954.0
+008 100721s1491    fr            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/23.01.2019/B404/faf    
+035      |a (swissbib)061676977-41slsp_network    
+035      |a 061676977    |9 ExL    
+035      |a (IDSBB)005281609DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991108073459705501    
+035      |a (41SLSP_UBE)99116838249405511    |9 (41SLSP_UBE)99116838249405511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+110 2    |a Zisterzienser    |0 (DE-588)1008453-8    |e Verfasser    |4 aut    
+240 1 0  |a Collecta quorundam privilegiorum ordinis Cisterciensis    
+245 1 0  |a Opera [et] i[m]pe[n]sa Reuere[n]dissimi in christo p[at]ris [et] d[omi]ni: d[omi]ni Ioha[n]nis abbatis Cistercij sacre theologie eximij p[ro]fessoris: ad omnium sui sacratissimi ordinis filior[um] consolationem [et] p[ro]fectum/ hoc opus pluriu[m] summoru[m] pontificum priuilegioru[m]/ quib[us] dictus sacer ordo Cistercien[sis] amplissime co[n]tra omnes iniurias [et] insultus: priuilegiatus est [et] munitus    
+246 1    |i Titel in normalisierter Form    |a Opera et impensa reverendissimi in Christo patris et domini, domini Iohannis abbatis Cistercii sacre theologie eximii professoris, ad omnium sui sacratissimi ordinis filiorum consolationem et profectum hoc opus plurium summorum pontificum privilegiorum, quibus dictus sacer ordo Cisterciensis amplissime contra omnes iniurias et insultus privilegiatus est et munitus    
+246 1    |i Incipit    |a Breuis prefatio sup[er] sequenti collecta quoru[n]dam priuilegiorum ordinis Cistercien[sis]    
+246 1    |i Incipit in normalisierter Form    |a Brevis prefatio super sequenti collecta quorundam privilegiorum ordinis Cisterciensis    
+246 1    |i Titel gemäss BSB-Ink, GW und ISTC    |a Privilegia ordinis Cisterciensis    
+264   1  |a eme[n]datissime [et] integerrime impressum Diuione    |b p[er] magistru[m] Petru[m] Metlinger Alema[n]nu[m]    |c Anno d[omi]ni M.cccc. nonagesimoprimo iiij. Nonas Iulias [04.07.1491]    
+300      |a 1 ungezähltes Blatt, 394 ungezählte Seiten, 2 ungezählte Blätter    |b 2 Illustrationen    |c 24 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit einem Vorwort von Jean de Cirey, dem Gedicht "Gaude, felix mater Cistercium" und einem Gedicht von Conradus Leontorius an den Leser    
+500      |a Keine Titelseite, Titel gemäss Kolophon    
+500      |a Impressum gemäss Kolophon    
+500      |a Signaturformel: a-z⁸, A-B⁸    
+500      |a Die Blätter a₁, B₇ und B₈ sind unbedruckt    
+500      |a Holzschnittinitialen    
+505 0 0  |t Carmen rithmicu[m] in laudem Cistercii    
+510 4    |a BSB-Ink    |c P-775    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_P-775.html    
+510 4    |a GW    |c M35439    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M35439.htm    
+510 4    |a ISTC    |c ip00976000    |u http://data.cerl.org/istc/ip00976000    
+530      |a Digitalisat (Exemplar der Boston Public Library)    |u https://archive.org/details/privilegiaordini00cire    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Flexibler Pergamenteinband mit durchzogenen Bünden (Leder) und Stosskanten    
+563      |a Vorsätze: Vorne mit zwei fliegenden Blättern, hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 23.6 x 16.7 x 3.8 cm    
+563      |a Zustand Einband: Zahlreiche Kratzer und Verfleckungen, Rücken stark geschrumpft, Stosskante vorne abgetrennt und hinten mit Japanpapierhinterklebung und neuer Falzung, beide Vorsätze im Falz mit Japanpapier verstärkt, Japanpapierüber- und hinterklebungen am Rückenpergament, zweites fliegendes Blatt des hinteren Vorsatzes abgetrennt    
+590      |a Buchblockbeschreibung: 200 von 200 Blättern, Papierfalz zwischen Lagen a und b sowie A und B gehört zur Vorsatzkonstruktion, Blindprägung in Form eines Wortes und von Einzelbuchstaben an Blättern z₄ verso und z₅ recto mit Auswirkungen bis zu den Blättern y₄ und A₇    
+590      |a Zustand Buchblock: Heftung teilweise gerissen und gelöst (Lagen A und B), zahlreiche Knicke, Muster der Feuchtigkeitsränder weist auf Feuchteeinwirkung an einzelnen Doppelbögen vor dem Heften hin (z.B. Bogen mit Blatt y₂ und y₇), unterer Fitzbund ungewöhnlich nah am Fussschnitt (in Lagen A und B bereits gerissen)    
+590      |a Auf Blatt B₆ verso die im Vorwort erwähnte handschriftliche Beglaubigung durch Conradus Leontorius    
+590      |a Handschriftliche Annotationen in Tinte    
+590      |a Historische Signatur auf vorderem Spiegel: "Hist Eccl: 146.", Zahl korrigiert zu "49."    
+590      |a Frühere Signaturen: Inc 166 a; Inc 403; Inc III 83; XIX 10    
+700 1    |a Cirey, Jean <<de>>    |d 1434-1503    |0 (DE-588)10094891X    |e Auftraggeber    |e Verfasser eines Vorworts    |4 pat    |4 wpr    
+700 1    |a Leontorius, Conradus    |d 1460-1511    |0 (DE-588)129039462    |e Herausgeber    |e Verfasser von ergänzendem Text    |4 edt    |4 wst    
+700 1    |a Metlinger, Peter    |d ca. 15. Jh.    |0 (DE-588)134142624    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+710 2 2  |a Zisterzienser    |t Collecta quorundam privilegiorum ordinis Cisterciensis    |0 (DE-588)1176033891    
+730 0    |a Gaude, felix mater Cistercium    |0 (DE-588)1176035436    
+751      |a Dijon    |0 (DE-588)4012315-7    
+852 4    |b B404    |c 404U3    |j MUE Bong V 956    |9 (41SLSP_UBE)99116838249405511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc III 83    |c 404U3    |p 12    |j MUE Bong V 956    |b B404    |9 (41SLSP_UBE)99116838249405511    
+986      |a (41SLSP_UBE)99116838249405511    |9 (41SLSP_UBE)99116838249405511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116838249405511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116838249405511    
+991      |a Bongars: 11582    |5 IZ UBE/B400/21.07.2010    |9 local    |9 (41SLSP_UBE)99116838249405511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

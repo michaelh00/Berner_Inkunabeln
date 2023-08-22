@@ -1,0 +1,139 @@
+﻿<-1-1-START->
+Pius II. (Papst)
+<-1-1-STOP->
+
+<-1-2-START->
+Asia
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Johann von Köln und Johannes Manthen, 1477
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 210 ungezählte Seiten; 28 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_P-492.html<-L-5-STOP-><-VI-5-START->BSB-Ink P-492<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M33756.htm<-L-5-STOP-><-VI-5-START->GW M33756<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ip00730000<-L-5-STOP-><-VI-5-START->ISTC ip00730000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+103 von 106 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert) mit Sprenkelpapier (hellbraun)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Die Blätter a₁, l₂ und l₉ fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116838289705511<-L-11-STOP-><-VI-11-START->MUE Bong III 13<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991100548969705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Pius II. (Papst)<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Johann von Köln<-P-STOP->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Johannes Manthen<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991100548969705501<-DOI-STOP->
+<-SIGN-START->MUE Bong III 13<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03383nam a2200553 c 4500
+001 991100548969705501
+005 20211215185446.0
+008 100719s1477    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/10.07.2018/B404/faf    
+035      |a (swissbib)061533556-41slsp_network    
+035      |a 061533556    |9 ExL    
+035      |a (IDSBB)005280398DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991100548969705501    
+035      |a (41SLSP_UBE)99116838289705511    |9 (41SLSP_UBE)99116838289705511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Pius    |b II.    |c Papst    |d 1405-1464    |0 (DE-588)118594702    |e Verfasser    |4 aut    
+240 1 0  |a Asia    
+245 1 0  |a Pii .ii. Ponti. maximi historię rerum ubiq[ue] gestaru[m] prima pars finitur    
+246 1    |i Incipit    |a Pii .II. Pontificis Maximi. Historia Rervm Vbiqve Gestarvm. Cvm Locorvm Descriptione Non Finita Asia Minor Incipit    
+246 1    |i Incipit in normalisierter Form    |a Pii II. pontificis maximi historia rerum ubique gestarum cum locorum descriptione non finita Asia minor incipit    
+246 1    |i Titel gemäss GW    |a Historia rerum ubique gestarum (Asia)    
+246 1    |i Titel gemäss ISTC    |a Historia rerum ubique gestarum    
+264   1  |a & impressioni Venetiis dedita    |b per Iohannem de colonia sociumq[ue] eius Iohannem manthen de Gherretzem    |c anno millesimo: cccclxxvii. [1477]    
+300      |a 1 ungezähltes Blatt, 210 ungezählte Seiten    |c 28 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss Kolophon    
+500      |a Impressum gemäss Kolophon    
+500      |a Signaturformel: a–f¹⁰, g–h⁸, i–l¹⁰    
+500      |a Blatt a₁ ist unbedruckt    
+510 4    |a BSB-Ink    |c P-492    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_P-492.html    
+510 4    |a GW    |c M33756    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M33756.htm    
+510 4    |a ISTC    |c ip00730000    |u http://data.cerl.org/istc/ip00730000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/0005/bsb00059963/images    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jh.) mit Sprenkelpapier (hellbraun), Linien-Goldprägung und Titelschild in Goldprägung ("Pii II. Historia Rerum") auf dem Rücken    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 27.2 x 20.8 x 2.3 cm    
+563      |a Zustand Einband: Schäden am Einbandleder    
+590      |a Buchblockbeschreibung: 103 von 106 Blättern, handschriftliche Blattzählung in Tinte (1-103, teilweise abgeschnitten), vorgesehene Stellen für Initialen frei gelassen    
+590      |a Unvollständiges Exemplar: Die Blätter a₁, l₂ und l₉ fehlen    
+590      |a Zahlreiche handschriftliche Annotationen in Tinte    
+590      |a Frühere Signaturen: Inc 170; Inc II 74    
+700 0    |a Johann    |c von Köln    |d 14XX-1480    |0 (DE-588)129032921    |e Drucker    |4 prt    
+700 0    |a Johannes    |c Manthen    |d -1487    |0 (DE-588)102547629    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 0 2  |a Pius    |b II.    |c Papst    |d 1405-1464    |t Asia    |0 (DE-588)1162520051    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Bong III 13    |9 (41SLSP_UBE)99116838289705511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc II 74    |c 404U3    |p 12    |j MUE Bong III 13    |b B404    |9 (41SLSP_UBE)99116838289705511    
+986      |a (41SLSP_UBE)99116838289705511    |9 (41SLSP_UBE)99116838289705511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116838289705511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116838289705511    
+991      |a Bongars: 11188    |5 IZ UBE/B400/19.07.2010    |9 LOCAL    |9 (41SLSP_UBE)99116838289705511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

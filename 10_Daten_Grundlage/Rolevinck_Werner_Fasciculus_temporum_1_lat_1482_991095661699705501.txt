@@ -1,0 +1,134 @@
+﻿<-1-1-START->
+Rolevinck, Werner
+<-1-1-STOP->
+
+<-1-2-START->
+Fasciculus temporum
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Vorwort des Verfassers, Chronik bis zum Tod Karls des Kühnen weitergeführt<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Basel]: Bernhard Richel, 20.02.1482
+<-3-1-STOP->
+
+<-4-1-START->
+11 ungezählte Seiten, xc Blätter: 18 Illustrationen, Diagramme; 31 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_R-243.html<-L-5-STOP-><-VI-5-START->BSB-Ink R-243<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M38680.htm<-L-5-STOP-><-VI-5-START->GW M38680<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ir00267000<-L-5-STOP-><-VI-5-START->ISTC ir00267000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+96 von 96 Blättern, Illustrationen rot koloriert, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jahrhundert), Ornamentrollen-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Chronicon / Antonin (Erzbischof von Florenz). Basel: Nicolaus Kessler, 1491
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116800177405511<-L-11-STOP-><-VI-11-START->MUE Inc I 97 : 1:2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991095661699705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Rolevinck, Werner<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Richel, Bernhard<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991095661699705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 97 : 1:2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04149nam a2200553 c 4500
+001 991095661699705501
+005 20211216115448.0
+008 171026s1482    sz |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/26.10.2017/B404/faf    
+035      |a (swissbib)074902644-41slsp_network    
+035      |a 074902644    |9 ExL    
+035      |a (IDSBB)006742882DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991095661699705501    
+035      |a (41SLSP_UBE)99116800177405511    |9 (41SLSP_UBE)99116800177405511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Rolevinck, Werner    |d 1425-1502    |0 (DE-588)118749536    |e Verfasser    |4 aut    
+240 1 0  |a Fasciculus temporum    
+245 1 0  |a Chronica q[uae] dicit[ur] fasciculus t[em]p[oru]m edita in alma vniuersitate colonie agrippine sup[er] rhenum. a quoda[m] deuoto cartusiensi finit feliciter    
+246 1    |i Incipit (Haupttext)    |a Fasciculus temporum omnes antiquorum cronicas complecte[n]s incipit feliciter    
+246 1    |i Incipit (Tabula)    |a Tabula breuis et vtilis sup[er] libro quodam qui dicitur fasciculus temporu[m] ... incipit feliciter    
+246 1    |i Incipit (Tabula) in normalisierter Form    |a Tabula brevis et utilis super libro quodam qui dicitur fasciculus temporum ... incipit feliciter    
+246 1    |i Titel in normalisierter Form    |a Chronica quae dicitur fasciculus temporum edita in alma universitate Colonie Agrippine super Rhenum a quodam devoto Cartusiensi finit feliciter    
+264   1  |a [Basel]    |b Sepius q[ui]dem ia[m] impressa. sed neglige[n]tia correcto[rum] in diuersis locis a vero originali minus iuste eme[n]data Nu[n]c v[er]o no[n] sine mag[no] labore ad p[ri]stinum statu[m] reducta cu[m] q[ui]busda[m] addit[i]o[n]ibus. per humilem viru[m] Bernhardu[m] Richel ciuem Basilien[sem]    |c Sub anno d[omi]ni Mcccclxxxij. x. k[a]l[endas] me[nsis] marcij [20.02.1482]    
+300      |a 11 ungezählte Seiten, xc Blätter    |b 18 Illustrationen, Diagramme    |c 31 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Register und Vorwort des Verfassers, Chronik bis zum Tod Karls des Kühnen weitergeführt    
+500      |a Keine Titelseite, Titel gemäss Kolophon    
+500      |a Drucker und Druckjahr gemäss Kolophon    
+500      |a Blätter auf Recto- und Versoseiten foliiert    
+500      |a Signaturformel: [*⁶, a–d⁸, e⁶, f–g⁸, h⁶, i–l⁸, m⁶]    
+500      |a Blatt [*₁] recto ist unbedruckt    
+510 4    |a BSB-Ink    |c R-243    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_R-243.html    
+510 4    |a GW    |c M38680    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M38680.htm    
+510 4    |a ISTC    |c ir00267000    |u http://data.cerl.org/istc/ir00267000    
+530      |a Digitalisat (Exemplar der Universitätsbibliothek Basel)    |u http://dx.doi.org/10.3931/e-rara-16587    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jh.), Ornamentrollen-Blindprägung auf beiden Deckeln, Linien-Blindprägung sowie Titelschild in Goldprägung auf dem Rücken    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 30.9 x 22.8 x 6.5 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, Fehlstellen im Einbandleder auf den Kartondeckeln farbig retuschiert, Vorsätze im Falz mit Japanpapier verstärkt    
+590      |a Buchblockbeschreibung: 96 von 96 Blättern, Illustrationen rot koloriert, rot ausgezeichnete Initialen, Rubrizierung    
+590      |a Zustand Buchblock: Rotes Farbmittel der Holzschnitt-Kolorierung zum Teil mit Ausbrüchen (Blatt [b₁] recto), Blätter sperren stark beim Blättern    
+590      |a Zusammengebunden mit: Prima pars historialis venerabilis domini Antonini / Antonin von Florenz. Basel : Kessler, 1491    
+590      |a Historische Signatur auf vorderem Spiegel: "H. Eccl. 32."    
+590      |a Frühere Signatur: Inc 315    
+700 1    |a Richel, Bernhard    |d -1482    |0 (DE-588)136009115    |e Drucker    |4 prt    
+700 1 2  |a Rolevinck, Werner    |d 1425-1502    |t Fasciculus temporum    |0 (DE-588)7539276-8    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc I 97 : 1:2    |9 (41SLSP_UBE)99116800177405511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 1 weiteren Druck in Sammelband    |p 12    |j MUE Inc I 97 : 1:2    |b B404    |9 (41SLSP_UBE)99116800177405511    
+986      |a (41SLSP_UBE)99116800177405511    |9 (41SLSP_UBE)99116800177405511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116800177405511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

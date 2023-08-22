@@ -1,0 +1,149 @@
+﻿<-1-1-START->
+Ammonius Hermiae
+<-1-1-STOP->
+
+<-1-2-START->
+In Porphyrii isagogen sive quinque voces [griechisch]
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Zacharias Kallergēs für Nikolaos Blastos, 23.05.1500
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 71 ungezählte Seiten, 1 ungezähltes Blatt: Holzschnittinitialen; 34 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-482.html<-L-5-STOP-><-VI-5-START->BSB-Ink A-482<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW01618.htm<-L-5-STOP-><-VI-5-START->GW 01618<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ia00565000<-L-5-STOP-><-VI-5-START->ISTC ia00565000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+36 von 38 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (chamois, Schwein, 17. Jahrhundert) mit Spuren von Verschlussbändern (grün, Textil), Linien-, Ornamentrollen- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Gabriel Picault; Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 4 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Die unbedruckten Blätter Α₁ und Ε₆ fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116896393505511<-L-11-STOP-><-VI-11-START->MUE Bong V 923 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991151684849705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Ammonius Hermiae<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Kallergēs, Zacharias<-P-STOP->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Blastos, Nikolaos<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-P-START->Picault, Gabriel<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991151684849705501<-DOI-STOP->
+<-SIGN-START->MUE Bong V 923 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05128nam a2200649 c 4500
+001 991151684849705501
+005 20211215191704.0
+008 030128s1500    it            00| | grc  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/24.07.2018/B404/faf    
+035      |a (swissbib)063674580-41slsp_network    
+035      |a 063674580    |9 ExL    
+035      |a (IDSBB)005196361DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991151684849705501    
+035      |a (41SLSP_UBE)99116896393505511    |9 (41SLSP_UBE)99116896393505511    
+040      |a SzZuIDS NEBIS ZBZ    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Ammonius    |c Hermiae    |d ca. 435/445–517/526    |0 (DE-588)118648837    |e Verfasser    |4 aut    
+240 1 0  |a In Porphyrii isagogen sive quinque voces    
+245 1 0  |a Hypomnēma Eis Tas Pente Phōnas Apo Phōnēs Ammōniu Mikru Tu Hermeiu    
+246 1    |i Titel gemäss BSB-Ink    |a Hypomnema in quinque voces Porphyrii    
+246 1    |i Titel gemäss GW    |a Hypomnema    
+246 1    |i Titel gemäss ISTC    |a Commentarii in quinque voces Porphyrii    
+264   1  |a Enetiēsin etypōthē    |b dapanē tu eugenus kai dokimu andros, kyriu Nikolau blastu tu krētos. uk aneu mentoi pronomiu    |c Etei tō apo tēs Christu gennēseōs, chiliostō pentakosiostō, skirophoriōnos ennatē phthinontos. epi archontos Augustinu Barbadiku tu megaloprepestatu, tēn basilida tōn poleōn tautēn eutychōs hēniochuntos [23.05.1500]    
+300      |a 1 ungezähltes Blatt, 71 ungezählte Seiten, 1 ungezähltes Blatt    |c 34 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, nur Kopftitel    
+500      |a Impressum gemäss Kolophon    
+500      |a Gemäss BSB-Ink, GW und ISTC von Zacharias Kallergēs für Nikolaos Blastos gedruckt    
+500      |a Gold, Rot- und Schwarzdruck    
+500      |a Gold- und rotgedruckte Holzschnittinitialen    
+500      |a Signaturformel: Α-Δ⁸, Ε⁶    
+500      |a Die Blätter Α₁ und Ε₆ sind unbedruckt    
+510 4    |a BSB-Ink    |c A-482    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-482.html    
+510 4    |a GW    |c 01618    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW01618.htm    
+510 4    |a ISTC    |c ia00565000    |u http://data.cerl.org/istc/ia00565000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0004/bsb00045534/images    
+561      |a Handschriftlicher Besitzvermerk auf Blatt Α₂ recto: "Bongars"; auf Blatt Ε₅ verso: "Picaltij Aurelianj kai tōn philōn"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (chamois, Schwein, 17. Jh.) mit Spuren von Verschlussbändern (grün, Textil), Linien-, Ornamentrollen- und Ornamentstempel-Blindprägung auf beiden Deckeln    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 34 x 22.6 x 7.8 cm    
+563      |a Zustand Einband: Einbandleder mit Abschabungen am Rücken und Einrissen im Falz an den Häubchen, Japanpapierverstärkungen in den Fälzen beider Vorsätze    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 36 von 38 Blättern, Papierfalz an Blatt Α₂ recto und Α₇ verso sowie Α₈ verso gehört zur Lagenkonstruktion (= 2 hinzugefügte Papierfälze zum Zusammensetzten der Einzelblätter), Papierfalz an Blatt Ε₁ recto und Ε₅ verso gehört zur Lagenkonstruktion (= 1 hinzugefügter Papierfalz)    
+590      |a Zustand Buchblock: Zum Teil Durchschlag und Abklatsch der roten Druckfarbe, Japanpapierüberklebung an Schnitten der Blätter Ε₄ und Ε₅    
+590      |a Unvollständiges Exemplar: Die unbedruckten Blätter Α₁ und Ε₆ fehlen    
+590      |a Bindefehler: Lage Α als zwei Lagen gebunden: Α₂, Α₇-Α₈; Α₃-Α₆    
+590      |a Zahlreiche handschriftliche Annotationen und Unterstreichungen in Tinte    
+590      |a Zusammengebunden mit 4 weiteren Drucken in Sammelband    
+590      |a Historische Signaturen auf vorderem Spiegel: "Hist Prof 161", Zahl korrigiert zu "N. 108. A."; "Inc. V, 195."    
+590      |a Frühere Signaturen: Inc I 58; III R 9    
+700 1    |a Kallergēs, Zacharias    |d ca. vor 1473-nach 1524    |0 (DE-588)124788971    |e Drucker    |4 prt    
+700 1    |a Blastos, Nikolaos    |d -1500    |0 (DE-588)1074211243    |e Verlag    |4 pbl    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Picault, Gabriel    |d ca. 16.-17. Jh.    |0 (DE-588)1163300896    |e Früherer Eigentümer    |4 fmo    
+700 0 2  |a Ammonius    |c Hermiae    |d ca. 435/445–517/526    |t In Porphyrii isagogen sive quinque voces    |0 (DE-588)4670671-9    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Bong V 923 : 2    |9 (41SLSP_UBE)99116896393505511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc I 58 : 2    |c 404U3    |z Zusammengebunden mit 4 weiteren Drucken in Sammelband    |p 12    |j MUE Bong V 923 : 2    |b B404    |9 (41SLSP_UBE)99116896393505511    
+986      |a (41SLSP_UBE)99116896393505511    |9 (41SLSP_UBE)99116896393505511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116896393505511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116896393505511    
+991      |a Bongars: 00362    |5 IZ UBE/B400/22.03.2010    |9 LOCAL    |9 (41SLSP_UBE)99116896393505511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

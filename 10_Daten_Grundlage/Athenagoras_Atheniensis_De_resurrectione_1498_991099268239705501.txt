@@ -1,0 +1,164 @@
+﻿<-1-1-START->
+Athenagoras Atheniensis
+<-1-1-STOP->
+
+<-1-2-START->
+De resurrectione. — Axiochus. — Cebes Philosophus: Tabula
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit zwei Briefen von Marilius Ficinus an Germanus de Ganay<-500-STOP->
+<-500-START->Die Zuschreibung des "Axiochus" (auch "Liber de morte") an Xenocrates Chalcedonius stammt von Marsilius Ficinus; das Werk wurde traditionell Plato zugeschrieben, stammt aber mit Sicherheit weder von ihm noch von Xenocrates<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Paris: Guy Marchant [für Jean Petit], 18.08.1498
+<-500-START->In einigen Exemplaren der Ausgabe mit Verlegermarke von Jean Petit, anstatt wie hier, mit Druckermarke auf der Titelseite<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+28 ungezählte Seiten: Druckermarke; 21 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/GW02763.htm<-L-5-STOP-><-VI-5-START->GW 02763<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ia01176000<-L-5-STOP-><-VI-5-START->ISTC ia01176000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+14 von 14 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Pergamenteinband auf Kartondeckeln (1953)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 4 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116931347905511<-L-11-STOP-><-VI-11-START->MUE Bong VI App. 6 : 4<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991099268239705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Athenagoras Atheniensis<-P-STOP->
+<-P-START->Ficinus, Marsilius<-P-STOP->
+<-P-START->Odassi, Lodovico<-P-STOP->
+<-P-START->Xenocrates Chalcedonius<-P-STOP->
+<-P-START->Cebes Philosophus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Paris<-O-STOP->
+<-P-START->Petit, Jean<-P-STOP->
+<-O-START->Paris<-O-STOP->
+<-P-START->Marchant, Guy<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991099268239705501<-DOI-STOP->
+<-SIGN-START->MUE Bong VI App. 6 : 4<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04977nam a2200745 c 4500
+001 991099268239705501
+005 20211215185058.0
+007 cr#|||||||||||
+008 100414s1498    fr            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/14.04.2010    
+024 7    |a 10.3931/e-rara-88401    |2 doi    
+035      |a (swissbib)06002626X-41slsp_network    
+035      |a 06002626X    |9 ExL    
+035      |a (IDSBB)005212866DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991099268239705501    
+035      |a (41SLSP_UBE)99116931347905511    |9 (41SLSP_UBE)99116931347905511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a lat    |h grc    
+100 0    |a Athenagoras    |c Atheniensis    |d ca. 2. Jh.    |0 (DE-588)118646141    |e Verfasser    |4 aut    
+240 1 0  |a De resurrectione    
+245 1 0  |a Athenagoras de resurrectione    |b ; Xenocrates platonis auditor de morte. Cebetis thebani Aristotelis auditoris tabula : miro artificio vite instituta continens    
+246 1    |i Titel mit einleitender Wendung    |a In hoc libello co[n]tine[n]tur Athenagoras de resurrectione    
+246 1    |i Titel mit einleitender Wendung in normalisierter Form    |a In hoc libello continentur Athenagoras de resurrectione    
+264   1  |a Impressa Parisij    |b a magistro Guidone Mercatore    |c Anno d[omi]ni .M.CCCC.xcviij. Die .xviij. Augusti. [18.08.1498]    
+300      |a 28 ungezählte Seiten    |c 21 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+337      |b c    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+338      |b cr    |2 rdacarrier    
+500      |a Blätter a₁ verso und a₄ recto jeweils mit einem Brief von Marilius Ficinus an Germanus de Ganay    
+500      |a Die Zuschreibung des "Liber de morte" an Xenocrates Chalcedonius stammt von Marsilius Ficinus; das Buch, sonst auch "Axiochos" oder "Axiochus" genannt, wurde traditionell Plato zugeschrieben, stammt aber mit Sicherheit weder von ihm noch von Xenocrates    
+500      |a Auf der Titelseite Druckermarke von Marchant    
+500      |a Von Jean Petit verlegt (in einigen, sonst satzidentischen Exemplaren der Ausgabe findet sich seine Verlegermarke anstelle der Druckermarke auf der Titelseite; vergleiche Digitalisat!)    
+500      |a Signaturformel: a⁸, b⁶    
+500      |a Blatt a₈ verso unbedruckt    
+505 0 0  |g Blatt a₂ recto    |t Athenagore de resurrectione    |r excerpta per Marisliu[m] Ficinu[m] Florentinu[m]    |g Blatt a₅ recto    |t Xenocratis philosophi platonici liber de morte    |r translatus e greca lingua in latinam a Marsilio Ficino Florentino ad clarissimu[m] virum Petrum medicem    |g Blatt b₁ recto    |t Cebetis Thebani Tabula    |r e greco in latinum conuersa per Ludouicum Odaxium Patauinum    
+510 4    |a GW    |c 02763    |u https://www.gesamtkatalogderwiegendrucke.de/docs/GW02763.htm    
+510 4    |a ISTC    |c ia01176000    |u http://data.cerl.org/istc/ia01176000    
+530      |a Digitalisat (Exemplar der U.S. National Library of Medicine, mit Verlegermarke von Jean Petit auf der Titelseite)    |u http://resource.nlm.nih.gov/9411030    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Ganzbezogener Pergamenteinband auf Kartondeckeln (1953)    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 20.8 x 14.5 x 1.9 cm    
+563      |a Zustand Einband: Neueinband von 1953 (Heftung laut Johann Lindt original belassen)    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 14 von 14 Blättern, Blinddruckmarken (Letternzeile) an Blättern a₁ und a₈, keine Rubrizierung    
+590      |a Zustand Buchblock: Verfleckungen und angefalzte Blattecken    
+590      |a Handschriftliche Annotation in Tinte auf Blatt a₂ verso; Unterstreichungen    
+590      |a Zusammengebunden mit 4 weiteren Drucken in Sammelband    
+590      |a Historische Signatur auf der Titelseite des ersten Werks im Sammelband: "Poet 99"    
+590      |a Frühere Signaturen: Inc V 123; Inc 488; Hortin XXIII n 55    
+700 0 2  |a Athenagoras    |c Atheniensis    |d ca. 2. Jh.    |t De resurrectione    |0 (DE-588)4575965-0    
+700 0 2  |a Axiochus    |0 (DE-588)4477534-9    
+700 0 2  |a Cebes    |c Philosophus    |d ca. v5-v4. Jh.    |t Tabula    |0 (DE-588)1088040195    
+700 1    |a Ficinus, Marsilius    |d 1433-1499    |0 (DE-588)118532855    |e Herausgeber    |e Übersetzer    |4 edt    |4 trl    
+700 1    |a Odassi, Lodovico    |d -1510    |0 (DE-588)123073081    |e Übersetzer    |4 trl    
+700 0    |a Xenocrates    |c Chalcedonius    |d ca. v4. Jh.    |0 (DE-588)118808087    |e Verfasser    |4 aut    
+700 1    |a Ganay, Germain <<de>>    |d -1520    |0 (DE-588)129021288    |e Widmungsempfänger    |4 dte    
+700 1    |a Petit, Jean    |d 14XX-1533    |0 (DE-588)103753445X    |e Verlag    |4 pbl    
+700 1    |a Marchant, Guy    |d 14XX-1505    |0 (DE-588)138932433    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+751      |a Paris    |0 (DE-588)4044660-8    
+852 4    |b B404    |c 404U3    |j MUE Bong VI App. 6 : 4    |9 (41SLSP_UBE)99116931347905511    
+856 4    |u https://doi.org/10.3931/e-rara-88401    |z Digitalisat in e-rara    
+900      |a IDSIxunikat    
+900      |a IDSIxhybrid-el    
+900      |a NOMERGEALEX    
+949      |i ZB Inc V 123 : 4    |c 404U3    |z Zusammengebunden mit 4 weiteren Drucken in Sammelband    |p 12    |j MUE Bong VI App. 6 : 4    |b B404    |9 (41SLSP_UBE)99116931347905511    
+986      |a (41SLSP_UBE)99116931347905511    |9 (41SLSP_UBE)99116931347905511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116931347905511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116931347905511    
+990      |f erarabe    |9 local    |9 (41SLSP_UBE)99116931347905511    
+990      |f lza-cc0    |9 local    |9 (41SLSP_UBE)99116931347905511    
+991      |a Bongars: 00857    |5 IZ UBE/B400/14.04.2010    |9 local    |9 (41SLSP_UBE)99116931347905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

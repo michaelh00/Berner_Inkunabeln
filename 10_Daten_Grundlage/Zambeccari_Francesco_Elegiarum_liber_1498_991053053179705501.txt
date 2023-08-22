@@ -1,0 +1,150 @@
+﻿<-1-1-START->
+Zambeccari, Francesco
+<-1-1-STOP->
+
+<-1-2-START->
+Elegiarum liber de amoribus Chryseae et Philochrysi
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Widmung des Verfassers und einem Gedicht an Pino Ordelaffi<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Paris: Thielman Kerver für Jean Petit, 31.12.1498
+<-3-1-STOP->
+
+<-4-1-START->
+62 ungezählte Seiten, 1 ungezähltes Blatt: Verlegermarke; 19 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M52036.htm<-L-5-STOP-><-VI-5-START->GW M52036<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/iz00018000<-L-5-STOP-><-VI-5-START->ISTC iz00018000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+24 von 32 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Pergamenteinband auf Kartondeckeln mit Buntpapier (Marmor, 18. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: zweite Lage (bb, 8 Blätter) fehlt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116786917905511<-L-11-STOP-><-VI-11-START->MUE Bong VI App. 7<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991053053179705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Zambeccari, Francesco<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Paris<-O-STOP->
+<-P-START->Kerver, Thielman<-P-STOP->
+<-O-START->Paris<-O-STOP->
+<-P-START->Petit, Jean<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991053053179705501<-DOI-STOP->
+<-SIGN-START->MUE Bong VI App. 7<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04041nam a2200649 c 4500
+001 991053053179705501
+005 20211215164755.0
+007 cr#|||||||||||
+008 100805s1498    fr            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/05.08.2010    
+024 7    |a 10.3931/e-rara-88388    |2 doi    
+035      |a (swissbib)06245708X-41slsp_network    
+035      |a 06245708X    |9 ExL    
+035      |a (IDSBB)005288652DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991053053179705501    
+035      |a (41SLSP_UBE)99116786917905511    |9 (41SLSP_UBE)99116786917905511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Zambeccari, Francesco    |d 14XX-15XX    |0 (DE-588)108981156X    |e Verfasser    |4 aut    
+240 1 0  |a Elegiarum liber de amoribus Chryseae et Philochrysi    
+245 1 0  |a Elegiarvm Liber de amoribus Chryseæ & Philochrysi    |c [Franciscus Zambecharius]    
+246 1    |i Titel in der Widmung    |a De Philochrysi & Chryseæ amoribus elegia    
+246 1    |i Titel zu Beginn des Haupttexts (Blatt b₄ recto)    |a Epistolæ de amore Philochrysi & Chryseæ    
+246 1    |i Titel gemäss GW    |a De amoribus Chryseae et Philochoysi    
+264   1  |a Accipe lector Opusculum lepidum Parrhisiis impressum    |b per Thielma[n]num keruer    |c pridie Calendas Ianuarii. Anno salutis nonagesiomoctauo super Millesimum quaterq[ue] cenesimum [31.12.1498]    
+300      |a 62 ungezählte Seiten, 1 ungezähltes Blatt    |c 19 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+337      |b c    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+338      |b cr    |2 rdacarrier    
+500      |a Verfasser in der Widmung an Pino Ordelaffi zu Beginn des Vorworts genannt: "Ad Illvstrissimvm Principem Forliuii dominu[m] Dominu[m] Pinum Ordelaphum Fra[n]cisci Za[m]becharii equitis et poetę lauretai p[rae]fatio: in quasda[m] de philochrysi & chryseæ amoribus elegia"    
+500      |a Mit Gedicht an Pino Ordelaffi (Blatt b₂ verso), Incipit: "Ordelaphę splendor pręclaraq[ue] gloria gentis: O decus o patriæ lumen honosq[ue] tuæ"    
+500      |a Impressum gemäss Kolophon (Blatt d₇ verso)    
+500      |a Auf der Titelseite Verlegermarke von Jean Petit ("Iehan Petit"), darunter: "Venales reperiuntur in uico sancti Iacobi apud Leonem argenteum"    
+500      |a Signaturformel: b⁸, bb⁸, c-d⁸    
+500      |a Blatt d₈ unbedruckt    
+510 4    |a GW    |c M52036    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M52036.htm    
+510 4    |a ISTC    |c iz00018000    |u http://data.cerl.org/istc/iz00018000    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Halbbezogener Pergamenteinband auf Kartondeckeln mit Buntpapier (Marmor, 18. Jahrhundert); auf dem Rücken handschriftlicher Titel: "de Amoribus Chryseæ. Paris 1498."    
+563      |a Vorsätze: vorne und hinten mit zwei fliegenden Blättern    
+563      |a Masse Einband: 18.9 x 13.8 x 0.7 cm    
+563      |a Zustand Einband: Deckel deformiert    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 24 von 32 Blättern, keine Rubrizierung    
+590      |a Zustand Buchblock: massive Verfleckung im Falzbereich; Löcher von vormaliger Blockheftung sichtbar    
+590      |a Unvollständiges Exemplar: Lage bb fehlt    
+590      |a Historische Signatur auf der Titelseite: "Poet 131"    
+590      |a Frühere Signaturen: Inc IV 69; Inc 489; XXIII 64    
+700 1 2  |a Zambeccari, Francesco    |d 14XX-15XX    |t Elegiarum liber de amoribus Chryseae et Philochrysi    |0 (DE-588)1189347490    
+700 1    |a Ordelaffi, Pino    |b III.    |d 1436-1480    |0 (DE-588)121192520    |e Widmungsempfänger    |4 dte    
+700 1    |a Kerver, Thielman    |d -1522    |0 (DE-588)137735545    |e Drucker    |4 prt    
+700 1    |a Petit, Jean    |d 14XX-1540    |0 (DE-588)1037534433    |e Verlag    |4 pbl    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+751      |a Paris    |0 (DE-588)4044660-8    
+852 4    |b B404    |c 404U3    |j MUE Bong VI App. 7    |9 (41SLSP_UBE)99116786917905511    
+856 4    |u https://doi.org/10.3931/e-rara-88388    |z Digitalisat in e-rara    
+900      |a IDSIxunikat    
+900      |a IDSIxhybrid-el    
+900      |a NOMERGEALEX    
+949      |i ZB Inc IV 69    |c 404U3    |p 12    |j MUE Bong VI App. 7    |b B404    |9 (41SLSP_UBE)99116786917905511    
+986      |a (41SLSP_UBE)99116786917905511    |9 (41SLSP_UBE)99116786917905511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116786917905511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116786917905511    
+990      |f erarabe    |9 local    |9 (41SLSP_UBE)99116786917905511    
+990      |f lza-cc0    |9 local    |9 (41SLSP_UBE)99116786917905511    
+991      |a Bongars: 14808    |5 IZ UBE/B400/05.08.2010    |9 local    |9 (41SLSP_UBE)99116786917905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,129 @@
+﻿<-1-1-START->
+Leopoldus de Austria
+<-1-1-STOP->
+
+<-1-2-START->
+Compilatio de astrorum scientia
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Widmungsbrief von Erhard Ratdolt an Ulrich von Frundsberg (Bischof von Trient)<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Augsburg]: [Erhard Ratdolt], 09.01.1489
+<-3-1-STOP->
+
+<-4-1-START->
+220 ungezählte Seiten: Illustrationen, Holzschnittinitialen; 23 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_L-130.html<-L-5-STOP-><-VI-5-START->BSB-Ink L-190<-VI-5-STOP->; <-L-5-START->http://gesamtkatalogderwiegendrucke.de/docs/M17974.htm<-L-5-STOP-><-VI-5-START->GW M17974<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/il00185000<-L-5-STOP-><-VI-5-START->ISTC il00185000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+110 von 110 Blättern, Illustrationen und Zierinitialen teilweise koloriert, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit mittiger Schliesse, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116778989005511<-L-11-STOP-><-VI-11-START->MUE Inc IV 46<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991025245499705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Leopoldus de Austria<-P-STOP->
+<-P-START->Ratdolt, Erhard<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Augsburg<-O-STOP->
+<-P-START->Ratdolt, Erhard<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991025245499705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 46<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03125nam a2200493 c 4500
+001 991025245499705501
+005 20230207120554.0
+008 160506s1489    gw |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/06.05.2016/B404/az    
+035      |a (swissbib)072670819-41slsp_network    
+035      |a 072670819    |9 ExL    
+035      |a (IDSBB)006499950DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991025245499705501    
+035      |a (41SLSP_UBE)99116778989005511    |9 (41SLSP_UBE)99116778989005511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Leopoldus    |c de Austria    |d 12XX-    |0 (DE-588)102506736    |e Verfasser    |4 aut    
+240 1 0  |a Compilatio de astrorum scientia    
+245 1 0  |a Compilatio Leupoldi ducatus Austrie filij astrorum scientia Decem continens tractatus    
+264   1  |a [Augsburg]    |b [Erhard Ratdolt]    |c Quinto ydus Januarij M.cccc.lxxxix [09.01.1489]    
+300      |a 220 ungezählte Seiten    |b Illustrationen    |c 23 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Werktitel gemäss BSB-Ink, GW und ISTC    
+500      |a Mit Widmundsbrief an Ulrich von Frundsberg, Bischof von Trient und Einleitung von Erhard Ratdolt    
+500      |a Druckort, Drucker und Druckjahr gemäss Explicit    
+500      |a Signaturformel: a–n⁸, o⁶    
+500      |a Blatt o₅ verso und o₆ sind unbedruckt    
+510 4    |a BSB-Ink    |c L-190    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_L-130.html    
+510 4    |a GW    |c M17974    |u http://gesamtkatalogderwiegendrucke.de/docs/M17974.htm    
+510 4    |a ISTC    |c il00185000    |u http://data.cerl.org/istc/il00185000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0003/bsb00030005/images    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit mittiger Schliesse, Linien- und Ornamentstempel- Blindprägung auf beiden Deckeln, Ornamentstempel- Blindprägung auf dem Rücken    
+563      |a Vorsätze: ohne fliegende Blätter. Makulaturpergament auf beiden Spiegeln    
+563      |a Masse Einband: 23 x 16 x 3.5 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, Schrift am Rücken abgerieben (Reste grossformatiger Tintenschrift sichtbar), vorderer Spiegel zum Teil hoch gelöst    
+563      |a Detaillierte Beschreibung im Inkunabel-Einbandkatalog (Lindt/Mülinen)    
+590      |a Buchblockbeschreibung: 110 von 110 Blättern, Makulaturpergamentstreifen als Verstärkung an Heftstationen um erste und letzte Lage gelegt, Illustrationen und Zierinitialen teilweise koloriert, Rubrizierung    
+590      |a Wenige handschriftliche Annotationen in Tinte    
+700 0 2  |a Leopoldus    |c de Austria    |d 12XX-    |t Compilatio de astrorum scientia    |0 (DE-588)1142577503    
+700 1    |a Ratdolt, Erhard    |d 1447-1527    |0 (DE-588)11878790X    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Frundsberg, Ulrich <<von>>    |d -1493    |0 (DE-588)12902015X    |e Adressat    |4 rcp    
+700 1    |a Ratdolt, Erhard    |d 1447-1527    |0 (DE-588)11878790X    |e Drucker    |4 prt    
+751      |a Augsburg    |0 (DE-588)4003614-5    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 46    |9 (41SLSP_UBE)99116778989005511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc IV 46    |b B404    |9 (41SLSP_UBE)99116778989005511    
+986      |a (41SLSP_UBE)99116778989005511    |9 (41SLSP_UBE)99116778989005511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116778989005511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

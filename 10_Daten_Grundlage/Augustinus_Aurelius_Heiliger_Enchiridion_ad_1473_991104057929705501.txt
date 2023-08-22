@@ -1,0 +1,147 @@
+﻿<-1-1-START->
+Augustinus, Aurelius
+<-1-1-STOP->
+
+<-1-2-START->
+Enchiridion ad Laurentium sive de fide, spe et caritate
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Strassburg: C.W., nicht nach 1473]
+<-3-1-STOP->
+
+<-4-1-START->
+65 ungezählte Seiten, 1 ungezähltes Blatt; 29 cm (2°)
+<-500-START->Drucktypen identisch mit denen in: Liber bibliae moralis / Petrus Berchoriuis, 1474 (GW 3863); dort Druckervermerk: "per C. W. Civem Argentinensem"; es könnte sich um Clas Wencker oder Conrad Wolfach handeln (Voulliéme, Ernst: Die deutschen Drucker des fünfzehnten Jahrhunderts. Berlin, 1922, Seite 148)<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_A-886.html<-L-5-STOP-><-VI-5-START->BSB-Ink A-886<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/GW02904.htm<-L-5-STOP-><-VI-5-START->GW 02904<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ia01266000<-L-5-STOP-><-VI-5-START->ISTC ia01266000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+33 von 34 Blättern, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert) mit Sprenkelpapier, Linien-Goldprägung auf dem Rücken
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 2 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116931385105511<-L-11-STOP-><-VI-11-START->MUE Bong I 510 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991104057929705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Augustinus, Aurelius<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->C. W.<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991104057929705501<-DOI-STOP->
+<-SIGN-START->MUE Bong I 510 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04473nam a2200661 c 4500
+001 991104057929705501
+005 20211215175222.0
+008 100415s1473    fr            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/15.04.2010    
+035      |a (swissbib)060114207-41slsp_network    
+035      |a 060114207    |9 ExL    
+035      |a (IDSBB)005213505DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991104057929705501    
+035      |a (41SLSP_UBE)99116931385105511    |9 (41SLSP_UBE)99116931385105511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Augustinus, Aurelius    |c Heiliger    |d 354-430    |0 (DE-588)118505114    |e Verfasser    |4 aut    
+240 1 0  |a Enchiridion ad Laurentium sive de fide, spe et caritate    
+245 1 0  |a Incipit lib[er] encheridion sa[n]cti augustini d[e] fide spe & caritate    
+246 1    |i Titel in normalisierter Form    |a Incipit liber encheridion sancti Augustini de fide, spe & caritate    
+246 1 0  |a Liber encheridion sancti Augustini de fide, spe & caritate    
+246 1    |i Titel in moderner Orthografie    |a Incipit liber enchiridion sancti Augustini de fide, spe & caritate    
+246 1 0  |a Liber enchiridion sancti Augustini de fide, spe & caritate    
+246 1    |i Titel gemäss BSB-Ink, GW und ISTC    |a Enchiridion de fide, spe et caritate    
+264   1  |a [Strassburg]    |b [C.W.]    |c [nicht nach 1473]    
+300      |a 65 ungezählte Seiten, 1 ungezähltes Blatt    |c 29 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss Incipit    
+500      |a Impressum gemäss BSB-Ink, GW und ISTC    
+500      |a Drucktypen identisch mit denen in: Berchorius, Petrus: Liber bibliae moralis, 1474, (GW 3863); dort Druckervermerk: "per C. W. Ciuem Argentine[n]sem"; es könnte sich um Clas Wencker oder Conrad Wolfach handeln (siehe Voulliéme, Ernst: Die deutschen Drucker des fünfzehnten Jahrhunderts. Berlin, 1922, S. 148)    
+500      |a Signaturformel: [a-b¹⁰, c⁸, d⁶]    
+500      |a Blatt [d₅] verso und Blatt [d₆] unbedruckt    
+510 3    |a BSB-Ink    |c A-886    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_A-886.html    
+510 4    |a GW    |c 02904    |u https://www.gesamtkatalogderwiegendrucke.de/docs/GW02904.htm    
+510 4    |a ISTC    |c ia01266000    |u http://data.cerl.org/istc/ia01266000    
+530      |a Digitalisat (Exemplar der Universitäts- und Landesbibliothek Darmstadt)    |u http://tudigit.ulb.tu-darmstadt.de/show/inc-iv-304/0001    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert) mit Sprenkelpapier, Linien- Goldprägung sowie Titelschild auf dem Rücken    
+563      |a Vorsätze: vorne und hintern mit einem fliegenden Blatt    
+563      |a Masse Einband: 28.5 x 21.1 x 2.1 cm    
+563      |a Zustand Einband: Abspaltungen, Kratzer und Verfärbungen am Einbandleder, Retusche an Fehlstellen im Einbandpapier, Vorsätze im Falz verstärkt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 33 von 34 Blättern, handschriftliche Foliierung in Tinte (15./16. Jahrhundert), jeweils am Kopf der Recto-Seiten, von 78 (Blatt [a₁]) bis 110 (Blatt [d₅])! Handschriftliche Lagensignatur (gemäss GW) in Graphit jeweils auf der ersten Redto-Seite jeder Lage unten rechts; Papierfalz zwischen dem letzten Blatt [d₅] und Blatt [a₁] des folgenden Drucks gehört zur Vorsatzkonstruktion, rot ausgezeichnete Initialen, Rubrizierung    
+590      |a Zustand Buchblock: Pergamentverstärkungen (Makulatur) in den Lagenmitten entfernt    
+590      |a Blatt [d₆] (letztes Blatt, unbedruckt) fehlt    
+590      |a Auf einigen Seiten handschriftliche Annotationen in Tinte am unteren Ende der Seite    
+590      |a Zusammengebunden mit 2 weiteren Drucken in Sammelband    
+590      |a Frühere Signaturen: Inc IV 3; Inc 44; Hortin IV 5    
+610 2 4  |a Katholische Kirche    
+650   4  |a Glaube    
+650   4  |a Handbuch    
+650   4  |a Hoffnung    
+650   4  |a Liebe    
+700 1 2  |a Augustinus, Aurelius    |c Heiliger    |d 354-430    |t Enchiridion ad Laurentium sive de fide, spe et caritate    |0 (DE-588)4348402-5    
+700 0    |a C. W.    |d ca. 15. Jht.    |0 (DE-588)1168763711    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Bong I 510 : 2    |9 (41SLSP_UBE)99116931385105511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc IV 3 : 2    |c 404U3    |z Zusammengebunden mit 2 weiteren Drucken in Sammelband    |p 12    |j MUE Bong I 510 : 2    |b B404    |9 (41SLSP_UBE)99116931385105511    
+986      |a (41SLSP_UBE)99116931385105511    |9 (41SLSP_UBE)99116931385105511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116931385105511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116931385105511    
+991      |a Bongars: 00904    |5 IZ UBE/B400/15.04.2010    |9 LOCAL    |9 (41SLSP_UBE)99116931385105511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

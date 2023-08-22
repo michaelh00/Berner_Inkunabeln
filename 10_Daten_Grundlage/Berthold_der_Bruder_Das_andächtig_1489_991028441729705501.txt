@@ -1,0 +1,143 @@
+﻿<-1-1-START->
+Berthold der Bruder
+<-1-1-STOP->
+
+<-1-2-START->
+Das andächtig Zeitglöcklein des Lebens und Leidens Christi, nach dem 24 Stunden ausgeteilt [lateinisch]. — Ägidius (Erzbischof von Bourges): Hymnus in S. Veronicam. — Orationes quindecim
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Lateinischer Titel von "Das andächtig Zeitglöcklein": Horologium devotionis circa vitam Christi<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Augsburg: Anton Sorg, 1489
+<-3-1-STOP->
+
+<-4-1-START->
+228 ungezählte Seiten: 38 Illustrationen; 13 cm (12°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_B-396.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-396<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/GW04173.htm<-L-5-STOP-><-VI-5-START->GW 04173<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/ib00504000<-L-5-STOP-><-VI-5-START->ISTC ib00504000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+102 von 114 Blättern, Illustrationen koloriert, rot ausgezeichnete Initialen
+<-6-1-STOP->
+
+<-7-1-START->
+Flexibler Pergamenteinband (Makulatur einer mittelalterlichen Handschrift) mit vormals durchzogenen Bünden und Spuren von Verschlussbändern (Leder)
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Blätter a₁ (Titelblatt), a₈, m₄-m₅, m₇-m₈, n₄-n₅, o₁-o₂, o₉-o₁₀ fehlen (von 38 Illustrationen nur 34 vorhanden)
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116832599505511<-L-11-STOP-><-VI-11-START->MUE Rar alt 823<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991028441729705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Berthold der Bruder<-P-STOP->
+<-P-START->Ägidius (Erzbischof von Bourges)<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Augsburg<-O-STOP->
+<-P-START->Sorg, Anton<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991028441729705501<-DOI-STOP->
+<-SIGN-START->MUE Rar alt 823<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06978nam a2200661 c 4500
+001 991028441729705501
+005 20220222145210.0
+008 130325s1489    gw            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/25.03.2013/B400/vha    
+035      |a (swissbib)067845452-41slsp_network    
+035      |a 067845452    |9 ExL    
+035      |a (IDSBB)006097848DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991028441729705501    
+035      |a (41SLSP_UBE)99116832599505511    |9 (41SLSP_UBE)99116832599505511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+072   7  |a th    |2 SzZuIDS BS/BE    
+245 1 0  |a Horologiu[m] deuotionis circa vitam Christi    |b ; Orationes siue collecte illius preclarissime virginis beate Brigide quas dicebat ante ymaginem Jhesu crucifixi. Oratio pulcra De sancta veronica    
+246 1    |i Titel in normalisierter Form    |a Horologium devotionis circa vitam Christi    
+246 1    |i Beigefügter Titel in normalisierter Form    |a Orationes sive collecte illius preclarissime virginis Beate Brigide quas dicebat ante ymaginem Jhesu crucifixi    
+246 1    |i Beigefügter Titel in moderner Orthografie    |a Orationes sive collectae illius praeclarissimae virginis Beatae Brigidae quas dicebat ante imaginem Jesu crucifixi    
+246 1    |i Incipit    |a Incipit in horologium deuotionis prologus circa vita[m] [christ]i    
+246 1    |i Incipit in normalisierter Form    |a Incipit in horologium devotionis prologus circa vitam Christi    
+246 1    |i Titel gemäss BSB-Ink und GW    |a Zeitglöcklein des Lebens und Leidens Christi, lat    
+246 1    |i Titel gemäss ISTC    |a Horologium devotionis    
+264   1  |a Auguste    |b in Anthonij Sorg officina impressum    |c Anno domi[ni] Mcccc:lxxxix. [1489]    
+300      |a 228 ungezählte Seiten    |b 38 Illustrationen    |c 13 cm (12°)    
+336      |b txt    |2 rdacontent    
+337      |b c    |2 rdamedia    
+337      |b n    |2 rdamedia    
+338      |b cr    |2 rdacarrier    
+338      |b nc    |2 rdacarrier    
+500      |a Verfasser des Horologium devotionis (Das andächtig Zeitglöcklein): Berthold, der Bruder (Vorwort, Blatt a₂ recto)    
+500      |a Impressum gemäss Kolophon    
+500      |a Titel (Blatt a₁) und Impressum (Blatt o₁₀ verso) wegen fehlender Blätter gemäss Digitalisat der Kungliga bibliotek, Stockholm    
+500      |a Signaturformel: a-n⁸, o¹⁰    
+510 4    |a BSB-Ink    |c B-396    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_B-396.html    
+510 4    |a GW    |c 04173    |u https://www.gesamtkatalogderwiegendrucke.de/docs/GW04173.htm    
+510 4    |a ISTC    |c ib00504000    |u https://data.cerl.org/istc/ib00504000    
+530      |a Digitalisat (Exemplar der Kungliga bibliotek, Stockholm)    |u http://libris.kb.se/bib/18095590    
+563      |a Einbandbeschreibung: Flexibler Pergamenteinband (Makulatur einer mittelalterlichen Handschrift) mit (vormals) durchzogenen Bünden und Spuren von Verschlussbändern (Leder)    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse: 12.2 x 10.2 x 2.5 cm    
+563      |a Zustand Einband: Buchblock vollständig aus Einband gelöst, mit Fehlstellen im Einbandpergament am Rücken, Spuren eines vormalig zumindest teilweise verklebten Papierspiegels an der Innenseite des Pergamentumschlages (siehe auch anhaftende Papierreste an den Bünden und am Ansatzfalz der Rückenhinterklebung), Reste der Verschlussbänder aus Leder in den Einschlägen der hinteren Seite des Pergamentumschlages, hoch stehende Pergamentfragmente an eingerissenen Stellen der Bandschlitzung an der hinteren Seite des Pergamentumschlages, Fehlstellenergänzung aus Japanpapier    
+590      |a Buchblockbeschreibung: 102 von 114 Blättern, handschriftliche Foliierung in Tinte von 1 (Blatt a₂ recto) bis "C4", das heisst 104! (Blatt o₈ recto); Illustrationen koloriert, rot ausgezeichnete Initialen, sonst keine Rubrizierung    
+590      |a Lagenkonstruktion (zum Teil unklar wegen An- und Verklebung von Bättern): Lage a (Blätter a₂-a₇) besteht aus 3 Doppelblättern (a₂/a₇, a₃/a₆, a₄/a₅), Lage b (Blätter b₁-b₈) besteht aus 1 Doppelblatt (b₄/b₅) und 3 mit einem Papierfalz jeweils aussen zusammengesetzten oder verstärkten Blattkonstruktionen (b₁/b₈, b₂/b₇, b₃/b₆), Lage c-f bestehen jeweils aus 3 Doppelblättern (Blätter 2/7, 3/6, 4/5 jeder Lage) und einer mit einem Papierfalz aussen zusammengesetzten oder verstärkten Blattkonstruktion (jeweils Blätter 1 und 8), Lage g (Blätter g₁-g₈) in falscher Reihenfolge (Doppelblatt oder zusammengesetztes Blatt a₁/a₈ in Reihenfolge a₈/a₁), sonst entsprechend Lage c, Lage m (Blätter m₁-m₃, m₆-m₈) besteht aus 3 Doppelblättern (m₁/m₈, m₂/m₇, m₃/m₆), Lage n (Blätter n₁-n₃ und n₆) besteht aus Doppelblatt (n₃/n₆) und vorgeklebten Blättern n₁ und n₂, Lage o (Blätter o₃-o₈) besteht aus 3 Doppelblättern (o₃/o₆, o₄/o₇, o₅/o₈), Lagen n und o mit einem Verstärkungsfalz (Papier) aussen (nur an Blatt n₁ recto sichtbar)    
+590      |a Zustand Buchblock: Zahlreiche Verfleckungen und Griffspuren, geschlossen Risse (zum Beispiel an Blättern i₇ und i₈) und mit Papier überklebte Fehlstellen (zum Beispiel Blatt i₈)    
+590      |a Vorne und hinten jeweils ein unbedrucktes Blatt am Buchblock angeklebt (nicht mit dem Einband verbunden)    
+590      |a Exemplar unvollständig: Blätter a₁ (Titelblatt), a₈, m₄-m₅, m₇-m₈, n₄-n₅, o₁-o₂, o₉-o₁₀ fehlen (insgesamt 12 Blätter; von 38 Illustrationen nur 34 vorhanden)    
+590      |a Handschriftliche Foliierung springt von 95 auf 97 und von 97 auf 99 (deshalb am Ende 104 statt 102); Blätter 93, 94, 95 von späterer Hand korrigiert, ursprünglich als 92, 93, 94 bezeichnet    
+590      |a Handschriftliche Annotationen in Tinte auf dem vorgeklebten ersten Blatt (stark verblasst); wenige handschriftliche Annotationen auf den Blättern o₅ bis o₈    
+700 0    |a Berthold    |c der Bruder    |d ca. 13./14. Jh.    |0 (DE-588)118510061    |e Verfasser    |4 aut    
+700 0 2  |a Berthold    |c der Bruder    |d ca. 13./14. Jh.    |t <<Das>> andächtig Zeitglöcklein des Lebens und Leidens Christi, nach dem 24 Stunden ausgeteilt    |0 (DE-588)119555835X    
+700 0    |a Ägidius    |c Bourges, Erzbischof    |d 1243-1316    |0 (DE-588)118500805    |e Verfasser    |4 aut    
+700 0 2  |a Ägidius    |c Bourges, Erzbischof    |d 1243-1316    |t Hymnus in S. Veronicam    |0 (DE-588)1195665806    
+700 1    |a Sorg, Anton    |d 1430-1493    |0 (DE-588)12146556X    |e Drucker    |4 prt    
+730 0    |a Orationes quindecim    |0 (DE-588)119566527X    
+751      |a Augsburg    |0 (DE-588)4003614-5    
+852 4    |b B404    |c 404U3    |j MUE Rar alt 823    |9 (41SLSP_UBE)99116832599505511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Rar alt 823    |b B404    |9 (41SLSP_UBE)99116832599505511    
+986      |a (41SLSP_UBE)99116832599505511    |9 (41SLSP_UBE)99116832599505511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116832599505511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

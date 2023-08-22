@@ -1,0 +1,152 @@
+﻿<-1-1-START->
+Iustinus, Marcus Iunianus
+<-1-1-STOP->
+
+<-1-2-START->
+Epitome historiarum Philippicarum Pompei Trogi. — Florus, Lucius Annaeus: Epitome de Tito Livio
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Widmungsbrief zur Epitome de Tito Livio von Filippo Beroaldo an Petrus Maria Rubeus und einem Gedicht an den Leser<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Venedig: Giovanni Rosso und Albertino Viani, nicht vor 1488]
+<-500-START->Als Drucker auch Giovanni Rosso allein und als mögliches Druckdatum 1498 genannt<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 133 ungezählte Seiten; 31 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_I-670.html<-L-5-STOP-><-VI-5-START->BSB-Ink I-670<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M15648.htm<-L-5-STOP-><-VI-5-START->GW M15648<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ij00618500<-L-5-STOP-><-VI-5-START->ISTC ij00618500<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+67 von 68 Blättern, teilweise Initialen mit roter oder brauner Tinte eingetragen
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Pergamenteinband auf Kartondeckeln mit Buntpapier (Marmor, 18. Jahrhundert) und durchzogenen Bünden
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Familie von Lerber
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Ab urbe condita / Titus Livius. Venedig: Filippo Pinzi für Luca Antonio de Giunta, 1495
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Das unbedruckte Blatt a₁ fehlt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116842400105511<-L-11-STOP-><-VI-11-START->MUE Inc I 100 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991045377789705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Iustinus, Marcus Iunianus<-P-STOP->
+<-P-START->Florus, Lucius Annaeus<-P-STOP->
+<-P-START->Beroaldo, Filippo<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Rosso, Giovanni<-P-STOP->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Viani, Albertino<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Lerber (Familie)<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991045377789705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 100 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04863nam a2200673 c 4500
+001 991045377789705501
+005 20211215162244.0
+008 180118s1488    it |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/18.01.2018/B404/faf    
+035      |a (swissbib)07177680X-41slsp_network    
+035      |a 07177680X    |9 ExL    
+035      |a (IDSBB)006766621DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991045377789705501    
+035      |a (41SLSP_UBE)99116842400105511    |9 (41SLSP_UBE)99116842400105511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Iustinus, Marcus Iunianus    |d ca. 3. Jh.    |0 (DE-588)11871435X    |e Verfasser    |4 aut    
+245 1 0  |a [Epitome historiarum Philippicarum Pompei Trogi]    
+246 1    |i Incipit    |a Ivstini Historici Clarissimi In Trogi Pompeii Historias Exordivm    
+246 1    |i Incipit in normalisierter Form    |a Iustini historici clarissimi in Trogi Pompeii historias exordium    
+246 1    |i Explicit des 1. enthaltenen Werks    |a Iustini historici uiri clarissimi epithomatum in Trogi Pompeii historias liber .XLIIII. & ultimus feliciter finit    
+246 1    |i Explicit des 1. enthaltenen Werks in normalisierter Form    |a Iustini historici viri clarissimi epithomatum in Trogi Pompeii historias liber XLIIII. & ultimus feliciter finit    
+246 1    |i Incipit des 2. enthaltenen Werks in normalisierter Form    |a Lucii Flori gestorum Romanorum epithoma incipit    
+246 1    |i Titel gemäss BSB-Ink    |a Epitome in Trogi Pompeii historias    
+246 1    |i Titel gemäss GW    |a Epitome historiarum Trogi Pompeii    
+246 1    |i Titel gemäss ISTC    |a Epitomae in Trogi Pompeii historias    
+264   1  |a [Venedig]    |b [Giovanni Rosso und Albertino Viani]    |c [nicht vor 1488]    
+300      |a 1 ungezähltes Blatt, 133 ungezählte Seiten    |c 31 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit der Epitome de Tito Livio des Lucius Annaeus Florus, einem Widmungsbrief zu dieser von Filippo Beroaldo an Petrus Maria Rubeus und einem Gedicht an den Leser    
+500      |a Keine Titelseite, Titel gemäss GND    
+500      |a Impressum gemäss ISTC; als Drucker auch Giovanni Rosso allein und als mögliches Druckdatum 1498 genannt    
+500      |a Signaturformel: a⁸, b–l⁶    
+500      |a Blatt a₁ ist unbedruckt    
+505 0 0  |t Lvcii Flori Gestorvm Romanorvm Epithoma Incipit    
+510 4    |a BSB-Ink    |c I-670    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_I-670.html    
+510 4    |a GW    |c M15648    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M15648.htm    
+510 4    |a ISTC    |c ij00618500    |u http://data.cerl.org/istc/ij00618500    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0006/bsb00061206/images    
+561      |a Stempel auf Titelseite des vorgebundenen Drucks: Wappen der Familie von Lerber (Wegmann 4359 d)    
+563      |a Einbandbeschreibung: Halbbezogener Pergamenteinband auf Kartondeckeln mit Buntpapier (Marmor, 18. Jh.) und durchzogenen Bünden    
+563      |a Vorsätze: Vorne mit drei fliegenden Blättern, hinten mit zwei (ursprünglich drei) fliegenden Blättern    
+563      |a Masse Einband: 30.9 x 22.5 x 5.8 cm    
+563      |a Zustand Einband: Ecken gestaucht, Schäden am Buntpapier, Risse im Pergament an durchzogenen Bünden, hinteres Vorsatz im Falz mit Japanpapier verstärkt    
+590      |a Buchblockbeschreibung: 67 von 68 Blättern, vorgesehene Stellen für Initialen frei gelassen, teilweise Initialen mit roter oder brauner Tinte eingetragen    
+590      |a Zustand Buchblock: Starke Feuchtigkeitsränder an den Blattkanten vor allem am Fussschnitt, Schimmelverfleckungen an Lage k, Fehlstellen an letzten Blättern mit Büttenpapier ergänzt, Blatt l₆ vollflächig auf erstem fliegendem Blatt des hinteren Vorsatzes kaschiert    
+590      |a Unvollständiges Exemplar: Das unbedruckte Blatt a₁ fehlt    
+590      |a Zahlreiche handschriftliche Annotationen und Unterstreichungen in Tinte (teilweise beschnitten)    
+590      |a Zusammengebunden mit: T. Livii Decades / Titus Livius. Venedig : Filippo Pinzi, 1495    
+590      |a Frühere Signatur: Inc 200    
+700 1    |a Florus, Lucius Annaeus    |d ca. 2. Jh.    |0 (DE-588)118691910    |e Verfasser    |4 aut    
+700 1    |a Beroaldo, Filippo    |d 1453-1505    |0 (DE-588)118656589    |e Verfasser eines Vorworts    |4 wpr    
+700 1    |a Rosso, Giovanni    |0 (DE-588)1037570634    |e Drucker    |4 prt    
+700 1    |a Viani, Albertino    |0 (DE-588)1037573463    |e Drucker    |4 prt    
+700 3    |a Von Lerber    |c Familie    |0 (DE-588)1023759969    |e Früherer Eigentümer    |4 fmo    
+700 1 2  |a Iustinus, Marcus Iunianus    |d ca. 3. Jh.    |t Epitome historiarum Philippicarum Pompei Trogi    |0 (DE-588)4373176-4    
+700 1 2  |a Florus, Lucius Annaeus    |d ca. 2. Jh.    |t Epitome de Tito Livio    |0 (DE-588)4294894-0    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Inc I 100 : 2    |9 (41SLSP_UBE)99116842400105511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 1 weiteren Druck in Sammelband    |p 12    |j MUE Inc I 100 : 2    |b B404    |9 (41SLSP_UBE)99116842400105511    
+986      |a (41SLSP_UBE)99116842400105511    |9 (41SLSP_UBE)99116842400105511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116842400105511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

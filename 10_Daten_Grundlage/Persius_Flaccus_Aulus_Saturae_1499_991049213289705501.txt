@@ -1,0 +1,164 @@
+﻿<-1-1-START->
+Persius Flaccus, Aulus
+<-1-1-STOP->
+
+<-1-2-START->
+Saturae. — Cornutus: Commentum in Persium; Vita Pauli Persii Flaccii. — Britannico, Giovanni: In Persii satiras commentarii; Vita Persii. — Fonte, Bartolomeo: Commentum in Persium; Vita Persii
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Bei "Cornutus" handelt es sich nicht, wie im Druck zugeschrieben, um Lucius Annaeus Cornutus, sondern um einen Verfasser des 9./10. Jahrhunderts (auch Pseudo-Cornutus genannt)<-500-STOP->
+<-500-START->Mit Widmungsbriefen von Giovanni Bonardi an Angelus Marcellus und von Giovanni Britannico an Senat und Bürgerschaft von Brescia; mit Brief von Bartolomeo Fonte an Franciscus Saxetus<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Giovanni Tacuino, 04.11.1499
+<-3-1-STOP->
+
+<-4-1-START->
+LXIII Blätter, 1 ungezähltes Blatt: 1 Illustration, Druckermarke, Holzschnittinitialen; 30 cm (2°)
+<-500-START->Mit Titel-Holzschnitt (Persius umgeben von seinen Kommentatoren)<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_P-253.html<-L-5-STOP-><-VI-5-START->BSB-Ink P-253<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M31420.htm<-L-5-STOP-><-VI-5-START->GW M31420<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ip00362000<-L-5-STOP-><-VI-5-START->ISTC ip00362000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+62 von 64 Blättern; Titelillustration, Holzschnittinitialen auf Blatt III verso und Blatt IV recto sowie Druckermarke auf Blatt LXIII verso rot koloriert; Rubrizierung nur auf Blatt IV recto
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener flexibler Pergamenteinband (Manuskriptmakulatur, 16. Jahrhundert) mit durchzogenen Bünden und Spuren von Verschlussbändern, später hinzugefügter Lederüberzug am Rücken
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars; Pierre Daniel
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Blatt LXI und unbedrucktes letztes Blatt fehlen, beide jeweils durch ein unbedrucktes Blatt ersetzt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116692903705511<-L-11-STOP-><-VI-11-START->MUE Bong VI 247<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991049213289705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Persius Flaccus, Aulus<-P-STOP->
+<-P-START->Cornutus<-P-STOP->
+<-P-START->Bonardi, Giovanni<-P-STOP->
+<-P-START->Britannico, Giovanni<-P-STOP->
+<-P-START->Fonte, Bartolomeo<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Tacuino, Giovanni<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-P-START->Daniel, Pierre<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991049213289705501<-DOI-STOP->
+<-SIGN-START->MUE Bong VI 247<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06190nam a2200781 c 4500
+001 991049213289705501
+005 20221206174139.0
+008 100716s1499    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/16.07.2010    
+035      |a (swissbib)061472980-41slsp_network    
+035      |a 061472980    |9 ExL    
+035      |a (IDSBB)005279831DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991049213289705501    
+035      |a (41SLSP_UBE)99116692903705511    |9 (41SLSP_UBE)99116692903705511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Persius Flaccus, Aulus    |d 34-62    |0 (DE-588)118592815    |e Verfasser    |4 aut    
+240 1 0  |a Saturae    
+245 1 0  |a Persius cum tribus comentariis    |c Cornuti phylosophi eius pr[a]eceptoris co[m]me[n]tarii. Ioannis Britannici Brixiani co[m]entarii. Bartolomei Foncii co[m]mentarii    
+246 1    |i Titel in moderner Orthografie    |a Persius cum tribus commentariis    
+246 1    |i Incipit    |a Pavli Flacci Persei Poetae Satyrarvm Opvs    
+246 1    |i Incipit in normalisierter Form    |a Pauli Flacci Persei poetae Satyrarum opus    
+246 1 0  |a Satyrarum opus    
+246 1    |i Titel gemäss BSB-Ink    |a Satirae    
+246 1    |i Titel gemäss GW und ISTC    |a Satyrae    
+264   1  |a Impressum Venetiis    |b sumptu diligentissimi uiri Ioannis de Tridino    |c Anno ... M.CCCC.XCIX. Die uero. IIII. Me[n]sis Noue[m]bris ... [04.11.1499]    
+300      |a LXIII Blätter, 1 ungezähltes Blatt    |b 1 Illustration    |c 30 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Titel-Holzschnitt (Persius umgeben von seinen Kommentatoren)    
+500      |a Lucius Annaeus Cornutus ist nicht Verfasser des ihm zugeschriebenen Kommentars, sondern ein Verfasser des 9./10. Jahrhunderts (Pseudo-Cornutus)    
+500      |a Auf Blatt A₂ recto Widmungsbrief von Giovanni Bonardi an Angelus Marcellus; auf Blatt A₂ verso Widmungsbrief von Giovanni Britannico an Senat und Bürgerschaft von Brescia; auf Blatt LXIII recto Brief von Bartolomeo Fonte an Franciscus Saxetus    
+500      |a Druckermarke am Ende    
+500      |a Signaturformel: A⁶, b-k⁶, l⁴    
+500      |a Blatt l₄ unbedruckt    
+500      |a Holzschnittinitialen auf den Blättern II, III und IV recto    
+505 0 0  |g Blatt A₂ recto    |t Vita Pavli Persii Flacci Eqvitis Romani Per Cornvtvm Phylosophvm Eivs Preceptorem Foeliciter Incipit    |g Blatt A₃ recto    |t Vita Persii    |r Per Iohannem Britannicvm    |g Blatt A₃ recto    |t Vita Persii    |r Per Bartolomevm Foncivm    
+510 4    |a BSB-Ink    |c P-253    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_P-253.html    
+510 4    |a GW    |c M31420    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M31420.htm    
+510 4    |a ISTC    |c ip00362000    |u http://data.cerl.org/istc/ip00362000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00012314/image_3    
+561      |a Handschriftlicher Besitzvermerk auf der Titelseite: "Ex libb. Petri Danielis Aurelii 1563."    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Ganzbezogener flexibler Pergamenteinband (Manuskriptmakulatur, 16. Jahrhundert) mit durchzogenen Bünden und Spuren von Verschlussbändern, später hinzugefügter Lederüberzug am Rücken mit Linien-Blindprägung und Titeldruck in Blindprägung auf dem Rücken: "Persivs Cvm Commentar."; darunter in Tinte: "1499. Ven:"    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 30 x 21.8 x 1.5 cm    
+563      |a Zustand Einband: Einbandpergament deformiert (Buchblock ist nicht mehr vollständig geschützt), Schäden im später hinzugefügten Lederrücken, fliegende Blätter der Vorsätze durch Ledereinschläge verbräunt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 62 von 64 Blättern; Pergamentfalz (Manuskriptmakulatur) vor Titelblatt A₁ und nach letztem Blatt l₄ gehört zur Vorsatzkonstruktion; letzte Lage mit unbedrucktem Doppelblatt ergänzt; Titelillustration, Holzschnittinitialen auf Blatt III verso und Blatt IV recto sowie Druckermarke auf Blatt LXIII verso rot koloriert; Rubrizierung nur auf Blatt IV recto (Kopftitel und hervorgehobener Beginn der Saturae)    
+590      |a Zustand Buchblock: Japanpapierüberklebung im Falz zwischen letztem Blatt und fliegendem Blatt des Vorsatzes, zahlreiche Verfleckungen und Feuchtigkeitsränder    
+590      |a Unvollständiges Exemplar: Blatt LXI und letztes Blatt (unbedruckt) fehlen, beide jeweils durch unbedrucktes Blatt ersetzt    
+590      |a Handschriftliche Annotationen in Tinte, teils von Daniel, teils von unbekannter Hand; Federzeichnungen am Rand auf den Blättern XXIII recto und XXIV recto    
+590      |a Historische Signatur in Graphit auf vorderem Spiegel: "Poët 46.", in Tinte auf der Titelseite: "Poet 56"    
+590      |a Frühere Signaturen: Inc I 42; Inc 207; Hortin XII 25    
+655   4  |a Kommentar    
+700 1 2  |a Persius Flaccus, Aulus    |d 34-62    |t Saturae    |0 (DE-588)4271837-5    
+700 0 2  |a Cornutus    |d ca. 9./10. Jh.    |t Commentum in Persium    |0 (DE-588)1177302950    
+700 0 2  |a Cornutus    |d ca. 9./10. Jh.    |t Vita Pauli Persii Flaccii    |0 (DE-588)1177407914    
+700 1 2  |a Britannico, Giovanni    |d -1518    |t In Persii satiras commentarii    |0 (DE-588)1177311070    
+700 1 2  |a Britannico, Giovanni    |d -1518    |t Vita Persii    |0 (DE-588)1177414538    
+700 1 2  |a Fonte, Bartolomeo    |d 1445-1513    |t Commentum in Persium    |0 (DE-588)1177311488    
+700 1 2  |a Fonte, Bartolomeo    |d 1445-1513    |t Vita Persii    |0 (DE-588)1177415224    
+700 1    |a Cornutus    |d ca. 9./10. Jh.    |0 (DE-588)120082144    |4 wac    
+700 1    |a Bonardi, Giovanni    |d ca. 15./16. Jh.    |0 (DE-588)100969844    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Tacuino, Giovanni    |d 14XX-15XX    |0 (DE-588)119845156    |e Verlag    |e Drucker    |4 pbl    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Daniel, Pierre    |d 1530-1603    |0 (DE-588)101087934    |e Früherer Eigentümer    |4 fmo    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Bong VI 247    |9 (41SLSP_UBE)99116692903705511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc I 42    |c 404U3    |p 12    |j MUE Bong VI 247    |b B404    |9 (41SLSP_UBE)99116692903705511    
+986      |a (41SLSP_UBE)99116692903705511    |9 (41SLSP_UBE)99116692903705511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116692903705511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116692903705511    
+991      |a Bongars: 10859    |5 IZ UBE/B400/16.07.2010    |9 local    |9 (41SLSP_UBE)99116692903705511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

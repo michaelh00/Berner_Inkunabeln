@@ -1,0 +1,143 @@
+﻿<-1-1-START->
+Trithemius, Johannes
+<-1-1-STOP->
+
+<-1-2-START->
+De scriptoribus ecclesiasticis
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Brief des Herausgebers Johannes Heynlin an den Drucker Johannes Amerbach vom 28. August 1494, Widmungsbrief des Verfassers an Johannes de Dalberg, Brief des Verfassers an Albertus Morderer und Gedicht auf das Werk von Sebastian Brant<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Basel: [Johannes Amerbach], 1494
+<-3-1-STOP->
+
+<-4-1-START->
+12 ungezählte Seiten, 140 Blätter, 2 ungezählte Seiten, 1 ungezähltes Blatt; 32 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_T-459.html<-L-5-STOP-><-VI-5-START->BSB-Ink T-459<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M47578.htm<-L-5-STOP-><-VI-5-START->GW M47578<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/it00452000<-L-5-STOP-><-VI-5-START->ISTC it00452000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+147 von 148 Blättern, rot und blau ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Pergamenteinband auf Kartondeckeln (17. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Denis Briçonnet; Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Das unbedruckte Blatt u₈ fehlt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116725682205511<-L-11-STOP-><-VI-11-START->MUE Bong V 931<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991089738129705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Trithemius, Johannes<-P-STOP->
+<-P-START->Heynlin, Johannes<-P-STOP->
+<-P-START->Brant, Sebastian<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Amerbach, Johannes<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Briçonnet, Denis<-P-STOP->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991089738129705501<-DOI-STOP->
+<-SIGN-START->MUE Bong V 931<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04136nam a2200577 c 4500
+001 991089738129705501
+005 20211215175635.0
+008 100803s1494    sz            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/26.07.2018/B404/faf    
+035      |a (swissbib)062308998-41slsp_network    
+035      |a 062308998    |9 ExL    
+035      |a (IDSBB)005287264DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991089738129705501    
+035      |a (41SLSP_UBE)99116725682205511    |9 (41SLSP_UBE)99116725682205511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Trithemius, Johannes    |d 1462-1516    |0 (DE-588)118642960    |e Verfasser    |4 aut    
+240 1 0  |a De scriptoribus ecclesiasticis    
+245 1 0  |a Liber de Scriptoribus Ecclesiasticis    
+246 1    |i Kolophon    |a Explicitus est liber de Scriptoribus ecclesiasticis disertissimi patris domini Ioha[n]nis de Tritte[n]hem abbatis Spanheme[n]sis    
+264   1  |a Basileæ    |b [Johannes Amerbach]    |c Anno domini Millesimo quadringentesimo nonagesimoquarto [1494]    
+300      |a 12 ungezählte Seiten, 140 Blätter, 2 ungezählte Seiten, 1 ungezähltes Blatt    |c 32 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Brief des Herausgebers Johannes Heynlin an den Drucker Johannes Amerbach vom 28. August 1494, Register der Autoren, Widmungsbrief des Verfassers an Johannes de Dalberg, Brief des Verfassers an Albertus Morderer und Gedicht auf das Werk von Sebastian Brant    
+500      |a Druckort und Druckjahr gemäss Kolophon    
+500      |a Signaturformel: A⁶, a⁸, b⁶, c⁸, d⁶, e-f⁸, g⁶h⁸-t⁶u⁸    
+500      |a Blatt u₈ ist unbedruckt    
+510 4    |a BSB-Ink    |c T-459    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_T-459.html    
+510 4    |a GW    |c M47578    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M47578.htm    
+510 4    |a ISTC    |c it00452000    |u http://data.cerl.org/istc/it00452000    
+530      |a Digitalisat (Exemplar der Universitätsbibliothek Basel)    |u http://doi.org/10.3931/e-rara-10648    
+561      |a Handschriftlicher Besitzvermerk auf der Titelseite: "Ex cathalogo librorum Jacobi Bongars"; auf Blatt u₇ verso: "Dionisius ep[iscop]us tholonen[sis]"    
+563      |a Einbandbeschreibung: Ganzbezogener Pergamenteinband auf Kartondeckeln (17. Jh.)    
+563      |a Vorsätze: Vorne und hinten mit zwei fliegenden Blättern    
+563      |a Masse Einband: 31.2 x 22.2 x 3.7 cm    
+563      |a Zustand Einband: Japanpapierüberklebungen am Rücken und den Deckelecken, Fälze beider Vorsätze mit Japanpapierüberklebungen, Japanpapierergänzungen am hinteren Spiegel    
+590      |a Buchblockbeschreibung: 148 von 148 Blättern, rot und blau ausgezeichnete Initialen, Rubrizierung (rote und blaue Paragraphenzeichen)    
+590      |a Zustand Buchblock: Abrieb an blauem Farbauftrag der Initialen (z. B. Blatt u₅ verso), massive Feuchtigkeitsränder, Schädlingsfrass mit geringem Textverlust    
+590      |a Unvollständiges Exemplar: Das unbedruckte Blatt u₈ fehlt    
+590      |a Getilgter Besitzvermerk von 1543 in Tinte auf der Titelseite, dazu Vermerk: "Emptus x sch"    
+590      |a Wenige handschriftliche Annotationen und Unterstreichungen in Tinte, auf Blatt 106 recto Unterstreichungen in Gelb    
+590      |a Historische Signatur auf vorderem Spiegel: "Patr: N°. 267. 156."; aufgeklebtes Signaturschild auf der Titelseite: "Patr. 267. 156."    
+590      |a Frühere Signaturen: Inc 347; Inc III 22; IV 6    
+700 1    |a Heynlin, Johannes    |d 1430-1496    |0 (DE-588)119011700    |e Herausgeber    |4 edt    
+700 1    |a Brant, Sebastian    |d 1458-1521    |0 (DE-588)118514474    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Amerbach, Johannes    |d 1440-1513    |0 (DE-588)123073189    |e Drucker    |4 prt    
+700 1    |a Briçonnet, Denis    |d 1473-1535    |0 (DE-588)1042865582    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 1 2  |a Trithemius, Johannes    |d 1462-1516    |t De scriptoribus ecclesiasticis    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Bong V 931    |9 (41SLSP_UBE)99116725682205511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc III 22    |c 404U3    |p 12    |j MUE Bong V 931    |b B404    |9 (41SLSP_UBE)99116725682205511    
+986      |a (41SLSP_UBE)99116725682205511    |9 (41SLSP_UBE)99116725682205511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116725682205511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116725682205511    
+991      |a Bongars: 13919    |5 IZ UBE/B400/03.08.2010    |9 LOCAL    |9 (41SLSP_UBE)99116725682205511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

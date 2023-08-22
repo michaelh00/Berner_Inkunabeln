@@ -1,0 +1,133 @@
+﻿<-1-1-START->
+Ordo iudiciarius [deutsch]
+<-1-1-STOP->
+
+<-1-2-START->
+. — Wie man Höfe, Zehnte und Mühlen verleihen soll
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Heidelberg: Heinrich Knoblochtzer, 1490
+<-500-START->Druckvariante zu GW M16365 (vergleiche Ende der ersten Zeile auf zweitem Blatt)<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+27 ungezählte Seiten: Holzschnittinitialen; 21 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M16367.htm<-L-5-STOP-><-VI-5-START->GW M16367<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/io00088980<-L-5-STOP-><-VI-5-START->ISTC io00088980<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+13 von 14 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Pergamenteinband auf Kartondeckeln mit Marmorpapier (20. Jahrhundert), Buchbinder: "W. Schüpbach, 1933"
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Letztes Blatt fehlt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116782462905511<-L-11-STOP-><-VI-11-START->MUE Inc V 200<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991097140699705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Heidelberg<-O-STOP->
+<-P-START->Knoblochtzer, Heinrich<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-P-START->Schüpbach, W.<-P-STOP->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991097140699705501<-DOI-STOP->
+<-SIGN-START->MUE Inc V 200<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04854nam a2200529 c 4500
+001 991097140699705501
+005 20211215184152.0
+008 181025s1490    gw |||||      00| ||ger d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/25.10.2018/B404/vha    
+035      |a (swissbib)075049139-41slsp_network    
+035      |a 075049139    |9 ExL    
+035      |a (IDSBB)006842010DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991097140699705501    
+035      |a (41SLSP_UBE)99116782462905511    |9 (41SLSP_UBE)99116782462905511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+130 0    |a Ordo iudiciarius    |0 (DE-588)4344677-2    
+245 1 0  |a <<Ein>> ordnung vnnd vnderweisunge Wie sich ein ieglicher halten soll vor dem rechten    
+246 1    |i Titel in normalisierter Form    |a <<Ein>> Ordnung unnd Underweisunge, wie sich ein jeglicher halten soll vor dem Rechten    
+246 1    |i Titel in moderner Orthografie    |a <<Ein>> Ordnung und Unterweisungen, wie sich ein jeglicher halten soll vor dem Rechten    
+246 1    |i Incipit    |a In dießem nachgesetzten tractat wirt gemelt/ ein kurtzbegriffen ordnung vn[d] volfuru[n]g: zubeschirme[n] vnd handeln ein yde sach in recht    |b noch dem nutzlichsten vnd kurtzsten: Auß Babstlichen vnd Keiserlichen gesatze[n] entsprossen    
+246 1    |i Incipit in normalisierter Form    |a In dießem nachgesetzten Tractat wirt gemelt ein kurtzbegriffen Ordnung und Volfurung: zubeschirmen und handeln ein yde Sach in Recht    |b noch dem nutzlichsten und kurtzsten auß babstlichen und keiserlichen Gesatzen entsprossen    
+246 1    |i Incipit in moderner Orthografie    |a In diesem nachgesetzten Traktat wird gemeldt ein kurzbegriffen Ordnung und Wohlfuhrung, zu beschirmen und handeln ein jede Sach in Recht    |b nach dem nützlichsten und kürzesten aus päpstlichen und kaiserlichen Gesetzen entsprossen    
+246 1    |i Titel gemäss ISTC    |a Ordnung zu reden: Ordo judiciarius [German]    
+264   1  |a Getruckt zu Heidelberg    |b von Heinrico Knoblochtzern    |c Anno .M.CCCC.XC. [1490]    
+300      |a 27 ungezählte Seiten    |c 21 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Signaturformel: <1–4>⁸, <5–8>⁶    
+500      |a 2. bis 5. Blatt der ersten Lage nummeriert von 1 bis 4; 1. bis 4. Blatt der zweiten Lage nummeriert von 5 bis 8 (statt 7: vij)    
+500      |a Blatt <1-4>₁ (Titelblatt) verso und <5-8>₆ (letztes Blatt) unbedruckt    
+500      |a Holzschnittinitialen ("I" auf Blatt <1-4>₂ recto, "Z" auf Blatt <5-8>₃ recto)    
+500      |a Zwei Druckvarianten (GW M16365, BSB-Ink O-76, mit digitalisiertem Exemplar der Bayerischen Staatsbibliothek und GW M16367 mit digitalisiertem Exemplar der Staatsbibliothek zu Berlin), gut unterscheidbar auf zweitem Blatt    
+505 0 0  |g Blatt <5-8>₃ recto    |t Wie mann hoef. zehenden. vnnd mulen verleyhen soll    
+510 4    |a GW    |c M16367    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M16367.htm    
+510 4    |a ISTC    |c io00088980    |u http://data.cerl.org/istc/io00088980    
+530      |a Digitalisat (Exemplar der Staatsbibliothek zu Berlin)    |u http://resolver.staatsbibliothek-berlin.de/SBB0002051B00000000    
+563      |a Einbandbeschreibung: Halbbezogener Pergamenteinband auf Kartondeckeln mit Marmorpapier (20. Jahrhundert)    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Auf vorderem fliegenden Blatt ein Brief geklebt (1 Blatt) von der "Kommission für den Gesamtkatalog der Wiegendrucke, Geschäftsstelle, Berlin ... (Preussische Staatsbibliothek)", "An den Oberbibliothekar der Stadt- und Universitätsbibliothek, Bern", datiert: "11. Juni 1930", mit Bestätigung, dass das Berner Exemplar dem Berliner entspreche, und dass beiden das Blatt 14 fehle (mit Verweis auf eine Beschreibung nach dem Exemplar der Landesbibliothek Stuttgart)    
+563      |a Masse Einband: 20.6 x 15.4 x 0.6 cm    
+563      |a Zustand Einband: Heftung und Einband neu (20. Jahrhundert); Bleistift-Notiz auf hinterem Spiegel (ausradiert): "Einband von Bibl.-Buchbinder W. Schüpbach, 1933."    
+590      |a Buchblockbeschreibung: 13 von 14 Blättern, Blinddruck an Titelblatt recto (Wörter, unleserlich), äusserstes Doppelblatt der Lage <1-4> innen mit Büttenpapier-Falz verstärkt, keine Rubrizierung    
+590      |a Zustand Buchblock: Riss an Titelblatt mit Büttenpapier überklebt, Blatt <5-8>₁ mit Ablösespuren einer vormaligen Verklebung als Einzelblatt mit Büttenpapier-Falz vor Lage <5-8> vorgeklebt, Feuchtigkeitsränder, Tintenverfleckungen an Blättern <1-4>₁ und <1-4>₂ mit beginnendem Tintenfrass    
+700 1    |a Knoblochtzer, Heinrich    |d 1445-1500    |0 (DE-588)119011557    |e Drucker    |4 prt    
+700 1    |a Schüpbach, W.    |e Buchbinder    |4 bnd    
+751      |a Heidelberg    |0 (DE-588)4023996-2    
+852 4    |b B404    |c 404U3    |j MUE Inc V 200    |9 (41SLSP_UBE)99116782462905511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc V 200    |b B404    |9 (41SLSP_UBE)99116782462905511    
+986      |a (41SLSP_UBE)99116782462905511    |9 (41SLSP_UBE)99116782462905511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116782462905511    
+991      |a AAK: 662297    |5 IZ UBE/25.10.2018/B404/vha    |9 LOCAL    |9 (41SLSP_UBE)99116782462905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

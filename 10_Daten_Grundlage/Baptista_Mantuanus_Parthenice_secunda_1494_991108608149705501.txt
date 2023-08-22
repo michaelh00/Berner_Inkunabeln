@@ -1,0 +1,143 @@
+﻿<-1-1-START->
+Baptista Mantuanus
+<-1-1-STOP->
+
+<-1-2-START->
+Parthenice secunda
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Widmung des Autors an Bernardus Bembus<-500-STOP->
+<-500-START->Mit Gedicht des Herausgebers Francesco Cereti<-500-STOP->
+<-500-START->Beigefügte Gedichte von Baptista Mantuanus (siehe GW, fehlen im vorliegenden Exemplar): In Robertum Severinatem panegyricum carmen. — Somnium Romanum. — Epigrammata ad Falconem. — In divum Albertum Carmelitam carmen. — De vita divi Ludovici Morbioli. — De contemnenda morte<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Paris: Georg Wolff [und Jean Philippi (de Cruzenach)], 1494
+<-500-START->Mit Druckermarke von Georg Wolff, zweiter Drucker gemäss GW und ISTC<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+233 ungezählte Seiten: Druckermarke; 22 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW03291.htm<-L-5-STOP-><-VI-5-START->GW 03291<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib00067000<-L-5-STOP-><-VI-5-START->ISTC ib00067000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+46 von 117 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Holzdeckel (blindgeprägte florale Muster)
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 3 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: nur Lagen A-G vorhanden (erstes Werk); Blätter E₃₋₄ und Lagen H-R fehlen (69 Blätter mit beigefügten Gedichten)
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116774332105511<-L-11-STOP-><-VI-11-START->MUE Inc IV 41 : 4<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991108608149705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Baptista Mantuanus<-P-STOP->
+<-P-START->Cereti, Francesco<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Paris<-O-STOP->
+<-P-START->Wolff, Georg<-P-STOP->
+<-O-START->Paris<-O-STOP->
+<-P-START->Philippi, Jean<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991108608149705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 41 : 4<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03308nam a2200553 c 4500
+001 991108608149705501
+005 20211215184336.0
+007 cr#|||||||||||
+008 130501s1494    fr            00| | lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/24.07.2014/B400/vha    
+024 7    |a 10.3931/e-rara-91789    |2 doi    
+035      |a (swissbib)066213444-41slsp_network    
+035      |a 066213444    |9 ExL    
+035      |a (IDSBB)006121848DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991108608149705501    
+035      |a (41SLSP_UBE)99116774332105511    |9 (41SLSP_UBE)99116774332105511    
+040      |a SzZuIDS BS/BE B400    |e rda    |d CH-ZuSLS    
+100 0    |a Baptista    |c Mantuanus    |d 1447-1516    |0 (DE-588)118615858    |e Verfasser    |4 aut    
+240 1 0  |a Parthenice secunda    
+245 1 0  |a Fratris Baptistae Mantuani Carmelitae Theologi atque Poetae celeberrimi opus Insigne vitam & martyrium sanctae Catharinae virginis martyrisque complectens ...    
+246 1 0  |a Opus insigne vitam & martyrium sanctae Catharinae virginis martyrisque complectens    
+246 1    |i Titel gemäss GW und ISTC    |a Parthenice secunda sive Catharinaria    
+264   1  |a Impressum Parisiis In uivo sancti Iacobi, In signo s[an]cte Barbare    |b [Georg Wolf und Johann Philippi de Cruzenach]    |c An. salutis. M.CCCC.XCIIII. [1494]    
+300      |a 96 ungezählte Seiten    |c 22 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+337      |b c    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+338      |b cr    |2 rdacarrier    
+500      |a Herausgeber gemäss GW und ISTC: Franciscus Ceretus    
+500      |a Drucker gemäss GW und ISTC; Signet von Georg Wolff auf Titelseite (Meyer, S. 139, Nr. 162); Druckort gemäss Kolophon    
+500      |a Signaturformel: A–C⁸, D–G⁶    
+510 4    |a GW    |c 03291    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW03291.htm    
+510 4    |a ISTC    |c ib00067000    |u http://data.cerl.org/istc/ib00067000    
+530      |a Digitalisat (Exemplar der Bibliothèque municipale de Lyon)    |u https://books.google.fr/books?id=8DCNmOlVGmcC&hl=de&pg=PP1#v=onepage&q&f=false    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Holzdeckel (blindgeprägte florale Muster)    
+563      |a Detaillierte Beschreibung im Inkunabel-Einbandkatalog (Lindt/Mülinen)    
+590      |a Buchblockbeschreibung: 46 von 48 Blättern, keine Rubrizierung, vorgesehene Stellen für Initialen freigelassen    
+590      |a Unvollständiges Exemplar: Enthält nur Lagen A-G (erstes Werk). Andere Exemplare enthalten begefügte Werke, siehe GW und ISTC. Lage E ist unvollständig (Blätter E₃₋₄ fehlen, stattdessen 4 unbedruckte Blätter eingebunden)    
+590      |a Handschrifliche Annotationen in Tinte und Graphit    
+590      |a Zusammengebunden mit 3 weiteren Drucken in Sammelband    
+590      |a Historische Signatur auf vorderem Spiegel: "A 14"    
+700 0 2  |a Baptista    |c Mantuanus    |d 1447-1516    |t Parthenice secunda    |0 (DE-588)1142572064    
+700 1    |a Cereti, Francesco    |d 14XX-15XX    |0 (DE-588)119639386    |e Herausgeber    |4 edt    
+700 1    |a Wolff, Georg    |d 14XX-1499    |0 (DE-588)138461791    |e Drucker    |4 prt    
+700 1    |a Philippi, Jean    |d 14XX-15XX    |0 (DE-588)1037620895    |e Drucker    |4 prt    
+751      |a Paris    |0 (DE-588)4044660-8    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 41 : 4    |9 (41SLSP_UBE)99116774332105511    
+856 4    |u https://doi.org/10.3931/e-rara-91789    |z Digitalisat in e-rara    
+900      |a IDSIxunikat    
+900      |a IDSIxhybrid-el    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc IV 41 : 4    |b B404    |9 (41SLSP_UBE)99116774332105511    
+986      |a (41SLSP_UBE)99116774332105511    |9 (41SLSP_UBE)99116774332105511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116774332105511    
+990      |f erarabe    |9 local    |9 (41SLSP_UBE)99116774332105511    
+990      |f lza-cc0    |9 local    |9 (41SLSP_UBE)99116774332105511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

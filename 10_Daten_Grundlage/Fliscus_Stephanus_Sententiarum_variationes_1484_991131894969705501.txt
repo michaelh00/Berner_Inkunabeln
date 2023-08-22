@@ -1,0 +1,130 @@
+﻿<-1-1-START->
+Fliscus, Stephanus
+<-1-1-STOP->
+
+<-1-2-START->
+Sententiarum variationes sive Synonyma
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Verzeichnis deutscher Sätze, jeweils in mehreren Varianten ins Lateinische übersetzt<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Speyer]: [Peter Drach der Mittlere], 1484
+<-3-1-STOP->
+
+<-4-1-START->
+252 ungezählte Seiten: Druckermarke; 19 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW10007.htm<-L-5-STOP-><-VI-5-START->GW 10007<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/if00202700<-L-5-STOP-><-VI-5-START->ISTC if00202700<-VI-5-STOP->; <-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_F-144.html<-L-5-STOP-><-VI-5-START->BSB-Ink F-144<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+125 von 126 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Pergamenteinband auf Kartondeckeln (18. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Unbedrucktes Blatt [a₁] (gemäss GW) fehlt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116708400205511<-L-11-STOP-><-VI-11-START->MUE Inc IV 29<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991131894969705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Fliscus, Stephanus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Speyer<-O-STOP->
+<-P-START->Drach, Peter (der Mittlere)<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991131894969705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 29<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 02993nam a2200505 c 4500
+001 991131894969705501
+005 20230207112221.0
+008 160916s1484    gw |||||      00| ||ger d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/16.09.2016/B404/az    
+035      |a (swissbib)07063887X-41slsp_network    
+035      |a 07063887X    |9 ExL    
+035      |a (IDSBB)006621833DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991131894969705501    
+035      |a (41SLSP_UBE)99116708400205511    |9 (41SLSP_UBE)99116708400205511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+041 0    |a ger    |a lat    
+100 1    |a Fliscus, Stephanus    |d ca. 15. Jh.    |0 (DE-588)100787487    |e Verfasser    |4 aut    
+245 1 0  |a [Sententiarum variationes sive Synonyma]    |c [Stephanus Fliscus]    
+246 1    |i Explicit    |a Finit hic Stephanus Fliscus de Sontino vir desertus. et mira eloquij dignitate fulgens foeliciter .Anno. Mcccclxxxiiij    
+246 1    |i Titel gemäss ISTC    |a Sententiarum variationes, seu Synonyma    
+264   1  |a [Speyer]    |b [Peter Drach]    |c Anno. Mcccclxxxiiij [1484]    
+300      |a 252 ungezählte Seiten    |c 19 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss BSB-Ink und GW    
+500      |a Druckermarke am Ende, Druckort gemäss BSB-Ink, GW und ISTC    
+500      |a Signaturformel gemäss GW: [a–p⁸, q⁶]     
+500      |a Blatt a₁ (gemäss GW) und Blatt [n₇]=[102] verso sind unbedruckt    
+510 4    |a GW    |c 10007    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW10007.htm    
+510 4    |a ISTC    |c if00202700    |u http://data.cerl.org/istc/if00202700    
+510 4    |a BSB-Ink    |c F-144    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_F-144.html    
+530      |a Digitalisat (Exemplar der Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0003/bsb00034320/images    
+546      |a Text in Latein und Deutsch    
+563      |a Einbandbeschreibung: Ganzbezogener Pergamenteinband auf Kartondeckeln (18. Jh.)    
+563      |a Vorsätze: vorne mit 3 fliegende Blätter und hinten mit 2 fliegende Blätter    
+563      |a Masse Einband: 19 x 14.5 x 2.5 cm    
+590      |a Buchblockbeschreibung: 125 von 126 Blättern, Foliierung in Graphit, jeweils rechts oben auf den Recto-Seiten (nur auf Blättern [1-101], das heisst [2-102], weil das fehlende Blatt [a₁] (gemäss GW) nicht berücksichtigt wurde)    
+590      |a Zustand Buchblock: Blätter Am Fuss mit Büttenpapier ergänzt (1. Hälfte)    
+590      |a Unbedrucktes Blatt [a₁] (gemäss GW) fehlt    
+590      |a Historische Signatur auf vorderem Spiegel: "Litt 94"; auf Blatt [a₂] recto "Lit. N° 94."    
+590      |a Frühere Signatur auf vorderem fliegendem Vorsatzblatt: Inc. 412    
+700 1 2  |a Fliscus, Stephanus    |d ca. 15. Jh.    |t Sententiarum variationes sive Synonyma    |0 (DE-588)1132175291    
+700 1    |a Drach, Peter    |d 1455-1504    |0 (DE-588)124571905    |e Drucker    |4 prt    
+751      |a Speyer    |0 (DE-588)4056179-3    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 29    |9 (41SLSP_UBE)99116708400205511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc IV 29    |b B404    |9 (41SLSP_UBE)99116708400205511    
+986      |a (41SLSP_UBE)99116708400205511    |9 (41SLSP_UBE)99116708400205511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116708400205511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

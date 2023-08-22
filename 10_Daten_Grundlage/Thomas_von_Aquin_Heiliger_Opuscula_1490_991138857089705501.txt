@@ -1,0 +1,152 @@
+﻿<-1-1-START->
+Thomas von Aquin
+<-1-1-STOP->
+
+<-1-2-START->
+Opuscula. — Pizamanus, Antonius: Legenda Sancti Thomae
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Enthält 72 kleinere Werke des Thomas von Aquin<-500-STOP->
+<-500-START->Herausgeber: Antonius Pizamanus<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Hermann Lichtenstein, 07.09.1490
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 869 ungezählte Seiten; 26 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://incunables.bodleian.ox.ac.uk/record/T-140<-L-5-STOP-><-VI-5-START->Bod-In T-140<-VI-5-STOP->; <-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_T-236.html<-L-5-STOP-><-VI-5-START->BSB-Ink T-236<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M46029.htm<-L-5-STOP-><-VI-5-START->GW M46029<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/it00258000<-L-5-STOP-><-VI-5-START->ISTC it00258000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+436 von 436 Blättern, rot oder blau ausgezeichnete Initialen; Rubrizierung, auf Blatt a recto farbige Randbordüre mit verschiedenen floralen Elementen
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (Kalb, braun, 16. Jahrhundert) mit Schliessen (erneuert) und Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Dominikanerkloster Bern
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116731793405511<-L-11-STOP-><-VI-11-START->MUE Inc III 63<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991138857089705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Thomas von Aquin<-P-STOP->
+<-P-START->Pizamanus, Antonius<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Lichtenstein, Hermann<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Dominikanerkloster Bern<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991138857089705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 63<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06823nam a22007092c 4500
+001 991138857089705501
+005 20211215202300.0
+008 090311s1490    gw            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/19.10.2017/B404/vha    
+035      |a (swissbib)06038848X-41slsp_network    
+035      |a 06038848X    |9 ExL    
+035      |a (IDSBB)004791448DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991138857089705501    
+035      |a (41SLSP_UBE)99116731793405511    |9 (41SLSP_UBE)99116731793405511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Thomas    |c von Aquin, Heiliger    |d 1225-1274    |0 (DE-588)118622110    |e Verfasser    |4 aut    
+240 1 0  |a Opuscula    
+245 1 0  |a Expliciunt p[re]clarissima opuscula eximij ac diuini doctoris sancti Thome de aquino ordinis fratrum p[re]dicato[rum] ...    
+246 1 0  |a Opuscula eximii ac divini doctoris sancti Thomae de Aquino Ordinis Fratrum Praedicatorum    
+246 1 0  |a Opuscula eximii ac divini doctoris sancti Thome de Aquino Ordinis Fratrum Predicatorum    
+246 1    |i Incipit    |a Incipiu[n]t preclarissima opuscula diui Thome aquinatis sacri ordinis p[re]dicato[rum]    |b in quibus o[mn]is phy[losophi]e [et] diuina[rum] scriptura[rum] theoremata est co[m]plexus    
+246 1    |i Incipit in moderner Orthografie    |a Incipiunt praeclarissima opuscula divi Thomae Aquinatis sacri Ordinis Praedicatorum    |b in quibus omnis philosophiae et divinarum scripturarum theoremata est complexus    
+246 1    |i Incipit in normalisierter Form    |a Incipiunt preclarissima opuscula divi Thome Aquinatis sacri Ordinis Predicatorum    |b in quibus omnis phylosophie et divinarum scripturarum theoremata est complexus    
+246 1    |i Titel in moderner Orthografie    |a Expliciunt praeclarissima opuscula eximii ac divini doctoris sancti Thomae de Aquino Ordinis Fratrum Praedicatorum    
+246 1    |i Titel in normalisierter Form    |a Expliciunt preclarissima opuscula eximii ac divini doctoris sancti Thome de Aquino Ordinis Fratrum Predicatorum    
+264   1  |a ... dilige[n]tissime eme[n]data atq[ue] correcta. Et impressa Uenetijs    |b ingenio ac impe[n]sa Hermanni lichtenstein Coloniensis    |c Anno salut. Mcccc.xc. vij. Jdus septembris ... [07.09.1490]    
+300      |a 1 ungezähltes Blatt, 869 ungezählte Seiten    |c 26 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Enthält 72 Werke    
+500      |a Herausgeber: Antonius Pizamanus    
+500      |a Keine Titelseite, Titel gemäss Kolophon (Blatt GG₇ recto)    
+500      |a Impressum gemäss Kolophon (Blatt GG₇ recto); Reihenfolge der Vorlage: "Expliciunt p[re]clarissima opuscula eximij ac diuini doctoris sancti Thome de aquino ordinis fratrum p[re]dicato[rum] q[uam] dilige[n]tissime eme[n]data atq[ue] correcta. Et impressa Uenetijs ingenio ac impe[n]sa Hermanni lichtenstein Coloniensis. Anno salut. Mcccc.xc. vij. Jdus septembris Augustino barbadico Uenetiaru[m] principe illustrissimo existente. Laus deo."    
+500      |a Signaturformel: aa¹², a–v⁸, x¹², A–Z⁸, AA–GG⁸, HH¹²    
+500      |a Blatt aa₁ recto und HH₁₂ verso (erste und letzte Seite) unbedruckt    
+505 0 0  |g [Blatt aa₁ verso:] Tabula omnium opusculoru[m]    |t <<Jnfrascripta opuscula in p[re]senti volumine [con]tinent[ur] eo ordine quo hic posita sunt>>    |t Legenda seu vita eximij ac diuini doctoris sancti Thome de aq[ui]no ordinis fratru[m] p[re]dicoato[rum]    |r [Antonius Pizamanus]    |t Contra errores greco[rum] Opus. 1.    |t Declaratio qoru[n]da[m] articulo[rum] [contra] grecos armenos [et] sarracenos. Opus. 2.    |t Compe[n]dium theologie. Opus. 3    |g [und weitere 69 Werke]    
+510 4    |a Bod-In    |c T-140    |u http://incunables.bodleian.ox.ac.uk/record/T-140    
+510 4    |a BSB-Ink    |c T-236    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_T-236.html    
+510 4    |a GW    |c M46029    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M46029.htm    
+510 4    |a ISTC    |c it00258000    |u http://data.cerl.org/istc/it00258000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00038752/image_4    
+561      |a Handschriftlicher Besitzeintrag auf Blatt aa₁ recto und auf hinterem Spiegel: "Iste liber e[st] fr[atru]m p[re]dicato[rum] [con]ue[n]tus berne[n]s[is]" (Dominikanerkloster Bern)    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (Kalb, braun, 16. Jahrhundert) mit Schliessen (erneuert) und Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln    
+563      |a Vorsätze: vorne und hinten ein fliegendes Blatt (Velourpergament), im Spiegel vorne und hinten Verschnitt einer liturgischen Pergament-Handschrift, 14./15. Jahrhundert, mit Musiknoten    
+563      |a Masse Einband: 25.2 x 18.8 x 7.8 cm    
+563      |a Zustand Einband: Loch und Rostabdrücke von vormaliger Ankettung, Brüche und Schädlingsfrass an den Deckeln, Lederbezug der Deckel zum Teil nur fragmentarisch erhalten, Rücken vollständig mit Leder überklebt, Deckelbezug inkl. Holzdeckel eingefärbt und gefettet, Schliessen inkl. Schliessenriemen vollständig ergänzt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 436 von 436 Blättern, Pergamentfalz zwischen (erster und zweiter) Lage aa und a, sowie (vorletzter und letzter) Lage GG und HH aus Vorsatzkonstruktion, rot oder blau ausgezeichnete Initialen; Rubrizierung, auf Blatt a recto farbige Randbordüre mit verschiedenen floralen Elementen    
+590      |a Zustand Buchblock: Schäden am Farbauftrag vor allem an Blatt a recto, dunkle Verfleckung und Säurefrass an den ersten drei Lagen    
+590      |a Titel in Tinte auf Kopfschnitt: "Opuscula. S. Thome:"    
+590      |a Wenige Zeigehände und Nota-Zeichen, eine Korrektur (Blatt P₆ recto)    
+590      |a Historische Signatur auf Blatt aa₁ recto: "Theolog B 138"    
+590      |a Frühere Signatur: Inc 534    
+700 0 2  |a Thomas    |c von Aquin, Heiliger    |d 1225-1274    |t Contra errores Graecorum    |0 (DE-588)1142014991    
+700 0 2  |a Thomas    |c von Aquin, Heiliger    |d 1225-1274    |t De rationibus fidei contra Saracenos, Graecos et Armenios ad Cantorem Antiochiae    |0 (DE-588)4674914-7    
+700 0 2  |a Thomas    |c von Aquin, Heiliger    |d 1225-1274    |t Compendium theologiae    |0 (DE-588)4846037-0    
+700 1 2  |a Pizamanus, Antonius    |d 1462-1512    |t Legenda Sancti Thomae    |0 (DE-588)1141948052    
+700 1    |a Pizamanus, Antonius    |d 1462-1512    |0 (DE-588)129050911    |e Herausgeber    |4 edt    
+700 1    |a Lichtenstein, Hermann    |d 14XX-1494    |0 (DE-588)136671861    |e Drucker    |4 prt    
+710 2    |a Dominikanerkloster Bern    |0 (DE-588)4302674-6    |e Früherer Eigentümer    |4 fmo    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Inc III 63    |9 (41SLSP_UBE)99116731793405511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc III 63    |b B404    |9 (41SLSP_UBE)99116731793405511    
+986      |a (41SLSP_UBE)99116731793405511    |9 (41SLSP_UBE)99116731793405511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116731793405511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116731793405511    
+991      |a MedeaB400: 00891015    |5 IZ UBE/rekat-ubbe    |9 local    |9 (41SLSP_UBE)99116731793405511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

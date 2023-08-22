@@ -1,0 +1,142 @@
+﻿<-1-1-START->
+Digestum vetus
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Zusammengestellt im Auftrag Justinians I.<-500-STOP->
+<-500-START->Mit der Glossa ordinaria des Accursius und einer Vorrede des Herausgebers Franciscus Moneliensis<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Johann Herbort, 09.07.1482
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 809 ungezählte Seiten; 46 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_C-601.html<-L-5-STOP-><-VI-5-START->BSB-Ink C-601<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW07661.htm<-L-5-STOP-><-VI-5-START->GW 07661<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ij00548600<-L-5-STOP-><-VI-5-START->ISTC ij00548600<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+405 von 406 Blättern, rot und blau ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Velours) mit Schliessen (2 von ursprünglich 4 Schliessen erhalten) sowie Spuren von Eck- und Mittelbeschlägen
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Das unbedruckte Blatt a₁ fehlt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116832490505511<-L-11-STOP-><-VI-11-START->MUE Inc I 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991096271629705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Justinian I. (Kaiser von Byzanz)<-P-STOP->
+<-P-START->Accursius, Franciscus (Senior)<-P-STOP->
+<-P-START->Franciscus Moneliensis<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Herbort, Johann<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991096271629705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04590nam a2200625 c 4500
+001 991096271629705501
+005 20211215183804.0
+008 130404s1482    it       l    00| | lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/23.05.2017/B404/faf    
+035      |a (swissbib)063917289-41slsp_network    
+035      |a 063917289    |9 ExL    
+035      |a (IDSBB)006100701DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991096271629705501    
+035      |a (41SLSP_UBE)99116832490505511    |9 (41SLSP_UBE)99116832490505511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+130 0    |a Digestum vetus    |0 (DE-588)1133310044    
+245 1 0  |a Ad laudes o[mn]ipotentis eiusq[ue] genitricis gloriose necno[n] curie celestis toci[us] liber digesti ueteris feliciter explicit    
+246 1 0  |a Liber digesti ueteris    
+246 1 0  |a Liber digesti veteris    
+246 1    |i Incipit    |a Francisci Moneliensis de Genua in digestum vetus a se castigatum    
+246 1    |i Titel gemäss BSB-Ink    |a Corpus iuris civilis    |p Digestum vetus    
+246 1    |i Titel gemäss GW    |a Corpus iuris civilis    |p Digesta Iustiniani    |p Digestum vetus    
+246 1    |i Titel in normalisierter Form    |a Ad laudes omnipotentis eiusque genitricis gloriose necnon curie celestis tocius liber digesti veteris feliciter explicit    
+264   1  |a Impressus veneciis    |b arte ac impe[n]sa Johannis herbort de silige[n]stat alamani    |c Anno d[omi]ni .Mcccc.lxxxii. die nona Julii [09.07.1482]    
+300      |a 1 ungezähltes Blatt, 809 ungezählte Seiten    |c 46 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Zusammengestellt im Auftrag Justinians I.    
+500      |a Mit der Glossa ordinaria des Accursius und einer Vorrede des Herausgebers Franciscus Moneliensis    
+500      |a Keine Titelseite, Titel gemäss Explicit    
+500      |a Impressum gemäss Kolophon    
+500      |a Rot- und Schwarzdruck    
+500      |a Signaturformel: a–f¹⁰, g⁸, h–k⁶, l-m⁸, n–t¹⁰, v⁸, x⁶, a-b¹⁰, C¹², D–T¹⁰, U⁸, X-Y¹⁰    
+500      |a Lagensignatur b (Blatt 197-206) ab 2. Blatt als Majuskel gedruckt    
+510 4    |a BSB-Ink    |c C-601    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_C-601.html    
+510 4    |a GW    |c 07661    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW07661.htm    
+510 4    |a ISTC    |c ij00548600    |u http://data.cerl.org/istc/ij00548600    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0005/bsb00051753/images    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Velours) mit Schliessen (2 von ursprünglich 4 Schliessen erhalten) sowie Spuren von Eck- und Mittelbeschlägen, handschriftlicher Titel auf aufgeklebtem Rückenschild: "Justinianus. Digestum vetus"    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 45.5 x 30.5 x 10.5 cm    
+563      |a Zustand Einband: Einbandrücken mit braunem Leder vollständig unterlegt, Reste von Schliessenriemen an Stehkanten des Vorderdeckels, Schliessenriemen an Vorderkanten später hinzugefügt, vorderes Vorsatz ergänzt mit Schnittschäden an erster Lage (um erste Lage gelegtes Doppelblatt mit ergänzter Vorheftung)    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 405 von 406 Blättern, Foliierung in Tinte (j-CCCCiiij, fehlt auf Blatt Y₁₀) und Graphit (2-406), Lagenmitten mit Makulaturpergament verstärkt, rot und blau ausgezeichnete Initialen, Rubrizierung (rote und blaue Paragraphenzeichen), Buchzählung (I-XXIIII) handschriftlich in Rot als Kolumnentitel auf Rectoseiten    
+590      |a Unvollständiges Exemplar: Das unbedruckte Blatt a₁ fehlt    
+590      |a Handschriftliche Annotationen und Unterstreichungen in Tinte    
+590      |a Handschriftliches Register (liniiert) auf hinterem fliegendem Vorsatzblatt    
+590      |a Historische Signatur auf vorderem Spiegel: "Jur Pol: N. 15"    
+590      |a Frühere Signatur: Inc 174    
+700 0    |a Justinian    |b I.    |c Byzantinisches Reich, Kaiser    |d 482-565    |0 (DE-588)11855896X    |e Auftraggeber    |4 pat    
+700 1    |a Accursius, Franciscus    |c Senior    |d 1185-1263    |0 (DE-588)100956599    |e Kommentarverfasser    |4 wac    
+700 0    |a Franciscus    |c Moneliensis    |d ca. 15. Jh.    |0 (DE-588)129045136    |e Herausgeber    |4 edt    
+700 1    |a Herbort, Johann    |d 14XX-1485    |0 (DE-588)129031704    |e Drucker    |4 prt    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Inc I 1    |9 (41SLSP_UBE)99116832490505511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc I 1    |b B404    |9 (41SLSP_UBE)99116832490505511    
+986      |a (41SLSP_UBE)99116832490505511    |9 (41SLSP_UBE)99116832490505511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116832490505511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

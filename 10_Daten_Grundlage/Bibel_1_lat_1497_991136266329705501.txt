@@ -1,0 +1,143 @@
+﻿<-1-1-START->
+Bibel [lateinisch]
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Biblia Vulgata mit der Übersetzung des Hieronymus, sowie seinen Prologen und Briefen an Paulinus von Nola und Papst Damasus I.<-500-STOP->
+<-500-START->Herausgeber: Petrus Angelus<-500-STOP->
+<-500-START->Enthält "Tabula alphabetica ex singulis libris et capitulis totius biblie" von Gabriello Bruno<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Geronimo Paganini, 07.09.1497
+<-3-1-STOP->
+
+<-4-1-START->
+950 ungezählte Seiten, 1 ungezähltes Blatt, 72 ungezählte Seiten, 1 ungezähltes Blatt; 19 cm (8°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_B-478.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-478<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW04278.htm<-L-5-STOP-><-VI-5-START->GW 04278<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/ib00601000<-L-5-STOP-><-VI-5-START->ISTC ib00601000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+512 von 514 Blättern, rot ausgezeichnete Initialen, Anfangsinitiale und grössere Initialen (Buch- und Kapitelanfänge) rot und blau ausgezeichnet, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Pergamenteinband auf Kartondeckeln (18. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars; Estienne Delezeau
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Blätter A₁ (Titelseite) und A₁₀ ("Tarnslatores[!] biblie" und "Modi intelligendi sacram scripturam") fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116825500505511<-L-11-STOP-><-VI-11-START->MUE Bong I 506<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991136266329705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Petrus Angelus<-P-STOP->
+<-P-START->Hieronymus, Sophronius Eusebius<-P-STOP->
+<-P-START->Bruno, Gabriello<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Paganini, Geronimo<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-P-START->Delezeau, Estienne<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991136266329705501<-DOI-STOP->
+<-SIGN-START->MUE Bong I 506<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05022nam a2200577 c 4500
+001 991136266329705501
+005 20211215200930.0
+008 100422s1497    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/22.04.2010    
+035      |a (swissbib)060599065-41slsp_network    
+035      |a 060599065    |9 ExL    
+035      |a (IDSBB)005217747DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991136266329705501    
+035      |a (41SLSP_UBE)99116825500505511    |9 (41SLSP_UBE)99116825500505511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+041 0    |a lat    |h heb    |h grc    
+130 0    |a Bibel    |0 (DE-588)4006406-2    
+245 1 0  |a Biblia    |c Correcta insuper ac studiosissime eme[n]data per ... Baccalariu[m] Petru[m]angelu[m] de monte vimi: ordinis mino[rum] seraphici Fra[n]cisci    
+246 1    |i Titel gemäss ISTC    |a Biblia latina    
+264   1  |a Impressa verso in felici Uenetorum ciuitate    |b sumptibus [et] arte Hieronymi de Paganinis Brixiensis    |c Anno gratie millesimo guadringentesimo nonagesimoseptimo. Septimo Idus Septembris [7.09.1497]    
+300      |a 950 ungezählte Seiten, 1 ungezähltes Blatt, 72 ungezählte Seiten, 1 ungezähltes Blatt    |c 19 cm (8°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Verantwortlichkeitsangabe mit Herausgeber gemäss Kolophon (Blatt F₇ verso)    
+500      |a Enthält 19 Seiten (ab Blatt A₁ verso) "Tabula alphabetica ex singulis libris [et] capitulis totius biblie ... a ... magistro Gabriele bruno veneto: ordinis mino[rum] mi[ni]stro ... composita ac ordinata ..." (Tabelle in ursprünglicher Fassung)    
+500      |a Impressum gemäss Kolophon    
+500      |a Signaturformel: A¹⁰, a–z⁸, [et]⁸, [con]⁸, [rum]⁸, aa–mm⁸, nn¹⁰, oo–zz⁸, [et et]⁸, [con con]⁸, [rum rum]⁸, 2A–F⁸, 1-4⁸, 5⁶    
+500      |a Blatt F₈ unbedruckt, Blatt 5₆ verso unbedruckt    
+510 4    |a BSB-Ink    |c B-478    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_B-478.html    
+510 4    |a GW    |c 04278    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW04278.htm    
+510 4    |a ISTC    |c ib00601000    |u https://data.cerl.org/istc/ib00601000    
+530      |a Digitalisat (Exemplar der Österreichischen Nationalbibliothek    |u http://digital.onb.ac.at/RepViewer/viewer.faces?doc=DTL_478883&order=1&view=SINGLE    
+561      |a Handschriftlicher Besitzvermerk auf Blatt F₇ verso (unter dem Kolophon, auf dem Kopf, in Tinte): "Sum stephani delezeau filius Johanis desfuncti delezeau" (der Name "delezeau" in Tinte auch auf Blatt d₁ verso)    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Ganzbezogener Pergamenteinband auf Kartondeckeln (18. Jahrhundert), auf dem Rücken in Tinte: "Biblia Latina Hieronymi p. Hieron. de Paganinis Ven. ...[?]"    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 19.0 x 13.0 x 5.9 cm    
+563      |a Zustand Einband: Einbandpergament an den zum Teil gestauchten Ecken hoch stehend, Fehlpositionierung der Falzbrüche im Pergament am Vorderdeckel, Japanpapier-Überklebungen am Rücken    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 512 von 514 Blättern, Verfleckungen und kleinere Einrisse an den Blattkanten, Feuchtigkeitsränder und Verfleckungen von vormaligem Schimmelschaden vor allem am Vorderschnitt, Verstärkung durch Papierfalz aussen an erster Lage A, sowie Zusammensetzung der Lage durch Vorkleben der Blätter, behindert die Texteinsicht bis in den Bundsteg, Schäden am blauen Farbauftrag der Initialen (Blatt y₁ recto); rot ausgezeichnete Initialen, Anfangsinitiale (Blatt a₁ recto) und grössere Initialen (Buch- und Kapitelanfänge) rot und blau ausgezeichnet, Rubrizierung    
+590      |a Unvollständiges Exemplar: Blätter A₁ (Titelseite) und A₁₀ ("Tarnslatores[!] biblie" und "Modi intelligendi sacram scripturam") fehlen    
+590      |a Historische Signaturen auf vorderem Spiegel: "200 Bibl."; unter der 200 weitere Zahl: "217.", auf der ersten vorhandenen SEite (Blatt A₂ recto) unten Zettel aufgeklebt mit Signatur in Tinte: "Bibl. 200. 217."    
+590      |a Frühere Signaturen: Inc III 113; Inc 535; Hortin XIV.S.7    
+700 0    |a Petrus    |c Angelus    |d ca. 15. Jh.    |0 (DE-588)129049964    |e Herausgeber    |4 edt    
+700 1    |a Hieronymus, Sophronius Eusebius    |d 345-420    |0 (DE-588)118550853    |e Übersetzer    |4 trl    
+700 1    |a Bruno, Gabriello    |d -1508    |0 (DE-588)104125705    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Paganini, Geronimo    |0 (DE-588)1037571061    |e Drucker    |e Verlag    |4 prt    |4 pbl    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Delezeau, Estienne    |e Früherer Eigentümer    |4 fmo    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Bong I 506    |9 (41SLSP_UBE)99116825500505511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc III 113    |c 404U3    |p 12    |j MUE Bong I 506    |b B404    |9 (41SLSP_UBE)99116825500505511    
+986      |a (41SLSP_UBE)99116825500505511    |9 (41SLSP_UBE)99116825500505511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116825500505511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116825500505511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

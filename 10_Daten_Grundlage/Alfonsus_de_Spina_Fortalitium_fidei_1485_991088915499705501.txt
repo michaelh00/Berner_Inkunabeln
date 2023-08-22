@@ -1,0 +1,144 @@
+﻿<-1-1-START->
+Alfonsus de Spina
+<-1-1-STOP->
+
+<-1-2-START->
+Fortalitium fidei
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Nürnberg: Anton Koberger, 10.10.1485
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 10 ungezählte Seiten, cliiii, das heißt 153 Blätter, 1 ungezähltes Blatt; 43 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-452.html<-L-5-STOP-><-VI-5-START->BSB-Ink A-452<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW01576.htm<-L-5-STOP-><-VI-5-START->GW 1576<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ia00541000<-L-5-STOP-><-VI-5-START->ISTC ia00541000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+160 von 160 Blättern; rot oder blau ausgezeichnete Initialen, Rubrizierung nur teilweise im Inhaltsverzeichnis
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun, Kalb) mit Schliessen, Linien- und Ornamentstempel-Blindprägung
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116896098505511<-L-11-STOP-><-VI-11-START->MUE Bong I 496<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991088915499705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Alfonsus de Spina<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Nürnberg<-O-STOP->
+<-P-START->Koberger, Anton<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991088915499705501<-DOI-STOP->
+<-SIGN-START->MUE Bong I 496<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05257nam a2200649 c 4500
+001 991088915499705501
+005 20221207095555.0
+008 030318s1485    gw            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/18.03.2010    
+035      |a (swissbib)063573652-41slsp_network    
+035      |a 063573652    |9 ExL    
+035      |a (IDSBB)005195348DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991088915499705501    
+035      |a (41SLSP_UBE)99116896098505511    |9 (41SLSP_UBE)99116896098505511    
+040      |a SzZuIDS NEBIS ZBZ    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Alfonsus    |c de Spina    |d 1412-1495    |0 (DE-588)119229781    |e Verfasser    |4 aut    
+240 1 0  |a Fortalitium fidei    
+245 1 0  |a Hic liber (que[m] fidei fortalicium editor intitulauit) ... e[st] completus [et] in hunc fine[m] vsq[ue] perductus    
+246 1    |i Titel in normalisierter Form    |a Hic liber (quem fidei fortalicium editor intitulavit) ... est completus et in hunc finem usque perductus    
+246 1    |i Incipit Inhaltsverzeichnis (Blatt [a₂] recto)    |a Tabula fortalicij fidei incipit    
+246 1    |i Incipit Textbeginn (Blatt [b₁] recto)    |a Incipit prohemiu[m] fortalicij fidei    
+246 1    |i Kopftitel Textbeginn (Blatt [b₁] recto)    |a Prohemiu[m] in Fortaliciu[m] fidei    
+246 1    |i Incipit Inhaltsverzeichnis in normalisierter Form    |a Tabula fortalicii fidei incipit    
+246 1    |i Incipit Textbeginn in normalisierter Form    |a Incipit prohemium fortalicii fidei    
+246 1    |i Incipit Kopftitel Textbeginn in normalisierter Form    |a Prohemium in fortalicium fidei    
+246 1 3  |a Fidei fortalitium    
+246 1    |i Titel gemäss BSB-Ink    |a Fortalitium fidei contra Judaeos, Saracenos aliosque Christianae fidei inimicos    
+264   1  |a Imp[re]ssoria arte Nurembergk    |b Impensis Anthonij koberger inibi ciue[m]    |c Anno incarnate deitatis. M.cccclxxxv. vj. Idus octobris. Indict[i]one. iij. [10.10.1485]    
+300      |a 1 ungezähltes Blatt, 10 ungezählte Seiten, cliiii, das heißt 153 Blätter, 1 ungezähltes Blatt    |c 43 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Verfasser: Alfonsus de Spina, 1412-1495    
+500      |a Keine Titelseite, Titel gemäss Kolophon    
+500      |a Impressum gemäss Kolophon; Reihenfolge der Vorlage (Blatt C₇ verso): "Anno incarnate deitatis. M.cccclxxxv. vj. Idus octobris. Indict[i]one. iij. Hic liber (que[m] fidei fortalicium editor intitulauit) imp[re]ssoria arte Nurembergk Impensis Anthonij koberger inibi ciue[m] e[st] completus [et] in hunc fine[m] vsq[ue] perductus"    
+500      |a Foliierungsfehler: Blattzahl xcvii ausgelassen    
+500      |a Signaturformel: [a⁶, b⁸, c-z⁶, A-B⁶, C⁸]    
+500      |a Blatt [a₁] unbedruckt; Blatt [C₈] verso unbedruckt    
+510 4    |a BSB-Ink    |c A-452    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-452.html    
+510 4    |a GW    |c 1576    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW01576.htm    
+510 4    |a ISTC    |c ia00541000    |u http://data.cerl.org/istc/ia00541000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00040792/image_5    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun, Kalb) mit Schliessen, Linien- und Ornamentstempel-Blindprägung    
+563      |a Vorsätze: Vorne und hinten mit zwei fliegenden Blättern    
+563      |a Masse Einband: 42.4 x 29.9 x 5.3 cm    
+563      |a Zustand Einband: Überzugsleder im vorderen Falz gebrochen, Blindabdrücke evtl. von Zwingen an den Kanten beider Deckel, Lederüberklebungen am Rücken mit Fehlstellen, beide Spiegel aus Japanpapier vollständig ergänzt, Hakenteile und Schliessenriemen ergänzt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+563      |a Einbandfragmente aus diesem Band in der Burgerbibliothek, Signatur BBB Cod. 756.64 (Priscian: Grammatica, hs., 4 Bl. Pergament, lat., 10. Jht.!)    
+590      |a Buchblockbeschreibung: 160 von 160 Blättern, handschriftliche Lagensignatur (gemäss GW) in Graphit auf erstem Blatt jeder Lage jeweils unten rechts; Pergamentfalz zwischen vorderem Vorsatz und Blatt [a₁] sowie zwischen Blatt [C₈] und hinterem Vorsatz und gehört zur Vorsatzkonstruktion, Pergamentverstärkung (zum Teil Manuskriptmakulatur) in den Lagenmitten; rot oder blau ausgezeichnete Initialen, vorgesehene Stelle für Initiale auf fol. ii freigelassen; Rubrizierung nur teilweise im Inhaltsverzeichnis    
+590      |a Zustand Buchblock: Zum Teil starke Feuchtigkeitsränder im Bundsteg    
+590      |a Wenige handschriftliche Annotationen von Jacques Bongars in Tinte auf Blatt [a₆] verso und fol. cxix-cxlii (meist Jahreszahlen)    
+590      |a Frühere Signaturen: Inc II 14; Inc 54 a; Hortin III 1    
+700 0 2  |a Alfonsus    |c de Spina    |d 1412-1495    |t Fortalitium fidei    |0 (DE-588)4369784-7    
+700 1    |a Koberger, Anton    |d 1440-1513    |0 (DE-588)118563890    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |e Annotierende Person    |4 fmo    |4 ann    
+751      |a Nürnberg    |0 (DE-588)4042742-0    
+852 4    |b B404    |c 404U3    |j MUE Bong I 496    |9 (41SLSP_UBE)99116896098505511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc II 14    |c 404U3    |p 12    |j MUE Bong I 496    |b B404    |9 (41SLSP_UBE)99116896098505511    
+986      |a (41SLSP_UBE)99116896098505511    |9 (41SLSP_UBE)99116896098505511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116896098505511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116896098505511    
+991      |a Bongars: 00308    |5 IZ UBE/B400/18.03.2010    |9 local    |9 (41SLSP_UBE)99116896098505511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,139 @@
+﻿<-1-1-START->
+Institutiones [französisch]
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Französische Versübersetzung der im Auftrag Justinians I. zusammengestellten Institutiones<-500-STOP->
+<-500-START->In der einzigen überlieferten Handschrift der Übersetzung nennt sich am Schluss der Übersetzer "Richard Donebault"; als Entstehungsjahr gibt er 1280 an<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Paris: Antoine Caillaut, um 1486]
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 213 ungezählte Seiten; 28 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW07654.htm<-L-5-STOP-><-VI-5-START->GW 07654<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ij00546300<-L-5-STOP-><-VI-5-START->ISTC ij00546300<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+108 von 108 Blättern, rot und blau ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Pergamenteinband auf Kartondeckeln (17./18. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116678606805511<-L-11-STOP-><-VI-11-START->MUE Bong III 90<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991010000619705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Justinian I. (Kaiser von Byzanz)<-P-STOP->
+<-P-START->Richard d'Annebaut<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Paris<-O-STOP->
+<-P-START->Caillaut, Antoine<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991010000619705501<-DOI-STOP->
+<-SIGN-START->MUE Bong III 90<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03999nam a2200565 c 4500
+001 991010000619705501
+005 20211215173659.0
+008 100519s1486    fr       l    00| | fre  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/11.07.2018/B404/faf    
+035      |a (swissbib)062136690-41slsp_network    
+035      |a 062136690    |9 ExL    
+035      |a (IDSBB)005231593DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991010000619705501    
+035      |a (41SLSP_UBE)99116678606805511    |9 (41SLSP_UBE)99116678606805511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a fre    |h lat    
+130 0    |a Institutiones    |0 (DE-588)4148320-0    
+245 1 0  |a Cest le liure des institutions des drois appelle Institute translate de latim en francois [et] corrige en diligence p[ar] plusieurs docteurs et souuerains legistes    
+246 1    |i Titel in normalisierter Form    |a Cest le livre des institutions des drois appelle Institute translate de latim en francois et corrige en diligence par plusieurs docteurs et souverains legistes    
+246 1 0  |a <<Le>> livre des institutions des drois appelle Institute    
+246 1    |i Titel gemäss GW    |a Corpus iuris civilis    |p Iustiniani Institutiones    
+264   1  |a [Paris]    |b [Antoine Caillaut]    |c [um 1486]    
+300      |a 1 ungezähltes Blatt, 213 ungezählte Seiten    |c 28 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a In der einzig überlieferten Handschrift der Versübersetzung nennt sich am Schluss der Übersetzer "Richard Donebault"; als Entstehungsjahr gibt er 1280 an    
+500      |a Mit Inhaltsverzeichnis    
+500      |a Keine Titelseite, Titel gemäss Incipit    
+500      |a Impressum gemäss GW und ISTC    
+500      |a Signaturformel: A¹⁰, B–G⁸, H-O⁶, P⁸    
+500      |a Blatt A₁ ist unbedruckt    
+510 4    |a GW    |c 07654    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW07654.htm    
+510 4    |a ISTC    |c ij00546300    |u http://data.cerl.org/istc/ij00546300    
+530      |a Digitalisat (Exemplar der Staatsbibliothek zu Berlin)    |u http://resolver.staatsbibliothek-berlin.de/SBB0001DB2400000000    
+561      |a Handschriftlicher Besitzvermerk auf Blatt A₂ recto: "Bongars"    
+563      |a Einbandbeschreibung: Ganzbezogener Pergamenteinband auf Kartondeckeln (17./18. Jh.), handschriftlicher Rückentitel in Tinte: "Institutions Just[in]iens en bouts Rimes"    
+563      |a Vorsätze: Vorne und hinten mit 2 fliegenden Blättern    
+563      |a Masse Einband: 27.3 x 21 x 2.4 cm    
+563      |a Zustand Einband: Risse, Brüche und kleine Fehlstellen im Pergamentbezug am Rücken, Schädlingsfrass in hinterem Falz    
+590      |a Buchblockbeschreibung: 108 von 108 Blättern, rot und blau ausgezeichnete Initialen, Rubrizierung (rote und blaue Paragraphenzeichen), Kleberückstände eines vormalig aufgeklebten Papierstreifens an Blatt A₂ recto (eventuell von vormaligem Papierstreifen als Ordnungshinweis aus dem Fuss-Schnitt ragend, siehe vereinzelt Handschriften der Sammlung Bongarsiana BBB)    
+590      |a Zustand Buchblock: Abrieb an blauem Farbmittel der ausgezeichneten Initialen und Zierbuchstaben, starke Knautschfalten im Falz an Lage B, Blatt P₈ mit starken Gebrauchsspuren (Kreideüberzeichnung und Tintenschriftproben), Riss an Blatt B₁    
+590      |a Wenige handschriftliche Annotationen und Kritzeleien in Tinte    
+590      |a Historische Signatur auf Blatt A₂ recto: "Iur. Pol 108"    
+590      |a Frühere Signaturen: Inc 134; Inc V 84; IIX 24    
+700 0    |a Justinian    |b I.    |c Byzantinisches Reich, Kaiser    |d 482-565    |0 (DE-588)11855896X    |e Auftraggeber    |4 pat    
+700 0    |a Richard    |c d'Annebaut    |d ca. 13. Jh.    |0 (DE-588)108979245X    |e Übersetzer    |4 trl    
+700 1    |a Caillaut, Antoine    |d 14XX-1506    |0 (DE-588)128991100    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+751      |a Paris    |0 (DE-588)4044660-8    
+852 4    |b B404    |c 404U3    |j MUE Bong III 90    |9 (41SLSP_UBE)99116678606805511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc V 84    |c 404U3    |p 12    |j MUE Bong III 90    |b B404    |9 (41SLSP_UBE)99116678606805511    
+986      |a (41SLSP_UBE)99116678606805511    |9 (41SLSP_UBE)99116678606805511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116678606805511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116678606805511    
+991      |a Bongars: 03544    |5 IZ UBE/B400/19.05.2010    |9 LOCAL    |9 (41SLSP_UBE)99116678606805511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

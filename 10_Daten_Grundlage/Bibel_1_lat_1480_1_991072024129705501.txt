@@ -1,0 +1,166 @@
+﻿<-1-1-START->
+Bibel [lateinisch]
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Biblia Vulgata mit der Übersetzung des Hieronymus, sowie seinen Prologen und Briefen an Paulinus von Nola und Papst Damasus I.<-500-STOP->
+<-500-START->Mit der Glossa Ordinaria und der Interlinearglosse des Anselmus Laudunensis<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Straßburg: Adolf Rusch für Anton Koberger, nicht nach 1480]
+<-500-START->Von A. Hartmann (Amerbach-Korrespondenz (1942), I, 2, n. 2) Johann Amerbach in Basel zugeschrieben<-500-STOP->
+<-500-START->Druckvariante entspricht dem Münchner 2. Exemplar, 2 Inc.s.a. 212 a<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+274 ungezählte Seiten, 1 ungezähltes Blatt, 2142 ungezählte Seiten, 2 ungezählte Blätter; 51 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-442.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-442<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW04282.htm<-L-5-STOP-><-VI-5-START->GW 04282<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib00607000<-L-5-STOP-><-VI-5-START->ISTC ib00607000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+Band 1: 384 von 384 Blättern, Band 2: 268 von 268 Blättern, Band 3: 268 von 268 Blättern, Band 4: 291 von 291 Blättern, rot und blau ausgezeichnete Initialen, Rubrizierung (Strichelungen, rote und blaue Paragraphenzeichen, gelegentlich zu Gesichtern erweitert)
+<-6-1-STOP->
+
+<-7-1-START->
+4 ganzbezogene Ledereinbände auf Holzdeckeln (chamois, Schwein) mit Schliessen sowie Spuren einer Kettenöse am oberen Rand der Rückdeckel, Linien- und Ornamentstempel-Blindprägung auf jeweils beiden Deckeln; Buchbinder: Uoldaricus
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Ambrosius Meyer; Kloster Thorberg
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116775710005511<-L-11-STOP-><-VI-11-START->MUE Inc I 4<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991072024129705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Hieronymus, Sophronius Eusebius<-P-STOP->
+<-P-START->Anselmus Laudunensis<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Rusch, Adolph<-P-STOP->
+<-O-START->Nürnberg<-O-STOP->
+<-P-START->Koberger, Anton<-P-STOP->
+<-O-START->Basel<-O-STOP->
+<-P-START->Amerbach, Johannes<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-P-START->Uoldaricus<-P-STOP->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Meyer, Ambrosius<-P-STOP->
+<-P-START->Kloster Thorberg<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991072024129705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 4<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 08397nam a2200757 ca4500
+001 991072024129705501
+005 20211215175038.0
+008 080206s1480    fr            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/07.06.2017/B404/faf    
+035      |a (swissbib)053859316-41slsp_network    
+035      |a 053859316    |9 ExL    
+035      |a (IDSBB)004419117DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991072024129705501    
+035      |a (41SLSP_UBE)99116775710005511    |9 (41SLSP_UBE)99116775710005511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a lat    |h heb    |h grc    |h arc    
+130 0    |a Bibel    |0 (DE-588)4006406-2    
+245 1 0  |a [Bibel]    
+246 1    |i Incipit    |a Epistola beati Hieronimi presbyteri ad Paulinum presbyte[rum] de omnibus diuinę hystorię libris incipit    
+246 1    |i Incipit in normalisierter Form    |a Epistola beati Hieronimi presbyteri ad Paulinum presbyterum de omnibus divinę hystorię libris incipit    
+246 1    |i Titel gemäss BSB-Ink und GW    |a Biblia    
+246 1    |i Titel gemäss ISTC    |a Biblia latina    
+264   1  |a [Straßburg]    |b [Adolf Rusch für Anton Koberger]    |c [nicht nach 1480]    
+300      |a 274 ungezählte Seiten, 1 ungezähltes Blatt, 2142 ungezählte Seiten, 2 ungezählte Blätter    |c 51 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a In der Vulgata-Übersetzung des Hieronymus, mit Vorworten von Hieronymus und Briefen von ihm an Paulinus von Nola und Papst Damasus I.    
+500      |a Mit der Glossa Ordinaria und der Interlinearglosse des Anselmus Laudunensis    
+500      |a Keine Titelseite, Titel gemäss GND    
+500      |a Impressum gemäss BSB-Ink, GW und ISTC    
+500      |a Von A. Hartmann (Amerbach-Korrespondenz (1942), I, 2, n. 2) Johann Amerbach in Basel zugeschrieben    
+500      |a Zur Datierung: Handschriftliche Annotationen im Exemplar des Sion College und in Oates 124 sind datiert 1480 (gemäss ISTC)    
+500      |a Druckvariante entspricht dem Münchner 2. Exemplar, 2 Inc.s.a. 212 a    
+500      |a Signaturformel: a¹⁰, 9*b⁸, 5*d⁸, d⁶, d¹⁰, a⁸, 9*d⁸, 3*b⁸, 2*b⁶, a⁸, 14*c⁸, c¹⁰, 3*h⁸, c⁶, h⁶, h⁸, 2*h⁶, h⁸, c⁸, 2*c⁶, c⁸, c⁶, 10*e⁸, e¹⁰, e⁸, 5*b⁸, b⁶, 2*b⁸, b¹⁰, 11*g⁸, 2*g⁶, g¹⁰, 4*d⁸, d⁶, 2*e⁶, 2*a⁸, 5*c⁸, 2*c⁶, a⁸, d⁸, 3*a⁸, 12*f⁸, f⁶, f⁹, b⁸, b⁶, b¹⁰, 8*a⁸, 2*a⁶, a⁸, a⁶, a⁸, b⁸, c⁸, 4*a⁸, a¹⁰    
+500      |a Die ungezählten Blätter 7. d₁₀ (138) und 27. a₉-₁₀ (1210-1211) sind unbedruckt    
+510 4    |a BSB-Ink    |c B-442    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-442.html    
+510 4    |a GW    |c 04282    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW04282.htm    
+510 4    |a ISTC    |c ib00607000    |u http://data.cerl.org/istc/ib00607000    
+530      |a Digitalisat Teil 1 (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0009/bsb00096044/images    
+530      |a Digitalisat Teil 2 (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0009/bsb00096045/images    
+530      |a Digitalisat Teil 3 (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0009/bsb00096039/images    
+530      |a Digitalisat Teil 4 (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0009/bsb00096040/images    
+561      |a Handschriftliche Besitzvermerke auf vorderen Spiegeln aller 4 Bände: "Liber Carthusiens[ium] In Torberg p[ro]uenie[n]s a [con]fr[atr]e n[ost]ro ambrosio meyer [con]tinens prima[m][-Quarta[m]] parte[m] glose ordinarie"    
+563      |a Einbandbeschreibung: 4 ganzbezogene Ledereinbände auf Holzdeckeln (chamois, Schwein) mit Schliessen sowie Spuren einer Kettenöse am oberen Rand der Rückdeckel, Linien- und Ornamentstempel-Blindprägung auf jeweils beiden Deckeln, dazu Buchbinderstempel "Uoldaric[us]", auf Vorderdeckeln jeweils Pergamentschild mit Titel: "Glosa s[upe]r [Aufzählung der enthaltenen Bücher]", auf Rücken jeweils roter Thorberg-Signaturbuchstabe: "H", nur auf Band 2 mit Resten einer römischen Zahl und in Tinte "1486", dazu jeweils mit Tinte auf Pergamentschild: "Prima [-Quarta] pars glose ordinarie"    
+563      |a Vorsätze: Band 1 und 2 vorne und hinten mit einem fliegenden Blatt, Band 3 und 4 vorne mit einem und hinten ohne fliegendes Blatt    
+563      |a Masse Einbände: 50.5 x 35 x 9.5 bis 12 cm    
+563      |a Zustand Einbände: Deckel mittig oder im vorderen Drittel unterhalb des Spiegels verstärkt, Leder an Stehkanten und Ecken abgerieben, Loch mit Rost-Abdruck an Rückdeckeln von vormaliger Ankettung; Band 1: Beide Schliessenriemen und Hakenteile sowie Vernietung der Schliessenplättchen ergänzt, vormalige Überklebung am Rücken im 2. oberen Bundfeld abgelöst und Signaturbuchstabe nachgezeichnet; Band 2: Beide Schliessenriemen und unteres Hakenteil sowie Vernietung der Schliessenplättchen ergänzt, Lederfragment am Vorderdeckel geklebt, Spuren einer vormaligen Titelschildüberklebung im 2. oberen Bundfeld, Pergamentfalz auf Rückdeckel teilweise hochgelöst und gerissen; Band 3: Schliessenplättchen mit Nietung und unterer Schliessenriemen sowie unteres Hakenteil ergänzt, Lederüberklebung am Vorderdeckel, zahlreiche Kratzer im Einbandleder, vormalige Überklebung am Rücken im 2. oberen Bundfeld abgelöst und Signaturbuchstabe nachgezeichnet; Band 4: beide Schliessenriemen und Hakenteile sowie Vernietung der Schliessenplättchen ergänzt, vormalige Überklebung am Rücken im 2. oberen Bundfeld abgelöst und Signaturbuchstabe nachgezeichnet    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: Band 1: 384 von 384 Blättern, Band 2: 268 von 268 Blättern, Band 3: 268 von 268 Blättern, Band 4: 291 von 291 Blättern, Pergamentfälze auf Deckeln von Rückenhinterklebung, Pergamentverstärkung (Makulaturpergament) in den Lagenmitten zum Teil nur auf die Heftstationen beschränkt, erste und letzte Lage zusätzlich aussen mit Pergamentfalz verstärkt (Makulaturpergament), Papierfalz zwischen erster und zweiter sowie vorletzter und letzter Lage aus Vorlagenkonstruktion, Druck an einzelnen Stellen verschmiert (z.B. auf Blatt 15. d₁ (203) recto), Tintenzeichnungen in Initialen auf den Blättern 4. e₁ (507) recto und 3. f₃ (939) recto, rot und blau ausgezeichnete Initialen, Rubrizierung (Strichelungen, rote und blaue Paragraphenzeichen, gelegentlich zu Gesichtern erweitert, z.B. auf Blatt 13. a₇ (1086) recto), Blattweiser    
+590      |a Zustand Buchblöcke: Feuchtigkeitsränder von Farbschnittausrüstung    
+590      |a In 4 Bänden gebunden (Band 1: Genesis-Chronik, 2; Band 2: Esra-Jesus Sirach; Band 3: Jesaja-Makkabäer, 2; Band 4: Matthäusevangelium-Offenbarung des Johannes)    
+590      |a Wenige handschrifliche Annotationen in Tinte    
+590      |a Frühere Signatur: Inc 2    
+700 1    |a Hieronymus, Sophronius Eusebius    |d 345-420    |0 (DE-588)118550853    |e Übersetzer    |e Verfasser eines Vorworts    |4 trl    |4 wpr    
+700 0    |a Anselmus    |c Laudunensis    |d 1050-1117    |0 (DE-588)118649566    |e Kommentarverfasser    |4 wac    
+700 1    |a Rusch, Adolph    |d 1435-1489    |0 (DE-588)138421293    |e Drucker    |4 prt    
+700 1    |a Koberger, Anton    |d 1440-1513    |0 (DE-588)118563890    |e Verlag    |4 pbl    
+700 1    |a Amerbach, Johannes    |d 1440-1513    |0 (DE-588)123073189    |e Drucker    |4 prt    
+700 0    |a Uoldaricus    |0 (DE-588)1124489932    |e Buchbinder    |4 bnd    
+700 1    |a Meyer, Ambrosius    |d 1450-1529    |0 (DE-588)1133590772    |e Früherer Eigentümer    |4 fmo    
+710 2    |a Kloster Thorberg    |0 (DE-588)7725716-9    |e Früherer Eigentümer    |4 fmo    
+730 0    |a Bibel    |g Vulgata    |0 (DE-588)4188770-0    
+730 0    |a Glossa ordinaria    |0 (DE-588)1031748504    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc I 4    |9 (41SLSP_UBE)99116775710005511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |h MUE Inc I 4 : 4    |q 4    |p 12    |j MUE Inc I 4    |b B404    |9 (41SLSP_UBE)99116775710005511    
+949      |c 404U3    |h MUE Inc I 4 : 3    |q 3    |p 12    |j MUE Inc I 4    |b B404    |9 (41SLSP_UBE)99116775710005511    
+949      |c 404U3    |h MUE Inc I 4 : 2    |q 2    |p 12    |j MUE Inc I 4    |b B404    |9 (41SLSP_UBE)99116775710005511    
+949      |c 404U3    |h MUE Inc I 4 : 1    |q 1    |p 12    |j MUE Inc I 4    |b B404    |9 (41SLSP_UBE)99116775710005511    
+986      |a (41SLSP_UBE)99116775710005511    |9 (41SLSP_UBE)99116775710005511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116775710005511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116775710005511    
+991      |a MedeaB400: 00088095    |5 IZ UBE/rekat-ubbe    |9 LOCAL    |9 (41SLSP_UBE)99116775710005511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

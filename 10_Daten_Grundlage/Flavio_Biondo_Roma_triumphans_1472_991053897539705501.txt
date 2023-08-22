@@ -1,0 +1,143 @@
+﻿<-1-1-START->
+Flavio Biondo
+<-1-1-STOP->
+
+<-1-2-START->
+Roma triumphans
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Widmungsbrief von Biondo an Papst Pius II.<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Mantua?: Pietro Adamo de' Micheli?, 1472 oder 1473]
+<-500-START->Gemäss ISTC möglicherweise auch von Georgius de Augusta und Paulus de Butzbach in Mantua, für oder mit Pietro Adamo de'Micheli gedruckt; GW schreibt den Druck dem "Drucker für Pietro Villa", Brescia, zu<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+359 ungezählte Seiten; 35 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW04424.htm<-L-5-STOP-><-VI-5-START->GW 4424<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib00703000<-L-5-STOP-><-VI-5-START->ISTC ib00703000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+180 von 180 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun, Kalb) mit Schliessen, Linien- und Ornamentstempel-Blindprägung an beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Werner Zesiger
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116801920105511<-L-11-STOP-><-VI-11-START->MUE Zesk 15<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991053897539705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Flavio Biondo<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Mantua<-O-STOP->
+<-P-START->Micheli, Pietro Adamo de'<-P-STOP->
+<-O-START->Mantua<-O-STOP->
+<-P-START->Paulus de Butzbach<-P-STOP->
+<-O-START->Mantua<-O-STOP->
+<-P-START->Georgius de Augusta<-P-STOP->
+<-O-START->Brescia<-O-STOP->
+<-P-START->Drucker für Pietro Villa<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Zesiger, Werner<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991053897539705501<-DOI-STOP->
+<-SIGN-START->MUE Zesk 15<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04602nam a2200565 c 4500
+001 991053897539705501
+005 20211215170736.0
+008 950614q14721473it ||||| |||| 00| ||lat d
+019      |a Altbestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von Signaturen.    |5 IDSBB/17.2.1995/bestub/mes    
+035      |a (swissbib)027025969-41slsp_network    
+035      |a 027025969    |9 ExL    
+035      |a (IDSBB)001116825DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991053897539705501    
+035      |a (41SLSP_UBE)99116801920105511    |9 (41SLSP_UBE)99116801920105511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+072   7  |a ag    |2 SzZuIDS BS/BE    
+082 1 4  |a 930    |2 15    
+100 1    |a Flavio    |c Biondo    |d 1392-1463    |0 (DE-588)118658867    |e Verfasser    |4 aut    
+240 1 0  |a Roma triumphans    
+245 1 0  |a Blondi Flavii Forliviensis In Trivmphantis Romae Libros    
+246 1    |i Titel in normalisierter Form    |a Blondi Flavii Forliviensis In triumphantis Romae libros    
+246 1 0  |a In triumphantis Romae libros    
+264   1  |a [Mantua?]    |b [Pietro Adamo de' Micheli?]    |c [1472 oder 1473]    
+300      |a 359 ungezählte Seiten    |c 35 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, nur Kopftitel zum Widmungsbrief von Blondus an Papst Pius II. auf Blatt [a₁]; vollständig: "Ad Sanctissimvm Patrem Et Dominvm Pivm Secvndvm Pont. Max. Blondi Flavii Forliviensis In Trivmphantis Romae Libros"    
+500      |a Impressum gemäss ISTC; GW schreibt den Druck dem "Drucker für Pietro Villa", Brescia, zu; daneben gibt es gemäss ISTC auch die Zuschreibung an Georgius de Augusta und Paulus de Butzbach als Drucker in Mantua, für oder mit Pietro Adamo de'Micheli, 1472    
+500      |a Gemäss Biblioteca cantonale di Lugano Erscheinungsjahr zwischen 1471 und 1473    
+500      |a Signaturformel: [a–b¹⁰, c–l⁸, m⁶, n–o⁸, p⁶, q–y⁸, z⁴]    
+510 4    |a GW    |c 4424    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW04424.htm    
+510 4    |a ISTC    |c ib00703000    |u http://data.cerl.org/istc/ib00703000    
+530      |a Digitalisat (Exemplar der Biblioteca cantonale di Lugano)    |u http://www.tectel.services/dbook/BibliotecaLugano/Incunaboli/535554_00/Index_Pc.html#p=8    
+561      |a Stempel auf vorderem fliegenden Blatt: "Dr. Zesiger"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun, Kalb) mit Schliessen, Linien- und Ornamentstempel-Blindprägung an beiden Deckeln; Papier-Titelschild auf dem Rücken (nur noch in Teilen vorhanden), Titel in Tinte: "[B]ondij Fla[vij] [Ro]ma Triu[m]phans"    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse: 34.6 x 25.1 x 5.6 cm    
+563      |a Zustand Einband: Teile der Schliessenriemen und Schliessenhaken fehlend, Rücken vollständig mit Leder unterlegt, auf unterlegten Lederrücken geklebte Lederfragmente zum Teil an den Rändern abstehend, Titelschild fragmentarisch erhalten    
+590      |a Buchblockbeschreibung: 180 von 180 Blättern, handschriftliche Lagensignatur (Nummerierung) in Graphit, jeweils auf erstem Blatt jeder Lage rechts unten; Foliierung in Graphit, jeweils rechts oben auf den Recto-Seiten (Blatt 8 übersprungen, deshalb nur bis 179 gezählt), Pergamentverstärkung innen in den Lagen, Papier- und Pergamentfalz hinter erster Lage gehört zum fliegenden Blatt und zur äusseren Falzverstärkung der Lage (jetzt auf vorderem Spiegel verklebt), Pergament- und Papierfalz vor letzter Lage gehört zur Vorsatzkonstruktion und Lagenverstärkung; vorgesehene Stellen für Initialen frei gelassen, nicht rubriziert; Titel in Tinte auf vorderem Schnitt: "Blo[n]di Triv[m]ph"    
+590      |a Zustand Buchblock: hinteres fliegendes Blatt durch Papierüberklebung im Falz versteift    
+590      |a Signaturformel der handschriftlichen Lagensignatur: 1–2¹⁰, 3–11⁸, 12⁶, 13–14⁸, 15⁶, 16–22⁸, 23⁴    
+590      |a Blätter [a₃]-[b₅] mit kurzen Annotationen in Tinte    
+590      |a Historische Signatur auf vorderem Spiegel: "E. ...[?] II. a. 2."    
+700 1 2  |a Flavio    |c Biondo    |d 1392-1463    |t Roma triumphans    |0 (DE-588)7857899-1    
+700 1    |a Micheli, Pietro Adamo <<de'>>    |d 1440-1481    |0 (DE-588)121038939    |e Drucker    |4 prt    
+700 0    |a Drucker für Pietro Villa    |0 (DE-588)1151533963    |e Drucker    |4 prt    
+700 1    |a Zesiger, Werner    |d 1902-1958    |0 (DE-588)121027392    |e Früherer Eigentümer    |4 fmo    
+751      |a Mantua    |0 (DE-588)4114978-6    
+751      |a Brescia    |0 (DE-588)4008213-1    
+852 4    |b B404    |c 404U3    |j MUE Zesk 15    |9 (41SLSP_UBE)99116801920105511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Zesk 15    |b B404    |9 (41SLSP_UBE)99116801920105511    
+986      |a (41SLSP_UBE)99116801920105511    |9 (41SLSP_UBE)99116801920105511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116801920105511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

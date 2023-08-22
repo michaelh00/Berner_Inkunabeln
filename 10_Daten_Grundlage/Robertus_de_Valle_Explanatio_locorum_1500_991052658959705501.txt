@@ -1,0 +1,144 @@
+﻿<-1-1-START->
+Robertus de Valle
+<-1-1-STOP->
+
+<-1-2-START->
+Explanatio locorum Naturalis Historiae Plinii difficiliorum
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Vorwort und Schlusswort des Verfassers sowie einem Gedicht auf das Werk von "Iudocus", vielleicht Jodocus Badius Ascensius<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Paris: Félix Baligault für Durand Gerlier, zwischen 08.05. und 20.11.1500]
+<-3-1-STOP->
+
+<-4-1-START->
+178 ungezählte Seiten, 1 ungezähltes Blatt: Holzschnittinitialen, Druckermarke; 21 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M49369.htm<-L-5-STOP-><-VI-5-START->GW M49369<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/iv00079000<-L-5-STOP-><-VI-5-START->ISTC iv00079000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+90 von 90 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Pergamenteinband auf Kartondeckeln (18. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 2 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116786872805511<-L-11-STOP-><-VI-11-START->MUE Bong IV 922 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991052658959705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Robertus de Valle<-P-STOP->
+<-P-START->Badius Ascensius, Jodocus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Paris<-O-STOP->
+<-P-START->Baligault, Félix<-P-STOP->
+<-O-START->Paris<-O-STOP->
+<-P-START->Gerlier, Durand<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991052658959705501<-DOI-STOP->
+<-SIGN-START->MUE Bong IV 922 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03635nam a2200589 c 4500
+001 991052658959705501
+005 20211215171608.0
+008 100805s1500    fr            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/22.01.2020/B404/faf    
+035      |a (swissbib)06244736X-41slsp_network    
+035      |a 06244736X    |9 ExL    
+035      |a (IDSBB)005288561DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991052658959705501    
+035      |a (41SLSP_UBE)99116786872805511    |9 (41SLSP_UBE)99116786872805511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Robertus    |c de Valle    |d 1435-1500    |0 (DE-588)1030559015    |e Verfasser    |4 aut    
+240 1 0  |a Explanatio locorum Naturalis Historiae Plinii difficiliorum    
+245 1 0  |a Roberti de valle Rothomagensis Prologus in sequentem difficilium plinii explanatione[m]    
+246 1 0  |a Prologus in sequentem difficilium Plinii explanationem    
+246 1    |i Explicit    |a Explicationis terminorum naturalis historie plinii difficiliu[m]/ que multas poetrie/ philosophie/ medicineq[ue] obscuritates elucidat. Finis    
+246 1    |i Titel gemäss GW    |a Plinianorum difficilium explanatio    
+264   1  |a [Paris]    |b [Félix Baligault für Durand Gerlier]    |c [zwischen 08.05. und 20.11.1500]    
+300      |a 178 ungezählte Seiten, 1 ungezähltes Blatt    |c 21 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Vorwort und Schlusswort des Verfassers sowie einem Gedicht auf das Werk von "Iudocus", gemäss GW vielleicht Jodocus Badius Ascensius    
+500      |a Impressum gemäss ISTC    
+500      |a Druckermarke von Gerlier in Metallschnitt-Bordüren auf Titelseite    
+500      |a Signaturformel: []², b-m⁸    
+500      |a Blatt m₈ ist unbedruckt    
+500      |a Holzschnittinitialen    
+510 4    |a GW    |c M49369    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M49369.htm    
+510 4    |a ISTC    |c iv00079000    |u http://data.cerl.org/istc/iv00079000    
+530      |a Digitalisat (Exemplar der Bibliothèque nationale de France)    |u https://gallica.bnf.fr/ark:/12148/btv1b86054489    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Halbbezogener Pergamenteinband auf Kartondeckeln (18. Jh.)    
+563      |a Vorsätze: Vorne und hinten mit zwei fliegenden Blättern    
+563      |a Masse Einband: 20.5 x 15.3 x 3.7 cm    
+563      |a Zustand Einband: Zahlreiche Verfleckungen, Tintenschrift auf dem Rücken teilweise abgelöst, abgeschabte Stellen am Rücken    
+590      |a Buchblockbeschreibung: 90 von 90 Blättern, vorgesehene Stellen für Initialen frei gelassen    
+590      |a Zustand Buchblock: Loch in Blatt k₁ mit Textverlust    
+590      |a Wenige handschriftliche Annotationen und Unterstreichungen in Tinte; am Ende handschriftliche Notizen in Tinte    
+590      |a Zusammengebunden mit 2 weiteren Drucken in Sammelband    
+590      |a Historische Signaturen auf vorderem Spiegel: "Med: 363"; "Med 103." (auch auf Blatt b₁ recto des ersten Drucks im Sammelband)    
+590      |a Frühere Signaturen: Inc V 208; Med III 49; VI R 7    
+700 1    |a Badius Ascensius, Jodocus    |d 1462-1535    |0 (DE-588)11901808X    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Baligault, Félix    |d 14XX-150X    |0 (DE-588)1037624440    |e Drucker    |4 prt    
+700 1    |a Gerlier, Durand    |d 14XX-15XX    |0 (DE-588)1037571010    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 0 2  |a Robertus    |c de Valle    |d 1435-1500    |t Explanatio locorum Naturalis Historiae Plinii difficiliorum    |0 (DE-588)1203160704    
+751      |a Paris    |0 (DE-588)4044660-8    
+852 4    |b B404    |c 404U3    |j MUE Bong IV 922 : 2    |9 (41SLSP_UBE)99116786872805511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc V 208 : 2    |c 404U3    |z Zusammengebunden mit 2 weiteren Drucken in Sammelband    |p 12    |j MUE Bong IV 922 : 2    |b B404    |9 (41SLSP_UBE)99116786872805511    
+986      |a (41SLSP_UBE)99116786872805511    |9 (41SLSP_UBE)99116786872805511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116786872805511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116786872805511    
+991      |a Bongars: 14106    |5 IZ UBE/B400/05.08.2010    |9 LOCAL    |9 (41SLSP_UBE)99116786872805511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

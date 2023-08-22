@@ -1,0 +1,133 @@
+﻿<-1-1-START->
+Albertus Magnus
+<-1-1-STOP->
+
+<-1-2-START->
+De mineralibus
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Giovanni und Gregorio de Gregori, 22.06.1495
+<-3-1-STOP->
+
+<-4-1-START->
+21 Blätter, 2 ungezählte Seiten: Druckermarke; 33 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-151.html<-L-5-STOP-><-VI-5-START->BSB-Ink A-151<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW00688.htm<-L-5-STOP-><-VI-5-START->GW 00688<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ia00281000<-L-5-STOP-><-VI-5-START->ISTC ia00281000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+22 von 22 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Pergamenteinband (17./18. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 4 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116903046905511<-L-11-STOP-><-VI-11-START->MUE Inc I 72 : 5<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991080179979705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Albertus Magnus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Gregori, Giovanni de<-P-STOP->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Gregori, Gregorio de<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991080179979705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 72 : 5<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 02830nam a2200529 c 4500
+001 991080179979705501
+005 20211223112400.0
+008 171010s1495    it |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/10.10.2017/B404/faf    
+035      |a (swissbib)074335480-41slsp_network    
+035      |a 074335480    |9 ExL    
+035      |a (IDSBB)006738160DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991080179979705501    
+035      |a (41SLSP_UBE)99116903046905511    |9 (41SLSP_UBE)99116903046905511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Albertus    |c Magnus, Heiliger    |d 1193-1280    |0 (DE-588)118637649    |e Verfasser    |4 aut    
+240 1 0  |a De mineralibus    
+245 1 0  |a Liber Alberti De Mineralibus    
+246 1    |i Incipit    |a Alberti Magni philosopho[rum] maximi de mineralibus liber primus incipit    
+264   1  |a Impressum Venetijs    |b per Joannem [et] Gregorium de Gregorijs fratres    |c Anno d[omi]ni. M.cccc.lxxxxv. die. xxij. Junij [22.06.1495]    
+300      |a 21 Blätter, 2 ungezählte Seiten    |c 33 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Inhaltsverzeichnis    
+500      |a Keine Titelseite, nur Kopftitel    
+500      |a Impressum gemäss Kolophon    
+500      |a Druckermarke am Ende    
+500      |a Signaturformel: aa–cc⁶, dd⁴    
+510 4    |a BSB-Ink    |c A-151    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-151.html    
+510 4    |a GW    |c 00688    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW00688.htm    
+510 4    |a ISTC    |c ia00281000    |u http://data.cerl.org/istc/ia00281000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0004/bsb00045497/images    
+563      |a Einbandbeschreibung: Ganzbezogener Pergamenteinband (17./18. Jh.)    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 32.4 x 23.5 x 6.7 cm    
+563      |a Zustand Einband: Kratzer und Abrieb am Einbandpergament, Pergamentrücken deformiert    
+590      |a Buchblockbeschreibung: 22 von 22 Blättern, vorgesehene Stellen für Initialen frei gelassen    
+590      |a Wenige handschriftliche Annotationen in Graphit    
+590      |a Zusammengebunden mit 4 weiteren Drucken in Sammelband    
+590      |a Historische Signatur auf Titelseite des ersten Drucks im Sammelband: "Phil 97"    
+590      |a Frühere Signatur: Inc 199    
+700 1    |a Gregori, Giovanni <<de>>    |d ca. 15./16. Jh.    |0 (DE-588)129998311    |e Drucker    |4 prt    
+700 1    |a Gregori, Gregorio <<de>>    |d ca. 15./16. Jh.    |0 (DE-588)120750678    |e Drucker    |4 prt    
+700 0 2  |a Albertus    |c Magnus, Heiliger    |d 1193-1280    |t De mineralibus    |0 (DE-588)4397590-2    
+710 1    |a De Gregori, Giovanni & De Gregori, Gregorio    |4 prt    |0 (DE-588)1050734394    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Inc I 72 : 5    |9 (41SLSP_UBE)99116903046905511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 4 weiteren Drucken in Sammelband    |p 12    |j MUE Inc I 72 : 5    |b B404    |9 (41SLSP_UBE)99116903046905511    
+986      |a (41SLSP_UBE)99116903046905511    |9 (41SLSP_UBE)99116903046905511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116903046905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

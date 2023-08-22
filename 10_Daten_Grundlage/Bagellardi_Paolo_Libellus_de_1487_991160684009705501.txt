@@ -1,0 +1,140 @@
+﻿<-1-1-START->
+Bagellardi, Paolo
+<-1-1-STOP->
+
+<-1-2-START->
+Libellus de aegritudinibus et remediis infantium
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Padua]: Matthaeus Cerdonis, 10.11.1487
+<-3-1-STOP->
+
+<-4-1-START->
+22 Blätter: Holzschnittinitialen; 22 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW03167.htm<-L-5-STOP-><-VI-5-START->GW 03167<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib00011000<-L-5-STOP-><-VI-5-START->ISTC ib00011000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+22 von 22 Blättern, Holzschnittinitialen rot koloriert, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (rot eingefärbt, Ziege), Verschlussbänder fehlend, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 5 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116735438705511<-L-11-STOP-><-VI-11-START->MUE Inc III 68 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991160684009705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Bagellardi, Paolo<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Padua<-O-STOP->
+<-P-START->Matthaeus Cerdonis<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991160684009705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 68 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04370nam a2200613 c 4500
+001 991160684009705501
+005 20211215201326.0
+007 cr#|||||||||||
+008 180703s1487    it |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/03.07.2018/B404/faf    
+024 7    |a 10.3931/e-rara-91663    |2 doi    
+035      |a (swissbib)07099109X-41slsp_network    
+035      |a 07099109X    |9 ExL    
+035      |a (IDSBB)006810487DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991160684009705501    
+035      |a (41SLSP_UBE)99116735438705511    |9 (41SLSP_UBE)99116735438705511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Bagellardi, Paolo    |d -1492    |0 (DE-588)102422567    |e Verfasser    |4 aut    
+240 1 0  |a Libellus de aegritudinibus et remediis infantium    
+245 1 0  |a Finit per breue opusculum de infantium infirmitatibus remedijsq[ue] ea[rum]    |c Editus per egregium ac famosissimum artium [et] medicine doctore[m] m[a]g[ist]r[u]m Paulu[m] bagellardu[m] a flumine    
+246 1    |i Titel in normalisierter Form    |a Finit per breve opusculum de infantium infirmitatibus remediisque earum    
+246 1    |i Incipit    |a Ad Illustrissimum principem dominum Nicolau[m] Tronu[m]. dignissimu[m] ducem Ueneciarum dominum suu[m] p[rae]cipuum. Libellus de egritudinibus infantiu[m]. per magistrum Paulum Bagellardu[m] a flumie edit[us] incipit foeliciter    
+246 1    |i Incipit in normalisierter Form    |a Ad illustrissimum principem dominum Nicolaum Tronum dignissimum ducem Veneciarum dominum suum praecipuum. Libellus de egritudinibus infantium per magistrum Paulum Bagellardum a Flumie editus incipit foeliciter    
+246 1    |i Titel gemäss GW und ISTC    |a De infantium aegritudinibus et remediis    
+264   1  |a [Padua]    |b p[er] p. matheu[m] d[e] vindischgretz    |c imp[re]ssus die. 10. noue[m]bris. ... 1.4.8.7.    
+300      |a 22 Blätter    |c 22 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+337      |b c    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+338      |b cr    |2 rdacarrier    
+500      |a Mit Inhaltsverzeichnis    
+500      |a Keine Titelseite, Titel gemäss Kolophon    
+500      |a Drucker und Druckdatum gemäss Kolophon; Reihenfolge der Vorlage: "[et] imp[re]ssus die. 10. noue[m]bris. p[er] p. matheu[m] d[e] vindischgretz. 1.4.8.7."    
+500      |a Druckort gemäss GW und ISTC    
+500      |a Holzschnittinitialen    
+500      |a Signaturformel: [a-b⁸, c⁶]    
+510 4    |a GW    |c 03167    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW03167.htm    
+510 4    |a ISTC    |c ib00011000    |u http://data.cerl.org/istc/ib00011000    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (rot eingefärbt, Ziege), Verschlussbänder fehlend, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, handschriftlich mit Tinte auf Vorderdeckel: "Michael Scotus, Secreta mulie[rum], Tractat[us] de [...?]"    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 22 x 15.6 x 4 cm    
+563      |a Zustand Einband: Schädlingsfrass an Vorsätzen und Deckeln, Verschlussbänder vollständig fehlend, starke Verfleckungen an beiden Deckeln, Brüche im Einbandleder am Rücken, Lederüberklebungen am Rücken und an den Ecken, hinterer Spiegel teilweise hochgelöst    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 22 von 22 Blättern, handschriftliche Lagensignatur in Rot (teils abgeschnitten), Pergamentverstärkung in den Lagenmitten zum Teil auf einzelne Bundstationen beschränkt, Holzschnittinitialen rot koloriert, rot ausgezeichnete Initialen, Rubrizierung    
+590      |a Handschriftliche Annotationen und Anstreichungen in Tinte, teilweise auf Deutsch    
+590      |a Zusammengebunden mit 5 weiteren Drucken in Sammelband    
+590      |a Historische Signatur auf vorderem Spiegel: "Lit: 517."; auf Titelseite des ersten Drucks im Sammelband: "Liter. 26[?]", korrigiert zu "Phil 88"    
+590      |a Frühere Signatur: Inc 410    
+700 0    |a Matthaeus    |c Cerdonis    |d -1487    |0 (DE-588)102698716    |e Drucker    |4 prt    
+700 1 2  |a Bagellardi, Paolo    |d -1492    |t Libellus de aegritudinibus et remediis infantium    |0 (DE-588)1162156716    
+751      |a Padua    |0 (DE-588)4044295-0    
+852 4    |b B404    |c 404U3    |j MUE Inc III 68 : 2    |9 (41SLSP_UBE)99116735438705511    
+856 4    |u https://doi.org/10.3931/e-rara-91663    |z Digitalisat in e-rara    
+900      |a IDSIxunikat    
+900      |a IDSIxhybrid-el    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 5 weiteren Drucken in Sammelband    |p 12    |j MUE Inc III 68 : 2    |b B404    |9 (41SLSP_UBE)99116735438705511    
+986      |a (41SLSP_UBE)99116735438705511    |9 (41SLSP_UBE)99116735438705511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116735438705511    
+990      |f erarabe    |9 local    |9 (41SLSP_UBE)99116735438705511    
+990      |f lza-cc0    |9 local    |9 (41SLSP_UBE)99116735438705511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,154 @@
+﻿<-1-1-START->
+Simonetta, Giovanni
+<-1-1-STOP->
+
+<-1-2-START->
+Rerum gestarum Sfortiae commentarii
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit einer Oratio des Herausgebers Francesco Dal Pozzo an Ludovico Sforza, einem Vorwort des Verfassers an Gian Galeazzo Sforza und einem Brief von Franciscus Philelphus an den Verfasser<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Mailand: Antonio Zarotto, 1482?
+<-500-START->ISTC datiert "between 6 July 1481 and 3 Feb. 1482"; gemäss G. Ianziti wurde der Druck erst 1483 beendet<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+580 ungezählte Seiten, 2 ungezählte Blätter; 33 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M42283.htm<-L-5-STOP-><-VI-5-START->GW M42283<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/is00532000<-L-5-STOP-><-VI-5-START->ISTC is00532000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+290 von 292 Blättern, rot und blau ausgezeichnete Initialen
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Kalb), partiell schwarz eingefärbt, Ornamentstempel- und Punzen-Goldprägung sowie Linien- und Ornament-Goldprägung (Bogensatz und Fileten) auf beiden Deckeln inkl. Kanten und Rücken, Linien-Blindprägung an den Deckelinnenkanten, Titeldruck in Goldprägung auf dem Vorderdeckel, auf Rückdeckel goldgeprägtes Monogramm aus den Buchstaben HNORSTV
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Thomas Mahieu; Jean Grolier de Servières; Flor. Damain; Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Die Blätter N₄ und N₅ fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116868315505511<-L-11-STOP-><-VI-11-START->MUE Bong V 1047<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991140285269705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Simonetta, Giovanni<-P-STOP->
+<-P-START->Dal Pozzo, Francesco<-P-STOP->
+<-P-START->Philelphus, Franciscus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Mailand<-O-STOP->
+<-P-START->Zarotto, Antonio<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Mahieu, Thomas<-P-STOP->
+<-P-START->Grolier de Servières, Jean<-P-STOP->
+<-P-START->Damain, Flor.<-P-STOP->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991140285269705501<-DOI-STOP->
+<-SIGN-START->MUE Bong V 1047<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06813nam a2200673 c 4500
+001 991140285269705501
+005 20220104094412.0
+008 100801s1482    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/22.01.2020/B404/faf    
+035      |a (swissbib)062173324-41slsp_network    
+035      |a 062173324    |9 ExL    
+035      |a (IDSBB)005286061DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991140285269705501    
+035      |a (41SLSP_UBE)99116868315505511    |9 (41SLSP_UBE)99116868315505511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Simonetta, Giovanni    |d -1491    |0 (DE-588)118867261    |e Verfasser    |4 aut    
+240 1 0  |a Rerum gestarum Sfortiae commentarii    
+245 1 0  |a Finis Iis Comentariis Ab Primo Alphonsi In Italiam Adventv Et Ab Qvarto Et Vicesimo Svpra Qvadringentesimvm Et Milesimvm Anno A Natali Christiano Ad Sextvm Et Sexagesimvm Vsqve Annvm Non Divi Francisci Sphortiae Solvm Sed Omnivm Italicorvm Popvlorvm Regvm Et Rervm Pvblicarvm Facta Domi Forisqve Continentvr ...    
+246 1    |i Titel in normalisierter Form    |a Finis iis comentariis ab primo Alphonsi in Italiam adventu et ab quarto et vicesimo supra quadringentesimum et milesimum anno a natali Christiano ad sextum et sexagesimum usque annum non divi Francisci Sphortiae solum sed omnium Italicorum populorum regum et rerum publicarum facta domi forisque continentur ...    
+246 1    |i Incipit    |a Ad Illvstrissimvm Ac Moderatissimvm Principem Lvdovicvm Sphor: Vicecomitem Bari Dvcem Francisci Pvteolani Poetae Parmensis Oratio In Commentarios Rervm Ab Divo Francisco Sphortia Gestarvm    
+246 1    |i Incipit in normalisierter Form    |a Ad illustrissimum ac moderatissimum principem Ludovicum Sphor. vicecomitem Bari ducem Francisci Puteolani poetae Parmensis oratio in commentarios rerum ab divo Francisco Sphortia gestarum    
+246 1    |i Kopftitel von Buch 1    |a Iohannis Simonetae Rervm Gestarvm Francisci Sphortiae Mediolanensivm Dvcis Liber Primvs    
+246 1    |i Kopftitel von Buch 1 in normalisierter Form    |a Iohannis Simonetae rerum gestarum Francisci Sphortiae Mediolanensium ducis liber primus    
+246 1    |i Titel gemäss GW    |a Res gestae Francisci Sfortiae    
+246 1    |i Titel gemäss ISTC    |a Commentarii rerum gestarum Francisci Sfortiae    
+264   1  |a Mediolani    |b Antonivs Zarotvs Impressit    |c Decimo Kalendas Febrvarias [1482?]    
+300      |a 580 ungezählte Seiten, 2 ungezählte Blätter    |c 33 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit einer Oratio des Herausgebers Francesco Dal Pozzo an Ludovico Sforza, einem Vorwort des Verfassers an Gian Galeazzo Sforza und einem Brief von Franciscus Philelphus an den Verfasser    
+500      |a Keine Titelseite, Titel gemäss Kolophon (Blatt O₈ recto)    
+500      |a Impressum gemäss Kolophon; Reihenfolge der Vorlage: "Ea Nvnc ... Antonivs Zarotvs Impressit Mediolani Decimo Kalendas Febrvarias."    
+500      |a Druckjahr gemäss GW; ISTC datiert "between 6 July 1481 and 3 Feb. 1482"; gemäss G. Ianziti wurde der Druck erst 1483 beendet    
+500      |a Signaturformel: a-z⁸, A-E⁸, F-G⁶, H-K⁸, L⁶, M-N⁸, O¹⁰    
+500      |a Die Blätter O₉ und O₁₀ sind unbedruckt    
+510 4    |a GW    |c M42283    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M42283.htm    
+510 4    |a ISTC    |c is00532000    |u http://data.cerl.org/istc/is00532000    
+530      |a Digitalisat (Exemplar der Universitätsbibliothek Basel)    |u https://doi.org/10.3931/e-rara-38081    
+561      |a Handschriftlicher Besitzvermerk auf Blatt a₁ recto: "Bongarsii beneficio amicißimi Flor. Damani."; auf Blatt O₈ recto: "Jo. Grolierij Lugdunen[sis], et amicorum."; am unteren Rand des Vorderdeckels goldgeprägt: ".Tho. Maioli Et Amicorvm."    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Kalb), partiell schwarz eingefärbt, Ornamentstempel- und Punzen-Goldprägung sowie Linien- und Ornament-Goldprägung (Bogensatz und Fileten) auf beiden Deckeln inkl. Kanten und Rücken, Linien-Blindprägung an den Deckelinnenkanten, Titeldruck in Goldprägung auf dem Vorderdeckel: "Ioannis Simonetae Rer[um]. Gestar[um]. Fran. Sphor. Mediolan. Ducis. Lib. 30.", auf Rückdeckel goldgeprägtes Monogramm aus den Buchstaben HNORSTV    
+563      |a Vorsätze: Vorne und hinten mit drei fliegenden Blättern    
+563      |a Masse Einband: 32.5 x 22.8 x 5.5 cm    
+563      |a Zustand Einband: Stoss-Verletzung an unterer Kante des Vorderdeckels, Schwärzung am Vorderdeckel mit Schädigung des Leders grösstenteils abgelöst (Verletzung der Narbenschicht des Leders), Mittelkartusche und grosse Bereiche des Flechtwerkes auf dem Rückdeckel wirken nachgeschwärzt (über abgelösten Narbenbereichen), Lederüberklebungen am Rücken, an den Häubchen auf die Deckel greifend mit angleichenden Blindlinierungen und Einfärbungen, Lederüberklebungen an den gebrochenen Rückenfälzen teilweise hochgelöst, Verbräunung durch eingeklebte Falzverstärkung aus Japanpapier in beiden Vorsätzen    
+590      |a Buchblockbeschreibung: 290 von 292 Blättern, rot und blau ausgezeichnete Initialen (fehlend auf Blatt M₇ verso)    
+590      |a Zustand Buchblock: Schäden vor allem an blau ausgezeichneten Initialen (Verbräunung um blau ausgezeichnete Initiale an Blatt y₇ verso, Faseranhaftung von gegenüberliegender Seite an blau ausgezeichneter Initiale an Blatt N₆ recto), Schädlingsfrass in Lagen M, N und O    
+590      |a Unvollständiges Exemplar: Die Blätter N₄ und N₅ fehlen    
+590      |a Wenige handschriftliche Annotationen (Blatt a₃ verso) und Unterstreichungen in Tinte    
+590      |a Historische Signatur auf vorderem Spiegel: "Hist: Prof: 360", Zahl korrigiert zu "N°. 87. A."    
+590      |a Frühere Signaturen: Inc 295; Inc III 49; Rar 85; XIV 19    
+700 1    |a Dal Pozzo, Francesco    |d -1490    |0 (DE-588)137841299    |e Herausgeber    |e Verfasser von ergänzendem Text    |4 edt    |4 wst    
+700 1    |a Philelphus, Franciscus    |d 1398-1481    |0 (DE-588)118687182    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Zarotto, Antonio    |0 (DE-588)133182452    |e Drucker    |4 prt    
+700 1    |a Mahieu, Thomas    |d 16. Jh.    |0 (DE-588)1089787065    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Grolier de Servières, Jean    |d 1479-1565    |0 (DE-588)118698036    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Damain, Flor.    |d ca. 16. Jh.    |0 (DE-588)1203333471    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 1 2  |a Simonetta, Giovanni    |d -1491    |t Rerum gestarum Sfortiae commentarii    |0 (DE-588)1028358091    
+751      |a Mailand    |0 (DE-588)4037100-1    
+852 4    |b B404    |c 404U3    |j MUE Bong V 1047    |9 (41SLSP_UBE)99116868315505511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Rar 85    |c 404U3    |p 12    |j MUE Bong V 1047    |b B404    |9 (41SLSP_UBE)99116868315505511    
+986      |a (41SLSP_UBE)99116868315505511    |9 (41SLSP_UBE)99116868315505511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116868315505511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116868315505511    
+991      |a Bongars: 13076    |5 IZ UBE/B400/01.08.2010    |9 local    |9 (41SLSP_UBE)99116868315505511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

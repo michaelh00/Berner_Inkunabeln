@@ -1,0 +1,147 @@
+﻿<-1-1-START->
+Auctores octo opusculorum
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Enthält: Disticha Catonis. — Theodul: Ecloga. — Facetus cum nihil utilius. — De contemptu mundi. — Matthaeus Vindocinensis: Tobias. — Alanus ab Insulis: Parabolae. — Aesopus: Fabulae (in der in Distichen verfassten Version des Anonymus Neveleti). — Liber Floretus<-500-STOP->
+<-500-START->Sammlung moralischer Lehrtexte, die in dieser Zusammensetzung seit dem 14. Jahrhundert häufig publiziert wurden<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Lyon: [Jean de Vingle], 12.04.1498
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 369 ungezählte Seiten: 1 Illustration, 1 Holzschnittinitiale; 26 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/GW02799.htm<-L-5-STOP-><-VI-5-START->GW 02799<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/ia01183650<-L-5-STOP-><-VI-5-START->ISTC ia01183650<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+186 von 186 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Pergamenteinband auf Kartondeckeln (17./18. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116931364305511<-L-11-STOP-><-VI-11-START->MUE Bong VI 260<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991099298329705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Theodul<-P-STOP->
+<-P-START->Alanus ab Insulis<-P-STOP->
+<-P-START->Matthaeus Vindocinensis<-P-STOP->
+<-P-START->Aesopus<-P-STOP->
+<-P-START->Anonymus Neveleti<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Lyon<-O-STOP->
+<-P-START->Vingle, Jean de<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991099298329705501<-DOI-STOP->
+<-SIGN-START->MUE Bong VI 260<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04362nam a2200625 c 4500
+001 991099298329705501
+005 20211215185030.0
+008 100415s1498    fr            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/15.04.2010    
+035      |a (swissbib)060059893-41slsp_network    
+035      |a 060059893    |9 ExL    
+035      |a (IDSBB)005213115DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991099298329705501    
+035      |a (41SLSP_UBE)99116931364305511    |9 (41SLSP_UBE)99116931364305511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+130 0    |a Auctores octo opusculorum    |0 (DE-588)4613079-2    
+245 1 0  |a Actores octo opusculorum    |b cum commentarijs diligentissime emendati: videlicet. Cathonis. Theodoli. Faceti. Cartule alias de contemptu mundi. Thobiadis. Parabolarum alani. Fabularum esopi. Floreti    
+246 1    |i Titel gemäss GW und ISTC    |a Auctores octo cum glossa    
+264   1  |a Impressi Lugduni    |b [Jean de Vingle]    |c Anno domini .M.CCCC.xcviij. Die vero xij. Aprilis. [12.04.1498]    
+300      |a 1 ungezähltes Blatt, 369 ungezählte Seiten    |b 1 Illustration    |c 26 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Sammlung lateinischer, moralischer Lehrtexte, die in dieser Zusammensetzung seit dem 14. Jahrhundert häufig publiziert wurden    
+500      |a Druckort und Druckdatum gemäss Kolophon (Blatt z₁₀ recto), Drucker gemäss GW und ISTC    
+500      |a Signaturformel: a-y⁸, z¹⁰    
+500      |a Blatt a₁ verso (Rückseite der Titelseite) und Blatt z₁₀ verso unbedruckt    
+500      |a Auf der Titelseite Holzschnittinitiale und Holzschnittillustration (Lehrer doziert vor Papst, Kardinälen und Bischöfen)    
+505 0 0  |g (Kopftitel:) Blatt a₆ verso    |t Liber Cathonis    |g Blatt d₃ verso    |t Liber Theodoli    |g Blatt g₈ verso    |t Liber Faceti    |g Blatt h₇ verso    |t Liber De contemtpu mundi    |g Blatt k₅ verso (Kopftitel schon auf k₅ recto)    |t Liber Thobie    |g Blatt r₁ verso    |t Liber Parabolarum Alani    |g Blatt s₅ verso    |t Liber Fabularum Esopi    |g Blatt v₈ verso    |t Liber Floreti    
+510 4    |a GW    |c 02799    |u https://www.gesamtkatalogderwiegendrucke.de/docs/GW02799.htm    
+510 4    |a ISTC    |c ia01183650    |u https://data.cerl.org/istc/ia01183650    
+530      |a Digitalisat (Exemplar der Universitat de Barcelona)    |u https://bipadi.ub.edu/digital/collection/incunables/id/21174    
+561      |a Handschriftlicher Besitzvermerk auf der Titelseite: "Bongars"    
+563      |a Einbandbeschreibung: Ganzbezogener Pergamenteinband auf Kartondeckeln (17./18. Jahrhundert)    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 25.3 x 18.5 X 4.3 cm    
+563      |a Zustand Einband: Schäden am Einbandpergament, Fälze beider Vorsätze mit Japanpapierüberklebungen    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 186 von 186 Blättern, vorgesehene Stellen für Initialen frei gelassen, keine Rubrizierung    
+590      |a Zustand Buchblock: zahlreiche Verfleckungen; Blatt n₁ mit überstehender Ecke (Beschnittmass sichtbar)    
+590      |a Bindefehler: Blätter der Lage b in der Reihenfolge b₇, b₈, b₃, b₄, b₅, b₆, b₁, b₂    
+590      |a Historische Signatur auf der Titelseite: "Poet. 10"    
+590      |a Frühere Signaturen: Inc III 72; Inc 470; Hortin XXIV 7    
+700 0 2  |a Theodul    |t Ecloga    |0 (DE-588)4546087-5    
+700 0 2  |a Alanus    |c ab Insulis    |d 1120-1202    |t Parabolae    |0 (DE-588)4447728-4    
+700 0 2  |a Matthaeus    |c Vindocinensis    |d ca. 12. Jh.    |t Tobias    |0 (DE-588)1187858374    
+700 0 2  |a Aesopus    |d ca. v6. Jh.    |t Fabulae    |9 U:Hang    |9 L:kaz    |0 (DE-588)4206676-1    
+700 0 2  |a Anonymus    |c Neveleti    |d ca. 12. Jh.    |t Esopus    |0 (DE-588)7747197-0    
+700 1    |a Vingle, Jean <<de>>    |d -1513    |0 (DE-588)1037565029    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+730 0    |a Disticha Catonis    |0 (DE-588)4150239-5    
+730 0    |a Facetus cum nihil utilius    |0 (DE-588)4390926-7    
+730 0    |a De contemptu mundi    |g Gedicht    |f ca. 12. Jh.    |0 (DE-588)1187673234    
+730 0    |a Liber Floretus    |0 (DE-588)1187862800    
+751      |a Lyon    |0 (DE-588)4036770-8    
+852 4    |b B404    |c 404U3    |j MUE Bong VI 260    |9 (41SLSP_UBE)99116931364305511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc III 72    |c 404U3    |p 12    |j MUE Bong VI 260    |b B404    |9 (41SLSP_UBE)99116931364305511    
+986      |a (41SLSP_UBE)99116931364305511    |9 (41SLSP_UBE)99116931364305511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116931364305511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116931364305511    
+991      |a Bongars: 00884    |5 IZ UBE/B400/15.04.2010    |9 LOCAL    |9 (41SLSP_UBE)99116931364305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

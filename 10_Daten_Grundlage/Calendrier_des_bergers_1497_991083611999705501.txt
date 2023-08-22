@@ -1,0 +1,142 @@
+﻿<-1-1-START->
+Calendrier des bergers
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Genf: [Jean Belot, nicht vor 1497]
+<-500-START->Gemäss ISTC zwischen 5. Februar 1498 und 1500 gedruckt<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+178 ungezählte Seiten, 1 ungezähltes Blatt: Illustrationen, Holzschnittinitialen, Druckermarke; 26 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW05912.htm<-L-5-STOP-><-VI-5-START->GW 05912<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/ic00056500<-L-5-STOP-><-VI-5-START->ISTC ic00056500<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+84 von 90 Blättern, Illustrationen teilweise koloriert
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener einteiliger Kartoneinband mit flächig gefärbtem Papier (chamois, 18. Jahrhundert) 
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 2 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Die Blätter a₁-₂, a₇-₈, o₁ und o₈ fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116736896905511<-L-11-STOP-><-VI-11-START->MUE Inc I 84 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991083611999705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Genf<-O-STOP->
+<-P-START->Belot, Jean<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991083611999705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 84 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03992nam a2200637 c 4500
+001 991083611999705501
+005 20211215184534.0
+007 cr#|||||||||||
+008 151113s1497    sz            00| | fre d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/26.07.2018/B404/faf    
+024 7    |a 10.3931/e-rara-88383    |2 doi    
+035      |a (swissbib)067118127-41slsp_network    
+035      |a 067118127    |9 ExL    
+035      |a (IDSBB)006451911DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991083611999705501    
+035      |a (41SLSP_UBE)99116736896905511    |9 (41SLSP_UBE)99116736896905511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+130 0    |a Calendrier des bergers    |0 (DE-588)7669464-1    
+245 1 0  |a <<Le>> kalendrier des bergiers    
+246 1    |i Kolophon    |a Cy fine le grant compost et kalendrier des bergiers    
+246 1    |i Titel gemäss ISTC    |a Compost et kalendrier des bergiers    
+264   1  |a Imprime a genesue    |b [Jean Bellot]    |c [nicht vor 1497]    
+300      |a 178 ungezählte Seiten, 1 ungezähltes Blatt    |b Illustrationen    |c 26 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+337      |b c    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+338      |b cr    |2 rdacarrier    
+500      |a Druckort gemäss Kolophon    
+500      |a Drucker und Druckjahr gemäss GW; gemäss ISTC zwischen 5. Februar 1498 und 1500 gedruckt    
+500      |a Druckermarke von Bellot am Ende    
+500      |a Rot- und Schwarzdruck    
+500      |a Holzschnittinitialen    
+500      |a Bei der Illustration wurden einige Druckstöcke mehrfach verwendet    
+500      |a Signaturformel: a⁸, []⁸, c–n⁶, o⁸    
+500      |a Blatt o₈ ist unbedruckt    
+510 4    |a GW    |c 05912    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW05912.htm    
+510 4    |a ISTC    |c ic00056500    |u https://data.cerl.org/istc/ic00056500    
+563      |a Einbandbeschreibung: Ganzbezogener einteiliger Kartoneinband mit flächig gefärbtem Papier (chamois, 18. Jh.)    
+563      |a Vorsätze: Vorne mit einem und hinten ohne fliegendes Blatt    
+563      |a Masse Einband: 25.8 x 20.0 x 3.8 cm    
+563      |a Zustand Einband: Papierüberzug an den Fälzen und Deckelkanten zurückgeklebt und geglättet, Buchblock mit Moltongewebe hinterklebt    
+590      |a Buchblockbeschreibung: 84 von 90 Blättern, Papierfalz zwischen den Lagen [] und a gehört zur Vorsatzkonstruktion, handschriftliche Paginierung in Graphit (17-32, 5-12, 33-178), Illustrationen teilweise koloriert    
+590      |a Zustand Buchblock: Korrosionsschaden an den Blättern f₃ und f₄, vormalige Tintenabdeckungen an den Holzschnitten der Blätter f₅ verso, f₆ recto, i₁ recto und i₂ recto mit Papierverlust abgeschabt, zum Teil stark ausgeprägte Wasserränder im Falz und im Holzschnittbereich, Tintenschrift unterhalb der Druckermarke auf Blatt o₇ verso radiert mit Fehlstellen im Papier sowie Überklebung mit Papier an dieser Stelle, Doppelblätter im Falz mit Büttenpapier verstärkt, Risse mit dünnem Japanpapier geschlossen    
+590      |a Unvollständiges Exemplar: Die Blätter a₁-₂, a₇-₈, o₁ und o₈ fehlen    
+590      |a Bindefehler: Lage a hinter Lage [] gebunden    
+590      |a "1497." mit Tinte hinter Kolophon geschrieben    
+590      |a Auf den Blättern f₄ verso und f₅ verso wurde je ein Wort getilgt (auf Blatt f₄ verso mit Loch im Blatt)    
+590      |a Handschriftliche Annotation in Tinte auf Blatt h₁ recto    
+590      |a Zusammengebunden mit 2 weiteren Drucken in Sammelband    
+590      |a Handschriftliches Inhaltsverzeichnis des Sammelbands in Tinte auf vorderem fliegendem Vorsatzblatt verso    
+590      |a Frühere Signatur: Inc 395 a    
+700 1    |a Belot, Jean    |d ca. 15.-16. Jh.    |0 (DE-588)1037579208    |e Drucker    |4 prt    
+751      |a Genf    |0 (DE-588)4020137-5    
+852 4    |b B404    |c 404U3    |j MUE Inc I 84 : 1    |9 (41SLSP_UBE)99116736896905511    
+856 4    |u https://doi.org/10.3931/e-rara-88383    |z Digitalisat in e-rara    
+900      |a IDSIxunikat    
+900      |a IDSIxhybrid-el    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 2 weiteren Drucken in Sammelband    |p 12    |j MUE Inc I 84 : 1    |b B404    |9 (41SLSP_UBE)99116736896905511    
+986      |a (41SLSP_UBE)99116736896905511    |9 (41SLSP_UBE)99116736896905511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116736896905511    
+990      |f erarabe    |9 local    |9 (41SLSP_UBE)99116736896905511    
+990      |f lza-cc0    |9 local    |9 (41SLSP_UBE)99116736896905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

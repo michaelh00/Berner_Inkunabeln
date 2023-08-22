@@ -1,0 +1,165 @@
+﻿<-1-1-START->
+Euclides
+<-1-1-STOP->
+
+<-1-2-START->
+Elementa
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Liber XIV und XV wurden Euclid zugeschrieben, sind jedoch apokryphe Bücher<-500-STOP->
+<-500-START->Liber XIV (über reguläre in eine Kugel eingeschriebene Polyeder) stammt von Hypsicles, die Verfasserschaft von liber XV ist nicht geklärt<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Vicenza: Leonardus Achates und Guillelmus de Papia, 13.05.1491
+<-500-START->Druckdatum möglicherweise auch 20.06.1491 (ungewöhnliche Angabe: "Vigesimo Calen[das] Iun[ii]")<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 272 ungezählte Seiten, 1 ungezähltes Blatt: Diagramme, Holzschnittinitialen; 32 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_E-107.html<-L-5-STOP-><-VI-5-START->BSB-Ink E-107<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/GW09429.htm<-L-5-STOP-><-VI-5-START->GW 09429<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ie00114000<-L-5-STOP-><-VI-5-START->ISTC ie00114000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+135 von 138 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, marmoriert, Schaf, 18. Jahrhundert) mit Linien- und Ornamentstempel-Blindprägung am Rücken
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Oswald Wisner; Philipp Emanuel von Fellenberg; Hofwil, Schulen
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Epytoma in almagestum Ptolomaei / Johannes Regiomontanus. Venedig: Johann Hamann für Kaspar Grosch und Stephan Römer, 1496
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Unbedrucktes Blatt a₁, sowie die Blätter c₁ und c₈ fehlen; stattdessen unbedruckte Blätter mit handschriftlich ergänztem Text und geometrischen Figuren eingebunden
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116730023505511<-L-11-STOP-><-VI-11-START->MUE Inc VI 1 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991089102099705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Euclides<-P-STOP->
+<-P-START->Hypsicles<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Vicenza<-O-STOP->
+<-P-START->Achates, Leonardus<-P-STOP->
+<-O-START->Vicenza<-O-STOP->
+<-P-START->Guillelmus de Papia<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Wisner, Oswald<-P-STOP->
+<-P-START->Fellenberg, Philipp Emanuel von<-P-STOP->
+<-P-START->Hofwil, Schulen<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991089102099705501<-DOI-STOP->
+<-SIGN-START->MUE Inc VI 1 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06337nam a2200793 c 4500
+001 991089102099705501
+005 20211215175622.0
+008 190702s1491    it |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/03.07.2019/B404/vhav    
+035      |a (swissbib)072595175-41slsp_network    
+035      |a 072595175    |9 ExL    
+035      |a (IDSBB)007100742DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991089102099705501    
+035      |a (41SLSP_UBE)99116730023505511    |9 (41SLSP_UBE)99116730023505511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a lat    |a grc    
+100 0    |a Euclides    |d ca. v3. Jh.    |0 (DE-588)118638955    |e Verfasser    |4 aut    
+240 1 0  |a Elementa    
+245 1 0  |a Opus elementorum euclidis megarensis in geometriam artem in id quoq[ue] Campani perspicacissimi Commentationes finiunt    
+246 1    |i Titel in normalisierter Form    |a Opus elementorum Euclidis Megarensis in geometriam artem in id quoque Campani perspicacissimi commentationes finiunt    
+246 1 0  |a Opus elementorum Euclidis Megarensis in geometriam artem    
+246 1    |i Incipit    |a Preclarissimus liber elementorum Euclidis perspicacissimi: in artem Geometrie incipit qua[m]fœlicissime    
+246 1 0  |a Preclarissimus liber elementorum Euclidis perspicacissimi: in artem Geometrie    
+246 1    |i Titel gemäss ISTC    |a Elementa geometriae    
+264   1  |a Impresu[m] Vincentiæ    |b per Magistrum Leonardu[m] de Basilea & Gulielmu[m] de Papia Socios    |c Anno salutis M.cccclxxxxi. Vigesimo. Calen. Iun[ii]. [13.05.1491]    
+300      |a 1 ungezähltes Blatt, 272 ungezählte Seiten, 1 ungezähltes Blatt    |b Diagramme    |c 32 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss Kolophon (Blatt r₇ verso)    
+500      |a Liber XIV (Blatt q₃ recto) und XV (Blatt r₄ recto) wurden Euclid zugeschrieben, sind jedoch apokryphe Bücher    
+500      |a Liber XIV (über reguläre in eine Kugel eingeschriebene Polyeder) stammt von Hypsicles, die Verfasserschaft von liber XV ist nicht geklärt    
+500      |a Impressum gemäss Kolophon; das Druckdatum könnte auch den 20.06.1491 meinen (Angabe für 13.05. ungewöhnlich, wäre korrekterweise "ante diem tertium Idus Maias")    
+500      |a Signaturformel: a¹⁰, b-r⁸    
+500      |a Blätter a₁ und r₈ unbedruckt    
+500      |a Incipit auf Blatt a₂ (erste Textseite) in Rotdruck    
+500      |a Blatt a₂ mit Holzschnittrahmen    
+500      |a Holzschnittinitialen    
+500      |a Zahlreiche geometrische Figuren, beschriftet oder mit Buchstaben versehen, neben dem Text    
+510 4    |a BSB-Ink    |c E-107    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_E-107.html    
+510 4    |a GW    |c 09429    |u https://www.gesamtkatalogderwiegendrucke.de/docs/GW09429.htm    
+510 4    |a ISTC    |c ie00114000    |u http://data.cerl.org/istc/ie00114000    
+530      |a Digitalisat (Exemplar der Biblioteca de Catalunya, Barcelona)    |u http://mdc.csuc.cat/cdm/ref/collection/incunableBC/id/39477    
+561      |a Stempel auf eingebundenem Blatt vor Blatt a₂: "Hofwyl"    
+561      |a Handschriftlicher Besitzvermerk auf der Titelseite: "hic lib[er] est Osualdi Wisner" (gemäss Martin Germann Berner Astronom und Mathematiker Oswald Wissner, Ende des 15. Jahrhunderts; nicht nachgewiesen)    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun,marmoriert, Schaf, 18. Jahrhundert) mit Linien- und Ornamentstempel-Blindprägung am Rücken, Titelschild in Goldprägung auf dem Rücken: "Euclides & Reigiomontanus" sowie unten goldgeprägte Initialen: "S.R." (Bedeutung unklar); mit Lesebändchen (grün)    
+563      |a Vorsätze: vorne mit vier und hinten mit sechs fliegenden Blättern    
+563      |a Masse: 31.3 x 23.1 x 4.9 cm    
+563      |a Zustand Einband: Brüche und Fehlstellen im Einbandleder am Rückdeckel, Ecken deformiert    
+590      |a Buchblockbeschreibung: 135 von 138 Blättern, keine Rubrizierung    
+590      |a Zustand Buchblock: Verfleckungen und Griffspuren, teilweise eng beschriebene Seiten mit verschiedenen Tinten, Blattabdruck und Spuren vormalig eingespresster Pflanzenteile an den Blättern q₆ und q₇    
+590      |a Unvollständiges Exemplar: Das unbedrucktes Blatt a₁, sowie die Blätter c₁ und c₈ fehlen    
+590      |a Anstelle der Blätter c₁ und c₈ sind je zwei unbedruckte Blätter eingebunden, auf denen der Text handschriftlich ergänzt wurde, einschliesslich der geometrischen Figuren    
+590      |a Vor Blatt g₅ zusätzlicher Zettel (8 x 9 cm) eingeklebt, mit handschriftlichen Annotationen in Deutsch, in Tinte (18. Jahrhundert)    
+590      |a Unterer Rand von Blatt a₂ hochgefaltet, da der Holzschnittrahmen den Druckspiegel der Recto-Seite vergrössert    
+590      |a Auf zwei der vorderen Vorsatzblätter handschriftlicher Text auf Französisch, 18. Jahrhundert, mit Angaben zur Geschichte der Überlieferung von Euklids Text, dessen Übersetzungen auch aus dem Arabischen des Johannes Campanus, sowie der Druckgeschichte mit den Illustrationen    
+590      |a Zahlreiche handschriftliche Annotationen in Tinte (zum Teil in Rot) auf fast jeder Seite, vor allem in der ersten Hälfte    
+590      |a Zusammengebunden mit: Regiomontanus, Johannes: Epytoma in almagestum Ptolomaei. - Venedig : Johann Hamann für Kaspar Grosch und Stephan Römer, 1496    
+590      |a Frühere Signatur: Fg Mb 20 : 1    
+700 0 2  |a Euclides    |d ca. v3. Jh.    |t Elementa    |0 (DE-588)4266253-9    
+700 0 2  |a Euclides    |d ca. v3. Jh.    |t Elementa 14    |0 (DE-588)4429161-9    
+700 0 2  |a Euclides    |d ca. v3. Jh.    |t Elementa 15    |0 (DE-588)4429180-2    
+700 0    |a Hypsicles    |d ca. v2. Jh.    |0 (DE-588)119388006    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Achates, Leonardus    |d 14XX-1497    |0 (DE-588)138093555    |e Drucker    |4 prt    
+700 0    |a Guillelmus de Papia    |0 (DE-588)1189695421    |e Drucker    |4 prt    
+700 1    |a Wisner, Oswald    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Fellenberg, Philipp Emanuel <<von>>    |d 1771-1844    |0 (DE-588)118686577    |e Früherer Eigentümer    |4 fmo    
+710 2    |a Hofwil    |g Schulen    |0 (DE-588)108593800X    |e Früherer Eigentümer    |4 fmo    
+751      |a Vicenza    |0 (DE-588)4063445-0    
+852 4    |b B404    |c 404U3    |j MUE Inc VI 1 : 1    |9 (41SLSP_UBE)99116730023505511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i MUE Fg Mb 20    |c 404U3    |z Zusammengebunden mit 1 weiteren Druck in Sammelband    |p 12    |j MUE Inc VI 1 : 1    |b B404    |9 (41SLSP_UBE)99116730023505511    
+986      |a (41SLSP_UBE)99116730023505511    |9 (41SLSP_UBE)99116730023505511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116730023505511    
+991      |a AAK: 252093    |5 IZ UBE/03.07.2019/B404/vha    |9 local    |9 (41SLSP_UBE)99116730023505511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

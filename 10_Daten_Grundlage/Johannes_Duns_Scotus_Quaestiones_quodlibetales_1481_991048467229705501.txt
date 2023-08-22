@@ -1,0 +1,151 @@
+﻿<-1-1-START->
+Johannes Duns Scotus
+<-1-1-STOP->
+
+<-1-2-START->
+Quaestiones quodlibetales
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Herausgeber: Thomas Penketh, im Kolophon genannt<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Johann Herbort für Johann von Köln und Nicolas Jenson (Johannes de Colonia, Nicolaus Jenson sociique), 14.11.1481
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 229 ungezählte Seiten: Druckermarke; 25 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_D-320.html<-L-5-STOP-><-VI-5-START->BSB-Ink D-320<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/GW09070.htm<-L-5-STOP-><-VI-5-START->GW 09070<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/id00395000<-L-5-STOP-><-VI-5-START->ISTC id00395000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+116 von 116 Blättern, rot ausgezeichnete Initiale "U" auf Blatt A₂ (anstelle der Anfangsinitiale "C" ein Bibliotheksstempel), Rubrizierung nur bis Blatt A₇
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun, Schaf) mit einer mittigen Schliesse, Linien- und Ornamentstempel-Blindprägung an beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Franz Kolb; Kloster Thorberg
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116814036005511<-L-11-STOP-><-VI-11-START->MUE Inc IV 57 : 5<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991048467229705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Johannes Duns Scotus<-P-STOP->
+<-P-START->Penketh, Thomas<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Johann von Köln<-P-STOP->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Jenson, Nicolas<-P-STOP->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Herbort, Johann<-P-STOP->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Johannes de Colonia, Nicolaus Jenson sociique<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Kolb, Franz<-P-STOP->
+<-P-START->Kloster Thorberg<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991048467229705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 57 : 5<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06142nam a2200649 c 4500
+001 991048467229705501
+005 20220214105346.0
+008 800529s1481    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/20.12.2013/B400/vha    
+019      |a Nach Vorlage rekatalogisiert    |5 IDSBB/13.10.2020/B404/vha    
+035      |a (swissbib)064694410-41slsp_network    
+035      |a 064694410    |9 ExL    
+035      |a (IDSBB)006205048DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991048467229705501    
+035      |a (41SLSP_UBE)99116814036005511    |9 (41SLSP_UBE)99116814036005511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Johannes    |c Duns Scotus    |d 1266-1308    |0 (DE-588)118528165    |e Verfasser    |4 aut    
+240 1 0  |a Quaestiones quodlibetales    
+245 1 0  |a Expliciu[n]t q[uaesti]ones quodlibe    |c edita a fratre Joa[n]ne duns. ordinis fratru[m] minoru[m] doctore ... Per excellentissimu[m] sacre theologie doctore[m] mag[ist]r[u]m Thoma[m] pe[n]keth anglicu[m] ordinis fr[atru]m he[r]mitaru[m] ....    
+246 1    |i Titel in normalisierter Form    |a Expliciunt quaestiones quodlibetales    
+246 1    |i Titel gemäss BSB-Ink und ISTC    |a Quodlibeta    
+246 1    |i Incipit    |a [C]Uncte res difficiles ait Salomon Ec. 1. ...    
+246 1    |i Incipit in normalisierter Form    |a Cuncte res difficiles ait Salomon Ec. 1. ...    
+264   1  |a Impresse Venetijs    |b op[er]e ac impe[n]sa Joa[n]nis d[e] Colo[n]ia. Nicolai Je[n]son. socioru[m]q[ue] Curam ac diligentiam adhibuit in his su[m] i[n] hac arte vir: mag[iste]r Joannes d[e] Selgenstat no[n] mediocrit[er] obserua[n]dus    |c Anno salut[is] .1481. 14. Nouembris. [14.11.1481]    
+300      |a 1 ungezähltes Blatt, 229 ungezählte Seiten    |c 25 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Titel und Impressum gemäss Kolophon (Blatt P₇ verso)    
+500      |a Rot gedruckte Druckermarke auf Blatt P₈ verso    
+500      |a Signaturformel: A-C⁸, D¹², F-P⁸    
+500      |a Blatt A₁ unbedruckt; Blatt P₈ verso unbedruckt    
+510 4    |a BSB-Ink    |c D-320    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_D-320.html    
+510 4    |a GW    |c 09070    |u https://www.gesamtkatalogderwiegendrucke.de/docs/GW09070.htm    
+510 4    |a ISTC    |c id00395000    |u http://data.cerl.org/istc/id00395000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00052545/image_3    
+561      |a Handschriftlicher Besitzvermerk auf vorderem Spiegel: "Pertinet domui porte montis, donat[us] a [con]fr[atr]e m[a]g[ist]ro francisco kolb"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun, Schaf) mit einer mittigen Schliesse, Linien- und Ornamentstempel-Blindprägung an beiden Deckeln, Papiersignaturschild am Rücken mit Signatur des Klosters Thorberg: "D"; zugehörige römische Zahl nicht erhalten, möglicherweise LXXIX; in Tinte von späterer Hand auf dem Rücken: "Venet. 1481"    
+563      |a Vorsätze: Vorne mit 3 Blättern (drittes Blatt vormalig mit Blatt A₁ recto vollflächig verklebt, jetzt teilweise gelöst) und hinten mit einem fliegenden Blatt (vormalig mit Blatt P₈ verso vollflächig verklebt, jetzt teilweise gelöst)    
+563      |a Masse Einband: 24.0 x 17.8 x 3.8 cm    
+563      |a Zustand Einband: Reste eines herausgerissenen fliegenden Blattes im Falz vor dem vorderen Spiegel, mit Fehlstelle an jetzt vorderstem fliegenden Blatt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 116 von 116 Blättern, handschriftliche Foliierung auf den Recto-Seiten oben rechts (von Blatt A₂ = 1 bis P₅ = 112); Papierfalz an Blatt A₈ verso gehört zu um die Lage gehängtem fliegenden Blatt (drittes vorderes fliegendes Blatt), Papierfalz an Blatt P₁ recto gehört zu um die Lage gehängtem fliegendem Blatt, Beschnittmass des Buchblocks an umgeknickten Ecken der Blätter D₈ und J₂, sowie der umgeknickten Blattkante an Blättern A₅ und A₆ sichtbar; rot ausgezeichnete Initiale "U" auf Blatt A₂ (anstelle der Anfangsinitiale "C" ein Bibliotheksstempel), sonst vorgesehene Stellen für Initialen frei gelassen; Rubrizierung nur von Blatt A₂ bis A₇ recto    
+590      |a Zustand Buchblock: Starke Verschmutzung der ersten Seiten, Benutzungspuren aus Umlaufeinheit ohne Einband (Tintennotationen, zum Beispiel an Blättern L₁ verso und L₂ recto, bis weit in den Bundsteg hinein), bräunliche Verfleckung an Blättern F₄ verso und G₁ sowie G₂ recto mit, weisslichen Ablagerungen bzw.Ausblühungen, sowie gepresster Spinne(!) zwischen Blättern G₁ und G₂    
+590      |a Dieser Band wurde den vier Teilen von Johannes Duns Scotus: Ordinatio [das ist: Quaestiones in quattuor libros Sententiarum], Venedig, 1481 (BSB-Inc D-305, GW 9075), als Teil 5 hinzugestellt. Im BMC (V 302) wird er auch als Teil des vorangestellten Werks angesehen    
+590      |a Zahlreiche handschriftliche Annotationen in Tinte; Blatt A₁ verso mit Notizen vollgeschrieben    
+590      |a Historische Signaturen auf Blatt A₂ recto: "Theol. 64" (durchgestrichen), sowie unten: "Theol. Lit. b. 4. No. 58"    
+590      |a Frühere Signatur: Inc 528    
+700 1 2  |a Duns Scotus, Johannes    |d 1266-1308    |t Quaestiones quodlibetales    |0 (DE-588)1088016464    
+700 1    |a Penketh, Thomas    |d 14XX-1487    |0 (DE-588)103115684    |e Herausgeber    |4 edt    
+700 0    |a Johann    |c von Köln    |d 14XX-1480    |0 (DE-588)129032921    |e Verlag    |4 pbl    
+700 1    |a Jenson, Nicolas    |d 1420-1480    |0 (DE-588)118917153    |e Verlag    |4 pbl    
+700 1    |a Herbort, Johann    |d 14XX-1485    |0 (DE-588)129031704    |e Drucker    |4 prt    
+700 1    |a Kolb, Franz    |d 1465-1535    |0 (DE-588)123161312    |e Früherer Eigentümer    |4 fmo    
+710 2    |a Johannes de Colonia, Nicolaus Jenson sociique    |0 (DE-588)1219543314    |e Drucker    |4 prt    
+710 2    |a Kloster Thorberg    |0 (DE-588)7725716-9    |e Früherer Eigentümer    |4 fmo    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 57 : 5    |9 (41SLSP_UBE)99116814036005511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc IV 57 : 5    |b B404    |9 (41SLSP_UBE)99116814036005511    
+986      |a (41SLSP_UBE)99116814036005511    |9 (41SLSP_UBE)99116814036005511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116814036005511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

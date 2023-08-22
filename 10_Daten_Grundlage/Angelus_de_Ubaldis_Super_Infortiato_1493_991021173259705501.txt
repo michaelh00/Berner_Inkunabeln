@@ -1,0 +1,145 @@
+﻿<-1-1-START->
+Angelus de Ubaldis
+<-1-1-STOP->
+
+<-1-2-START->
+Super Infortiato
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Mailand: Ulrich Scinzenzeler für Giovanni Da Legnano, 18.05.1493
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 253 ungezählte Seiten: Druckermarke; 42 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M48622.htm<-L-5-STOP-><-VI-5-START->GW M48622<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/iu00007500<-L-5-STOP-><-VI-5-START->ISTC iu00007500<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+127 von 128 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Pergamenteinband auf Kartondeckeln (Makulaturpergament, 19. Jahrhundert) mit Papier (blau)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Philipp Lotmar
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Das unbedruckte Blatt a₁ fehlt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116909157905511<-L-11-STOP-><-VI-11-START->MUE Inc I 115<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991021173259705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Angelus de Ubaldis<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Mailand<-O-STOP->
+<-P-START->Scinzenzeler, Ulrich<-P-STOP->
+<-O-START->Mailand<-O-STOP->
+<-P-START->Da Legnano, Giovanni<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Lotmar, Philipp<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991021173259705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 115<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04046nam a2200625 c 4500
+001 991021173259705501
+005 20211221144939.0
+007 cr#|||||||||||
+008 170809s1493    it |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/09.08.2017/B404/faf    
+024 7    |a 10.3931/e-rara-92246    |2 doi    
+035      |a (swissbib)072010657-41slsp_network    
+035      |a 072010657    |9 ExL    
+035      |a (IDSBB)006720806DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991021173259705501    
+035      |a (41SLSP_UBE)99116909157905511    |9 (41SLSP_UBE)99116909157905511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Angelus    |c de Ubaldis    |d 1327-1407    |0 (DE-588)100936482    |e Verfasser    |4 aut    
+240 1 0  |a Super Infortiato    
+245 1 0  |a Explicit lectura aurea [et] peregrina prestantissimi iuris vtriusq[ue] monarce .d. Angeli de Ubaldis de Perusio super Inforciato q[uam] diligentissime [et] accuratissime castigata    
+246 1 0  |a Super Inforciato    
+246 1    |i Incipit    |a Incipit lectura aurea ac peregrina sup[er] toto Infortiato per exhimium in toto terrarum orbe ac celebratissimum iuris vtriusq[ue] doctorem .d. angelum de vbaldis de perusio. ex proprio originali transumpta    
+246 1    |i Incipit in normalisierter Form    |a Incipit lectura aurea ac peregrina super toto Infortiato per exhimium in toto terrarum orbe ac celebratissimum iuris utriusque doctorem d. Angelum de Ubaldis de Perusio, ex proprio originali transumpta    
+246 1    |i Titel gemäss ISTC    |a Super Infortiatum    
+246 1    |i Titel in normalisierter Form    |a Explicit lectura aurea et peregrina prestantissimi iuris utriusque monarce d. Angeli de Ubaldis de Perusio super Inforciato quam diligentissime et accuratissime castigata    
+264   1  |a Impressa Mediolani    |b per Magistrum Uldericum Scinzenzeler    |b opera [et] impensa Magistri Johannis de Lignano    |c Anno Mcccclxxxxiij. die .xviij. Maij [18.05.1493]    
+300      |a 1 ungezähltes Blatt, 253 ungezählte Seiten    |c 42 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+337      |b c    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+338      |b cr    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss Explicit    
+500      |a Impressum gemäss Kolophon    
+500      |a Druckermarke von Scinzenzeler am Ende    
+500      |a Signaturformel: a-i⁸, A-G⁸    
+500      |a Blatt a₁ ist unbedruckt    
+510 4    |a GW    |c M48622    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M48622.htm    
+510 4    |a ISTC    |c iu00007500    |u http://data.cerl.org/istc/iu00007500    
+561      |a Exlibris auf vorderem Spiegel: "Philipp Lotmar" (Blanko-Exlibris des Antiquariats Volckmann & Jerosch in Rostock, Name handschriftlich eingetragen)    
+563      |a Einbandbeschreibung: Halbbezogener Pergamenteinband auf Kartondeckeln (Makulaturpergament, 19. Jh.) mit Papier (blau)    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 41.5 x 29.4 x 3.3 cm    
+563      |a Zustand Einband: Zahlreiche Verfleckungen, Pergamentrücken mit Brüchen und Rissen, Stauchungen an den Deckelkanten mit Einrissen im Einbandpapier    
+590      |a Buchblockbeschreibung: 127 von 128 Blättern, fehlende Lagensignatur auf Blatt A₄ handschriftlich in Tinte eingetragen, vorgesehene Stellen für Initialen frei gelassen    
+590      |a Zustand Buchblock: Schädlingsfrass an den ersten und letzten Lagen    
+590      |a Unvollständiges Exemplar: Das unbedruckte Blatt a₁ fehlt    
+590      |a Wenige handschriftliche Annotationen und Anstreichungen in Tinte    
+700 1    |a Scinzenzeler, Ulrich    |d -1500    |0 (DE-588)13839413X    |e Drucker    |4 prt    
+700 1    |a Da Legnano, Giovanni    |0 (DE-588)1037566084    |e Verlag    |4 pbl    
+700 1    |a Lotmar, Philipp    |d 1850-1922    |0 (DE-588)119096722    |e Früherer Eigentümer    |4 fmo    
+700 0 2  |a Angelus    |c de Ubaldis    |d 1327-1407    |t Super Infortiato    |0 (DE-588)1137895004    
+751      |a Mailand    |0 (DE-588)4037100-1    
+852 4    |b B404    |c 404U3    |j MUE Inc I 115    |9 (41SLSP_UBE)99116909157905511    
+856 4    |u https://doi.org/10.3931/e-rara-92246    |z Digitalisat in e-rara    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+900      |a IDSIxhybrid-el    
+949      |c 404U3    |p 12    |j MUE Inc I 115    |b B404    |9 (41SLSP_UBE)99116909157905511    
+986      |a (41SLSP_UBE)99116909157905511    |9 (41SLSP_UBE)99116909157905511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116909157905511    
+990      |f erarabe    |9 local    |9 (41SLSP_UBE)99116909157905511    
+990      |f lza-cc0    |9 local    |9 (41SLSP_UBE)99116909157905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

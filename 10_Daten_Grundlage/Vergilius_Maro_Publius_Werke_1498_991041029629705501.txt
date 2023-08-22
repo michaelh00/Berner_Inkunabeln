@@ -1,0 +1,159 @@
+﻿<-1-1-START->
+Vergilius Maro, Publius
+<-1-1-STOP->
+
+<-1-2-START->
+Werke [lateinisch]
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Widmungsbrief von Antonio Mancinelli an Ursus de Ursinis, Widmungsvorreden von Cristoforo Landino an Piero di Lorenzo de' Medici, der Vita Vergilii und den Commentarii in Vergilii Eclogas von Aelius Donatus, den Kommentaren von Servius und Cristoforo Landino zu Bucolica, Georgica und Aeneis, dem Kommentar von Antonio Mancinelli zu Bucolica und Georgica, dem Kommentar von Tiberius Claudius Donatus zur Aeneis, den pseudo-ovidischen Argumenta zu Georgica und Aeneis (Tetrasticha in cunctis libris Vergilii. Georgica; Argumenta Aeneidis), dem Supplementum Aeneidos von Maphaeus Vegius (mit Argumentum des Giuseppe Brivio), der Appendix Vergiliana (teilweise mit Kommentar von Domitius de Calderiis), Versen von Alcimus Ecdicius Avitus und Pseudo-Cornelius Gallus, den Epitaphia virorum illustrium, der Summa Virgilianae narrationis in tribus operibus Bucolicis, Georgicis et Aeneide und weiteren Gedichten<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Simone Bevilacqua, 20.02.1497 more Veneto, das heisst 1498
+<-3-1-STOP->
+
+<-4-1-START->
+731 ungezählte Seiten: Holzschnittinitialen; 31 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_V-134.html<-L-5-STOP-><-VI-5-START->BSB-Ink V-134<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M49960.htm<-L-5-STOP-><-VI-5-START->GW M49960<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/iv00192000<-L-5-STOP-><-VI-5-START->ISTC iv00192000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+366 von 366 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jahrhundert) mit Sprenkelpapier (braun)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Studentenbibliothek (Bern)
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116681113105511<-L-11-STOP-><-VI-11-START->MUE Inc I 104<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991041029629705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Vergilius Maro, Publius<-P-STOP->
+<-P-START->Servius<-P-STOP->
+<-P-START->Donatus, Aelius<-P-STOP->
+<-P-START->Mancinelli, Antonio<-P-STOP->
+<-P-START->Landino, Cristoforo<-P-STOP->
+<-P-START->Donatus, Tiberius Claudius<-P-STOP->
+<-P-START->Vegius, Mapheus<-P-STOP->
+<-P-START->Brivio, Giuseppe<-P-STOP->
+<-P-START->Domitius de Calderiis<-P-STOP->
+<-P-START->Ovidius Naso, Publius<-P-STOP->
+<-P-START->Avitus, Alcimus Ecdicius<-P-STOP->
+<-P-START->Gallus, Gaius Cornelius<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Bevilacqua, Simone<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Studentenbibliothek (Bern)<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991041029629705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 104<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05285nam a2200709 c 4500
+001 991041029629705501
+005 20211215173112.0
+008 170824s1498    it |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/29.08.2017/B404/faf    
+035      |a (swissbib)072793112-41slsp_network    
+035      |a 072793112    |9 ExL    
+035      |a (IDSBB)006726505DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991041029629705501    
+035      |a (41SLSP_UBE)99116681113105511    |9 (41SLSP_UBE)99116681113105511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Vergilius Maro, Publius    |d v70-v19    |0 (DE-588)118626574    |e Verfasser    |4 aut    
+240 1 0  |a Werke    
+245 1 0  |a Vergilius cum commentariis quinq[ue] uidelicet Seruii, Landini, Ant. Mancinelli, Donati, Domitii    
+246 1    |i Titel gemäss BSB-Ink, GW und ISTC    |a Opera    
+246 1    |i Titel in normalisierter Form    |a Vergilius cum commentariis quinque videlicet Servii, Landini, Ant. Mancinelli, Donati, Domitii    
+264   1  |a Impressum Venetiis    |b p[er] Simone[m] papie[n]sem dictu[m] Beuilaq[ua]    |c Anno a natiuitate D[omi]ni .M.cccclxxxxvii. die .xx. Febru. [20.02.1497 more Veneto, das heisst 1498]    
+300      |a 731 ungezählte Seiten    |c 31 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Widmungsbrief von Antonio Mancinelli an Ursus de Ursinis, Widmungsvorreden von Cristoforo Landino an Piero di Lorenzo de' Medici, der Vita Vergilii und dem Commentarii in Vergilii Eclogas von Aelius Donatus, den Kommentaren von Servius und Cristoforo Landino zu Bucolica, Georgica und Aeneis, dem Kommentar von Antonio Mancinelli zu Bucolica und Georgica, dem Kommentar von Tiberius Claudius Donatus zur Aeneis, den pseudo-ovidischen Argumenta zu Georgica und Aeneis, dem Supplementum Aeneidos von Maphaeus Vegius (mit Argumentum des Giuseppe Brivio), der Appendix Vergiliana (teilweise mit Kommentar von Domitius de Calderiis) und weiteren Gedichten    
+500      |a Mit Inhaltsverzeichnis    
+500      |a Impressum gemäss Kolophon    
+500      |a Signaturformel: a⁶, b–z⁸, &⁸, [con]⁸, [rum]⁸, A–V⁸    
+500      |a Holzschnittinitialen    
+510 4    |a BSB-Ink    |c V-134    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_V-134.html    
+510 4    |a GW    |c M49960    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M49960.htm    
+510 4    |a ISTC    |c iv00192000    |u http://data.cerl.org/istc/iv00192000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0005/bsb00056698/images    
+561      |a Stempel auf Titelseite: Studentenbibliothek Bern    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jh.) mit Sprenkelpapier (braun), Linien-Goldprägung sowie Titelschild auf dem Rücken    
+563      |a Vorsätze: Vorne mit zwei und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 30.5 x 22.7 x 5.9 cm    
+563      |a Zustand Einband: Verschwärzungen an den Vorsätzen, Schäden am Einbandleder an den Bünden im Falz, Lederüberklebung an unterer Ecke am Vorderdeckel    
+590      |a Buchblockbeschreibung: 366 von 366 Blättern, vorgesehene Stellen für Initialen frei gelassen, Lesebändchen    
+590      |a Zustand Buchblock: Feuchtigkeitsränder im Falz und am Fussschnitt    
+590      |a Handschriftliche Annotationen in Tinte (teils abgeschnitten)    
+590      |a Frühere Signatur: Phil fol 74    
+700 0    |a Servius    |d ca. 4./5. Jh.    |0 (DE-588)118796313    |e Kommentarverfasser    |4 wac    
+700 1    |a Donatus, Aelius    |d ca. 4. Jh.    |0 (DE-588)118526715    |e Verfasser    |e Kommentarverfasser    |4 aut    |4 wac    
+700 1    |a Mancinelli, Antonio    |d 1452-1505    |0 (DE-588)124652174    |e Kommentarverfasser    |e Verfasser eines Vorworts    |4 wac    |4 wpr    
+700 1    |a Landino, Cristoforo    |d 1424-1498    |0 (DE-588)118569112    |e Kommentarverfasser    |e Verfasser eines Vorworts    |4 wac    |4 wpr    
+700 1    |a Donatus, Tiberius Claudius    |d ca. 4./5. Jh.    |0 (DE-588)119161702    |e Kommentarverfasser    |4 wac    
+700 1    |a Vegius, Mapheus    |d 1407-1458    |0 (DE-588)100963757    |e Verfasser    |4 aut    
+700 1    |a Brivio, Giuseppe    |d 1378-1450    |0 (DE-588)118967509    |e Verfasser von ergänzendem Text    |4 wst    
+700 0    |a Domitius    |c de Calderiis    |d 1446-1478    |0 (DE-588)100940056    |e Kommentarverfasser    |4 wac    
+700 1    |a Bevilacqua, Simone    |d 1450-1518    |0 (DE-588)128983388    |e Drucker    |4 prt    
+700 1 2  |a Vergilius Maro, Publius    |d v70-v19    |t Werke    |0 (DE-588)1138731986    
+700 0 2  |a Servius    |d ca. 4./5. Jh.    |t In Vergilii carmina commentarii    |0 (DE-588)4138843-4    
+700 1 2  |a Donatus, Aelius    |d ca. 4. Jh.    |t Vita Vergilii    |0 (DE-588)4311612-7    
+700 1 2  |a Donatus, Aelius    |d ca. 4. Jh.    |t Commentarii in Vergilii eclogas    |0 (DE-588)4558955-0    
+700 1 2  |a Donatus, Tiberius Claudius    |d ca. 4./5. Jh.    |t Interpretationes Vergilianae    |0 (DE-588)4559024-2    
+700 1 2  |a Ovidius Naso, Publius    |d v43-17    |t Tetrasticha in cunctis libris Vergilii    |p Georgica    |0 (DE-588)4475683-5    
+700 1 2  |a Ovidius Naso, Publius    |d v43-17    |t Argumenta Aeneidis    |0 (DE-588)4475668-9    
+700 1 2  |a Vegius, Mapheus    |d 1406-1458    |t Supplementum Aeneidos    |0 (DE-588)4717147-9    
+710 2    |a Studentenbibliothek    |g Bern    |0 (DE-588)1124859993    |e Früherer Eigentümer    |4 fmo    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Inc I 104    |9 (41SLSP_UBE)99116681113105511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc I 104    |b B404    |9 (41SLSP_UBE)99116681113105511    
+986      |a (41SLSP_UBE)99116681113105511    |9 (41SLSP_UBE)99116681113105511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116681113105511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,136 @@
+﻿<-1-1-START->
+Cicero, Marcus Tullius
+<-1-1-STOP->
+
+<-1-2-START->
+Ad familiares
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Neapel: Arnaldus de Bruxella, 07.08.1474
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 324 ungezählte Seiten, 1 ungezähltes Blatt; 33 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW06813.htm<-L-5-STOP-><-VI-5-START->GW 06813<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ic00512500<-L-5-STOP-><-VI-5-START->ISTC ic00512500<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+162 von 164 Blättern, rot und blau ausgezeichnete Initialen (teilweise in Tinte ausgeschmückt), auf Blatt [a₂] recto mehrfarbige und mit Gold gehöhte Initiale und Randbordüre, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert) 
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Die unbedruckten Blätter [a₁] und [u₈] fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116906502305511<-L-11-STOP-><-VI-11-START->MUE Bong IV 872<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991052246679705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Cicero, Marcus Tullius<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Neapel<-O-STOP->
+<-P-START->Arnaldus de Bruxella<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991052246679705501<-DOI-STOP->
+<-SIGN-START->MUE Bong IV 872<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04181nam a2200541 c 4500
+001 991052246679705501
+005 20211215171537.0
+008 100512s1474    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/20.06.2019/B404/faf    
+035      |a (swissbib)061858803-41slsp_network    
+035      |a 061858803    |9 ExL    
+035      |a (IDSBB)005229033DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991052246679705501    
+035      |a (41SLSP_UBE)99116906502305511    |9 (41SLSP_UBE)99116906502305511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Cicero, Marcus Tullius    |d v106-v43    |0 (DE-588)118520814    |e Verfasser    |4 aut    
+240 1 0  |a Ad familiares    
+245 1 0  |a Epistole familiares Marci Tullii Ciceronis impresse ... Per Arnaldum de Bruxella expliciunt    
+246 1    |i Incipit    |a Marci. Tvllii. Ciceronis. Epistolarvm. Familiarivm. Liber. Primvs. Incipit ...    
+246 1    |i Incipit in normalisierter Form    |a Marci Tullii Ciceronis epistolarum familiarium liber primus incipit ...    
+246 1    |i Titel gemäss GW und ISTC    |a Epistolae ad familiares    
+264   1  |a impresse in Ciuitate Neapolis    |b Per Arnaldum de Bruxella    |c sub Serenissimo domino nostro domi[n]o Ferdinando Sicilie Rege. Anno a natiuitate domini .M.CCCC.LXXIIII. die septima mensis Augusti. Indictione septima [07.08.1474]    
+300      |a 1 ungezähltes Blatt, 324 ungezählte Seiten, 1 ungezähltes Blatt    |c 33 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss Explizit    
+500      |a Impressum gemäss Explizit; Reihenfolge der Vorlage: "... impresse in Ciuitate Neapolis sub Serenissimo domino nostro ... Per Arnaldum de Bruxella expliciunt."    
+500      |a Signaturformel: [a-b¹⁰, c-u⁸]    
+500      |a Die Blätter [a₁] und [u₈] sind unbedruckt    
+510 4    |a GW    |c 06813    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW06813.htm    
+510 4    |a ISTC    |c ic00512500    |u http://data.cerl.org/istc/ic00512500    
+530      |a Digitalisat (Exemplar der Biblioteca Apostolica Vaticana)    |u https://digi.vatlib.it/view/Stamp.Ross.1071    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jh.), Linien-Goldprägung sowie Titelschild in Golddruck am Rücken: "Ciceroni[s] Epistol[ae] 1474"    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 33 x 23.5 x 3.7 cm    
+563      |a Zustand Einband: Lederüberklebungen an den unteren Ecken und dem Rückdeckel, Falzverstärkungen mit Japanpapier an beiden Vorsätzen    
+590      |a Buchblockbeschreibung: 162 von 164 Blättern, falsche handschriftliche Lagensignatur in Graphit (20. Jh.), vollflächig verklebte Pergamentverstärkung in den Lagenmitten (in Lagen [o], [p] und [t] vollständig oder teilweise herausgelöst, in Lagen [q], [r] und [s] nicht vorhanden), rot und blau ausgezeichnete Initialen (teilweise in Tinte ausgeschmückt), auf Blatt [a₂] recto mehrfarbige und mit Gold gehöhte Initiale und Randbordüre, Rubrizierung (rote und blaue Paragraphenzeichen)    
+590      |a Zustand Buchblock: Schäden in der Malschicht mit Abplatzungen in der Vergoldung an Blatt [a₂] recto, Schädlingsfrass an den ersten und letzten Blättern und in Lagen [d] und [e], auffällige Verbräunungen in Lagen [i], [k], [l] und [p], Blätter [l₂] bis [l₄] mit umgeknickten Ecken (Beschnittausmass der Neueinbindung sichtbar)    
+590      |a Unvollständiges Exemplar: Die unbedruckten Blätter [a₁] und [u₈] fehlen    
+590      |a Handschriftliche Annotationen und Unterstreichungen in Tinte    
+590      |a Historische Signatur auf Blatt [a₂]: "Lit. 19."    
+590      |a Frühere Signaturen: Inc 292; Inc III 42; IV 22    
+700 0    |a Arnaldus    |c de Bruxella    |d 1432-1492    |0 (DE-588)118112509X    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 1 2  |a Cicero, Marcus Tullius    |d v106-v43    |t Ad familiares    |0 (DE-588)4338610-6    
+751      |a Neapel    |0 (DE-588)4041476-0    
+852 4    |b B404    |c 404U3    |j MUE Bong IV 872    |9 (41SLSP_UBE)99116906502305511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc III 42    |c 404U3    |p 12    |j MUE Bong IV 872    |b B404    |9 (41SLSP_UBE)99116906502305511    
+986      |a (41SLSP_UBE)99116906502305511    |9 (41SLSP_UBE)99116906502305511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116906502305511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116906502305511    
+991      |a Bongars: 03071    |5 IZ UBE/B400/12.05.2010    |9 LOCAL    |9 (41SLSP_UBE)99116906502305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

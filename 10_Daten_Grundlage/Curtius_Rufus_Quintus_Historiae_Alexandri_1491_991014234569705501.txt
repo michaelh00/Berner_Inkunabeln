@@ -1,0 +1,146 @@
+﻿<-1-1-START->
+Curtius Rufus, Quintus
+<-1-1-STOP->
+
+<-1-2-START->
+Historiae Alexandri Magni
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Verona: [Cristoforo da Montagu], 18.08.1491
+<-3-1-STOP->
+
+<-4-1-START->
+138 ungezählte Seiten, 1 ungezähltes Blatt; 33 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW07874.htm<-L-5-STOP-><-VI-5-START->GW 07874<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ic01001000<-L-5-STOP-><-VI-5-START->ISTC ic01001000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+69 von 70 Blättern, rot und blau ausgezeichnete Initialen
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Kalb, 16. Jahrhundert) mit Spuren vormaliger Verschlussbänder an allen Deckelkanten (chamois, Leder), Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Gilles de Gourmont; P. Sulfurius; Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Epitome historiarum Philippicarum Pompei Trogi / Marcus Iunianus Iustinus. Epitome de Tito Livio / Lucius Annaeus Florus. [Venedig: Giovanni Rosso und Albertino Viani für] Antonio Moretti, [um 1494]
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Das unbedruckte Blatt i₆ fehlt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116679098505511<-L-11-STOP-><-VI-11-START->MUE Bong V 925 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991014234569705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Curtius Rufus, Quintus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Verona<-O-STOP->
+<-P-START->Montagu, Cristoforo da<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Gourmont, Gilles de<-P-STOP->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-P-START->Sulfurius, P.<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991014234569705501<-DOI-STOP->
+<-SIGN-START->MUE Bong V 925 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04654nam a2200625 c 4500
+001 991014234569705501
+005 20211215163710.0
+008 100526s1491    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/24.01.2018/B404/faf    
+035      |a (swissbib)062439197-41slsp_network    
+035      |a 062439197    |9 ExL    
+035      |a (IDSBB)005234362DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991014234569705501    
+035      |a (41SLSP_UBE)99116679098505511    |9 (41SLSP_UBE)99116679098505511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Curtius Rufus, Quintus    |d ca. 1./2. Jh.    |0 (DE-588)118523074    |e Verfasser    |4 aut    
+240 1 0  |a Historiae Alexandri Magni    
+245 1 0  |a Qvintvs Cvrtivs    
+246 1    |i Titel in normalisierter Form    |a Quintus Curtius    
+246 1    |i Incipit    |a Q. Cvrtii De Rebvs Gestis Alexandri Magni Regis Macedonvm Liber Tertivs    
+246 1    |i Incipit in normalisierter Form    |a Q. Curtii de rebus gestis Alexandri Magni regis Macedonum liber tertius    
+246 1    |i Kolophon    |a Hos nouem. Q. Curtii libros de rebus gestis Alexandri Magni Regis Madedonu[m] quanaccuratissime recognitos ...    
+246 1    |i Kolophon in normalisierter Form    |a Hos novem Q. Curtii libros de rebus gestis Alexandri Magni Regis Madedonum quanaccuratissime recognitos ...    
+264   1  |a ... impressi fuere Verone    |b [Cristoforo da Montagu]    |c anno domini. .M.CCCC.LXXXXI. Die. xviii. Augusti. [18.08.1491]    
+300      |a 138 ungezählte Seiten, 1 ungezähltes Blatt    |c 33 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Druckort und Druckdatum gemäss Kolophon    
+500      |a Drucker gemäss GW und ISTC    
+500      |a Signaturformel: a–h⁸, i⁶    
+500      |a Blatt i₆ ist unbedruckt    
+510 4    |a GW    |c 07874    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW07874.htm    
+510 4    |a ISTC    |c ic01001000    |u http://data.cerl.org/istc/ic01001000    
+530      |a Digitalisat (Exemplar der Thüringer Universitäts- und Landesbibliothek Jena)    |u https://collections.thulb.uni-jena.de/receive/HisBest_cbu_00019090    
+561      |a Sammlung Bongars; Wappen des Pariser Buchhändlers Gilles de Gourmont auf Vorder- und Rückdeckel; handschriftlicher Besitzvermerk auf hinterem Spiegel: "P. Sulfurii parisien[sis]"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Kalb, 16. Jh.) mit Spuren vormaliger Verschlussbänder an allen Deckelkanten (chamois, Leder), Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, handschriftlicher Rückentitel in Tinte: "Iustinus & Q. Curt. 1491 Veronae", Reste eines Titelschilds aus Papier auf dem Vorderdeckel: "Iustin[us] [...] Qui[n]tus [...]"    
+563      |a Vorsätze: Vorne und hinten ohne fliegende Blätter; französische Pergament-Urkunde des 15. Jh. vorne und hinten als Ansatzfalz verwendet    
+563      |a Masse Einband: 32.5 x 22 x 2.6 cm    
+563      |a Zustand Einband: Lederüberklebungen an den Deckelecken und am Rücken, ergänzte Häubchen und Kapitalsteppung, Verschlussbänder fehlend, Spiegel angeschnitten und grossflächig herausgerissen    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 69 von 70 Blättern, rot und blau ausgezeichnete Initialen    
+590      |a Zustand Buchblock: Weisse Ausblühungen auf rotem und blauem Farbauftrag der Initialen    
+590      |a Unvollständiges Exemplar: Das unbedruckte Blatt i₆ fehlt    
+590      |a Handschriftliche Annotationen und Korrekturen von Bongars in Tinte    
+590      |a Handschriftliche Einträge in Tinte auf vorderem und hinterem Spiegel    
+590      |a Zusammengebunden mit: Epitome historiarum Philippicarum Pompei Trogi / Marcus Iunianus Iustinus. Venedig : Giovanni Rosso und Albertino Viani für Antonius Moretus, um 1494    
+590      |a Historische Signatur auf vorderem Spiegel: "Hist: Prof: 368.", Zahl korrigiert zu "367." und weiter zu "358."    
+590      |a Frühere Signaturen: Inc I 92; IV 29    
+700 1    |a Montagu, Cristoforo <<da>>    |d ca. 2. H. 15. Jh.    |0 (DE-588)1037638379    |e Drucker    |4 prt    
+700 1    |a Gourmont, Gilles <<de>>    |d 14XX-15XX    |0 (DE-588)1037571444    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |e Annotierende Person    |4 fmo    |4 ann    
+700 1    |a Sulfurius, P.    |e Früherer Eigentümer    |4 fmo    
+700 1 2  |a Curtius Rufus, Quintus    |d ca. 1./2. Jh.    |t Historiae Alexandri Magni    |0 (DE-588)4136898-8    
+751      |a Verona    |0 (DE-588)4063110-2    
+852 4    |b B404    |c 404U3    |j MUE Bong V 925 : 2    |9 (41SLSP_UBE)99116679098505511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc I 92 : 2    |c 404U3    |z Zusammengebunden mit 1 weiteren Druck in Sammelband    |p 12    |j MUE Bong V 925 : 2    |b B404    |9 (41SLSP_UBE)99116679098505511    
+986      |a (41SLSP_UBE)99116679098505511    |9 (41SLSP_UBE)99116679098505511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116679098505511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116679098505511    
+991      |a Bongars: 03732    |5 IZ UBE/B400/26.05.2010    |9 LOCAL    |9 (41SLSP_UBE)99116679098505511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

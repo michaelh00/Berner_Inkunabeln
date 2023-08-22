@@ -1,0 +1,144 @@
+﻿<-1-1-START->
+Savonarola, Girolamo
+<-1-1-STOP->
+
+<-1-2-START->
+Compendium revelationum
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Vorwort von Girolamo Benivieni<-500-STOP->
+<-500-START->Ganzseitiger Holzschnitt auf der Rückseite des Titelblatts "Le maure de sales"<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Paris: Guy Marchant, 06.08.1496
+<-3-1-STOP->
+
+<-4-1-START->
+74 ungezählte Seiten, 1 ungezähltes Blatt: 1 Illustration, Druckermarke; 19 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M40622.htm<-L-5-STOP-><-VI-5-START->GW M40622<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/is00177500<-L-5-STOP-><-VI-5-START->ISTC is00177500<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+38 von 38 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Flexibler Pergamenteinband mit durchzogenen Bünden (Leder) und Stosskanten sowie Spuren von Verschlussbändern (Leder)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 11 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116868046505511<-L-11-STOP-><-VI-11-START->MUE Bong I 527 : 7<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991068615129705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Savonarola, Girolamo<-P-STOP->
+<-P-START->Benivieni, Girolamo<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Paris<-O-STOP->
+<-P-START->Marchant, Guy<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991068615129705501<-DOI-STOP->
+<-SIGN-START->MUE Bong I 527 : 7<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05210nam a2200601 c 4500
+001 991068615129705501
+005 20211215184039.0
+008 100729s1496    fr            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/29.07.2010    
+035      |a (swissbib)062048503-41slsp_network    
+035      |a 062048503    |9 ExL    
+035      |a (IDSBB)005284917DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991068615129705501    
+035      |a (41SLSP_UBE)99116868046505511    |9 (41SLSP_UBE)99116868046505511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Savonarola, Girolamo    |d 1452-1498    |0 (DE-588)118605933    |e Verfasser    |4 aut    
+240 1 0  |a Compendium revelationum    
+245 1 0  |a Reuelatio de Tribulationibus nostrorum temporu[m]    |b de reformatione vniuerse dei ecclesie autore deo et de conuersione Turcoru[m] et infideliu[m] ad fidem nostra[m]    |c cito et velociter: ostensa Flore[n]tie hieronymo de ferraria: hoc tempore viue[n]ti Seruo Jesu Christi minimo    
+246 1    |i Titel in normalisierter Form    |a Revelatio de tribulationibus nostrorum temporum    |b de reformatione universe dei ecclesie autore deo et de conversione Turcorum et infidelium ad fidem nostram    
+246 1    |i Kopftitel Blatt a₃ recto    |a Compe[n]diu[m] reuelationu[m] inutilis serui Jesu christi fratris Hieronymi de ferraria ordinis predicatorum    
+246 1    |i Kopftitel in normalisierter Form    |a Compendium revelationum inutilis servi Jesu Christi fratris Hieronymi de Ferraria ordinis predicatorum    
+246 1    |i Titel gemäss ISTC    |a Compendium revelationum    
+264   1  |a Impressum Parisij    |b per Guidonem mercatoris In officina sua ...    |b Et inueniu[n]tur hi libri venales in intersignio Leonis argentei in vico sancti Jacobi prope Maturinos [bei Jean Petit]    |c Anno d[omi]ni. 1496 Die. vi. Augusti. [06.08.1496]    
+300      |a 74 ungezählte Seiten, 1 ungezähltes Blatt    |b 1 Illustration    |c 19 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Titelblatt mit Druckermarke (mit Initialen G M; Renouard 703)    
+500      |a Impressum gemäss Kolophon (Blatt e₅ verso); vollständig und in Reihenfolge der Vorlage: "Impressum Parisij per Guidonem mercatoris In officina sua retro collegium Nauerre In desce[n]su ad collegiu[m] Attrabate[n]se Anno d[omi]ni. 1496 Die. vi. Augusti. Et inueniu[n]tur hi libri venales in intersignio Leonis argentei in vico sancti Jacobi prope Maturinos."    
+500      |a Ganzseitiger Holzschnitt auf Titelblatt verso ("Le maure de sales")    
+500      |a Signaturformel: a-d⁸, e⁶    
+500      |a Blatt e₆ unbedruckt    
+505 0 0  |g Vorrede (Blatt a₂)    |t Hieronymus Beniueni[us] ciuis Florentinus accepte veritati fidelis astipulator ad libru[m]    
+510 4    |a GW    |c M40622    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M40622.htm    
+510 4    |a ISTC    |c is00177500    |u https://data.cerl.org/istc/is00177500    
+530      |a Digitalisat (Exemplar der Bibliothèque nationale de France)    |u https://gallica.bnf.fr/ark:/12148/bpt6k1106623    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Flexibler Pergamenteinband mit durchzogenen Bünden (Leder) und Stosskanten sowie Spuren von Verschlussbändern (Leder); auf dem Rücken handschriftlich in Tinte Auflistung von 5 Kurztiteln enthaltener Drucke; auf vorderem Deckel in Tinte Auflistung von Druckorten und Druckjahren enthaltener Drucke    
+563      |a Vorsätze: vorne und hinten mit zwei fliegenden Blättern    
+563      |a Masse Einband: 19.3 x 14.7 x 2.5 cm    
+563      |a Zustand Einband: Einbandpergament deformiert mit Wellenbildung, Spuren verblasster Tintenschrift unterhalb der aktuellen Rückenbeschriftung, Japanpapierüberklebungen an den vorderen Einschlägen des Einbandpergamentes und in vorderem und hinterem Falz, Verschlussbänder fehlend    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 38 von 38 Blättern, vorgesehene Stellen für Initialen im Vorwort (a₂ recto) freigelassen, beim Textbeginn (a₃ recto) "E" mit Tinte in Kurrentschrift ergänzt; keine Rubrizierung    
+590      |a Zustand Buchblock: zahlreiche Verfleckungen und Feuchtigkeitsränder ab Lage b, Heftung in Lage e an den Fizbünden gerissen; Blatt e₆ verso mit Blinddruckmarke in Form des Holzschnittes vom Titelblatt verso!    
+590      |a Wenige handschriftliche Annotationen und Anstreichungen am Rand in Tinte    
+590      |a Zusammengebunden mit 11 weiteren Drucken in Sammelband    
+590      |a Historische Signatur auf vorderem Innendeckel (Einschlag des Pergaments): "Hist: Eccl: 251."; "251" durchgestrichen, daneben: "154"    
+590      |a Frühere Signaturen: Inc V 129; Inc 501; Hortin XIV 11    
+700 1 2  |a Savonarola, Girolamo    |d 1452-1498    |t Compendium revelationum    |0 (DE-588)1169612792    
+700 1    |a Benivieni, Girolamo    |d 1453-1542    |0 (DE-588)119155427    |e Verfasser eines Vorworts    |4 wpr    
+700 1    |a Marchant, Guy    |d 14XX-1505    |0 (DE-588)138932433    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+751      |a Paris    |0 (DE-588)4044660-8    
+852 4    |b B404    |c 404U3    |j MUE Bong I 527 : 7    |9 (41SLSP_UBE)99116868046505511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc V 129 : 7    |c 404U3    |z Zusammengebunden mit 11 weiteren Drucken in Sammelband    |p 12    |j MUE Bong I 527 : 7    |b B404    |9 (41SLSP_UBE)99116868046505511    
+986      |a (41SLSP_UBE)99116868046505511    |9 (41SLSP_UBE)99116868046505511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116868046505511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116868046505511    
+991      |a Bongars: 12627    |5 IZ UBE/B400/29.07.2010    |9 LOCAL    |9 (41SLSP_UBE)99116868046505511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

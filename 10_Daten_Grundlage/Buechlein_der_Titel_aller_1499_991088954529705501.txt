@@ -1,0 +1,133 @@
+﻿<-1-1-START->
+Büchlein der Titel aller Stände
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Straßburg: Matthias Hupfuff, 1499
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 10 ungezählte Seiten; 21 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW05705.htm<-L-5-STOP-><-VI-5-START->GW 5705<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc//ib01272600<-L-5-STOP-><-VI-5-START->ISTC ib01272600<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+6 von 6 Blättern, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun, Schaf) mit mittiger Schliesse, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Simon Horman
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 6 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116885144205511<-L-11-STOP-><-VI-11-START->MUE Inc IV 34 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991088954529705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Hupfuff, Matthias<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Horman, Simon<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991088954529705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 34 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03311nam a2200529 c 4500
+001 991088954529705501
+005 20211215175109.0
+007 cr#|||||||||||
+008 160510s1499    fr |||||      00| ||ger d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/10.05.2016/B404/az    
+024 7    |a 10.3931/e-rara-88397    |2 doi    
+035      |a (swissbib)067083439-41slsp_network    
+035      |a 067083439    |9 ExL    
+035      |a (IDSBB)006500877DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991088954529705501    
+035      |a (41SLSP_UBE)99116885144205511    |9 (41SLSP_UBE)99116885144205511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+130 0    |a Büchlein der Titel aller Stände    |0 (DE-588)113638880X    
+245 1 0  |a In disem biechlin vindet man wie man einem ieglichen tütschen fürsten vn[d] herren schriben sol. Auch ritter und knechten stetten un[d] důrffern geystlichen und weltichem stat, eins yegliche[n] Brieffs anfang vn[d] Beschlus    
+246 1    |i Titel in moderner Orthografie    |a In diesem Büchlein findet man wie man einem jeglichen deutschen Fürsten und Herrn schreiben soll    
+246 1    |i Titel in normalisierter Form    |a In disem Biechlin vindet man wie man einem ieglichen tütschen Fürsten und Herren schriben sol. Auch Ritter und Knechten stetten und durffern geystlichen und weltichem stat, eins yeglichen Brieffs anfang und beschlus    
+264   1  |a Getruckt zů Straßburg    |b durch Mathis Hüpfuff    |c Im ior nach Crist geburt vc iv [1499]    
+300      |a 1 ungezähltes Blatt, 10 ungezählte Seiten    |c 21 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+337      |b c    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+338      |b cr    |2 rdacarrier    
+500      |a Druckort, Drucker und Druckjahr gemäss Kolophon    
+500      |a Signaturformel: a⁶    
+500      |a Blatt a₆ verso ist unbedruckt    
+510 4    |a GW    |c 5705    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW05705.htm    
+510 4    |a ISTC    |c ib01272600    |u http://data.cerl.org/istc//ib01272600    
+561      |a Handschriftlicher Besitzvermerk auf vorderem Spiegel: "Simon Horman 1596"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun, Schaf) mit mittiger Schliesse, Linien- und Ornamentstempel- Blindprägung auf beiden Deckeln    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 21.2 x 15.0 x 5.6 cm    
+563      |a Zustand Einband: Lederrücken vollständig ergänzt, Lederüberklebungen an den Ecken sowie am Rückdeckel, neue Vorsätze aus Japanpapier eingefügt, Kapitalumstechung gesichert    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 6 von 6 Blättern, Rubrizierung    
+590      |a Zusammengebunden mit sechs weiteren Werken in Sammelband    
+590      |a Historische Signatur auf vorderem Spiegel: "620" korrigiert zu "Hist. Prof 178"    
+700 1    |a Hupfuff, Matthias    |d 14XX-1520    |0 (DE-588)13352583X    |e Drucker    |4 prt    
+700 1    |a Horman, Simon    |d ca. 16./17. Jh.    |e Früherer Eigentümer    |4 fmo    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 34 : 2    |9 (41SLSP_UBE)99116885144205511    
+856 4    |u https://doi.org/10.3931/e-rara-88397    |z Digitalisat in e-rara    
+900      |a IDSIxunikat    
+900      |a IDSIxhybrid-el    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc IV 34 : 2    |b B404    |9 (41SLSP_UBE)99116885144205511    
+986      |a (41SLSP_UBE)99116885144205511    |9 (41SLSP_UBE)99116885144205511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116885144205511    
+990      |f erarabe    |9 local    |9 (41SLSP_UBE)99116885144205511    
+990      |f lza-cc0    |9 local    |9 (41SLSP_UBE)99116885144205511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

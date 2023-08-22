@@ -1,0 +1,141 @@
+﻿<-1-1-START->
+Guido de Monte Rocherii
+<-1-1-STOP->
+
+<-1-2-START->
+Manipulus curatorum. — Jacobus de Fusignano: De arte praedicandi
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Köln]: Johann Koelhoff, 14.04.1487
+<-500-START->Erscheinungsdatum (Kolophon: "in vigilia resurrectionis dominice") gemäss GW; gemäss BSB-Ink: 05.04., ISTC: 15.04.; Ostersonntag war jedoch der 15.04.1487<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 164 ungezählte Seiten, 1 ungezähltes Blatt; 29 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_G-453.html<-L-5-STOP-><-VI-5-START->BSB-Ink G-453<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/GW11725.htm<-L-5-STOP-><-VI-5-START->GW 11725<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ig00592000<-L-5-STOP-><-VI-5-START->ISTC ig00592000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+83 von 84 Blättern, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Kartondeckeln (braun, gesprenkelt, Schaf) mit Marmorpapier (rot, braun)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Christophorus Frater; L. Aegerter
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Das letzte, unbedruckte Blatt l₈ fehlt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116789182805511<-L-11-STOP-><-VI-11-START->MUE Inc VI 8<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991121766089705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Guido de Monte Rocherii<-P-STOP->
+<-P-START->Jacobus de Fusignano<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Köln<-O-STOP->
+<-P-START->Koelhoff, Johann<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Christophorus Frater<-P-STOP->
+<-P-START->Aegerter, L.<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991121766089705501<-DOI-STOP->
+<-SIGN-START->MUE Inc VI 8<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04241nam a2200577 c 4500
+001 991121766089705501
+005 20211215190500.0
+008 190911s1487    gw |||||      00| ||ger d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/11.09.2019/B404/vha    
+035      |a (swissbib)074768476-41slsp_network    
+035      |a 074768476    |9 ExL    
+035      |a (IDSBB)007117518DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991121766089705501    
+035      |a (41SLSP_UBE)99116789182805511    |9 (41SLSP_UBE)99116789182805511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Guido    |c de Monte Rocherii    |d ca. 14. Jh.    |0 (DE-588)100944175    
+240 1 0  |a Manipulus curatorum    
+245 1 0  |a Manipulus curato[rum]    |c Guido de monte rotherij    
+246 1    |i Kolophon (nur mit Titel des beigefügten Werks)    |a Finitur libellus de arte predica[n]di    
+246 1 0  |a Libellus de arte predicandi    
+264   1  |a [Coloniae]    |b Impressus p[er] me Joha[n]e[m] koelhoff de lubeck Colonie ciuem    |c Anno gr[atia]e Mcccclxxxvij. in vigilia resurrectionis dominice [14.04.1487]    
+300      |a 1 ungezähltes Blatt, 164 ungezählte Seiten, 1 ungezähltes Blatt    |c 29 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Verfasser des Hauptwerks genannt auf Blatt a₂ recto, linke Spalte, 6. Zeile    
+500      |a Beigefügtes Werk ab Blatt k₁: Jacobus de Fusignano: De arte praedicandi    
+500      |a Impressum gemäss Kolophon (Blatt l₇ verso); Erscheinungsdatum 14.04. gemäss GW; BSB-Ink: 05.04., ISTC: 15.04.; Ostersonntag war der 15.04.1487    
+500      |a Signaturformel: a⁸, b⁶, c–g⁸, h⁶, i–l⁸    
+505 0 0  |g Blatt k₁    |t Incipit libell[us] artis predicationis    |r [com]posit[us] a fratre Jacobo fusigna ordinis fr[atre]m p[rae]dicatoru[m]    
+510 4    |a BSB-Ink    |c G-453    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_G-453.html    
+510 4    |a GW    |c 11725    |u https://www.gesamtkatalogderwiegendrucke.de/docs/GW11725.htm    
+510 4    |a ISTC    |c ig00592000    |u http://data.cerl.org/istc/ig00592000    
+530      |a Digitalisat, ohne Lagen k und l, das heisst ohne beigefügtes Werk (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00039897/image_3    
+561      |a Handschriftlicher Besitzvermerk in Tinte auf Blatt a₂ recto: "In vsum fratris Christophori"; in schwächerer Tinte dahinter: "Mon[aste]rij Amorb: 053[?]" (Kloster Amorbach, Mainfranken)    
+561      |a 1938 erworben von "L. Aegerter" (Erwerbungsjournal)    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Kartondeckeln (braun, gesprenkelt, Schaf) mit Marmorpapier (rot, braun), goldgeprägtes Titelschild auf dem Rücken: "Guidonis De Monte Rocherii Manipulus Curatorum"    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 28.8 x 21.8 x 1.9 cm    
+563      |a Zustand Einband: Abrieb am Leder und Bezugspapier, Lederüberklebungen am unteren Häubchen    
+590      |a Buchblockbeschreibung: 83 von 84 Blättern, handschriftliche Foliierung in Graphit (1-83) auf den Recto-Seiten rechts oben; rot ausgezeichnete Initialen, Rubrizierung    
+590      |a Zustand Buchblock: Buchblock teilweise stark verbräunt (Lagen h, i und l), rotes Farbmittel der Initialen zum Teil stark abgerieben (Blatt l₁ recto), Grundierungs- oder Festigungsschaden an  ausgezeichneten Initialen der Blätter a₈ verso und b₁ recto, erstes Blatt der Lage a mit ausgeschnittenem und aufgeklebtem Titel nachträglich ergänzt    
+590      |a Letztes Blatt l₈ (unbedruckt) fehlt    
+590      |a Handschriftliche Annotationen in Tinte    
+700 0 2  |a Guido    |c de Monte Rocherii    |d ca. 14. Jh.    |t Manipulus curatorum    |0 (DE-588)1088009336    
+700 0    |a Jacobus    |c de Fusignano    |d -1333    |0 (DE-588)102500657    
+700 0 2  |a Jacobus    |c de Fusignano    |d -1333    |t De arte praedicandi    |0 (DE-588)1194677207    
+700 1    |a Koelhoff, Johann    |d -1493    |0 (DE-588)102507554    |e Drucker    |4 prt    
+700 1    |a Christophorus    |c Frater    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Aegerter, L.    |e Früherer Eigentümer    |4 fmo    
+751      |a Köln    |0 (DE-588)4031483-2    
+852 4    |b B404    |c 404U3    |j MUE Inc VI 8    |9 (41SLSP_UBE)99116789182805511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc VI 8    |b B404    |9 (41SLSP_UBE)99116789182805511    
+986      |a (41SLSP_UBE)99116789182805511    |9 (41SLSP_UBE)99116789182805511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116789182805511    
+991      |a AAK: 349992    |5 IZ UBE/11.09.2019/B404/vha    |9 local    |9 (41SLSP_UBE)99116789182805511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,153 @@
+﻿<-1-1-START->
+Ricobaldus Ferrariensis
+<-1-1-STOP->
+
+<-1-2-START->
+Compilatio chronologica
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Enthält auch die Philippus de Barberis oder Johannes Philippus de Lignamine zugeschriebene Fortschreibung der Compilatio chronologica von 1316 bis 1474; mit Widmungsbrief von Johannes Philippus de Lignamine an Papst Sixtus IV.<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Rom: Johannes Philippus de Lignamine, 14.07.1474
+<-500-START->Entspricht der Beschreibung in GW M18338, Variante zu BSB-Ink B-79: Dort in Lage [n] ein zusätzliches Blatt, zusätzlicher Text eingeschoben ab Blatt [n₉] recto<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 257 ungezählte Seiten; 24 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M18338.htm<-L-5-STOP-><-VI-5-START->GW M18338<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ir00187000<-L-5-STOP-><-VI-5-START->ISTC ir00187000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+130 von 130 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Pergamenteinband (17./18. Jahrhundert) 
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: De curalium miseriis / Pius II. (Papst). Rom: Johannes Philippus de Lignamine, 1473
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116928246805511<-L-11-STOP-><-VI-11-START->MUE Bong V 957 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991155766749705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Ricobaldus Ferrariensis<-P-STOP->
+<-P-START->Barberis, Philippus de<-P-STOP->
+<-P-START->Lignamine, Johannes Philippus de<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Rom<-O-STOP->
+<-P-START->Lignamine, Johannes Philippus de<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991155766749705501<-DOI-STOP->
+<-SIGN-START->MUE Bong V 957 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04679nam a2200673 c 4500
+001 991155766749705501
+005 20211215193727.0
+007 cr#|||||||||||
+008 100723s1474    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/23.01.2019/B404/faf    
+024 7    |a 10.3931/e-rara-88400    |2 doi    
+035      |a (swissbib)061801445-41slsp_network    
+035      |a 061801445    |9 ExL    
+035      |a (IDSBB)005282735DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991155766749705501    
+035      |a (41SLSP_UBE)99116928246805511    |9 (41SLSP_UBE)99116928246805511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Ricobaldus    |c Ferrariensis    |d 1245-1318    |0 (DE-588)100959423    |e Verfasser    |4 aut    
+240 1 0  |a Compilatio chronologica    
+245 1 0  |a Incipit Crononica summoru[m] Pontificu[m] Imperatoru[m]q[ue]: Ac de septe[m] ętatibus mu[n]di ex S. Hyeronimo: Eusebio aliisq[ue] uiris eruditis excerpta    
+246 1    |i Berichtigter Titel in normalisierter Form    |a Incipit cronica summorum pontificum imperatorumque, ac de septem ętatibus mundi ex S. Hyeronimo, Eusebio aliisque viris eruditis excerpta    
+246 1    |i Incipit (Vorwort)    |a Ioannes Philippus de Lignamine Messanen[sis]. Syxto .IIII. Summo Pontifici etc    
+246 1    |i Titel gemäss BSB-Ink und ISTC    |a Chronica summorum pontificum imperatorumque    
+246 1    |i Titel gemäss GW    |a Chronica pontificum    
+264   1  |a Romę    |b in domo Nobilis uiri Iohannis Philippi de Lignamine Messanen[sis]. S.D.N familiaris hic libellus imp[re]ssus e[st]    |c Anno d[omi]ni MCCCCLXXIIII. Die XIIII. me[n]sis Iulii Pont. Syxti .IIII. anno eius tertio [14.07.1474]    
+300      |a 1 ungezähltes Blatt, 257 ungezählte Seiten    |c 24 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+337      |b c    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+338      |b cr    |2 rdacarrier    
+500      |a Enthält (ab Blatt [l₁₀] verso, ohne Markierung des Übergangs) auch die Philippus de Barberis oder Johannes Philippus de Lignamine zugeschriebene Fortschreibung der Compilatio chronologica von 1316 bis 1474. Mit Widmungsbrief von Johannes Philippus de Lignamine an Papst Sixtus IV.    
+500      |a Entspricht Beschreibung in GW M18338, Variante zu BSB-Ink B-79: Dort in Lage [n] ein zusätzliches Blatt, zusätzlicher Text eingeschoben ab Blatt [n₉] recto    
+500      |a Keine Titelseite, Titel gemäss Incipit des Haupttextes (Blatt [b₁] recto)    
+500      |a Impressum gemäss Kolophon    
+500      |a Signaturformel: [a⁸, b-e¹⁰, f¹², g-n¹⁰]    
+500      |a Blatt [a₁] ist unbedruckt    
+510 4    |a GW    |c M18338    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M18338.htm    
+510 4    |a ISTC    |c ir00187000    |u http://data.cerl.org/istc/ir00187000    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Ganzbezogener Pergamenteinband (17./18. Jh.)    
+563      |a Vorsätze: Vorne und hinten mit zwei fliegenden Blättern    
+563      |a Masse Einband: 23.8 x 18.4 x 4.5 cm    
+563      |a Zustand Einband: Natürliche Fehlstellen im Bezugspergament, beide Vorsätze im Falz mit Japanpapierfälzen verstärkt    
+590      |a Buchblockbeschreibung: 130 von 130 Blättern, handschriftliche Lagensignaturen in Graphit auf erstem Blatt jeder Lage, vorgesehene Stellen für Initialen frei gelassen, auf den Blättern [b₁]-[e₂] handschriftliche Kolumnentitel in Tinte (1.-7. etas)    
+590      |a Zustand Buchblock: Japanpapierüberklebungen an Blatt [a₁]    
+590      |a Handschriftliche Annotationen und Unterstreichungen in Tinte    
+590      |a Zusammengebunden mit: De curalium miseriis / Pius II. Rom : Johannes Philippus de Lignamine, 1473    
+590      |a Historische Signatur auf erstem vorderem fliegendem Vorsatzblatt verso: "Hist: Prof: 459.", Zahl korrigiert zu "28."    
+590      |a Frühere Signaturen: Inc 576; Inc III 85; XIX 4    
+700 1    |a Barberis, Philippus <<de>>    |d 1426-1487    |0 (DE-588)104099070    |e Verfasser    |4 aut    
+700 1    |a Lignamine, Johannes Philippus <<de>>    |d 1420-1493    |0 (DE-588)115360026    |e Verfasser    |4 aut    
+700 1    |a Lignamine, Johannes Philippus <<de>>    |d 1420-1493    |0 (DE-588)115360026    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 0 2  |a Ricobaldus    |c Ferrariensis    |d 1245-1318    |t Compilatio chronologica    |0 (DE-588)4715850-5    
+700 1 2  |a Barberis, Philippus <<de>>    |d 1426-1487    |t Chronica summorum pontificum et imperatorum    |0 (DE-588)1176066536    
+751      |a Rom    |0 (DE-588)4050471-2    
+852 4    |b B404    |c 404U3    |j MUE Bong V 957 : 1    |9 (41SLSP_UBE)99116928246805511    
+856 4    |u https://doi.org/10.3931/e-rara-88400    |z Digitalisat in e-rara    
+900      |a IDSIxunikat    
+900      |a IDSIxhybrid-el    
+900      |a NOMERGEALEX    
+949      |i ZB Inc III 85 : 1    |c 404U3    |z Zusammengebunden mit 1 weiteren Druck in Sammelband    |p 12    |j MUE Bong V 957 : 1    |b B404    |9 (41SLSP_UBE)99116928246805511    
+986      |a (41SLSP_UBE)99116928246805511    |9 (41SLSP_UBE)99116928246805511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116928246805511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116928246805511    
+990      |f erarabe    |9 local    |9 (41SLSP_UBE)99116928246805511    
+990      |f lza-cc0    |9 local    |9 (41SLSP_UBE)99116928246805511    
+991      |a Bongars: 12112    |5 IZ UBE/B400/23.07.2010    |9 local    |9 (41SLSP_UBE)99116928246805511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

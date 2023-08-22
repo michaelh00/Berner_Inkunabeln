@@ -1,0 +1,133 @@
+﻿<-1-1-START->
+Petrus de Aquila
+<-1-1-STOP->
+
+<-1-2-START->
+Quaestiones in IV libros Sententiarum
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Vorrede an den Leser und Gedicht auf den Autor<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Speyer]: Peter Drach (der Ältere), 1480
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 353 ungezählte Seiten: Druckermarke; 36 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_P-341.html<-L-5-STOP-><-VI-5-START->BSB-Ink P-341<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M32060.htm<-L-5-STOP-><-VI-5-START->GW M32060<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/ip00446000<-L-5-STOP-><-VI-5-START->ISTC ip00446000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+178 von 178 Blättern, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Pergamenteinband auf Kartondeckeln mit Stosskanten
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99117231821305511<-L-11-STOP-><-VI-11-START->MUE GDB Gut 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991170836845905501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Petrus de Aquila<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Speyer<-O-STOP->
+<-P-START->Drach, Peter (der Ältere)<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991170836845905501<-DOI-STOP->
+<-SIGN-START->MUE GDB Gut 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03592nam a2200541 c 4500
+001 991170836845905501
+005 20230207154530.0
+008 211229s1480    gw ||||      |00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 UBE/B404/20211229/faf    
+035      |a (EXLNZ-41SLSP_NETWORK)991170836845905501    
+035      |a (41SLSP_UBE)99117231821305511    |9 (41SLSP_UBE)99117231821305511    
+040      |a CH-ZuSLS UBE    |b ger    |e rda    
+082 7 4  |a 230    |2 23sdnb    
+100 1    |a Petrus    |c de Aquila    |d -1361    |4 aut    |0 (DE-588)100957757    
+240 1 0  |a Quaestiones in IV libros Sententiarum    
+245 1 0  |a Petri de Aquila sectatoris nobilissimarum subtilissimi Ioannis scoti doctrinarum. libros hos sententiaru[m] quatuor quisquis enixe relegeris ...    
+246 1    |i Titel gemäss BSB-Ink    |a Quaestiones super quattuor libros Sententiarum    
+246 1    |i Titel gemäss GW    |a Quaestiones super libros sententiarum    
+246 1    |i Titel gemäss ISTC    |a Quaestiones super quattuor libros Sententiarum Petri Lombardi    
+264   1  |a [Speyer]    |b Nunc studiose tibi gaudet cudisse libellum Spirensis ciuis Drach Petrus arte sua    |c 1480    
+300      |a 1 ungezähltes Blatt, 353 ungezählte Seiten    |c 36 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Vorrede an den Leser, Inhaltsverzeichnissen der einzelnen Bücher und Gedicht auf den Autor    
+500      |a Keine Titelseite, Titel gemäss Incipit    
+500      |a Drucker und Druckdatum gemäss Kolophon in Versform    
+500      |a Druckermarke am Ende    
+500      |a Signaturformel: [a¹⁰, b-l⁸, m¹⁰, n-p⁸, q⁶, r-y⁸]    
+500      |a Blatt a₁ recto ist unbedruckt    
+510 4    |a BSB-Ink    |c P-341    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_P-341.html    
+510 4    |a GW    |c M32060    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M32060.htm    
+510 4    |a ISTC    |c ip00446000    |u https://data.cerl.org/istc/ip00446000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u https://daten.digitale-sammlungen.de/~db/0004/bsb00043720/images    
+561      |a Depositum der Gesellschaft der Freunde des Gutenbergmuseums    
+563      |a Einbandbeschreibung: Ganzbezogener Pergamenteinband auf Kartondeckeln mit Stosskanten, auf Rücken in Tinte handschriftlicher Titel "Petri de Aquila Libri Sentent:" und Signaturbuchstabe "M"    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 35.3 x 26.3 x 5.2 cm    
+563      |a Zustand Einband: Kratzer und Leimreste am Vorderdeckel    
+590      |a Buchblockbeschreibung: 178 von 178 Blättern, handschriftliche Paginierung (1-338, ab Blatt a₄ recto, unter Auslassung der Inhaltsverzeichnisse, mit Fehlern) in Tinte, rot ausgezeichnete Initialen, Rubrizierung    
+590      |a Zustand Buchblock: Papier ab Lage r teilweise stark verfärbt mit Wasserschäden, Blätter a₁ und y₈ mit festem Papier verstärkt    
+590      |a Bindefehler: Blätter a₂-₃ hinter Blatt a₇ eingebunden    
+590      |a Wenige handschriftliche Annotationen in Tinte ab Blatt o₈ verso    
+590      |a Verblassender handschriftlicher Schenkungsvermerk auf Blatt a₁ verso: "Hunc librum mihi donauit [...] Abbas [...] 1657 8 Aprilis"    
+700 1    |a Drach, Peter    |d 1430-1489    |4 prt    |0 (DE-588)129006173    
+700 1 2  |a Petrus    |c de Aquila    |d -1361    |t Quaestiones in IV libros Sententiarum    |0 (DE-588)1248566335    
+710 2    |a Gesellschaft der Freunde des Gutenbergmuseums    |4 own    |0 (DE-588)2137933-6    
+751      |a Speyer    |0 (DE-588)4056179-3    
+852 4    |b B404    |c 404U3    |j MUE GDB Gut 2    |9 (41SLSP_UBE)99117231821305511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Depositum der Gesellschaft der Freunde des Gutenbergmuseums    |p 12    |j MUE GDB Gut 2    |b B404    |9 (41SLSP_UBE)99117231821305511    
+986      |a (41SLSP_UBE)99117231821305511    |9 (41SLSP_UBE)99117231821305511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99117231821305511    
+990      |n HB404N2112    |9 local    |9 (41SLSP_UBE)99117231821305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

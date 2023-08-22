@@ -1,0 +1,138 @@
+﻿<-1-1-START->
+Quintilianus, Marcus Fabius
+<-1-1-STOP->
+
+<-1-2-START->
+Institutio oratoria
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Widmungsbrief von Quintilian an Trypho, Kommentar von Raffaele Regio und Vita Quintilians, möglicherweise auch von Regio<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Boneto Locatello für Ottaviano Scoto, 17.07.1493
+<-3-1-STOP->
+
+<-4-1-START->
+410 ungezählte Seiten, 1 ungezähltes Blatt: Diagramme, Holzschnittinitialen, Druckermarke; 33 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_Q-16.html<-L-5-STOP-><-VI-5-START->BSB-Ink Q-16<-VI-5-STOP->; <-L-5-START->http://gesamtkatalogderwiegendrucke.de/docs/M36820.htm<-L-5-STOP-><-VI-5-START->GW M36820<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/iq00029000<-L-5-STOP-><-VI-5-START->ISTC iq00029000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+205 von 206 Blättern, Holzschnittinitialen teilweise koloriert
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Holzdeckeln mit Schliessen und Metallbeschlägen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Das unbedruckte Blatt [rum]₆ fehlt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99117228528205511<-L-11-STOP-><-VI-11-START->MUE GDB Gut 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991170832049105501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Quintilianus, Marcus Fabius<-P-STOP->
+<-P-START->Regio, Raffaele<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Locatello, Boneto<-P-STOP->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Scoto, Ottaviano<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991170832049105501<-DOI-STOP->
+<-SIGN-START->MUE GDB Gut 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03897nam a2200553 c 4500
+001 991170832049105501
+005 20211223142613.0
+008 211215s1493    it ||||      |00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 UBE/B404/20211215/faf    
+035      |a (EXLNZ-41SLSP_NETWORK)991170832049105501    
+035      |a (41SLSP_UBE)99117228528205511    |9 (41SLSP_UBE)99117228528205511    
+040      |a CH-ZuSLS UBE    |b ger    |e rda    
+082 7 4  |a 870    |2 23sdnb    
+100 1    |a Quintilianus, Marcus Fabius    |d 35-100    |0 (DE-588)118597396    |e Verfasser    |4 aut    
+240 1 0  |a Institutio oratoria    
+245 1 0  |a Quintilianus Cum commento    
+246 1    |i Explicit    |a M. Fabii Quintiliani oratoriar[um] institutionum. Vna cu[m] annotationibus in deprauationes eiusdem. Finis    
+246 1    |i Titel gemäss ISTC und GW    |a Institutiones oratoriae    
+264   1  |a Venetiis    |b per Bonetum Locatellum: mandato ac sumptibus Nobilis Viri Octauiani Scoti Ciuis Modœtienses    |c Anno ab incarnatio[n]e Redemptoris nostri Christi Iesu Optimi Maximiq[ue]. M.CCCCLXCIII. XVI Kalendas Sextiles [17.07.1493]    
+300      |a 410 ungezählte Seiten, 1 ungezähltes Blatt    |b Diagramme    |c 33 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Inhaltsverzeichnis, Widmungsbrief von Quintilian an Trypho, Kommentar von Raffaele Regio und Vita Quintilians, möglichweise auch von Regio    
+500      |a Impressum gemäss Kolophon    
+500      |a Druckermarke von Scoto am Ende    
+500      |a Signaturformel: []², a-z⁸, &⁸, [con]⁶, [rum]⁶    
+500      |a Blatt [rum]₆ ist unbedruckt    
+500      |a Teilweise Holzschnittinitialen    
+510 4    |a BSB-Ink    |c Q-16    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_Q-16.html    
+510 4    |a GW    |c M36820    |u http://gesamtkatalogderwiegendrucke.de/docs/M36820.htm    
+510 4    |a ISTC    |c iq00029000    |u http://data.cerl.org/istc/iq00029000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/0006/bsb00060432/images    
+561      |a Depositum der Gesellschaft der Freunde des Gutenbergmuseums; handschriftlicher Besitzvermerk auf vorderem fliegendem Vorsatzblatt recto: "Sigre. Giova... Salvini ..."; auf Blatt a₂ recto: "Collegij B.V. Maria in ..."    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Holzdeckeln mit Schliessen und Metallbeschlägen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln sowie auf dem Rücken    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Zustand Einband: Zahlreiche Fehlstellen am Einbandleder, Schädlingsfrass an Holzdeckeln mit grösseren Fehlstellen    
+563      |a Masse Einband: 32.9 x 22.3 x 5 cm    
+590      |a Buchblockbeschreibung: 205 von 206 Blättern, handschriftliche Foliierung in Tinte (beginnend auf Blatt a₁, mit Fehlern), Holzschnittinitialen auf den Blättern a₁ recto, f₂ verso und &₆ recto koloriert, vorgesehene Stellen für handgezeichnete Initialen frei gelassen    
+590      |a Unvollständiges Exemplar: Das unbedruckte Blatt [rum]₆ fehlt    
+590      |a Bis Blatt i₄ recto zahlreiche handschriftliche Annotationen in Tinte, später nur vereinzelt    
+590      |a Dublette: Artopoeus 12 : 1    
+700 1    |a Regio, Raffaele    |d 1450-1520    |0 (DE-588)12233521X    |e Kommentarverfasser    |4 wac    
+700 1    |a Locatello, Boneto    |0 (DE-588)1037496906    |e Drucker    |4 prt    
+700 1    |a Scoto, Ottaviano    |d 14XX-1498    |0 (DE-588)104090030    |e Verlag    |4 pbl    
+700 1 2  |a Quintilianus, Marcus Fabius    |d 35-100    |t Institutio oratoria    |0 (DE-588)4202573-4    
+700 1 2  |a Regio, Raffaele    |d 1450-1520    |t In depravationes Oratoriae Quintiliani Institutionis annotationes    |0 (DE-588)1247648893    
+710 2    |a Gesellschaft der Freunde des Gutenbergmuseums    |4 own    |0 (DE-588)2137933-6    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE GDB Gut 1    |9 (41SLSP_UBE)99117228528205511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Depositum der Gesellschaft der Freunde des Gutenbergmuseums    |p 12    |j MUE GDB Gut 1    |b B404    |9 (41SLSP_UBE)99117228528205511    
+986      |a (41SLSP_UBE)99117228528205511    |9 (41SLSP_UBE)99117228528205511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99117228528205511    
+990      |n HB404N2112    |9 local    |9 (41SLSP_UBE)99117228528205511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

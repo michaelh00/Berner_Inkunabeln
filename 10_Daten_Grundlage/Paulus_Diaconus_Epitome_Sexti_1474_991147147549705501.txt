@@ -1,0 +1,147 @@
+﻿<-1-1-START->
+Paulus Diaconus
+<-1-1-STOP->
+
+<-1-2-START->
+Epitome Sexti Pompei Festi de verborum significatione
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Es handelt sich um den Auszug des Paulus Diaconus aus "De verborum significatione epitome Verrii Flacci" des Sextus Pompeius Festus, die wiederum ein Auszug aus "De verborum significatione" des Marcus Verrius Flaccus ist<-500-STOP->
+<-500-START->Nach dem Kolophon folgen noch 11 Seiten mit zusätzlichen Wörtern mit den Anfangsbuchstaben I und M<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Venedig]: Johannes Manthen für Johann von Köln, 24.12.1474
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 184 ungezählte Seiten, 1 ungezähltes Blatt, 11 ungezählte Seiten; 23 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_F-107.html<-L-5-STOP-><-VI-5-START->BSB-Ink F-107<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW09865.htm<-L-5-STOP-><-VI-5-START->GW 09865<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/if00143000<-L-5-STOP-><-VI-5-START->ISTC if00143000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+99 von 100 Blättern, vorgesehene Stellen für griechische Wörter frei gelassen
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Pergamenteinband auf Kartondeckeln (17./18. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Das unbedruckte Blatt a₁ fehlt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116683052405511<-L-11-STOP-><-VI-11-START->MUE Bong IV 878<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991147147549705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Paulus Diaconus<-P-STOP->
+<-P-START->Festus, Sextus Pompeius<-P-STOP->
+<-P-START->Verrius Flaccus, Marcus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Johann von Köln<-P-STOP->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Johannes Manthen<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991147147549705501<-DOI-STOP->
+<-SIGN-START->MUE Bong IV 878<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04328nam a2200601 c 4500
+001 991147147549705501
+005 20230207150954.0
+008 100611s1474    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/18.12.2019/B404/faf    
+035      |a (swissbib)063519933-41slsp_network    
+035      |a 063519933    |9 ExL    
+035      |a (IDSBB)005244144DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991147147549705501    
+035      |a (41SLSP_UBE)99116683052405511    |9 (41SLSP_UBE)99116683052405511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Paulus    |c Diaconus    |d 720-799    |0 (DE-588)118789961    |e Verfasser    |4 aut    
+240 1 0  |a Epitome Sexti Pompei Festi de verborum significatione    
+245 1 0  |a Festi Po[m]pei liber p[er]optime eme[n]dat[us] explet[us] e[st]    
+246 1    |i Titel in normalisierter Form    |a Festi Pompei liber peroptime emendatus expletus est    
+246 1    |i Titel gemäss BSB-Ink und GW    |a De verborum significatu    
+246 1    |i Titel gemäss ISTC    |a De verborum significatione    
+264   1  |a [Venedig]    |b ac i[m]pe[nsis] Ioha[n]nis de Colonia nec no[n] Ioha[n]nis ma[n]the[n] de Gherreze[m] q[ui] una fidelit[er] degu[n]t i[m]p[re]ssioni dedit[us]    |c Anno a natali christiano. M.cccc.lxxiiij die xxiiij dece[m]bris. [24.12.1474]    
+300      |a 1 ungezähltes Blatt, 184 ungezählte Seiten, 1 ungezähltes Blatt, 11 ungezählte Seiten    |c 23 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Es handelt sich um den Auszug des Paulus Diaconus aus "De verborum significatione epitome Verrii Flacci" des Sextus Pompeius Festus, die wiederum ein Auszug aus "De verborum significatione" des Marcus Verrius Flaccus iat    
+500      |a Nach dem Kolophon folgen noch 11 Seiten mit zusätzlichen Wörtern mit den Anfangsbuchstaben I und M    
+500      |a Keine Titelseite, Titel gemäss Kolophon auf Blatt k₉ verso    
+500      |a Drucker und Druckdatum gemäss Kolophon auf Blatt k₉ verso    
+500      |a Druckort gemäss BSB-Ink, GW und ISTC    
+500      |a Signaturformel: a-c¹⁰, d-e⁸, f-ff⁶, g-h⁸, I-k¹⁰, l⁶    
+500      |a Die Blätter a₁ und k₁₀ sind unbedruckt    
+510 4    |a BSB-Ink    |c F-107    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_F-107.html    
+510 4    |a GW    |c 09865    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW09865.htm    
+510 4    |a ISTC    |c if00143000    |u http://data.cerl.org/istc/if00143000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0005/bsb00052890/images    
+561      |a Handschriftlicher Besitzvermerk auf Blatt a₂ recto: "Bongarsius."    
+563      |a Einbandbeschreibung: Ganzbezogener Pergamenteinband auf Kartondeckeln (17./18. Jahrhundert)    
+563      |a Vorsätze: Vorne und hinten mit zwei fliegenden Blättern    
+563      |a Masse Einband: 23.1 x 17.4 x 3.1 cm    
+563      |a Zustand Einband: Japanpapierüberklebungen am Rücken, Gewebeüberklebungen innen am Einbandrücken    
+590      |a Buchblockbeschreibung: 99 von 100 Blättern, Pergamentverstärkung (Makulatur) in den Lagenmitten, vorgesehene Stellen für Initialen frei gelassen, vorgesehene Stellen für griechische Wörter frei gelassen    
+590      |a Zustand Buchblock: Starker Schädlingsfrass ab Lage I (gegen Ende mit Textverlust), starke Verbräunung mit Feuchtigkeitsrändern der ersten und letzten Blätter, Buchblock durchgehend verwellt mit Stauchungen und Knicken    
+590      |a Unvollständiges Exemplar: Das unbedruckte Blatt a₁ fehlt    
+590      |a Historische Signatur auf vorderem Spiegel: "Lit: 435."; auf Blatt a₂ recto: "Lit: N°. 81."    
+590      |a Frühere Signaturen: Inc 409; Inc III 67; X 25    
+700 1    |a Festus, Sextus Pompeius    |d ca. 2./3. Jh.    |0 (DE-588)118683489    |e Verfasser    |4 aut    
+700 0    |a Johann    |c von Köln    |d 14XX-1480    |0 (DE-588)129032921    |e Verlag    |4 pbl    
+700 0    |a Johannes    |c Manthen    |d -1487    |0 (DE-588)102547629    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 0 2  |a Paulus    |c Diaconus    |d 720-799    |t Epitome Sexti Pompei Festi de verborum significatione    |0 (DE-588)4807687-9    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Bong IV 878    |9 (41SLSP_UBE)99116683052405511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc III 67    |c 404U3    |p 12    |j MUE Bong IV 878    |b B404    |9 (41SLSP_UBE)99116683052405511    
+986      |a (41SLSP_UBE)99116683052405511    |9 (41SLSP_UBE)99116683052405511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116683052405511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116683052405511    
+991      |a Bongars: 05305    |5 IZ UBE/B400/11.06.2010    |9 local    |9 (41SLSP_UBE)99116683052405511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

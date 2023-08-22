@@ -1,0 +1,130 @@
+﻿<-1-1-START->
+Horatius Flaccus, Quintus
+<-1-1-STOP->
+
+<-1-2-START->
+Werke [lateinisch]
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Mailand]: Filippo da Lavagna, 16.02.1476
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 247 ungezählte Seiten, 1 ungezähltes Blatt; 28 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW13452.htm<-L-5-STOP-><-VI-5-START->GW 13452<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ih00441000<-L-5-STOP-><-VI-5-START->ISTC ih00441000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+125 von 126 Blättern, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun marmoriert, Schaf, 18./19. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Fabularius / Konrad von Mure. Basel: Berthold Ruppel, [zwischen ca. 1470 und 1475]
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116908547305511<-L-11-STOP-><-VI-11-START->MUE Inc III 48 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991008487209705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Horatius Flaccus, Quintus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Mailand<-O-STOP->
+<-P-START->Lavagna, Filippo da<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991008487209705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 48 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04107nam a2200505 c 4500
+001 991008487209705501
+005 20211215173151.0
+008 170928s1476    it |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/28.09.2017/B404/vha    
+035      |a (swissbib)073942871-41slsp_network    
+035      |a 073942871    |9 ExL    
+035      |a (IDSBB)006735172DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991008487209705501    
+035      |a (41SLSP_UBE)99116908547305511    |9 (41SLSP_UBE)99116908547305511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Horatius Flaccus, Quintus    |d v65-v8    |0 (DE-588)118553569    |e Verfasser    |4 aut    
+240 1 0  |a Werke    
+245 1 0  |a [Opera]    
+264   1  |a [Mailand]    |b impressum est op[er]a & impensis Philippi de Lauagnia Ciuis mediolanensis    |c Anno a Natali Christiano. Mcccclxxvi. die. xvi. Februarii. [16.02.1476]    
+300      |a 1 ungezähltes Blatt, 247 ungezählte Seiten, 1 ungezähltes Blatt    |c 28 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Titel gemäss GW und ISTC    
+500      |a Impressum gemäss Kolophon (Blatt Q₇ recto): "Hoc opus Horatii emendatissimum impressum est op[er]a & impensis Philippi de Lauagnia Ciuis mediolanensis. Anno a Natali Christiano. Mcccclxxvi. die. xvi. Februarii. Amen."    
+500      |a Signaturformel: A–G⁸, H⁶, I–Q⁸    
+500      |a Blätter A₁ und Q₈ (erstes und letztes Blatt) unbedruckt, Blatt Q₇ verso unbedruckt; Blatt A₂ ist als A signiert, Blatt A₃ als A₂, Blatt A₄ als A₃    
+500      |a Die Bogensignaturen sind wohl in allen Exemplaren gestempelt (vergleiche Anmerkung in GW und das digitalisierte Exemplar der Biblioteca Apostolica Vaticana)    
+505 0 0  |g Blatt A [das ist A₂] recto    |t Qvinti Horatii Flacci Venvsini Carminvm Liber Primvs    |g Blatt G₃ verso    |t Qvinti Horatii Flacci Epodos    |g Blatt H₅ verso    |t Qvinti Horatii Flacci Carmen Saecvlare    |g Blatt I₁ recto    |t Quinti Horatii Flacci De Arte Poetica Ad Pisones Liber    |g Blatt I₈ recto    |t Qvinti Horatii Flacci Sermonvm Liber Primvs    |g Blatt N₈ recto    |t Qvinti Horatii Flacci Epistolarvm Liber Primvs    
+510 4    |a GW    |c 13452    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW13452.htm    
+510 4    |a ISTC    |c ih00441000    |u http://data.cerl.org/istc/ih00441000    
+530      |a Digitalisat (Exemplar der Biblioteca Apostolica Vaticana)    |u https://digi.vatlib.it/view/Inc.III.14    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun marmoriert, Schaf, 18./19. Jahrhundert), Linien-Goldprägung sowie Titelschild in Goldprägung auf dem Rücken: "Horatius Cum Repertorio"; handschriftlich mit Tinte ergänzt: "1476. 73.²"    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 27.9 x 20.1 x 5.5 cm    
+563      |a Zustand Einband: Schäden am Einbandleder mit zurück geklebten Fragmenten    
+590      |a Buchblockbeschreibung: 125 von 126 Blättern; die gestempelten Bogensignaturen sind weit unten rechts angebracht, weshalb sie teilweise weggeschnitten sind; Verbindung zwischen Lage A und B mit Japanpapierstreifen stabilisiert; rot ausgezeichnete Initialen, Rubrizierung    
+590      |a Blatt A₁ (unbedruckt) fehlt    
+590      |a Exemplar verbunden: Blätter B₄ und B₅ hinter A₃ eingebunden, C₄ und C₅ hinter B₃, G₄ und G₅ hinter C₃! (Vergleiche Exemplar der Biblioteca Apostolica Vaticana)    
+590      |a Zusammengebunden mit: Conradus de Mure: Fabularius. Basel: Berthold Ruppel, [zwischen ca. 1470 und 1475]    
+590      |a Historische Signaturen auf Blatt A (das ist A₂) recto: "Lit. 94"; wurde durchgestrichen, darunter: "Poet 68"    
+590      |a Frühere Signatur: Inc 294 : 1    
+700 1 2  |a Horatius Flaccus, Quintus    |d v65-v8    |t Werke    |0 (DE-588)1149752793    
+700 1    |a Lavagna, Filippo <<da>>    |d 1434-1505    |0 (DE-588)132349981    |e Verlag    |e Drucker    |4 pbl    |4 prt    
+751      |a Mailand    |0 (DE-588)4037100-1    
+852 4    |b B404    |c 404U3    |j MUE Inc III 48 : 1    |9 (41SLSP_UBE)99116908547305511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit einem weiteren Druck in Sammelband    |p 12    |j MUE Inc III 48 : 1    |b B404    |9 (41SLSP_UBE)99116908547305511    
+986      |a (41SLSP_UBE)99116908547305511    |9 (41SLSP_UBE)99116908547305511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116908547305511    
+991      |a AAK: 00415000    |5 IZ UBE/28.09.2017/B404/vha    |9 LOCAL    |9 (41SLSP_UBE)99116908547305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

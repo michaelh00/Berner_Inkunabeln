@@ -1,0 +1,133 @@
+﻿<-1-1-START->
+Gregor I. (Papst)
+<-1-1-STOP->
+
+<-1-2-START->
+In evangelia homiliae
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Paris: Georg Wolff, 1491
+<-3-1-STOP->
+
+<-4-1-START->
+344 ungezählte Seiten; 21 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_G-310.html<-L-5-STOP-><-VI-5-START->BSB-Ink G-310<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW11421.htm<-L-5-STOP-><-VI-5-START->GW 11421<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ig00420000<-L-5-STOP-><-VI-5-START->ISTC ig00420000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+172 von 172 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Pergamenteinband auf Kartondeckeln (17./18. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Erhard Molitor
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116778997305511<-L-11-STOP-><-VI-11-START->MUE Inc IV 38<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991068250069705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Gregor I. (Papst)<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Paris<-O-STOP->
+<-P-START->Wolff, Georg<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Molitor, Erhard<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991068250069705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 38<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03090nam a2200541 c 4500
+001 991068250069705501
+005 20211215184111.0
+008 160510s1491    fr |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/10.05.2016/B404/az    
+035      |a (swissbib)067074456-41slsp_network    
+035      |a 067074456    |9 ExL    
+035      |a (IDSBB)006500808DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991068250069705501    
+035      |a (41SLSP_UBE)99116778997305511    |9 (41SLSP_UBE)99116778997305511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Gregor    |b I.    |c Papst    |d 542-604    |0 (DE-588)118541838    |e Verfasser    |4 aut    
+240 1 0  |a In evangelia homiliae    
+245 1 0  |a Liber q[ua]draginta omeliaru[m] b[ea]ti Gregorii pape de diuersis lectionibus euangelii    
+246 1    |i Normalisierter Titel    |a Liber quadraginta omeliarum beati Gregorii pape de diversis lectionibus evangelii    
+246 1    |i Titel in BSB    |a Homiliae quadraginta super evangeliis    
+246 1    |i Titel in GW    |a Homiliae in Evangelia    
+246 1    |i Titel in ISTC    |a Homiliae super Evangeliis    
+264   1  |a Impresse Parisiis    |b Ad sole[m] auratu[m] vici Sorbonici Opera. M. Georgii vuolff. Badensis    |c [1491]    
+300      |a 344 ungezählte Seiten    |c 21 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Druckort, Drucker und Druckjahr gemäss Kolophon    
+500      |a Signaturformel: a–x⁸, y⁴    
+500      |a Blatt y₄ verso ist unbedruckt    
+510 4    |a BSB-Ink    |c G-310    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_G-310.html    
+510 4    |a GW    |c 11421    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW11421.htm    
+510 4    |a ISTC    |c ig00420000    |u http://data.cerl.org/istc/ig00420000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0002/bsb00025676/images    
+561      |a Handschriftlicher Besitzvermerk auf Titelseite: "Erhardus Molitoris"    
+563      |a Einbandbeschreibung: Ganzbezogener Pergamenteinband auf Kartondeckeln (17./18. Jh.)    
+563      |a Vorsätze: vorne und hinten mit 2 fliegenden Blättern    
+563      |a Masse Einband: 21 x 15 x 3.5 cm    
+563      |a Zustand Einband: historische Pergamentreparatur am Rückdeckel, Rücken vollständig mit Japanpapier ergänzt    
+590      |a Buchblockbeschreibung: 172 von 172 Blättern, keine Rubrizierung, Unterstreichungen in Tinte    
+590      |a Zustand Buchblock: einige Flecke    
+590      |a Historische Signatur auf vorderem Spiegel: "Patr. No. 301", korrigiert zu "27"    
+590      |a Historische Signatur auf erstem vorderem fliegendem Vorsatzblatt recto: "485"    
+590      |a Handschrifliche Annotationen auf Titelblatt verso, einige weitere Annotationen und Unterstreichungen in Tinte im Text    
+700 0 2  |a Gregor    |b I.    |c Papst    |d 542-604    |t In evangelia homiliae    |0 (DE-588)4439551-6    
+700 1    |a Wolff, Georg    |d 14XX-1499    |0 (DE-588)138461791    |e Drucker    |4 prt    
+700 1    |a Molitor, Erhard    |e Früherer Eigentümer    |4 fmo    
+751      |a Paris    |0 (DE-588)4044660-8    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 38    |9 (41SLSP_UBE)99116778997305511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc IV 38    |b B404    |9 (41SLSP_UBE)99116778997305511    
+986      |a (41SLSP_UBE)99116778997305511    |9 (41SLSP_UBE)99116778997305511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116778997305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

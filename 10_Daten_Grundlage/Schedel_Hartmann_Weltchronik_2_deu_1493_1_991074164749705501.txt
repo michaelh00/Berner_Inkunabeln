@@ -1,0 +1,172 @@
+﻿<-1-1-START->
+Schedel, Hartmann
+<-1-1-STOP->
+
+<-1-2-START->
+Weltchronik [deutsch]
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Aus dem Lateinischen ins Deutsche übersetzt von Georg Alt<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Nürnberg: Anton Koberger, 23.12.1493
+<-500-START->Mit zwei Kolophonen, erstes (Blatt CCLXII verso) datiert: 05.10.1493<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 18 ungezählte Seiten, CCLXXVI Blätter, 2 ungezählte Seiten: Illustrationen, 2 Karten; 44 cm (2°)
+<-500-START->Illustratoren: Michael Wolgemut und Wilhelm Pleydenwurff<-500-STOP->
+<-500-START->Gemäss ISTC sind einige der Holzschnitt-Illustrationen von Albrecht Dürer, als Schüler von Wolgemut<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_S-197.html<-L-5-STOP-><-VI-5-START->BSB-Ink S-197<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M40796.htm<-L-5-STOP-><-VI-5-START->GW M40796<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/is00309000<-L-5-STOP-><-VI-5-START->ISTC is00309000<-VI-5-STOP->; <-L-5-START->https://doi.org/10.11588/diglit.19185<-L-5-STOP-><-VI-5-START->Schramm, Albert: Der Bilderschmuck der Frühdrucke Band 17, Seite 9, Abbildung 408-576<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+297 von 298 Blättern, rot und blau ausgezeichnete Initialen im Register; mehrfarbig, mit Blattgold ausgezeichnete Initiale auf Blatt I
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (chamois, Schwein, 17. Jahrhundert) mit Verschlussbändern, Linien-, Ornamentrollen- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Maria Jacobea von Andlau
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116767401905511<-L-11-STOP-><-VI-11-START->MUE Inc II 11<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991074164749705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Schedel, Hartmann<-P-STOP->
+<-P-START->Alt, Georg<-P-STOP->
+<-P-START->Wolgemut, Michael<-P-STOP->
+<-P-START->Pleydenwurff, Wilhelm<-P-STOP->
+<-P-START->Dürer, Albrecht<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Nürnberg<-O-STOP->
+<-P-START->Koberger, Anton<-P-STOP->
+<-O-START->Nürnberg<-O-STOP->
+<-P-START->Schreyer, Sebald<-P-STOP->
+<-O-START->Nürnberg<-O-STOP->
+<-P-START->Kammermeister, Sebastian<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Andlau, Maria Jacobea von<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991074164749705501<-DOI-STOP->
+<-SIGN-START->MUE Inc II 11<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 08810nam a2200853 c 4500
+001 991074164749705501
+005 20211215175946.0
+008 950302s1493    gw            00| | ger d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von Signaturen.    |5 IDSBB/13.11.2017/B404/vha    
+035      |a (swissbib)075424347-41slsp_network    
+035      |a 075424347    |9 ExL    
+035      |a (IDSBB)006748484DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991074164749705501    
+035      |a (41SLSP_UBE)99116767401905511    |9 (41SLSP_UBE)99116767401905511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a ger    |h lat    
+072   7  |a ag    |2 SzZuIDS BS/BE    
+082 1 4  |a 930    |2 15    
+100 1    |a Schedel, Hartmann    |d 1440-1514    |0 (DE-588)118754211    |e Verfasser    |4 aut    
+240 1 0  |a Weltchronik    
+245 1 0  |a Hie ist entlich beschlossen das bůch der Cronicken vnd gedechtnus wirdigern geschihte[n]    |b vo[n] anbegyn[n] d[er] werlt bis auf dise vnßere zeit    |c ... vo[n] hohgelerte[n] manne[n] in latein mit großem fleiß vnd rechtfertigung versam[m]elt. vnd durch Georgium alten deßmals losungschreiber zu Nürmberg auß de[m]selben latein ... in diss teütsch gebracht ... auch mitanhangung Michael wolgemůtz vnnd Wilhelm pleydenwurffs maler daselbst auch mitburger die diss werck mit figuren wercklich geziert haben    
+246 1 0  |a Chroniken und Geschichten    
+246 1 0  |a Croniken und Geschichten    
+246 1 0  |a <<Das>> Buch der Chroniken und gedächtnis-würdigern Geschichten    
+246 1 0  |a <<Das>> Buch der Cronicken und gedechtnus wirdigern Geschihten    
+246 1    |i Paralleltitel gemäss BSB-Ink und ISTC    |a <<Das>> Buch der Croniken und geschichten    
+246 1    |i Register-Titel in moderner Orthografie    |a Register des Buchs der Chroniken und Geschichten    |b mit Figuren und Bildnissen von Anbeginn der Welt bis auf diese unsere Zeit    
+246 1    |i Register-Titel in normalisierter Form    |a Register des Buchs der Croniken und Geschichten    |b mit Figuren und Pildnüssen von Anbeginn der Welt bis auf dise unnsere Zeit    
+246 1    |i Titel gemäss BSB-Ink und ISTC    |a Liber chronicarum    
+246 1    |i Titel gemäss GW    |a Chronica    
+246 1    |i Titel in moderner Orthographie    |a Hier ist endlich beschlossen das Buch der Chroniken und gedächtnis-würdigern Geschichten    |b von Anbeginn der Welt bis auf diese unsere Zeit    
+246 1    |i Titel in normalisierter Form    |a Hie ist entlich beschlossen das Buch der Cronicken und gedechtnus wirdigern Geschihten    |b von Anbegynn der Werlt bis auf dise unßere Zeit    
+246 1    |i Titelseite des Registers    |a Register des buchs der Croniken vnd geschichten    |b mit figure[n] vnd pildnüssen von anbegin[n] der welt bis auf dise vn[n]sere zeit    
+264   1  |a Zu Nürmberg gedruckt    |b ... durch den erbern vnnd achtpern Anthonien koberger daselbst    |b auf anregu[n]g vnd begern der erbern vnd weysen Sebalden schreyers vnd Sebastian kamermaisters burgere daselbst ...    |c Volbracht am[m] .xxiij. tag des monats Decembris ... M.cccc.xciij. iar. [23.12.1493]    
+300      |a 1 ungezähltes Blatt, 18 ungezählte Seiten, CCLXXVI Blätter, 2 ungezählte Seiten    |b Illustrationen, 2 Karten    |c 44 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite für die Ausgabe, nur für das Register; Titel und Verantwortlichkeitsangaben gemäss 2. Kolophon (Blatt [K₂] verso)    
+500      |a 1. Kolophon auf Blatt CCLXII verso ([E₄] verso): "Auß götlichem beystand endet sich alhie das bůch von den geschihten der alter der werlt vnd von beschreibung der berümbtisten vnd namhaftigisten stett sagende durch Georgium alt deßmals losungschreiber der kaiserliche[n] reichßstatt Nürmberg auß latein in teütsch gebracht vnd beschloße[n] nach der gepurt Cristi ... M.cccc.xciij. iar am fünften tag des monats Octobris." [5.10.1493]    
+500      |a Gemäss ISTC sind einige der Holzschnitt-Illustrationen vom jungen Albrecht Dürer, als Schüler von Wolgemut    
+500      |a Weltkarte auf Blatt XII verso und XIII recto; Europakarte auf Blatt CCLXXXVI verso und letztes Blatt recto    
+500      |a Signaturformel: [*¹⁰, a⁶, b–d⁴, e–h⁶, i², k⁴, l–n⁶, o², p-q⁶, r–y⁴, z⁶, aa–cc⁶, dd², ee⁶, ff⁴, gg–ii⁶, kk², ll⁴, mm–zz⁶, A–C⁶, D-E⁴, F–H⁶, I⁶-¹, K²]    
+510 4    |a BSB-Ink    |c S-197    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_S-197.html    
+510 4    |a GW    |c M40796    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M40796.htm    
+510 4    |a ISTC    |c is00309000    |u http://data.cerl.org/istc/is00309000    
+510 4    |a Schramm, Albert: Der Bilderschmuck der Frühdrucke    |c Band 17, Seite 9, Abbildung 408-576    |u https://doi.org/10.11588/diglit.19185    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00059084/image_5    
+561      |a Handschriftlicher Besitzvermerk auf Titelblatt des Registers: "Jacobea von Ardlaw geborne Zum Rhein, witwe. Anno dominj. 1605." ("Ardlaw" wohl Verschrieb von Andlaw); handschriftliche Initialen (übereinander geschrieben): "CL"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (chamois, Schwein, 17. Jahrhundert) mit Verschlussbändern, Linien-, Ornamentrollen- und Ornamentstempel-Blindprägung auf beiden Deckeln; Rückentitel in Tinte: "Register des Buchs [der] Chroniken u. Gesch., Nürnberg 1494" (Titel teilweise stark verblasst und unleserlich)    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 43.5 x 31.5 x 7.5 cm    
+563      |a Zustand Einband: beide Verschlussbänder fehlend, Fehlstellen im Einbandleder vor der Blindprägung mit Leder unterlegt, Ecken sowie teilweise Fälze an den Häubchen und Kanten mit Japanpapier überklebt, Schädlingsfrass, Ansatzfalz am vorderen Spiegel teilweise hoch gelöst    
+590      |a Buchblockbeschreibung: 297 von 298 Blättern, handschriftliche Lagensignatur (Nummerierung) in Graphit jeweils auf der ersten Seite ab Lage 2 ([a]) bis 57 ([K]); rot und blau ausgezeichnete Initialen im Register (Lage [*]); mehrfarbig, mit Blattgold ausgezeichnete Initiale auf Blatt I ([a₁])    
+590      |a Zustand Buchblock: Tintenschrift auf Titelblatt zum Teil radiert (abgerieben), Farbmittel der ausgezeichneten Initialen zum Teil stark abgerieben, Ausbrüche in vergoldeter Initiale    
+590      |a Blatt [I₆] (unbedruckt) fehlt    
+590      |a Bindefehler: Blatt I (Blatt [a₁]) hinter Blatt V eingebunden    
+590      |a Signaturformel der handschriftlichen Lagensignatur: [1]¹⁰, 2⁶, 3–5⁴, 6–9⁶, 10², 11⁴, 12–14⁶, 15², 16-17⁶, 18–23⁴, 24⁶, 25–27⁶, 28², 29⁶, 30⁴, 31–33⁶, 34², 35⁴, 36–47⁶, 48–50⁶, 51-52⁴, 53–55⁶, 56⁶-¹, 57²    
+590      |a Handschriftliche Notiz auf der Titelseite des Registers: "An[n]o dom[in]i 1525 p[er] ..."; am äusseren Rand beschnitten und teilweise unleserlich, wohl aus dem deutschen Bauernkrieg: erwähnt wird ein Priester ("pleban") in Justingen (Württemberg)    
+590      |a Auf Blatt [*₆] recto handschriftlich in Tinte im Register eingefügter Name: "Ingnaci[us] ep[iscopu]s CX" (verweist auf Blatt CX recto)    
+590      |a Ab Blatt CLXXI oft moderne Jahrzahlen (17. Jahrhundert?) zu den im Text geschilderten Ereignisse in Tinte an die Blattränder gesetzt    
+590      |a Weiteres Exemplar dieser Ausgabe: MUE Zesk 3    
+590      |a Historische Signatur auf vorderem fliegenden Blatt: "N. Hist: prof: fol: 188"    
+590      |a Frühere Signatur: Inc 61    
+700 1 2  |a Schedel, Hartmann    |d 1440-1514    |t Weltchronik    |0 (DE-588)4135532-5    
+700 1    |a Alt, Georg    |d 1450-1510    |0 (DE-588)130453676    |e Übersetzer    |4 trl    
+700 1    |a Wolgemut, Michael    |d 1434-1519    |0 (DE-588)118771175    |e Illustrator    |4 ill    
+700 1    |a Pleydenwurff, Wilhelm    |d 1460-1494    |0 (DE-588)11874111X    |e Illustrator    |4 ill    
+700 1    |a Dürer, Albrecht    |d 1471-1528    |0 (DE-588)11852786X    |e Illustrator    |4 ill    
+700 1    |a Koberger, Anton    |d 1440-1513    |0 (DE-588)118563890    |e Drucker    |4 prt    
+700 1    |a Schreyer, Sebald    |d 1446-1520    |0 (DE-588)119113643    |e Auftraggeber    |4 pat    
+700 1    |a Kammermeister, Sebastian    |d 1446-1503    |0 (DE-588)139518797    |e Auftraggeber    |4 pat    
+700 1    |a Andlau, Maria Jacobea <<von>>    |0 (DE-588)1144220726    |e Früherer Eigentümer    |4 fmo    
+751      |a Nürnberg    |0 (DE-588)4042742-0    
+852 4    |b B404    |c 404U3    |j MUE Inc II 11    |9 (41SLSP_UBE)99116767401905511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc II 11    |b B404    |9 (41SLSP_UBE)99116767401905511    
+986      |a (41SLSP_UBE)99116767401905511    |9 (41SLSP_UBE)99116767401905511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116767401905511    
+991      |a AAK: 0783342    |5 IZ UBE/13.11.2017/B404/vha    |9 local    |9 (41SLSP_UBE)99116767401905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

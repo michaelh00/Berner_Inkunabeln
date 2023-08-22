@@ -1,0 +1,188 @@
+﻿<-1-1-START->
+Thesaurus cornu copiae & horti Adonidis [griechisch]
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Traktate und Auszüge aus Werken zur griechischen Grammatik<-500-STOP->
+<-500-START->Enthält (in griechischer Sprache): [Pseudo-]Aelius Dionysius: De indeclinabilibus verbis. — Eustathius Thessalonicensis: Commentarii ad Homeri Iliadem. — Herodianus, Aelius: Excerpta de magno verbo; Deductiones difficulter declinatorum verborum; De enclisi. — Georgius Choiroboscus: Ad eos qui in omnibus verbis regulas quaerunt et similitudines; In quibus ob malesonantiam attrahatur n; De anomalis et inaequalibus verbis secundum ordinem alphabeti; De iis quae inclinantur encliticisque; De feminis nominibus quae desinunt in omega. — Johannes Philoponus: De iis quae inclinantur; Compendium peri dialektōn. — Gregorius Pardus: De dialectis. — De iis quae inclinantur et encliticis. — Formationes verborum sum et eo. — Quot sint quae ire significant. — De iis quae sedere significant. — De iis quae inclinanturn<-500-STOP->
+<-500-START->Lateinisches Vorwort des Herausgebers und Druckers Aldo Manuzio, mit Nennung der weiteren Herausgeber: (Guarinus) Camers Varinus, Carolus Antenoreus, Angelo Poliziano und Urbano Bolzanio<-500-STOP->
+<-500-START->Mit lateinischem Brief von Angelo Poliziano an Camers Varinus, griechischen Gedichten von Angelo Poliziano, Aristobulos Apostolides (das ist Arsenius Monembasiensis), Scipione Forteguerri und Aldo Pio Manuzio, sowie griechischen Briefen von Scipione Forteguerri an Camers Varinus und von Camers Varinus an Piero de Medici<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Aldo Pio Manuzio, 08.1496
+<-3-1-STOP->
+
+<-4-1-START->
+20 ungezählte Seiten, 270 Blätter; 32 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_T-159.html<-L-5-STOP-><-VI-5-START->BSB-Ink T-159<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/GW07571.htm<-L-5-STOP-><-VI-5-START->GW 07571<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/it00158000<-L-5-STOP-><-VI-5-START->ISTC it00158000<-VI-5-STOP->; <-VI-5-START->Ineichen, Elisabeth: Standort-Katalog "Hospinian". [Bern], [Stadt- und Universitätsbibliothek], [1972]<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+280 von 280 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 16. Jahrhundert), Spuren vormaliger Verschlussbänder (grün, Textil), Ornamentrollen- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Leonhard Wirth
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116827643205511<-L-11-STOP-><-VI-11-START->MUE Hospinian 85<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991113332619705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Manuzio, Aldo Pio<-P-STOP->
+<-P-START->Varinus, Camers<-P-STOP->
+<-P-START->Carolus Antenoreus<-P-STOP->
+<-P-START->Poliziano, Angelo<-P-STOP->
+<-P-START->Bolzanio, Urbano<-P-STOP->
+<-P-START->Arsenius Monembasiensis<-P-STOP->
+<-P-START->Forteguerri, Scipione<-P-STOP->
+<-P-START->Dionysius, Aelius<-P-STOP->
+<-P-START->Dionysius Halicarnassensis<-P-STOP->
+<-P-START->Eustathius Thessalonicensis<-P-STOP->
+<-P-START->Herodianus, Aelius<-P-STOP->
+<-P-START->Georgius Choiroboscus<-P-STOP->
+<-P-START->Johannes Philoponus<-P-STOP->
+<-P-START->Gregorius Pardus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Manuzio, Aldo Pio<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Wirth, Leonhard<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991113332619705501<-DOI-STOP->
+<-SIGN-START->MUE Hospinian 85<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 10061nam a2201009 c 4500
+001 991113332619705501
+005 20230209111016.0
+008 970829s1496    it            00| | grc d
+019      |a Altbestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von Signaturen    |5 IDSBB/29.08.1997/bestub/mes    
+019      |a AAK: 889084    |5 IDSBB/20.08.2020/B404/vha    
+035      |a (swissbib)031815243-41slsp_network    
+035      |a 031815243    |9 ExL    
+035      |a (IDSBB)001421242DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991113332619705501    
+035      |a (41SLSP_UBE)99116827643205511    |9 (41SLSP_UBE)99116827643205511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+041 0    |a grc    |a lat    
+245 0 0  |a Thēsauros. Keras amaltheias, kai kēpoi Adōnidos    |b = Thesavrvs Cornu copiæ. & Horti Adonidis    
+246 1    |i Paralleltitel in normalisierter Form    |a Thesaurus cornu copiae et horti Adonidis    
+246 1    |i Titel gemäss BSB-Ink    |a Thesaurus cornucopiae et horti Adonidis    
+246 1    |i Titel gemäss GW    |a Cornu copiae    |b Thesaurus Cornu copiae et Horti Adonidis    
+246 1 1  |a Thesavrvs Cornu copiæ. & Horti Adonidis    
+264   1  |a Venetiis    |b in domo Aldi Romani summa cura: laboréq[ue] præmagno    |c Mense Augusto. M.IIII.D. [08.1496]    
+300      |a 20 ungezählte Seiten, 270 Blätter    |c 32 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Texte zur griechischen Grammatik, mit Traktaten oder Auszügen aus Werken von Aelius Dionysius, Eustathius Thessalonicensis, Carolus Antenoreus, Aelius Herodianus, Georgius Choiroboscus, Johannes Philoponus, Gregorius Pardus    
+500      |a Vorwort des Herausgebers und Druckers Aldo Manuzio (ab Blatt *₂ recto), mit Nennung der weiteren Herausgeber (*₂ verso und *₃ recto): "Primus labor in eo fuit Guarini Camertis, & Caroli Anenorei florentini ... nec sine adiumento, & consilio Angeli Politiani ... Secundus uero labor meus fuit ... Multa enim addidi. plurima immutaui adiuuante interdu[m] Vrbano diui Francisci fratre optimo ... [das ist Urbano Bolzanio]"    
+500      |a Mit lateinischem Brief von Angelus Politianus an Camers Varinus (Blatt *₃ verso), griechischen Gedichten von Angelo Poliziano, Aristobulos Apostolides (das ist Arsenius Monembasiensis), Scipione Forteguerri und Aldo Pio Manuzio (*₄ recto), sowie griechischen Briefen von Scipione Forteguerri an Camers Varinus (*₄ verso) und von Camers Varinus an Piero de Medici (*₅ recto)    
+500      |a Titel griechisch und lateinisch, Inhaltsverzeichnis, Vorwort und Kolophon lateinisch, Texte sonst griechisch    
+500      |a Signaturformel: *¹⁰, aα–zψ⁸, &ω⁴, AΑ–DΔ⁸, EΕ⁶, FΖ-GΗ⁸, HΘ⁶, IΙ⁸, KΚ⁶, LΛ⁸    
+500      |a Lagen kκ und lλ mit lateinischen Grossbuchstaben (Kκ und Lλ) bezeichnet    
+500      |a Letzte Seite, Blatt LΛ₈ verso, unbedruckt    
+505 0 0  |g Blatt *₇ recto    |t Ailiu Dionysiu, Teri [Peri] Aklitōn Rhēmatōn    |g Blatt 1 recto    |t Ek Ton Eustathiu Kai Allōn Endoxōn Grammatikōn, Barinu Kamērtos Eklogai Kata Stoicheion    |g Blatt 178 recto    |t Posa Rhēmataestin Dēlōtika Tēs Hyparxeōs. Kai Rosa Tu Poreuesthaite Kai Tu Kathezesthai Sēmantika. Kai Schēmatismoi Autōn    |g Blatt 180 verso    |t Ta Tu Poreuomai Sēmantika    |g Blatt 184 recto    |t Peri Tōn Tu Kathezesthai Sēmantikōn    |g Blatt 189 recto    |t Parekbolai Tu Megalou Rēmatos Ek Tōn Tu Hērōdianu    |g Blatt 204 verso    |t Paragōgai Dysklitōn Rhēmatōn    |g Blatt 215 recto    |t Choirobosku Prostus En Pazi Tois Rhēmasikanonas Zētuntas Kai Omoiotētas    |g Blatt 216 verso    |t Choirobosku Peri Tu Ephelkystiku. N.    |g Blatt 217 recto    |t Peri Anomalōn Rhēmatōn Kata Stoicheion Archē Tu. A.    |g Blatt 223 verso    |t Hērōdianu Peri Enklinomenōn Kai Enklitikōn, Kai Synenkliti Kōn Moriōn    |g Blatt 226 recto (nicht im Inhaltsverzeichnis)    |t Iōannu Grammatiku Charakos Peri Tōn Enklinomenōn    |g Blatt 227 recto    |t Enkkitika [Enklitika] En Tois Onomasin    |g Blatt 229 verso    |t Peri Enklinomenōn. Ekton Tu Cheirobosku    |g Blatt 232 recto    |t Kai Allōs Ailiu Peri Enklinomenōn Lexeōn    |g Blatt 235 recto    |t Peri Dialektōn Ek Tōn Iōannu Grammatiku Technikōn    |g Blatt 246 recto    |t Eustathiu Peri Tōn Para Homērō Dialektōn Dōris    |g Blatt 247 verso    |t Peri Dialektōn Tōn [Tu] Para Korinthu Par Ekblētheisōn    |g Blatt 267 verso    |t Peri Tōn Eis Ō Thēlykōn Onomatōn    
+510 4    |a BSB-Ink    |c T-159    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_T-159.html    
+510 4    |a GW    |c 07571    |u https://www.gesamtkatalogderwiegendrucke.de/docs/GW07571.htm    
+510 4    |a ISTC    |c it00158000    |u http://data.cerl.org/istc/it00158000    
+510 3    |a Ineichen, Elisabeth: Standort-Katalog "Hospinian". [Bern], [Stadt- und Universitätsbibliothek], [1972]    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00049625/image_7    
+561      |a Handschriftlicher Besitzvermerk auf der Titelseite: "Pro L. Hospiniano. Anno [15]45"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 16. Jahrhundert), Spuren vormaliger Verschlussbänder (grün, Textil), Ornamentrollen- und Ornamentstempel-Blindprägung auf beiden Deckeln; Titelschild auf dem Rücken: "Aldvs Manucius Basianas."    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 31.9 x 22.4 x 5.5 cm    
+563      |a Zustand Einband: Beide Verschlussbänder fehlend, Lederüberklebungen am Rücken und beiden Deckeln mit Ergänzung der Blindlinierung    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 280 von 280 Blättern, vorgesehene Stellen für Initialen frei gelassen, keine Rubrizierung    
+590      |a Zustand Buchblock: geschwächter Papierbereich mit Rasur- und Klebespuren an Blatt *₁ recto    
+590      |a Auf dem Vorderschnitt handschriftlich in Tinte: "Cor. Copiæ Graec."    
+590      |a Wenige handschriftliche Annotationen in Tinte    
+590      |a Historische Signatur auf vorderem Spiegel: "Lit N. 117." 117 durchgestrichen, dahinter: "139."; auf der Titelseite: "Lit. 52."    
+590      |a Frühere Signaturen: Inc II 40, Inc 249 a, Inc 245    
+700 1    |a Manuzio, Aldo Pio    |d 1450-1515    |0 (DE-588)118577387    |e Herausgeber    |e Verfasser von ergänzendem Text    |4 edt    |4 wst    
+700 1    |a Varinus, Camers    |d 1450-1537    |0 (DE-588)119669714    |e Herausgeber    |e Verfasser von ergänzendem Text    |4 edt    |4 wst    
+700 0    |a Carolus    |c Antenoreus    |d ca. 15./16. Jh.    |0 (DE-588)128993650    |e Herausgeber    |4 edt    
+700 1    |a Poliziano, Angelo    |d 1454-1494    |0 (DE-588)118595512    |e Herausgeber    |e Verfasser von ergänzendem Text    |4 edt    |4 wst    
+700 1    |a Bolzanio, Urbano    |d 1443-1524    |0 (DE-588)124788815    |e Herausgeber    |4 edt    
+700 0    |a Arsenius    |c Monembasiensis    |d 1465-1535    |0 (DE-588)100016650    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Forteguerri, Scipione    |d 1466-1515    |0 (DE-588)124394450    |e Verfasser von ergänzendem Text    |4 wst    
+700 0    |a Dionysius    |c Halicarnassensis    |d ca. v1.Jh.    |0 (DE-588)118672037    |e Verfasser    |4 aut    
+700 0    |a Eustathius    |c Thessalonicensis    |d 1115-1195    |0 (DE-588)118682733    |e Verfasser    |4 aut    
+700 0 2  |a Eustathius    |c Thessalonicensis    |d 1115-1195    |t Commentarii ad Homeri Iliadem    |0 (DE-588)4428707-0    |k Auswahl    
+700 0    |a Carolus    |c Antenoreus    |d ca. 15./16. Jh.    |0 (DE-588)128993650    |e Verfasser    |4 aut    
+700 1    |a Herodianus, Aelius    |d ca. 2. Jh.    |0 (DE-588)11870379X    |e Verfasser    |4 aut    
+700 1 2  |a Herodianus, Aelius    |d ca. 2. Jh.    |t Excerpta de magno verbo    |0 (DE-588)1216964343    
+700 1 2  |a Herodianus, Aelius    |d ca. 2. Jh.    |t Deductiones difficulter declinatorum verborum    |0 (DE-588)1216965080    
+700 1 2  |a Herodianus, Aelius    |d ca. 2. Jh.    |t De enclisi    |0 (DE-588)1216965927    |k Auswahl    
+700 0    |a Georgius    |c Choiroboscus    |d ca. 5./6. Jh.    |0 (DE-588)100967876    |e Verfasser    |4 aut    
+700 0 2  |a Georgius    |c Choiroboscus    |d ca. 5./6. Jh.    |t Ad eos qui in omnibus verbis regulas quaerunt et similitudines    |0 (DE-588)1217450912    
+700 0 2  |a Georgius    |c Choiroboscus    |d ca. 5./6. Jh.    |t In quibus ob malesonantiam attrahatur n    |0 (DE-588)1217496394    
+700 0 2  |a Georgius    |c Choiroboscus    |d ca. 5./6. Jh.    |t De anomalis et inaequalibus verbis secundum ordinem alphabeti    |0 (DE-588)1217500405    
+700 0 2  |a Georgius    |c Choiroboscus    |d ca. 5./6. Jh.    |t De iis quae inclinantur encliticisque    |0 (DE-588)1217628576    
+700 0 2  |a Georgius    |c Choiroboscus    |d ca. 5./6. Jh.    |t De feminis nominibus quae desinunt in omega    |0 (DE-588)1217688595    
+700 0    |a Johannes    |c Philoponus    |d 490-570    |0 (DE-588)118712586    |e Verfasser    |4 aut    
+700 0 2  |a Johannes    |c Philoponus    |d 490-570    |t De iis quae inclinantur    |0 (DE-588)1217501525    
+700 0 2  |a Johannes    |c Philoponus    |d 490-570    |t Compendium peri dialektōn    |0 (DE-588)1217628886    |k Auswahl    
+700 0    |a Gregorius    |c Pardus    |d 1070-1156    |0 (DE-588)100943446    |e Verfasser    |4 aut    
+700 0 2  |a Gregorius    |c Pardus    |d 1070-1156    |t De dialectis    |0 (DE-588)1217676899    |k Auswahl    
+700 1    |a Wirth, Leonhard    |d 1505-1564    |0 (DE-588)121204618    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Manuzio, Aldo Pio    |d 1450-1515    |0 (DE-588)118577387    |e Drucker    |4 prt    
+730 0    |a De indeclinabilibus verbis    |0 (DE-588)121690720X    
+730 0    |a De iis quae inclinantur et encliticis    |0 (DE-588)1216910235    
+730 0    |a Formationes verborum sum et eo    |0 (DE-588)1216910405    
+730 0    |a Quot sint quae ire significant    |0 (DE-588)1216955921    
+730 0    |a De iis quae sedere significant    |0 (DE-588)1216958793    
+730 0    |a De iis quae inclinantur    |0 (DE-588)1217628487    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Hospinian 85    |9 (41SLSP_UBE)99116827643205511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc II 40    |c 404U3    |p 12    |j MUE Hospinian 85    |b B404    |9 (41SLSP_UBE)99116827643205511    
+986      |a (41SLSP_UBE)99116827643205511    |9 (41SLSP_UBE)99116827643205511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116827643205511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

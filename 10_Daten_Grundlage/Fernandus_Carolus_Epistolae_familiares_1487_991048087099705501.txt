@@ -1,0 +1,155 @@
+﻿<-1-1-START->
+Fernandus, Carolus
+<-1-1-STOP->
+
+<-1-2-START->
+Epistolae familiares ad Robertum Gaguinum
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Enthält 33 Briefe, darunter zwei von Egidius Delphus und einen von Ludovicus Brunus an Carolus Fernandus sowie einen von Johannes Fernandus; die weiteren Empfänger sind Robertus Gaguinus, Thomas Bricot, Simon Vurricius, Michael Aurillandus, Arnoldus Bostius, Hieronymus Balbus, Germanus de Ganay und Junia Venerea; mit einem Gedicht von Hieronymus Balbus an den Leser<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Paris: Johannes Higman, 1487 oder 1488?]
+<-500-START->Gemäss BMC um 1487 bei Ulrich Gering gedruckt, gemäss GW vor Januar 1491 bei Gering<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+55 ungezählte Seiten; 21 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW09795.htm<-L-5-STOP-><-VI-5-START->GW 09795<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/if00100500<-L-5-STOP-><-VI-5-START->ISTC if00100500<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+24 von 28 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Flexibler Pergamenteinband mit durchzogenen Bünden (Velourspergament)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: François Daniel; Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Apologus seu actus scaenicus in Pogium florentinum, 1 / Lorenzo Valla. [Paris: Louis Simonel et Socii, 1479]
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständig: Die Blätter a₁-a₄ fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116682974805511<-L-11-STOP-><-VI-11-START->MUE Bong IV 884 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991048087099705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Fernandus, Carolus<-P-STOP->
+<-P-START->Delphus, Egidius<-P-STOP->
+<-P-START->Bruno, Ludovico<-P-STOP->
+<-P-START->Fernandus, Johannes<-P-STOP->
+<-P-START->Balbi, Girolamo<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Paris<-O-STOP->
+<-P-START->Higman, Johannes<-P-STOP->
+<-O-START->Paris<-O-STOP->
+<-P-START->Gering, Ulrich<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Daniel, François<-P-STOP->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991048087099705501<-DOI-STOP->
+<-SIGN-START->MUE Bong IV 884 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05244nam a2200649 c 4500
+001 991048087099705501
+005 20211215163649.0
+008 100611q14871488fr            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/09.01.2020/B404/faf    
+035      |a (swissbib)063512521-41slsp_network    
+035      |a 063512521    |9 ExL    
+035      |a (IDSBB)005244057DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991048087099705501    
+035      |a (41SLSP_UBE)99116682974805511    |9 (41SLSP_UBE)99116682974805511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Fernandus, Carolus    |d 1450-1517    |0 (DE-588)1014040663    |e Verfasser    |4 aut    
+240 1 0  |a Epistolae familiares ad Robertum Gaguinum    
+245 1 0  |a Caroli fernandi brugensis musici regii ad doctissimu[m] virum dominu[m] Robertum gaguinu[m] ministru[m] generale[m] ordinis sa[n]ctissime trinitat[is] Epistole familiares fœlicit[er] i[n]cipiu[n]t    
+246 1    |i Titel in normalisierter Form    |a Caroli Fernandi Brugensis musici regii ad doctissimum virum dominum Robertum Gaguinum ministrum generalem ordinis sanctissime trinitatis epistole familiares fœliciter incipiunt    
+246 1 0  |a Ad doctissimum virum dominum Robertum Gaguinum ministrum generalem ordinis sanctissime trinitatis epistole familiares    
+246 1    |i Titel gemäss GW    |a Epistolae familiares    
+264   1  |a [Paris]    |b [Johannes Higman]    |c [1487 oder 1488?]    
+300      |a 55 ungezählte Seiten    |c 21 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Enthält 33 Briefe, darunter zwei von Egidius Delphus und einen von Ludovicus Brunus an Carolus Fernandus sowie einen von Johannes Fernandus; die weiteren Empfänger sind Robertus Gaguinus, Thomas Bricot, Simon Vurricius, Michael Aurillandus, Arnoldus Bostius, Hieronymus Balbus, Germanus de Ganay und Junia Venerea; mit einem Gedicht von Hieronymus Balbus an den Leser    
+500      |a Keine Titelseite, Titel gemäss Incipit    
+500      |a Impressum gemäss ISTC; gemäss BMC um 1487 bei Ulrich Gering gedruckt, gemäss GW vor Januar 1491 bei Gering    
+500      |a Signaturformel: a-c⁸, d⁴    
+510 4    |a GW    |c 09795    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW09795.htm    
+510 4    |a ISTC    |c if00100500    |u http://data.cerl.org/istc/if00100500    
+530      |a Digitalisat (Exemplar der Universitäts- und Landesbibliothek Bonn)    |u http://nbn-resolving.de/urn:nbn:de:hbz:5:1-35237    
+561      |a Sammlung Bongars; handschriftlicher Besitzvermerk auf vorderem Spiegel: "Franciscus Daniel. 1561"    
+563      |a Einbandbeschreibung: Flexibler Pergamenteinband mit durchzogenen Bünden (Velourpergament)    
+563      |a Vorsätze: Vorne und hinten ohne fliegende Blätter    
+563      |a Masse Einband: 20.6 x 14.6 x 1.3 cm    
+563      |a Zustand Einband: Einbandpergament (Manuskriptmakulatur) stark verschmutzt mit zahlreichen Verfleckungen und Knicken, zwei Einschnitte an vorderer unterer Kante entsprechend der Einschnitte für abgehängtes Siegel, vorderer Spiegel teilweise hochgelöst, hinterer Spiegel mit grossen und teilweise fixierten Rissen für Einsicht der Versoseite des Pergamentüberzuges, Japanpapierüberklebungen an beiden Innenfälzen    
+590      |a Buchblockbeschreibung: 24 von 28 Blättern    
+590      |a Zustand Buchblock: Blätter mit Verfleckungen und Knicken, Blätter a₅-a₈ innen mit Büttenpapierfälzen ausgeklebt    
+590      |a Unvollständig: Die Blätter a₁-a₄ fehlen    
+590      |a Wenige handschriftliche Annotationen in Tinte    
+590      |a Handschriftliche griechische und lateinische Verse und Sprüche auf beiden Spiegeln und auf Blatt d₄ verso    
+590      |a Vorgebunden 9 (ehemals 12) Blätter mit einer Handschrift: "Ad libri 41 Pandectaru[m], qui est de Possessionibus. Tit. 1 de Acquirend. re[rum] dominio Francis. Duareni Methodicus Tractatus."; 14 Seiten erhalten, nach 3 herausgerissenen Blättern folgt 1 Seite mit einer griechischen Psalmenübersetzung    
+590      |a Zusammengebunden mit: Apologus seu actus scaenicus in Pogium florentinum. 1 / Lorenzo Valla. Paris : Louis Simonel et Socii, 1479    
+590      |a Historische Signatur auf vorderem Spiegel: "Lit 198"    
+590      |a Frühere Signaturen: Inc 105; Inc III 107; [E spiegelverkehrt] II R 5    
+700 1    |a Delphus, Egidius    |d 14XX-1516    |0 (DE-588)100103553    |e Verfasser    |4 aut    
+700 1    |a Bruno, Ludovico    |d 1434-1508    |0 (DE-588)100060773    |e Verfasser    |4 aut    
+700 1    |a Fernandus, Johannes    |d ca. 15.-16. Jahrhundert    |0 (DE-588)1019958774    |e Verfasser    |4 aut    
+700 1    |a Balbi, Girolamo    |d 1460-1535    |0 (DE-588)124685072    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Higman, Johannes    |d ca. 2. Hälfte 15. Jahrhundert    |0 (DE-588)1037573684    |e Drucker    |4 prt    
+700 1    |a Gering, Ulrich    |d 1455-1510    |0 (DE-588)13325366X    |e Drucker    |4 prt    
+700 1    |a Daniel, François    |d 1535-1617    |0 (DE-588)1188762796    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 1 2  |a Fernandus, Carolus    |d 1450-1517    |t Epistolae familiares ad Robertum Gaguinum    |0 (DE-588)1202557007    
+751      |a Paris    |0 (DE-588)4044660-8    
+852 4    |b B404    |c 404U3    |j MUE Bong IV 884 : 1    |9 (41SLSP_UBE)99116682974805511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc III 107 : 1    |c 404U3    |z Zusammengebunden mit 1 weiteren Druck in Sammelband    |p 12    |j MUE Bong IV 884 : 1    |b B404    |9 (41SLSP_UBE)99116682974805511    
+986      |a (41SLSP_UBE)99116682974805511    |9 (41SLSP_UBE)99116682974805511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116682974805511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116682974805511    
+991      |a Bongars: 05275    |5 IZ UBE/B400/11.06.2010    |9 LOCAL    |9 (41SLSP_UBE)99116682974805511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

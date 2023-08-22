@@ -1,0 +1,135 @@
+﻿<-1-1-START->
+Konrad von Mure
+<-1-1-STOP->
+
+<-1-2-START->
+Fabularius
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Basel: Berthold Ruppel, [zwischen ca. 1470 und 1475]
+<-500-START->Druckjahr wird unterschiedlich angegeben (BSB-Ink: "c. 1475", GW: "um 1470", UB Basel: "ca. 1474 oder 1475")<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 293 ungezählte Seiten, 1 ungezähltes Blatt; 30 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_C-521.html<-L-5-STOP-><-VI-5-START->BSB-Ink C-521<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/GW07424.htm<-L-5-STOP-><-VI-5-START->GW 07424<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/ic00855000<-L-5-STOP-><-VI-5-START->ISTC ic00855000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+147 von 148 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Ambrose Lisle Phillipps
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99117241469105511<-L-11-STOP-><-VI-11-START->MUE GDA Gut 3<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991170840805905501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Konrad von Mure<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Ruppel, Berthold<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Phillipps, Ambrose Lisle<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991170840805905501<-DOI-STOP->
+<-SIGN-START->MUE GDA Gut 3<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05333nam a2200553 c 4500
+001 991170840805905501
+005 20220329104213.0
+008 220113q14701475sz ||||      |00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 UBE/B404/20220113/vha    
+035      |a (EXLNZ-41SLSP_NETWORK)991170840805905501    
+035      |a (41SLSP_UBE)99117241469105511    |9 (41SLSP_UBE)99117241469105511    
+040      |a CH-ZuSLS UBE    |b ger    |e rda    
+082 7 4  |a 800    |2 23sdnb    
+082 7 4  |a 030    |2 23sdnb    
+100 1    |a Konrad    |c von Mure    |d 1210-1281    |0 (DE-588)118713965    |4 aut    
+240 1 0  |a Fabularius    
+245 1 0  |a Rep[er]torium vocabulorum equisitorum oratorie poes[is] et historiarum    |b cum fideli narrac[i]o[n]e earum rerum que ambiguitatem ex huiusmodi vocabulis accipiu[n]t per quod fere omnes oculte et difficultates et subtilitates in studijs humanitatis facile : Juxta alphabeti ordinem inuenie[n]tur    |c Editum a ... Magistro conrado turicens[is] ecclesie cantore Et [com]pletus anno domini m°cclxxnj. [cclxxiii., das heisst 1273] In vigilia assumpc[i]onis beate marie virginis    
+246 1    |i Titel in normalisierter Form    |a Repertorium vocabulorum equisitorum oratorie poesis et historiarum    |b cum fideli narracione earum rerum que ambiguitatem ex huiusmodi vocabulis accipiunt per quod fere omnes oculte et difficultates et subtilitates in studiis humanitatis facile : Iuxta alphabeti ordinem invenientur    
+246 1 0  |i Titel in standardisierter Orthografie    |a Repertorium vocabulorum equisitorum oratoriae poesis et historiarum    |b cum fideli narratione earum rerum quae ambiguitatem ex huiusmodi vocabulis accipiunt per quod fere omnes oculte et difficultates et subtilitates in studiis humanitatis facile : Iuxta alphabeti ordinem invenientur    
+246 1    |i Titel gemäss BSB-Ink, GW und ISTC    |a Fabularius seu repertorium vocabulorum    
+264   1  |a in basilea    |b Bertoldus nitide hu[n]c impresserat    |c [zwischen 1470 und 1475]    
+300      |a 1 ungezähltes Blatt, 293 ungezählte Seiten, 1 ungezähltes Blatt    |c 30 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Impressum auf der Titelseite (Blatt [a₁] verso) in Versform: "Vnde liber venerit presens si forte requiras // Quid ve noui referat perlege quod sequitur // Bertoldus ntide hu[n]c impresserat in basilea // Vtq[ue] adeat doctos protinus ille iubet ..."    
+500      |a Druckjahr gemäss BSB-Ink "c. 1475", gemäss GW "um 1470", ISTC gibt mehrere Möglichkeiten an: "about 1475", "about 1473-74" und "about 1470", gemäss UB-Basel "ca. 1474 oder 1475"    
+500      |a Signaturformel: [a–d¹⁰, e¹², f–n¹⁰, o-p⁸]    
+500      |a Blatt [a₁] recto und Blatt [p₇] verso unbedruckt; letztes Blatt [p₈] unbedruckt    
+510 4    |a BSB-Ink    |c C-521    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_C-521.html    
+510 4    |a GW    |c 07424    |u https://www.gesamtkatalogderwiegendrucke.de/docs/GW07424.htm    
+510 4    |a ISTC    |c ic00855000    |u https://data.cerl.org/istc/ic00855000    
+530      |a Digitalisat (Exemplar der Universitätsbibliothek Basel)    |u https://doi.org/10.3931/e-rara-16277    
+561      |a Depositum der Gesellschaft der Freunde des Gutenbergmuseums    
+561      |a Wappen-Exlibris auf vorderem Innenspiegel, mit Schriftzug: "Ex libris Domini Ambrosii Phillips de Lisle Domini de Garendon & Gratia-Dei"    
+563      |a Flexibler Pergamenteinband, Erscheinungsort und Titel mit Tinte auf dem Rücken: "Basileae sine an. Conradus Repertorium Vocabular:"    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse: 29.3 x 21.5 x 3.5 cm    
+563      |a Zustand Einband: Einband wellig und fleckig, insbesondere der Rücken; Befestigung für die Verschlussbänder unter den Innenspiegeln sichtbar, aussen am Deckel entsprechende Löcher, die Verschlussbänder fehlen    
+590      |a Buchblockbeschreibung: 147 von 148 Blättern, handschriftliche Lagensignatur (gemäss GW) in Graphit, jeweils auf erstem Blatt jeder Lage rechts unten; Papierfalz zwischen Blatt [p₁] und [p₂] gehört zur Vorsatzkonstruktion; vorgesehene Stellen für Initialen frei gelassen, ausser auf Blatt [a₂] recto (mit Graphit vorgezeichnetes "C"), sowie den Blättern [b₆] verso bis [b₈] verso (mit Tinte geschriebene "A"s); keine Rubrizierung    
+590      |a Zustand Buchblock: Papier fleckig und auf zahlreichen Blättern mit Feuchtigkeitsrändern, an einzelnen Blättern kleinere Schäden durch Risse (Blätter [a₁], [g₁₀], [n₃])    
+590      |a Letztes Blatt [p₈] (unbedruckt) fehlt    
+590      |a Wenige handschriftliche Annotationen in Tinte (Blatt [a₁] recto, sowie Blätter [a₂] bis [a₅])    
+590      |a Auf Blatt [a₁] recto der Titel in Tinte, sowie darunter, von anderer Hand: "Quod Latium gessit & quicquid Grecia mendat // Fabula quaecumq[ue] est: hic Liber unus hab[et]"    
+590      |a Weiteres Exemplar dieser Ausgabe: Inc III 48 : 2    
+700 1 2  |a Konrad    |c von Mure    |d 1210-1281    |t Fabularius    |0 (DE-588)4846766-2    
+700 1    |a Ruppel, Berthold    |d -1494    |0 (DE-588)129066265    |4 prt    
+700 1    |a Phillipps, Ambrose Lisle    |d 1809-1878    |0 (DE-588)116176490    |4 fmo    
+710 2    |a Gesellschaft der Freunde des Gutenbergmuseums    |0 (DE-588)2137933-6    |4 own    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE GDA Gut 3    |9 (41SLSP_UBE)99117241469105511    
+900      |a IDSIxunikat    
+949      |c 404U3    |z Depositum der Gesellschaft der Freunde des Gutenbergmuseums    |p 12    |j MUE GDA Gut 3    |b B404    |9 (41SLSP_UBE)99117241469105511    
+986      |a (41SLSP_UBE)99117241469105511    |9 (41SLSP_UBE)99117241469105511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99117241469105511    
+990      |n HB404N2201    |9 local    |9 (41SLSP_UBE)99117241469105511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

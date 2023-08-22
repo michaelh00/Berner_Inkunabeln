@@ -1,0 +1,132 @@
+﻿<-1-1-START->
+Johannes Ianuensis
+<-1-1-STOP->
+
+<-1-2-START->
+Catholicon
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Herausgeber: Petrus de Venetiis<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Lyon]: [Matthias Huss], 19.06.1491
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 680 ungezählte Seiten; 36 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_B-18.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-18<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/GW03196.htm<-L-5-STOP-><-VI-5-START->GW 03196<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib00031000<-L-5-STOP-><-VI-5-START->ISTC ib00031000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+342 von 342 Blättern, rot ausgezeichnete Initialen, Anfangsinitiale, sowie zwei weitere Initialen blau ausgezeichnet, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen und Spuren einer vormaligen Ankettung, Linien- und Ornamentstempel-Blindprägung an beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116843449205511<-L-11-STOP-><-VI-11-START->MUE Inc II 31<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991074683809705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Johannes Ianuensis<-P-STOP->
+<-P-START->Petrus de Venetiis<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Lyon<-O-STOP->
+<-P-START->Huß, Matthias<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991074683809705501<-DOI-STOP->
+<-SIGN-START->MUE Inc II 31<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03938nam a2200517 c 4500
+001 991074683809705501
+005 20211215175916.0
+008 191030s1491    fr |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/30.10.2019/B404/vha    
+035      |a (swissbib)075765357-41slsp_network    
+035      |a 075765357    |9 ExL    
+035      |a (IDSBB)007129729DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991074683809705501    
+035      |a (41SLSP_UBE)99116843449205511    |9 (41SLSP_UBE)99116843449205511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Johannes    |c Ianuensis    |d -1298    |0 (DE-588)100948391    |e Verfasser    |4 aut    
+240 1 0  |a Catholicon    
+245 1 0  |a Catholicon Johannis Januensis    
+246 1    |i Incipit    |a Incipit summa que vocatur catholicon    
+246 1 0  |a Summa que vocatur catholicon    
+264   1  |a [Lyon]    |b [Matthias Huss]    |c Anno domini. Millesimo quadrigentesimo nonagesimoprimo. xiij. kalendas Iulij. Finit feliciter [19.06.1491]    
+300      |a 1 ungezähltes Blatt, 680 ungezählte Seiten    |c 36 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Herausgeber im Kolophon genannt: "Emendatum et summa cum diligentia correctum per venerabilem virum magistrum Petrum de venetijs"    
+500      |a Druckort und Drucker gemäss BSB-Ink, GW und ISTC; Druckjahr gemäss Kolophon    
+500      |a Signaturformel: a–z⁸, [et]⁸, [con]⁸, A–R⁸, S⁶    
+500      |a Rückseite der Titelseite (Blatt a₁) unbedruckt; Blatt S₅ verso mit Lagenregister, letztes Blatt S₆ unbedruckt    
+510 4    |a BSB-Ink    |c B-18    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_B-18.html    
+510 4    |a GW    |c 03196    |u https://www.gesamtkatalogderwiegendrucke.de/docs/GW03196.htm    
+510 4    |a ISTC    |c ib00031000    |u http://data.cerl.org/istc/ib00031000    
+530      |a Digitalisat (Exemplar der Staatsbibliothek zu Berlin, Preussischer Kulturbesitz)    |u http://resolver.staatsbibliothek-berlin.de/SBB0001D52300000000    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen und Spuren einer vormaligen Ankettung, Linien- und Ornamentstempel-Blindprägung an beiden Deckeln, Titel in Tintenschrift auf dem Vorderdeckel; im oberem Bundfeld auf dem Rücken Titel in Tinte: "J: Januensis Catholicon 1491."; auf vorderem Deckel oben in Tinte: "ka tho lic on" (jeweils mit Abständen zwischen Buchstaben, wie dargestellt)    
+563      |a Vorsätze: vorne ohne, hinten mit einem fliegenden Blatt; Papier im Spiegel vorne und hinten mit Wasserzeichen (Bär), mit Anmerkung in Graphit: "(Wz Lindt 55, 1480-1500)"    
+563      |a Masse Einband: 35.1 x  26.2 x 8.1 cm    
+563      |a Zustand Einband: oberes Häubchen eingerissen und deformiert, Loch und Korrosionsspuren einer Öse von vormaliger Ankettung im Rückdeckel    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 342 von 342 Blättern, rot ausgezeichnete Initialen, Anfangsinitiale (Blatt a₂ recto), sowie Initialen "P" auf Blatt f₈ verso und "D" auf Blatt g₂ recto blau ausgezeichnet, Rubrizierung    
+590      |a Zustand Buchblock: Loch in Blatt r₁ unten (unterhalb des Satzspiegels); Korrosionsspuren von der ehemaligen Kettenöse im hinteren Deckel an den letzten Blättern S₄-S₆    
+590      |a Historische Signatur auf vorderem Spiegel: "Lit. N. 80"; 80 durchgestrichen, daneben: "182."; auf Blatt a₂ recto: "Lit. M.[?] 48."    
+590      |a Frühere Signatur: Inc 17    
+700 0 2  |a Johannes    |c Ianuensis    |d -1298    |t Catholicon    |0 (DE-588)4518464-1    
+700 0    |a Petrus    |c de Venetiis    |d ca. 15. Jh.    |0 (DE-588)129050180    |e Herausgeber    |4 edt    
+700 1    |a Huß, Matthias    |d 1455-1507    |0 (DE-588)136216099    |e Drucker    |4 prt    
+751      |a Lyon    |0 (DE-588)4036770-8    
+852 4    |b B404    |c 404U3    |j MUE Inc II 31    |9 (41SLSP_UBE)99116843449205511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc II 31    |b B404    |9 (41SLSP_UBE)99116843449205511    
+986      |a (41SLSP_UBE)99116843449205511    |9 (41SLSP_UBE)99116843449205511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116843449205511    
+991      |a AAK: 44897    |5 IZ UBE/30.10.2019/B404/vha    |9 local    |9 (41SLSP_UBE)99116843449205511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,143 @@
+﻿<-1-1-START->
+Hugo von Sankt Victor
+<-1-1-STOP->
+
+<-1-2-START->
+De arrha animae
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Strassburg: C.W., nicht nach 1473]
+<-500-START->Drucktypen identisch mit denen in: Liber bibliae moralis / Petrus Berchorius. 1474 (GW 3863); dort Druckervermerk: "per C. W. Ciuem Argentine[n]sem"; es könnte sich um Clas Wencker oder Conrad Wolfach handeln (siehe Voulliéme, Ernst: Die deutschen Drucker des fünfzehnten Jahrhunderts. Berlin, 1922, S. 148)<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+20 ungezählte Seiten; 29 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_H-437.html<-L-5-STOP-><-VI-5-START->BSB-Ink H-437<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/GW13632.htm<-L-5-STOP-><-VI-5-START->GW 13632<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/ih00537000<-L-5-STOP-><-VI-5-START->ISTC ih00537000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+10 von 10 Blättern, rot ausgezeichnete Anfangsinitiale, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert) mit Sprenkelpapier
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 2 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116843714005511<-L-11-STOP-><-VI-11-START->MUE Bong I 510 : 3<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991067339249705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Hugo von Sankt Victor<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->C. W.<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991067339249705501<-DOI-STOP->
+<-SIGN-START->MUE Bong I 510 : 3<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04389nam a2200613 c 4500
+001 991067339249705501
+005 20211215183230.0
+008 100625s1473    fr            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/25.06.2010    
+035      |a (swissbib)060269960-41slsp_network    
+035      |a 060269960    |9 ExL    
+035      |a (IDSBB)005270023DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991067339249705501    
+035      |a (41SLSP_UBE)99116843714005511    |9 (41SLSP_UBE)99116843714005511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Hugo    |c von Sankt Victor    |d 1096-1141    |0 (DE-588)118554611    |e Verfasser    |4 aut    
+240 1 0  |a De arrha animae    
+245 1 0  |a Incipit soliloquiu[m] hugonis in modu[m] dýalogi ad anima[m] sua[m]    |b eande[m] instrue[n]s multiuarie & pulchre q[ua]tenus sup[er] o[mn]ia ex multis causis quas demo[n]strat diligat deu[m]    
+246 1    |i Titel in normalisierter Form    |a Incipit soliloquium Hugonis in modum dyalogi ad animam suam    |b eandem instruens multivarie & pulchre quatenus super omnia ex multis causis quas demonstrat diligat deum    
+246 1 0  |a Soliloquium Hugonis in modum dyalogi ad animam suam    
+246 1    |i Titel in moderner Orthografie    |a Incipit soliloquium Hugonis in modum dialogi ad animam suam    |b eandem instruens multivariae et pulchrae quatenus super omnia ex multis causis quas demonstrat diligat deum    
+246 1 0  |a Soliloquium Hugonis in modum dialogi ad animam suam    
+246 1 0  |a Soliloquium in modum dialogi ad animam suam    
+246 1    |i Titel gemäss BSB-Ink    |a Soliloquium de arra animae    
+246 1    |i Titel gemäss GW und ISTC    |a Soliloquium in modum dialogi    
+264   1  |a [Strassburg]    |b [C.W.]    |c [nicht nach 1473]    
+300      |a 20 ungezählte Seiten    |c 29 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss Incipit    
+500      |a Impressum gemäss BSB-Ink, GW und ISTC    
+500      |a Drucktypen identisch mit denen in: Berchorius, Petrus: Liber bibliae moralis, 1474, (GW 3863); dort Druckervermerk: "per C. W. Ciuem Argentine[n]sem"; es könnte sich um Clas Wencker oder Conrad Wolfach handeln (siehe Voulliéme, Ernst: Die deutschen Drucker des fünfzehnten Jahrhunderts. Berlin, 1922, S. 148)    
+500      |a Signaturformel: [a¹⁰]    
+500      |a Incipit rot gedruckt    
+510 4    |a BSB-Ink    |c H-437    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_H-437.html    
+510 4    |a GW    |c 13632    |u https://www.gesamtkatalogderwiegendrucke.de/docs/GW13632.htm    
+510 4    |a ISTC    |c ih00537000    |u https://data.cerl.org/istc/ih00537000    
+530      |a Digitalisat (Exemplar der Universitäts- und Landesbibliothek Darmstadt)    |u http://tudigit.ulb.tu-darmstadt.de/show/inc-iv-320    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert) mit Sprenkelpapier, Linien- Goldprägung sowie Titelschild auf dem Rücken    
+563      |a Vorsätze: vorne und hintern mit einem fliegenden Blatt    
+563      |a Masse Einband: 28.5 x 21.1 x 2.1 cm    
+563      |a Zustand Einband: Abspaltungen, Kratzer und Verfärbungen am Einbandleder, Retusche an Fehlstellen im Einbandpapier, Vorsätze im Falz verstärkt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 10 von 10 Blättern, handschriftliche Foliierung in Tinte (15./16. Jahrhundert), jeweils am Kopf der Recto-Seiten, von 111 (Blatt [a₁]) bis 120! Papierfalz zwischen dem letzten Blatt des vorhergehenden Drucks und Blatt [a₁] gehört zur Vorsatzkonstruktion; rot ausgezeichnete Anfangsinitiale, Rubrizierung    
+590      |a Zustand Buchblock: Pergamentverstärkungen (Makulatur) in den Lagenmitten entfernt    
+590      |a Handschriftliche Annotationen in Tinte, vor allem auf den Blättern [a₁]-[a₅]    
+590      |a Zusammengebunden mit 2 weiteren Drucken in Sammelband    
+590      |a Frühere Signaturen: Inc IV 3; Inc 44; Hortin IV 5    
+700 0 2  |a Hugo    |c von Sankt Victor    |d 1096-1141    |t De arrha animae    |0 (DE-588)4440651-4    
+700 0    |a C. W.    |d ca. 15. Jht.    |0 (DE-588)1168763711    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Bong I 510 : 3    |9 (41SLSP_UBE)99116843714005511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc V 3 : 3    |c 404U3    |z Zusammengebunden mit 2 weiteren Drucken in Sammelband    |p 12    |j MUE Bong I 510 : 3    |b B404    |9 (41SLSP_UBE)99116843714005511    
+986      |a (41SLSP_UBE)99116843714005511    |9 (41SLSP_UBE)99116843714005511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116843714005511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116843714005511    
+991      |a Bongars: 07503    |5 IZ UBE/B400/25.06.2010    |9 local    |9 (41SLSP_UBE)99116843714005511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

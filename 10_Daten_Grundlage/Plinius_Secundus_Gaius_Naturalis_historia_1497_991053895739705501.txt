@@ -1,0 +1,166 @@
+﻿<-1-1-START->
+Plinius Secundus, Gaius
+<-1-1-STOP->
+
+<-1-2-START->
+Naturalis historia
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Von Johannes Baptista Palmarius herausgegeben, unter Verwendung der Emendata von Hermolaus Barbarus (Iunior)<-500-STOP->
+<-500-START->Mit Widmungsbrief von Johannes Baptista Palmarius an Gonzales Ruiz de la Vega y Mendoza und Gedicht an den Leser<-500-STOP->
+<-500-START->Mit Briefen von Plinius an Marcus Baebius Macrus und an Tacitus, sowie Exzerpten zu Plinius von Gaius Suetonius Tranquillus, Quintus Septimus Florens Tertullianus und Eusebius Caesariensis<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Bernardinus Benalius, 1497 [vielmehr nicht vor 13.02.1498]
+<-500-START->Späteres Erscheinungsdatum aufgrund der Datierung der Widmung<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+535 ungezählte Seiten; 37 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://incunables.bodleian.ox.ac.uk/record/P-370<-L-5-STOP-><-VI-5-START->BSB-Ink P-370<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M34321.htm<-L-5-STOP-><-VI-5-START->GW M34321<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ip00799000<-L-5-STOP-><-VI-5-START->ISTC ip00799000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+265 von 268 Blättern, rot oder blau ausgezeichnete Initialen, grössere Initialen rot und blau ausgezeichnet, Rubrizierung, Seiten regliert (Satzspiegel durch Linien markiert)
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Sprenkelmarmor, 18./19. Jahrhundert), Linien-Goldprägung an beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: ... Lavoine; Werner Zesiger; Société de Lecture (Genf)
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Die letzten 3 Blätter fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116801737005511<-L-11-STOP-><-VI-11-START->MUE Zesk 14<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991053895739705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Plinius Secundus, Gaius<-P-STOP->
+<-P-START->Palmarius, Johannes Baptista<-P-STOP->
+<-P-START->Barbarus, Hermolaus (Iunior)<-P-STOP->
+<-P-START->Suetonius Tranquillus, Gaius<-P-STOP->
+<-P-START->Tertullianus, Quintus Septimius Florens<-P-STOP->
+<-P-START->Eusebius Caesariensis<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Benalius, Bernardinus<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Lavoine, ...<-P-STOP->
+<-P-START->Zesiger, Werner<-P-STOP->
+<-P-START->Société de Lecture (Genf)<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991053895739705501<-DOI-STOP->
+<-SIGN-START->MUE Zesk 14<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06624nam a2200793 c 4500
+001 991053895739705501
+005 20220222144002.0
+008 950614q14971498it            00| | lat d
+019      |a Altbestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von Signaturen    |5 IDSBB/16.2.1995/bestub/mes    
+035      |a (swissbib)027024636-41slsp_network    
+035      |a 027024636    |9 ExL    
+035      |a (IDSBB)001116816DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991053895739705501    
+035      |a (41SLSP_UBE)99116801737005511    |9 (41SLSP_UBE)99116801737005511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+072   7  |a ag    |2 SzZuIDS BS/BE    
+072   7  |a nw    |2 SzZuIDS BS/BE    
+082 1 4  |a 500    |2 15    
+082 1 4  |a 930    |2 15    
+100 1    |a Plinius Secundus, Gaius    |d 23-79    |0 (DE-588)118595083    |e Verfasser    |4 aut    
+240 1 0  |a Naturalis historia    
+245 1 0  |a C. Plinii Secvndi Natvrae Historiarvm Libri .XXXVII    |c E Castigationibvs Hermolai Barbari Qvam Emendatissime Editi    
+246 1    |i Titel in normalisierter Form    |a C. Plinii Secundi Naturae historiarum libri XXXVII    
+246 1 0  |a Naturae historiarum libri XXXVII    
+246 1    |i Titel gemäss Kolophon    |a C. Plynii Secundi de naturali historia libri .xxxvii    
+246 1 0  |a De naturali historia libri XXXVII    
+246 1    |i Titel gemäss BSB-Ink, GW und ISTC    |a Historia naturalis    
+264   1  |a Impressi Venetiis    |b p[er] Bernardinu[m] Benaliu[m]    |c anni a Natali Christia[n]o .M.CCCCLXXXXVII. [1497, vielmehr nicht vor 13.02.1498]    
+300      |a 535 ungezählte Seiten    |c 37 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Von Johannes Baptista Palmarius herausgegeben, unter Verwendung der Emendata von Hermolaus Barbarus    
+500      |a Blatt a₁ verso bis Blatt a₂ verso: Widmungsbrief von Johannes Baptista Palmarius an Gonzales Ruiz de la Vega y Mendoza und Gedicht "Ad Lectorem"    
+500      |a Blatt a₃: Briefe von Plinius an Marcus und an Tacitus sowie Exzerpte zu Plinius von Gaius Suetonius Tranquillus (aus: De viris illustribus), Quintus Septimus Florens Tertullianus (aus: Apologeticum) und Eusebius Caesariensis (aus: Chronicon)    
+500      |a Impressum gemäss Kolophon (Blatt K₆ recto)    
+500      |a Späteres Erscheinungsdatum aufgrund der Datierung der Widmung (Blatt a₂ verso): "Operi Suprema Manvs Imposita Ann. Gratiae. MIID. Eidib. Febrvari. Avgvstini Barbadici Principatvs Anno .XII." ("an den Iden des Februar 1498, im 12. Jahr des Dogen Augustinus Barbadicus")    
+500      |a Signaturformel: a–e⁸, f⁶, g–z⁸, &⁸, A–I⁸, K⁶    
+500      |a Blatt K₆ verso (letzte Seite) unbedruckt    
+510 4    |a BSB-Ink    |c P-370    |u http://incunables.bodleian.ox.ac.uk/record/P-370    
+510 4    |a GW    |c M34321    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M34321.htm    
+510 4    |a ISTC    |c ip00799000    |u http://data.cerl.org/istc/ip00799000    
+530      |a Digitalisat (Exemplar der Bibliothèque numérique Medica, Paris)    |u http://www.biusante.parisdescartes.fr/histmed/medica/cote?01573    
+561      |a Handschriftlicher Besitzervermerk in Tinte auf der Titelseite: "Ex libris am. Lavoine, 1806"    
+561      |a Stempel auf der Titelseite: "Société De Lecture De Genève" (daneben Stempel: "Annulé, Soc. De Lecture")    
+561      |a Stempel auf vorderem fliegenden Blatt: "Dr. Zesiger"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Sprenkelmarmor, 18./19. Jahrhundert), Linien-Goldprägung an beiden Deckeln, Linien-, Stempel- und Titel-Goldprägung am Rücken, auf dem Titelschild: "Plinivs"    
+563      |a Vorsätze: Vorne mit einem und hinten ohne fliegendes Blatt    
+563      |a Masse Einband: 36.7 x 26.3 x 6.5 cm    
+563      |a Zustand Einband: Massive Schäden am Einbandleder, mit zahlreichen Fehlstellen, Narben des Leders grösstenteils abgelöst, hinterer Spiegel zum Teil herausgerissen (Ansatzfalz aus Pergament-Makulatur einer mittelalterlichen Handschrift sichtbar)    
+590      |a Buchblockbeschreibung: 265 von 268 Blättern, rot oder blau ausgezeichnete Initialen, grössere Initialen zu Beginn jedes Buchs rot und blau ausgezeichnet, Rubrizierung (rote oder blaue Paragraphenzeichen), Seiten regliert (Satzspiegel durch Linien markiert)    
+590      |a Zustand Buchblock: Massive Feuchtigkeitsränder mit starken Verfleckungen eines vormaligen Schimmelschadens im letzten Buchblock-Drittel, Schäden an farbig ausgezeichneten Initialen in diesen Bereichen, mit angelösten Farbbereichen und Abklatschbildung an den gegenüberliegenden Seiten (Blätter H₇ verso und H₈ recto)    
+590      |a Unvollständiges Exemplar: Blätter K₄-K₆ (die letzten 3 Blätter) fehlen    
+590      |a Der fehlende Text am Ende wurde auf 2 unbedruckten Blättern hinter Blatt K₃ handschriftlich ergänzt (wahrscheinlich von Am. Lavoine), mit Datierung am Ende: "Transcribebam quinto Calend. Augusti 1806" (28.07.1806)    
+590      |a Auf der Titelseite französische Annotationen in Tinte von Lavoine; wenige handschriftliche Annotationen im Text, zum Beispiel auf den Blättern a₂ recto, r₅ verso und r₆ recto (teilweise durch Beschnitt verloren)    
+590      |a Historische Signatur auf vorderem Spiegel und auf der Titelseite in Tinte: "Sf.12"; auf vorderem fliegenden Blatt, unter dem Stempel von Zesiger, in Graphit: "F V 331"    
+700 1 2  |a Plinius Secundus, Gaius    |d 23-79    |t Naturalis historia    |0 (DE-588)4196444-5    
+700 1    |a Palmarius, Johannes Baptista    |d ca. 15. Jh.    |0 (DE-588)129048003    |e Herausgeber    |4 edt    
+700 1    |a Barbarus, Hermolaus    |c Iunior    |d 1454-1493    |0 (DE-588)118657119    |e Mitwirkender    |4 ctb    
+700 1    |a Suetonius Tranquillus, Gaius    |d 70-150    |0 (DE-588)118619918    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Tertullianus, Quintus Septimius Florens    |d 150-230    |0 (DE-588)118621386    |e Verfasser von ergänzendem Text    |4 wst    
+700 0    |a Eusebius    |c Caesariensis    |d 260-339    |0 (DE-588)118531425    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Ruiz de la Vega y Mendoza, Gonzales    |d ca. 15. Jh.    |0 (DE-588)129074853    |e Widmungsempfänger    |4 dte    
+700 1    |a Benalius, Bernardinus    |d 1458-1550    |0 (DE-588)128981180    |e Drucker    |4 prt    
+700 1    |a Lavoine, Am    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Zesiger, Werner    |d 1902-1958    |0 (DE-588)121027392    |e Früherer Eigentümer    |4 fmo    
+710 2    |a Société de Lecture    |g Genf    |0 (DE-588)5048150-2    |e Früherer Eigentümer    |4 fmo    
+710 2    |a Société de Lecture    |g Genf    |b Bibliothèque    |0 (DE-588)16340853-1    |e Früherer Eigentümer    |4 fmo    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Zesk 14    |9 (41SLSP_UBE)99116801737005511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Zesk 14    |b B404    |9 (41SLSP_UBE)99116801737005511    
+986      |a (41SLSP_UBE)99116801737005511    |9 (41SLSP_UBE)99116801737005511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116801737005511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

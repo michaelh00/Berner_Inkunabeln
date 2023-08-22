@@ -1,0 +1,134 @@
+﻿<-1-1-START->
+Berchorius, Petrus
+<-1-1-STOP->
+
+<-1-2-START->
+Liber bibliae moralis
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Ulm: Johannes Zainer, 9.04.1474
+<-3-1-STOP->
+
+<-4-1-START->
+531 ungezählte Seiten: Holzschnittinitialen; 42 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-291.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-291<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW03862.htm<-L-5-STOP-><-VI-5-START->GW 03862<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib00336000<-L-5-STOP-><-VI-5-START->ISTC ib00336000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+266 von 266 Blättern, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener einteiliger Kartoneinband mit Sprenkelpapier (braun, 18. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116806706905511<-L-11-STOP-><-VI-11-START->MUE Inc III 7<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991044430089705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Berchorius, Petrus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Ulm<-O-STOP->
+<-P-START->Zainer, Johannes<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991044430089705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 7<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04615nam a2200565 c 4500
+001 991044430089705501
+005 20211215161504.0
+008 170710s1474    gw |||||      00| ||ger d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/10.07.2017/B404/vha    
+035      |a (swissbib)07100937X-41slsp_network    
+035      |a 07100937X    |9 ExL    
+035      |a (IDSBB)006713388DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991044430089705501    
+035      |a (41SLSP_UBE)99116806706905511    |9 (41SLSP_UBE)99116806706905511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Berchorius, Petrus    |d 1290-1362    |0 (DE-588)119521504    |e Verfasser    |4 aut    
+240 1 0  |a Liber bibliae moralis    
+245 1 0  |a Finitus est liber moralizationum biblie    
+246 1 0  |a Liber moralisationum bibliae    
+246 1 0  |a Liber moralizationum biblie    
+246 1    |i Incipit    |a Liber biblie moralis expositionum interpretationumq[ue] historiarum ac figura[rum]/ veteris nouiq[ue] testamenti peroptimus incipit feliciter    
+246 1    |i Titel gemäss BSB-Ink    |a Reductorium morale    
+246 1    |i Titel in moderner Orthografie    |a Finitus est liber moralisationum bibliae    
+264   1  |a In opido Vlmensi artificialiter effigatus    |b per industriu[m] Johanne[m] zeiner de Reutlingen artis impressorie m[a]g[ist]r[u]m (non penna sed stagneis caracterib[us])    |c Anno incarnatio[n]is d[omi]ni Millesimo q[ua]dringentesimoseptuagesimoq[ua]rto. die v[er]o aprilia nona [9.04.1474]    
+300      |a 531 ungezählte Seiten    |c 42 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss Kolophon    
+500      |a Impressum gemäss Kolophon    
+500      |a "[Absatzzeichen] Jnfinita dei clementia. Finitus est liber moralizationum biblie in eiusdem laudem [et] gloria[m] compilatus. ac per industriu[m] Johanne[m] zeiner de Reutlingen artis impressorie m[a]g[ist]r[u]m (non penna sed stagneis caracterib[us]) in opido Vlmensi artificialiter effigatus. [Absatzzeichen] Anno incarnatio[n]is d[omi]ni Millesimo q[ua]dringentesimoseptuagesimoq[ua]rto. die v[er]o aprilia nona.)" - Kolophon    
+500      |a Signaturformel: [a–f¹⁰, g⁸, h⁹, i¹¹, k–p¹⁰, q-r⁸, s–z¹⁰, A–C¹⁰, D¹²]    
+500      |a Blatt D₁₂ verso (letzte Seite) unbedruckt    
+500      |a Holzschnittinitialen, auf Blatt [a₁] Holzschnitt-Bordürde    
+510 4    |a BSB-Ink    |c B-291    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-291.html    
+510 4    |a GW    |c 03862    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW03862.htm    
+510 4    |a ISTC    |c ib00336000    |u http://data.cerl.org/istc/ib00336000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00041358/image_3    
+563      |a Einbandbeschreibung: Ganzbezogener einteiliger Kartoneinband mit Sprenkelpapier (braun, 18. Jahrhundert); auf dem Rücken Titelschild aus Papier: "Liber Bibliæ Moralis 1474.", darunter in Tinte: "Ulm 1474"    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 42,0 x 30,0 x 6,9 cm    
+563      |a Zustand Einband: Papierüberklebungen am Rücken, Fehlstellen im Einbandpapier retuschiert, Vorsätze mit Japanpapierstreifen verstärkt    
+590      |a Buchblockbeschreibung: 266 von 266 Blättern, handschriftliche Lagensignatur in Tinte in Rot am rechten, unteren Rand, teilweise durch Beschnitt verloren; Holzschnittinitialen nicht koloriert, aber Rubrizierung von Satzanfängen (Grossbuchstaben) und Absatzzeichen, Blattweiser aus Pergament, mit Namen des jeweiligen biblischen Buchs darauf in Tinte    
+590      |a Zustand Buchbock: Schädlingsfrass zum Teil mit Textverlust, Rostspuren an letzten Blättern von Ankettung des vormaligen Einbandes, erste und letzte Lage mit Japanpapierstreifen verstärkt    
+590      |a Signaturformel der handschriftlichen Lagensignatur: a-f¹⁰, g⁸, h⁹, i¹¹, k-p¹⁰, q-r⁸, [r-Variante]¹⁰, [langes s]¹⁰, s-u¹⁰, v¹⁰, w¹⁰, x-y¹⁰, z¹²    
+590      |a Blatt [a₁] recto mit zwei kurzen Annotationen in schwarzer Tinte, sowie über "Capitulum primum" in roter Tinte: "Incipit moral[is] exposic[i]o[num] libri geneseos"    
+590      |a Frühere Signatur: Inc 68    
+700 1 2  |a Berchorius, Petrus    |d 1290-1362    |t Liber bibliae moralis    |0 (DE-588)1136680829    
+700 1    |a Zainer, Johannes    |d 14XX-1527    |0 (DE-588)118643479    |e Drucker    |4 prt    
+751      |a Ulm    |0 (DE-588)4061529-7    
+852 4    |b B404    |c 404U3    |j MUE Inc III 7    |9 (41SLSP_UBE)99116806706905511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc III 7    |b B404    |9 (41SLSP_UBE)99116806706905511    
+986      |a (41SLSP_UBE)99116806706905511    |9 (41SLSP_UBE)99116806706905511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116806706905511    
+991      |a AAK: 70240    |5 IZ UBE/10.07.2017/B404/vha    |9 LOCAL    |9 (41SLSP_UBE)99116806706905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

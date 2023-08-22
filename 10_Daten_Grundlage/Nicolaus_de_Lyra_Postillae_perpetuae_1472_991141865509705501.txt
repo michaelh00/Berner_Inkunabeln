@@ -1,0 +1,148 @@
+﻿<-1-1-START->
+Nicolaus de Lyra
+<-1-1-STOP->
+
+<-1-2-START->
+Postillae perpetuae in vetus et novum testamentum. — Paulus Burgensis: Additiones
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Additiones jeweils zu jedem Buch<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Strassburg: Johann Mentelin, nicht nach 1472]
+<-500-START->Kleine Druckvariante: Blatt QQ₁ recto beginnt hier: "cu[m] dr[?] Ego aut q[ui]d possu[m] ..."; im Exemplar der Bayerischen Staatsbibliothek nur: "Ego aut quid possu[m] ..."<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+1870 ungezählte Seiten, 1 ungezähltes Blatt, 695 ungezählte Seiten, 2 ungezählte Blätter; 41 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_N-111.html<-L-5-STOP-><-VI-5-START->BSB-Ink N-111<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M26538.htm<-L-5-STOP-><-VI-5-START->GW M26538<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/in00133000<-L-5-STOP-><-VI-5-START->ISTC in00133000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+935 von 1286 Blättern (hier in drei Bänden: 407, 249, 279 Blätter; die Aufteilung kann, ja nach Exemplar, anders sein), handschriftliche Kopftitel in schwarzer Tinte auf den Recto-Seiten, rot oder blau ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert) mit flächig gefärbtem Papier (schwarz-grün)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Hermannus Lignaridus
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Es fehlen die Postillae zum Neuen Testament (350 Blätter: [kkk]₁–[ZZZ]₄); in Band 2 fehlt Blatt [Y]₁
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116832363205511<-L-11-STOP-><-VI-11-START->MUE Inc II 30<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991141865509705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Nicolaus de Lyra<-P-STOP->
+<-P-START->Paulus Burgensis<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Straßburg<-O-STOP->
+<-P-START->Mentelin, Johann<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Lignaridus, Hermannus<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991141865509705501<-DOI-STOP->
+<-SIGN-START->MUE Inc II 30<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 08727nam a2200649 c 4500
+001 991141865509705501
+005 20230207145353.0
+008 130403s1472    fr            00| | lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/23.07.2014/B400/vha    
+035      |a (swissbib)063869357-41slsp_network    
+035      |a 063869357    |9 ExL    
+035      |a (IDSBB)006100327DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991141865509705501    
+035      |a (41SLSP_UBE)99116832363205511    |9 (41SLSP_UBE)99116832363205511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Nicolaus    |c de Lyra    |d 1270-1349    |0 (DE-588)119238683    |e Verfasser    |4 aut    
+245 1 0  |a [Postillae perpetuae in vetus et novum testamentum]    
+246 1    |i Titel gemäss BSB-Ink    |a Postilla litteralis in vetus et novum testamentum    
+246 1    |i Titel gemäss GW und ISTC    |a Postilla super totam Bibliam    
+246 1    |i Incipit    |a Prologus p[ri]m[us] Venerabil[is] fratris Nicolai de lira In testame[n]tu[m] vet[us] De reco[m]mendac[i]one sacre scripture in generali Incipit    
+246 1    |i Incipit in normalisierter Form    |a Prologus primus venerabilis fratris Nicolai de Lira in testamentum vetus de recommendatione Sacre Scripture in generali incipit    
+264   1  |a [Strassburg]    |b [Johann Mentelin]    |c [nicht nach 1472]    
+300      |a 1870 ungezählte Seiten, 1 ungezähltes Blatt, 695 ungezählte Seiten, 2 ungezählte Blätter    |c 41 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Additiones (jeweils zu jedem Buch) von Paulus Burgensis    
+500      |a Impressum gemäss BSB-Ink, GW und ISTC    
+500      |a Erscheinungsjahr gemäss Einträgen des Jahrs 1472 von einem Rubrikator in einem Exemplar der Universitätsbibliothek Freiburg und von einem Käufer in einem Exemplar der Universitätsbibliothek Eichstätt (siehe ISTC)    
+500      |a Signaturformel (gemäss BSB-Ink): [a–f¹⁰, g¹², h–p¹⁰, q¹⁰-¹, r⁸, s–v¹⁰, x–y⁶, z¹⁰, A–D¹⁰, E², F–O¹⁰, P⁶, Q–T¹⁰, V⁸, X–Z¹⁰, aa–gg¹⁰, hh¹², ii–ll¹⁰, mm⁸, nn⁶, oo–pp¹⁰, qq–tt⁸, vv–xx¹⁰, yy–zz⁸, AA⁶, BB–CC¹⁰, DD⁸, EE–FF¹⁰, GG–II⁸, KK⁶, LL–MM¹⁰, NN⁸, OO–RR¹⁰, SS¹², TT⁸, VV–YY¹⁰, ZZ⁸, aaa–bbb⁸, ccc⁸-¹, ddd–eee¹⁰, fff–iii⁸, kkk–ppp¹⁰, qqq¹², rrr–yyy¹⁰, zzz⁸, AAA-BBB⁸, CCC–HHH¹⁰, III⁸, KKK⁶, LLL–MMM¹⁰, NNN¹²-¹, OOO¹², PPP–TTT¹⁰, VVV⁴-¹, XXX–YYY¹⁰, ZZZ⁴]    
+500      |a Blätter [iii]₈ sowie [ZZZ]₃ und [ZZZ]₄ unbedruckt; Blätter [P]₆ verso, [AA]₆ verso und [ZZZ]₂ verso unbedruckt    
+500      |a Die Aufteilung der Lagen in Bände kann, je nach Exemplar, unterschiedlich sein    
+500      |a Kleine Druckvariante: Blatt QQ₁ recto beginnt hier: "cu[m] dr[?] Ego aut q[ui]d possu[m] ..."; im Exemplar der Bayerischen Staatsbibliothek nur: "Ego aut quid possu[m] ..."    
+510 4    |a BSB-Ink    |c N-111    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_N-111.html    
+510 4    |a GW    |c M26538    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M26538.htm    
+510 4    |a ISTC    |c in00133000    |u https://data.cerl.org/istc/in00133000    
+530      |a Digitalisat Band 1, Genesis-Job (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00075806/image_5    
+530      |a Digitalisat Band 2, Psalter-Machabaer, jedoch in falscher Reihenfolge (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00075807/image_7    
+530      |a Digitalisat Band 3, Novum Testamentum (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00075808/image_5    
+561      |a Handschriftlicher Besitzvermerk in Band 1, Blatt [a]₁ recto: "Lignaridi"    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert) mit flächig gefärbtem Papier (schwarz-grün), Linien-Blindprägung und Titelschilder mit Goldprägung auf dem Rücken: "Nic: De Lyra Postillæ In Vet: Test:", jeweils im Bundfeld darunter goldgeprägte Bandzählung ("I"-"III"), jeweils darunter in Tinte: "Argent[orati] sec. XVi"    
+563      |a Vorsätze: jeweils vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse, Band 1: 41.0 x 30.5 x 8.3 cm; Band 2: 41.0 x 30.5 x 5.6 cm; Band 3: 41.1 x 30.5 x 6.5 cm    
+563      |a Zustand Einband: Kratzer am Einbandleder, Abrieb mit Fehlstellen am Einbandpapier    
+590      |a Buchblockbeschreibung: 935 von 1286 Blättern (in drei Bänden: 407, 249, 279 Blätter), neuere handschriftliche Lagensignatur gemäss BSB-Ink in Graphit auf der ersten Recto-Seite jeder Lage; handschriftliche Kopftitel in schwarzer Tinte jeweils auf den Recto-Seiten; in allen Bänden Schriftspuren von herausgelösten Pergamentverstärkungen (Manuskriptmakulatur) in den Lagenmitten; Band 1: Lochungen an den Blattunterkanten entsprechend der Abstände der Textkolumnen (zum Beispiel Blatt [b]₅); Band 3: Falz nach Blatt [ccc]₁ gehört zu Blatt [ccc]₇; vorgesehene Stellen für Illustrationen frei gelassen; rot oder blau ausgezeichnete Initialen; zu Beginn eines Prologus oder einer Postilla zu einem biblischen Buch jeweils eine rot und blau ausgezeichnete Schmuckinitiale mit Verzierungen in roter, blauer, zum Teil auch hellblauer Tinte; Rubrizierung    
+590      |a Zustand Buchblock: In allen Bänden Abrieb an blauem Farbmittel der Initialauszeichnungen mit massiven Verwischungen und Abklatschbildung an den gegenüber liegenden Seiten (zum Beispiel Band 1, Blätter [d]₃ recto oder [d]₁₀ recto, Band 2. Blatt [aa]₂ recto); Band 1: teilweise Feuchtigkeitsränder (z.B. Lage [d]), vereinzelt Papierüberklebungen an Blattecken und Blattkanten (zum Beispiel Blatt [d]₂ verso, Blatt [e]₃ recto); Band 2: massive Blindprägung im Papier (wirkt fast ornamental) mit Ausgangspunkt zwischen Blättern [gg]₃ und [gg]₄ und Bruch im Papier an Blatt [gg]₄, Feuchtigkeitsränder an den unteren Ecken; Band 3: Feuchtigkeitsränder an den ersten Blättern und den unteren Blattecken, bräunliche Verfleckung an den Blattoberkanten der Lagen [E] und [F]    
+590      |a Unvollständiges Exemplar: Es fehlen die Postillae zum Neuen Testament (350 Blätter: [kkk]₁–[ZZZ]₄); in Band 2 fehlt Blatt [Y]₁    
+590      |a Bindung, Band 1: [a–f¹⁰, g¹², h–p¹⁰, q¹⁰-¹, r⁸, s–v¹⁰, x–y⁶, z¹⁰, A–D¹⁰, E², F–O¹⁰, P⁶, Q–T¹⁰, V⁸] (Genesis - Job), Band 2: [X–Z¹⁰, aa–gg¹⁰, hh¹², ii–ll¹⁰, mm⁸, nn⁶, oo–pp¹⁰, qq–tt⁸, vv–xx¹⁰, yy–zz⁸, AA⁶] (Psalter - Ecclesiasticus), Band 3: [BB–CC¹⁰, DD⁸, EE–FF¹⁰, GG–II⁸, KK⁶, LL–MM¹⁰, NN⁸, OO–RR¹⁰, SS¹², TT⁸, VV–YY¹⁰, ZZ⁸, aaa–bbb⁸, ccc⁸-¹, ddd–eee¹⁰, fff–iii⁸] (Isaias - Machabaer)    
+590      |a Vergleiche geänderte Reihenfolge der Bindung im Band 2 der Bayerischen Staatsbibliothek: [LL₁-iii₈], [oo₁-AA₆], [BB₁-KK₆], [X₁-nn₆] (entspricht Bänden 2 und 3 hier)    
+590      |a Wenige handschriftliche Annotationen in Tinte, in der Regel Textkorrekturen (zum Beispiel Band 1 Blätter [F]₃ recto, [Q]₇ recto, Band 3 Blätter [BB]₉ verso    
+590      |a Frühere Signatur: Inc 92    
+700 0 2  |a Nicolaus    |c de Lyra    |d 1270-1349    |t Postillae perpetuae in vetus et novum testamentum    |0 (DE-588)4372198-9    
+700 0    |a Paulus    |c Burgensis    |d 1352-1435    |0 (DE-588)119105144    |e Verfasser    |4 aut    
+700 0 2  |a Paulus    |c Burgensis    |d 1352-1435    |t Additiones    |0 (DE-588)1138302341    
+700 1    |a Mentelin, Johann    |d 1410-1478    |0 (DE-588)118783319    |e Drucker    |4 prt    
+700 1    |a Lignaridus, Hermannus    |d 15XX-1628    |0 (DE-588)120350076    |e Früherer Eigentümer    |4 fmo    
+751      |a Straßburg    |0 (DE-588)4057878-1    
+852 4    |b B404    |c 404U3    |j MUE Inc II 30    |9 (41SLSP_UBE)99116832363205511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |h MUE Inc II 30 : 1    |p 12    |j MUE Inc II 30    |b B404    |9 (41SLSP_UBE)99116832363205511    
+949      |c 404U3    |h MUE Inc II 30 : 3    |p 12    |j MUE Inc II 30    |b B404    |9 (41SLSP_UBE)99116832363205511    
+949      |c 404U3    |h MUE Inc II 30 : 2    |p 12    |j MUE Inc II 30    |b B404    |9 (41SLSP_UBE)99116832363205511    
+986      |a (41SLSP_UBE)99116832363205511    |9 (41SLSP_UBE)99116832363205511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116832363205511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

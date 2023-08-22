@@ -1,0 +1,153 @@
+﻿<-1-1-START->
+Liber Extra
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Im Auftrag Papst Gregors IX. zusammengestellt von Raimundus de Pennaforti<-500-STOP->
+<-500-START->Mit der Glossa ordinaria des Bernardus Bottonius und einem Gedicht des Druckers Michael Wenssler: "Haud ego nec scriptas decretales ..."<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Basel]: Michael Wenssler, 19.08.1478
+<-500-START->Druckvariante entspricht dem Münchner 2. Exemplar, 2 Inc.c.a. 737 b<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 607 ungezählte Seiten: Druckermarke; 50 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_G-335.html<-L-5-STOP-><-VI-5-START->BSB-Ink G-335<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW11456.htm<-L-5-STOP-><-VI-5-START->GW 11456<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ig00450000<-L-5-STOP-><-VI-5-START->ISTC ig00450000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+305 von 305 Blättern, rot und blau ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen sowie Spuren von Beschlägen und einer Kettenöse am oberen Rand des hinteren Deckels, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Johannes Büchler; Kloster Thorberg
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116682058505511<-L-11-STOP-><-VI-11-START->MUE Inc I 5<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991043284309705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Gregor IX. (Papst)<-P-STOP->
+<-P-START->Raimundus de Pennaforti<-P-STOP->
+<-P-START->Bernardus Bottonius<-P-STOP->
+<-P-START->Wenssler, Michael<-P-STOP->
+<-P-START->Katholische Kirche, 1170-1241 : Gregorius IX.<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Wenssler, Michael<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Büchler, Johannes<-P-STOP->
+<-P-START->Kloster Thorberg<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991043284309705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 5<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06067nam a2200697 c 4500
+001 991043284309705501
+005 20221208174120.0
+008 160913s1478    sz ||||| l    00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/13.09.2016/B404/faf    
+035      |a (swissbib)070493812-41slsp_network    
+035      |a 070493812    |9 ExL    
+035      |a (IDSBB)006620703DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991043284309705501    
+035      |a (41SLSP_UBE)99116682058505511    |9 (41SLSP_UBE)99116682058505511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+130 0    |a Liber Extra    |0 (DE-588)4380644-2    
+245 1 0  |a Decretale glosa cum ordinaria domini Bernhardi    
+246 1    |i Incipit    |a Incipit noua [com]pilatio decretaliu[m] greg[orii] .ix    
+246 1    |i Incipit in normalisierter Form    |a Incipit nova compilatio decretalium Gregorii IX    
+246 1    |i Titel gemäss BSB-Ink und GW    |a Decretales    
+246 1    |i Titel gemäss ISTC    |a Decretales cum glossa    
+264   1  |a [Basel]    |b Mihahel wenszler    |c Anno i[n]carnat[i]o[n]is d[omi]nice .M.cccc.lxxviii. xiiii. kl. septe[m]b[ris] ... [19.08.1478]    
+300      |a 1 ungezähltes Blatt, 607 ungezählte Seiten    |c 50 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Im Auftrag Papst Gregors IX. zusammengestellt von Raimundus de Pennaforti    
+500      |a Mit der Glossa ordinaria des Bernardus Bottonius und einem Gedicht des Druckers: "Haud ego nec scriptas decretales ..."    
+500      |a Keine Titelseite, Titel gemäss Kolophon    
+500      |a Drucker und Druckdatum gemäss Kolophon; Reihenfolge der Vorlage: "Anno i[n]carnat[i]o[n]is d[omi]nice .M.cccc.lxxviii. xiiii. kl. septe[m]b[ris] ... reru[m] dominis. suffragante diuina clementia ... hoc p[rae]sens decretale glosa cum ordinaria domini Bernhardi ... Mihahel wenszler ... feliciter [con]summauit."    
+500      |a Druckort gemäss BSB-Ink, GW und ISTC    
+500      |a Druckvariante entspricht dem Münchner 2. Exemplar, 2 Inc.c.a. 737 b    
+500      |a Druckermarke am Ende (rot gedruckt)    
+500      |a Rot- und Schwarzdruck    
+500      |a Signaturformel: [a–c¹⁰, d-e⁶, f–h¹⁰, i-k⁶, l-m¹⁰, n⁸, o¹⁰, p¹², q–s⁸, t–x¹⁰, y⁶, z⁷, A–C¹⁰, D⁸, E⁶, F-G¹⁰, H⁸, I-K¹⁰, L¹²]    
+500      |a Blatt [a₁] ist unbedruckt    
+510 4    |a BSB-Ink    |c G-335    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_G-335.html    
+510 4    |a GW    |c 11456    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW11456.htm    
+510 4    |a ISTC    |c ig00450000    |u http://data.cerl.org/istc/ig00450000    
+561      |a Handschriftlicher Besitzvermerk auf vorderem Spiegel: "Lib[er] Carthusie[nsium] In Torrberg/ p[ro]ueniens a Venerendo Magistro Joan[n]e büchler d[e] Herre[n]berg/ plebanus ac d[e]canus In Walkringenn"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen sowie Spuren von Beschlägen und einer Kettenöse am oberen Rand des hinteren Deckels, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, handschriftlicher Rückentitel in Tinte: "Decretaliu[m] Greg IX. 1473", darunter "Wenßler Basel" überdeckt durch roten Thorberg-Signaturbuchstaben: "G"    
+563      |a Vorsätze: Vorne ohne fliegendes Blatt, hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 50 x 35.5 x 10.8 cm    
+563      |a Zustand Einband: Zum Teil massiver Schädlingsfrassschaden an den Holzdeckeln, starker Rostschaden an ehemaliger Stelle für Kettenöse an hinterem Deckel, Lederüberklebungen am Einband sowie Schliessen restauriert    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 305 von 305 Blättern, handschriftliche Lagensignatur in Tinte im Bundsteg (zum Teil beschnitten), Foliierung in Graphit, Pergamentverstärkung (zum Teil Makulaturpergament) in den Lagenmitten teilweise nur auf Heftstationen beschränkt, rot und blau ausgezeichnete Initialen, Rubrizierung, Kapiteltitel handschriftlich in Rot in Kopfzeile auf Rectoseiten (auf Blatt [d₆] (36) und [e₁] (37) in Tinte korrigiert), Buchzählung (I-V) handschriftlich in Rot als Kolumnentitel auf Rectoseiten ("L" auf Versoseiten)    
+590      |a Zustand Buchblock: Starker Schädlingsfrass zum Teil mit Textverlust, Risse und Fehlstellen zum Teil geschlossen    
+590      |a Signaturformel der handschriftlichen Lagensignatur: a–c¹⁰, d-e⁶, f–h¹⁰, i-k⁶, l-m¹⁰, n⁸, o¹⁰, p¹², q–s⁸, t–x¹⁰, y⁶, z⁸ [ohne z₂], aa–cc¹⁰, dd⁸, ee⁶, ff-gg¹⁰, hh⁸, ii-kk¹⁰, ll¹²    
+590      |a Wenige handschriftliche Annotationen in Tinte (Blatt [y₁] (189) verso, [y₂] (190) recto und verso)    
+590      |a Historische Signatur auf vorderem Spiegel: "Jur: Pol: N. 3"; auf Blatt [a₂] recto: "Jur Polit 3"    
+590      |a Frühere Signatur: Inc 1 a    
+700 0    |a Gregor    |b IX.    |c Papst    |d 1170-1241    |0 (DE-588)118541870    |e Auftraggeber    |4 pat    
+700 0    |a Raimundus    |c de Pennaforti    |d 1175-1275    |0 (DE-588)118787756    |e Herausgeber    |4 edt    
+700 0    |a Bernardus    |c Bottonius    |d -1266    |0 (DE-588)100937918    |e Kommentarverfasser    |4 wac    
+700 1    |a Wenssler, Michael    |d 14XX-1512    |0 (DE-588)134121260    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Wenssler, Michael    |d 14XX-1512    |0 (DE-588)134121260    |e Drucker    |4 prt    
+700 1    |a Büchler, Johannes    |d 1450-1521    |0 (DE-588)1113671742    |e Früherer Eigentümer    |4 fmo    
+700 0 2  |a Bernardus    |c Bottonius    |d -1266    |t Glossa ordinaria    |0 (DE-588)1121117899    
+710 2    |a Katholische Kirche    |0 (DE-588)2009545-4    |e Normerlassende Gebietskörperschaft    |4 enj    
+710 2    |a Kloster Thorberg    |0 (DE-588)7725716-9    |e Früherer Eigentümer    |4 fmo    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc I 5    |9 (41SLSP_UBE)99116682058505511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc I 5    |b B404    |9 (41SLSP_UBE)99116682058505511    
+986      |a (41SLSP_UBE)99116682058505511    |9 (41SLSP_UBE)99116682058505511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116682058505511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

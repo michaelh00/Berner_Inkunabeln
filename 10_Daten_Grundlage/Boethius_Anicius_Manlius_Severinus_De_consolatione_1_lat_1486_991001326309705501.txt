@@ -1,0 +1,152 @@
+﻿<-1-1-START->
+Boethius, Anicius Manlius Severinus
+<-1-1-STOP->
+
+<-1-2-START->
+De consolatione philosophiae. — Expositio in Boethii De consolatione Philosophiae
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Als Verfasser des fälschlicherweise Thomas von Aquin zugeschriebenen Kommentars werden heute manchmal Thomas Wallensis oder Guilelmus Wheatley genannt<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Nürnberg]: Anton Koberger, 23.06.1486
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 142 ungezählte Seiten, 2 ungezählte Blätter; 30 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-601.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-601<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW04537.htm<-L-5-STOP-><-VI-5-START->GW 04537<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib00781000<-L-5-STOP-><-VI-5-START->ISTC ib00781000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+72 von 74 Blättern, rot und blau ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit mittiger Langriemenschliesse sowie Spuren einer Kettenöse am oberen Rand des Rückdeckels
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Kloster Thorberg
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 2 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Die Blätter i₁ und i₁₀ fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116680533505511<-L-11-STOP-><-VI-11-START->MUE Inc I 34 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991001326309705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Boethius, Anicius Manlius Severinus<-P-STOP->
+<-P-START->Thomas von Aquin<-P-STOP->
+<-P-START->Thomas Wallensis<-P-STOP->
+<-P-START->Guilelmus Wheatley<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Nürnberg<-O-STOP->
+<-P-START->Koberger, Anton<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Kloster Thorberg<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991001326309705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 34 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05796nam a2200697 c 4500
+001 991001326309705501
+005 20211215171813.0
+008 170822s1486    gw |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/22.08.2017/B404/faf    
+035      |a (swissbib)072536977-41slsp_network    
+035      |a 072536977    |9 ExL    
+035      |a (IDSBB)006724602DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991001326309705501    
+035      |a (41SLSP_UBE)99116680533505511    |9 (41SLSP_UBE)99116680533505511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Boethius, Anicius Manlius Severinus    |d 480-524    |0 (DE-588)11851282X    |e Verfasser    |4 aut    
+240 1 0  |a De consolatione philosophiae    
+245 1 0  |a Auitij Torquati Seuerini Boetij viri no[min]is celebritate q[uam] memora[n]di: textus de ph[ilosoph]ie [con]solatione: cu[m] editione co[m]e[n]taria beati Thome de aq[uin]o ordinis p[rae]dicato[rum] ... finit feliciter    
+246 1 0  |a Textus de philosophie consolatione    
+246 1    |i Incipit (Kommentar)    |a Eximij preclariq[ue] doctoris thome sup[er] libris Boetij de [con]solatu philosophico co[m]mentum feliciter Incipit    
+246 1    |i Incipit (Kommentar) in normalisierter Form    |a Eximii preclarique doctoris Thome super libris Boetii de consolatu philosophico commentum feliciter incipit    
+246 1    |i Incipit (Tabula)    |a Incipit tabula sup[er] libris Boetij de [con]solatione philosophie [secundu]m ordine[m] alphabeti    
+246 1    |i Incipit (Tabula)in normalisierter Form    |a Incipit tabula super libris Boetii de consolatione philosophie secundum ordinem alphabeti    
+246 1    |i Incipit (Text)    |a Auitij Maulij Torquati Seuerini Boetij Ordinarij Patricij viri exconsulis de consolatione ph[ilosophi]e liber primus incipit    
+246 1    |i Incipit (Text) in normalisierter Form    |a Anitii Manlii Torquati Severini Boetii ordinarii patricii viri exconsulis de consolatione philosophie liber primus incipit    
+246 1    |i Titel in normalisierter Form    |a Avitii Torquati Severini Boetii viri nominis celebritate quam memorandi textus de philosophie consolatione, cum editione comentaria beati Thome de Aquino ordinis praedicatorum ... finit feliciter    
+264   1  |a [Nürnberg]    |b Anthonij kobergers ciuis inclyte Nure[n]bergensium vrbis industria fabrefactus    |c Anno a natiuitate chr[ist]i Millesimo.cccclxxxvj. in vigilia sancti Johannis baptiste [23.06.1486]    
+300      |a 1 ungezähltes Blatt, 142 ungezählte Seiten, 2 ungezählte Blätter    |c 30 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Als Verfasser des fälschlicherweise Thomas von Aquin zugeschriebenen Kommentars werden heute manchmal Thomas Wallensis oder Guilelmus Wheatley genannt    
+500      |a Mit Register    
+500      |a Keine Titelseite, Titel gemäss Kolophon    
+500      |a Impressum gemäss Kolophon    
+500      |a Signaturformel: []⁶, a-b⁸, c⁶, d⁸, e⁶, f⁸, g⁶, h⁸, i¹⁰    
+500      |a Die Blätter a₁, i₉ und i₁₀ sind unbedruckt    
+510 4    |a BSB-Ink    |c B-601    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-601.html    
+510 4    |a GW    |c 04537    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW04537.htm    
+510 4    |a ISTC    |c ib00781000    |u http://data.cerl.org/istc/ib00781000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0004/bsb00041904/images    
+561      |a Handschriftlicher Besitzvermerk auf vorderem Spiegel: "Liber cartusien[sium] in portamo[n]te vvl[gariter] torberg"    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit mittiger Langriemenschliesse sowie Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien-Blindprägung auf beiden Deckeln, auf Rücken rote Thorberg-Signatur: "N XLII", dazu mit Tinte: "Boetius d[e] co[nsolati]io[n]e phie. Co[m]pedium epi. Qu[esti]o[n]es porphirij"    
+563      |a Vorsätze: Vorne mit einem und hinten ohne fliegendes Blatt    
+563      |a Masse Einband: 29.1 x 21 x 6.3 cm    
+563      |a Zustand Einband: Loch mit starken Rostspuren im Rückdeckel von vormaliger Ankettung, Schäden am Einbandleder, beide Holzdeckel ergänzt, Schliesse vollständig ergänzt, Thorberg-Signatur am Rücken nachgezeichnet, beide Vorsätze im Falz mit Japanpapier verstärkt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 72 von 74 Blättern, Papierfalz zwischen Lagen a und b gehört zur Vorsatzkonstruktion, rot und blau ausgezeichnete Initialen, Rubrizierung    
+590      |a Zustand Buchblock: Erste Lage neu geheftet, Farbverwischungen und Craquelés in rotem Farbauftrag    
+590      |a Unvollständiges Exemplar: Die Blätter i₁ und i₁₀ fehlen    
+590      |a Zusammengebunden mit 2 weiteren Drucken in Sammelband    
+590      |a Historische Signatur auf Blatt []₂ recto: "Phil 174"    
+590      |a Frühere Signatur: Inc 58    
+700 0    |a Thomas    |c von Aquin, Heiliger    |d 1225-1274    |0 (DE-588)118622110    |e Kommentarverfasser    |4 wac    
+700 0    |a Thomas    |c Wallensis    |d 1287-1349    |0 (DE-588)100963323    |e Kommentarverfasser    |4 wac    
+700 0    |a Guilelmus    |c Wheatley    |d ca. um 1310    |0 (DE-588)104099224    |e Kommentarverfasser    |4 wac    
+700 1    |a Koberger, Anton    |d 1440-1513    |0 (DE-588)118563890    |e Drucker    |4 prt    
+700 1 2  |a Boethius, Anicius Manlius Severinus    |d 480-524    |t De consolatione philosophiae    |0 (DE-588)4099136-2    
+710 2    |a Kloster Thorberg    |0 (DE-588)7725716-9    |e Früherer Eigentümer    |4 fmo    
+730 0    |a Expositio in Boethii De consolatione Philosophiae    |0 (DE-588)113864899X    
+751      |a Nürnberg    |0 (DE-588)4042742-0    
+852 4    |b B404    |c 404U3    |j MUE Inc I 34 : 1    |9 (41SLSP_UBE)99116680533505511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 2 weiteren Drucken in Sammelband    |p 12    |j MUE Inc I 34 : 1    |b B404    |9 (41SLSP_UBE)99116680533505511    
+986      |a (41SLSP_UBE)99116680533505511    |9 (41SLSP_UBE)99116680533505511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116680533505511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

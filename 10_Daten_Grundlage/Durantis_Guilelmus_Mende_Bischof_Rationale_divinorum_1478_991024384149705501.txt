@@ -1,0 +1,136 @@
+﻿<-1-1-START->
+Durantis, Guilelmus (Bischof von Mende)
+<-1-1-STOP->
+
+<-1-2-START->
+Rationale divinorum officiorum
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Herausgeber: Johannes Aloisius Tuscanus (Widmungsbrief von ihm an Kardinal Petrus Ferriz, Bischof von Tarazona)<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Vicenza: Hermann Lichtenstein, 1478
+<-3-1-STOP->
+
+<-4-1-START->
+4 ungezählte Seiten, 1 ungezähltes Blatt, 449 ungezählte Seiten; 31 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_D-334.html<-L-5-STOP-><-VI-5-START->BSB-Ink D-334<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW09115.htm<-L-5-STOP-><-VI-5-START->GW 09115<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/id00417000<-L-5-STOP-><-VI-5-START->ISTC id00417000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+228 von 228 Blättern, blau ausgezeichneten Anfangsinitiale und blaues Absatzzeichen nur auf Blatt A₂ recto
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Holzdeckeln (braun, Kalb, im 20. Jahrhundert hinzugefügt) mit Schliessen; keine der ursprünglich 4 Schliessen erhalten
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116903137705511<-L-11-STOP-><-VI-11-START->MUE Inc III 58<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991024384149705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Durantis, Guilelmus (Bischof von Mende)<-P-STOP->
+<-P-START->Johannes Aloisius Toscanus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Vicenza<-O-STOP->
+<-P-START->Lichtenstein, Hermann<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991024384149705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 58<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04860nam a2200565 c 4500
+001 991024384149705501
+005 20211215173903.0
+008 171012s1478    it |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/12.10.2017/B404/vha    
+035      |a (swissbib)074433547-41slsp_network    
+035      |a 074433547    |9 ExL    
+035      |a (IDSBB)006738983DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991024384149705501    
+035      |a (41SLSP_UBE)99116903137705511    |9 (41SLSP_UBE)99116903137705511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Durantis, Guilelmus    |c Mende, Bischof    |d 1230-1296    |0 (DE-588)118681273    |e Verfasser    |4 aut    
+240 1 0  |a Rationale divinorum officiorum    
+245 1 0  |a Jncipit rationale diuino[rum] officio[rum]    |c editum p[er] R[everendissimum] in [ch]r[ist]o patre[m] [et] dominu[m] d[omi]n[u]m Guilielmu[m] duranti ...    
+246 1    |i Kolophon    
+246 1    |i Titel in normalisierter Form    |a Incipit rationale divinorum officiorum    
+264   1  |a Jmpressu[m] Uincentie    |b Hermannus lichtensten coloniensis probatissimus librarie artis exactor    |c anno domini. M.cccc.lxxviij. [1478]    
+300      |a 4 ungezählte Seiten, 1 ungezähltes Blatt, 449 ungezählte Seiten    |c 31 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite, Titel gemäss Incipit    
+500      |a Herausgeber: Johannes Aloisius Tuscanus (Widmungsbrief von ihm an Kardinal Petrus Ferriz, Bischof von Tarazona auf der ersten Seite)    
+500      |a Impressum gemäss Kolophon; Reihenfolge der Vorlage: "Hermannus lichtensten coloniensis probatissimus librarie artis exactor. Jmpressu[m] anno domini. M.cccc.lxxviij."    
+500      |a Signaturformel: []², A¹⁰, B–O⁸, a–o⁸    
+500      |a Blatt A₁ (3. Blatt) unbedruckt; Blatt o₈ verso unbedruckt    
+510 4    |a BSB-Ink    |c D-334    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_D-334.html    
+510 4    |a GW    |c 09115    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW09115.htm    
+510 4    |a ISTC    |c id00417000    |u http://data.cerl.org/istc/id00417000    
+530      |a Digitalisat (Exemplar der Biblioteca universitaria, Murcia)    |u https://bibliotecafloridablanca.um.es/bibliotecafloridablanca/handle/11169/647    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Holzdeckeln (braun, Kalb, im 20. Jahrhundert hinzugefügt) mit Schliessen; keine der ursprünglich 4 Schliessen erhalten; auf dem hinteren Deckel in Tinte (grosse Textura): "Rationale diuino[rum]"    
+563      |a Vorsätze: vorne und hinten jeweils mit zwei fliegenden Blättern    
+563      |a Masse Einband: 31.0 x 21.3 x 6.2 cm    
+563      |a Zustand Einband: Schädlingsfrass an Deckeln und Vorsätzen, von den ursprünglich auf den Rückdeckel greifenden Schliessen nur noch Reste der Schliessenriemen auf dem Vorderdeckel erhalten, Bruch im Rückdeckel, Bruch im Vorderdeckel geklebt und durch Nagelung stabilisiert, Vorsätze im Falz mit Japanpapier verstärkt, Rücken vollständig mit Leder ergänzt    
+590      |a Buchblockbeschreibung: 228 von 228 Blättern, handschriftliche Foliierung in Tinte ab Blatt A₂ (das ist i, bis ccxxvj), jeweils rechts oben auf den Recto-Seiten; vorgesehene Stellen für Initialen frei gelassen, mit Ausnahme der blau ausgezeichneten Anfangsinitiale auf Blatt A₂ recto; keine Rubrizierung (ausser einem Absatzzeichen, blau, vor dem Incipit auf Blatt A₂ recto)    
+590      |a Zustand Buchblock: Abplatzungen an blauem Farbauftrag der Zierinitiale auf Blatt A₂ recto    
+590      |a Handschriftliche Notiz (17./18. Jahrhundert) unter der Widmung auf der ersten Seite: "Epitaphium Durandj // Durus Durandus jacet hoc sub marmore duro, // An sit salvandus, Ego dubito nec Ego curo."    
+590      |a Handschriftliche Annotationen in Tinte auf Blatt n₁ recto von zwei verschiedenen Händen: oben (15. Jahrhundert) zu Kirchweihtagen und deren Verschiebungsdaten, mit Hinweis auf den Brauch "in Lausana" 1488; unten (16. Jahrhundert): "Item die 2a noue[m]br[is]" 1505 "q[ue] fuit d[o]m[ini]ca ..."    
+590      |a Auf fliegenden Blättern (vorne verso, hinten recto) Tintenspuren von Stempeln (Bibliothekszeichen?)    
+590      |a Historische Signatur auf der ersten Seite: "Theol. No. 112."; unter der 112 weitere Zahl: "97."    
+590      |a Frühere Signatur: Inc 321    
+700 1 2  |a Durantis, Guilelmus    |c Mende, Bischof    |d 1230-1296    |t Rationale divinorum officiorum    |0 (DE-588)4070634-5    
+700 0    |a Johannes Aloisius    |c Toscanus    |d -1478    |0 (DE-588)104108851    |e Herausgeber    |4 edt    
+700 1    |a Ferrici, Petrus    |d 1415-1478    |0 (DE-588)120924137    |e Widmungsempfänger    |4 dte    
+700 1    |a Lichtenstein, Hermann    |d 14XX-1494    |0 (DE-588)136671861    |e Drucker    |e Buchhändler    |4 prt    |4 bsl    
+751      |a Vicenza    |0 (DE-588)4063445-0    
+852 4    |b B404    |c 404U3    |j MUE Inc III 58    |9 (41SLSP_UBE)99116903137705511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc III 58    |b B404    |9 (41SLSP_UBE)99116903137705511    
+986      |a (41SLSP_UBE)99116903137705511    |9 (41SLSP_UBE)99116903137705511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116903137705511    
+991      |a AAK: 00227681    |5 IZ UBE/12.10.2017/B404/vha    |9 LOCAL    |9 (41SLSP_UBE)99116903137705511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

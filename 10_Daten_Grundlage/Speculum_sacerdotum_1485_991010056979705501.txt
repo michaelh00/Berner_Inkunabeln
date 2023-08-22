@@ -1,0 +1,155 @@
+﻿<-1-1-START->
+Speculum sacerdotum
+<-1-1-STOP->
+
+<-1-2-START->
+. — Gerson, Jean: Modus vivendi secundum deum
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Verfasserangabe für das Speculum sacerdotum im Explicit: "Per B. compositum ..."<-500-STOP->
+<-500-START->Verfasserschaft umstritten; teilweise entweder Bernart Amoros oder Robert Aimar (Erzbischof von Sens) zugeschrieben; gemäss Lökkös soll statt "B." in den zugrundeliegenden Manuskripten ein "R" stehen, was auf Robert Aimar verweist; BSB-Ink gibt ihn als Verfasser an<-500-STOP->
+<-500-START->Verfasser des beigefügten Werks gemäss Manuscripta mediaevalia, online, und Die lateinischen mittelalterlichen Handschriften der Universitätsbibliothek München / Marianne Reuter. Wiesbaden, 2000<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Genf: Louis Cruse, zwischen 1485 und 1490]
+<-3-1-STOP->
+
+<-4-1-START->
+127 ungezählte Seiten: Druckermarke, Holzschnittinitialen; 19 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-VI-5-START->Lökkös, Antal: Catalogue des incunables imprimés à Genève 1478-1500. - Genève, 1978, No. 40<-VI-5-STOP->; <-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_R-212.html<-L-5-STOP-><-VI-5-START->BSB-Ink R-212<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M42987.htm<-L-5-STOP-><-VI-5-START->GW M42987<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/is00670400<-L-5-STOP-><-VI-5-START->ISTC is00670400<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+64 von 64 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Pergamenteinband auf Kartondeckeln (18. Jahrhundert) mit durchzogenen Bünden, Linien-Blindprägung an beiden Deckeln; auf dem Rücken Titel in Tinte: "Speculum Sacerdotum ... A. ..." (verblasst, unleserlich)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Hugo Bosonis; Johann Rudolf de Losea; ... Rubini; Studentenbibliothek (Bern)
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Lunarium 1495–1550 / Bernardus de Granollachs. [Genf?: Ludovicus Cruse?, 1494?]
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116728252705511<-L-11-STOP-><-VI-11-START->MUE Inc V 205 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991010056979705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Robert Aimar<-P-STOP->
+<-P-START->Amoros, Bernart<-P-STOP->
+<-P-START->Gerson, Jean<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Genf<-O-STOP->
+<-P-START->Cruse, Ludovicus<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Hugo Bosonis<-P-STOP->
+<-P-START->Losea, Johann Rudolf de<-P-STOP->
+<-P-START->Rubini, ...<-P-STOP->
+<-P-START->Studentenbibliothek (Bern)<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991010056979705501<-DOI-STOP->
+<-SIGN-START->MUE Inc V 205 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05269nam a2200685 c 4500
+001 991010056979705501
+005 20211215173745.0
+008 181030q14851490sz |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/30.10.2018/B404/vha    
+035      |a (swissbib)075184575-41slsp_network    
+035      |a 075184575    |9 ExL    
+035      |a (IDSBB)006843537DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991010056979705501    
+035      |a (41SLSP_UBE)99116728252705511    |9 (41SLSP_UBE)99116728252705511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+130 0    |a Speculum sacerdotum    |0 (DE-588)117026610X    
+245 1 0  |a Speculum sacerdotu[m]    |c Per B. compositu[m] q[ui] fert cognomine amorum Anno milleno. C. tres. x. bisquoq[ue] seno ...    
+246 1    |i Explicit    |a Explicit hoc speculum doctrine presbiterorum    
+246 1 0  |a Speculum doctrine presbiterorum    
+246 1    |i Explicit in moderner Orthografie    |a Explicit hoc speculum doctrinae presbyterorum    
+246 1 0  |a Speculum doctrinae presbyterorum    
+264   1  |a [Genf]    |b [Louis Cruse]    |c [zwischen 1485 und 1490]    
+300      |a 127 ungezählte Seiten    |c 19 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Verfasserangabe auf Blatt h₅ verso, im Explicit    
+500      |a Verfasserschaft umstritten: verschiedentlich entweder Bernart Amoros (Bernard d'Amors) oder Robert Aimar (Robertus Amarus, Robertus Adhemar) zugeschrieben; gemäss Lökkös soll statt dem "B." in den zugrundeliegenden Manuskripten ein "R" stehen, was auf Robert Aimar, Erzbischof von Sens (gestorben 1385) verweist; BSB-Ink gibt Robertus Amarus (das ist Robert Aimar) als Verfasser an    
+500      |a Beigefügtes Werk "Modus vivendi secundum deum" von Jean Gerson (gemäss Manuscripta mediaevalia, online, und Reuter, Marianne: Die lateinischen mittelalterlichen Handschriften der Universitätsbibliothek München, Wiesbaden, 2000)    
+500      |a Impressum gemäss Lökkös, BSB-Ink, GW und ISTC    
+500      |a Mit Druckermarke auf der Titelseite und Wappen des Druckers auf der letzten Seite    
+500      |a Signaturformel: a-h⁸    
+500      |a Blatt h₈ verso unbedruckt    
+500      |a Mit Holzschnittinitialen auf der Titelseite und Blatt a₂ recto; weitere grosse Initialen gesetzt    
+505 0 0  |g Blatt h₅ verso    |t Incipit bonus [et] valens modus viuendi s[ecundu]m deu[m] ad o[mn]es fore status ho[m]i[nu]m    |r [Jean Gerson]    
+505 0 0  |g Blatt h₅ verso in normalisierter Form    |t Incipit bonus et valens modus vivendi secundum deum ad omnes fore status hominum    |r [Jean Gerson]    
+510 4    |a Lökkös, Antal: Catalogue des incunables imprimés à Genève 1478-1500. - Genève, 1978    |c No. 40    
+510 4    |a BSB-Ink    |c R-212    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_R-212.html    
+510 4    |a GW    |c M42987    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M42987.htm    
+510 4    |a ISTC    |c is00670400    |u http://data.cerl.org/istc/is00670400    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00082296/image_5    
+561      |a Handschriftlicher Besitzvermerk auf der Titelseite: "hugo bonsonis"; darunter von späterer Hand: "Ex dono affinis J.R. De Losea sum Rubini."    
+561      |a Auf der Titelseite Stempel der Studentenbibliothek Bern    
+563      |a Einbandbeschreibung: Ganzbezogener Pergamenteinband auf Kartondeckeln (18. Jahrhundert) mit durchzogenen Bünden, Linien-Blindprägung an beiden Deckeln; auf dem Rücken Titel in Tinte: "Speculum Sacerdotum ... A. ..." (verblasst, unleserlich)    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 18.6 x 12.8 x 1.8 cm    
+563      |a Zustand Einband: Natürliche Fehlstelle im Pergamentüberzug am Rückdeckel mit Pergament hinterlegt    
+590      |a Buchblockbeschreibung: 64 von 64 Blättern, ohne Rubrizierung    
+590      |a Zustand Buchblock: Verbindung zwischen Vorsätzen und erstem und letztem Blatt mit Japanpapier stabilisiert, Spuren einer vormaligen Heftung an Doppelblatt a₄/a₅, Verfleckungen und Schädlingsfrass, Fehlstelle an Blatt h₃ mit Büttenpapier ergänzt    
+590      |a Annotation auf Blatt g₁ recto: "Monsieurs vostre"; Kritzeleien auf der Titelseite und auf der unbedruckten Rückseite von Blatt h₈    
+590      |a Zusammengebunden mit: Granollachs, Bernardus de: Lunarium 1495–1550. - [Genf?]: [Ludovicus Cruse?], [1494?]    
+700 0    |a Robert    |c Aimar    |d -1385    |0 (DE-588)1170265294    |e Verfasser    |4 aut    
+700 1    |a Amoros, Bernart    |d ca. Ende 13.-Anfang 14. Jh.    |0 (DE-588)1089095937    |e Verfasser    |4 aut    
+700 1 2  |a Gerson, Jean    |d 1363-1429    |t Modus vivendi secundum deum    |0 (DE-588)1171176295    
+700 1    |a Cruse, Ludovicus    |0 (DE-588)136999212    |e Drucker    |4 prt    
+700 1    |a Hugo    |c Bosonis    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Losea, Johann Rudolf <<de>>    |d -1763    |0 (DE-588)1089806868    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Rubini, ..    |e Früherer Eigentümer    |4 fmo    
+710 2    |a Studentenbibliothek    |g Bern    |0 (DE-588)1124859993    |e Früherer Eigentümer    |4 fmo    
+751      |a Genf    |0 (DE-588)4020137-5    
+852 4    |b B404    |c 404U3    |j MUE Inc V 205 : 1    |9 (41SLSP_UBE)99116728252705511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 1 weiteren Druck in Sammelband    |p 12    |j MUE Inc V 205 : 1    |b B404    |9 (41SLSP_UBE)99116728252705511    
+986      |a (41SLSP_UBE)99116728252705511    |9 (41SLSP_UBE)99116728252705511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116728252705511    
+991      |a AAK: 845156    |5 IZ UBE/30.10.2018/B404/vha    |9 LOCAL    |9 (41SLSP_UBE)99116728252705511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

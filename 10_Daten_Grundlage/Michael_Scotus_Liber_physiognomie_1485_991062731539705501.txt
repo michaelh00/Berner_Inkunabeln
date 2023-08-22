@@ -1,0 +1,135 @@
+﻿<-1-1-START->
+Michael Scotus
+<-1-1-STOP->
+
+<-1-2-START->
+Liber physiognomie
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Basel: Johann Amerbach, nicht vor 1485]
+<-3-1-STOP->
+
+<-4-1-START->
+79 ungezählte Seiten; 22 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_M-380.html<-L-5-STOP-><-VI-5-START->BSB-Ink M-380<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M23280.htm<-L-5-STOP-><-VI-5-START->GW M23280<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/im00555000<-L-5-STOP-><-VI-5-START->ISTC im00555000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+40 von 40 Blättern, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (rot eingefärbt, Ziege), Verschlussbänder fehlend, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 5 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116869413905511<-L-11-STOP-><-VI-11-START->MUE Inc III 68 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991062731539705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Michael Scotus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Amerbach, Johannes<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991062731539705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 68 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03727nam a2200553 c 4500
+001 991062731539705501
+005 20211215181120.0
+008 090506s1485    sz            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/28.06.2018/B404/faf    
+035      |a (swissbib)056772904-41slsp_network    
+035      |a 056772904    |9 ExL    
+035      |a (IDSBB)004851252DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991062731539705501    
+035      |a (41SLSP_UBE)99116869413905511    |9 (41SLSP_UBE)99116869413905511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Michael    |c Scotus    |d 1175-1235    |0 (DE-588)118733613    |e Verfasser    |4 aut    
+240 1 0  |a Liber physiognomie    
+245 1 0  |a Liber phisionomie magistri Michaelis scoti    
+246 1    |i Incipit (Haupttext)    |a Incipit liber phisionomię: que[m] co[m]pilauit magister Michael scot[us] ad p[rae]ces. d. Federici romano[rum] i[m]p[er]atoris    
+246 1    |i Incipit (Haupttext) in normalisierter Form    |a Incipit liber phisionomię quem compilavit magister Michael Scotus ad praeces d. Federici Romanorum imperatoris    
+246 1    |i Explicit    |a Michaelis Scoti de p[ro]creatione [et] ho[min]is phisionomia opus fęliciter finit    
+246 1    |i Explicit in normalisierter Form    |a Michaelis Scoti de procreatione et hominis phisionomia opus fęliciter finit    
+246 1    |i Titel gemäss BSB-Ink und ISTC    |a Liber physiognomiae    
+246 1    |i Titel gemäss GW    |a Physiognomia    
+264   1  |a [Basel]    |b [Johann Amerbach]    |c [nicht vor 1485]    
+300      |a 79 ungezählte Seiten    |c 22 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Inhaltsverzeichnis    
+500      |a Impressum gemäss BSB-Ink und ISTC    
+500      |a Signaturformel: a–e⁸    
+510 3    |a BSB-Ink    |c M-380    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_M-380.html    
+510 4    |a GW    |c M23280    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M23280.htm    
+510 4    |a ISTC    |c im00555000    |u http://data.cerl.org/istc/im00555000    
+530      |a Digitalisat (Exemplar der Universitätsbibliothek Basel)    |u http://doi.org/10.3931/e-rara-15457    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (rot eingefärbt, Ziege), Verschlussbänder fehlend, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, handschriftlich mit Tinte auf Vorderdeckel: "Michael Scotus, Secreta mulie[rum], Tractat[us] de [...?]"    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 22 x 15.6 x 4 cm    
+563      |a Zustand Einband: Schädlingsfrass an Vorsätzen und Deckeln, Verschlussbänder vollständig fehlend, starke Verfleckungen an beiden Deckeln, Brüche im Einbandleder am Rücken, Lederüberklebungen am Rücken und an den Ecken, hinterer Spiegel teilweise hochgelöst    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 40 von 40 Blättern, Papierfalz vor Blatt a₁ gehört zur Vorsatzkonstruktion, Pergamentverstärkung in den Lagenmitten zum Teil auf einzelne Bundstationen beschränkt, rot ausgezeichnete Initialen, Rubrizierung    
+590      |a Wenige handschriftliche Annotationen in Tinte    
+590      |a Zusammengebunden mit 5 weiteren Drucken in Sammelband    
+590      |a Historische Signatur auf vorderem Spiegel: "Lit: 517."; auf Titelseite: "Liter. 26[?]", korrigiert zu "Phil 88"    
+590      |a Frühere Signatur: Inc 410    
+700 1    |a Amerbach, Johannes    |d 1440-1513    |0 (DE-588)123073189    |e Drucker    |4 prt    
+700 0 2  |a Michael    |c Scotus    |d 1175-1235    |t Liber physiognomie    |0 (DE-588)1139978985    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc III 68 : 1    |9 (41SLSP_UBE)99116869413905511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 5 weiteren Drucken in Sammelband    |p 12    |j MUE Inc III 68 : 1    |b B404    |9 (41SLSP_UBE)99116869413905511    
+986      |a (41SLSP_UBE)99116869413905511    |9 (41SLSP_UBE)99116869413905511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116869413905511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116869413905511    
+991      |a MedeaB400: 00819521    |5 IZ UBE/rekat-ubbe    |9 LOCAL    |9 (41SLSP_UBE)99116869413905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

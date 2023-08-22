@@ -1,0 +1,147 @@
+﻿<-1-1-START->
+Colonna, Francesco
+<-1-1-STOP->
+
+<-1-2-START->
+Hypnerotomachia Poliphili
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit einem Widmungsbrief von Leonardus Crassus an Herzog Guidobaldo I. von Urbino, einem Gedicht von Johannes Baptista Scytha auf Leonardus Crassus, einem Gedicht von Andreas Maro und mehreren anonymen Gedichten<-500-STOP->
+<-500-START->Die Verfasserschaft des in einem Akrostichon genannten Francesco Colonna und dessen Identität sind umstritten; als mögliche Verfasser werden auch Leon Battista Alberti, Giovanni Pico della Mirandola, Lorenzo de' Medici, Fra Eliseo da Treviso und der Drucker Aldo Pio Manuzio genannt<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Aldo Pio Manuzio, 1499
+<-3-1-STOP->
+
+<-4-1-START->
+467 ungezählte Seiten: 172 Illustrationen, Holzschnittinitialen; 32 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_C-471.html<-L-5-STOP-><-VI-5-START->BSB-Ink C-471<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW07223.htm<-L-5-STOP-><-VI-5-START->GW 07223<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ic00767000<-L-5-STOP-><-VI-5-START->ISTC ic00767000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+232 von 234 Blättern, Illustrationen auf Blatt b₈ (20) teilweise koloriert, Holzschnittinitialen mit Goldbronze ausgemalt
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Die Blätter m₆ (98) und r₂ (134) fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116906433305511<-L-11-STOP-><-VI-11-START->MUE Bong IV 856<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991068491579705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Colonna, Francesco<-P-STOP->
+<-P-START->Crassus, Leonardus<-P-STOP->
+<-P-START->Scytha, Johannes Baptista<-P-STOP->
+<-P-START->Maro, Andreas<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Manuzio, Aldo Pio<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991068491579705501<-DOI-STOP->
+<-SIGN-START->MUE Bong IV 856<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04986nam a2200613 c 4500
+001 991068491579705501
+005 20211215184049.0
+008 100514s1499    it            00| | ita  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/24.04.2019/B404/faf    
+035      |a (swissbib)061897906-41slsp_network    
+035      |a 061897906    |9 ExL    
+035      |a (IDSBB)005229401DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991068491579705501    
+035      |a (41SLSP_UBE)99116906433305511    |9 (41SLSP_UBE)99116906433305511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+041 0    |a ita    |a lat    
+100 1    |a Colonna, Francesco    |d 1433-1527    |0 (DE-588)118521624    |e Verfasser    |4 aut    
+240 1 0  |a Hypnerotomachia Poliphili    
+245 1 0  |a Hypnerotomachia Poliphili, Vbi Hvmana Omnia Non Nisi Somnivm Esse Docet. Atqve Obiter Plvrima Scitv Saneqvam Digna Commemorat    
+246 1    |i Titel in normalisierter Form    |a Hypnerotomachia Poliphili, ubi humana omnia non nisi somnium esse docet atque obiter plurima scitu sanequam digna commemorat    
+246 1    |i Titel auf Blatt a₁ recto    |a Poliphili Hypnerotomachia, Vbi Hvmana Omnia Non Nisi Somnivm Esse Ostendit, Atqve Obiter Plvrima Scitv Saneqvam Digna Commemorat    
+264   1  |a Venetiis    |b in ædibus Aldi Manutii, accuratissime    |c Mense decembri .M.ID. [1499]    
+300      |a 467 ungezählte Seiten    |b 172 Illustrationen    |c 32 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Druckerprivileg, einem Widmungsbrief von Leonardus Crassus an Herzog Guidobaldo I. von Urbino, einem Gedicht von Johannes Baptista Scytha auf Leonardus Crassus, mehreren anonymen Gedichten, einer Zusammenfassung, einem Gedicht von Andreas Maro und Errata    
+500      |a Die Verfasserschaft des in einem Akrostichon genannten Francesco Colonna und dessen Identität sind umstritten; als mögliche Verfasser werden auch Leon Battista Alberti, Giovanni Pico della Mirandola, Lorenzo de' Medici, Fra Eliseo da Treviso und der Drucker Aldo Pio Manuzio genannt    
+500      |a Impressum gemäss Kolophon; Reihenfolge der Vorlage: "Venetiis Mense decembri .M.ID. in ædibus Aldi Manutii, accuratissime"    
+500      |a Signaturformel: []⁴, a-y⁸, z¹⁰, A-E⁸, F⁴    
+500      |a Holzschnittinitialen    
+510 4    |a BSB-Ink    |c C-471    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_C-471.html    
+510 4    |a GW    |c 07223    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW07223.htm    
+510 4    |a ISTC    |c ic00767000    |u http://data.cerl.org/istc/ic00767000    
+530      |a Digitalisat (Exemplar der Herzog August Bibliothek Wolfenbüttel)    |u http://diglib.hab.de/inkunabeln/13-1-eth-2f/start.htm    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18. Jh.), Titelschild in Goldprägung auf dem Rücken: "Hypnerotomachia Poliphili Ubi Humana Omnia"    
+563      |a Vorsätze: Vorne und hinten mit zwei fliegenden Blättern    
+563      |a Masse Einband: 31.1 x 22 x 5.3 cm    
+563      |a Zustand Einband: Vorsätze in den Fälzen mit Japanpapier stabilisiert, Schäden am Einbandleder am Rückdeckel retuschiert, Lederüberklebungen an Rücken und Deckel    
+590      |a Buchblockbeschreibung: 232 von 234 Blättern, handschriftliche Foliierung in Graphit, Blinddruckmarken von Textzeilen z.B. an Blatt []₄ verso oder Blatt a₁ recto, Illustrationen auf Blatt b₈ (20) teilweise koloriert, Holzschnittinitialen mit Goldbronze ausgemalt    
+590      |a Zustand Buchblock: Zahlreiche Verfleckungen und Verbräunungen, Ausbrüche und Fehlstellen an den mit Schlagmetall ausgestatteten Initialen    
+590      |a Unvollständiges Exemplar: Die Blätter m₆ (98) und r₂ (134) fehlen    
+590      |a Das Wort "Sanequam" auf Blatt a₁ recto ist durch Rasur und Stempel aus "Saneque" verbessert (siehe GW Anm. 2)    
+590      |a Durchgestrichener handschriftlicher Besitzvermerk auf Titelseite; handschriftliche Annotationen und Unterstreichungen in Tinte    
+590      |a Historische Signatur auf vorderem Spiegel: "Lit. 255." (über älterer Signatur); auf Titelseite: "Phil 142"; 1961 abgelöste Signaturschilder auf vorderem Spiegel eingeklebt    
+590      |a Frühere Signaturen: Inc 251; Inc II 42; IX 14; Γ 49    
+700 1    |a Crassus, Leonardus    |d ca. 15. Jh.    |0 (DE-588)128996560    |e Verfasser eines Vorworts    |4 wpr    
+700 1    |a Scytha, Johannes Baptista    |d ca. 15. Jh.    |0 (DE-588)129069647    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Maro, Andreas    |d ca. 15./16. Jh.    |0 (DE-588)1089827512    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Manuzio, Aldo Pio    |d 1450-1515    |0 (DE-588)118577387    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 1 2  |a Colonna, Francesco    |d 1433-1527    |t Hypnerotomachia Poliphili    |0 (DE-588)4301312-0    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Bong IV 856    |9 (41SLSP_UBE)99116906433305511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc II 42    |c 404U3    |p 12    |j MUE Bong IV 856    |b B404    |9 (41SLSP_UBE)99116906433305511    
+986      |a (41SLSP_UBE)99116906433305511    |9 (41SLSP_UBE)99116906433305511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116906433305511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116906433305511    
+991      |a Bongars: 03301    |5 IZ UBE/B400/14.05.2010    |9 LOCAL    |9 (41SLSP_UBE)99116906433305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

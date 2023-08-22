@@ -1,0 +1,147 @@
+﻿<-1-1-START->
+Pontano, Giovanni Gioviano
+<-1-1-STOP->
+
+<-1-2-START->
+De fortitudine; De principe
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit einem Gedicht Pontanos an den Käufer<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Neapel: Matthias Moravus, 15.09.1490
+<-3-1-STOP->
+
+<-4-1-START->
+155 ungezählte Seiten, 2 ungezählte Blätter, 38 ungezählte Seiten, 1 ungezähltes Blatt; 21 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_P-691.html<-L-5-STOP-><-VI-5-START->BSB-Ink P-691<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M34894.htm<-L-5-STOP-><-VI-5-START->GW M34894<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ip00918000<-L-5-STOP-><-VI-5-START->ISTC ip00918000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+100 von 100 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Pergamenteinband auf Kartondeckeln (20. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Hechsteter; Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116928443005511<-L-11-STOP-><-VI-11-START->MUE Bong IV 882<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991117825079705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Pontano, Giovanni Gioviano<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Neapel<-O-STOP->
+<-P-START->Matthias Moravus<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Hechsteter<-P-STOP->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991117825079705501<-DOI-STOP->
+<-SIGN-START->MUE Bong IV 882<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04671nam a2200661 c 4500
+001 991117825079705501
+005 20211215202351.0
+008 100722s1490    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/08.01.2020/B404/faf    
+035      |a (swissbib)061755850-41slsp_network    
+035      |a 061755850    |9 ExL    
+035      |a (IDSBB)005282348DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991117825079705501    
+035      |a (41SLSP_UBE)99116928443005511    |9 (41SLSP_UBE)99116928443005511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Pontano, Giovanni Gioviano    |d 1429-1503    |0 (DE-588)118833324    |e Verfasser    |4 aut    
+240 1 0  |a De fortitudine    
+245 1 0  |a Ioannis Ioviani Pontani De Fortitvdine Opvs Finit Feliciter    
+246 1    |i Titel in normalisierter Form    |a Ioannis Ioviani Pontani de fortitudine opus finit feliciter    
+246 1    |i Incipit (Gedicht)    |a Emptor si quid habet uiti hic libellus ...    
+246 1    |i Incipit (Gedicht) in normalisierter Form    |a Emptor si quid habet viti hic libellus ...    
+246 1    |i Incipit (Haupttext)    |a Ioannis Ioviani Pontani De Fortitvdine Ad Alfonsvm Dvcem Calabriae Liber Primvs Incipit ...    
+246 1    |i Incipit (Haupttext) in normalisierter Form    |a Ioannis Ioviani Pontani de fortitudine ad Alfonsum ducem Calabriae liber primus incipit ...    
+246 1    |i Titel des 2. enthaltenen Werks in normalisierter Form    |a Ioannis Ioviani Pontani ad Alfonsum Calabriae ducem de principe liber feliciter incipit    
+246 1    |i Kolophon des 2. enthaltenen Werks    |a Ioannis Ioviani Pontani Libellvs De Principe Finit Feliciter    
+246 1    |i Kolophon des 2. enthaltenen Werks in normalisierter Form    |a Ioannis Ioviani Pontani libellus de principe finit feliciter    
+246 1    |i Titel gemäss BSB-Ink    |a De fortitudine bellica et heroica    
+246 1    |i Titel gemäss GW    |a De fortitudine bellica    
+264   1  |a Impressvm Neapoli    |b Per Mathiam Moravvm    |c Atqve Emendatvm Accvratissime Anno Salvtis Dominicae M.CCCC.LXXXX. XV. Septembris Regnante Ferdinando Rege Inclyto [15.09.1490]    
+300      |a 155 ungezählte Seiten, 2 ungezählte Blätter, 38 ungezählte Seiten, 1 ungezähltes Blatt    |c 21 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit einem Gedicht Pontanos an den Käufer, Errata und Pontanos Traktat "De principe"    
+500      |a Keine Titelseite, Titel gemäss Kolophon auf Blatt k₆ verso    
+500      |a Impressum gemäss Kolophon auf Blatt k₆ verso    
+500      |a Signaturformel: a-l⁸, m¹²    
+500      |a Die Blätter a₁ recto, k₇, k₈ und m₁₂ sind unbedruckt    
+505 0    |a Ioannis Ioviani Pontani Ad Alfonsvm Calabriae Dvcem De Principe Liber Feliciter Incipit    
+510 4    |a BSB-Ink    |c P-691    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_P-691.html    
+510 4    |a GW    |c M34894    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M34894.htm    
+510 4    |a ISTC    |c ip00918000    |u http://data.cerl.org/istc/ip00918000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/0006/bsb00069274/images    
+561      |a Sammlung Bongars; auf Blatt m₁₂ verso handschriftliche Notiz: "Bartholomeus redemptoris n[ost]ri discipulus ... hec scripsi in die divi Bartho - anno 1515 Hechsteter."    
+563      |a Einbandbeschreibung: Ganzbezogener Pergamenteinband auf Kartondeckeln (20. Jh.)    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 20.5 x 15.5 x 2.7 cm    
+590      |a Buchblockbeschreibung: 100 von 100 Blättern, Verbräunungen am den Blättern a₁ und m₁₂ weisen auf Umlaufeinheit des Buchblocks ohne vollständig abdeckenden Einband hin, vorgesehene Stellen für Initialen frei gelassen    
+590      |a Zustand Buchblock: Blätter m₃ und m₈ mit umgeknickten Ecken (Beschnittausmass sichtbar)    
+590      |a Handschriftliche Annotationen und Unterstreichungen in Tinte    
+590      |a Historische Signatur auf Blatt a₁ recto: "495."; auf Blatt a₂ recto: "Phil 148"    
+590      |a Frühere Signaturen: Inc 578; Inc III 101; XV 58    
+700 0    |a Matthias    |c Moravus    |d 14XX-1491    |0 (DE-588)129044040    |e Drucker    |4 prt    
+700 0    |a Hechsteter    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 1 2  |a Pontano, Giovanni Gioviano    |d 1429-1503    |t De fortitudine    |0 (DE-588)1202542824    
+700 1 2  |a Pontano, Giovanni Gioviano    |d 1429-1503    |t De principe    |0 (DE-588)4392025-1    
+751      |a Neapel    |0 (DE-588)4041476-0    
+852 4    |b B404    |c 404U3    |j MUE Bong IV 882    |9 (41SLSP_UBE)99116928443005511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc III 101    |c 404U3    |p 12    |j MUE Bong IV 882    |b B404    |9 (41SLSP_UBE)99116928443005511    
+986      |a (41SLSP_UBE)99116928443005511    |9 (41SLSP_UBE)99116928443005511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116928443005511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116928443005511    
+991      |a Bongars: 11427    |5 IZ UBE/B400/22.07.2010    |9 LOCAL    |9 (41SLSP_UBE)99116928443005511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

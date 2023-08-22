@@ -1,0 +1,143 @@
+﻿<-1-1-START->
+Schradin, Niklaus
+<-1-1-STOP->
+
+<-1-2-START->
+Chronik des Schwabenkriegs
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Sursee: [Drucker des Schradin], 14.01.1500
+<-500-START->Druckdatum gemäss GW: "vielmehr 1.IX.1500 oder 12.I.1501(?)"<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 110 ungezählte Seiten: Illustrationen; 21 cm (4°)
+<-500-START->Holzschnitte vom Meister D. S.<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_S-211.html<-L-5-STOP-><-VI-5-START->BSB-Ink S-211<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M40897.htm<-L-5-STOP-><-VI-5-START->GW M40897<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/is00323000<-L-5-STOP-><-VI-5-START->ISTC is00323000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+56 von 56 Blättern, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun, Schaf) mit mittiger Schliesse, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Simon Horman
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 6 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116788742305511<-L-11-STOP-><-VI-11-START->MUE Inc IV 34 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991004298449705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Schradin, Niklaus<-P-STOP->
+<-P-START->Meister D. S.<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Sursee<-O-STOP->
+<-P-START->Drucker des Schradin<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Horman, Simon<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991004298449705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 34 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04344nam a2200613 c 4500
+001 991004298449705501
+005 20230208105325.0
+008 160510s1500    sz |||||      00| ||ger d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/10.05.2016/B404/az    
+035      |a (swissbib)06708124X-41slsp_network    
+035      |a 06708124X    |9 ExL    
+035      |a (IDSBB)006500859DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991004298449705501    
+035      |a (41SLSP_UBE)99116788742305511    |9 (41SLSP_UBE)99116788742305511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Schradin, Niklaus    |d 14XX-1531    |0 (DE-588)103156763    |e Verfasser    |4 aut    
+240 1 0  |a Chronik des Schwabenkriegs    
+245 1 0  |a cRonigk diß kiergs gegen dem allerdurchlüchtigisten hern[n] Romschen konig als ertzrhertzogen zů Osterich vnd dem schwebyschen pundt dero sich das heylig Romisch rich angenome[n] hat eins teilß. vn[d] stett vn[d] lender gemeiner eidgenosschafft des andern    |c niclas schradin    
+246 1    |i Titel gemäss BSB-Ink    |a <<Der>> Schwabenkrieg (1499)    
+246 1    |i Titel gemäss ISTC    |a Chronik dieses Krieges    
+246 1    |i Titel in moderner Orthografie    |a Chronik des Kriegs gegen den allerdurchlüchtigsten Herrn römischen König als Erzherzog zu Österreich    
+246 1    |i Titel in normalisierter/korrigierter Form    |a Cronigk diß Kriegs gegen dem allerdurchlüchtigisten Hernn Romschen Konig als Ertzhertzogen zu Osterich und dem schwebyschen pundt dero sich das heylig Romisch Rich angenommen hat eines teilß und stett und lender gemeiner eidgenosschafft des andern    
+264   1  |a Gedrugkt vnd vollendet Jnn der loblichen statt Surse Jm Ergow    |b [Drucker des Schradin]    |c vff zinstag vor sant Anthengentag. Jm xv/c Jar [14.01.1500]    
+300      |a 1 ungezähltes Blatt, 110 ungezählte Seiten    |b Illustrationen    |c 21 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Der Verfasser nennt sich auf Blatt a₂ verso in Vers 11: Von niclas schradin schriber zů luzern    
+500      |a Gemäss BSB-Ink: Holzschnitte vom Meister DS    
+500      |a Drucker gemäss BSB-Ink, GW und ISTC    
+500      |a Druckort und Druckjahr gemäss Kolophon    
+500      |a Druckjahr gemäss GW "vielmehr 1.IX.1500 oder 12.I.1501"    
+500      |a Signaturformel: a–b⁶,c–n⁴    
+500      |a Blatt n₄ verso ist unbedruckt    
+510 4    |a BSB-Ink    |c S-211    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_S-211.html    
+510 4    |a GW    |c M40897    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M40897.htm    
+510 4    |a ISTC    |c is00323000    |u http://data.cerl.org/istc/is00323000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0004/bsb00040196/images/index.html    
+561      |a Handschriftlicher Besitzvermerk auf vorderem Spiegel: "Simon Horman 1596"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun, Schaf) mit mittiger Schliesse, Linien- und Ornamentstempel- Blindprägung auf beiden Deckeln    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 21.2 x 15.0 x 5.6 cm    
+563      |a Zustand Einband: Lederrücken vollständig ergänzt, Lederüberklebungen an den Ecken sowie am Rückdeckel, neue Vorsätze aus Japanpapier eingefügt, Kapitalumstechung gesichert    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 56 von 56 Blättern, Rubrizierung, handschriftliche Foliierung in Graphit    
+590      |a Zustand Buchblock: einige Flecke    
+590      |a Zusammengebunden mit sechs weiteren Werken in Sammelband    
+590      |a Historische Signatur auf vorderem Spiegel: "620" korrigiert zu "Hist. Prof 178"    
+590      |a Historische Signatur auf Blatt a₁ recto: "hist prof B 90"    
+700 1 2  |a Schradin, Niklaus    |d 14XX-1531    |t Chronik des Schwabenkriegs    |0 (DE-588)1136390219    
+700 0    |a D. S.    |c Meister    |d 1480-15XX    |0 (DE-588)119100614    |e Illustrator    |4 ill    
+700 1    |a Horman, Simon    |d ca. 16./17. Jh.    |e Früherer Eigentümer    |4 fmo    
+710 2    |a Drucker des Schradin    |g Sursee    |0 (DE-588)6145729-2    |e Drucker    |4 prt    
+751      |a Sursee    |0 (DE-588)4106431-8    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 34 : 1    |9 (41SLSP_UBE)99116788742305511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc IV 34 : 1    |b B404    |9 (41SLSP_UBE)99116788742305511    
+986      |a (41SLSP_UBE)99116788742305511    |9 (41SLSP_UBE)99116788742305511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116788742305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

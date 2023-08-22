@@ -1,0 +1,150 @@
+﻿<-1-1-START->
+Katholische Kirche, Curia Romana
+<-1-1-STOP->
+
+<-1-2-START->
+Formularium instrumentorum ad usum curiae Romanae
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit drei päpstlichen Bullen: Execrabilis von Johannes XXII., Cum detestabile scelus und Ambitiosae cupiditati von Paul II.<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Basel: Michael Wenssler, nicht nach 1480]
+<-500-START->Von Proctor Albert Kunne in Memmingen zugeschrieben<-500-STOP->
+<-500-START->Druckfehler "Taubla" (Blatt q₂ recto) nicht korrigiert<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 237 ungezählte Seiten, 1 ungezähltes Blatt, 10 ungezählte Seiten; 32 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_F-206.html<-L-5-STOP-><-VI-5-START->BSB-Ink F-206<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW10201.htm<-L-5-STOP-><-VI-5-START->GW 10201<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/if00254000<-L-5-STOP-><-VI-5-START->ISTC if00254000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+126 von 126 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert), Linienblindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116843921905511<-L-11-STOP-><-VI-11-START->MUE Bong III 92<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991027644719705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Katholische Kirche, Curia Romana<-P-STOP->
+<-P-START->Katholische Kirche, 1316-1334 : Johannes XXII.<-P-STOP->
+<-P-START->Johannes XXII. (Papst)<-P-STOP->
+<-P-START->Katholische Kirche, 1464-1471 : Paul II.<-P-STOP->
+<-P-START->Paul II. (Papst)<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Wenssler, Michael<-P-STOP->
+<-O-START->Memmingen<-O-STOP->
+<-P-START->Kunne, Albert<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991027644719705501<-DOI-STOP->
+<-SIGN-START->MUE Bong III 92<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04192nam a2200613 c 4500
+001 991027644719705501
+005 20211215162709.0
+008 100624s1480    sz            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/12.07.2018/B404/faf    
+035      |a (swissbib)060218932-41slsp_network    
+035      |a 060218932    |9 ExL    
+035      |a (IDSBB)005269615DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991027644719705501    
+035      |a (41SLSP_UBE)99116843921905511    |9 (41SLSP_UBE)99116843921905511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+110 2    |a Katholische Kirche    |b Curia Romana    |0 (DE-588)2034643-8    |e Verfasser    |4 aut    
+245 1 0  |a [Formularium instrumentorum ad usum curiae Romanae]    
+246 1    |i Incipit    |a Absolutio simplicit[er] vel ad cautelam vigore co[m]missionis ap[osto]lice ab exco[m]m[u]nicat[i]o[n]e lata ob no[n] solutione[m] pecu[n]ia[rum]    
+246 1    |i Incipit in normalisierter Form    |a Absolutio simpliciter vel ad cautelam vigore commissionis apostolice ab excommunicatione lata ob non solutionem pecuniarum    
+246 1    |i Titel gemäss BSB-Ink    |a Formularium instrumentorum    
+264   1  |a [Basel]    |b [Michael Wenssler]    |c [nicht nach 1480]    
+300      |a 1 ungezähltes Blatt, 237 ungezählte Seiten, 1 ungezähltes Blatt, 10 ungezählte Seiten    |c 32 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Inhaltsverzeichnis und drei päpstlichen Bullen    
+500      |a Keine Titelseite, Titel gemäss GND    
+500      |a Impressum gemäss BSB-Ink, GW und ISTC; bei Proctor Albert Kunne in Memmingen zugeschrieben    
+500      |a Druckfehler "Taubla" (Blatt q₂ recto) nicht korrigiert    
+500      |a Signaturformel: a¹², b–k⁸, l⁶, m–o⁸, p-q⁶    
+500      |a Die Blätter a₁ und q₁ sind unbedruckt    
+505 0 0  |t Bulla execrabilis Jo. xxij. de prebendis [et] dignitatibus specialiter sedi apostolice reseruatis    |t Bulla pape Pauli contra simoniacos    |t Paulina de rebus ecclesie non alienandis    
+510 4    |a BSB-Ink    |c F-206    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_F-206.html    
+510 4    |a GW    |c 10201    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW10201.htm    
+510 4    |a ISTC    |c if00254000    |u http://data.cerl.org/istc/if00254000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/0008/bsb00081797/images    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19.Jh.), Linienblindprägung auf beiden Deckeln, Titelschild in Goldprägung auf dem Rücken: "Formulare Instrumentoru[m]", Signatur-Blindprägung auf dem Rücken: "Jur Pol 312"    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 31.5 x 22.5 x 3.5 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, beide Vorsätze im Falz mit Japanpapier stabilisiert    
+590      |a Buchblockbeschreibung: 126 von 126 Blättern, handschriftliche Foliierung in Tinte (1-119) auf den Blättern a₂-p₆, vorgesehene Stellen für Initialen frei gelassen    
+590      |a Die Lage q (Tabula) ist am Anfang eingebunden    
+590      |a Handschriftliche Notizen in Tinte auf Blatt q₁ recto    
+590      |a Historische Signatur auf vorderem Spiegel: "Iur. pol. 312."; auf Blatt q₂ recto: "Iur Pol A 134"    
+590      |a Frühere Signaturen: Inc I 28; V 13    
+700 1    |a Wenssler, Michael    |d 14XX-1512    |0 (DE-588)134121260    |e Drucker    |4 prt    
+700 1    |a Kunne, Albert    |0 (DE-588)119107228    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 0 2  |a Johannes    |b XXII.    |c Papst    |d 1244-1334    |t Execrabilis    |0 (DE-588)1136936092    
+700 0 2  |a Paul    |b II.    |c Papst    |d 1417-1471    |t Cum detestabile scelus    |0 (DE-588)1162642661    
+700 0 2  |a Paul    |b II.    |c Papst    |d 1417-1471    |t Ambitiosae cupiditati    |0 (DE-588)1162643021    
+710 2    |a Katholische Kirche    |b Curia Romana    |t Formularium instrumentorum ad usum Curiae Romanae    |0 (DE-588)1162639601    
+751      |a Basel    |0 (DE-588)4004617-5    
+751      |a Memmingen    |0 (DE-588)4038586-3    
+852 4    |b B404    |c 404U3    |j MUE Bong III 92    |9 (41SLSP_UBE)99116843921905511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc I 28    |c 404U3    |p 12    |j MUE Bong III 92    |b B404    |9 (41SLSP_UBE)99116843921905511    
+986      |a (41SLSP_UBE)99116843921905511    |9 (41SLSP_UBE)99116843921905511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116843921905511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116843921905511    
+991      |a Bongars: 05448    |5 IZ UBE/B400/24.06.2010    |9 LOCAL    |9 (41SLSP_UBE)99116843921905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,139 @@
+﻿<-1-1-START->
+Legrand, Jacques
+<-1-1-STOP->
+
+<-1-2-START->
+Sophilogium
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Lyon: Jean de Vingle, 26.07.1495
+<-3-1-STOP->
+
+<-4-1-START->
+clvi, das heisst clxvi Blätter, 2 ungezählte Blätter: Druckermarke, Holzschnittinitialen; 21 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_M-24.html<-L-5-STOP-><-VI-5-START->BSB-Ink M-24<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M17647.htm<-L-5-STOP-><-VI-5-START->GW M17647<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/im00048000<-L-5-STOP-><-VI-5-START->ISTC im00048000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+161 von 168 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Pergamenteinband auf Kartondeckeln (18. Jahrhundert) mit Papier (chamois)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Die Blätter i-iv (Titel und Inhaltsverzeichnis), sowie die letzten beiden Blätter (y₃ und y₄) fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116878632905511<-L-11-STOP-><-VI-11-START->MUE Bong I 513<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991050195539705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Legrand, Jacques<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Lyon<-O-STOP->
+<-P-START->Vingle, Jean de<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991050195539705501<-DOI-STOP->
+<-SIGN-START->MUE Bong I 513<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03902nam a2200577 c 4500
+001 991050195539705501
+005 20211215171244.0
+008 100701s1495    fr            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/01.07.2010    
+035      |a (swissbib)060639830-41slsp_network    
+035      |a 060639830    |9 ExL    
+035      |a (IDSBB)005272734DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991050195539705501    
+035      |a (41SLSP_UBE)99116878632905511    |9 (41SLSP_UBE)99116878632905511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Legrand, Jacques    |d 1365-1420    |0 (DE-588)118999877    |e Verfasser    |4 aut    
+240 1 0  |a Sophilogium    
+245 1 0  |a Sophologium magistri Jacobi magni    
+246 1    |i Explicit    |a Jacobi magni sophologium finit feliciter    
+246 1    |i Titel gemäss GW und ISTC    |a Sophologium    
+264   1  |a impressum fuit istud sophologium lugduni    |b per magistrum Johanne[m] de vingle    |c Anno d[omi]ni millesimo .cccc.lxxxxv. die .xxvi. mensis iulij [26.07.1495]    
+300      |a clvi, das heisst clxvi Blätter, 2 ungezählte Blätter    |c 21 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Titelseite und Blatt y₃ (Blatt 167) mit Druckermarke (aufwendiger Holzschnitt, mit Namen "Jehan de vingle" und Initialen: "J.v.")    
+500      |a Impressum gemäss Kolophon (Blatt y₂ verso); Reihenfolge der Vorlage: "Anno d[omi]ni millesimo .cccc.lxxxxv. die .xxvi. mensis iulij impressum fuit istud sophologium lugduni per magistrum Johanne[m] de vingle."    
+500      |a Signaturformel: a⁴, b-x⁸, y⁴    
+500      |a Rückseite der Titelseite (Blatt a₁) und von den Blättern a₈ und y₃ unbedruckt; Blatt y₄ (letztes Blatt) unbedruckt    
+500      |a Holzschnittinitialen    
+510 4    |a BSB-Ink    |c M-24    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_M-24.html    
+510 4    |a GW    |c M17647    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M17647.htm    
+510 4    |a ISTC    |c im00048000    |u https://data.cerl.org/istc/im00048000    
+530      |a Digitalisat (Exemplar der Herzog August Bibliothek Wolfenbüttel)    |u http://diglib.hab.de/inkunabeln/115-quod-2/start.htm    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Halbbezogener Pergamenteinband auf Kartondeckeln (18. Jahrhundert) mit Papier (chamois), mit Tinte auf dem Rücken: "Iacobi M Sophologium 1495 Lugd:"    
+563      |a Vorsätze: vorne und hinten mit zwei fliegenden Blättern    
+563      |a Masse Einband: 20.8 x 15.4 x 3.3 cm    
+563      |a Zustand Einband: zahlreiche Verfleckungen    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 161 von 168 Blättern, keine Rubrizierung    
+590      |a Zustand Buchblock: ausgeprägte Feuchtigkeitsränder, an den ersten Blättern mit Verfärbungen von vormaligem Schimmelschaden, Buchblock insgesamt verwellt, Ecke an letztem Blatt fehlend    
+590      |a Unvollständiges Exemplar: Die Blätter a₁-a₄, b₁, y₃ und y₄ fehlen    
+590      |a Auf der ersten vorhandenen Recto-Seite, Blatt b₂ (folio vi), unten der Titel in Tinte: "Jacobi Magni Sophologium ex Scriptis Patrum Ecclesiæ collectum"    
+590      |a Vereinzelt Textmarkierungen und Anstreichungen am Rand; kurze Annotationen von Bongars am Rand auf den Blättern lxxiiii und lxxv    
+590      |a Historische Signatur auf vorderem Spiegel: "Theol. No. 412."    
+590      |a Frühere Signaturen: Inc IV 36; Inc 469, Hortin XIV 2    
+700 1 2  |a Legrand, Jacques    |d 1365-1420    |t Sophilogium    |0 (DE-588)1114922013    
+700 1    |a Vingle, Jean <<de>>    |d -1513    |0 (DE-588)1037565029    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+751      |a Lyon    |0 (DE-588)4036770-8    
+852 4    |b B404    |c 404U3    |j MUE Bong I 513    |9 (41SLSP_UBE)99116878632905511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc IV 36    |c 404U3    |p 12    |j MUE Bong I 513    |b B404    |9 (41SLSP_UBE)99116878632905511    
+986      |a (41SLSP_UBE)99116878632905511    |9 (41SLSP_UBE)99116878632905511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116878632905511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116878632905511    
+991      |a Bongars: 08399    |5 IZ UBE/B400/01.07.2010    |9 LOCAL    |9 (41SLSP_UBE)99116878632905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

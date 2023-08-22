@@ -1,0 +1,162 @@
+﻿<-1-1-START->
+Antonin (Erzbischof von Florenz)
+<-1-1-STOP->
+
+<-1-2-START->
+Summa theologica
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit der Tabula des Johannes Molitoris<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Nürnberg: Anton Koberger, 17.07.1486
+<-3-1-STOP->
+
+<-4-1-START->
+5 Bände; 42 cm (2°)
+<-500-START->Tabula: 1 ungezähltes Blatt, 194 ungezählte Seiten, 2 ungezählte Blätter; Teil 1: 1 ungezähltes Blatt, 369 ungezählte Seiten; Teil 2: 1 ungezähltes Blatt, 477 ungezählte Seiten; Teil 3: 1 ungezähltes Blatt, 636 ungezählte Seiten, 1 ungezähltes Blatt; Teil 4: 1 ungezähltes Blatt, 509 ungezählte Seiten<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-598.html<-L-5-STOP-><-VI-5-START->BSB-Ink A-598<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW02189.htm<-L-5-STOP-><-VI-5-START->GW 02189<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ia00875000<-L-5-STOP-><-VI-5-START->ISTC ia00875000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+Tabula: 100 von 100 Blättern, Teil 1: 186 von 186 Blättern, Teil 2: 240 von 240 Blättern, Teil 3: 320 von 320 Blättern, Teil 4: 256 von 256 Blättern, rot und rot-blau ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+4 ganzbezogene Ledereinbände auf Holzdeckeln (chamois, Schwein) mit Schliessen sowie Spuren einer Kettenöse am oberen Rand der Rückdeckel, Linien- und Stempel-Blindprägung jeweils auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Johannes Büchler; Kloster Thorberg
+<-8-1-STOP->
+
+<-9-1-START->
+In 4 Bänden gebunden (Tabula vor Teil 1)
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116885064905511<-L-11-STOP-><-VI-11-START->MUE Inc I 7<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991048373549705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Antonin (Erzbischof von Florenz)<-P-STOP->
+<-P-START->Molitoris, Johannes<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Nürnberg<-O-STOP->
+<-P-START->Koberger, Anton<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Büchler, Johannes<-P-STOP->
+<-P-START->Kloster Thorberg<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991048373549705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 7<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 10004nam a2200793 ca4500
+001 991048373549705501
+005 20211215163644.0
+008 170608m14861487gw |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/08.06.2017/B404/faf    
+035      |a (swissbib)069919232-41slsp_network    
+035      |a 069919232    |9 ExL    
+035      |a (IDSBB)006705102DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991048373549705501    
+035      |a (41SLSP_UBE)99116885064905511    |9 (41SLSP_UBE)99116885064905511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Antonin    |c Florenz, Erzbischof, Heiliger    |d 1389-1459    |0 (DE-588)118897489    |e Verfasser    |4 aut    
+245 1 0  |a [Summa theologica]    
+246 1    |i Incipit der Tabula    |a Incipit prologus in tabulas totius summe d[omi]ni Anthonini archiep[iscop]i flore[n]tinen. ordinis pr[e]dicato[rum] viri doctissimi    
+246 1    |i Incipit von Teil 1    |a Prima p[ar]s summe fratris Anthonini de flore[n]tia ordinis p[re]dicatorum et Archiep[iscop]i florentini    
+246 1    |i Incipit von Teil 2    |a Clarissimi ac doctissimi viri fratris Anthonini de ordine pr[e]dicatoru[m] archiep[iscop]i florentini: secu[n]da pars summe feliciter incipit    
+246 1    |i Incipit von Teil 3    |a In nomine sancte ac indiuidue trinitatis. Incipit p[ro]log[us] tercie p[ar]tis Sum[m]e beati Antonini archiep[iscop]i florentini. ordinis pr[e]dicato[rum]: ac sacre scripture expositoris diligentissimi    
+246 1    |i Incipit von Teil 4    |a Prohemiu[m] in quarta[m] partem Summe d[omi]ni Anthonini archiep[iscop]i florentini ordinis pr[e]dicato[rum]    
+264   1  |a Nuremberg impresse    |b opera ac impensis Anthonij koberger    |c Millesimoquadringentesimooctuagesimosexto currente natiuitatis dominice anno .xvj. v[er]o k[a]l[enda]s Augusti [17.07.1486]    |3 Teil 1    
+264 2 1  |a [Nürnberg]    |b Impressa ac iter[um] atq[ue] iterum a nouo eme[n]data i[n] officina sagacis viri Anthonij koberger Nure[n]bergensis    |c Anno legis gratie Millesimoq[ua]dringe[n]tesimooctuagesimosexto. die v[er]o .x. k[a]l[enda]s Augusti [23.07.1486]    |3 Tabula    
+264 2 1  |a Nurenberge    |b p[er] Anthoniu[m] koberger oppidi pr[ae]fati incolam q[uam] diligentissime impressa    |c Anno incarnationis dominice. Millesimoquadringentesimooctuagesimosexto. Septembris v[er]o k[a]l[enda]s .v. [28.08.1486]    |3 Teil 2    
+264 2 1  |a [Nürnberg]    |b Acuratissime per Anthoniu[m] koberger Nure[n]bergen[sem]. incola[m] his ereis figuris impressa    |c Anno salutis .M.cccclxxxvj. Mensis v[er]o decembris. k[a]l[endas] .xiiij. [18.11.1486]    |3 Teil 3    
+264 3 1  |a [Nürnberg]    |b Expensis attamen operaq[ue] laboriosa. Necnon singulari peruigiliq[ue] cura spectabilis viri Anthonij kobergers Nurenbergen[sis]. incole atq[ue] co[n]ciuis ... his eneis characterib[us] effigiata. [con]summata [et] p[er]fecta    |c Anno salutis Millesimoq[ua]dringentesimooctuagesimoseptimo Idus v[er]o .ij. mens[is] februarij [12.02.1487]    |3 Teil 4    
+300      |a 5 Bände    |c 42 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit der Tabula des Johannes Molitoris    
+500      |a Keine Titelseiten, Titel gemäss GND    
+500      |a Impressen der Teile gemäss Kolophonen; Reihenfolge der Vorlage in Teil 1: "... opera ac impensis Anthonij koberger Nuremberg impresse ..."; Reihenfolge der Vorlage in Teil 2: "Anno incarnationis dominice ... Pars summe secunda ... Nurenberge p[er] Anthoniu[m] koberger ... impressa. finit feliciter."    
+500      |a Umfang Tabula: 1 ungezähltes Blatt, 194 ungezählte Seiten, 2 ungezählte Blätter; Teil 1: 1 ungezähltes Blatt, 369 ungezählte Seiten; Teil 2: 1 ungezähltes Blatt, 477 ungezählte Seiten; Teil 3: 1 ungezähltes Blatt, 636 ungezählte Seiten, 1 ungezähltes Blatt; Teil 4: 1 ungezähltes Blatt, 509 ungezählte Seiten    
+500      |a Die ungezählten Blätter sind unbedruckt    
+500      |a Signaturformel Tabula: [a⁸, b–p⁶, q⁸]; Teil 1: [a–g⁸, h⁶, i⁸, k–z⁶, A–D⁶, E⁸]; Teil 2: [a⁸, b–z⁶, A–M⁶, N⁸, O-P⁶, Q⁸]; Teil 3: [a–z⁶, A–Z⁶, aa–ff⁶, gg⁸]; Teil 4: [a⁸, b–z⁶, A–S⁶, T⁸]    
+505 0 0  |g Kolophon der Tabula    |t Tabula quintuplex totius Su[m]me venerabilis domini Antonini    |r compilata p[er] dominum Johanne[m] molitoris fratrem ordinis predicatorum conue[n]tus coloniensis    
+505 0 0  |g Kolophon von Teil 1    |t Hic prime partis Summe Antonini. ordinis predicatorum fratris clarissimi: archipresulis florentini finis extat ...    
+505 0 0  |g Kolophon von Teil 2    |t Pars summe secunda Antonini Archiep[iscop]i florentini. ordinis p[re]dicatorum eruditissimi ... finit feliciter    
+505 0 0  |g Kolophon von Teil 3    |t Pars summe tercia inclyti Antonini. flore[n]tini archiep[iscop]i sacre pagine interpretis eximij ... Finit feliciter    
+505 0 0  |g Kolophon von Teil 4    |t Quarta pars summe. excellentissimi. diuinissimi. seraphiciq[ue] Antonini: florentinen[sis]. quondam archiep[iscop]i ...    
+510 4    |a BSB-Ink    |c A-598    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-598.html    
+510 4    |a GW    |c 02189    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW02189.htm    
+510 4    |a ISTC    |c ia00875000    |u http://data.cerl.org/istc/ia00875000    
+530      |a Digitalisat Tabula (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0004/bsb00040834/images    
+530      |a Digitalisat Teil 1 (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0004/bsb00040835/images    
+530      |a Digitalisat Teil 2 (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0004/bsb00040836/images    
+530      |a Digitalisat Teil 3 (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0004/bsb00040837/images    
+530      |a Digitalisat Teil 4 (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/~db/0004/bsb00040839/images    
+561      |a Handschriftliche Besitzvermerke auf vorderen Spiegeln aller 4 Bände: "Liber Cartusie[nsium] In Torrberg p[ro]ueniens A Venerendo Magistro Jan[n]e büchler d[e] h[er]re[n]berg/ q[uo]nda[m] plebanus ac d[e]canus In walkringen" (Band 1, leichte Variationen in den anderen Bänden)    
+563      |a Einbandbeschreibung: 4 ganzbezogene Ledereinbände auf Holzdeckeln (chamois, Schwein) mit Schliessen sowie Spuren einer Kettenöse am oberen Rand der Rückdeckel, Linien- und Stempel-Blindprägung jeweils auf beiden Deckeln, auf Rücken rote Thorberg-Signaturen (teils über Tintenschrift): "H XIII" bis "H XVI", dazu mit Tinte auf Pergamentschild: "Prima [-Qua[r]ta] par[s] su[m]me antonin[i]" (mit leichten Abweichungen zwischen den Bänden) und verblassend direkt auf dem Leder: "Norimb. 1486"    
+563      |a Vorsätze: Jeweils vorne und hinten ohne fliegendes Blatt, teilweise Druck- oder Handschriftenmakulatur auf den Spiegeln    
+563      |a Masse Einbände: 41.7 bis 42 x 30 x 6.5 bis 7.5 cm    
+563      |a Zustand Einbände: Schäden durch Schädlingsfrass vor allem an den Vorsätzen und teilweise an den Deckeln, Löcher mit Rostabdrücken von vormaliger Ankettung, Schliessenriemen ergänzt, Lederüberklebungen am Rücken an Band 1, 3 und 4    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: Tabula: 100 von 100 Blättern, Teil 1: 186 von 186 Blättern, Teil 2: 240 von 240 Blättern, Teil 3: 320 von 320 Blättern, Teil 4: 256 von 256 Blättern, handschriftliche Lagensignatur in Tinte (grösstenteils abgeschnitten), zusätzliche Lagensignatur nur auf ersten Blättern in rechter oberer Ecke in Graphit, Pergament- oder Papierfälze vor ersten und nach letzten Blättern von Vorsatzkonstruktion, rot und rot-blau ausgezeichnete Initialen, Rubrizierung, Blattweiser    
+590      |a Zustand Buchblöcke: Blattweiser teilweise abgetrennt, Fehlstellen in Blättern zum Teil ergänzt (Band 1)    
+590      |a Signaturformel der handschriftlichen Lagensignatur: Tabula: a⁸, b–p⁶, q⁸ (Tinte), 1⁸, 2-15⁶, 16⁸ (Graphit); Teil 1: a–g⁸, h⁶, i⁸, k–z⁶, aa–dd⁶, ee⁸ (Tinte), a–g⁸, h⁶, i⁸, k–z⁶, A–D⁶, E⁸ (Graphit); Teil 2: a⁸, b–z⁶, aa–mm⁶, nn⁸, oo-pp⁶, qq⁸ (Tinte), a⁸, b–z⁶, A–M⁶, N⁸, O-P⁶, Q⁸ (Graphit); Teil 3: a–z⁶, aa–zz⁶, aaa–fff⁶, ggg⁸ (Tinte), a–z⁶, A–Z⁶, aa–ff⁶, gg⁸ (Graphit); Teil 4: a⁸, b–z⁶, aa-ss⁶, tt⁸ (Tinte), a⁸, b–z⁶, A–S⁶, T⁸ (Graphit)    
+590      |a Tintenzeichnung einer Hand in Teil 2, Blatt [O₅] verso, einzelne Unterstreichungen und Annotationen in Teil 3, Lagen [ee]-[ff]    
+590      |a In 4 Bänden gebunden (Tabula vor Teil 1)    
+590      |a Historische Signaturen auf Blättern [a₁] verso: "Theol. N°. 9." (Band 1) bis "Theol. N°. 12." (Band 4)    
+590      |a Frühere Signatur: Inc 57    
+700 1    |a Molitoris, Johannes    |d ca. 15.Jh.    |0 (DE-588)119374714    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Koberger, Anton    |d 1440-1513    |0 (DE-588)118563890    |e Drucker    |4 prt    
+700 1    |a Büchler, Johannes    |d 1450-1521    |0 (DE-588)1113671742    |e Früherer Eigentümer    |4 fmo    
+700 0 2  |a Antonin    |c Florenz, Erzbischof, Heiliger    |d 1389-1459    |t Summa theologica    |0 (DE-588)4431916-2    
+710 2    |a Kloster Thorberg    |0 (DE-588)7725716-9    |e Früherer Eigentümer    |4 fmo    
+751      |a Nürnberg    |0 (DE-588)4042742-0    
+852 4    |b B404    |c 404U3    |j MUE Inc I 7    |9 (41SLSP_UBE)99116885064905511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |h MUE Inc I 7 : 3    |q Tercia pars    |p 12    |j MUE Inc I 7    |b B404    |9 (41SLSP_UBE)99116885064905511    
+949      |c 404U3    |h MUE Inc I 7 : 4    |q Quarta pars    |p 12    |j MUE Inc I 7    |b B404    |9 (41SLSP_UBE)99116885064905511    
+949      |c 404U3    |h MUE Inc I 7 : 2    |q Secunda pars    |p 12    |j MUE Inc I 7    |b B404    |9 (41SLSP_UBE)99116885064905511    
+949      |c 404U3    |h MUE Inc I 7 : 1    |q Tabula und Prima pars    |p 12    |j MUE Inc I 7    |b B404    |9 (41SLSP_UBE)99116885064905511    
+986      |a (41SLSP_UBE)99116885064905511    |9 (41SLSP_UBE)99116885064905511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116885064905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

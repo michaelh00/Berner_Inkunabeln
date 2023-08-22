@@ -1,0 +1,152 @@
+﻿<-1-1-START->
+Aristoteles
+<-1-1-STOP->
+
+<-1-2-START->
+Ethica Nicomachea [französisch]
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Gemäss GW und ISTC von Nicolaus Oresme (Bischof von Lisieux) übersetzt<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Paris: [Antoine Caillaut und Guy Marchant für Antoine Vérard], 08.09.1488
+<-3-1-STOP->
+
+<-4-1-START->
+16 ungezählte Seiten, 1 ungezähltes Blatt, Blatt ii-CCxxxii, das heisst CCx, xxix Blätter, 1 ungezähltes Blatt: 1 Illustration; 33 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW02381.htm<-L-5-STOP-><-VI-5-START->GW 02381<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ia00993000<-L-5-STOP-><-VI-5-START->ISTC ia00993000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+248 von 248 Blättern, mehrfarbige und mit Gold gehöhte Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun) mit Schliessen und Buckelnägeln an beiden Deckeln, Linien- und Ornamentstempel-Blindprägung an beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116793770005511<-L-11-STOP-><-VI-11-START->MUE Bong IV 873<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991110410359705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Aristoteles<-P-STOP->
+<-P-START->Nikolaus (Bischof von Lisieux)<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Paris<-O-STOP->
+<-P-START->Vérard, Antoine<-P-STOP->
+<-O-START->Paris<-O-STOP->
+<-P-START->Caillaut, Antoine<-P-STOP->
+<-O-START->Paris<-O-STOP->
+<-P-START->Marchant, Guy<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991110410359705501<-DOI-STOP->
+<-SIGN-START->MUE Bong IV 873<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04761nam a2200649 c 4500
+001 991110410359705501
+005 20211215182634.0
+007 cr#|||||||||||
+008 100412s1488    fr            00| | fre  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/27.11.2019/B404/az    
+024 7    |a 10.3931/e-rara-92276    |2 doi    
+035      |a (swissbib)059832053-41slsp_network    
+035      |a 059832053    |9 ExL    
+035      |a (IDSBB)005206052DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991110410359705501    
+035      |a (41SLSP_UBE)99116793770005511    |9 (41SLSP_UBE)99116793770005511    
+040      |a SzZuIDS BS/BE B400    |e rda    |d CH-ZuSLS    
+041 1    |a fre    |h grc    
+100 0    |a Aristoteles    |d v384-v322    |0 (DE-588)118650130    
+240 1 0  |a Ethica Nicomachea    
+245 1 0  |a <<Les>> éthiques en francoys    
+264   1  |a Imprimé a paris    |b [Antoine Caillaut et Guy Marchant pour Antoine Vérard]    |c le viiiie jour de Septembre Mil.CCCC.quatre vings huyt... [8.09.1488]    
+300      |a 16 ungezählte Seiten, 1 ungezähltes Blatt, Blatt ii-CCxxxii, das heisst CCx, xxix Blätter, 1 ungezähltes Blatt    |b 1 Illustration    |c 33 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+337      |b c    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+338      |b cr    |2 rdacarrier    
+500      |a Gemäss GW und ISTC von Nicolaus Oresme übersetzt    
+500      |a Erscheinungsort und Erscheinungsjahr gemäss Kolophon    
+500      |a Drucker gemäss ISTC: "Antoine Caillaut and Guy Marchant, for Antoine Vérard". Im Kolophon steht: "sur le pont nostre dame a lymage sainct jehan leua[n]geliste ou au palays au premier pillier..."    
+500      |a Signaturformel: A⁸, a-o⁸, p⁶, n-x⁸, y-z⁶, [et]⁸, A-C⁸, D⁶    
+500      |a Die Blätter a₁ und D₆ sind unbedruckt    
+500      |a Paginierungsfehler: Blätter gezählt ii-Cxviii, Cxii-Cxvi, Cxviii-Cxxxvi, Cxliiii-Cxlvii, Cxlix-Clxix, Ciiiixx[et]x-CC[et]xxxii    
+500      |a Holzschnitt-Illustration auf dem Titelblatt verso    
+510 4    |a GW    |c 02381    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW02381.htm    
+510 4    |a ISTC    |c ia00993000    |u http://data.cerl.org/istc/ia00993000    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun) mit Schliessen und Buckelnägeln an beiden Deckeln, Linien- und Ornamentstempel-Blindprägung an beiden Deckeln    
+563      |a Vorsätze: vorne und hinten mit 2 fliegenden Blättern; Makulaturpergament auf beiden Spiegeln    
+563      |a Masse: 33.2 x 24.6 x 6.3 cm    
+563      |a Zustand Buchblock: Schädlingsfrass am Rücken und beiden Deckeln, Abplatzungen und Brüche im Einbandleder mit hoch stehenden Rändern, Lederüberklebungen am Rücken mit nachgezogenen Blindlinien, Schliessenriemen und Haken ergänzt, sichtbare Niederkebung an den Deckelecken    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 248 von 248 Blättern, Pergamentfalz zwischen vorderem fliegenden Blatt und erstem Blatt sowie zwischen letztem Blatt und hinterem fliegenden Blatt gehört zur Vorsatzkonstruktion; mehrfarbige und mit Gold gehöhte Initialen, Rubrizierung (rote, blaue und gelbe Paragraphenzeichen)    
+590      |a Zustand Buchblock: Schädlingsfrass im ersten Drittel und an den letzten Blättern, Verfleckungen und Feuchtigkeitsränder, Korrosionsspuren im Falz zwischen den Blättern C₈ und D₁ mit Abdrücken an den benachbarten Blättern, Druck an einzelnen Stellen verschmiert (z.B. Blatt s₄)    
+590      |a Ausführliche handschriftliche Annotationen auf vorderem Spiegel, kurze Annotation auf hinterem Spiegel (teilweise auf dem Kopf stehend); auf der Titelseite in roter Tinte neben dem Titel auf Griechisch: "audebertos"; weitere griechische Annotation unterhalb des Titels    
+590      |a Historische Signatur auf Blatt a₁: "Philos Lit A n° 47."    
+590      |a Frühere Signaturen: Inc 135; Inc III 55; Hortin IX 6    
+700 0 2  |a Aristoteles    |d v384-v322    |t Ethica Nicomachea    |0 (DE-588)4135368-7    
+700 0    |a Nikolaus    |c Lisieux, Bischof    |d 1320-1382    |0 (DE-588)118734946    |e Übersetzer    |e Verfasser von ergänzendem Text    |4 trl    |4 wst    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Vérard, Antoine    |d 14XX-1513    |0 (DE-588)118804162    |e Drucker    |4 prt    
+700 1    |a Caillaut, Antoine    |d 14XX-1506    |0 (DE-588)128991100    |e Drucker    |4 prt    
+700 1    |a Marchant, Guy    |d 14XX-1505    |0 (DE-588)138932433    |e Drucker    |4 prt    
+751      |a Paris    |0 (DE-588)4044660-8    
+852 4    |b B404    |c 404U3    |j MUE Bong IV 873    |9 (41SLSP_UBE)99116793770005511    
+856 4    |u https://doi.org/10.3931/e-rara-92276    |z Digitalisat in e-rara    
+900      |a IDSIxunikat    
+900      |a IDSIxhybrid-el    
+900      |a NOMERGEALEX    
+949      |i ZB Inc III 55    |c 404U3    |p 12    |j MUE Bong IV 873    |b B404    |9 (41SLSP_UBE)99116793770005511    
+986      |a (41SLSP_UBE)99116793770005511    |9 (41SLSP_UBE)99116793770005511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116793770005511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116793770005511    
+990      |f erarabe    |9 local    |9 (41SLSP_UBE)99116793770005511    
+990      |f lza-cc0    |9 local    |9 (41SLSP_UBE)99116793770005511    
+991      |a Bongars: 00706    |5 IZ UBE/B400/12.04.2010    |9 local    |9 (41SLSP_UBE)99116793770005511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

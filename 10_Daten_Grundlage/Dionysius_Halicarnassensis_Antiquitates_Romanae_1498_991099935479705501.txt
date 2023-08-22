@@ -1,0 +1,149 @@
+﻿<-1-1-START->
+Dionysius Halicarnassensis
+<-1-1-STOP->
+
+<-1-2-START->
+Antiquitates Romanae
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Widmungsbrief des Übersetzers Lampugnino Birago an Papst Paul II. und Anmerkungen des Übersetzers<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Reggio nell'Emilia: Francesco Mazzali, 12.11.1498
+<-500-START->Blatt ix recto entspricht der GW-Hauptvariante ("alios in historia ...")<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+ccxxvi Blätter: Druckermarke; 33 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_D-175.html<-L-5-STOP-><-VI-5-START->BSB-Ink D-175<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW08424.htm<-L-5-STOP-><-VI-5-START->GW 08424<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/id00251000<-L-5-STOP-><-VI-5-START->ISTC id00251000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+225 von 226 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen und Eck- sowie Mittelbeschlägen, Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentrollen-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 2 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Das unbedruckte Blatt a₁ fehlt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116926899905511<-L-11-STOP-><-VI-11-START->MUE Bong V 921 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991099935479705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Dionysius Halicarnassensis<-P-STOP->
+<-P-START->Birago, Lampugnino<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Reggio nell'Emilia<-O-STOP->
+<-P-START->Mazzali, Francesco<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991099935479705501<-DOI-STOP->
+<-SIGN-START->MUE Bong V 921 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04437nam a2200649 c 4500
+001 991099935479705501
+005 20211215185133.0
+008 100601s1498    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/24.07.2018/B404/faf    
+035      |a (swissbib)062713132-41slsp_network    
+035      |a 062713132    |9 ExL    
+035      |a (IDSBB)005236969DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991099935479705501    
+035      |a (41SLSP_UBE)99116926899905511    |9 (41SLSP_UBE)99116926899905511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a lat    |h grc    
+100 0    |a Dionysius    |c Halicarnassensis    |d ca. v1.Jh.    |0 (DE-588)118672037    |e Verfasser    |4 aut    
+240 1 0  |a Antiquitates Romanae    
+245 1 0  |a Dionysii Alicarnasei Romanarum antiquitatum Explicit    
+246 1    |i Incipit (Vorwort)    |a Clementissimo: Ac Santissimo Pavlo Secvndo D. Domino nostro Papae    
+246 1    |i Incipit (Vorwort) in normalisierter Form    |a Clementissimo ac santissimo Paulo Secundo d. domino nostro papae    
+246 1    |i Incipit (Haupttext)    |a Dionysii Halicarnasei Originvm Sive Antiqvitatvm Romanarvm. Liber Primvs    
+246 1    |i Incipit (Haupttext) in normalisierter Form    |a Dionysii Halicarnasei originum sive antiquitatum Romanarum liber primus    
+264   1  |a Impressum Regii    |b per me Franciscum de Mazalis    |c Anno Domini Mcccclxxxxviii. die xii. Nouembris [12.11.1498]    
+300      |a ccxxvi Blätter    |c 33 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Widmungsbrief des Übersetzers Lampugnino Birago an Papst Paul II. und Anmerkungen des Übersetzers auf Blatt ccxxvi recto, gezeichnet: "Lappus Biragus Flor."    
+500      |a Blatt ix recto entspricht der GW-Hauptvariante ("alios in historia ...")    
+500      |a Keine Titelseite, Titel gemäss Kolophon    
+500      |a Impressum gemäss Kolophon    
+500      |a Druckermarke am Ende    
+500      |a Zahlreiche Foliierungsfehler    
+500      |a Signaturformel: a-i⁸, K⁸, l–z⁸, &⁸, A–C⁸, D¹⁰    
+500      |a Blatt a₁ ist unbedruckt    
+510 4    |a BSB-Ink    |c D-175    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_D-175.html    
+510 4    |a GW    |c 08424    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW08424.htm    
+510 4    |a ISTC    |c id00251000    |u http://data.cerl.org/istc/id00251000    
+530      |a Digitalisat (Exemplar der Biblioteca de Catalunya)    |u http://mdc.csuc.cat/cdm/ref/collection/incunableBC/id/76068    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen und Eck- sowie Mittelbeschlägen, Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien- und Ornamentrollen-Blindprägung auf beiden Deckeln, Titel in Tintenschrift auf Vorderdeckel: "Dionisius Halicarnaseus et Velleus patercul[us]"    
+563      |a Vorsätze: Vorne mit 2 fliegenden Blättern, hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 32.2 x 22.4 x 7.8 cm    
+563      |a Zustand Einband: Schäden am Einbandleder mit Fehlstellen auf dem Vorderdeckel und dem Rücken, Loch mit Rostspuren im Rückdeckel von vormaliger Ankettung    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 225 von 226 Blättern, Blatt viii als Einzelblatt an Falz des zweiten vorderen fliegenden Vorsatzblattes geklebt (Papierfalz an Blatt viii verso), vorgesehene Stellen für Initialen frei gelassen    
+590      |a Zustand Buchblock: Blatt ii stärker verbräunt, Blatt ccxxvi mit Verfleckungen, Fehlstellen und plan gelegten Knicken    
+590      |a Unvollständiges Exemplar: Das unbedruckte Blatt a₁ fehlt    
+590      |a Zusammengebunden mit 2 weiteren Drucken in Sammelband    
+590      |a Historische Signatur auf vorderem Spiegel: "Hist: Prof: 335", Zahl korrigiert zu "49."    
+590      |a Frühere Signaturen: Inc 107; Inc I 27; VI 15    
+700 1    |a Birago, Lampugnino    |d 1390-1472    |0 (DE-588)1020927739    |e Übersetzer    |4 trl    
+700 1    |a Mazzali, Francesco    |0 (DE-588)1037616642    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 0 2  |a Dionysius    |c Halicarnassensis    |d ca. v1.Jh.    |t Antiquitates Romanae    |0 (DE-588)4234853-5    
+751      |a Reggio nell'Emilia    |0 (DE-588)4116943-8    
+852 4    |b B404    |c 404U3    |j MUE Bong V 921 : 1    |9 (41SLSP_UBE)99116926899905511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc I 27 : 1    |c 404U3    |z Zusammengebunden mit 2 weiteren Drucken in Sammelband    |p 12    |j MUE Bong V 921 : 1    |b B404    |9 (41SLSP_UBE)99116926899905511    
+986      |a (41SLSP_UBE)99116926899905511    |9 (41SLSP_UBE)99116926899905511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116926899905511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116926899905511    
+991      |a Bongars: 04080    |5 IZ UBE/B400/01.06.2010    |9 LOCAL    |9 (41SLSP_UBE)99116926899905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

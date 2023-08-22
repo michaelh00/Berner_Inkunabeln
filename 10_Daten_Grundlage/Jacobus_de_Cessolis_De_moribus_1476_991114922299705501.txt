@@ -1,0 +1,145 @@
+﻿<-1-1-START->
+Jacobus de Cessolis
+<-1-1-STOP->
+
+<-1-2-START->
+De moribus hominum et officiis nobilium super ludo scaccorum
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+[Toulouse: Heinrich Turner und Johann Parix, um 1476]
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 139 ungezählte Seiten, 1 ungezähltes Blatt; 20 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW06524.htm<-L-5-STOP-><-VI-5-START->GW 06524<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ic00408500<-L-5-STOP-><-VI-5-START->ISTC ic00408500<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+70 von 71 Blättern, auf Blatt [a₂] mehrfarbig ausgemalte Zierinitiale, rot ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Guerinus Machenus; Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Das unbedruckte Blatt [a₁] fehlt; Blatt [a₂] mit grossem Loch in der Mitte, verso durch Restauration abgedeckt und nicht mehr lesbar
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116843695805511<-L-11-STOP-><-VI-11-START->MUE Bong IV 885<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991114922299705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Jacobus de Cessolis<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Toulouse<-O-STOP->
+<-P-START->Turner, Heinrich<-P-STOP->
+<-O-START->Toulouse<-O-STOP->
+<-P-START->Parix, Johann<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Machenus, Guerinus<-P-STOP->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991114922299705501<-DOI-STOP->
+<-SIGN-START->MUE Bong IV 885<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05072nam a2200613 c 4500
+001 991114922299705501
+005 20211215200450.0
+008 100628s1476    fr            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/15.01.2020/B404/faf    
+035      |a (swissbib)060386630-41slsp_network    
+035      |a 060386630    |9 ExL    
+035      |a (IDSBB)005270881DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991114922299705501    
+035      |a (41SLSP_UBE)99116843695805511    |9 (41SLSP_UBE)99116843695805511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Jacobus    |c de Cessolis    |0 (DE-588)118556398    |e Verfasser    |4 aut    
+240 1 0  |a De moribus hominum et officiis nobilium super ludo scaccorum    
+245 1 0  |a Explicit doctrina vel morum informatio accepta de modo [et] ordine ludi scachoru[m]    
+246 1    |i Titel in normalisierter Form    |a Explicit doctrina vel morum informatio accepta de modo et ordine ludi scachorum    
+246 1    |i Incipit    |a Incipit libellus de ludo scachorum et de dictis factisq[ue] nobiliu[m] viroru[m] p[hilosop]horu[m] et antiquorum ...    
+246 1    |i Incipit in normalisierter Form    |a Incipit libellus de ludo scachorum et de dictis factisque nobilium virorum philosophorum et antiquorum ...    
+246 1    |i Titel gemäss GW und ISTC    |a De ludo scachorum    
+264   1  |a [Toulouse]    |b M.H.D.B. [Heinrich Turner und Johann Parix]    |c [um 1476]    
+300      |a 1 ungezähltes Blatt, 139 ungezählte Seiten, 1 ungezähltes Blatt    |c 20 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Register    
+500      |a Keine Titelseite, Titel gemäss Explicit (Blatt i₁ verso)    
+500      |a Drucker gemäss Kolophon (Blatt i₁ verso); die Initialen stehen vermutlich für "Magister Henricus de Basilea"    
+500      |a Impressum gemäss ISTC; GW nennt mit BMC nur Heinrich Turner als Drucker    
+500      |a Signaturformel: [a-h⁸, i⁷]    
+500      |a Blatt [a₁] ist unbedruckt    
+510 4    |a GW    |c 06524    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW06524.htm    
+510 4    |a ISTC    |c ic00408500    |u http://data.cerl.org/istc/ic00408500    
+530      |a Digitalisat (Exemplar der Biblioteca Nazionale Centrale di Firenze)    |u https://archive.org/details/ita-bnc-in2-00000993-001/page/n10    
+561      |a Sammlung Bongars; handschriftlicher Besitzvermerk (teilweise überschrieben) auf Blatt [i₇] recto: "partinet domino guerino macheno[?] [...]"    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19.Jh.), Linien-Goldprägung und Titelschild in Goldprägung auf dem Rücken: "De Ludo Scachor[um]"    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 19.5 x 13.7 x 1.5 cm    
+563      |a Zustand Einband: Farbverwischung und Lederabspaltung am Rückdeckel    
+590      |a Buchblockbeschreibung: 70 von 71 Blättern, handschriftliche Lagensignatur in Graphit, auf Blatt [a₂] mehrfarbig ausgemalte Zierinitiale, rot ausgezeichnete Initialen, Rubrizierung    
+590      |a Zustand Buchblock: Abrieb, Fehlstellen und anhaftende Papierfasern an ausgezeichneter Initiale auf Blatt [a₂], braune Verfleckung vor allem in Lagen [a] und [b], Fehlstellen an Blatt [a₂] ganzflächig mit Büttenpapier kaschiert und folgende Seiten mit dünnem Papier (Seidenpapier) und teilweise mit Büttenpapier überklebt (Klebstoff verbräunt), Kopierstift-Abklatsch an eingeklebtem Zettel, Feuchtigkeitsränder und Schimmelverfleckungen an Lage [i], Schädlingsfrass an Blatt [i₇], Falz zwischen Blättern [i₃] und [i₄] gehört vermutlich zu angeklebtem Einzelblatt [i₄]    
+590      |a Unvollständiges Exemplar: Das unbedruckten Blatt [a₁] fehlt; Blatt [a₂] mit grossem Loch in der Mitte, verso durch Restauration abgedeckt und nicht mehr lesbar    
+590      |a Zahlreiche Unterstreichungen und wenige handschriftliche Annotationen in Tinte, ausführliche Notizen auf Blatt [i₇]    
+590      |a Vor Blatt [a₂] eingeklebter Zettel mit Anfrage der Kommission für den Gesamtkatalog der Wiedendrucke an die Stadtbibliothek Bern (1933)    
+590      |a Beigelegt Kopien der in diesem Exemplar beschädigten Blätter [a₂]-[a₄] aus dem Exemplar RES P-V-120 (1) der Bibliothèque nationale de France; dieses gehört jedoch zu einer Druckvariante mit zahlreichen Unterschieden im Satz    
+590      |a Frühere Signaturen: Inc 407; Inc III 109; III S 30    
+700 1    |a Turner, Heinrich    |d -1477    |0 (DE-588)1171933770    |e Drucker    |4 prt    
+700 1    |a Parix, Johann    |d 143X-1501    |0 (DE-588)131905341    |e Drucker    |4 prt    
+700 1    |a Machenus, Guerinus    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 0 2  |a Jacobus    |c de Cessolis    |t De moribus hominum et officiis nobilium super ludo scaccorum    |0 (DE-588)4218900-7    
+751      |a Toulouse    |0 (DE-588)4060518-8    
+852 4    |b B404    |c 404U3    |j MUE Bong IV 885    |9 (41SLSP_UBE)99116843695805511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc III 109    |c 404U3    |p 12    |j MUE Bong IV 885    |b B404    |9 (41SLSP_UBE)99116843695805511    
+986      |a (41SLSP_UBE)99116843695805511    |9 (41SLSP_UBE)99116843695805511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116843695805511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116843695805511    
+991      |a Bongars: 07719    |5 IZ UBE/B400/28.06.2010    |9 LOCAL    |9 (41SLSP_UBE)99116843695805511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

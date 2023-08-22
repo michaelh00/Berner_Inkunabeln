@@ -1,0 +1,155 @@
+﻿<-1-1-START->
+Rhetorica nova et vetus
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Zusammenstellung aus der Cicero fälschlicherweise zugeschriebenen "Rhetorica ad Herennium" (im Mittelalter als "Rhetorica nova" bekannt) und Ciceros "De inventione" ("Rhetorica vetus")<-500-STOP->
+<-500-START->Mit Kommentaren von Gaius Marius Victorinus, Francesco Maturanzio und Antonio Mancinelli, zwei Widmungsbriefen von Francesco Maturanzio an Antonius Morrettus Brixiensis und dem Brieftaktat "Rhetoricam ad Herennium esse Ciceronis" von Antonio Mancinelli an Hieronymus Omphredus Justinianus<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Filippo Pinzi, 12.09.1500
+<-3-1-STOP->
+
+<-4-1-START->
+330 ungezählte Seiten, 1 ungezähltes Blatt: Holzschnittinitialen; 34 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-824.html<-L-5-STOP-><-VI-5-START->BSB-Ink A-824<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW06732.htm<-L-5-STOP-><-VI-5-START->GW 06732<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ic00685000<-L-5-STOP-><-VI-5-START->ISTC ic00685000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+166 von 166 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Anton Firn; Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Heroides / Publius Ovidius Naso. Venedig: Johannes Alvisius, 1501
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116906529505511<-L-11-STOP-><-VI-11-START->MUE Bong IV 844 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991124540429705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Cicero, Marcus Tullius<-P-STOP->
+<-P-START->Maturanzio, Francesco<-P-STOP->
+<-P-START->Mancinelli, Antonio<-P-STOP->
+<-P-START->Marius Victorinus, Gaius<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Pinzi, Filippo<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Firn, Anton<-P-STOP->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991124540429705501<-DOI-STOP->
+<-SIGN-START->MUE Bong IV 844 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05913nam a2200709 c 4500
+001 991124540429705501
+005 20211215203235.0
+008 100512s1500    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/19.02.2019/B404/faf    
+035      |a (swissbib)061864064-41slsp_network    
+035      |a 061864064    |9 ExL    
+035      |a (IDSBB)005229063DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991124540429705501    
+035      |a (41SLSP_UBE)99116906529505511    |9 (41SLSP_UBE)99116906529505511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+130 0    |a Rhetorica nova et vetus    |0 (DE-588)1178480690    
+245 1 0  |a M.T.C. Rhetoricorum Libri    |b cum tribus Co[m]mentariis. Videlicet Mario fabio uictorino Fran. maturantio p[er]usino Anto. Mancinello    
+246 1    |i Titel in normalisierter Form    |a M.T.C. rhetoricorum libri    |b cum tribus commentariis, videlicet Mario Fabio Victorino, Fran. Maturantio Perusino, Anto. Mancinello    
+246 1    |i Explicit    |a M.T.C. Rhetoricorum: cum commentariis eruditissimorum uirorum: Fabii Victorini: Francisci Matura[n]tii: & Antonii Mancinelli: finis    
+246 1    |i Explicit in normalisierter Form    |a M.T.C. rhetoricorum cum commentariis eruditissimorum virorum Fabii Victorini, Francisci Maturantii & Antonii Mancinelli finis    
+264   1  |a Venetiis    |b a Philippo Pincio Mantuano    |c .M.ccccc. die .xii. Septembris [12.09.1500]    
+300      |a 330 ungezählte Seiten, 1 ungezähltes Blatt    |c 34 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Zusammenstellung aus der Cicero fälschlicherweise zugeschriebenen "Rhetorica ad Herennium" (im Mittelalter als "Rhetorica nova" bekannt) und Ciceros "De inventione" ("Rhetorica vetus")    
+500      |a Mit zwei Widmungsbriefen von Francesco Maturanzio an Antonius Morrettus Brixiensis und dem Brieftaktat "Rhetoricam ad Herennium esse Ciceronis" von Antonio Mancinelli an Hieronymus Omphredus Justinianus    
+500      |a Impressum gemäss Kolophon    
+500      |a Signaturformel: a-z⁶, &⁶, A⁶, B-C⁸    
+500      |a Blatt C₈ ist unbedruckt    
+500      |a Holzschnittinitialen    
+505 0 0  |t Rhetoricen ad herennium esse Ciceronis    |t Francisci Matvrantii Pervsini Viri Ervditissimi In .M.T. Ciceronis Rhetoricorvm Libros Interpretatio    |t M.T. Ciceronis Oraris clarissimi Rhetorices nouæ liber primus incipit    |t Antonii Mancinelli Commentariolus in Rhetoricen ad herennium    |t Marii Fabii Victorini Rhetoris in rhetoricis Ciceronis: Liber primus incipit    |t M.T. Ciceronis Oratoris Clarissimi Rhetoricæ ueteris Liber primus incipit    
+510 4    |a BSB-Ink    |c A-824    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_A-824.html    
+510 4    |a GW    |c 06732    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW06732.htm    
+510 4    |a ISTC    |c ic00685000    |u http://data.cerl.org/istc/ic00685000    
+530      |a Digitalisat (Exemplar der Zentralbibliothek Zürich)    |u http://doi.org/10.3931/e-rara-69296    
+561      |a Sammlung Bongars; handschriftlicher Besitzvermerk auf Blatt a₁ verso: "Ad usum magistri antonij firn"; von gleicher Hand auf vorderem Spiegel Kaufvermerk: "Conciliatus est liber iste octo plapardis." ("octo" getilgt) und auf Blatt a₂ recto: "Die lune post septuagesima[m] apposui man[us] applicauiq[ue] ingeniu[m] huic libro anno d[omi]ni Sesquimillesimo vndecimo"    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit Schliessen, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 33.4 x 22.8 x 5.7 cm    
+563      |a Zustand Einband: Zahlreiche Verfleckungen, einzelne Frass-Schäden an den Einbanddeckeln    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 166 von 166 Blättern, handschriftliche Foliierung in Tinte (1-165, Titelseite ohne Blattzahl), Pergamentverstärkung innen und aussen an den Vorsätzen, vorgesehene Stellen für Initialen frei gelassen    
+590      |a Zustand Buchblock: Blätter verbräunt und verwellt    
+590      |a Zahlreiche handschriftliche Annotationen und Unterstreichungen in Tinte, teilweise von Firn    
+590      |a Zusammengebunden mit: Heroides / Publius Ovidius Naso. Venedig : Johannes Alvisius, 1501    
+590      |a Historische Signatur auf vorderem Spiegel: "Lit: N. 207.", Zahl korrigiert zu "230."; auf Titelseite: "Lit. B. 73.", Zahl korrigiert zu "74."    
+590      |a Frühere Signaturen: Inc 212; Inc I 47; IV 15    
+700 1    |a Cicero, Marcus Tullius    |d v106-v43    |0 (DE-588)118520814    |e Verfasser    |4 aut    
+700 1    |a Maturanzio, Francesco    |d 1443-1518    |0 (DE-588)104349042    |e Kommentarverfasser    |4 wac    
+700 1    |a Mancinelli, Antonio    |d 1452-1505    |0 (DE-588)124652174    |e Verfasser    |e Kommentarverfasser    |4 aut    |4 wac    
+700 1    |a Marius Victorinus, Gaius    |d 281-362    |0 (DE-588)118577964    |e Kommentarverfasser    |4 wac    
+700 1    |a Pinzi, Filippo    |0 (DE-588)1037561813    |e Drucker    |4 prt    
+700 1    |a Firn, Anton    |d 1490-1545    |0 (DE-588)11967209X    |e Früherer Eigentümer    |e Annotierende Person    |4 fmo    |4 ann    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 1 2  |a Cicero, Marcus Tullius    |d v106-v43    |t De inventione    |0 (DE-588)4340133-8    
+700 1 2  |a Maturanzio, Francesco    |d 1443-1518    |t In M.T. Ciceronis rhetoricorum libros interpretatio    |0 (DE-588)1178548805    
+700 1 2  |a Mancinelli, Antonio    |d 1452-1505    |t Rhetoricam ad Herennium esse Ciceronis    |0 (DE-588)1178546071    
+700 1 2  |a Mancinelli, Antonio    |d 1452-1505    |t Commentariolus in Rhetoricam ad Herennium    |0 (DE-588)1178490319    
+700 1 2  |a Marius Victorinus, Gaius    |d 281-362    |t Explanationes in rhetoricam Ciceronis    |0 (DE-588)4361722-0    
+730 0    |a Rhetorica ad Herennium    |0 (DE-588)4228492-2    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Bong IV 844 : 1    |9 (41SLSP_UBE)99116906529505511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc I 47 : 1    |c 404U3    |z Zusammengebunden mit 1 weiteren Druck in Sammelband    |p 12    |j MUE Bong IV 844 : 1    |b B404    |9 (41SLSP_UBE)99116906529505511    
+986      |a (41SLSP_UBE)99116906529505511    |9 (41SLSP_UBE)99116906529505511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116906529505511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116906529505511    
+991      |a Bongars: 03080, 03031    |5 IZ UBE/B400/12.05.2010    |9 LOCAL    |9 (41SLSP_UBE)99116906529505511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

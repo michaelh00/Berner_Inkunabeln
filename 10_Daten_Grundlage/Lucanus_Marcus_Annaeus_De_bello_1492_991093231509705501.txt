@@ -1,0 +1,153 @@
+﻿<-1-1-START->
+Lucanus, Marcus Annaeus
+<-1-1-STOP->
+
+<-1-2-START->
+De bello civili
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit einem Widmungsbrief von Giovanni Britannico an Hieronymus Advocatus, den Lukanviten von Vacca, Sueton und Pomponius Laetus, dem Gedicht "Si generi socerique cupis cognoscere bella", einem Gedicht von Ch. Laphrancus (Cristoforo Lanfranchini?) an den Leser, einem Widmungsbrief von Giovanni Taberio an Franciscus Barbarus, dem Lukankommentar von Omnibonus Leonicenus (revidiert von Giovanni Taberio) und einem Epitaph auf Lukan<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Bartolomeo Zani für Ottaviano Scoto, 31.03.1492
+<-500-START->Andere Ausgabe als BSB-Ink L-234: Der aus der Ausgabe Brescia 1486 (GW M18829) übernommene, verrutschte Text wurde am korrekten Ort eingefügt und die Lage i neu gesetzt; der Text am falschen Ort wurde stehen gelassen, das Lagenregister auf Blatt t₉ verso angepasst<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+310 ungezählte Seiten, 1 ungezähltes Blatt: Holzschnittinitialen, Druckermarke; 32 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M18865.htm<-L-5-STOP-><-VI-5-START->GW M18865<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/il00304000<-L-5-STOP-><-VI-5-START->ISTC il00304000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+156 von 156 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Kartondeckeln (braun, Schwein, Neueinband von 1952) mit Buntpapier (braun) und Pergamentecken
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Stefan Kowerski
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116922347705511<-L-11-STOP-><-VI-11-START->MUE Inc I 119<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991093231509705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Lucanus, Marcus Annaeus<-P-STOP->
+<-P-START->Omnibonus Leonicenus<-P-STOP->
+<-P-START->Britannico, Giovanni<-P-STOP->
+<-P-START->Vacca<-P-STOP->
+<-P-START->Suetonius Tranquillus, Gaius<-P-STOP->
+<-P-START->Pomponius Laetus, Iulius<-P-STOP->
+<-P-START->Lanfranchini, Cristoforo<-P-STOP->
+<-P-START->Taberio, Giovanni<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Zani, Bartolomeo<-P-STOP->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Scoto, Ottaviano<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Kowerski, Stefan<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991093231509705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 119<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04597nam a2200649 c 4500
+001 991093231509705501
+005 20221214140712.0
+008 180215s1492    it |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/15.02.2018/B404/faf    
+035      |a (swissbib)072909161-41slsp_network    
+035      |a 072909161    |9 ExL    
+035      |a (IDSBB)006774859DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991093231509705501    
+035      |a (41SLSP_UBE)99116922347705511    |9 (41SLSP_UBE)99116922347705511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Lucanus, Marcus Annaeus    |d 39-65    |0 (DE-588)118574701    |e Verfasser    |4 aut    
+240 1 0  |a De bello civili    
+245 1 0  |a Lucanus cum commento    
+246 1    |i Titel gemäss GW und ISTC    |a Pharsalia    
+264   1  |a Impressum Veneciis    |b impensis Octauiani Scoti necnon arte Bertolamei de Zanis de Portesio    |c Anno domini .M.cccc.lxxxxii. die ultimo mensis martii [31.03.1492]    
+300      |a 310 ungezählte Seiten, 1 ungezähltes Blatt    |c 32 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit einem Widmungsbrief von Giovanni Britannico an Hieronymus Advocatus, den Lukanviten von Vacca, Sueton und Pomponius Laetus, dem Gedicht "Si generi socerique cupis cognoscere bella", einem Gedicht von Ch. Laphrancus (Cristoforo Lanfranchini?) an den Leser, einem Widmungsbrief von Giovanni Taberio an Franciscus Barbarus, dem Lukankommentar von Omnibonus Leonicenus (revidiert von Giovanni Taberio) und einem Epitaph auf Lukan    
+500      |a Andere Ausgabe als BSB-Ink L-234: Der aus der Ausgabe Brescia 1486 (GW M18829) übernommene, verrutschte Text wurde am korrekten Ort eingefügt und die Lage i neu gesetzt; der Text am falschen Ort wurde stehen gelassen, das Lagenregister auf Blatt t₉ verso angepasst    
+500      |a Druckermarke von Ottaviano Scoto am Ende    
+500      |a Holzschnittinitialen    
+500      |a Signaturformel: a-h⁸, i¹⁰, k-s⁸, t¹⁰    
+500      |a Blatt t₁₀ ist unbedruckt    
+510 4    |a GW    |c M18865    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M18865.htm    
+510 4    |a ISTC    |c il00304000    |u http://data.cerl.org/istc/il00304000    
+530      |a Digitalisat (Exemplar der Biblioteca Provincial de Córdoba)    |u http://www.bibliotecavirtualdeandalucia.es/catalogo/catalogo_imagenes/grupo.cmd?path=10114    
+561      |a Handschriftlicher Besitzvermerk auf Titelseite: "Andrey [...?]"; Stempel auf Titelseite: "Stefan Kowerski"; 1952 durch die Stadtbibliothek Bern erworben vom Auktionshaus Jürg Stuker    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Kartondeckeln (braun, Schwein, Neueinband von 1952) mit Buntpapier (braun) und Pergamentecken    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 31.7 x 21.7 x 3.4 cm    
+590      |a Buchblockbeschreibung: 156 von 156 Blättern    
+590      |a Zustand Buchblock: Feuchtigkeitsränder mit Schimmelverfleckungen an den unteren Blattkanten, Fehlstellen an den unteren Ecken in Lage c    
+590      |a Zahlreiche handschriftliche Annotationen in Tinte    
+700 0    |a Omnibonus    |c Leonicenus    |d 1412-1474    |0 (DE-588)11883827X    |e Kommentarverfasser    |4 wac    
+700 1    |a Britannico, Giovanni    |d -1518    |0 (DE-588)119630249    |e Verfasser von ergänzendem Text    |4 wst    
+700 0    |a Vacca    |d ca. 6. Jh.    |0 (DE-588)1153018195    |e Verfasser    |4 aut    
+700 1    |a Suetonius Tranquillus, Gaius    |d 70-150    |0 (DE-588)118619918    |e Verfasser    |4 aut    
+700 1    |a Pomponius Laetus, Iulius    |d 1428-1497    |0 (DE-588)100958656    |e Verfasser    |4 aut    
+700 1    |a Lanfranchini, Cristoforo    |d 1430-1503    |0 (DE-588)121103153    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Taberio, Giovanni    |d ca. Ende 15. Jh./Anfang 16. Jh.    |0 (DE-588)100630561    |e Verfasser von ergänzendem Text    |e Herausgeber    |4 wst    |4 edt    
+700 1    |a Zani, Bartolomeo    |d 14XX-15XX    |0 (DE-588)103757317X    |e Drucker    |4 prt    
+700 1    |a Scoto, Ottaviano    |d 14XX-1498    |0 (DE-588)104090030    |e Verlag    |4 pbl    
+700 1    |a Kowerski, Stefan    |e Früherer Eigentümer    |4 fmo    
+700 1 2  |a Lucanus, Marcus Annaeus    |d 39-65    |t De bello civili    |0 (DE-588)4119926-1    
+700 0 2  |a Omnibonus    |c Leonicenus    |d 1412-1474    |t Commentum in Lucanum    |0 (DE-588)1153016079    
+700 1 2  |a Suetonius Tranquillus, Gaius    |d 70-150    |t Vita Lucani    |0 (DE-588)4377549-4    
+700 1 2  |a Pomponius Laetus, Iulius    |d 1428-1497    |t Vita Lucani    |0 (DE-588)1153019329    
+710 2    |a Galerie Jürg Stuker Bern    |0 (DE-588)2097220-9    |e Verkäufer    |4 sll    
+730 0    |a Vita Lucani    |0 (DE-588)1153018373    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Inc I 119    |9 (41SLSP_UBE)99116922347705511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc I 119    |b B404    |9 (41SLSP_UBE)99116922347705511    
+986      |a (41SLSP_UBE)99116922347705511    |9 (41SLSP_UBE)99116922347705511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116922347705511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

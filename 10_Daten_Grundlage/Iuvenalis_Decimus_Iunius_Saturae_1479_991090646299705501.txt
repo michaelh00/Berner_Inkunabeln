@@ -1,0 +1,161 @@
+﻿<-1-1-START->
+Iuvenalis, Decimus Iunius
+<-1-1-STOP->
+
+<-1-2-START->
+Saturae. — Domitius de Calderiis: Defensio adversus Brotheum grammaticum
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->"Defensio" von Domitius de Calderiis mit Datierung: herausgegeben in Rom, 01.09.1474<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Pinerolo: Jacobus Rubeus, 25.10.1479
+<-500-START->Die "Defensio" (19 ungezählte Seiten) fehlt in den meisten Exemplaren dieser Ausgabe (vergleiche GW)<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 108 ungezählte Seiten, 1 ungezähltes Blatt, 19 ungezählte Seiten; 30 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M15748.htm<-L-5-STOP-><-VI-5-START->GW M15748<-VI-5-STOP->; <-L-5-START->https://data.cerl.org/istc/ij00643000<-L-5-STOP-><-VI-5-START->ISTC ij00643000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+65 von 66 Blätter
+<-6-1-STOP->
+
+<-7-1-START->
+Flexibler Pergamenteinband mit durchzogenen Bünden und Stosskanten (16. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars; Pierre Daniel
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Saturae / Aulus Persius Flaccus. [Angers: Drucker von Persius, Satyrae, um 1477]
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Blatt a₁ (erstes, unbedrucktes Blatt, vor dem als "a i" bezeichneten Blatt a₂) fehlt 
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116878816305511<-L-11-STOP-><-VI-11-START->MUE Bong VI 252 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991090646299705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Iuvenalis, Decimus Iunius<-P-STOP->
+<-P-START->Domitius de Calderiis<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Pinerolo<-O-STOP->
+<-P-START->Rubeus, Jacobus<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-P-START->Daniel, Pierre<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991090646299705501<-DOI-STOP->
+<-SIGN-START->MUE Bong VI 252 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06325nam a2200757 c 4500
+001 991090646299705501
+005 20211215180340.0
+007 cr#|||||||||||
+008 100630s1479    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/30.06.2010    
+024 7    |a 10.3931/e-rara-88396    |2 doi    
+035      |a (swissbib)060546018-41slsp_network    
+035      |a 060546018    |9 ExL    
+035      |a (IDSBB)005272011DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991090646299705501    
+035      |a (41SLSP_UBE)99116878816305511    |9 (41SLSP_UBE)99116878816305511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Iuvenalis, Decimus Iunius    |d ca. 67-nach 127    |0 (DE-588)118556126    |e Verfasser    |4 aut    
+240 1 0  |a Saturae    
+245 1 0  |a Iuvenalis Aquinatis Satiraru[m] Libri    
+246 1    |i Titel des Hauptwerks in normalisierter Form    |a Iuvenalis Aquinatis Satirarum libri    
+246 1 0  |a Satirarum libri    
+246 1    |i Incipit (Blatt a₂, als "a i" bezeichnet)    |a Materiam ac causas satyrarum hac ispice prima    
+246 1    |i Titel des Kommentars in normalisierter Form    |a Domitii Calderini Veronensis Commentarii in Iuvenalem cum defensione commentariorum Martialis et recriminatione adversus Brotheum Grammaticum    
+246 1    |i Titel gemäss GW    |a Satirae    
+246 1    |i Titel gemäss ISTC    |a Satyrae    
+264   1  |a Impressi Pinerolii    |b Diligentissime Arte Et Ingenio Iacobi De Rubeis Natione Galici    |c VIII. kL. nouembris Anno cristi. M:CCCC.LXXVIIII. [25.10.1479]    
+300      |a 1 ungezähltes Blatt, 108 ungezählte Seiten, 1 ungezähltes Blatt, 19 ungezählte Seiten    |c 30 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+337      |b c    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+338      |b cr    |2 rdacarrier    
+500      |a Titel gemäss Kolophon (Blatt g₇ verso)    
+500      |a Enthält ausserdem, auf Lage h (19 ungezählte Seiten am Ende), den Kommentar von Domitius de Calderiis: Defensio adversus Brotheum grammaticum    
+500      |a Der Kommentar fehlt in den meisten Exemplaren dieser Ausgabe (vergleiche GW)    
+500      |a Impressum gemäss Kolophon (Blatt g₇ verso); Reihenfolge der Vorlage: "Nouembris Iuuenalis Aquinatis Satiraru[m] Libri Impressi Pinerolii Diligentissime Arte Et Ingenio Iacobi De Rubeis Natione Galici. VIII. kL. nouembris Anno cristi. M:CCCC.LXXVIIII."    
+500      |a Vollständiges Kolophon des Kommentars (Blatt h₁₀): "[D]Omitii Calderi[ni] Verone[n]sis Co[m]me[n]tarii In Iuuenalem cu[m] Defensione Co[m]mentariorum Martialis et Recriminatio[n]e Aduersus Brotheu[m] Gra[m]maticu[m] Ad Iulianu[m] Medice[m] Flore[n]tinu[m] Editi Rome k Septembris Mcccclxxiiii" [herausgegeben: 1.09.1474]    
+500      |a Signaturformel: a-g⁸, h¹⁰    
+500      |a Blätter a₁ und g₈ unbedruckt, Blatt h₁₀ verso unbedruckt    
+500      |a Lage h ist nur auf Blatt h₄ bezeichnet, dort als "h i"    
+505 0 0  |g Lage h (Titel gemäss Kolophon, Blatt h₁₀)    |t [D]Omitii Calderi[ni] Verone[n]sis Co[m]me[n]tarii In Iuuenalem cu[m] Defensione Co[m]mentariorum Martialis et Recriminatio[n]e Aduersus Brotheu[m] Gra[m]maticu[m]    |g Titel in normalisierter Form    |t Domitii Calderini Veronensis Commentarii in Iuvenalem cum defensione commentariorum Martialis et recriminatione adversus Brotheum Grammaticum    |t Commentarii in Iuvenalem cum defensione commentariorum Martialis et recriminatione adversus Brotheum Grammaticum    
+510 4    |a GW    |c M15748    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M15748.htm    
+510 4    |a ISTC    |c ij00643000    |u https://data.cerl.org/istc/ij00643000    
+561      |a Sammlung Bongars    
+561      |a Handschriftlicher Besitzvermerk auf dem Vorderdeckel (auf dem Kopf stehend): "Pour Mons.r Daniel aduocat au siege p[re]sidial d'orleans pres Ste Croix"    
+563      |a Einbandbeschreibung: Flexibler Pergamenteinband mit durchzogenen Bünden und Stosskanten (16. Jahrhundert); auf dem Vorderdeckel am unteren Rand, auf dem Kopf stehend: "Jvvenalis", darüber Besitzvermerk    
+563      |a Vorsätze: Vorne und hinten ohne fliegende Blätter    
+563      |a Masse Einband: 29.1 x 21.8 x 2.2 cm    
+563      |a Zustand Einband: Einbandpergament stark verzogen, vormalige Stosskanten nur durch ursprüngliche Falzung zu erkennen, eingefärbte Japanpapier-Überklebungen an den Deckeln, Japanpapier-Überklebungen innen an den Deckeln sowie im Deckelfalz, Reste eines übergeklebten Lederrückens auf dem hinteren Spiegel sichtbar, Verbräunung des Pergaments durch vormalig überklebten Lederrücken, überklebtes Loch am Vorderdeckeln und Verbräunung des Pergaments mittig auf den Deckeln weisen auf ein fehlendes vormaliges Bindeband mit Knopfschliesse hin    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 65 von 66 Blättern, vorgesehene Stellen für Initialen frei gelassen, keine Rubrizierung    
+590      |a Zustand Buchblock: Zahlreiche Verfleckungen und Feuchtigkeitsränder    
+590      |a Blatt a₁ (erstes, unbedrucktes Blatt, vor dem als "a i" bezeichneten Blatt a₂) fehlt    
+590      |a Handschriftliche Annotationen und Unterstreichungen in Tinte; Nummerierung der jeweiligen Satire oben auf den Seiten    
+590      |a Zusammengebunden mit: Persius Flaccus, Aulus: Saturae. [Angers]: [Drucker von Persius, Satyrae], [um 1477]    
+590      |a Historische Signatur auf vorderem Spiegel in Graphit: "Poet. 48"; auf Blatt a₂ recto (als "a i" bezeichnet) in Tinte: "Poet 67"    
+590      |a Frühere Signaturen: Inc II 64; Inc 287; Hortin XIIX 11    
+700 1 2  |a Iuvenalis, Decimus Iunius    |d ca. 67-nach 127    |t Saturae    |0 (DE-588)4331976-2    
+700 0 2  |a Domitius    |c de Calderiis    |d 1446-1478    |t Defensio adversus Brotheum grammaticum    |0 (DE-588)1138242292    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Daniel, Pierre    |d 1530-1603    |0 (DE-588)101087934    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Rubeus, Jacobus    |d ca. 15. Jh.    |0 (DE-588)129065919    |e Drucker    |4 prt    
+751      |a Pinerolo    |0 (DE-588)4335299-6    
+852 4    |b B404    |c 404U3    |j MUE Bong VI 252 : 1    |9 (41SLSP_UBE)99116878816305511    
+856 4    |u https://doi.org/10.3931/e-rara-88396    |z Digitalisat in e-rara    
+900      |a IDSIxunikat    
+900      |a IDSIxhybrid-el    
+900      |a NOMERGEALEX    
+949      |i ZB Inc II 64 : 1    |c 404U3    |z Zusammengebunden mit 1 weiteren Druck in Sammelband    |p 12    |j MUE Bong VI 252 : 1    |b B404    |9 (41SLSP_UBE)99116878816305511    
+986      |a (41SLSP_UBE)99116878816305511    |9 (41SLSP_UBE)99116878816305511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116878816305511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116878816305511    
+990      |f erarabe    |9 local    |9 (41SLSP_UBE)99116878816305511    
+990      |f lza-cc0    |9 local    |9 (41SLSP_UBE)99116878816305511    
+991      |a Bongars: 07997    |5 IZ UBE/B400/30.06.2010    |9 local    |9 (41SLSP_UBE)99116878816305511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

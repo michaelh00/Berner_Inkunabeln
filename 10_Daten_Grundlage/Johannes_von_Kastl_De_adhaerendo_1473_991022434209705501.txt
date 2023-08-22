@@ -1,0 +1,147 @@
+﻿<-1-1-START->
+Johannes von Kastl
+<-1-1-STOP->
+
+<-1-2-START->
+De adhaerendo Deo. — Gerson, Jean: De remediis contra pusillanimitatem, scrupulositatem et deceptorias inimici consolationes. — Bonaventura: Epistola de modo proficiendi compendioso; Doctrina iuvenum; De instructione novitiorum
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Der Albertus Magnus zugeschriebene Text "De adhaerendo Deo" wurde von Johann von Kastl (Johannes de Castello) verfasst (vergleiche BSB-Ink und ISTC)<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Ulm: Johannes Zainer, um 1473]
+<-500-START->Druckvariante entspricht 2. und 3. Exemplar der BSB München (vergleiche Anmerkung GW)<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+79 ungezählte Seiten; 29 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_I-381.html<-L-5-STOP-><-VI-5-START->BSB-Ink I-381<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW00582.htm<-L-5-STOP-><-VI-5-START->GW 00582<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ia00218000<-L-5-STOP-><-VI-5-START->ISTC ia00218000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+40 von 40 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun, Kalb) mit Schliessen und Spuren einer vormaligen Kettenöse am oberen Rand des Rückdeckels und von Buckelbeschlägen auf beiden Deckeln, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Werner Zesiger
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: De bello Gallico / Gaius Iulius Caesar. [Straßburg: Heinrich Eggestein?], 1473
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116863648105511<-L-11-STOP-><-VI-11-START->MUE Zesk 21 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991022434209705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Johannes von Kastl<-P-STOP->
+<-P-START->Albertus Magnus<-P-STOP->
+<-P-START->Gerson, Jean<-P-STOP->
+<-P-START->Bonaventura<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Ulm<-O-STOP->
+<-P-START->Zainer, Johannes<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Zesiger, Werner<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991022434209705501<-DOI-STOP->
+<-SIGN-START->MUE Zesk 21 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05707nam a22006377c 4500
+001 991022434209705501
+005 20211215172810.0
+008 950704s1473    gw            00| | lat d
+019      |a Altbestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von Signaturen.    |5 IDSBB/3.3.1995/bestub/mes    
+035      |a (swissbib)027862569-41slsp_network    
+035      |a 027862569    |9 ExL    
+035      |a (IDSBB)001124498DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991022434209705501    
+035      |a (41SLSP_UBE)99116863648105511    |9 (41SLSP_UBE)99116863648105511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+072   7  |a th    |2 SzZuIDS BS/BE    
+100 0    |a Johannes    |c von Kastl    |d 1370-1426    |0 (DE-588)118712659    |e Verfasser    |4 aut    
+240 1 0  |a De adhaerendo Deo    
+245 1 0  |a Incipit Liber Alberti Magni Ordinis Predicatorvm De Adherendo Deo    |b Nvdato Intellectv Et Affectv Et Vltima Et Svprema Perfectione Hominis Qvantvm Possibile Est    
+246 1    |i Titel in normalisierter Form    |a Incipit liber Alberti Magni Ordinis Predicatorum De adherendo Deo    |b nudato intellectu et affectu et ultima et suprema perfectione hominis quantum possibile est    
+246 1    |i Titel in normalisierter Form    |a De adherendo Deo    
+246 1    |i Titel gemäss BSB-Ink    |a De fine religiosae perfectionis    
+264   1  |a [Ulm]    |b [Johannes Zainer]    |c [um 1473]    
+300      |a 79 ungezählte Seiten    |c 29 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Zusammenstellung mit 5 verschiedenen Texten    
+500      |a Der Albertus Magnus zugeschriebene Text "De adhaerendo Deo" wurde von Johann von Kastl (Johannes de Castello) verfasst (vergleiche BSB-Ink und ISTC)    
+500      |a Impressum gemäss BSB-Ink, GW und ISTC    
+500      |a Signaturformel: [a-d¹⁰]    
+500      |a Blatt [a₁] mit Initiale und Blütenranke in Holzschnitt    
+500      |a Druckvariante entspricht 2. und 3. Exemplar der BSB München (vergleiche Anmerkung GW): Blatt [b₁] recto, Zeile 1: "dominatur"; Blatt [b₃] verso, Zeile 20: "Einit" statt Finit; Blatt [b₄] recto, Zeile 5: "ILLVMINATISSI//MVM" statt ILLVMIHATISSI//MVM; Zeile 7: "CANCEL//LARIVM" statt CONCEL//LARIUM; Blatt [c₂] recto, Zeile 2: "DF MODO" statt DE MODO    
+505 0 0  |g Blatt [b₄] recto    |t Incipit Tractatvlvs De Remediis Contra Pvsillanimitatem Scrvpvlositatem Contra Deceptorias Inimici Consolatiohes Et Svtiles Eivs Temtaciones    |r Per Illvminatissimvm Magistrvm Iohannem Gerson Doctorem Sacre Theologie Cancellarivm Parisiensem Editvs    |g Blatt [c₂] recto    |t Incipit Epistola Domini Bonaventvre Cardinalis De Modo Proficiendi Conpendioso    |g Blatt [c₈] recto    |t Brevis Et Vtilis Doctrina Ivvenvm: Domini Bonaventvre Cardinalis: Ordinis Minorvm Incipit Foeliciter    |g Blatt [c₈] verso    |t Incipit Tractatvs Valde Vtilis De Informatione Iuvenvm Et Noviciorvm Bonaventvre    
+510 4    |a BSB-Ink    |c I-381    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_I-381.html    
+510 4    |a GW    |c 00582    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW00582.htm    
+510 4    |a ISTC    |c ia00218000    |u http://data.cerl.org/istc/ia00218000    
+530      |a Digitalisat (Exemplar der Bibliothek des Germanischen Nationalmuseums, Nürnberg)    |u http://dlib.gnm.de/item/4Inc108505/5/html    
+561      |a Stempel auf vorderem fliegenden Blatt: "Dr. Zesiger"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun, Kalb) mit Schliessen und Spuren einer vormaligen Kettenöse am oberen Rand des Rückdeckels und von Buckelbeschlägen auf beiden Deckeln, Linien- und Ornamentstempel-Blindprägung auf beiden Deckeln, diverse Papierüberklebungen und Titelschilder, teilweise aus Pergament, am Rücken: "D. Alberti M. Opuscula ...", weiter unten: "1473.", ganz unten: "et Cæs."    
+563      |a Vorsätze: Vorne mit einem und hinten ohne fliegende Blätter    
+563      |a Masse: 29.4 x 20.8 x 6.0 cm    
+563      |a Zustand Einband: Schäden am Einbandleder, vorderer Falz, inklusive der Bünde vollständig gebrochen, diverse Papierunter- und Überklebungen am Rücken, zahlreiche Klebespuren oder Reste alter Papier-Etiketten auf beiden Deckeln; vormalige Buckelbeschläge und Kettenöse fehlend, Schliessenriemen und Hakenteile fehlend, hinterer Spiegel hoch gelöst, Rostspuren und Abklatsch einer Lederüberklebung am hinteren Spiegel verso    
+590      |a Buchblockbeschreibung: 40 von 40 Blättern; handschriftliche Lagensignatur (Nummerierung) in Graphit, jeweils auf der ersten Seite unten rechts; Pergamentverstärkung (Manuskriptmakulatur) in den Lagenmitten, vorgesehene Stellen für Initialen freigelassen, keine Rubrizierung; Blattweiser aus Leder und kartonstarkem Papier    
+590      |a Zustand Buchblock: Blattweiser mit starken Griffspuren    
+590      |a Signaturformel der handschriftlichen Lagensignatur: 1-4¹⁰    
+590      |a Zusammengebunden mit Caesar, Gaius Iulius: De bello Gallico, [Straßburg], 1473    
+700 0 2  |a Johannes    |c von Kastl    |d 1370-1426    |t De adhaerendo Deo    
+700 0    |a Albertus    |c Magnus, Heiliger    |d 1193-1280    |0 (DE-588)118637649    |e Verfasser    |4 aut    
+700 1 2  |a Gerson, Jean    |d 1363-1429    |t De remediis contra pusillanimitatem, scrupulositatem et deceptorias inimici consolationes    |0 (DE-588)1124403442    
+700 0 2  |a Bonaventura    |c Heiliger    |d 1221-1274    |t Epistola de modo proficiendi compendioso    
+700 0 2  |a Bonaventura    |c Heiliger    |d 1221-1274    |t Doctrina iuvenum    
+700 0 2  |a Bonaventura    |c Heiliger    |d 1221-1274    |t De instructione novitiorum    
+700 1    |a Zainer, Johannes    |d 14XX-1527    |0 (DE-588)118643479    |e Drucker    |4 prt    
+700 1    |a Zesiger, Werner    |d 1902-1958    |0 (DE-588)121027392    |e Früherer Eigentümer    |4 fmo    
+751      |a Ulm    |0 (DE-588)4061529-7    
+852 4    |b B404    |c 404U3    |j MUE Zesk 21 : 1    |9 (41SLSP_UBE)99116863648105511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 1 weiteren Druck    |p 12    |j MUE Zesk 21 : 1    |b B404    |9 (41SLSP_UBE)99116863648105511    
+986      |a (41SLSP_UBE)99116863648105511    |9 (41SLSP_UBE)99116863648105511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116863648105511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

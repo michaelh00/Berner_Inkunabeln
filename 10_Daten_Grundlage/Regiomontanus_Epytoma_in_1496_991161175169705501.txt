@@ -1,0 +1,165 @@
+﻿<-1-1-START->
+Regiomontanus
+<-1-1-STOP->
+
+<-1-2-START->
+Epytoma in almagestum Ptolomaei
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Widmungsbrief von Regiomontanus an Kardinal Bessarion<-500-STOP->
+<-500-START->Mit kurzem Gedicht: "Jo. Lu. Ad Lectorem", gemäss BSB-Ink, GW und ISTC von Johannes Lucilius Santritter<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Johann Hamann für Caspar Grosch und Stephan Roemer, 31.08.1496
+<-500-START->Gemäss ISTC (zitiert im GW) enthalten einige Exemplare den Text eines Briefes von Johannes Baptista Abiosus vom 15.08.1496 (eingefügt zwischen Blatt a₁ und a₂)<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 212 ungezählte Seiten, 1 ungezähltes Blatt: 1 Illustration, Diagramme, Druckermarke, Holzschnittinitialen; 32 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_R-67.html<-L-5-STOP-><-VI-5-START->BSB-Ink R-67<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M37523.htm<-L-5-STOP-><-VI-5-START->GW M37523<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ir00111000<-L-5-STOP-><-VI-5-START->ISTC ir00111000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+108 von 108 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (braun, marmoriert, Schaf, 18. Jahrhundert) mit Linien- und Ornamentstempel-Blindprägung am Rücken
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Oswald Wisner; Philipp Emanuel von Fellenberg; Hofwil, Schulen
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Elemente / Euclides. Vicenza: Leonardus Achates und Guillelmus de Papia, 1491
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116729974605511<-L-11-STOP-><-VI-11-START->MUE Inc VI 1 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991161175169705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Regiomontanus<-P-STOP->
+<-P-START->Santritter, Johannes Lucilius<-P-STOP->
+<-P-START->Abiosus, Johannes Baptista<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Grosch, Caspar<-P-STOP->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Roemer, Stephan<-P-STOP->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Hamann, Johann<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Wisner, Oswald<-P-STOP->
+<-P-START->Fellenberg, Philipp Emanuel von<-P-STOP->
+<-P-START->Hofwil, Schulen<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991161175169705501<-DOI-STOP->
+<-SIGN-START->MUE Inc VI 1 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06095nam a2200769 c 4500
+001 991161175169705501
+005 20211215201156.0
+008 190703s1496    it |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/03.07.2019/B404/vha    
+035      |a (swissbib)072684119-41slsp_network    
+035      |a 072684119    |9 ExL    
+035      |a (IDSBB)007101378DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991161175169705501    
+035      |a (41SLSP_UBE)99116729974605511    |9 (41SLSP_UBE)99116729974605511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Regiomontanus    |d 1436-1476    |0 (DE-588)118641913    |e Verfasser    |4 aut    
+240 1 0  |a Epytoma in almagestum Ptolomaei    
+245 1 0  |a Epytoma Joa[n]nis de mo[n]te regio In almagestu[m] ptolomei    
+246 1    |i Titel in normalisierter Form    |a Epytoma Joannis de Monte Regio in almagestum Ptolomei    
+246 1 0  |a Epytoma in almagestum Ptolomei    
+246 1    |i Kolophon    |a Explicit 'Magne Compositionis' Astronomicon Epitoma Johannis de Regio monte    
+246 1 0  |a Astronomicon Epitoma Johannis de Regio monte    
+246 1    |i Titel gemäss BSB-Ink, GW und ISTC    |a Epitoma in Almagestum Ptolemaei    
+264   1  |a Venetijs    |b Impensis non minimis: curaq[ue] [et] emendatione non mediocri virorum prestantiu[m] Casparis Grossch: [et] Stephani Roemer    |b Opera quoq[ue] [et] arte impressionis mirifica viri solertis Johannis ha[m]man de Landoia: dictus hertzog: felicibus astris expletum    |c Anno salutis .1496. currente: Pridie Calen[das] Septembris [31.08.1496]    
+300      |a 1 ungezähltes Blatt, 212 ungezählte Seiten, 1 ungezähltes Blatt    |b 1 Illustration, Diagramme    |c 32 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Widmungsbrief von Johannes Regiomontanus an Kardinal Bessarion (Blatt a₂ recto)    
+500      |a Mit kurzem Gedicht: "Jo. Lu. Ad Lectorem" (Blatt a₃ recto), gemäss BSB-Ink, GW und ISTC von Johannes Lucilius Santritter    
+500      |a Gemäss ISTC (zitiert im GW) enthalten einige Exemplare den Text eines Briefes von Johannes Baptista Abiosus vom 15.08.1496, eingefügt zwischen Blatt a₁ und a₂    
+500      |a Impressum gemäss Kolophon (Blatt p₇ verso); Reihenfolge der Vorlage: "Explicit 'Magne Compositionis' Astronomicon Epitoma Johannis de Regio monte. Impensis non minimis: curaq[ue] [et] emendatione non mediocri virorum prestantiu[m] Casparis Grossch: [et] Stephani Roemer. Opera quoq[ue] [et] arte impressionis mirifica viri solertis Johannis ha[m]man de Landoia: dictus hertzog: felicibus astris expletum. ... In hemispherio Veneto: Anno salutis .1496. currente: Pridie Calen[das] Septembris Venetijs: Maximiliano Romanorum rege primo Faustissime imperante."    
+500      |a Mit Druckermarke unter dem Kolophon    
+500      |a Signaturformel: a¹⁰, b⁸c⁶-m⁸n⁶, o⁶, p⁸    
+500      |a Rückseite der Titelseite (Blatt a₁) unbedruckt, Blatt p₈ unbedruckt    
+500      |a Holzschnitt-Illustration auf Blatt a₃ verso    
+500      |a Holzschnittinitialen    
+500      |a Zahlreiche Diagramme, mit Buchstaben versehen, neben dem Text    
+510 4    |a BSB-Ink    |c R-67    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_R-67.html    
+510 4    |a GW    |c M37523    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M37523.htm    
+510 4    |a ISTC    |c ir00111000    |u http://data.cerl.org/istc/ir00111000    
+530      |a Digitalisat (Exemplar der ETH-Bibliothek Zürich)    |u https://doi.org/10.3931/e-rara-528    
+561      |a Stempel auf eingebundenem Blatt vor dem ersten Werk: "Hofwyl"    
+561      |a Handschriftlicher Besitzvermerk auf Blatt p₇ verso, unter der Druckermarke: "hic lib[er] est Osualdi Wisner" (unleserlich)    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (braun,marmoriert, Schaf, 18. Jahrhundert) mit Linien- und Ornamentstempel-Blindprägung am Rücken, Titelschild in Goldprägung auf dem Rücken: "Euclides & Reigiomontanus" sowie unten goldgeprägte Initialen: "S.R." (Bedeutung unklar); mit Lesebändchen (grün)    
+563      |a Vorsätze: vorne mit vier und hinten mit sechs fliegenden Blättern    
+563      |a Masse: 31.3 x 23.1 x 4.9 cm    
+563      |a Zustand Einband: Brüche und Fehlstellen im Einbandleder am Rückdeckel, Ecken deformiert    
+590      |a Buchblockbeschreibung: 108 von 108 Blättern, keine Rubrizierung    
+590      |a Zustand Buchblock: Verfleckungen und Griffspuren, teilweise eng beschriebene Seiten mit verschiedenen Tinten    
+590      |a Ohne den im ISTC erwähnten Brief von Abiosus    
+590      |a Vor dem Titelblatt ein weiteres, unbedrucktes Blatt    
+590      |a Auf dem unbedruckten Blatt vor dem Titelblatt zahlreiche handschriftliche Annotationen in Tinte, darunter eine wohl spätere Notiz (18. Jahrhundert?) zur Ausgabe    
+590      |a Mit zahlreichen handschriftlichen Annotationen in Tinte (zum Teil in Rot), bis Liber nonus (Blatt k₅)    
+590      |a Zusammengebunden mit: Euclides: Elemente. - Vicenza : Leonardus Achates und Guillelmus de Papia, 1491    
+590      |a Frühere Signatur: Fg Mb 20 : 2    
+700 0 2  |a Regiomontanus    |d 1436-1476    |t Epytoma in almagestum Ptolomaei    |0 (DE-588)1189758164    
+700 1    |a Santritter, Johannes Lucilius    |0 (DE-588)1012299384    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Abiosus, Johannes Baptista    |0 (DE-588)13613467X    |e Verfasser von ergänzendem Text    |4 wst    
+700 0    |a Bessarion    |c Kardinal    |d 1408-1472    |0 (DE-588)118662554    |e Widmungsempfänger    |4 dte    
+700 1    |a Grosch, Caspar    |0 (DE-588)1189770555    |e Verlag    |4 pbl    
+700 1    |a Roemer, Stephan    |0 (DE-588)1189770660    |e Verlag    |4 pbl    
+700 1    |a Hamann, Johann    |0 (DE-588)1037496825    |e Drucker    |4 prt    
+700 1    |a Wisner, Oswald    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Fellenberg, Philipp Emanuel <<von>>    |d 1771-1844    |0 (DE-588)118686577    |e Früherer Eigentümer    |4 fmo    
+710 2    |a Hofwil    |g Schulen    |0 (DE-588)108593800X    |e Früherer Eigentümer    |4 fmo    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Inc VI 1 : 2    |9 (41SLSP_UBE)99116729974605511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 1 weiteren Druck in Sammelband    |p 12    |j MUE Inc VI 1 : 2    |b B404    |9 (41SLSP_UBE)99116729974605511    
+986      |a (41SLSP_UBE)99116729974605511    |9 (41SLSP_UBE)99116729974605511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116729974605511    
+991      |a AAK: 727473    |5 IZ UBE/03.07.2019/B404/vha    |9 local    |9 (41SLSP_UBE)99116729974605511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

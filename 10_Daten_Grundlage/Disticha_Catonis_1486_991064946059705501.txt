@@ -1,0 +1,142 @@
+﻿<-1-1-START->
+Disticha Catonis
+<-1-1-STOP->
+
+<-1-2-START->
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Anonymes Werk, im Mittelalter fälschlich Marcus Porcius Cato oder später Dionysius Cato zugeschrieben<-500-STOP->
+<-500-START->Herausgeber: Robertus de Euremodio<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Basel: Nicolaus Kessler, 03.03.1488
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 92 ungezählte Seiten, 1 ungezähltes Blatt; 19 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_D-197.html<-L-5-STOP-><-VI-5-START->BSB-Ink D-197<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW06288.htm<-L-5-STOP-><-VI-5-START->GW 06288<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ic00300000<-L-5-STOP-><-VI-5-START->ISTC ic00300000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+45 von 48 Blättern, Initialen blau oder rot ausgezeichnet, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Pergamenteinband auf Kartondeckeln mit Sprenkelpapier (braun, 18. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Daniel Waltter
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Epistolae / Gasparinus Barzizius. Strassburg: Prüss, 1486
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Blätter b₄ und b₅ und unbedrucktes Blatt f₈ fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116697320405511<-L-11-STOP-><-VI-11-START->MUE Inc III 106 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991064946059705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Robertus de Euremodio<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Kessler, Nicolaus<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Waltter, Daniel<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991064946059705501<-DOI-STOP->
+<-SIGN-START->MUE Inc III 106 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04610nam a2200601 c 4500
+001 991064946059705501
+005 20230207111657.0
+008 170428s1486    sz |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/28.04.2017/B404/vha    
+035      |a (swissbib)074217887-41slsp_network    
+035      |a 074217887    |9 ExL    
+035      |a (IDSBB)006694982DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991064946059705501    
+035      |a (41SLSP_UBE)99116697320405511    |9 (41SLSP_UBE)99116697320405511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+130 0    |a Disticha Catonis    |0 (DE-588)4150239-5    
+245 1 0  |a Cato moralissimus    |b cum elegantissimo co[m]mento    
+246 1    |i Incipit    |a Incipit liber de doctrina Catonis    
+246 1    |i Titel gemäss BSB-Ink    |a Disticha Catonis    
+246 1    |i Titel gemäss GW    |a Cato (vulgo Disticha Catonis)    
+246 1    |i Titel gemäss ISTC    |a Disticha de moribus    
+264   1  |a Impressum Basilee    |b p[er] Nicolau[m] kesler    |c iii. die mensis Marcii Anno d[omi]ni. M.cccclxxxviij. [03.03.1488]    
+300      |a 1 ungezähltes Blatt, 92 ungezählte Seiten, 1 ungezähltes Blatt    |c 19 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Anonymes Werk, im Mittelalter fälschlich Marcus Porcius Cato oder später Dionysius Cato zugeschrieben    
+500      |a "Incipit liber de doctrina Catonis ampliatus per sermones rhetoricos [et] morales p[er] fratrem Robertum de Euremodio monachum Clareuallis" - Incipit mit Angabe des Herausgebers    
+500      |a Impressum gemäss Kolophon (Blatt f₇ verso)    
+500      |a Signaturformel: a-f⁸    
+500      |a Letztes Blatt f₈ unbedruckt    
+510 4    |a BSB-Ink    |c D-197    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_D-197.html    
+510 4    |a GW    |c 06288    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW06288.htm    
+510 4    |a ISTC    |c ic00300000    |u http://data.cerl.org/istc/ic00300000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00081794/image_3    
+561      |a Handschriftlicher Besitzvermerk auf der Titelseite: "Daniel Waltter. 1619."    
+563      |a Einbandbeschreibung: Halbbezogener Pergamenteinband auf Kartondeckeln (18. Jahrhundert) mit Sprenkelpapier (braun), handschriftlicher Titel auf dem Rücken in Majuskeln in Tinte: "Catonis Disticha / Gasparini Epistolæ"; darunter, verblasst: "1486. / 1488.", darunter: "Basil."    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 18.3 x 13.4 x 2.3 cm    
+563      |a Zustand Einband: beide Vorsätze im Falz verstärkt, geölte Japanpapier-Ergänzung am oberen Häubchen    
+590      |a Buchblockbeschreibung: 45 von 48 Blättern, handschriftliche Nummerierung der Sprüche in Graphit, von 1 bis 141, Papierfalz am Ende ist Rest von Blatt f₈, Anfangsinitiale auf Blatt a₂ recto rot und blau ausgezeichnet, Initale auf Blatt a₂ verso blau, auf Blatt a₄ recto rot ausgezeichnet, Rubrizierung (rote und blaue Paragraphenzeichen)    
+590      |a Zustand Buchblock: blaues Farbmittel der Rubrizierung und der Initialauszeichnung fast vollständig abgerieben, zahlreiche Knicke und Verfleckungen, Spuren vormaliger Lagenfalzungen und Heftlöcher sichtbar, Papierüberklebung an erstem und letztem Blatt (a₁ und f₇)    
+590      |a Unvollständiges Exemplar: Blätter b₄ und b₅ fehlen; unbedrucktes Blatt f₈ fehlt    
+590      |a Auf dem Titelseite, vor dem Namen Cato handschriftlich in Tinte: "Dionysius"; unter dem Titel und dem Besitzvermerk in Tinte: "Basileæ 1488."    
+590      |a Distichen handschriftlich nummeriert (in Graphit, 18./19. Jahrhundert); wenige handschriftliche Annotationen in Graphit (18./19. Jahrhundert), meist Auflösungen von Abbreviaturen    
+590      |a Blatt c₁ recto: Handweiser in Tinte gezeichnet    
+590      |a Handschriftliche Notiz auf der letzten Seite, unter dem Kolophon: "Non est mortale quod opto. A Virtutis amor honestus est ..." (weitere Zeile durch Beschnitt nicht lesbar)    
+590      |a Zusammengebunden mit: Gasparinus Barzizius: Epistole Gasparum [Epistolae]. Strassburg: Prüss, 1486    
+590      |a Frühere Signatur: Inc 597    
+700 0    |a Robertus    |c de Euremodio    |d 14XX-1480    |0 (DE-588)13391657X    |e Herausgeber    |e Kommentarverfasser    |4 edt    |4 wac    
+700 1    |a Kessler, Nicolaus    |d 1445-1519    |0 (DE-588)137735677    |e Drucker    |4 prt    
+700 1    |a Waltter, Daniel    |e Früherer Eigentümer    |4 fmo    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Inc III 106 : 1    |9 (41SLSP_UBE)99116697320405511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit einem weiteren Druck    |p 12    |j MUE Inc III 106 : 1    |b B404    |9 (41SLSP_UBE)99116697320405511    
+986      |a (41SLSP_UBE)99116697320405511    |9 (41SLSP_UBE)99116697320405511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116697320405511    
+991      |a AAK: 157531    |5 IZ UBE/28.04.2017/B404/vha    |9 local    |9 (41SLSP_UBE)99116697320405511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

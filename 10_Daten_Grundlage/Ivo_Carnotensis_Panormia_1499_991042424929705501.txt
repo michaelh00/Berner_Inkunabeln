@@ -1,0 +1,151 @@
+﻿<-1-1-START->
+Ivo Carnotensis
+<-1-1-STOP->
+
+<-1-2-START->
+Panormia
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Widmungsvorrede des Herausgebers Sebastian Brant an Johannes Gotz und dem Prolog zu Ivos Decretum<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Basel]: Michael Furter, 06.03.1499
+<-3-1-STOP->
+
+<-4-1-START->
+8 ungezählte Seiten, CLXXVIII Blätter: 1 Illustration, Holzschnittinitialen, Druckermarke; 22 cm (4°)
+<-500-START->Der Holzschnitt stammt gemäss BSB-Ink vom Meister des Verardus<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_I-698.html<-L-5-STOP-><-VI-5-START->BSB-Ink I-698<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M15936.htm<-L-5-STOP-><-VI-5-START->GW M15936<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ii00223000<-L-5-STOP-><-VI-5-START->ISTC ii00223000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+182 von 182 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Flexibler Pergamenteinband (später hinzugefügt) mit Secondary Tacketings aus gedrehtem Pergament als Verbindung zum Pergamentumschlag, Spuren vormaliger Stosskanten und Verschlussbändern (Leder)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116843917605511<-L-11-STOP-><-VI-11-START->MUE Bong III 88<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991042424929705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Ivo Carnotensis<-P-STOP->
+<-P-START->Brant, Sebastian<-P-STOP->
+<-P-START->Meister des Verardus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Basel<-O-STOP->
+<-P-START->Furter, Michael<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991042424929705501<-DOI-STOP->
+<-SIGN-START->MUE Bong III 88<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05525nam a2200685 c 4500
+001 991042424929705501
+005 20211215173616.0
+008 100628s1499    sz            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/11.07.2018/B404/faf    
+035      |a (swissbib)060343540-41slsp_network    
+035      |a 060343540    |9 ExL    
+035      |a (IDSBB)005270562DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991042424929705501    
+035      |a (41SLSP_UBE)99116843917605511    |9 (41SLSP_UBE)99116843917605511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Ivo    |c Carnotensis    |d 1040-1116    |0 (DE-588)118711024    |e Verfasser    |4 aut    
+240 1 0  |a Panormia    
+245 1 0  |a Liber decretoru[m] siue Panormia Iuonis ac curato labore su[m]moq[ue] studio in vnum redacta continens    
+246 1    |i Titel in normalisierter Form    |a Liber decretorum sive panormia Ivonis ac curato labore summoque studio in unum redacta continens    
+246 1    |i Incipit (Haupttext)    |a Incipit pa[n]normia Iuonis carnothensis episcopi    
+246 1    |i Incipit (Haupttext) in normalisierter Form    |a Incipit pannormia Ivonis Carnothensis episcopi    
+246 1    |i Kolophon    |a Reuerendi peritissimiq[ue] iuris consulti Iuonis panormie charnotensis ep[iscop]i co[m]me[n]datissimi: de varia scriptura[rum] distinctione (diuina opitulante gr[ati]a) ... Feliciter expliciunt    
+246 1    |i Kolophon in normalisierter Form    |a Reverendi peritissimique iuris consulti Ivonis panormie Charnotensis episcopi commendatissimi de varia scripturarum distinctione (divina opitulante gratia) ... feliciter expliciunt    
+246 1    |i Titel gemäss GW    |a Liber decretorum seu panormia    
+246 1    |i Titel gemäss ISTC    |a Liber decretorum, sive panormia    
+264   1  |a [Basel]    |b Expe[n]sis Mihaelis furter elaborata    |c Anno fructifere incarnationis. M.CCCC.XCIX. Mensis Martij die sexta [06.03.1499]    
+300      |a 8 ungezählte Seiten, CLXXVIII Blätter    |b 1 Illustration    |c 22 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Mit Widmungsvorrede des Herausgebers Sebastian Brant an Johannes Gotz (datiert 07.03.1499), Inhaltsverzeichnis und dem Prolog zum Decretum    
+500      |a Drucker und Druckdatum gemäss Kolophon    
+500      |a Druckort gemäss BSB-Ink, GW und ISTC    
+500      |a Druckermarke am Ende    
+500      |a Der Holzschnitt auf Blatt []₁ verso stammt gemäss BSB-Ink vom Meister des Verardus    
+500      |a Holzschnittinitialen    
+500      |a Signaturformel: []⁴, A–X⁸, Y⁴, Z⁶    
+505 0 0  |t Incipit prologus pannormie Iuonis charnothensis episcopi de multimoda distinctione scriptura[rum] sub vna casto[rum] eloquio[rum] contenta[rum]    
+510 4    |a BSB-Ink    |c I-698    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_I-698.html    
+510 4    |a GW    |c M15936    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M15936.htm    
+510 4    |a ISTC    |c ii00223000    |u http://data.cerl.org/istc/ii00223000    
+530      |a Digitalisat (Exemplar der Universitätsbibliothek Basel)    |u http://doi.org/10.3931/e-rara-16276    
+561      |a Handschriftlicher Besitzvermerk auf Titelseite: "Bongars"    
+563      |a Flexibler Pergamenteinband: Frankreich um 1600    
+563      |a Einbandbeschreibung: Flexibler Pergamenteinband (später hinzugefügt) mit Secondary Tacketings aus gedrehtem Pergament als Verbindung zum Pergamentumschlag, Spuren vormaliger Stosskanten und Verschlussbändern (Leder)    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einband: 21.4 x 15.8 x 3.1 cm    
+563      |a Zustand Einband: Pergament in zum Teil verhornter Qualität mit historischer Naht-Sicherung natürlicher Schadstellen am Rückumschlag, Verschlussbänder fehlend, Pergament am Rücken stark deformiert, vormalige Stosskanten plan gelegt und Einschläge mit Japanpapier verklebt, hinteres fliegendes Blatt mit Japanpapier ergänzt und im Falz zum letzten Blatt mit Japanpapier stabilisiert    
+590      |a Buchblockbeschreibung: 182 von 182 Blättern, Blätter []₁ und []₄ aussen mit einem Papierstreifen zusammengesetzt, Papierfälze zwischen den Lagen [] und A sowie den Lagen Y und Z gehören zu den fliegenden Blättern, Lagen [] und Z aussen mit zweiteiliger Pergamentmakulatur verstärkt, Titel "Su[m]mariu[m] in reb[us] ecclesiasticis" in Tintenschrift auf Vorderschnitt (Buch auf dem Rückdeckel liegend)    
+590      |a Zustand Buchblock: Blätter A₁ und A₈ mit Papierüberklebung im Falz und Schädlingsfrass, Blatt Z₆ mit Japanpapierüberklebung ergänzt, Heftung der Lagen A und B gerissen und gelockert, Blätter zum Teil stark verbräunt    
+590      |a Wenige handschriftliche Anmerkungen und Unterstreichungen in Tinte    
+590      |a Historische Signatur auf vorderem Spiegel: "Jur: Pol: N. 275."; auf der Titelseite: "Jur. Polit 131"    
+590      |a Frühere Signaturen: Inc 603; Inc III 78; XIII 20    
+700 1    |a Brant, Sebastian    |d 1458-1521    |0 (DE-588)118514474    |e Herausgeber    |4 edt    
+700 0    |a Meister des Verardus    |d ca. 2. Hälfte 15. Jahrhundert    |0 (DE-588)116254421X    |e Illustrator    |4 ill    
+700 1    |a Furter, Michael    |d 14XX-1517    |0 (DE-588)102766193    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 0 2  |a Ivo    |c Carnotensis    |d 1040-1116    |t Panormia    |0 (DE-588)4351920-9    
+700 0 2  |a Ivo    |c Carnotensis    |d 1040-1116    |t Decretum    |0 (DE-588)4396357-2    
+751      |a Basel    |0 (DE-588)4004617-5    
+852 4    |b B404    |c 404U3    |j MUE Bong III 88    |9 (41SLSP_UBE)99116843917605511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc III 78    |c 404U3    |p 12    |j MUE Bong III 88    |b B404    |9 (41SLSP_UBE)99116843917605511    
+986      |a (41SLSP_UBE)99116843917605511    |9 (41SLSP_UBE)99116843917605511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116843917605511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116843917605511    
+991      |a Bongars: 07674    |5 IZ UBE/B400/28.06.2010    |9 local    |9 (41SLSP_UBE)99116843917605511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

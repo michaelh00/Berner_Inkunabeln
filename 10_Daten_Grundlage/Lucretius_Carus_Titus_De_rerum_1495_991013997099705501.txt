@@ -1,0 +1,139 @@
+﻿<-1-1-START->
+Lucretius Carus, Titus
+<-1-1-STOP->
+
+<-1-2-START->
+De rerum natura
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Am Ende mit einem Brief von C. Lycinius an Nicolaus Priolus<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Theodorus de Ragazonibus, 04.09.1495
+<-3-1-STOP->
+
+<-4-1-START->
+259 ungezählte Seiten; 22 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->https://inkunabeln.digitale-sammlungen.de/Ausgabe_L-253.html<-L-5-STOP-><-VI-5-START->BSB-Ink L-253<-VI-5-STOP->; <-L-5-START->https://www.gesamtkatalogderwiegendrucke.de/docs/M19139.htm<-L-5-STOP-><-VI-5-START->GW M19139<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/il00334000<-L-5-STOP-><-VI-5-START->ISTC il00334000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+130 von 130 Blättern, Rubrizierung nur auf der Titelseite
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Kartondeckeln (Schaf, braun marmoriert, 18. Jahrhundert), blindgezogene Linien-Markierungen auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars; G. Dubusson
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116772392605511<-L-11-STOP-><-VI-11-START->MUE Bong VI 65<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991013997099705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Lucretius Carus, Titus<-P-STOP->
+<-P-START->Lycinius, C.<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Ragazonibus, Theodorus de<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-P-START->Dubusson, G.<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991013997099705501<-DOI-STOP->
+<-SIGN-START->MUE Bong VI 65<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03907nam a2200553 c 4500
+001 991013997099705501
+005 20211215163916.0
+008 100706s1495    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/B400/06.07.2010    
+035      |a (swissbib)060867094-41slsp_network    
+035      |a 060867094    |9 ExL    
+035      |a (IDSBB)005274597DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991013997099705501    
+035      |a (41SLSP_UBE)99116772392605511    |9 (41SLSP_UBE)99116772392605511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Lucretius Carus, Titus    |d v94-v55    |0 (DE-588)118575236    |e Verfasser    |4 aut    
+240 1 0  |a De rerum natura    
+245 1 0  |a Lvcretivs    
+246 1    |i Titel in normalisierter Form    |a Lucretius    
+246 1    |i Incipit    |a T. Lucreti Cari. poetæ philosophici antiquissimi de rerum natura liber primus incipit fœliciter    
+246 1 0  |a De rerum natura liber primus incipit fœliciter    
+264   1  |a Impressum Venetiis    |b per theodorum de ragazonibus de asula dictum bresanu[m]    |c Anno domini .M.CCCC.LXXXXV. Die .iiii. septembris [4.09.1495]    
+300      |a 259 ungezählte Seiten    |c 22 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Enthält auf Blatt q₉ verso Auszüge aus De rerum natura, liber 1: "Non te animus fallit graiorum obscura reperta: Difficile in lustrare latinis uersibus esse ..."    
+500      |a Signaturformel: a-p⁸, q¹⁰    
+505 0 0  |g Blatt q₁₀ recto    |t Ad Nicolaum Priolum Hieronymi filiu[m] patricium Illustrem & bonarum artium cultorem    |r C. Lycinii uersus    
+510 4    |a BSB-Ink    |c L-253    |u https://inkunabeln.digitale-sammlungen.de/Ausgabe_L-253.html    
+510 4    |a GW    |c M19139    |u https://www.gesamtkatalogderwiegendrucke.de/docs/M19139.htm    
+510 4    |a ISTC    |c il00334000    |u http://data.cerl.org/istc/il00334000    
+530      |a Digitalisat (mit Illustrationen, die nicht zum Druck gehören; Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00050491/image_11    
+561      |a Handschriftlicher Besitzervermerk auf der Titelseite: "G. Dubusson"    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Kartondeckeln (Schaf, braun marmoriert, 18. Jahrhundert), blindgezogene Linien-Markierungen auf beiden Deckeln, Linien-Goldprägung und Titelschild in Goldprägung auf dem Rücken: "Lucretius 1495"; darüber in Tinte: "1495. Venet:"    
+563      |a Vorsätze: vorne und hinten mit einem fliegenden Blatt    
+563      |a Zustand Einband: Feuchtigkeitsränder in Höhe des Titelschildes, Schäden am Einbandleder    
+563      |a Masse Einband: 21.6 x 15.7 x 2 cm    
+590      |a Buchblockbeschreibung: 130 von 130 Blättern, handschriftliche Foliierung in Tinte, auf den Recto-Seiten rechts oben, vorgesehene Stelle für Initiale frei gelassen (Blatt a₂ recto), keine Rubrizierung, ausser Titelseite    
+590      |a Zustand Buchblock: Japanpapierüberklebung im Falz vor Blatt a₂ und nach Blatt q₉    
+590      |a Handschriftliche Annotation in Tinte und Unterstreichung einiger Zeilen auf Blatt a₄ recto, kurze Annotation auf Blatt p₉ verso, sonst vereinzelte Unterstreichungen    
+590      |a Historische Signatur auf der Titelseite: "Poet. 80"    
+590      |a Frühere Signaturen: Inc IV 61; Inc 532; Hortin XXI V 35    
+700 1 2  |a Lucretius Carus, Titus    |d v94-v55    |t De rerum natura    |0 (DE-588)4122497-8    
+700 1 2  |a Lycinius, C.    |d ca. 15. Jh.    |t Ad Nicolaum Priolum Hieronymi filium    |0 (DE-588)1172676054    
+700 1    |a Ragazonibus, Theodorus <<de>>    |d ca. 15. Jh.    |0 (DE-588)1037570421    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Dubusson, G.    |e Früherer Eigentümer    |4 fmo    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Bong VI 65    |9 (41SLSP_UBE)99116772392605511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc IV 61    |c 404U3    |p 12    |j MUE Bong VI 65    |b B404    |9 (41SLSP_UBE)99116772392605511    
+986      |a (41SLSP_UBE)99116772392605511    |9 (41SLSP_UBE)99116772392605511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116772392605511    
+990      |f medeabern    |9 LOCAL    |9 (41SLSP_UBE)99116772392605511    
+991      |a Bongars: 08918    |5 IZ UBE/B400/06.07.2010    |9 LOCAL    |9 (41SLSP_UBE)99116772392605511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

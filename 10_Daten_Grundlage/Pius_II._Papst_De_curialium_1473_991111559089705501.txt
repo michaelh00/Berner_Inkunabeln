@@ -1,0 +1,144 @@
+﻿<-1-1-START->
+Pius II. (Papst)
+<-1-1-STOP->
+
+<-1-2-START->
+De curialium miseriis
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Brief an Johannes de Eich, mit Widmungsbrief des Druckers Johannes Philippus de Lignamine an Franciscus Picolomineus<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Rom]: Johannes Philippus de Lignamine, 03.03.1473
+<-3-1-STOP->
+
+<-4-1-START->
+62 ungezählte Seiten, 1 ungezähltes Blatt; 24 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M33779.htm<-L-5-STOP-><-VI-5-START->GW M33779<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ip00661500<-L-5-STOP-><-VI-5-START->ISTC ip00661500<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+29 von 32 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Pergamenteinband (17./18. Jahrhundert)
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: Compilatio chronologica / Ricobaldus Ferrariensis. Rom: Johannes Philippus de Lignamine, 1474
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Die Blätter [a₁], [a₁₀] und [d₆] fehlen
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116838311205511<-L-11-STOP-><-VI-11-START->MUE Bong V 957 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991111559089705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Pius II. (Papst)<-P-STOP->
+<-P-START->Lignamine, Johannes Philippus de<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Rom<-O-STOP->
+<-P-START->Lignamine, Johannes Philippus de<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991111559089705501<-DOI-STOP->
+<-SIGN-START->MUE Bong V 957 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04365nam a2200601 c 4500
+001 991111559089705501
+005 20230207165446.0
+008 100719s1473    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/24.01.2019/B404/faf    
+035      |a (swissbib)061532029-41slsp_network    
+035      |a 061532029    |9 ExL    
+035      |a (IDSBB)005280385DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991111559089705501    
+035      |a (41SLSP_UBE)99116838311205511    |9 (41SLSP_UBE)99116838311205511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Pius    |b II.    |c Papst    |d 1405-1464    |0 (DE-588)118594702    |e Verfasser    |4 aut    
+245 1 0  |a [De curialium miseriis]    
+246 1    |i Incipit (Vorwort)    |a Iohannis Philippi de lignamine Siculi S.D.N. familiaris ad reuerendissimum dominu[m]: d[omi]n[um] Franciscu[m] picolominęum cardinalem Senense[m]    
+246 1    |i Incipit (Vorwort) in normalisierter Form    |a Iohannis Philippi de Lignamine Siculi s.d.n. familiaris ad reverendissimum dominum, dominum Franciscum Picolominęum cardinalem Senensem    
+246 1    |i Incipit (Haupttext)    |a [A]eneas Silvivs Picolomineus: Salutem Plurimam dicit Domino Ioanni Aich perspicaci & claro iurisconsulto    
+246 1    |i Incipit (Haupttext) in normalisierter Form    |a Aeneas Silvius Picolomineus salutem plurimam dicit domino Ioanni Aich perspicaci & claro iurisconsulto    
+246 1    |i Titel gemäss GW    |a De miseria curialium    
+246 1    |i Titel gemäss ISTC    |a De curalium miseria    
+264   1  |a [Rom]    |b i[m]pressus est hic libellus i[n] domo Ioha[n]nis Philippi de lignami. familiaris S.D.N. Sixti quarti Pon. Maximi    |c MCCCCLxxIII. die tercia mensis marcii [03.03.1473]    
+300      |a 62 ungezählte Seiten, 1 ungezähltes Blatt    |c 24 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Brief an Johannes de Eich, mit Widmungsbrief des Druckers Johannes Philippus de Lignamine an Franciscus Picolomineus    
+500      |a Keine Titelseite, Titel gemäss GND    
+500      |a Drucker und Druckdatum gemäss Kolophon; Reihenfolge der Vorlage: "MCCCCLxxIII. die tercia mensis marcii i[m]pressus est hic libellus i[n] domo Ioha[n]nis Philippi de lignami. familiaris S.D.N. Sixti quarti Pon. Maximi"    
+500      |a Druckort gemäss GW und ISTC    
+500      |a Signaturformel: [a¹⁰, b-c⁸, d⁶]    
+500      |a Blatt [d₆] ist unbedruckt    
+510 4    |a GW    |c M33779    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M33779.htm    
+510 4    |a ISTC    |c ip00661500    |u http://data.cerl.org/istc/ip00661500    
+530      |a Digitalisat (Exemplar der Dombibliothek Freising)    |u http://daten.digitale-sammlungen.de/0006/bsb00062341/images    
+561      |a Sammlung Bongars    
+563      |a Einbandbeschreibung: Ganzbezogener Pergamenteinband (17./18. Jahrhundert)    
+563      |a Vorsätze: Vorne und hinten mit zwei fliegenden Blättern    
+563      |a Masse Einband: 23.8 x 18.4 x 4.5 cm    
+563      |a Zustand Einband: Natürliche Fehlstellen im Bezugspergament, beide Vorsätze im Falz mit Japanpapierfälzen verstärkt    
+590      |a Buchblockbeschreibung: 29 von 32 Blättern, handschriftliche Lagensignaturen in Graphit auf den Blättern a₂-a₅ und den ersten Blättern der restlichen Lagen, vorgesehene Stellen für Initialen frei gelassen    
+590      |a Zustand Buchblock: Fehlstelle an Blatt [a₂], massive Feuchtigkeitsränder und Schimmelverfleckungen in den unteren Blattbereichen    
+590      |a Unvollständiges Exemplar: Die Blätter [a₁], [a₁₀] und [d₆] fehlen    
+590      |a Zusammengebunden mit: Compilatio chronologica / Ricobaldus Ferrariensis. Rom : Johannes Philippus de Lignamine, 1474    
+590      |a Historische Signatur auf erstem vorderem fliegendem Vorsatzblatt verso: "Hist: Prof: 459.", Zahl korrigiert zu "28."    
+590      |a Frühere Signaturen: Inc 576; Inc III 85; XIX 4    
+700 1    |a Lignamine, Johannes Philippus <<de>>    |d 1420-1493    |0 (DE-588)115360026    |e Verfasser eines Vorworts    |4 wpr    
+700 1    |a Lignamine, Johannes Philippus <<de>>    |d 1420-1493    |0 (DE-588)115360026    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |4 fmo    
+700 0 2  |a Pius    |b II.    |c Papst    |d 1405-1464    |t De curialium miseriis    |0 (DE-588)1124790713    
+751      |a Rom    |0 (DE-588)4050471-2    
+852 4    |b B404    |c 404U3    |j MUE Bong V 957 : 2    |9 (41SLSP_UBE)99116838311205511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc III 85 : 2    |c 404U3    |z Zusammengebunden mit 1 weiteren Druck in Sammelband    |p 12    |j MUE Bong V 957 : 2    |b B404    |9 (41SLSP_UBE)99116838311205511    
+986      |a (41SLSP_UBE)99116838311205511    |9 (41SLSP_UBE)99116838311205511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116838311205511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116838311205511    
+991      |a Bongars: 11184    |5 IZ UBE/B400/19.07.2010    |9 local    |9 (41SLSP_UBE)99116838311205511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

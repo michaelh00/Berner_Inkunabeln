@@ -1,0 +1,192 @@
+﻿<-1-1-START->
+Firmicus Maternus, Iulius
+<-1-1-STOP->
+
+<-1-2-START->
+Mathesis. — Manilius, Marcus: Astronomica. — Germanicus Caesar: Aratea. — Cicero, Marcus Tullius: Aratea. — Avienus, Rufius Festus: Aratea. — Leontius Mechanicus: De sphaerae Arateae constructione. — Aratus Solensis: Phaenomena. — Scholia in Aratum. — Proclus Diadochus: Sphaera
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Die Zuschreibung der "Scholia in Aratum" an Theon Alexandrinus ist fragwürdig; die dem Proclus Diadochus zugeschriebene "Sphaera" ist ein Auszug aus den "Elementa astronomiae" (Kapitel 4-5, 15, 3) des Geminus<-500-STOP->
+<-500-START->Mit einem Widmungsbrief des Druckers Aldo Pio Manuzio an Herzog Guidobaldo I. von Urbino, einem Widmungsbrief des Herausgebers Franciscus Niger an Kardinal Ippolito d'Este, einer Zeichenerklärung der Sternzeichen und Planeten, einer kurzen Vita des Manilius, einer Vita des Aratus in der Übersetzung des Aldo Pio Manuzio, einem Kommentar zu den "Aratea" des Germanicus, einer weiteren Vita des Aratus, einem Brief von Aldo Pio Manuzio an Alberto Pio di Carpi, einem Brief von Guilelmus Grocinus an Aldo Pio Manuzio und einem Vorwort von Thomas Linacre an Arthur, Prince of Wales<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Aldo Pio Manuzio, 10.1499
+<-500-START->Druckdatum gemäss erstem Kolophon auf Blatt kk₈ recto: 06.1499<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+460 ungezählte Seiten, 1 ungezähltes Blatt, 100 ungezählte Seiten, 1 ungezähltes Blatt, 188 ungezählte Seiten: 60 Illustrationen; 33 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_F-129.html<-L-5-STOP-><-VI-5-START->BSB-Ink F-129<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW09981.htm<-L-5-STOP-><-VI-5-START->GW 09981<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/if00191000<-L-5-STOP-><-VI-5-START->ISTC if00191000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+358 von 376 Blättern (plus 26 zusätzliche)
+<-6-1-STOP->
+
+<-7-1-START->
+Band 1: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jahrhundert), Ornamentrollen-Blindprägung auf beiden Deckeln; Band 2: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf) mit Spuren von Verschlussbändern (chamois, Leder), Linien- und Ornamentrollen-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Philippus Meraldus; Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Die Lagen S und T fehlen, an ihrer Stelle folgen ein zweites Mal die Lagen L bis 1. N
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116683131105511<-L-11-STOP-><-VI-11-START->MUE Bong IV 857<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991120366079705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Firmicus Maternus, Iulius<-P-STOP->
+<-P-START->Manilius, Marcus<-P-STOP->
+<-P-START->Germanicus Caesar<-P-STOP->
+<-P-START->Cicero, Marcus Tullius<-P-STOP->
+<-P-START->Avienus, Rufius Festus<-P-STOP->
+<-P-START->Aratus Solensis<-P-STOP->
+<-P-START->Leontius Mechanicus<-P-STOP->
+<-P-START->Theon Alexandrinus<-P-STOP->
+<-P-START->Proclus Diadochus<-P-STOP->
+<-P-START->Geminus<-P-STOP->
+<-P-START->Linacre, Thomas<-P-STOP->
+<-P-START->Franciscus Niger<-P-STOP->
+<-P-START->Manuzio, Aldo Pio<-P-STOP->
+<-P-START->Grocinus, Guilelmus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Manuzio, Aldo Pio<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Meraldus, Philippus<-P-STOP->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991120366079705501<-DOI-STOP->
+<-SIGN-START->MUE Bong IV 857<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 11104nam a2200997 c 4500
+001 991120366079705501
+005 20220309100526.0
+008 100611s1499    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/25.04.2019/B404/faf    
+035      |a (swissbib)063524252-41slsp_network    
+035      |a 063524252    |9 ExL    
+035      |a (IDSBB)005244199DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991120366079705501    
+035      |a (41SLSP_UBE)99116683131105511    |9 (41SLSP_UBE)99116683131105511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a grc    |a lat    |h grc    
+245 0 0  |a Iulii Firmici Astronomicorum libri octo integri, & emendati, ex Scythicis oris ad nos nuper allati    |b ; Marci Manilii astronomicorum libri quinque. Arati Phænomena Germanico Cæsare interprete cum commentariis & imaginibus ; Arati eiusdem phænomenon fragmentum Marco .T.C. interprete ; Arati eiusdem Phænomena Ruffo Festo Auienio paraphraste ; Arati eiusdem Phænomena græce. Theonis commentaria copiosissima in Arati Phænomena græce. Procli Diadochi Sphæra græce ; Procli eiusdem Sphæra, Thoma Linacro Britanno interprete    
+246 1    |i Titel des 1. enthaltenen Werks in normalisierter Form    |a Iulii Firmici Materni Iunioris Siculi V.C. matheseos liber primus [-octavus] ad Mavortium Lollianum    
+246 1    |i Titel des 2. enthaltenen Werks in normalisierter Form    |a Marci Manilii astronomicon ad Caesarem Augustum liber primus [-quintus]    
+246 1    |i Titel des 3. enthaltenen Werks in normalisierter Form    |a Fragmentum Arati phaenomenon per Germanicum in Latinum conversi cum commento nuper in Sicilia reperto    
+246 1    |i Berichtigter Titel des 4. enthaltenen Werks in normalisierter Form    |a Fragmentum Arati phaenomenon M. Tulio Cicerone interprete    
+246 1    |i Titel des 5. enthaltenen Werks in normalisierter Form    |a Arati phaenomena Rufo Festo Avienio paraphraste    
+246 1    |i Titel des 6. enthaltenen Werks in normalisierter Form    |a Aratu Soleōs phainomena meta scholiōn = Arati Solensis phaenomena cum commentariis    
+246 1    |i Titel des 9. enthaltenen Werks in normalisierter Form    |a Procli Diadochi sphaera, astronomiam discere incipientibus utilissima, Thoma Linacro Britanno interprete, ad Arcturum, Cornubiae Valliaeque illustrissimum principem    
+246 1    |i Explicit des 1. enthaltenen Werks    |a Ivlii Firmici, Materni Iunioris siculi. V. consularis, Ad Mauortium Lollianum, Matheseos libri explicant    
+246 1    |i Explicit des 1. enthaltenen Werks in normalisierter Form    |a Iulii Firmici Materni Iunioris Siculi V. consularis ad Mavortium Lollianum Matheseos libri explicant    
+246 1    |i Explicit des 5. enthaltenen Werks    |a Arati Phaenomenon Rvfo Festo Avienio Paraphraste, .Finis    
+246 1    |i Explicit des 5. enthaltenen Werks in normalisierter Form    |a Arati phaenomenon Rufo Festo Avienio paraphraste finis    
+246 1    |i Explicit des 6. enthaltenen Werks    |a Telos tōn tu Aratu phainomenōn ... kai tōn tu theonos scholiōn    
+246 1    |i Explicit des 8. enthaltenen Werks    |a Telos tēs tu proklu sphairas    
+264   1  |a Venetiis    |b cura, & diligentia Aldi Ro.    |c Mense octob. M.ID. [10.1499]    
+300      |a 460 ungezählte Seiten, 1 ungezähltes Blatt, 100 ungezählte Seiten, 1 ungezähltes Blatt, 188 ungezählte Seiten    |b 60 Illustrationen    |c 33 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Die Zuschreibung der "Scholia in Aratum" an Theon Alexandrinus ist fragwürdig; die dem Proclus Diadochus zugeschriebene "Sphaera" ist ein Auszug aus den "Elementa astronomiae" (Kapitel 4-5, 15, 3) des Geminus    
+500      |a Mit einem Widmungsbrief des Druckers Aldo Pio Manuzio an Herzog Guidobaldo I. von Urbino, einem Widmungsbrief des Herausgebers Franciscus Niger an Kardinal Ippolito d'Este, einem Inhaltsverzeichnis über die "Mathesis" des Firmicus Maternus, einer Zeichenerklärung der Sternzeichen und Planeten, einer kurzen Vita des Manilius, einem Inhaltsverzeichnis über die "Astronomica" des Manilius, einer Vita des Aratus in der Übersetzung des Aldo Pio Manuzio, einem Kommentar zu den "Aratea" des Germanicus, "De sphaerae Arateae constructione" des Leontius Mechanicus, einer Vita des Aratus, einem Brief von Aldo Pio Manuzio an Alberto Pio di Carpi, einem Brief von Guilelmus Grocinus an Aldo Pio Manuzio, einem Vorwort von Thomas Linacre an Arthur, Prince of Wales, und einem Druckerprivileg    
+500      |a Impressum gemäss Kolophon    
+500      |a Zusätzliches Kolophon auf Blatt kk₈ recto: "Venetiis in ædibus Aldi Romani mense Iunio .M.ID."    
+500      |a Signaturformel: *⁶, a-g¹⁰, h¹², aa-hh¹⁰, ii-kk⁸, A-D¹⁰, E¹², F⁶, G-M¹⁰, N⁶, N-S¹⁰, T⁸    
+500      |a Die Blätter E₇ und K₁₀ sind unbedruckt    
+505 0 0  |t Ivlii Firmici Materni Ivnioris Sicvli V.C. Matheseos Liber Primvs [-Octauus] Ad Mavortivm Lollianvm    |t Marci Manilii Astronomicon Ad Caesarem Avgvstvm Liber Primvs [-Quintus]    |t Fragmentvm Arati Phaenomenon Per Germanicvm In Latinvm Conversi Cvm Commento Nvper In Sicilia Reperto    |t Fragmentvm Arati Phaenomenon .M. Tvlio Cicerone Nterprete    |t Arati Phaenomena Rvfo Festo Avienio Paraphraste    |t Aratu Soleōs Phainomena Meta Scholiōn = Arati Solensis Phaenomena Cvm Commentariis    |t Leontiu Mēchaniku Peri Kataskeuēs Arateias Sphairas    |t Proklu Sphaira    |t Procli Diadochi Sphaera, Astronomiam Discere Incipientibvs Vtilissima, Thoma Linacro Britanno Interprete, Ad Arctvrvm, Cornvbiae, Valliaeque Illvstrissimvm Principem    
+510 4    |a BSB-Ink    |c F-129    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_F-129.html    
+510 4    |a GW    |c 09981    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW09981.htm    
+510 4    |a ISTC    |c if00191000    |u http://data.cerl.org/istc/if00191000    
+530      |a Digitalisat (Exemplar der Herzog August Bibliothek Wolfenbüttel)    |u http://diglib.hab.de/inkunabeln/6-astron-2f/start.htm    
+561      |a Handschriftlicher Besitzvermerk auf der Titelseite: "Bongars"; auf Blatt 2. N₁ (Titelseite von Band 2): "ex libris Bongarsij", "Philippi Meraldi et amicoru[m]" (durchgestrichen), "Jacobi Bongarsij Aurelijs kai tōn philōn. MDLXXIII."    
+563      |a Einbandbeschreibung: Band 1: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf, 18./19. Jh.), Ornamentrollen-Blindprägung auf beiden Deckeln, Titelschild in Golddruck auf dem Rücken: "J. Firmici Et Manilii Astronom."; Band 2: Ganzbezogener Ledereinband auf Kartondeckeln (braun, Schaf) mit Spuren von Verschlussbändern (chamois, Leder), Linien- und Ornamentrollen-Blindprägung auf beiden Deckeln, Titeldruck auf dem Rücken: "Arati Solensis Phaenomena."    
+563      |a Vorsätze: Jeweils vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse Einbände: 31 x 22 x 5.3 cm (Band 1), 32.2 x 22.5 x 2.5 cm (Band 2)    
+563      |a Zustand Einbände: Band 1: Abspaltungen am Einbandleder; Band 2: Verschlussbänder fehlend, Abspaltungen und Brüche im Einbandleder, vollständig ergänzter Lederrücken mit später hinzugefügten Lederüberklebungen, Lederüberklebungen an den Deckeln, Papierüberklebungen an den Vorsätzen    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 358 von 376 Blättern (plus 26 zusätzliche), Papierfälze an den Heftstationen nach dem letzten Blatt von Band 2 gehören zur Vorsatzverstärkung, vorgesehene Stellen für Initialen frei gelassen    
+590      |a Zustand Buchblöcke: Band 1: Feuchtigkeitsränder am Kopfschnitt des letzten Drittels; Band 2: Feuchtigkeitsränder mit ausgeprägter Verfärbung von vormaligem Schimmelschaden mit geschwächter Papiersubstanz, Löcher durch getilgten Besitzvermerk (mit geringem Textverlust) an erstem Blatt, Japanpapierüberklebung an erstem und letztem Blatt    
+590      |a Unvollständiges Exemplar: Die Lagen S und T fehlen, an ihrer Stelle folgen ein zweites Mal die Lagen L bis 1. N    
+590      |a In 2 Bänden gebunden (Band 1: *₁-1. N₆; Band 2: 2. N₁-R₁₀, L₁-1. N₆)    
+590      |a Handschriftliche Annotationen und Unterstreichungen in Tinte von Bongars in Band 1; unleserlicher Besitzvermerk (?) auf vorderem fliegendem Vorsatzblatt von Band 2    
+590      |a Historische Signatur auf der Titelseite: "Mathem 119."; auf Blatt 2. N₁ (Titelseite von Band 2): "Poet. 42."; "arm. III. T. vi. n. 8."    
+590      |a Frühere Signaturen: Inc 252; Inc II 43; VII 16 (Band 1); Inc II 43 a; VI 13 (Band 2)    
+700 1    |a Firmicus Maternus, Iulius    |d ca. 335/350    |0 (DE-588)118683659    |e Verfasser    |4 aut    
+700 1    |a Manilius, Marcus    |d ca. 1. Jh.    |0 (DE-588)118577077    |e Verfasser    |4 aut    
+700 0    |a Germanicus    |c Caesar    |d v15-19    |0 (DE-588)118538748    |e Verfasser    |e Übersetzer    |4 aut    |4 trl    
+700 1    |a Cicero, Marcus Tullius    |d v106-v43    |0 (DE-588)118520814    |e Verfasser    |e Übersetzer    |4 aut    |4 trl    
+700 1    |a Avienus, Rufius Festus    |d 305-375    |0 (DE-588)11881060X    |e Verfasser    |e Übersetzer    |4 aut    |4 trl    
+700 0    |a Aratus    |c Solensis    |d v315-v245    |0 (DE-588)118645552    |e Verfasser    |4 aut    
+700 0    |a Leontius    |c Mechanicus    |d ca. 6. Jh.    |0 (DE-588)141800690    |e Verfasser    |4 aut    
+700 0    |a Theon    |c Alexandrinus    |d ca. 2. Hälfte 4. Jh.    |0 (DE-588)118801856    |e Kommentarverfasser    |4 wac    
+700 0    |a Proclus    |c Diadochus    |d 412-485    |0 (DE-588)118641778    |e Verfasser    |4 aut    
+700 0    |a Geminus    |d ca. v1. Jh.    |0 (DE-588)118538357    |e Verfasser    |4 aut    
+700 1    |a Linacre, Thomas    |d 1460-1524    |0 (DE-588)118780018    |e Übersetzer    |e Verfasser eines Vorworts    |4 trl    |4 wpr    
+700 0    |a Franciscus    |c Niger    |d 1452-1523    |0 (DE-588)100955398    |e Herausgeber    |4 edt    
+700 1    |a Manuzio, Aldo Pio    |d 1450-1515    |0 (DE-588)118577387    |e Verfasser von ergänzendem Text    |e Übersetzer    |4 wst    |4 trl    
+700 1    |a Grocinus, Guilelmus    |d 1446-1519    |0 (DE-588)129023191    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Manuzio, Aldo Pio    |d 1450-1515    |0 (DE-588)118577387    |e Drucker    |4 prt    
+700 1    |a Meraldus, Philippus    |d ca. 16. Jh.    |0 (DE-588)1185532811    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |e Annotierende Person    |4 fmo    |4 ann    
+700 1 2  |a Firmicus Maternus, Iulius    |d ca. 335/350    |t Mathesis    |0 (DE-588)4387235-9    
+700 1 2  |a Manilius, Marcus    |d ca. 1. Jh.    |t Astronomica    |0 (DE-588)4263686-3    
+700 0 2  |a Germanicus    |c Caesar    |d v15-19    |t Aratea    |0 (DE-588)4265735-0    
+700 1 2  |a Cicero, Marcus Tullius    |d v106-v43    |t Aratea    |0 (DE-588)4340121-1    
+700 1 2  |a Avienus, Rufius Festus    |d 305-375    |t Aratea    |0 (DE-588)4122863-7    
+700 0 2  |a Leontius    |c Mechanicus    |d ca. 6. Jh.    |t De sphaerae Arateae constructione    |0 (DE-588)1185510826    
+700 0 2  |a Aratus    |c Solensis    |d v315-v245    |t Phaenomena    |0 (DE-588)4198969-7    
+700 0 2  |a Proclus    |c Diadochus    |d 412-485    |t Sphaera    |0 (DE-588)4521090-1    
+730 0    |a Scholia in Aratum    |0 (DE-588)1184512426    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Bong IV 857    |9 (41SLSP_UBE)99116683131105511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc II 43    |c 404U3    |h MUE Bong IV 857 : 1    |q 1    |p 12    |j MUE Bong IV 857    |b B404    |9 (41SLSP_UBE)99116683131105511    
+949      |i ZB Inc II 43 a    |c 404U3    |h MUE Bong IV 857 : 2    |q 2    |p 12    |j MUE Bong IV 857    |b B404    |9 (41SLSP_UBE)99116683131105511    
+986      |a (41SLSP_UBE)99116683131105511    |9 (41SLSP_UBE)99116683131105511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116683131105511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116683131105511    
+991      |a Bongars: 05352, 00604, 09109    |5 IZ UBE/B400/11.06.2010    |9 local    |9 (41SLSP_UBE)99116683131105511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

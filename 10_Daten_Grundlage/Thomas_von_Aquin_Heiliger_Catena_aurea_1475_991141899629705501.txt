@@ -1,0 +1,149 @@
+﻿<-1-1-START->
+Thomas von Aquin
+<-1-1-STOP->
+
+<-1-2-START->
+Catena aurea
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Enthält den Text der vier Evangelien und zu den jeweiligen Abschnitten oder Sätzen die Exegese von Thomas von Aquin<-500-STOP->
+<-500-START->Band [1]: Matthaeus und Markus, Band [2]: Lukas und Johannes<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Augsburg: Günther Zainer, nicht nach 1475]
+<-3-1-STOP->
+
+<-4-1-START->
+2 Bände; 42 cm (2°)
+<-500-START->Band [1]: 1 ungezähltes Blatt (leer), 388 ungezählte Seiten, 1 ungezähltes Blatt (leer), 124 ungezählte Seiten, 1 ungezähltes Blatt (leer); Band [2]: 1 ungezähltes Blatt (leer), 537 ungezählte Seiten<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_T-198.html<-L-5-STOP-><-VI-5-START->BSB-Inc T-198<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M46087.htm<-L-5-STOP-><-VI-5-START->GW M46087<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/it00226000<-L-5-STOP-><-VI-5-START->ISTC it00226000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+Band [1]: 258 von 259 Blättern, Band [2]: 270 von 270 Blättern; rot ausgezeichnete Initialen, Schmuckinitialen, jeweils zu Beginn der vier Evangelien, mit Federzeichnung ausgeschmückt; Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogene Ledereinbände auf Holzdeckeln (chamois, Ziege) mit Spuren vormaliger Schliessen, Linien- und Ornamentstempel- sowie Ornamentrollen-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Werner Zesiger
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: Unbedrucktes Blatt [a₁] in Band [1] fehlt
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116801760705511<-L-11-STOP-><-VI-11-START->MUE Zesk 11<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991141899629705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Thomas von Aquin<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Augsburg<-O-STOP->
+<-P-START->Günther Zainer<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Zesiger, Werner<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991141899629705501<-DOI-STOP->
+<-SIGN-START->MUE Zesk 11<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06915nam a2200673 ca4500
+001 991141899629705501
+005 20220221172253.0
+008 950614s1475    gw            00| | lat d
+019      |a Altbestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von Signaturen.    |5 IDSBB/10.2.1995/bestub/mes    
+035      |a (swissbib)027020843-41slsp_network    
+035      |a 027020843    |9 ExL    
+035      |a (IDSBB)001116779DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991141899629705501    
+035      |a (41SLSP_UBE)99116801760705511    |9 (41SLSP_UBE)99116801760705511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+072   7  |a th    |2 SzZuIDS BS/BE    
+100 0    |a Thomas    |c von Aquin, Heiliger    |d 1225-1274    |0 (DE-588)118622110    |e Verfasser    |4 aut    
+240 1 0  |a Catena aurea    
+245 1 0  |a [Catena aurea]    
+246 1    |i Titel gemäss ISTC    |a Catena aurea super quattuor evangelistas    
+264   1  |a [Augsburg]    |b [Günther Zainer]    |c [nicht nach 1475]    
+300      |a 2 Bände    |c 42 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Keine Titelseite    
+500      |a Enthält den Text der vier Evangelien (fett gedruckt) und zu den jeweiligen Abschnitten oder Sätzen die Exegese von Thomas von Aquin    
+500      |a Band [1]: Matthaeus und Markus, Band [2]: Lukas und Johannes    
+500      |a Impressum gemäss BSB-Ink, GW und ISTC    
+500      |a Umfang, Band [1]: 1 ungezähltes Blatt, 388 ungezählte Seiten, 1 ungezähltes Blatt, 124 ungezählte Seiten, 1 ungezähltes Blatt; Band [2]: 1 ungezähltes Blatt, 537 ungezählte Seiten    
+500      |a Signaturformel (Sonderzeichen gemäss BSB-Ink), Band [1]: [a–s¹⁰, t–v⁸, x¹⁰, y¹⁰+¹, z¹⁰, [et]¹⁰, [con]¹⁰, [rum]¹²]; Band [2]: [A–O¹⁰, P⁶, Q–Z¹⁰, AA–BB¹⁰, CC–EE⁸]    
+500      |a Band [1]: Blätter [a₁], [v₈] (vor dem Prologus zu Marcus) und [rum₁₂] (letztes Blatt) unbedruckt; Band [2]: Blatt [A₁] unbedruckt; Blatt [P₆] verso (Seite vor Prologus zu Johannes) und [E₈] verso (letzte Seite) unbedruckt    
+500      |a Blatt [y₅]: Kommentar nur einspaltig, auf der inneren Hälfte, gedruckt    
+510 4    |a BSB-Inc    |c T-198    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_T-198.html    
+510 4    |a GW    |c M46087    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M46087.htm    
+510 4    |a ISTC    |c it00226000    |u http://data.cerl.org/istc/it00226000    
+530      |a Digitalisat Band [1] (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00084097/image_9    
+530      |a Digitalisat Band [2] (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/bsb00084098/image_7    
+561      |a In beiden Bänden auf vorderem Spiegel handschriftlicher Besitzvermerk: "Ex bibliotheca Hain[?]"    
+561      |a Weiterer handschriftlicher Besitzvermerk auf vorderem Spiegel in Band [1]: "1569 S..." (der Rest ausradiert)    
+561      |a Handschriftliche Besitzvermerke jeweils auf erster Textseite, Band [1]: "Colleg. Soc. Jesu. Catal. inscript. in Teât.[?] n. 20"; Band [2]: "Colleg. Soc. Jesu rien.[?] Catal. inscrip. in ...[?] T. n. 21."    
+561      |a In beiden Bänden Stempel auf vorderen fliegenden Blättern: "Dr. Zesiger"    
+563      |a Einbandbeschreibung: Halbbezogene Ledereinbände auf Holzdeckeln (chamois, Ziege) mit Spuren vormaliger Schliessen, Linien- und Ornamentstempel- sowie Ornamentrollen-Blindprägung auf beiden Deckeln    
+563      |a Vorsätze, Band 1: Vorne mit einem fliegenden Blatt, hinten ohne fliegendes Blatt; Band 2: Vorne und hinten ohne fliegende Blätter    
+563      |a Masse Einband: Band [1]: 42.2 x 29.4 x 8.3 cm, Band [2]: 42.5 x 29.5 x 8.3 cm    
+563      |a Zustand Einband, Band [1] und [2]: Schäden im Einbandleder mit Abrieb und Fehlstellen, Einband restauriert: vorderer Falz mit eingefärbtem Leder unterlegt (Band [1]: Abdrücke einer vormaligen Überklebung mit Gewebe sichtbar), oberstes und unterstes Bundfeld am Rücken mit Stücken eines (wiederverwendeten) Einbandleders überklebt (chamois, Schwein mit Linien- und Ornamentstempel-Blindprägung), rote Übermalung des unteren Bundfeldes mit Teilen von Schriftzeichen/Zahlen in hellem Farbauftrag unterhalb der Lederüberklebung sichtbar, Rückdeckel zur Hälfte ergänzt (Band [1]: Verschmutzung aus Umlaufeinheit ohne kompletten Deckel am letzten Blatt sichtbar; Band [2]: angesetztes Deckelstück mit Resten einer vormaligen Anpflockung), Papierüberklebung in vorderem inneren Falz (in Band [1] unterhalb des später hinzugefügten fliegenden Blattes), hinten Falzanklebung von später hinzugefügtem hinterem Spiegel an letztem Blatt, Schliessen komplett fehlend (Band [2]: Spuren vormaliger Schliessen-Ösenteile an vorderem Deckel), Buchblock über Deckel hinaus stehend    
+590      |a Druckvariante zu Exemplar der Bayerischen Staatsbibliothek: Auf der ersten Textseite (Blatt [a₂]) fehlt im vorliegenden Exemplar der Kopftitel "Prologvs"; sonst satzidentisch    
+590      |a Buchblockbeschreibung: Band [1]: 258 von 259 Blättern, Band [2]: 270 von 270 Blättern; in beiden Bänden handschriftliche Lagensignatur in Graphit (Nummerierung, jeweils auf der ersten Seite jeder Lage rechts unten, 20. Jahrhundert); rot ausgezeichnete Initialen, grössere Schmuckinitialen jeweils auf der ersten Textseite zu den vier Evangelien, mit Federzeichnung ausgeschmückt; Rubrizierung    
+590      |a Zustand Buchblock: In beiden Bänden starke Verschmutzung/Verbräunung der Blattränder; Band 1: Bruch in der ersten Lage zwischen Blättern [a₇] und [a₈] und zwischen vorletzter und letzter Lage, Blatt [a₈] fast vollständig aus Doppelblattverbindung zu Lage [a] gerissen, Blatt [a₉] vor Lage [b] vorgeklebt    
+590      |a Unbedrucktes Blatt [a₁] in Band [1] fehlt    
+590      |a Blatt [y₅]: äussere (unbedruckte) Hälfte weggeschnitten    
+590      |a Signaturformel der handschriftlichen Lagensignatur, Band [1]: 1-18¹⁰, 19-20⁸, 21¹⁰, 22¹⁰+¹, 23-25¹⁰, 26¹²; Band [2]: 27-40¹⁰, 41⁶, 42-51¹⁰, 52-54⁸    
+590      |a Auf vorderem Spiegel von Band [1] handschriftliche Notiz in Tinte (Zitat von Thomas von Aquin?)    
+590      |a Historische Signaturen auf vorderen fliegenden Blättern von Band [1]: "F IV 320 (1)" und Band [2]: "F IV 320 (2)"    
+700 0 2  |a Thomas    |c von Aquin, Heiliger    |d 1225-1274    |t Catena aurea    |0 (DE-588)1025289021    
+700 0    |a Günther    |c Zainer    |d 1430-1478    |0 (DE-588)118636111    |e Drucker    |4 prt    
+700 1    |a Zesiger, Werner    |d 1902-1958    |0 (DE-588)121027392    |e Früherer Eigentümer    |4 fmo    
+730 0    |a Bibel    |p Evangelien    |0 (DE-588)4015806-8    
+751      |a Augsburg    |0 (DE-588)4003614-5    
+852 4    |b B404    |c 404U3    |j MUE Zesk 11    |9 (41SLSP_UBE)99116801760705511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |h MUE Zesk 11 : 1    |q Matthaeus, Marcus    |p 12    |j MUE Zesk 11    |b B404    |9 (41SLSP_UBE)99116801760705511    
+949      |c 404U3    |h MUE Zesk 11 : 2    |q Lucas, Johannes    |p 12    |j MUE Zesk 11    |b B404    |9 (41SLSP_UBE)99116801760705511    
+986      |a (41SLSP_UBE)99116801760705511    |9 (41SLSP_UBE)99116801760705511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116801760705511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

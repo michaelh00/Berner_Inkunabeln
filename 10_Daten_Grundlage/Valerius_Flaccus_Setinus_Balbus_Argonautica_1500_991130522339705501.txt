@@ -1,0 +1,137 @@
+﻿<-1-1-START->
+Valerius Flaccus Setinus Balbus, Gaius
+<-1-1-STOP->
+
+<-1-2-START->
+Argonautica
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Mit Widmungsbrief an Antonius Galeatius Bentivolus<-500-STOP->
+<-500-START->Mit Beigabe von Pietro Niccolò Castellani (auf dem letzten Blatt, gemäss GW)<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Venedig: Cristoforo de' Pensi, 10.06.1500
+<-3-1-STOP->
+
+<-4-1-START->
+143 ungezählte Seiten: Holzschnittinitialen; 21 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M49132.htm<-L-5-STOP-><-VI-5-START->GW M49132<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/iv00021500<-L-5-STOP-><-VI-5-START->ISTC iv00021500<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+71 von 72 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+(Ursprünglich) ganzbezogener Pergamenteinband auf Kartondeckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 3 weiteren Drucken (16. Jahrhundert) in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+Unvollständiges Exemplar: letztes Blatt mit Beigabe von Castellani und Kolophon fehlt (Übertragung gemäss GW)
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116855616405511<-L-11-STOP-><-VI-11-START->MUE Klein a 480 : 4<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991130522339705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Valerius Flaccus Setinus Balbus, Gaius<-P-STOP->
+<-P-START->Castellani, Pietro Niccolò<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Venedig<-O-STOP->
+<-P-START->Pensi, Cristoforo de'<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991130522339705501<-DOI-STOP->
+<-SIGN-START->MUE Klein a 480 : 4<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 03541nam a2200529 c 4500
+001 991130522339705501
+005 20211215193406.0
+008 090330s1500    it            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/30.10.2017/B404/vha    
+035      |a (swissbib)057689423-41slsp_network    
+035      |a 057689423    |9 ExL    
+035      |a (IDSBB)004813472DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991130522339705501    
+035      |a (41SLSP_UBE)99116855616405511    |9 (41SLSP_UBE)99116855616405511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Valerius Flaccus Setinus Balbus, Gaius    |d -90    |0 (DE-588)118625950    |e Verfasser    |4 aut    
+240 1 0  |a Argonautica    
+245 1 0  |a C. Valerii Flacci poete elegantissimi Argonautica    |b Dilige[n]ter accurateq[ue] emendata [et] suo nitori reddita i[n] hoc Uolumine Co[n]tinentur    
+246 1    |i Titel in normalisierter Form    |a C. Valerii Flacci poete elegantissimi Argonautica    |b diligenter accurateque emendata et suo nitori reddita in hoc volumine continentur    
+264   1  |a Impressum Uenetiis    |b per Cristoferum de pensis    |c Anno D[omi]ni MCCCCC Die. x. Junii [10.06.1500]    
+300      |a 143 ungezählte Seiten    |c 21 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Impressum gemäss Übertragung des Kolophons (Blatt I₈) in GW (fehlt im vorliegenden Exemplar)    
+500      |a Widmungsbrief an Antonius Galeatius Bentivolus auf Blatt A₂ verso    
+500      |a Gemäss GW mit Beigabe von Pietro Niccolò Castellani ("Faventinus", Blatt I₈)    
+500      |a Signaturformel: A-I⁸    
+500      |a Blatt I₈ verso (letzte Seite) unbedruckt    
+500      |a Holzschnittinitialen (mit Ausnahme der Anfangsinitiale auf Blatt A₂ recto, dort nur Repräsentant 'p')    
+510 4    |a GW    |c M49132    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M49132.htm    
+510 4    |a ISTC    |c iv00021500    |u http://data.cerl.org/istc/iv00021500    
+563      |a Einbandbeschreibung: (Ursprünglich) ganzbezogener Pergamenteinband auf Kartondeckeln    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse: 20.6 x 15.2 x 6.5 cm    
+563      |a Zustand Einband: aus dickem Japanpapier nachgebilderter Rücken    
+590      |a Buchblockbeschreibung: 71 von 72 Blättern, vorgesehene Stelle für Initiale auf Blatt A₂ recto frei gelassen, ohne Rubrizierung    
+590      |a Zustand Buchblock: Feuchtigkeitsränder in der zweiten Buchblockhälfte, Heftfaden in Lage I gerissen, Lagenstruktur der Lage I durch Vorklebung des hinteren fliegenden Blattes nicht einsehbar (Gegenblatt zu I₁ fehlt), Blatt I₇ mit Knicken, Einrissen und Fehlstellen an den Blatträndern    
+590      |a Unvollständiges Exemplar: letztes Blatt I₈, mit Kolophon, fehlt    
+590      |a Zusammengebunden mit 3 weiteren Drucken (16. Jahrhundert) in Sammelband    
+590      |a Historische Signaturen, auf vorderem Spiegel: "Lit: 602"; auf der Titelseite des 1. Drucks im Sammelband: "Lit. 210"    
+590      |a Frühere Signaturen: Phil X 61, Inc 494    
+700 1 2  |a Valerius Flaccus Setinus Balbus, Gaius    |d -90    |t Argonautica    |0 (DE-588)4198970-3    
+700 1    |a Castellani, Pietro Niccolò    |0 (DE-588)119638177    |e Verfasser von ergänzendem Text    |4 wst    
+700 1    |a Bentivolus, Antonius Galeatius    |d 1472-1525    |0 (DE-588)128981342    |e Widmungsempfänger    |4 dte    
+700 1    |a Pensi, Cristoforo <<de'>>    |0 (DE-588)1037570669    |e Drucker    |4 prt    
+751      |a Venedig    |0 (DE-588)4062501-1    
+852 4    |b B404    |c 404U3    |j MUE Klein a 480 : 4    |9 (41SLSP_UBE)99116855616405511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 3 weiteren Drucken in Sammelband    |p 12    |j MUE Klein a 480 : 4    |b B404    |9 (41SLSP_UBE)99116855616405511    
+986      |a (41SLSP_UBE)99116855616405511    |9 (41SLSP_UBE)99116855616405511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116855616405511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116855616405511    
+991      |a MedeaB400: 00916386    |5 IZ UBE/rekat-ubbe    |9 local    |9 (41SLSP_UBE)99116855616405511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

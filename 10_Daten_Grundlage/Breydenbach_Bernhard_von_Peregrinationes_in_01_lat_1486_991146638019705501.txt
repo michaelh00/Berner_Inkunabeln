@@ -1,0 +1,175 @@
+﻿<-1-1-START->
+Breydenbach, Bernhard von
+<-1-1-STOP->
+
+<-1-2-START->
+Peregrinationes in terram sanctam
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Beschreibung der Reise, die Bernhard von Breydenbach 1483-84 zusammen mit Graf Johann von Solms, Ritter Philipp von Bicken und dem Künstler Erhard Reuwich ins Heilige Land unternommen hat, ausgearbeitet (gemäss Huschenbett) oder abgefasst (gemäss Timm) von Martinus Rath<-500-STOP->
+<-500-START->Mit einer Widmungsvorrede des Autors an Berthold von Henneberg, einem Verzeichnis der Inseln von Venedig bis Rhodos mit Entfernungsangaben, einem arabisch-lateinischen Glossar, den Berichten "De Constantinopolitane urbis expugnatione" von Isidorus Kiovensis, "De Nigroponti captione" (möglicherweise von Balthasar Perusino), "Obsidionis Rhodiae urbis descriptio" von Guillaume Caoursin und "De captione ciuitatis Ydruntine" (anonym) sowie Rezepten gegen Seekrankheit ("De regimine peregrinantium in transmare") und Ungeziefer ("De cautela contra pediculos ac pulices et muscas in mari"), entnommen bei Hali (Ḫalaf Ibn-Abbās az-Zahrāwī?) und Rasis (Muḥammad Ibn-Zakarīyā ar-Rāzī)<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+Mainz: Erhard Reuwich, 11.02.1486
+<-500-START->Gemäss Voulliéme gedruckt mit Typen Peter Schöffers, Reuwich war womöglich nur Verleger<-500-STOP->
+<-500-START->Druckvariante: Mit dem verkehrten e auf Blatt a₄ verso, Ende Zeile 1 (wie digitalisiertes Exemplar der Bodleian Libraries, anders z.B. Darmstadt)<-500-STOP->
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt Tafeln, 276 ungezählte Seiten, 1 ungezähltes Blatt, 16 ungezählte Seiten Tafeln, 16 ungezählte Blätter Tafeln (angeklebt): 23 Illustrationen, 1 Karte, Holzschnittinitialen, Druckermarke; 31 cm (2°)
+<-500-START->Die Lagen [c], [f]-[h] und [y] bestehen aus mehreren aneinandergeklebten Doppelblättern, die jeweils zusammen eine Illustration bilden<-500-STOP->
+<-500-START->Ohne die in der deutschen Fassung enthaltene Illustration des armenischen Alphabets<-500-STOP->
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-909.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-909<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW05075.htm<-L-5-STOP-><-VI-5-START->GW 05075<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib01189000<-L-5-STOP-><-VI-5-START->ISTC ib01189000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+164 von 164 Blättern, rot und blau ausgezeichnete Initialen, Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Einteiliger Kartoneinband mit durchzogenen Bünden (17./18. Jahrhundert) 
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Jacques Bongars
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit: De itinere terrae sanctae / Ludolphus Suchensis. [Straßburg: Heinrich Eggestein, zwischen 1475 und 1480?]
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116800187405511<-L-11-STOP-><-VI-11-START->MUE Bong V 929 : 1<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991146638019705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Breydenbach, Bernhard von<-P-STOP->
+<-P-START->Martinus Rath<-P-STOP->
+<-P-START->Isidorus Kiovensis<-P-STOP->
+<-P-START->Perusino, Balthasar<-P-STOP->
+<-P-START->Caoursin, Guillaume<-P-STOP->
+<-P-START->Reuwich, Erhard<-P-STOP->
+<-P-START->Zahrāwī, Ḫalaf Ibn-Abbās az-<-P-STOP->
+<-P-START->Rāzī, Muḥammad Ibn-Zakarīyā ar-<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Mainz<-O-STOP->
+<-P-START->Reuwich, Erhard<-P-STOP->
+<-O-START->Mainz<-O-STOP->
+<-P-START->Schöffer, Peter<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Bongars, Jacques<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991146638019705501<-DOI-STOP->
+<-SIGN-START->MUE Bong V 929 : 1<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 08223nam a2200829 c 4500
+001 991146638019705501
+005 20211215194035.0
+008 100428s1486    gw            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/04.01.2018/B404/faf    
+035      |a (swissbib)061005657-41slsp_network    
+035      |a 061005657    |9 ExL    
+035      |a (IDSBB)005221116DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991146638019705501    
+035      |a (41SLSP_UBE)99116800187405511    |9 (41SLSP_UBE)99116800187405511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Breydenbach, Bernhard <<von>>    |d 1440-1497    |0 (DE-588)118660047    |e Verfasser    |4 aut    
+240 1 0  |a Peregrinationes in terram sanctam    
+245 1 0  |a Sanctaru[m] peregrinationu[m] in montem Syon ad venerandu[m] chr[ist]i sepulcru[m] in Jerüsalem. atq[ue] in monte[m] Synai ad diua[m] virgine[m] et matire[m] Katherina opusculum hoc co[n]tentiuu[m] ... Finit feliciter    |c Bernhardus de Breydenbach    
+246 1    |i Titel in normalisierter Form    |a Sanctarum peregrinationum in montem Syon ad venerandum Christi sepulcrum in Jerüsalem atque in montem Synai ad divam virginem et matirem Katherina opusculum hoc contentivum ... finit feliciter    
+246 1    |i Incipit    |a Reuerendissimo in chr[ist]o patri et d[omi]no d[omi]no Bertholdo sancte Magu[n]tin[ensis]. sedis Archiepiscopo Sacri Romani Imperij per germania[m] Archicancellario ac principi electori d[omi]no suo gratiosissimo Bernhardus de Breydenbach dicte ecclesie Maguntinen[sis]. decanus simul et camerarius obedientiam promptam et deuota[m]    
+246 1    |i Incipit in normalisierter Form    |a Reverendissimo in Christo patri et domino domino Bertholdo sancte Maguntinensis sedis archiepiscopo sacri Romani imperii per Germaniam archicancellario ac principi electori domino suo gratiosissimo Bernhardus de Breydenbach dicte ecclesie Maguntinensis decanus simul et camerarius obedientiam promptam et devotam    
+246 1    |i Titel gemäss BSB-Ink, GW und ISTC    |a Peregrinatio in terram sanctam    
+264   1  |a In ciuitate Moguntina    |b p[er] Erhardu[m] reüwich de Traiecto inferiori impressum    |c Anno salutis .M.cccc.lxxxvj. die .xj. Februarij ... [11.02.1486]    
+300      |a 1 ungezähltes Blatt Tafeln, 276 ungezählte Seiten, 1 ungezähltes Blatt, 16 ungezählte Seiten Tafeln, 16 ungezählte Blätter Tafeln (angeklebt)    |b 23 Illustrationen, 1 Karte    |c 31 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Beschreibung der Reise, die Bernhard von Breydenbach 1483-84 zusammen mit Graf Johann von Solms, Ritter Philipp von Bicken und dem Künstler Erhard Reuwich ins Heilige Land unternommen hat, ausgearbeitet (gemäss Huschenbett) oder abgefasst (gemäss Timm) von Martinus Rath    
+500      |a Mit einer Widmungsvorrede des Autors an Berthold von Henneberg, einem Inhaltsverzeichnis, einem Verzeichnis der Inseln von Venedig bis Rhodos mit Entfernungsangaben, einem arabisch-lateinischen Glossar, den Berichten "De Constantinopolitane urbis expugnatione" von Isidorus Kiovensis, "De Nigroponti captione" (möglicherweise von Balthasar Perusino), "Obsidionis Rhodiae urbis descriptio" von Guillaume Caoursin und "De captione ciuitatis Ydruntine" (anonym) sowie Rezepten gegen Seekrankheit ("De regimine peregrinantium in transmare") und Ungeziefer ("De cautela contra pediculos ac pulices et muscas in mari"), entnommen bei Hali (Ḫalaf Ibn-Abbās az-Zahrāwī?) und Rasis (Muḥammad Ibn-Zakarīyā ar-Rāzī)    
+500      |a Druckvariante: Mit dem verkehrten e auf Blatt a₄ verso, Ende Zeile 1 (wie digitalisiertes Exemplar der Bodleian Libraries, anders z.B. Darmstadt)    
+500      |a Keine Titelseite, Titel gemäss Kolophon, Verfasser gemäss Incipit    
+500      |a Impressum gemäss Kolophon; Reihenfolge der Vorlage: "... p[er] Erhardu[m] reüwich de Traiecto inferiori impressum In ciuitate Moguntina Anno salutis ..."    
+500      |a Gemäss Voulliéme gedruckt mit Typen Peter Schöffers, Reuwich war womöglich nur Verleger    
+500      |a Druckermarke am Ende    
+500      |a Signaturformel: [a-b⁶, c²⁺²⁺²⁺², d-e², f–h²⁺², i–u⁸, x¹⁰, y²⁺²⁺², z⁸, A⁸]    
+500      |a Die Lagen [c], [f]-[h] und [y] bestehen aus mehreren aneinandergeklebten Doppelblättern, die jeweils zusammen eine Illustration bilden    
+500      |a Blatt [A₈] ist unbedruckt    
+500      |a Holzschnittinitialen auf den Blättern a₂ recto und a₄ verso    
+500      |a Ohne die in der deutschen Fassung enthaltene Illustration des armenischen Alphabets    
+500      |a Diverse Flächen im Text für nicht ausgeführte Illustrationen frei gelassen    
+505 0 0  |t De Coustantinopolitane vrbis expugnatione    |r Reuerendissimus pater et d[omi]n[u]s cardinalis ruthenus ep[iscop]us Sabinensis. grecus. nomine ysidorus    |t De Nigroponti captione    |t De Rodie vrbis obsidione    |t De captione ciuitatis ydruntine    
+510 4    |a BSB-Ink    |c B-909    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-909.html    
+510 4    |a GW    |c 05075    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW05075.htm    
+510 4    |a ISTC    |c ib01189000    |u http://data.cerl.org/istc/ib01189000    
+530      |a Digitalisat (Exemplar der Bodleian Libraries)    |u http://digital.bodleian.ox.ac.uk/inquire/p/87623bd7-9940-4e78-ac01-87e9c3e321c8    
+561      |a Handschriftlicher Besitzvermerk auf Blatt [a₂] recto: "Bongars"    
+563      |a Einbandbeschreibung: Einteiliger Kartoneinband mit durchzogenen Bünden (17./18. Jh.)    
+563      |a Vorsätze: Vorne und hinten mit zwei fliegenden Blättern    
+563      |a Masse Einband: 30.7 x 22 x 5 cm    
+563      |a Zustand Einband: Kartonergänzung am Rückdeckel, Japanpapierergänzung am ersten vorderen fliegenden Blatt    
+590      |a Buchblockbeschreibung: 164 von 164 Blättern, Lagensignatur in Graphit, Papierfalz zwischen den Lagen [a] und [b] gehört zur Vorsatzkonstruktion, rot und blau ausgezeichnete Initialen, Rubrizierung (Strichelungen, rote und blaue Paragraphenzeichen)    
+590      |a Zustand Buchblock: Japanpapierüberklebungen in den Fälzen der Falttafeln, Pergamentverstärkungen und Ansatzfälze der Falttafel-Lagen zum Teil hochgelöst mit Fehlstellen in den Blättern, Schädlingsfrass in den letzten Lagen    
+590      |a Handschriftliche Annotationen in Tinte, teils von Bongars    
+590      |a Zusammengebunden mit: De itinere terrae sanctae / Ludolphus Suchensis. Strassburg : Heinrich Eggestein, zwischen 1475 und 1480    
+590      |a Historische Signatur auf vorderem Spiegel: "Hist: Eccl: 30.", Zahl korrigiert zu "54."    
+590      |a Frühere Signaturen: Inc 87; Inc II 67; IV 26    
+700 0    |a Martinus    |c Rath    |d ca. 15 Jh.    |0 (DE-588)104114932    |e Verfasser    |4 aut    
+700 0    |a Isidorus    |c Kiovensis    |d 1380-1463    |0 (DE-588)118555987    |e Verfasser    |4 aut    
+700 1    |a Perusino, Balthasar    |d ca. 15. Jh.    |0 (DE-588)1150266503    |e Verfasser    |4 aut    
+700 1    |a Caoursin, Guillaume    |d 1430-1501    |0 (DE-588)100068944    |e Verfasser    |4 aut    
+700 1    |a Reuwich, Erhard    |d 1445-1505    |0 (DE-588)11859897X    |e Illustrator    |4 ill    
+700 1    |a Zahrāwī, Ḫalaf Ibn-Abbās <<az->>    |d 936-1009    |0 (DE-588)118816063    |e Mitwirkender    |4 ctb    
+700 1    |a Rāzī, Muḥammad Ibn-Zakarīyā <<ar->>    |d 865-925    |0 (DE-588)118864173    |e Mitwirkender    |4 ctb    
+700 1    |a Reuwich, Erhard    |d 1445-1505    |0 (DE-588)11859897X    |e Drucker    |e Verlag    |4 prt    |4 pbl    
+700 1    |a Schöffer, Peter    |d 1420-1502    |0 (DE-588)118609947    |e Drucker    |4 prt    
+700 1    |a Bongars, Jacques    |d 1554-1612    |0 (DE-588)117618349    |e Früherer Eigentümer    |e Annotierende Person    |4 fmo    |4 ann    
+700 1 2  |9 U:Grek    |a Breydenbach, Bernhard <<von>>    |d 1440-1497    |t Peregrinationes in terram sanctam    |0 (DE-588)4326672-1    
+700 0 2  |a Isidorus    |c Kiovensis    |d 1380-1463    |t De Constantinopolitane urbis expugnatione    |0 (DE-588)1150263156    
+700 1 2  |a Caoursin, Guillaume    |d 1430-1501    |t Obsidionis Rhodiae urbis descriptio    |0 (DE-588)1046800922    
+730 0    |a De Nigroponti captione    |0 (DE-588)1150266635    
+730 0    |a De captione ciuitatis Ydruntine    |0 (DE-588)1150266953    
+751      |a Mainz    |0 (DE-588)4037124-4    
+852 4    |b B404    |c 404U3    |j MUE Bong V 929 : 1    |9 (41SLSP_UBE)99116800187405511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |i ZB Inc II 67 : 1    |c 404U3    |p 12    |j MUE Bong V 929 : 1    |b B404    |9 (41SLSP_UBE)99116800187405511    
+986      |a (41SLSP_UBE)99116800187405511    |9 (41SLSP_UBE)99116800187405511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116800187405511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116800187405511    
+991      |a Bongars: 01905    |5 IZ UBE/B400/28.04.2010    |9 local    |9 (41SLSP_UBE)99116800187405511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

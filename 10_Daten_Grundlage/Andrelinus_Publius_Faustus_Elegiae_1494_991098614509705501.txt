@@ -1,0 +1,125 @@
+﻿<-1-1-START->
+Andrelinus, Publius Faustus
+<-1-1-STOP->
+
+<-1-2-START->
+Elegiae
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Paris: Guy Marchant, 03.04.1494
+<-3-1-STOP->
+
+<-4-1-START->
+112 ungezählte Seiten: Druckermarke; 22 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW01864.htm<-L-5-STOP-><-VI-5-START->GW 01864<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ia00691500<-L-5-STOP-><-VI-5-START->ISTC ia00691500<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+56 von 56 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Holzdeckeln (braun, Schaf) mit mittiger Schliesse und Spuren einer Kettenöse am oberen Rand des Rückdeckels, Ornamentstempel-Blindprägung auf beiden Deckeln
+<-7-1-STOP->
+
+<-8-1-START->
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 3 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116774570205511<-L-11-STOP-><-VI-11-START->MUE Inc IV 41 : 3<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991098614509705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Andrelinus, Publius Faustus<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Paris<-O-STOP->
+<-P-START->Marchant, Guy<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991098614509705501<-DOI-STOP->
+<-SIGN-START->MUE Inc IV 41 : 3<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 02591nam a2200457 c 4500
+001 991098614509705501
+005 20211215184642.0
+008 130501s1494    fr            00| | lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/24.07.2014/B400/vha    
+035      |a (swissbib)06621307X-41slsp_network    
+035      |a 06621307X    |9 ExL    
+035      |a (IDSBB)006121846DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991098614509705501    
+035      |a (41SLSP_UBE)99116774570205511    |9 (41SLSP_UBE)99116774570205511    
+040      |a SzZuIDS BS/BE B400    |e rda    |d CH-ZuSLS    
+100 1    |a Andrelinus, Publius Faustus    |d 1462-1518    |0 (DE-588)104213639    |e Verfasser    |4 aut    
+240 1 0  |a Elegiae    
+245 1 0  |a Elegie fausti    
+264   1  |a In Campo gaillardo Parisijs    |b a Guidone mercatoris    |c Impressæ Anno a christiano natali, M.CCCC.xciiij. Tertio Nones Apriles [3. April 1494]    
+300      |a 112 ungezählte Seiten    |c 22 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Impressum gemäss Kolophon    
+500      |a Mit Druckermarke auf der Titelseite    
+500      |a Signaturformel: a-g⁸    
+500      |a Blatt g₈ verso (letzte Seite) unbedruckt    
+510 4    |a GW    |c 01864    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW01864.htm    
+510 4    |a ISTC    |c ia00691500    |u http://data.cerl.org/istc/ia00691500    
+530      |a Digitalisat (Exemplar der Bodleian Libraries, Oxford)    |u https://digital.bodleian.ox.ac.uk/inquire/p/55147530-b068-4437-8919-8591a9d458db    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Holzdeckeln (braun, Schaf) mit mittiger Schliesse und Spuren einer Kettenöse am oberen Rand des Rückdeckels, Ornamentstempel- Blindprägung auf beiden Deckeln    
+563      |a Vorsätze: vorne 1 und hinten 3 fliegende Blätter    
+563      |a Masse Einband: 21.2 x 14.8 x 4.6 cm    
+563      |a Zustand Einband: Loch mit Rostspuren am Rückdeckel von vormaliger Ankettung, Lederüberklebungen am Rücken, Einbandleder nachgefärbt und gefettet    
+563      |a Detaillierte Beschreibung im Inkunabel-Einbandkatalog (Lindt/Mülinen)    
+590      |a Buchblockbeschreibung: 56 von 56 Blättern; keine Rubrizierung, vorgesehene Stellen für Initialen freigelassen    
+590      |a Zusammengebunden mit 3 weiteren Drucken in Sammelband    
+590      |a Historische Signatur auf vorderem Spiegel: "A 14"    
+700 1 2  |a Andrelinus, Publius Faustus    |d 1462-1518    |t Elegiae    |0 (DE-588)1142196496    
+700 1    |a Marchant, Guy    |d 14XX-1505    |0 (DE-588)138932433    |e Drucker    |4 prt    
+751      |a Paris    |0 (DE-588)4044660-8    
+852 4    |b B404    |c 404U3    |j MUE Inc IV 41 : 3    |9 (41SLSP_UBE)99116774570205511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Inc IV 41 : 3    |b B404    |9 (41SLSP_UBE)99116774570205511    
+986      |a (41SLSP_UBE)99116774570205511    |9 (41SLSP_UBE)99116774570205511    
+990      |c be-ink2    |9 LOCAL    |9 (41SLSP_UBE)99116774570205511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

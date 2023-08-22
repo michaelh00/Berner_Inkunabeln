@@ -1,0 +1,143 @@
+﻿<-1-1-START->
+Burchard von Ursberg
+<-1-1-STOP->
+
+<-1-2-START->
+Chronicon
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Verkürzte Fassung mit zusätzlichem Material zur Geschichte der Staufer<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Augsburg: Klosterdruckerei St. Ulrich und Afra, 1472?]
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 88 ungezählte Seiten, 1 ungezähltes Blatt; 31 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-985.html<-L-5-STOP-><-VI-5-START->BSB-Ink B-985<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/GW05737.htm<-L-5-STOP-><-VI-5-START->GW 05737<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ib01285000<-L-5-STOP-><-VI-5-START->ISTC ib01285000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+46 von 46 Blättern, erste Initiale in brauner Tinte gezeichnet, sonst rot ausgezeichnete Initialen, grösstenteils Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Ganzbezogener Ledereinband auf Holzdeckeln (braun, Kalb) mit Schliessen sowie Spuren einer Kettenöse am oberen Rand des Rückdeckels, Ornamentstempel- und Linien-Blindprägung auf beiden Deckeln, Buchbinder: Johannes Vatter
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Dominikanerkloster Bern
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 3 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116871138905511<-L-11-STOP-><-VI-11-START->MUE Inc I 20 : 4<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991009312229705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Burchard von Ursberg<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Augsburg<-O-STOP->
+<-P-START->Klosterdruckerei St. Ulrich und Afra<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-P-START->Vatter, Johannes<-P-STOP->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Dominikanerkloster Bern<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991009312229705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 20 : 4<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 04506nam a2200601 c 4500
+001 991009312229705501
+005 20211215173813.0
+008 080311s1472    gw            00| | lat  
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/09.08.2017/B404/faf    
+035      |a (swissbib)056799349-41slsp_network    
+035      |a 056799349    |9 ExL    
+035      |a (IDSBB)004446371DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991009312229705501    
+035      |a (41SLSP_UBE)99116871138905511    |9 (41SLSP_UBE)99116871138905511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+100 0    |a Burchard    |c von Ursberg    |d 1177-1230    |0 (DE-588)11851749X    |e Verfasser    |4 aut    
+240 1 0  |a Chronicon    
+245 1 0  |a Hystoria Friderici imperatoris magni. hui[us] nomi[ni]s primi ducis sueuorum et pare[n]tele sue    
+246 1    |i Titel gemäss ISTC    |a Historia Friderici Imperatoris, sive Chronicon    
+246 1    |i Titel in normalisierter Form    |a Hystoria Friderici imperatoris magni, huius nominis primi ducis Suevorum et parentele sue    
+264   1  |a [Augsburg]    |b [Klosterdruckerei St. Ulrich und Afra]    |c [1472?]    
+300      |a 1 ungezähltes Blatt, 88 ungezählte Seiten, 1 ungezähltes Blatt    |c 31 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Verkürzte Fassung mit zusätzlichem Material zur Geschichte der Staufer    
+500      |a Keine Titelseite, nur Kopftitel    
+500      |a Impressum gemäss BSB-Ink, GW und ISTC    
+500      |a Signaturformel: [a–d¹⁰, e⁶]    
+500      |a Die Blätter [a₁] und [e₆] sind unbedruckt    
+510 4    |a BSB-Ink    |c B-985    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_B-985.html    
+510 4    |a GW    |c 05737    |u http://www.gesamtkatalogderwiegendrucke.de/docs/GW05737.htm    
+510 4    |a ISTC    |c ib01285000    |u http://data.cerl.org/istc/ib01285000    
+530      |a Digitalisat (Exemplar der Bayerischen Staatsbibliothek München)    |u http://daten.digitale-sammlungen.de/0003/bsb00033644/images    
+561      |a Aus dem Besitz des Dominikanerklosters Bern    
+563      |a Einbandbeschreibung: Ganzbezogener Ledereinband auf Holzdeckeln (braun, Kalb) mit Schliessen sowie Spuren einer Kettenöse am oberen Rand des Rückdeckels, Ornamentstempel- und Linien-Blindprägung auf beiden Deckeln, handschriftlicher Rückentitel in Tinte: "Alexander Magnus incerti au[...] 1486 Argentin", auf Vorderdeckel geklebtes Pergamentstück mit handschriftlichem Titel in Tinte: "Lege[n]de quo[run]d[am] s[an]cto[rum]. Historia troya[n]a. Historia alexa[n]dri magni. Cu[m] historia friderici Imp[er]atoris primi"    
+563      |a Vorsätze: Vorne und hinten mit einem halben Blatt Pergamentmakulatur (Biblia latina: Vulgata, recensio Alcuini, frühes 9. Jahrhundert)    
+563      |a Masse Einband: 30.3 x 22 x 6 cm    
+563      |a Zustand Einband: Oberer Schliessenriemen ergänzt, Rostschaden an ehemaliger Stelle für Kettenöse, Bruch im Einbandleder entlang der Deckelkante im Falz    
+563      |a Gemäss Johann Lindt (Berner Einbände, Buchbinder und Buchdrucker, Bern 1969) Einband des Berner Dominikanermönchs Johannes Vatter    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 46 von 46 Blättern, vereinzelt Foliierung in Graphit, erste Initiale in brauner Tinte gezeichnet, sonst rot ausgezeichnete Initialen, grösstenteils Rubrizierung    
+590      |a Zustand Buchblock: Verbräunungen von früheren Ledereinband-Einschlägen, Rissschliessung und Fehlstellenergänzung an Blatt [e₆]    
+590      |a Wenige handschriftliche Annotationen und Unterstreichungen in Tinte    
+590      |a Auf Blatt [a₁] recto handschriftlich: "Romani Imp[er]ij decus a[m]plu[m] tertius otto / Ossa i[n] aq[uis]gran[n]i hic visc[er]a clausa tenet" (Augsburger Grabinschrift auf Otto III.)    
+590      |a Zusammengebunden mit 3 weiteren Drucken in Sammelband    
+590      |a Historische Signatur auf vorderem Spiegel: "Hist: Cod: 123.", Zahl korrigiert zu "5."    
+590      |a Frühere Signatur: Inc 99    
+700 1    |a Vatter, Johannes    |d 1470-1509    |0 (DE-588)1114426377    |e Buchbinder    |4 bnd    
+700 0 2  |a Burchard    |c von Ursberg    |d 1177-1230    |t Chronicon    |0 (DE-588)4224282-4    
+710 2    |a Klosterdruckerei St. Ulrich und Afra    |g Augsburg    |0 (DE-588)6145903-3    |e Drucker    |4 prt    
+710 2    |a Dominikanerkloster Bern    |0 (DE-588)4302674-6    |e Früherer Eigentümer    |4 fmo    
+751      |a Augsburg    |0 (DE-588)4003614-5    
+852 4    |b B404    |c 404U3    |j MUE Inc I 20 : 4    |9 (41SLSP_UBE)99116871138905511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 3 weiteren Drucken in Sammelband    |p 12    |j MUE Inc I 20 : 4    |b B404    |9 (41SLSP_UBE)99116871138905511    
+986      |a (41SLSP_UBE)99116871138905511    |9 (41SLSP_UBE)99116871138905511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116871138905511    
+990      |f medeabern    |9 local    |9 (41SLSP_UBE)99116871138905511    
+991      |a MedeaB400: 00141098    |5 IZ UBE/rekat-ubbe    |9 local    |9 (41SLSP_UBE)99116871138905511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

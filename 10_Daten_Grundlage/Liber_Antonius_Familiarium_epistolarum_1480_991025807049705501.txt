@@ -1,0 +1,175 @@
+﻿<-1-1-START->
+Liber, Antonius
+<-1-1-STOP->
+
+<-1-2-START->
+Familiarium epistolarum compendium
+<-1-2-STOP->
+
+<-2-1-START->
+<-500-START->Die Sammlung enthält Briefe von Marcus Tullius Cicero, Sophronius Eusebius Hieronymus, Quintus Aurelius Symmachus, Bernardus Claraevallensis, Antonio Beccadelli, Lucius Annaeus Seneca, Guinifortus Barzizius, Gasparinus Barzizius, Pius II., Franciscus Philelphus, Gaius Sollius Apollinaris Sidonius, Thomas von Aquin, Gian Francesco Poggio Bracciolini, Leonardo Bruni, aus den Phalaridis epistulae, Coluccio Salutati, Rudolf von Langen, Rudolf Agricola und Antonius Liber<-500-STOP->
+<-500-START->Mit Widmungsbrief Libers an Arnold von Hildesheim<-500-STOP->
+<-2-1-STOP->
+
+<-3-1-START->
+[Köln: Johann Koelhoff der Ältere, um 1480?]
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 189 ungezählte Seiten; 30 cm (2°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_L-138.html<-L-5-STOP-><-VI-5-START->BSB-Ink L-138<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M18129.htm<-L-5-STOP-><-VI-5-START->GW M18129<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/il00195950<-L-5-STOP-><-VI-5-START->ISTC il00195950<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+96 von 96 Blättern, teilweise rot, blau, grün oder mit Tinte ausgezeichnete Initialen, teilweise Rubrizierung
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit mittiger Langriemenschliesse sowie Spuren einer Kettenöse am oberen Rand des Rückdeckels
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Kloster Thorberg
+<-8-1-STOP->
+
+<-9-1-START->
+Zusammengebunden mit 2 weiteren Drucken in Sammelband
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116680786505511<-L-11-STOP-><-VI-11-START->MUE Inc I 34 : 2<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991025807049705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Liber, Antonius<-P-STOP->
+<-P-START->Cicero, Marcus Tullius<-P-STOP->
+<-P-START->Hieronymus, Sophronius Eusebius<-P-STOP->
+<-P-START->Symmachus, Quintus Aurelius<-P-STOP->
+<-P-START->Bernard (Abt von Clairvaux)<-P-STOP->
+<-P-START->Panormita, Antonius<-P-STOP->
+<-P-START->Seneca, Lucius Annaeus (Iunior)<-P-STOP->
+<-P-START->Guiniforte Barzizza<-P-STOP->
+<-P-START->Gasparino Barzizza<-P-STOP->
+<-P-START->Pius II. (Papst)<-P-STOP->
+<-P-START->Philelphus, Franciscus<-P-STOP->
+<-P-START->Sidonius, Gaius Sollius Apollinaris<-P-STOP->
+<-P-START->Thomas von Aquin<-P-STOP->
+<-P-START->Poggio Bracciolini, Gian Francesco<-P-STOP->
+<-P-START->Bruni, Leonardo<-P-STOP->
+<-P-START->Salutati, Coluccio<-P-STOP->
+<-P-START->Langen, Rudolf von<-P-STOP->
+<-P-START->Agricola, Rudolf<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Köln<-O-STOP->
+<-P-START->Koelhoff, Johann<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Kloster Thorberg<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991025807049705501<-DOI-STOP->
+<-SIGN-START->MUE Inc I 34 : 2<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 06548nam a2200805 c 4500
+001 991025807049705501
+005 20221220115636.0
+008 170822s1480    gw |||||      00| ||lat d
+019      |a Historischer Bestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von weiteren Exemplaren    |5 IDSBB/22.08.2017/B404/faf    
+035      |a (swissbib)072556536-41slsp_network    
+035      |a 072556536    |9 ExL    
+035      |a (IDSBB)006724757DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991025807049705501    
+035      |a (41SLSP_UBE)99116680786505511    |9 (41SLSP_UBE)99116680786505511    
+040      |a SzZuIDS BS/BE B404    |b ger    |e rda    |d CH-ZuSLS    
+100 1    |a Liber, Antonius    |d 1450-1508    |0 (DE-588)104112050    |e Verfasser    |4 aut    
+240 1 0  |a Familiarium epistolarum compendium    
+245 1 0  |a Familiarium Epistola[rum] compendiolu[m] p[er] Anthonium Liberum de Susato taliter qualiter collectum explicit    
+246 1    |i Incipit    |a Familiariu[m] epistola[rum] Co[m]pendiu[m] ex diuersis hinc inde Probatissimis autoribus p[ro] co[m]muniu[m] studencium p[ro]fectu futuro[rum]q[ue] Rhetorum ac Orato[rum] eruditione Per discretu[m] ac eruditu[m] vi[rum] Anthoniu[m] Liberum zusatensem recollectu[m] Feliciter incipit    
+246 1    |i Incipit in normalisierter Form    |a Familiarium epistolarum compendium ex diversis hinc inde probatissimis autoribus pro communium studencium profectu futurorumque rhetorum ac oratorum eruditione per discretum ac eruditum virum Anthonium Liberum Zusatensem recollectum feliciter incipit    
+246 1    |i Titel gemäss GW und ISTC    |a Familiarium epistolarum compendium ex diversis auctoribus collectum    
+264   1  |a [Köln]    |b [Johann Koelhoff der Ältere]    |c [um 1480?]    
+300      |a 1 ungezähltes Blatt, 189 ungezählte Seiten    |c 30 cm (2°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Die Sammlung enthält Briefe von Marcus Tullius Cicero, Sophronius Eusebius Hieronymus, Quintus Aurelius Symmachus, Bernardus Claraevallensis, Antonio Beccadelli, Lucius Annaeus Seneca, Guinifortus Barzizius, Gasparinus Barzizius, Pius II., Franciscus Philelphus, Gaius Sollius Apollinaris Sidonius, Thomas von Aquin, Gian Francesco Poggio Bracciolini, Leonardo Bruni, aus den Phalaridis epistulae, Coluccio Salutati, Rudolf von Langen, Rudolf Agricola und Antonius Liber    
+500      |a Mit Widmungsbrief Libers an Arnold von Hildesheim    
+500      |a Keine Titelseite, Titel gemäss Explizit    
+500      |a Impressum gemäss BSB-Ink    
+500      |a Signaturformel: a–e⁸, f⁶, g–k⁸, J⁸, M¹⁰    
+500      |a Blatt a₁ ist unbedruckt    
+510 4    |a BSB-Ink    |c L-138    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_L-138.html    
+510 4    |a GW    |c M18129    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M18129.htm    
+510 4    |a ISTC    |c il00195950    |u http://data.cerl.org/istc/il00195950    
+530      |a Digitalisat (Exemplar der Universitäts- und Landesbibliothek Düsseldorf)    |u http://digital.ub.uni-duesseldorf.de/content/titleinfo/1354170    
+561      |a Handschriftlicher Besitzvermerk auf vorderem Spiegel: "Liber cartusien[sium] in portamo[n]te vvl[gariter] torberg"    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Holzdeckeln (chamois, Schwein) mit mittiger Langriemenschliesse sowie Spuren einer Kettenöse am oberen Rand des Rückdeckels, Linien-Blindprägung auf beiden Deckeln, auf Rücken rote Thorberg-Signatur: "N XLII", dazu mit Tinte: "Boetius d[e] co[nsolati]io[n]e phie. Co[m]pedium epi. Qu[esti]o[n]es porphirij"    
+563      |a Vorsätze: Vorne mit einem und hinten ohne fliegendes Blatt    
+563      |a Masse Einband: 29.1 x 21 x 6.3 cm    
+563      |a Zustand Einband: Loch mit starken Rostspuren im Rückdeckel von vormaliger Ankettung, Schäden am Einbandleder, beide Holzdeckel ergänzt, Schliesse vollständig ergänzt, Thorberg-Signatur am Rücken nachgezeichnet, beide Vorsätze im Falz mit Japanpapier verstärkt    
+563      |a Detaillierte Beschreibung in: Lindt/Mülinen: Inkunabel-Einbandkatalog, 1960-1963    
+590      |a Buchblockbeschreibung: 96 von 96 Blättern, Lagen teilweise auf ersten Blättern in Tinte durchnummeriert, vorgesehene Stellen für Initialen teilweise frei gelassen, teilweise rot, blau, grün oder mit Tinte ausgezeichnete Initialen, teilweise Rubrizierung    
+590      |a Zustand Buchblock: Abrieb an blauem und grünem Farbauftrag    
+590      |a Handschriftliche Annotationen, An- und Unterstreichungen in Tinte    
+590      |a Zusammengebunden mit 2 weiteren Drucken in Sammelband    
+590      |a Historische Signatur auf Blatt []₂ recto des ersten Drucks im Sammelband: "Phil 174"    
+590      |a Frühere Signatur: Inc 58    
+700 1    |a Cicero, Marcus Tullius    |d v106-v43    |0 (DE-588)118520814    |e Verfasser    |4 aut    
+700 1    |a Hieronymus, Sophronius Eusebius    |d 345-420    |0 (DE-588)118550853    |e Verfasser    |4 aut    
+700 1    |a Symmachus, Quintus Aurelius    |d ca. 340-402    |0 (DE-588)118758101    |e Verfasser    |4 aut    
+700 0    |a Bernard    |c Clairvaux, Abt, Heiliger    |d 1090-1153    |0 (DE-588)118509810    |e Verfasser    |4 aut    
+700 1    |a Panormita, Antonius    |d 1394-1471    |0 (DE-588)11884816X    |e Verfasser    |4 aut    
+700 1    |a Seneca, Lucius Annaeus    |c Philosophus    |d -65    |0 (DE-588)118613200    |e Verfasser    |4 aut    
+700 0    |a Guiniforte    |c Barzizza    |d 1406-1463    |0 (DE-588)10096527X    |e Verfasser    |4 aut    
+700 0    |a Gasparino    |c Barzizza    |d 1360-1431    |0 (DE-588)100942091    |e Verfasser    |4 aut    
+700 0    |a Pius    |b II.    |c Papst    |d 1405-1464    |0 (DE-588)118594702    |e Verfasser    |4 aut    
+700 1    |a Philelphus, Franciscus    |d 1398-1481    |0 (DE-588)118687182    |e Verfasser    |4 aut    
+700 1    |a Sidonius, Gaius Sollius Apollinaris    |d 431-487    |0 (DE-588)118797069    |e Verfasser    |4 aut    
+700 0    |a Thomas    |c von Aquin, Heiliger    |d 1225-1274    |0 (DE-588)118622110    |e Verfasser    |4 aut    
+700 1    |a Poggio Bracciolini, Gian Francesco    |d 1380-1459    |0 (DE-588)118741292    |e Verfasser    |4 aut    
+700 1    |a Bruni, Leonardo    |d 1370-1444    |0 (DE-588)118516132    |e Verfasser    |4 aut    
+700 1    |a Salutati, Coluccio    |d 1331-1406    |0 (DE-588)118605178    |e Verfasser    |4 aut    
+700 1    |a Langen, Rudolf <<von>>    |d 1438-1519    |0 (DE-588)102157774    |e Verfasser    |4 aut    
+700 1    |a Agricola, Rudolf    |d 1444-1485    |0 (DE-588)118501089    |e Verfasser    |4 aut    
+700 1    |a Liber, Antonius    |d 1450-1508    |0 (DE-588)104112050    |e Herausgeber    |4 edt    
+700 1    |a Koelhoff, Johann    |d -1493    |0 (DE-588)102507554    |e Drucker    |4 prt    
+700 1 2  |a Liber, Antonius    |d 1450-1508    |t Familiarium epistolarum compendium    |0 (DE-588)1138655244    
+710 2    |a Kloster Thorberg    |0 (DE-588)7725716-9    |e Früherer Eigentümer    |4 fmo    
+751      |a Köln    |0 (DE-588)4031483-2    
+852 4    |b B404    |c 404U3    |j MUE Inc I 34 : 2    |9 (41SLSP_UBE)99116680786505511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |z Zusammengebunden mit 2 weiteren Drucken in Sammelband    |p 12    |j MUE Inc I 34 : 2    |b B404    |9 (41SLSP_UBE)99116680786505511    
+986      |a (41SLSP_UBE)99116680786505511    |9 (41SLSP_UBE)99116680786505511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116680786505511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+

@@ -1,0 +1,151 @@
+﻿<-1-1-START->
+Thomas von Kempen
+<-1-1-STOP->
+
+<-1-2-START->
+De imitatione Christi [deutsch]
+<-1-2-STOP->
+
+<-2-1-START->
+<-2-1-STOP->
+
+<-3-1-START->
+Augsburg: Anton Sorg, 20.11.1486
+<-3-1-STOP->
+
+<-4-1-START->
+1 ungezähltes Blatt, 392 ungezählte Seiten, 1 ungezähltes Blatt: Holzschnittinitialen; 21 cm (4°)
+<-4-1-STOP->
+
+<-5-1-START->
+<-L-5-START->http://inkunabeln.digitale-sammlungen.de/Ausgabe_T-183.html<-L-5-STOP-><-VI-5-START->BSB-Ink T-183<-VI-5-STOP->; <-L-5-START->http://www.gesamtkatalogderwiegendrucke.de/docs/M46830.htm<-L-5-STOP-><-VI-5-START->GW M46830<-VI-5-STOP->; <-L-5-START->http://data.cerl.org/istc/ii00040000<-L-5-STOP-><-VI-5-START->ISTC ii00040000<-VI-5-STOP->
+<-5-1-STOP->
+
+<-6-1-START->
+198 von 198 Blättern
+<-6-1-STOP->
+
+<-7-1-START->
+Halbbezogener Ledereinband auf Holzdeckeln (braun) mit Spuren einer vormaligen mittigen Schliesse, Ornamentstempel-Goldprägung am Einbandleder beider Deckel
+<-7-1-STOP->
+
+<-8-1-START->
+Provenienz: Hans Pangartner; Franz Anton Veith; Emanuel Mai; Werner Zesiger
+<-8-1-STOP->
+
+<-9-1-START->
+<-9-1-STOP->
+
+<-10-1-START->
+<-10-1-STOP->
+
+<-11-1-START->
+Signatur: <-L-11-START->https://swisscollections.ch/Record/99116759143705511<-L-11-STOP-><-VI-11-START->MUE Zesk 29<-VI-11-STOP->
+<-11-1-STOP->
+
+<-12-1-START->
+991006212459705501
+<-12-1-STOP->
+
+
+
+<-REGISTER-1-START->
+<-P-START->Thomas von Kempen<-P-STOP->
+<-REGISTER-1-STOP->
+
+<-REGISTER-2-START->
+<-O-START->Augsburg<-O-STOP->
+<-P-START->Sorg, Anton<-P-STOP->
+<-REGISTER-2-STOP->
+
+<-REGISTER-3-START->
+<-REGISTER-3-STOP->
+
+<-REGISTER-4-START->
+<-P-START->Pangartner, Hans<-P-STOP->
+<-P-START->Veith, Franz Anton<-P-STOP->
+<-P-START->Mai, Emanuel<-P-STOP->
+<-P-START->Zesiger, Werner<-P-STOP->
+<-REGISTER-4-STOP->
+
+
+
+<-REGISTER-REF-START->
+<-DOI-START->https://doi.org/10.36950/991006212459705501<-DOI-STOP->
+<-SIGN-START->MUE Zesk 29<-SIGN-STOP->
+<-Nr-START->LAUFNUMMER<-Nr-STOP->
+<-REGISTER-REF-STOP->
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-START->
+LEADER 05664nam a2200721 c 4500
+001 991006212459705501
+005 20211215161615.0
+008 950711s1486    gw            00| | ger d
+019      |a Altbestand. Exemplarspezifische Aufnahme, gesperrt für Veränderungen und das Anhängen von Signaturen.    |5 IDSBB/21.03.1995/bestub/mes    
+035      |a (swissbib)028136659-41slsp_network    
+035      |a 028136659    |9 ExL    
+035      |a (IDSBB)001127124DSV01    
+035      |a (EXLNZ-41SLSP_NETWORK)991006212459705501    
+035      |a (41SLSP_UBE)99116759143705511    |9 (41SLSP_UBE)99116759143705511    
+040      |a SzZuIDS BS/BE B400    |b ger    |e rda    |d CH-ZuSLS    
+041 1    |a ger    |h lat    
+072   7  |a th    |2 SzZuIDS BS/BE    
+100 0    |a Thomas    |c von Kempen    |d 1379-1471    |0 (DE-588)118642766    |e Verfasser    |4 aut    
+240 1 0  |a De imitatione Christi    
+245 1 0  |a <<Ein>> ware nachuolgung Cristi    
+246 1    |i Titel in normalisierter Form    |a <<Ein>> ware nachvolgung Cristi    
+246 1    |i Titel in moderner Orthografie    |a <<Ein>> wahre Nachfolgung Christi    
+246 1    |i Incipit    |a Hie vahet an daz erst teil vo[n] der nachuolgung cristi. Vnd vo[n] verschmächung der welt    
+246 1    |i Incipit in normalisierter Form    |a Hie vahet an daz erst Teil von der Nachvolgung Cristi und von Verschmächung der Welt    
+246 1    |i Incipit in moderner Orthografie    |a Hie fahet an das erst Teil von der Nachfolgung Christi und von Verschmähung der Welt    
+246 1    |i Kolophon    |a Hie endet sich das lobliche bůche genannt Die ware nachuolgung Cristi    
+246 1    |i Kolophon in normalisierter Form    |a Hie endet sich das lobliche buche genannt Die ware nachvolgung Cristi    
+246 1    |i Kolophon in moderner Orthografie    |a Hie endet sich das lobliche Buche genannt Die wahre Nachfolgung Christi    
+246 1    |i Titel gemäss BSB-Ink und ISTC    |a Imitatio Christi    
+264   1  |a Gedrucket vnnd vollendet in der keiserlichen statt Augspurg    |b von Anthonio Sorg    |c am montag nach sant Elizabethen tag Do man zalt nach der gepurt Cristi Tausent vierhundert vnd in dem sechßundachczigosten Jare [20.11.1486]    
+300      |a 1 ungezähltes Blatt, 392 ungezählte Seiten, 1 ungezähltes Blatt    |c 21 cm (4°)    
+336      |b txt    |2 rdacontent    
+337      |b n    |2 rdamedia    
+338      |b nc    |2 rdacarrier    
+500      |a Titel auf Blatt [*₁] verso    
+500      |a Verfasser: Thomas von Kempen    
+500      |a Impressum gemäss Kolophon (Blatt [A₇] recto)    
+500      |a Signaturformel: [*⁶, a–z⁸, A⁸]    
+500      |a Blatt [*₁] recto und [A₇] verso unbedruckt; Blatt [A₈] unbedruckt    
+500      |a Holzschnittinitialen    
+510 4    |a BSB-Ink    |c T-183    |u http://inkunabeln.digitale-sammlungen.de/Ausgabe_T-183.html    
+510 4    |a GW    |c M46830    |u http://www.gesamtkatalogderwiegendrucke.de/docs/M46830.htm    
+510 4    |a ISTC    |c ii00040000    |u http://data.cerl.org/istc/ii00040000    
+530      |a Digitalisat (Exemplar der Herzog August Bibliothek Wolfenbüttel)    |u http://diglib.hab.de/inkunabeln/189-39-theol/start.htm    
+561      |a Handschriftlicher Besitzervermerk auf Blatt [*₁] recto: "das püchlin ist hannsen pangartner[?]" (15./16. Jahrhundert)    
+561      |a Handschriftlicher Besitzvermerk auf Blatt [A₈] recto: "Ex Biblioth. Veithiana, adp. Cl. Br. 1799." (mit Preisangabe), das ist die Bibliothek von Franz Anton Veith, 1731-1796, Buchhändler in Augsburg    
+561      |a Schildchen auf vorderem Innendeckel: "Buchhandlung & Antiquarium von Emanuel Mai in Berlin ..."    
+561      |a Stempel auf vorderem fliegenden Blatt: "Dr. Zesiger"    
+563      |a Einbandbeschreibung: Halbbezogener Ledereinband auf Holzdeckeln (braun) mit Spuren einer vormaligen mittigen Schliesse, Ornamentstempel-Goldprägung am Einbandleder beider Deckel    
+563      |a Vorsätze: Vorne und hinten mit einem fliegenden Blatt    
+563      |a Masse: 20.5 x 15.3 x 6.1 cm    
+563      |a Zustand Einband: Lederrücken später hinzugefügt, Schliesse komplett fehlend, Pergamentverstärkung aussen an erster und letzter Lage dienen als Ansatzfalz: vorne später ergänzt und an zweiter Lage [a] vorgeklebt, hinten aus Manuskriptmakulatur teilweise abgerissen    
+590      |a Buchblockbeschreibung: 198 von 198 Blättern, handschriftliche Foliierung in Graphit, jeweils oben auf der Recto-Seite, handschriftliche Lagenzählung (Nummerierung) in Graphit, jeweils auf der ersten Recto-Seite jeder Lage recht unten; Papierfalz an erstem und letztem Blatt der ersten Lage [*] als Falzverstärkung oder Verbindungstechnik der beiden Blätter; keine Rubrizierung    
+590      |a Zustand Buchblock: Starke Feuchtigkeitsränder und Risse (an erstem Blatt mit Papierüberklebung) in der ersten Lage, erste Lage [*] mit neuerem Heftfaden, in zweiter Lage [a] zusätzlicher Heftfaden einer Nachheftung, Heftung in letzter Lage gelöst    
+590      |a Signaturformel der handschriftlichen Lagensignatur: 1⁶, 2-25⁸    
+590      |a Auf Blatt [*₁] recto, handschriftlicher Titelvermerk in Tinte (vermutlich dieselbe Hand wie der Besitzvermerk "Ex Biblioth. Veithiana"): "Thomae à Kempis Libri IV. de Imitatione Christi. germanicè. Augustae per Anton. Sorg. 1486."    
+700 0 2  |a Thomas    |c von Kempen    |d 1379-1471    |t De imitatione Christi    |0 (DE-588)4324472-5    
+700 1    |a Sorg, Anton    |d 1430-1493    |0 (DE-588)12146556X    |e Drucker    |4 prt    
+700 1    |a Pangartner, Hans    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Veith, Franz Anton    |d 1731-1796    |0 (DE-588)117368490    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Mai, Emanuel    |d 1812-1897    |0 (DE-588)116680628    |e Früherer Eigentümer    |4 fmo    
+700 1    |a Zesiger, Werner    |d 1902-1958    |0 (DE-588)121027392    |e Früherer Eigentümer    |4 fmo    
+751      |a Augsburg    |0 (DE-588)4003614-5    
+852 4    |b B404    |c 404U3    |j MUE Zesk 29    |9 (41SLSP_UBE)99116759143705511    
+900      |a IDSIxunikat    
+900      |a NOMERGEALEX    
+949      |c 404U3    |p 12    |j MUE Zesk 29    |b B404    |9 (41SLSP_UBE)99116759143705511    
+986      |a (41SLSP_UBE)99116759143705511    |9 (41SLSP_UBE)99116759143705511    
+990      |c be-ink2    |9 local    |9 (41SLSP_UBE)99116759143705511    
+
+
+
+<-ORIGINAL-MARC-DATENSATZ-SWISSCOLLECTIONS-STOP->
+
