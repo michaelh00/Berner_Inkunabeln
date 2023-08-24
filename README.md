@@ -7,7 +7,13 @@ Enthält den Code für den automatisierten Download der Inkunabel-Metadaten sowi
 ## 02_Code_Erstellung_Rohdatensätze
 Enthält den Code für die automatisierte Zusammenführung der heruntergeladenen Inkunabel-Metadaten zum rohen Inkunabel-Datensatz. Nach einer händischen Bearbeitung stellt der mit diesem Code generierte Datensatz die Datengrundlage des Inkunabelkatalogs dar (siehe Ordner *10_Daten_Grundlage*)
 
-## 03_Code_Nachbearbeitung
+## 03_Code_Datennachbearbeitung
+Enthält den Code für die automatisierte Nachbearbeitung der händisch bearbeiteten Inkunabel-Datensätze (siehe Ordner *10_Daten_Grundlage*).
+Folgende Nachbearbeitungsschritte werden durchgeführt:  
+- Ersetzen von Stoppzeichen durch Guillemets
+- Einfügen fehlender L5-Tags
+- Einfügen der jeweiligen Inkunabelnummer
+- Einfügen der Legenden- und Bildinformationen
 
 ## 04_Code_Überführung_in_Ausgabeformate
 
