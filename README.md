@@ -16,11 +16,12 @@ Folgende Nachbearbeitungsschritte werden durchgeführt:
 - Einfügen der jeweiligen Inkunabelnummer
 - Einfügen der Legenden- und Bildinformationen
 
-## 04_Code_Überführung_in_Ausgabeformate
+## 04_Code_Überführung_Daten_in_Ausgabeformate
+Enthält Scripte für die Konvertierung der nachbearbeiteten Inkunabel-Datensätze in die Ausgabeformate HTML und XML.
 
 ## 05_Code_Erstellung_Register
 
-## 06_Code_Datenzusammenstellung_BOP
+## 06_Code_Datenformat_Upload_BOP
 
 ## 10_Daten_Grundlage
 Enthält die manuell bearbeiteten Daten nach dem automatisierten Download der Inkunabel-Metadaten (Code im Ordner *01_Code_Download_Metadaten_Inkunabeln*) und der automatisierten Erstellung der Inkunabel-Rohdatensätze (Code im Ordner *02_Code_Erstellung_Rohdatensätze*). Die hier vorhandenen Textfiles stellen die Datengrundlage des Inkunabelkatalogs dar.
