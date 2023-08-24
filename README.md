@@ -18,6 +18,9 @@ Enthält den Code für die automatisierte Zusammenführung der heruntergeladenen
 ## 10_Daten_Grundlage
 Enthält die manuell bearbeiteten Daten nach dem automatisierten Download der Inkunabel-Metadaten (Code im Ordner *01_Code_Download_Metadaten_Inkunabeln*) und der automatisierten Erstellung der Inkunabel-Rohdatensätze (Code im Ordner *02_Code_Erstellung_Rohdatensätze*). Die hier vorhandenen Textfiles stellen die Datengrundlage des Inkunabelkatalogs dar.
 
+## 11_Daten_Legenden
+Enthält die Legendeninformationen der in den Inkunabeldatensätzen eingebundenen Bildern.
+
 ## Tool_Webseite
 Enthält den Code für eine Webseitenversion des Katalogs, an die sich das Endprodukt (der Berner Inkunabelkatalog als BOP-Publikation) orientiert.
 Die Webseite kann unter folgendem Link konsultiert werden:  
