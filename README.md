@@ -18,9 +18,9 @@ Folgende Nachbearbeitungsschritte werden durchgeführt:
 
 ## 04_Code_Überführung_Daten_in_Ausgabeformate
 Enthält Scripte für die Konvertierung der nachbearbeiteten Inkunabel-Datensätze in die Ausgabeformate HTML und XML.  
-- convert_to_XML_single: überführt die nachbearbeiteten Inkunabel-Datensätze in das XML-Format. Pro Inkunabel-Datensatz wird ein XML-File erstellt.  
-- convert_to_HTML_single: überführt die nachbearbeiteten Inkunabel-Datensätze in das HTML-Format. Pro Inkunabel-Datensatz wird ein HTML-File erstellt.  
-- concat_single_xmls: konkateniert die einzelnen XML-Files zu einem einzigen XML-File. Dieses File wird u. a. zur Erstellung des Inkunabelkatalogs im PDF-Format benötigt.  
+- *convert_to_XML_single*: überführt die nachbearbeiteten Inkunabel-Datensätze in das XML-Format. Pro Inkunabel-Datensatz wird ein XML-File erstellt.  
+- *convert_to_HTML_single*: überführt die nachbearbeiteten Inkunabel-Datensätze in das HTML-Format. Pro Inkunabel-Datensatz wird ein HTML-File erstellt.  
+- *concat_single_xmls*: konkateniert die einzelnen XML-Files zu einem einzigen XML-File. Dieses File wird u. a. zur Erstellung des Inkunabelkatalogs im PDF-Format benötigt.  
 
 ## 05_Code_Erstellung_Register
 
