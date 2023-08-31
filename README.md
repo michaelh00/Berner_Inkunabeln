@@ -25,6 +25,7 @@ Enthält Scripte für die Konvertierung der nachbearbeiteten Inkunabel-Datensät
 ## 05_Code_Erstellung_Register
 
 ## 06_Code_Datenformat_Upload_BOP
+Enthält den Code für die Überführung der HTML-Inkunabel-Datensätze in eine base64-Codierung und für den Einbau dieser base64-codierten Datensätze in ein XML-Template-File. Das mit diesem Code generierte XML-Template-File erlaubt den automatiserten Upload der Inkunabel-Datensätze in BOP.  
 
 ## 10_Daten_Grundlage
 Enthält die manuell bearbeiteten Daten nach dem automatisierten Download der Inkunabel-Metadaten (Code im Ordner *01_Code_Download_Metadaten_Inkunabeln*) und der automatisierten Erstellung der Inkunabel-Rohdatensätze (Code im Ordner *02_Code_Erstellung_Rohdatensätze*). Die hier vorhandenen Textfiles stellen die Datengrundlage des Inkunabelkatalogs dar.
