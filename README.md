@@ -23,9 +23,10 @@ Enthält Scripte für die Konvertierung der nachbearbeiteten Inkunabel-Datensät
 - *concat_single_xmls*: konkateniert die einzelnen XML-Files zu einem einzigen XML-File. Dieses File wird u. a. zur Erstellung des Inkunabelkatalogs im PDF-Format benötigt.  
 
 ## 05_Code_Erstellung_Register
+Enthält den Code für die Erstellung der 4 Register des Inkunablekatalogs (Autorinnenn und Autoren (Register 1), Drucker nach Orten (Register 2), Buchbinder (Register 3) und Vorbesitzer (Register 4)). Die Register werden aus den nachbearbeiteten Inkunabel-Datensätzen generiert und in die Formate HTML und XML ausgegeben.
 
 ## 06_Code_Datenformat_Upload_BOP
-Enthält den Code für die Überführung der HTML-Inkunabel-Datensätze in eine base64-Codierung und für den Einbau dieser base64-codierten Datensätze in ein XML-Template-File. Das mit diesem Code generierte XML-Template-File erlaubt den automatiserten Upload der Inkunabel-Datensätze in BOP.  
+Enthält den Code für die Codierung der HTML-Inkunabel-Datensätze in ein base64-Format und für den Einbau der base64-codierten Datensätze in ein XML-Template-File. Das mit diesem Code generierte XML-Template-File erlaubt den automatiserten Upload der Inkunabel-Datensätze in BOP.  
 
 ## 10_Daten_Grundlage
 Enthält die manuell bearbeiteten Daten nach dem automatisierten Download der Inkunabel-Metadaten (Code im Ordner *01_Code_Download_Metadaten_Inkunabeln*) und der automatisierten Erstellung der Inkunabel-Rohdatensätze (Code im Ordner *02_Code_Erstellung_Rohdatensätze*). Die hier vorhandenen Textfiles stellen die Datengrundlage des Inkunabelkatalogs dar.
